@@ -36,12 +36,12 @@ env/
 
 # Project Specific
 .env
-runs/
-data/output/
-artifacts/
-*.log
-checkpoint.json
-enriched_schemes.csv
+# runs/             <-- User requested inclusion
+# data/output/      <-- User requested inclusion
+# artifacts/        <-- User requested inclusion
+# *.log             <-- User requested inclusion
+# checkpoint.json    <-- User requested inclusion
+# enriched_schemes.csv <-- User requested inclusion
 
 # Testing
 .pytest_cache/

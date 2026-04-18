@@ -1,0 +1,92 @@
+2026-04-18 17:03:34 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   INFOU SCHEME INTELLIGENCE PIPELINE
+2026-04-18 17:03:34 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Python        : 3.14.3
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Input CSV     : data\input\sample_schemes.csv
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Run Directory : runs\run_20260418_1703
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Log File      : runs\run_20260418_1703\pipeline.log
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Model         : meta/llama-3.3-70b-instruct
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Workers       : 2
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Headless      : True
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Images Off    : True
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   Max Pages     : 30/scheme
+2026-04-18 17:03:34 | INFO     | scheme_scraper |   NVIDIA Key    : SET (nvapi-n3...)
+2026-04-18 17:03:34 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:03:34 | INFO     | scheme_scraper | Pipeline start: 5 total, 5 pending, 2 workers
+2026-04-18 17:03:35 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: meta/llama-3.3-70b-instruct | Base: https://integrate.api.nvidia.com/v1
+2026-04-18 17:03:35 | INFO     | scheme_scraper | >> Starting: Startup India Initiative [row-1]
+2026-04-18 17:03:35 | INFO     | scheme_scraper | >> Starting: Startup India Seed Fund Scheme (SISFS) [row-2]
+2026-04-18 17:03:37 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-04-18 17:03:38 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-04-18 17:04:35 | INFO     | scheme_scraper | Crawl complete for 'Startup India Seed Fund Scheme (SISFS)': 9 pages, 7 docs, 1 errors, 0 skipped
+2026-04-18 17:04:38 | INFO     | scheme_scraper |   Crawled 9 pages, 7 docs, evidence text: 119426 chars
+2026-04-18 17:04:57 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Seed Fund Scheme (SISFS)': confidence=high, objectives=3, docs=5
+2026-04-18 17:04:57 | INFO     | scheme_scraper | [DONE] Completed: Startup India Seed Fund Scheme (SISFS) | confidence=high | 82.3s
+2026-04-18 17:04:57 | INFO     | scheme_scraper | >> Starting: Credit Guarantee Scheme for Startups (CGSS) [row-3]
+2026-04-18 17:04:57 | INFO     | scheme_scraper | Progress: 1/5 (completed)
+2026-04-18 17:04:58 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-04-18 17:08:00 | INFO     | scheme_scraper | Crawl complete for 'Startup India Initiative': 30 pages, 10 docs, 1 errors, 0 skipped
+2026-04-18 17:08:07 | INFO     | scheme_scraper |   Crawled 30 pages, 10 docs, evidence text: 120000 chars
+2026-04-18 17:08:31 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Initiative': confidence=high, objectives=4, docs=5
+2026-04-18 17:08:31 | INFO     | scheme_scraper | [DONE] Completed: Startup India Initiative | confidence=high | 296.5s
+2026-04-18 17:08:31 | INFO     | scheme_scraper | >> Starting: Fund of Funds for Startups (FFS) [row-4]
+2026-04-18 17:08:31 | INFO     | scheme_scraper | Progress: 2/5 (completed)
+2026-04-18 17:08:33 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-04-18 17:09:35 | INFO     | scheme_scraper | Crawl complete for 'Credit Guarantee Scheme for Startups (CGSS)': 30 pages, 10 docs, 1 errors, 0 skipped
+2026-04-18 17:09:39 | INFO     | scheme_scraper |   Crawled 30 pages, 10 docs, evidence text: 120000 chars
+2026-04-18 17:09:59 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Credit Guarantee Scheme for Startups (CGSS)': confidence=high, objectives=3, docs=5
+2026-04-18 17:09:59 | INFO     | scheme_scraper | [DONE] Completed: Credit Guarantee Scheme for Startups (CGSS) | confidence=high | 301.4s
+2026-04-18 17:09:59 | INFO     | scheme_scraper | >> Starting: Startup India Fund of Funds 2.0 [row-5]
+2026-04-18 17:09:59 | INFO     | scheme_scraper | Progress: 3/5 (completed)
+2026-04-18 17:10:01 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-04-18 17:12:32 | INFO     | scheme_scraper | Crawl complete for 'Fund of Funds for Startups (FFS)': 30 pages, 10 docs, 1 errors, 0 skipped
+2026-04-18 17:12:36 | INFO     | scheme_scraper |   Crawled 30 pages, 10 docs, evidence text: 120000 chars
+2026-04-18 17:13:16 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Fund of Funds for Startups (FFS)': confidence=high, objectives=3, docs=5
+2026-04-18 17:13:16 | INFO     | scheme_scraper | [DONE] Completed: Fund of Funds for Startups (FFS) | confidence=high | 284.4s
+2026-04-18 17:13:16 | INFO     | scheme_scraper | Progress: 4/5 (completed)
+2026-04-18 17:13:48 | INFO     | scheme_scraper | Crawl complete for 'Startup India Fund of Funds 2.0': 30 pages, 10 docs, 1 errors, 0 skipped
+2026-04-18 17:13:51 | INFO     | scheme_scraper |   Crawled 30 pages, 10 docs, evidence text: 120000 chars
+2026-04-18 17:14:07 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Fund of Funds 2.0': confidence=high, objectives=3, docs=5
+2026-04-18 17:14:07 | INFO     | scheme_scraper | [DONE] Completed: Startup India Fund of Funds 2.0 | confidence=high | 248.7s
+2026-04-18 17:14:07 | INFO     | scheme_scraper | Progress: 5/5 (completed)
+2026-04-18 17:14:07 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:14:07 | INFO     | scheme_scraper |   PHASE 2: Generating supplementary Markdown reports...
+2026-04-18 17:14:07 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:14:08 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: meta/llama-3.3-70b-instruct | Base: https://integrate.api.nvidia.com/v1
+2026-04-18 17:14:08 | INFO     | scheme_scraper.pipeline.report_generator | Generating supplementary reports for 5 scheme(s)...
+2026-04-18 17:14:08 | INFO     | scheme_scraper.pipeline.report_generator |   Generating reports for: Startup India Initiative
+2026-04-18 17:14:38 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created pitch.md in 30.6s (3962 chars)
+2026-04-18 17:15:05 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created how_to_apply.md in 26.5s (3132 chars)
+2026-04-18 17:15:20 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created summary.md in 14.7s (3079 chars)
+2026-04-18 17:15:20 | INFO     | scheme_scraper.pipeline.report_generator |   Generating reports for: Startup India Seed Fund Scheme (SISFS)
+2026-04-18 17:15:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created pitch.md in 22.4s (3752 chars)
+2026-04-18 17:16:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created how_to_apply.md in 23.5s (5389 chars)
+2026-04-18 17:16:33 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created summary.md in 27.3s (4023 chars)
+2026-04-18 17:16:33 | INFO     | scheme_scraper.pipeline.report_generator |   Generating reports for: Credit Guarantee Scheme for Startups (CGSS)
+2026-04-18 17:16:48 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created pitch.md in 15.2s (2916 chars)
+2026-04-18 17:17:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created how_to_apply.md in 27.3s (4692 chars)
+2026-04-18 17:17:25 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created summary.md in 9.9s (2489 chars)
+2026-04-18 17:17:25 | INFO     | scheme_scraper.pipeline.report_generator |   Generating reports for: Fund of Funds for Startups (FFS)
+2026-04-18 17:17:39 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created pitch.md in 13.6s (3346 chars)
+2026-04-18 17:17:56 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created how_to_apply.md in 17.2s (3968 chars)
+2026-04-18 17:18:08 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created summary.md in 12.3s (2833 chars)
+2026-04-18 17:18:08 | INFO     | scheme_scraper.pipeline.report_generator |   Generating reports for: Startup India Fund of Funds 2.0
+2026-04-18 17:18:26 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created pitch.md in 17.2s (3224 chars)
+2026-04-18 17:18:39 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created how_to_apply.md in 13.6s (3272 chars)
+2026-04-18 17:18:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> Created summary.md in 10.2s (2606 chars)
+2026-04-18 17:18:49 | INFO     | scheme_scraper.pipeline.report_generator | All supplementary reports complete.
+2026-04-18 17:18:49 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   PIPELINE COMPLETE
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Total elapsed   : 915.2 seconds (15.3 minutes)
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Enriched CSV    : runs\run_20260418_1703\enriched_schemes.csv
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Artifacts       : runs\run_20260418_1703/artifacts/
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Full log        : runs\run_20260418_1703/pipeline.log
+2026-04-18 17:18:49 | INFO     | scheme_scraper | ============================================================
+2026-04-18 17:18:49 | INFO     | scheme_scraper | 
+  SCHEME                                   STATUS     CONF   TIME(s)   
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   ----------------------------------------------------------------------
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Startup India Seed Fund Scheme (SISFS)   completed  high   82.3      
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Startup India Initiative                 completed  high   296.5     
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Credit Guarantee Scheme for Startups (   completed  high   301.4     
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Fund of Funds for Startups (FFS)         completed  high   284.4     
+2026-04-18 17:18:49 | INFO     | scheme_scraper |   Startup India Fund of Funds 2.0          completed  high   248.7     
