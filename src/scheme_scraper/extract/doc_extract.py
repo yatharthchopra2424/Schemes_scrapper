@@ -13,7 +13,9 @@ from ..utils import sha256_bytes, slugify
 
 logger = logging.getLogger(__name__)
 
-
+# Silence PyPDF warnings (e.g. "Ignoring wrong pointing object" or "invalid pdf header")
+logging.getLogger("pypdf").setLevel(logging.CRITICAL)
+logging.getLogger("pypdf.errors").setLevel(logging.CRITICAL)
 SUPPORTED_DOCUMENT_EXTENSIONS = (".pdf", ".doc", ".docx")
 
 
@@ -32,10 +34,18 @@ def _document_name_from_url(url: str) -> str:
 
 
 def _extract_pdf_text(path: Path) -> str:
+    with path.open("rb") as fh:
+        header = fh.read(5)
+        if not header.startswith(b"%PDF-"):
+            raise ValueError(f"Invalid PDF header: {header!r}")
+
     reader = PdfReader(str(path))
     pages: list[str] = []
     for page in reader.pages:
-        pages.append(page.extract_text() or "")
+        try:
+            pages.append(page.extract_text() or "")
+        except Exception:
+            pass
     return "\n".join(pages).strip()
 
 
@@ -47,10 +57,15 @@ def _extract_docx_text(path: Path) -> str:
 
 def _best_effort_extract_text(path: Path, content_type: str) -> tuple[str, str]:
     suffix = path.suffix.lower()
-    if suffix == ".pdf" or "pdf" in content_type:
-        return _extract_pdf_text(path), "parsed"
-    if suffix == ".docx":
-        return _extract_docx_text(path), "parsed"
+    try:
+        if suffix == ".pdf" or "pdf" in content_type:
+            return _extract_pdf_text(path), "parsed"
+        if suffix == ".docx":
+            return _extract_docx_text(path), "parsed"
+    except Exception as exc:
+        logger.debug("Extraction failed for %s: %s", path.name, exc)
+        return "", "error"
+
     if suffix == ".doc":
         # Legacy .doc requires native converters in most environments.
         return "", "downloaded_only"

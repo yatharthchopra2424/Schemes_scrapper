@@ -30,6 +30,7 @@ from ..models import SchemeInput
 from .prompts import (
     MARKDOWN_SYSTEM_PROMPT,
     SYSTEM_PROMPT,
+    BROWSER_AGENT_PROMPT,
     build_analysis_prompt,
     build_gap_fill_prompt,
 )
@@ -242,6 +243,30 @@ class NvidiaLLMClient:
             logger.warning("Gap-fill failed for '%s': %s", scheme.scheme_name, exc)
 
         return partial
+
+    # ── Agentic Browser Fallback ───────────────────────────────────────────────
+
+    def decide_browser_action(
+        self, scheme_name: str, dom_summary: str, missing_fields: list[str]
+    ) -> dict[str, Any]:
+        """
+        Interactive ReAct fallback agent decision step.
+        """
+        logger.info(
+            "Agentic browser decision requested for '%s'. Missing: %s",
+            scheme_name, missing_fields
+        )
+        prompt = BROWSER_AGENT_PROMPT.format(
+            missing_fields=", ".join(missing_fields),
+            dom_summary=dom_summary
+        )
+        messages = [{"role": "user", "content": prompt}]
+        try:
+            raw = self._chat_completion(messages, max_tokens=512)
+            return self._extract_json_block(raw)
+        except Exception as exc:
+            logger.warning("Browser agent decision failed: %s", exc)
+            return {"action": "done", "id": 0}
 
     # ── Public interface ───────────────────────────────────────────────────────
 

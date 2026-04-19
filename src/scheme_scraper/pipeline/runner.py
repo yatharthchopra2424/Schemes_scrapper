@@ -167,6 +167,29 @@ class PipelineRunner:
             # ──── LLM enrichment ───────────────────────────────────────────────
             if llm_client is not None:
                 insight, llm_raw = llm_client.analyze_scheme(scheme, evidence_text)
+                
+                # ──── Agentic Fallback ─────────────────────────────────────────
+                if insight.confidence == "low":
+                    self.logger.warning("Primary crawl yielded low confidence. Triggering Agentic Fallback.")
+                    from ..crawler.agent import run_agentic_fallback
+                    
+                    # Identify missing critical fields
+                    missing = [
+                        f for f in ["application_process", "eligibility", "financial_support", "benefits"]
+                        if not getattr(insight, f)
+                    ]
+                    
+                    interactive_evidence = run_agentic_fallback(
+                        driver=driver,
+                        scheme=scheme,
+                        missing_fields=missing,
+                        llm_client=llm_client
+                    )
+                    
+                    if interactive_evidence.strip():
+                        self.logger.info("Agent extracted additional evidence. Re-running LLM analysis.")
+                        combined_evidence = evidence_text + "\n\n" + interactive_evidence
+                        insight, llm_raw = llm_client.analyze_scheme(scheme, combined_evidence)
             else:
                 insight = SchemeInsight.empty("LLM step skipped (--skip-llm or no API key).")
                 llm_raw = ""

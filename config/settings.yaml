@@ -5,7 +5,7 @@ crawler:
   render_wait_seconds: 2
   max_depth: 2
   max_pages_per_scheme: 15
-  max_documents_per_scheme: 10
+  max_documents_per_scheme: 20
   user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36"
   disable_images: true
 
@@ -24,7 +24,7 @@ llm:
   model: "meta/llama-3.3-70b-instruct"
   temperature: 0.2
   top_p: 0.95
-  max_tokens: 8192
+  max_tokens: 9880
   timeout_seconds: 120
   max_retries: 3
 

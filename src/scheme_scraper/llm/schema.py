@@ -12,9 +12,9 @@ Adding a field here requires matching updates in:
 from __future__ import annotations
 
 from datetime import datetime, timezone
-from typing import Literal
+from typing import Any, Literal
 
-from pydantic import BaseModel, Field
+from pydantic import BaseModel, Field, field_validator
 
 
 class SchemeInsight(BaseModel):
@@ -52,6 +52,37 @@ class SchemeInsight(BaseModel):
     analysis_timestamp: str = Field(
         default_factory=lambda: datetime.now(timezone.utc).isoformat()
     )
+
+    # ── Robust LLM Coercion ───────────────────────────────────────────────────
+    @field_validator(
+        "overview", "geographic_scope", "eligibility", "benefits",
+        "financial_support", "fund_size_crores", "grant_amount_per_entity",
+        "application_process", "application_portal_url", "deadlines",
+        "implementing_agency", "contact_details", "last_updated_date",
+        mode="before"
+    )
+    @classmethod
+    def coerce_str_fields(cls, v: Any) -> str:
+        if isinstance(v, list):
+            return "\n".join(str(item) for item in v)
+        if v is None:
+            return ""
+        return str(v)
+
+    @field_validator(
+        "target_beneficiaries", "objectives", "required_documents",
+        "caveats", "source_cited_notes",
+        mode="before"
+    )
+    @classmethod
+    def coerce_list_fields(cls, v: Any) -> list[str]:
+        if isinstance(v, str):
+            return [v] if v.strip() else []
+        if v is None:
+            return []
+        if isinstance(v, list):
+            return [str(item) for item in v]
+        return []
 
     # ─────────────────────────────────────────────────────────────────────────
 

@@ -52,24 +52,45 @@ def detect_delimiter(sample: str) -> str:
 
 
 def load_scheme_inputs(csv_path: Path) -> list[SchemeInput]:
-    text = csv_path.read_text(encoding="utf-8")
+    import logging
+    # Use utf-8-sig to automatically handle any BOM mark from Excel
+    text = csv_path.read_text(encoding="utf-8-sig")
     delimiter = detect_delimiter(text[:2048])
 
     rows: list[SchemeInput] = []
-    with csv_path.open("r", encoding="utf-8", newline="") as fh:
+    with csv_path.open("r", encoding="utf-8-sig", newline="") as fh:
         reader = csv.DictReader(fh, delimiter=delimiter)
+        
+        if not reader.fieldnames:
+            raise ValueError("Input CSV is empty or has no headers.")
+
+        # Clean headers: lowercase and strip whitespace to ensure match
+        cleaned_headers = [str(h).strip().lower() for h in reader.fieldnames]
+        
         required = {"ministry_or_category", "scheme_name", "scheme_url"}
-        if not reader.fieldnames or not required.issubset(set(reader.fieldnames)):
+        if not required.issubset(set(cleaned_headers)):
             raise ValueError(
-                "Input CSV must include headers: ministry_or_category, scheme_name, scheme_url"
+                f"Input CSV must include headers: {', '.join(required)}. "
+                f"Found headers: {', '.join(cleaned_headers)}"
             )
+
+        # Update reader's fieldnames to the cleaned versions
+        reader.fieldnames = cleaned_headers
 
         for idx, row in enumerate(reader, start=1):
             ministry = (row.get("ministry_or_category") or "").strip()
             name = (row.get("scheme_name") or "").strip()
             url = (row.get("scheme_url") or "").strip()
-            if not (ministry and name and url):
+            
+            # Skip completely empty rows
+            if not ministry and not name and not url:
                 continue
+                
+            # Log and skip if missing required data, instead of silently continuing
+            if not (ministry and name and url):
+                logging.getLogger(__name__).warning("Row %d has missing data. Skipping.", idx + 1)
+                continue
+
             rows.append(
                 SchemeInput(
                     row_id=f"row-{idx}",

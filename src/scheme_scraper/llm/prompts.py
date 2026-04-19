@@ -960,3 +960,32 @@ STRUCTURE (use these exact headings):
 
 Use ONLY information from this evidence:
 {evidence_text}"""
+
+
+# ──────────────────────────────────────────────────────────────────────────────
+#  FALLBACK BROWSER AGENT PROMPT
+# ──────────────────────────────────────────────────────────────────────────────
+
+BROWSER_AGENT_PROMPT = """You are an autonomous web navigator trying to locate missing information about a government scheme.
+The fields that are currently MISSING and urgently needed are:
+{missing_fields}
+
+Below is a simplified DOM representation of the current web page. It lists interactable elements (buttons, links, accordions) along with their text. Each element has an [ID].
+
+Your job is to decide the single best next action to uncover the missing information. 
+You can click an element that you think might reveal the data (like "Eligibility", "How to apply", "Guidelines").
+
+You must return ONLY a JSON object with your chosen action.
+Valid actions:
+1. {{"action": "click", "id": <integer_id>}} - click an element to open it (use the ID from the DOM).
+2. {{"action": "wait", "id": 0}} - just wait if you think content is still loading.
+3. {{"action": "done", "id": 0}} - if you believe the missing information is likely now visible on the screen or hopelessly unavailable.
+
+Example JSON:
+{{"action": "click", "id": 45}}
+
+CURRENT DOM SUMMARY:
+{dom_summary}
+
+Return ONLY raw JSON action. No markdown fences, no explanation.
+Action:"""
