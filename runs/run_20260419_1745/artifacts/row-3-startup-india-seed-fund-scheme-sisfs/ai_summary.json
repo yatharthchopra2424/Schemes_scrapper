@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-3",
+  "scheme_name": "Startup India Seed Fund Scheme (SISFS)",
+  "scheme_url": "https://seedfund.startupindia.gov.in/",
+  "ministry_or_category": "Startup & Industry (DPIIT)",
+  "overview": "The Startup India Seed Fund Scheme (SISFS) aims to provide financial assistance to startups for proof of concept, prototype development, product trials, market entry, and commercialization. The scheme is sector-agnostic and will support startups across all sectors.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to startups for proof of concept, prototype development, product trials, market entry, and commercialization",
+    "Enable startups to graduate to a level where they can raise investments from angel investors or venture capitalists, or seek loans from commercial banks or financial institutions",
+    "Support startups in creating innovative solutions in various sectors"
+  ],
+  "eligibility": "A startup, recognized by DPIIT, incorporated not more than 2 years ago at the time of application, with a business idea to develop a product or service with market fit, viable commercialization, and scope of scaling.",
+  "benefits": "Financial assistance up to Rs. 20 Lakhs as grant for validation of Proof of Concept, or prototype development, or product trials, and up to Rs. 50 Lakhs of investment for market entry, commercialization, or scaling up through convertible debentures or debt or debt-linked instruments",
+  "financial_support": "The Seed Fund will be disbursed to eligible startups through eligible incubators across India, with a total corpus of Rs. 945 Crore.",
+  "fund_size_crores": "945",
+  "grant_amount_per_entity": "Up to Rs. 20 Lakhs",
+  "application_process": "Startups can apply for the scheme on the Startup India portal, and the application will be evaluated by the Incubator Seed Management Committee (ISMC) based on criteria such as market size, feasibility, potential impact, novelty, team strength, and fund utilization plan.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "The scheme is open throughout the year, and applications can be submitted at any time.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: dipp-startups@nic.in, Phone: 1800-11-5565",
+  "caveats": [
+    "The startup should not have received more than Rs 10 lakh of monetary support under any other Central or State Government scheme",
+    "The startup should have a business idea to develop a product or service with market fit, viable commercialization, and scope of scaling"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/",
+    "https://seedfund.startupindia.gov.in/"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "high",
+  "analysis_timestamp": "2026-04-19T12:20:24.514681+00:00"
+}
