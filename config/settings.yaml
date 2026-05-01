@@ -37,3 +37,9 @@ output:
   root_dir: "runs"
   enriched_csv_name: "enriched_schemes.csv"
   checkpoint_name: "checkpoint.json"
+
+vector_db:
+  index_name: "infou-scheme-index"
+  embedding_model: "all-MiniLM-L6-v2"
+  chunk_size: 1000
+  chunk_overlap: 100

@@ -64,6 +64,13 @@ class OutputSettings(BaseModel):
     checkpoint_name: str = "checkpoint.json"
 
 
+class VectorDBSettings(BaseModel):
+    index_name: str = "infou-scheme-index"
+    embedding_model: str = "sentence-transformers/all-MiniLM-L6-v2"
+    chunk_size: int = 1000
+    chunk_overlap: int = 100
+
+
 class AppSettings(BaseModel):
     crawler: CrawlerSettings = Field(default_factory=CrawlerSettings)
     compliance: ComplianceSettings = Field(default_factory=ComplianceSettings)
@@ -71,6 +78,7 @@ class AppSettings(BaseModel):
     llm: LLMSettings = Field(default_factory=LLMSettings)
     runtime: RuntimeSettings = Field(default_factory=RuntimeSettings)
     output: OutputSettings = Field(default_factory=OutputSettings)
+    vector_db: VectorDBSettings = Field(default_factory=VectorDBSettings)
 
 
 # Environment variable override map:  ENV_NAME → (section, key, type_caster)

@@ -34,7 +34,7 @@ from ..output.writers import (
     write_markdown,
 )
 from ..utils import ensure_dir, load_scheme_inputs, slugify
-
+from .vectorstore_ingest import ingest_markdown_data
 
 class PipelineRunner:
     """
@@ -374,6 +374,13 @@ class PipelineRunner:
                         total,
                         row.get("status", "?"),
                     )
+
+        # Trigger Vector DB ingestion after all schemes complete scraping
+        try:
+            self.logger.info("Executing Vector Database ingestion step...")
+            ingest_markdown_data(self.artifacts_dir, self.settings)
+        except Exception as exc:
+            self.logger.error("Error during Vector database ingestion: %s", exc)
 
         return self.enriched_csv_path
 
