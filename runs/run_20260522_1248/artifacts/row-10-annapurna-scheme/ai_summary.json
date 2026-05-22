@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-10",
+  "scheme_name": "Annapurna Scheme",
+  "scheme_url": "https://www.sbi.co.in/web/agri-rural/agriculture-banking/annapurna-scheme",
+  "ministry_or_category": "Women Entrepreneurship",
+  "overview": "The Annapurna Scheme is a loan product offered by State Bank of India (SBI) aimed at supporting women entrepreneurs in setting up food catering units. It provides financial assistance to women who wish to start or expand their food-related businesses, particularly in the micro-enterprise segment. The scheme is designed to promote self-employment and entrepreneurship among women by offering collateral-free loans up to a certain limit. It is part of SBI's broader initiative to support financial inclusion and women's economic empowerment.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote entrepreneurship among women by providing financial support for food catering units",
+    "To enable women to start or expand micro-enterprises in the food service sector",
+    "To support self-employment and income generation for women",
+    "To facilitate access to institutional credit without requiring collateral",
+    "To contribute to women's economic empowerment and financial inclusion"
+  ],
+  "eligibility": "The scheme is available to women entrepreneurs who wish to set up food catering units. Applicants must be Indian citizens and meet the bank's creditworthiness criteria. The business should be a proprietary concern owned and managed by a woman. The scheme typically targets micro-enterprises in the food processing or catering sector.",
+  "benefits": "The scheme provides collateral-free loans up to a specified limit, enabling women to start or expand their food catering businesses. It offers flexible repayment terms and competitive interest rates. The loan can be used for setting up kitchen infrastructure, purchasing equipment, and meeting working capital requirements. It supports women in becoming financially independent and contributes to their socio-economic upliftment.",
+  "financial_support": "Under the Annapurna Scheme, SBI offers loans up to a maximum of ₹50,000 to women entrepreneurs for setting up food catering units. The loan is provided without requiring collateral or third-party guarantee. The interest rate is linked to the bank's base rate or MCLR, with a concessional spread for women borrowers. Repayment is typically structured over a period of up to 36 months in equated monthly instalments (EMIs).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "₹50,000",
+  "application_process": "1. Visit the nearest SBI branch or apply through the YONO SBI app or internet banking portal. 2. Fill out the loan application form for the Annapurna Scheme. 3. Submit required documents including identity proof, address proof, business plan, and photographs. 4. The bank will verify the documents and assess the creditworthiness of the applicant. 5. Upon approval, the loan amount will be disbursed to the applicant's account. 6. The applicant can then utilise the funds for setting up the food catering unit as per the business plan.",
+  "application_portal_url": "https://www.sbi.co.in/web/agri-rural/agriculture-banking/annapurna-scheme",
+  "required_documents": [
+    "Identity proof (Aadhaar card, PAN card, voter ID, or passport)",
+    "Address proof (utility bill, rental agreement, or Aadhaar card)",
+    "Passport-sized photographs",
+    "Business plan detailing the food catering unit",
+    "Proof of ownership or lease of business premises (if applicable)",
+    "Bank account details"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "State Bank of India",
+  "contact_details": "",
+  "caveats": [
+    "Loan is restricted to women entrepreneurs only",
+    "Funds must be used exclusively for setting up food catering units",
+    "Maximum loan amount is capped at ₹50,000",
+    "Repayment must be made as per the agreed EMI schedule",
+    "The scheme may be subject to periodic review and modification by SBI"
+  ],
+  "source_cited_notes": [
+    "https://www.sbi.co.in/web/agri-rural/agriculture-banking/annapurna-scheme"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-05-22T07:33:18.932620+00:00"
+}

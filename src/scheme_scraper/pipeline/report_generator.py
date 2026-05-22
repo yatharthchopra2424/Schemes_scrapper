@@ -47,16 +47,22 @@ from ..llm.prompts import (
     build_fee_model_prompt,
     build_client_proposal_prompt,
     build_compliance_pack_prompt,
+    build_comprehensive_report_prompt,
 )
 from .evidence_synthesizer import synthesize, SynthesizedEvidence
 
 logger = logging.getLogger(__name__)
 
 
-# ── 8 Business document definitions ───────────────────────────────────────────
+# ── 9 Business document definitions ───────────────────────────────────────────
 # Each entry: (output_filename, prompt_builder_function, description_for_log)
 
 _BUSINESS_DOCS: list[tuple[str, Callable[..., str], str]] = [
+    (
+        "report.md",
+        build_comprehensive_report_prompt,
+        "Comprehensive Scheme Report & File Index",
+    ),
     (
         "SCHEME_MASTER_DATABASE.md",
         build_scheme_master_db_prompt,
@@ -102,7 +108,7 @@ _BUSINESS_DOCS: list[tuple[str, Callable[..., str], str]] = [
 
 class ReportGenerator:
     """
-    Generates the 8 business document Markdown files for each scheme artifact directory.
+    Generates the 9 business document Markdown files for each scheme artifact directory.
 
     Each file gets a separate LLM call using:
       - key_facts: compact structured summary from ai_summary.json
@@ -121,7 +127,7 @@ class ReportGenerator:
 
         scheme_dirs = [d for d in sorted(artifacts_dir.iterdir()) if d.is_dir()]
         logger.info(
-            "Generating 8 business documents for %d scheme(s)...", len(scheme_dirs)
+            "Generating 9 business documents for %d scheme(s)...", len(scheme_dirs)
         )
 
         for scheme_dir in scheme_dirs:
@@ -153,8 +159,8 @@ class ReportGenerator:
             )
             return
 
-        # ── Stage 2: Generate each of the 8 business documents ───────────────
-        logger.info("  Generating 8 business documents for: %s", ev.scheme_name)
+        # ── Stage 2: Generate each of the 9 business documents ───────────────
+        logger.info("  Generating 9 business documents for: %s", ev.scheme_name)
 
         for filename, prompt_builder, description in _BUSINESS_DOCS:
             output_path = scheme_dir / filename
@@ -170,7 +176,7 @@ class ReportGenerator:
 
             self._generate_and_save(output_path, generator, description)
 
-        logger.info("  ✓ All 8 documents generated for '%s'", ev.scheme_name)
+        logger.info("  ✓ All 9 documents generated for '%s'", ev.scheme_name)
 
     def _call_llm(self, prompt: str, label: str) -> str:
         """Make a single LLM call with the business docs system prompt."""

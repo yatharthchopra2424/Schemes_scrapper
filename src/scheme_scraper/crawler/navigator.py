@@ -41,7 +41,7 @@ from .driver import wait_for_dom_ready
 # Minimum visible text length to trust a Selenium render (below this → JS-heavy, wait more)
 _MIN_TEXT_LENGTH = 500
 _JS_EXTRA_WAIT_S = 3.0     # Extra wait for JS-heavy pages before re-extraction
-_STATIC_TIMEOUT = 15       # Timeout for requests fallback
+_STATIC_TIMEOUT = 45       # Timeout for requests fallback
 
 
 class RobotsCache:
@@ -121,27 +121,29 @@ def _classify_error(exc_text: str) -> str:
     return "FETCH_ERROR"
 
 
-def _try_static_fetch(url: str, user_agent: str) -> str:
+def _try_static_fetch(url: str, user_agent: str, max_retries: int = 3) -> str:
     """
     Lightweight requests-based fallback to fetch static HTML.
     Used when Selenium returns empty or very thin content.
     """
-    try:
-        resp = requests.get(
-            url,
-            timeout=_STATIC_TIMEOUT,
-            headers={
-                "User-Agent": user_agent,
-                "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
-                "Accept-Language": "en-US,en;q=0.5",
-            },
-            verify=False,
-            allow_redirects=True,
-        )
-        if resp.status_code == 200:
-            return resp.text
-    except Exception:
-        pass
+    for attempt in range(max_retries):
+        try:
+            resp = requests.get(
+                url,
+                timeout=_STATIC_TIMEOUT,
+                headers={
+                    "User-Agent": user_agent,
+                    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,*/*;q=0.8",
+                    "Accept-Language": "en-US,en;q=0.5",
+                },
+                verify=False,
+                allow_redirects=True,
+            )
+            if resp.status_code == 200:
+                return resp.text
+        except Exception:
+            if attempt < max_retries - 1:
+                time.sleep(2.0)
     return ""
 
 
@@ -151,7 +153,7 @@ def _fetch_page_in_new_window(
     url: str,
     settings: AppSettings,
     logger: logging.Logger,
-    max_retries: int = 2,
+    max_retries: int = 3,
 ) -> tuple[str, str, str | None]:
     """
     Open a new browser tab, fetch the URL, extract title + HTML, then close the tab.

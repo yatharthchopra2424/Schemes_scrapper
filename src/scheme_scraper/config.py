@@ -43,7 +43,7 @@ class DocumentSettings(BaseModel):
 class LLMSettings(BaseModel):
     provider: str = "nvidia_openai_compat"
     base_url: str = "https://integrate.api.nvidia.com/v1"
-    model: str = "meta/llama-3.3-70b-instruct"
+    model: str = "nvidia/nemotron-3-super-120b-a12b"
     temperature: float = 0.2
     top_p: float = 0.95
     max_tokens: int = 8192

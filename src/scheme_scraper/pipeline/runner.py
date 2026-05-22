@@ -34,7 +34,6 @@ from ..output.writers import (
     write_markdown,
 )
 from ..utils import ensure_dir, load_scheme_inputs, slugify
-from .vectorstore_ingest import ingest_markdown_data
 
 class PipelineRunner:
     """
@@ -95,7 +94,7 @@ class PipelineRunner:
     def _build_evidence_text(
         pages: list[Any],
         docs: list[Any],
-        limit: int = 120_000,
+        limit: int = 400_000,
     ) -> str:
         """
         Build a plain-text evidence block for the LLM from crawled pages + documents.
@@ -200,7 +199,6 @@ class PipelineRunner:
             ai_summary_json = scheme_dir / "ai_summary.json"
 
             write_evidence_bundle(evidence_json, scheme, evidence, insight, llm_raw)
-            write_markdown(report_md, insight.to_markdown(scheme.scheme_name, scheme.scheme_url))
             write_ai_summary_json(ai_summary_json, scheme, insight)
 
             elapsed = time.perf_counter() - t_start
@@ -374,13 +372,6 @@ class PipelineRunner:
                         total,
                         row.get("status", "?"),
                     )
-
-        # Trigger Vector DB ingestion after all schemes complete scraping
-        try:
-            self.logger.info("Executing Vector Database ingestion step...")
-            ingest_markdown_data(self.artifacts_dir, self.settings)
-        except Exception as exc:
-            self.logger.error("Error during Vector database ingestion: %s", exc)
 
         return self.enriched_csv_path
 

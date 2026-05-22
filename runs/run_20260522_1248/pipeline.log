@@ -1,0 +1,299 @@
+2026-05-22 12:48:59 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   INFOU SCHEME INTELLIGENCE PIPELINE
+2026-05-22 12:48:59 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Python        : 3.10.11
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Input CSV     : data\input\sample_schemes.csv
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Run Directory : runs\run_20260522_1248
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Log File      : runs\run_20260522_1248\pipeline.log
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Model         : nvidia/nemotron-3-super-120b-a12b
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Workers       : 6
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Headless      : True
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Images Off    : True
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   Max Pages     : 30/scheme
+2026-05-22 12:48:59 | INFO     | scheme_scraper |   NVIDIA Key    : SET (nvapi-n3...)
+2026-05-22 12:48:59 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:48:59 | INFO     | scheme_scraper | Pipeline start: 10 total, 10 pending, 6 workers
+2026-05-22 12:48:59 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: nvidia/nemotron-3-super-120b-a12b | Base: https://integrate.api.nvidia.com/v1
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: Startup India Initiative [row-1]
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: PM-SETU [row-2]
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: Startup India Seed Fund Scheme (SISFS) [row-3]
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: Digital India Bhashini [row-4]
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: TIDE 2.0 [row-5]
+2026-05-22 12:48:59 | INFO     | scheme_scraper | >> Starting: Credit Guarantee Scheme for Startups (CGSS) [row-6]
+2026-05-22 12:49:01 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:02 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:02 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:02 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:02 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:03 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:49:53 | INFO     | scheme_scraper | Crawl complete for 'Startup India Seed Fund Scheme (SISFS)': 9 pages, 7 docs, 1 errors, 0 skipped
+2026-05-22 12:50:06 | INFO     | scheme_scraper |   Crawled 9 pages, 7 docs, evidence text: 118973 chars
+2026-05-22 12:50:13 | WARNING  | scheme_scraper | Failed: https://dgt.gov.in/en/scheme-guidelines-of-pmsetu — FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT
+2026-05-22 12:50:13 | INFO     | scheme_scraper | Crawl complete for 'PM-SETU': 1 pages, 0 docs, 1 errors, 0 skipped
+2026-05-22 12:50:27 | INFO     | scheme_scraper |   Crawled 1 pages, 0 docs, evidence text: 0 chars
+2026-05-22 12:50:27 | WARNING  | scheme_scraper.llm.nvidia_client | Empty evidence text for 'PM-SETU' — LLM will return low-confidence result.
+2026-05-22 12:51:38 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'PM-SETU': confidence=medium, objectives=7, docs=8
+2026-05-22 12:51:38 | INFO     | scheme_scraper | [DONE] Completed: PM-SETU | confidence=medium | 159.6s
+2026-05-22 12:51:38 | INFO     | scheme_scraper | >> Starting: NIDHI Prayas [row-7]
+2026-05-22 12:51:38 | INFO     | scheme_scraper | Progress: 1/10 (completed)
+2026-05-22 12:51:40 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:51:48 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Seed Fund Scheme (SISFS)': confidence=high, objectives=5, docs=6
+2026-05-22 12:51:48 | INFO     | scheme_scraper | [DONE] Completed: Startup India Seed Fund Scheme (SISFS) | confidence=high | 169.8s
+2026-05-22 12:51:48 | INFO     | scheme_scraper | >> Starting: Fund of Funds for Startups (FFS) [row-8]
+2026-05-22 12:51:49 | INFO     | scheme_scraper | Progress: 2/10 (completed)
+2026-05-22 12:51:50 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:53:26 | INFO     | scheme_scraper | Crawl complete for 'Startup India Initiative': 30 pages, 20 docs, 2 errors, 0 skipped
+2026-05-22 12:53:33 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 383966 chars
+2026-05-22 12:54:01 | INFO     | scheme_scraper | Crawl complete for 'TIDE 2.0': 30 pages, 20 docs, 2 errors, 0 skipped
+2026-05-22 12:54:04 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 191079 chars
+2026-05-22 12:54:19 | INFO     | scheme_scraper | Crawl complete for 'Credit Guarantee Scheme for Startups (CGSS)': 30 pages, 20 docs, 5 errors, 0 skipped
+2026-05-22 12:54:22 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 392384 chars
+2026-05-22 12:54:56 | WARNING  | scheme_scraper.llm.nvidia_client | LLM API transient error 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>. Retrying...
+2026-05-22 12:55:09 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Initiative': confidence=high, objectives=8, docs=9
+2026-05-22 12:55:09 | INFO     | scheme_scraper | [DONE] Completed: Startup India Initiative | confidence=high | 370.9s
+2026-05-22 12:55:09 | INFO     | scheme_scraper | >> Starting: Udyam Registration Portal [row-9]
+2026-05-22 12:55:09 | INFO     | scheme_scraper | Progress: 3/10 (completed)
+2026-05-22 12:55:11 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:56:10 | INFO     | scheme_scraper | Crawl complete for 'NIDHI Prayas': 30 pages, 20 docs, 5 errors, 0 skipped
+2026-05-22 12:56:13 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 400000 chars
+2026-05-22 12:56:30 | INFO     | scheme_scraper | Crawl complete for 'Fund of Funds for Startups (FFS)': 30 pages, 20 docs, 5 errors, 0 skipped
+2026-05-22 12:56:33 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 400000 chars
+2026-05-22 12:56:35 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Credit Guarantee Scheme for Startups (CGSS)': confidence=high, objectives=5, docs=0
+2026-05-22 12:56:35 | INFO     | scheme_scraper | [DONE] Completed: Credit Guarantee Scheme for Startups (CGSS) | confidence=high | 456.5s
+2026-05-22 12:56:35 | INFO     | scheme_scraper | >> Starting: Annapurna Scheme [row-10]
+2026-05-22 12:56:35 | INFO     | scheme_scraper | Progress: 4/10 (completed)
+2026-05-22 12:56:37 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:56:59 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'TIDE 2.0': confidence=high, objectives=4, docs=7
+2026-05-22 12:56:59 | INFO     | scheme_scraper | [DONE] Completed: TIDE 2.0 | confidence=high | 480.8s
+2026-05-22 12:56:59 | INFO     | scheme_scraper | Progress: 5/10 (completed)
+2026-05-22 12:57:04 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'NIDHI Prayas': confidence=medium, objectives=6, docs=8
+2026-05-22 12:57:05 | INFO     | scheme_scraper | [DONE] Completed: NIDHI Prayas | confidence=medium | 326.4s
+2026-05-22 12:57:05 | INFO     | scheme_scraper | Progress: 6/10 (completed)
+2026-05-22 12:57:47 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Fund of Funds for Startups (FFS)': confidence=high, objectives=7, docs=0
+2026-05-22 12:57:47 | INFO     | scheme_scraper | [DONE] Completed: Fund of Funds for Startups (FFS) | confidence=high | 358.6s
+2026-05-22 12:57:47 | INFO     | scheme_scraper | Progress: 7/10 (completed)
+2026-05-22 13:00:12 | INFO     | scheme_scraper | Crawl complete for 'Digital India Bhashini': 30 pages, 14 docs, 0 errors, 0 skipped
+2026-05-22 13:00:15 | INFO     | scheme_scraper |   Crawled 30 pages, 14 docs, evidence text: 178936 chars
+2026-05-22 13:00:42 | INFO     | scheme_scraper | Crawl complete for 'Udyam Registration Portal': 19 pages, 20 docs, 1 errors, 0 skipped
+2026-05-22 13:00:44 | INFO     | scheme_scraper |   Crawled 19 pages, 20 docs, evidence text: 213598 chars
+2026-05-22 13:00:47 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Digital India Bhashini': confidence=medium, objectives=8, docs=0
+2026-05-22 13:00:47 | INFO     | scheme_scraper | [DONE] Completed: Digital India Bhashini | confidence=medium | 708.1s
+2026-05-22 13:00:47 | INFO     | scheme_scraper | Progress: 8/10 (completed)
+2026-05-22 13:01:39 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Udyam Registration Portal': confidence=high, objectives=7, docs=2
+2026-05-22 13:01:39 | INFO     | scheme_scraper | [DONE] Completed: Udyam Registration Portal | confidence=high | 389.1s
+2026-05-22 13:01:39 | INFO     | scheme_scraper | Progress: 9/10 (completed)
+2026-05-22 13:02:17 | INFO     | scheme_scraper | Crawl complete for 'Annapurna Scheme': 30 pages, 20 docs, 1 errors, 0 skipped
+2026-05-22 13:02:20 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 306777 chars
+2026-05-22 13:03:18 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Annapurna Scheme': confidence=medium, objectives=5, docs=6
+2026-05-22 13:03:18 | INFO     | scheme_scraper | [DONE] Completed: Annapurna Scheme | confidence=medium | 403.4s
+2026-05-22 13:03:19 | INFO     | scheme_scraper | Progress: 10/10 (completed)
+2026-05-22 13:03:19 | INFO     | scheme_scraper | Executing Vector Database ingestion step...
+2026-05-22 13:03:19 | INFO     | scheme_scraper.pipeline.vectorstore_ingest | Starting Vector DB Ingestion from runs\run_20260522_1248\artifacts
+2026-05-22 13:03:19 | INFO     | scheme_scraper.pipeline.vectorstore_ingest | No Markdown documents found to ingest.
+2026-05-22 13:03:19 | INFO     | scheme_scraper | ============================================================
+2026-05-22 13:03:19 | INFO     | scheme_scraper |   PHASE 2: Generating supplementary Markdown reports...
+2026-05-22 13:03:19 | INFO     | scheme_scraper | ============================================================
+2026-05-22 13:03:19 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: nvidia/nemotron-3-super-120b-a12b | Base: https://integrate.api.nvidia.com/v1
+2026-05-22 13:03:19 | INFO     | scheme_scraper.pipeline.report_generator | Generating 9 business documents for 10 scheme(s)...
+2026-05-22 13:03:19 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 13:03:19 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-1-startup-india-initiative
+2026-05-22 13:03:32 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Startup India Initiative': 30 pages, 18 PDFs, 200000 page chars, 300000 pdf chars
+2026-05-22 13:03:32 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 200000 page chars + 300000 pdf chars | key_facts: 5183 chars
+2026-05-22 13:03:32 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Startup India Initiative
+2026-05-22 13:06:23 | INFO     | scheme_scraper.pipeline.report_generator |     -> [171.0s] Created report.md                                  (14563 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 13:07:33 | INFO     | scheme_scraper.pipeline.report_generator |     -> [70.1s] Created SCHEME_MASTER_DATABASE.md                  (3844 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 13:08:47 | INFO     | scheme_scraper.pipeline.report_generator |     -> [74.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (5497 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 13:10:37 | INFO     | scheme_scraper.pipeline.report_generator |     -> [110.0s] Created APPLICATION_PLAYBOOK.md                    (7650 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 13:11:36 | INFO     | scheme_scraper.pipeline.report_generator |     -> [58.2s] Created CLIENT_ONBOARDING_AND_CRM.md               (3998 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 13:12:17 | INFO     | scheme_scraper.pipeline.report_generator |     -> [41.4s] Created LIVE_CASE_TRACKER.md                       (2908 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 13:13:10 | INFO     | scheme_scraper.pipeline.report_generator |     -> [53.0s] Created FEE_AND_REVENUE_MODEL.md                   (3420 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 13:14:02 | INFO     | scheme_scraper.pipeline.report_generator |     -> [51.6s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3000 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 13:14:45 | INFO     | scheme_scraper.pipeline.report_generator |     -> [43.7s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3305 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 13:14:45 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Startup India Initiative'
+2026-05-22 13:14:45 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 13:14:45 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-10-annapurna-scheme
+2026-05-22 13:16:51 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Annapurna Scheme': 30 pages, 19 PDFs, 194357 page chars, 202726 pdf chars
+2026-05-22 13:16:51 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 194357 page chars + 202726 pdf chars | key_facts: 3308 chars
+2026-05-22 13:16:51 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Annapurna Scheme
+2026-05-22 13:18:55 | INFO     | scheme_scraper.pipeline.report_generator |     -> [123.1s] Created report.md                                  (6972 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 13:19:23 | INFO     | scheme_scraper.pipeline.report_generator |     -> [29.0s] Created SCHEME_MASTER_DATABASE.md                  (2300 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 13:20:25 | INFO     | scheme_scraper.pipeline.report_generator |     -> [61.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (5272 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 13:21:47 | INFO     | scheme_scraper.pipeline.report_generator |     -> [82.1s] Created APPLICATION_PLAYBOOK.md                    (8395 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 13:22:13 | INFO     | scheme_scraper.pipeline.report_generator |     -> [26.1s] Created CLIENT_ONBOARDING_AND_CRM.md               (3370 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 13:22:22 | WARNING  | scheme_scraper.llm.nvidia_client | LLM API transient error 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>. Retrying...
+2026-05-22 13:23:27 | INFO     | scheme_scraper.pipeline.report_generator |     -> [74.2s] Created LIVE_CASE_TRACKER.md                       (2524 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 13:24:13 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.3s] Created FEE_AND_REVENUE_MODEL.md                   (2408 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 13:24:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> [35.7s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2821 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 13:26:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [77.6s] Created COMPLIANCE_AND_LEGAL_PACK.md               (6792 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 13:26:06 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Annapurna Scheme'
+2026-05-22 13:26:06 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 13:26:06 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-2-pm-setu
+2026-05-22 13:26:07 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'PM-SETU': 1 pages, 0 PDFs, 0 page chars, 0 pdf chars
+2026-05-22 13:26:07 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 0 page chars + 0 pdf chars | key_facts: 3465 chars
+2026-05-22 13:26:07 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: PM-SETU
+2026-05-22 13:27:51 | INFO     | scheme_scraper.pipeline.report_generator |     -> [104.5s] Created report.md                                  (9880 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 13:28:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [25.5s] Created SCHEME_MASTER_DATABASE.md                  (3164 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 13:29:20 | INFO     | scheme_scraper.pipeline.report_generator |     -> [63.5s] Created PITCH_AND_SALES_SCRIPTS.md                 (6530 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 13:31:28 | INFO     | scheme_scraper.pipeline.report_generator |     -> [128.5s] Created APPLICATION_PLAYBOOK.md                    (12516 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 13:32:21 | INFO     | scheme_scraper.pipeline.report_generator |     -> [52.3s] Created CLIENT_ONBOARDING_AND_CRM.md               (4451 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 13:33:11 | INFO     | scheme_scraper.pipeline.report_generator |     -> [50.7s] Created LIVE_CASE_TRACKER.md                       (2742 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 13:33:53 | INFO     | scheme_scraper.pipeline.report_generator |     -> [41.8s] Created FEE_AND_REVENUE_MODEL.md                   (3819 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 13:34:47 | INFO     | scheme_scraper.pipeline.report_generator |     -> [53.3s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3579 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 13:36:01 | INFO     | scheme_scraper.pipeline.report_generator |     -> [74.3s] Created COMPLIANCE_AND_LEGAL_PACK.md               (6518 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 13:36:01 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'PM-SETU'
+2026-05-22 13:36:01 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 13:36:01 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-3-startup-india-seed-fund-scheme-sisfs
+2026-05-22 13:36:04 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Startup India Seed Fund Scheme (SISFS)': 9 pages, 6 PDFs, 42995 page chars, 101858 pdf chars
+2026-05-22 13:36:04 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 42995 page chars + 101858 pdf chars | key_facts: 7582 chars
+2026-05-22 13:36:04 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Startup India Seed Fund Scheme (SISFS)
+2026-05-22 13:40:48 | INFO     | scheme_scraper.pipeline.report_generator |     -> [283.7s] Created report.md                                  (20588 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 13:42:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [78.1s] Created SCHEME_MASTER_DATABASE.md                  (4666 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 13:42:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [52.8s] Created PITCH_AND_SALES_SCRIPTS.md                 (6493 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 13:44:34 | WARNING  | scheme_scraper.llm.nvidia_client | LLM API transient error 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>. Retrying...
+2026-05-22 13:48:29 | INFO     | scheme_scraper.pipeline.report_generator |     -> [330.3s] Created APPLICATION_PLAYBOOK.md                    (16288 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 13:49:43 | INFO     | scheme_scraper.pipeline.report_generator |     -> [73.9s] Created CLIENT_ONBOARDING_AND_CRM.md               (3528 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 13:50:31 | INFO     | scheme_scraper.pipeline.report_generator |     -> [48.0s] Created LIVE_CASE_TRACKER.md                       (2694 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 13:52:00 | INFO     | scheme_scraper.pipeline.report_generator |     -> [89.1s] Created FEE_AND_REVENUE_MODEL.md                   (4155 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 13:52:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [58.6s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3256 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 13:54:05 | INFO     | scheme_scraper.pipeline.report_generator |     -> [67.0s] Created COMPLIANCE_AND_LEGAL_PACK.md               (5511 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 13:54:05 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Startup India Seed Fund Scheme (SISFS)'
+2026-05-22 13:54:05 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 13:54:05 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-4-digital-india-bhashini
+2026-05-22 13:54:57 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Digital India Bhashini': 30 pages, 14 PDFs, 159646 page chars, 65133 pdf chars
+2026-05-22 13:54:57 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 159646 page chars + 65133 pdf chars | key_facts: 2006 chars
+2026-05-22 13:54:57 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Digital India Bhashini
+2026-05-22 13:56:05 | INFO     | scheme_scraper.pipeline.report_generator |     -> [68.7s] Created report.md                                  (6740 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 13:56:55 | INFO     | scheme_scraper.pipeline.report_generator |     -> [50.0s] Created SCHEME_MASTER_DATABASE.md                  (1906 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 13:58:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [70.2s] Created PITCH_AND_SALES_SCRIPTS.md                 (6902 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 13:59:46 | INFO     | scheme_scraper.pipeline.report_generator |     -> [100.1s] Created APPLICATION_PLAYBOOK.md                    (11353 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:00:27 | INFO     | scheme_scraper.pipeline.report_generator |     -> [41.7s] Created CLIENT_ONBOARDING_AND_CRM.md               (3498 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 14:01:17 | INFO     | scheme_scraper.pipeline.report_generator |     -> [49.1s] Created LIVE_CASE_TRACKER.md                       (2803 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 14:02:10 | INFO     | scheme_scraper.pipeline.report_generator |     -> [53.6s] Created FEE_AND_REVENUE_MODEL.md                   (4003 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 14:02:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> [38.4s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3171 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 14:03:35 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.9s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3498 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 14:03:35 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Digital India Bhashini'
+2026-05-22 14:03:35 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 14:03:35 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-5-tide-2-0
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from bhumi-bsf.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from drishti-ssb.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from iftech-reportfinal-closure.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from ihmcl.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from investment-playbook-for-startup-incubators-final.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from list-of-selected-startups-in-xr-program.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from logoguidelines.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:48 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from tide-success-story.pdf: Invalid PDF header: b'<!DOC'
+2026-05-22 14:03:57 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'TIDE 2.0': 30 pages, 14 PDFs, 91140 page chars, 187389 pdf chars
+2026-05-22 14:03:57 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 91140 page chars + 187389 pdf chars | key_facts: 6798 chars
+2026-05-22 14:03:57 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: TIDE 2.0
+2026-05-22 14:06:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [165.6s] Created report.md                                  (12356 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 14:07:37 | INFO     | scheme_scraper.pipeline.report_generator |     -> [54.5s] Created SCHEME_MASTER_DATABASE.md                  (4771 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 14:09:04 | INFO     | scheme_scraper.pipeline.report_generator |     -> [87.2s] Created PITCH_AND_SALES_SCRIPTS.md                 (7080 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 14:11:47 | INFO     | scheme_scraper.pipeline.report_generator |     -> [162.9s] Created APPLICATION_PLAYBOOK.md                    (11846 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:12:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> [62.5s] Created CLIENT_ONBOARDING_AND_CRM.md               (3954 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 14:13:22 | INFO     | scheme_scraper.pipeline.report_generator |     -> [32.6s] Created LIVE_CASE_TRACKER.md                       (2916 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 14:14:37 | INFO     | scheme_scraper.pipeline.report_generator |     -> [74.7s] Created FEE_AND_REVENUE_MODEL.md                   (4587 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 14:15:29 | INFO     | scheme_scraper.pipeline.report_generator |     -> [52.0s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3051 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 14:16:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.1s] Created COMPLIANCE_AND_LEGAL_PACK.md               (2845 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 14:16:15 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'TIDE 2.0'
+2026-05-22 14:16:15 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 14:16:15 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-6-credit-guarantee-scheme-for-startups-cgss
+2026-05-22 14:16:25 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Credit Guarantee Scheme for Startups (CGSS)': 30 pages, 15 PDFs, 200000 page chars, 300000 pdf chars
+2026-05-22 14:16:25 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 200000 page chars + 300000 pdf chars | key_facts: 5505 chars
+2026-05-22 14:16:25 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Credit Guarantee Scheme for Startups (CGSS)
+2026-05-22 14:18:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [110.9s] Created report.md                                  (8929 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 14:18:25 | WARNING  | scheme_scraper.llm.nvidia_client | LLM API transient error 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>. Retrying...
+2026-05-22 14:19:00 | INFO     | scheme_scraper.pipeline.report_generator |     -> [44.3s] Created SCHEME_MASTER_DATABASE.md                  (3096 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 14:20:34 | INFO     | scheme_scraper.pipeline.report_generator |     -> [94.0s] Created PITCH_AND_SALES_SCRIPTS.md                 (6753 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 14:22:50 | INFO     | scheme_scraper.pipeline.report_generator |     -> [135.1s] Created APPLICATION_PLAYBOOK.md                    (9068 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:23:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [52.5s] Created CLIENT_ONBOARDING_AND_CRM.md               (4633 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 14:24:28 | INFO     | scheme_scraper.pipeline.report_generator |     -> [45.9s] Created LIVE_CASE_TRACKER.md                       (2668 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 14:25:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [48.5s] Created FEE_AND_REVENUE_MODEL.md                   (3085 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 14:25:58 | INFO     | scheme_scraper.pipeline.report_generator |     -> [41.7s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2927 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 14:27:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> [76.4s] Created COMPLIANCE_AND_LEGAL_PACK.md               (5569 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 14:27:15 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Credit Guarantee Scheme for Startups (CGSS)'
+2026-05-22 14:27:15 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 14:27:15 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-7-nidhi-prayas
+2026-05-22 14:27:25 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'NIDHI Prayas': 30 pages, 15 PDFs, 200000 page chars, 300000 pdf chars
+2026-05-22 14:27:25 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 200000 page chars + 300000 pdf chars | key_facts: 3573 chars
+2026-05-22 14:27:25 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: NIDHI Prayas
+2026-05-22 14:28:52 | INFO     | scheme_scraper.pipeline.report_generator |     -> [87.5s] Created report.md                                  (6789 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 14:29:58 | INFO     | scheme_scraper.pipeline.report_generator |     -> [65.3s] Created SCHEME_MASTER_DATABASE.md                  (2672 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 14:31:50 | INFO     | scheme_scraper.pipeline.report_generator |     -> [111.9s] Created PITCH_AND_SALES_SCRIPTS.md                 (5935 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 14:33:11 | INFO     | scheme_scraper.pipeline.report_generator |     -> [81.3s] Created APPLICATION_PLAYBOOK.md                    (7858 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:33:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [48.5s] Created CLIENT_ONBOARDING_AND_CRM.md               (3691 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 14:35:00 | INFO     | scheme_scraper.pipeline.report_generator |     -> [60.2s] Created LIVE_CASE_TRACKER.md                       (2745 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 14:36:08 | INFO     | scheme_scraper.pipeline.report_generator |     -> [68.1s] Created FEE_AND_REVENUE_MODEL.md                   (3145 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 14:36:44 | INFO     | scheme_scraper.pipeline.report_generator |     -> [36.2s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2894 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 14:37:34 | INFO     | scheme_scraper.pipeline.report_generator |     -> [50.5s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3057 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 14:37:34 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'NIDHI Prayas'
+2026-05-22 14:37:34 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 14:37:34 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-8-fund-of-funds-for-startups-ffs
+2026-05-22 14:37:45 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Fund of Funds for Startups (FFS)': 30 pages, 15 PDFs, 200000 page chars, 300000 pdf chars
+2026-05-22 14:37:45 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 200000 page chars + 300000 pdf chars | key_facts: 4422 chars
+2026-05-22 14:37:45 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Fund of Funds for Startups (FFS)
+2026-05-22 14:40:31 | INFO     | scheme_scraper.pipeline.report_generator |     -> [165.8s] Created report.md                                  (10426 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 14:41:27 | INFO     | scheme_scraper.pipeline.report_generator |     -> [56.2s] Created SCHEME_MASTER_DATABASE.md                  (3442 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 14:43:03 | INFO     | scheme_scraper.pipeline.report_generator |     -> [95.8s] Created PITCH_AND_SALES_SCRIPTS.md                 (6903 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 14:44:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [116.1s] Created APPLICATION_PLAYBOOK.md                    (8792 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:45:56 | INFO     | scheme_scraper.pipeline.report_generator |     -> [57.5s] Created CLIENT_ONBOARDING_AND_CRM.md               (4403 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 14:46:48 | INFO     | scheme_scraper.pipeline.report_generator |     -> [51.6s] Created LIVE_CASE_TRACKER.md                       (2996 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 14:47:22 | INFO     | scheme_scraper.pipeline.report_generator |     -> [34.1s] Created FEE_AND_REVENUE_MODEL.md                   (2876 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 14:48:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [54.3s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3297 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 14:49:02 | INFO     | scheme_scraper.pipeline.report_generator |     -> [45.3s] Created COMPLIANCE_AND_LEGAL_PACK.md               (4618 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 14:49:02 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Fund of Funds for Startups (FFS)'
+2026-05-22 14:49:02 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 14:49:02 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-9-udyam-registration-portal
+2026-05-22 14:49:36 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Udyam Registration Portal': 19 pages, 19 PDFs, 7699 page chars, 300000 pdf chars
+2026-05-22 14:49:36 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 7699 page chars + 300000 pdf chars | key_facts: 3304 chars
+2026-05-22 14:49:36 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Udyam Registration Portal
+2026-05-22 14:53:45 | INFO     | scheme_scraper.pipeline.report_generator |     -> [249.3s] Created report.md                                  (17799 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 14:54:32 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.5s] Created SCHEME_MASTER_DATABASE.md                  (2643 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 14:56:02 | INFO     | scheme_scraper.pipeline.report_generator |     -> [90.7s] Created PITCH_AND_SALES_SCRIPTS.md                 (5908 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-05-22 14:58:29 | INFO     | scheme_scraper.pipeline.report_generator |     -> [146.9s] Created APPLICATION_PLAYBOOK.md                    (10613 chars) | Application Playbook (5-stage execution guide)
+2026-05-22 14:59:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [72.7s] Created CLIENT_ONBOARDING_AND_CRM.md               (3350 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-05-22 15:00:28 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.3s] Created LIVE_CASE_TRACKER.md                       (2309 chars) | Live Case Tracker (operations dashboard)
+2026-05-22 15:01:07 | INFO     | scheme_scraper.pipeline.report_generator |     -> [39.2s] Created FEE_AND_REVENUE_MODEL.md                   (2623 chars) | Fee & Revenue Model (pricing + projections)
+2026-05-22 15:01:54 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.8s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2952 chars) | Client Proposal Template (ready-to-send)
+2026-05-22 15:02:41 | INFO     | scheme_scraper.pipeline.report_generator |     -> [47.0s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3005 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-05-22 15:02:41 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Udyam Registration Portal'
+2026-05-22 15:02:41 | INFO     | scheme_scraper.pipeline.report_generator | All business document reports complete.
+2026-05-22 15:02:41 | INFO     | scheme_scraper | ============================================================
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   PIPELINE COMPLETE
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Total elapsed   : 8022.6 seconds (133.7 minutes)
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Enriched CSV    : runs\run_20260522_1248\enriched_schemes.csv
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Artifacts       : runs\run_20260522_1248/artifacts/
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Full log        : runs\run_20260522_1248/pipeline.log
+2026-05-22 15:02:41 | INFO     | scheme_scraper | ============================================================
+2026-05-22 15:02:41 | INFO     | scheme_scraper | 
+  SCHEME                                   STATUS     CONF   TIME(s)   
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   ----------------------------------------------------------------------
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   PM-SETU                                  completed  medium 159.6     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Startup India Seed Fund Scheme (SISFS)   completed  high   169.8     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Startup India Initiative                 completed  high   370.9     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Credit Guarantee Scheme for Startups (   completed  high   456.5     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   TIDE 2.0                                 completed  high   480.8     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   NIDHI Prayas                             completed  medium 326.4     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Fund of Funds for Startups (FFS)         completed  high   358.6     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Digital India Bhashini                   completed  medium 708.1     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Udyam Registration Portal                completed  high   389.1     
+2026-05-22 15:02:41 | INFO     | scheme_scraper |   Annapurna Scheme                         completed  medium 403.4     

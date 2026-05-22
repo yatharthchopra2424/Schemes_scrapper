@@ -1,8 +1,15 @@
 import logging
 import os
 import time
+import argparse
 from pathlib import Path
 from typing import List
+
+import os
+os.environ["HF_HUB_OFFLINE"] = "1"  # Force HuggingFace to use local cache and prevent network requests
+
+from dotenv import load_dotenv
+load_dotenv()
 
 from pinecone import Pinecone, ServerlessSpec
 from langchain_community.document_loaders import DirectoryLoader, TextLoader
@@ -28,7 +35,7 @@ def ingest_markdown_data(artifacts_dir: Path, settings: AppSettings) -> None:
 
     try:
         # Load all .md files from the artifacts directory (recursive)
-        loader = DirectoryLoader(str(artifacts_dir), glob="**/*.md", loader_cls=TextLoader)
+        loader = DirectoryLoader(str(artifacts_dir), glob="**/*.md", loader_cls=TextLoader, loader_kwargs={'encoding': 'utf-8'})
         docs = loader.load()
         if not docs:
             logger.info("No Markdown documents found to ingest.")
@@ -55,8 +62,32 @@ def ingest_markdown_data(artifacts_dir: Path, settings: AppSettings) -> None:
             source_path = doc.metadata.get("source", "unknown.md")
             filename = os.path.basename(source_path)
             
+            # Try to load ai_summary.json from the same directory to attach metadata
+            scheme_dir = os.path.dirname(source_path)
+            summary_path = os.path.join(scheme_dir, "ai_summary.json")
+            metadata_tags = {}
+            if os.path.exists(summary_path):
+                try:
+                    import json
+                    with open(summary_path, "r", encoding="utf-8") as f:
+                        summary = json.load(f)
+                        metadata_tags["scheme_name"] = summary.get("scheme_name", "")
+                        metadata_tags["ministry"] = summary.get("ministry_or_category", "")
+                        metadata_tags["geographic_scope"] = summary.get("geographic_scope", "")
+                        
+                        # Extract implied sector and revenue constraints for Agent 1 filtering
+                        # For simplicity we extract keywords. A more advanced extraction could use LLM here.
+                        metadata_tags["sector"] = summary.get("target_beneficiaries", "") 
+                        metadata_tags["state"] = summary.get("geographic_scope", "")
+                except Exception as e:
+                    logger.warning("Could not read ai_summary.json for %s: %s", filename, e)
+
             for split in splits:
                 split.metadata["source_file"] = filename
+                # Inject parsed metadata for Pinecone RAG
+                for k, v in metadata_tags.items():
+                    if v:
+                        split.metadata[k] = str(v)
             all_splits.extend(splits)
 
         # Secondary split for massive chunks
@@ -90,17 +121,55 @@ def ingest_markdown_data(artifacts_dir: Path, settings: AppSettings) -> None:
 
         logger.info("Chunking complete. Upserting %d chunks to Pinecone index: %s", len(final_splits), settings.vector_db.index_name)
 
-        # Init embeddings (Downloads the local HuggingFace model on first run)
-        embeddings = HuggingFaceEmbeddings(model_name=settings.vector_db.embedding_model)
+        # Init embeddings (Uses strictly offline cached model on CPU)
+        embeddings = HuggingFaceEmbeddings(
+            model_name=settings.vector_db.embedding_model,
+            model_kwargs={'device': 'cpu'}
+        )
 
         # Upsert
+        t0 = time.time()
         PineconeVectorStore.from_documents(
             final_splits, 
             embeddings, 
             index_name=settings.vector_db.index_name
         )
+        elapsed_time = time.time() - t0
 
-        logger.info("Successfully ingested markdown data into Vector DB.")
+        logger.info("Successfully ingested markdown data into Vector DB in %.2f seconds.", elapsed_time)
 
     except Exception as exc:
         logger.error("Vector DB Ingestion failed: %s", exc, exc_info=True)
+
+if __name__ == "__main__":
+    parser = argparse.ArgumentParser(description="Ingest markdown artifacts into Pinecone Vector DB.")
+    parser.add_argument("--run-dir", required=False, help="Path to the run directory containing artifacts. Defaults to latest run if not specified.")
+    args = parser.parse_args()
+
+    # Setup basic logging
+    logging.basicConfig(level=logging.INFO, format="%(asctime)s | %(levelname)-8s | %(name)s | %(message)s")
+
+    from ..config import load_settings
+    settings = load_settings()
+
+    if args.run_dir:
+        run_dir = Path(args.run_dir)
+    else:
+        # Auto-detect latest run
+        runs_path = Path("runs")
+        if not runs_path.exists():
+            logger.error("No 'runs' directory found and no --run-dir specified.")
+            exit(1)
+        subdirs = [d for d in runs_path.iterdir() if d.is_dir() and d.name.startswith("run_")]
+        if not subdirs:
+            logger.error("No run directories found in 'runs/'.")
+            exit(1)
+        run_dir = sorted(subdirs)[-1]
+        logger.info(f"Targeting latest run directory: {run_dir}")
+
+    artifacts_dir = run_dir / "artifacts"
+    
+    if artifacts_dir.exists():
+        ingest_markdown_data(artifacts_dir, settings)
+    else:
+        logger.error("Artifacts directory not found: %s", artifacts_dir)

@@ -121,8 +121,8 @@ def download_and_extract_document(
 
 def build_pdf_evidence_text(
     documents_dir: Path,
-    max_chars_per_doc: int = 20_000,
-    max_total_chars: int = 120_000,
+    max_chars_per_doc: int = 100_000,
+    max_total_chars: int = 300_000,
 ) -> str:
     """
     Read all already-downloaded PDF/DOCX files from a scheme's documents/ folder

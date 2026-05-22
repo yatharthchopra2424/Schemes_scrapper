@@ -120,7 +120,7 @@ def _build_key_facts(summary: dict[str, Any]) -> str:
     return "\n".join(lines)
 
 
-def _build_page_text(bundle: dict[str, Any], max_chars: int = 80_000) -> tuple[str, int]:
+def _build_page_text(bundle: dict[str, Any], max_chars: int = 200_000) -> tuple[str, int]:
     """Extract and concatenate crawled page text from evidence_bundle.json."""
     evidence_section = bundle.get("evidence") or bundle.get("crawl") or {}
     pages = evidence_section.get("pages", [])
@@ -145,7 +145,7 @@ def _build_page_text(bundle: dict[str, Any], max_chars: int = 80_000) -> tuple[s
     return combined[:max_chars], len(pages)
 
 
-def synthesize(scheme_dir: Path, max_full_text: int = 150_000) -> SynthesizedEvidence:
+def synthesize(scheme_dir: Path, max_full_text: int = 400_000) -> SynthesizedEvidence:
     """
     Build a SynthesizedEvidence for the given scheme artifact directory.
 

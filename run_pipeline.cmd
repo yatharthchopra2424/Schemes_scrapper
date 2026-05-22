@@ -31,7 +31,7 @@ set RUN_ID=run_%DATETIME:~0,8%_%DATETIME:~8,4%
 set RESUME=
 set SKIP_LLM=
 set MAX_SCHEMES=
-set WORKERS=--workers 2
+set WORKERS=--workers 6
 
 :: GIL settings for Python 3.14 free-threading
 set PYTHON_GIL=0
@@ -101,6 +101,30 @@ if %PIPELINE_EXIT% == 0 (
     echo.
     echo  Generating run health dashboard...
     %VENV_PYTHON% -m scheme_scraper.pipeline.pipeline_summary --run-dir %OUTPUT_ROOT%\%RUN_ID%
+    
+    echo.
+    echo  ╔══════════════════════════════════════════════════════════════╗
+    echo  ║  GENERATING VECTOR DATABASE INGESTION                        ║
+    echo  ╚══════════════════════════════════════════════════════════════╝
+    echo.
+    echo  Running Vector DB Ingestion...
+    %VENV_PYTHON% -m scheme_scraper.pipeline.vectorstore_ingest --run-dir %OUTPUT_ROOT%\%RUN_ID%
+
+    echo.
+    echo  ╔══════════════════════════════════════════════════════════════╗
+    echo  ║  GENERATING MULTI-AGENT PROPOSAL (PDF)                       ║
+    echo  ╚══════════════════════════════════════════════════════════════╝
+    echo.
+    echo  Running Multi-Agent Engine for client_profile.json...
+    %VENV_PYTHON% -m scheme_scraper.pipeline.generate_proposals
+
+    echo.
+    echo  ╔══════════════════════════════════════════════════════════════╗
+    echo  ║  INFOU BATCH PDF GENERATOR                                   ║
+    echo  ╚══════════════════════════════════════════════════════════════╝
+    echo.
+    echo  Converting latest run artifacts to PDF...
+    %VENV_PYTHON% -m src.scheme_scraper.pipeline.convert_latest_run_to_pdf
 ) else (
     echo  ╔══════════════════════════════════════════════════════════════╗
     echo  ║  PIPELINE EXITED WITH CODE: %PIPELINE_EXIT%                          ║

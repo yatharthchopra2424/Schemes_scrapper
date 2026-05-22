@@ -80,7 +80,7 @@ class NvidiaLLMClient:
         Returns the raw string content of the first choice.
         """
         retrying = Retrying(
-            retry=retry_if_exception_type((APIConnectionError, APITimeoutError)),
+            retry=retry_if_exception_type((APIConnectionError, APITimeoutError, APIStatusError)),
             stop=stop_after_attempt(self.settings.llm.max_retries + 1),
             wait=wait_exponential(multiplier=2, min=2, max=30),
             reraise=True,
@@ -92,14 +92,20 @@ class NvidiaLLMClient:
             with attempt:
                 t0 = time.perf_counter()
                 try:
-                    completion = self.client.chat.completions.create(
-                        model=self.model,
-                        messages=cast(Any, messages),
-                        temperature=self.settings.llm.temperature,
-                        top_p=self.settings.llm.top_p,
-                        max_tokens=effective_max_tokens,
-                        stream=False,
-                    )
+                    kwargs = {
+                        "model": self.model,
+                        "messages": cast(Any, messages),
+                        "temperature": self.settings.llm.temperature,
+                        "top_p": self.settings.llm.top_p,
+                        "max_tokens": effective_max_tokens,
+                        "stream": False,
+                    }
+                    if "nemotron" in self.model.lower():
+                        kwargs["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}, "reasoning_budget": 0}
+                    elif "deepseek" in self.model.lower():
+                        kwargs["extra_body"] = {"chat_template_kwargs": {"thinking": False, "reasoning_effort": "low"}}
+
+                    completion = self.client.chat.completions.create(**kwargs)
                     content = completion.choices[0].message.content or ""
                     elapsed = time.perf_counter() - t0
                     usage = completion.usage
@@ -114,11 +120,13 @@ class NvidiaLLMClient:
                         logger.debug("LLM response received in %.1fs", elapsed)
                     return content
                 except APIStatusError as exc:
-                    # 4xx errors are not retryable — log and re-raise immediately
-                    logger.warning(
-                        "LLM API status error %d: %s", exc.status_code, exc.message
-                    )
-                    raise
+                    if exc.status_code >= 500 or exc.status_code == 429:
+                        logger.warning("LLM API transient error %d: %s. Retrying...", exc.status_code, exc.message)
+                        raise  # Let tenacity retry it
+                    
+                    # 4xx errors (other than 429) are not retryable — log and abort
+                    logger.warning("LLM API fatal status error %d: %s", exc.status_code, exc.message)
+                    raise ValueError(f"LLM API Error {exc.status_code}: {exc.message}") from exc
 
         raise RuntimeError("LLM completion failed after all retries")
 

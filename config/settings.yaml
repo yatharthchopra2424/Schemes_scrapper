@@ -21,15 +21,15 @@ documents:
 llm:
   provider: nvidia_openai_compat
   base_url: "https://integrate.api.nvidia.com/v1"
-  model: "meta/llama-3.3-70b-instruct"
+  model: "nvidia/nemotron-3-super-120b-a12b"
   temperature: 0.2
   top_p: 0.95
   max_tokens: 9880
-  timeout_seconds: 120
+  timeout_seconds: 600
   max_retries: 3
 
 runtime:
-  parallel_workers: 2
+  parallel_workers: 6
   log_level: "INFO"
   log_to_file: true
 

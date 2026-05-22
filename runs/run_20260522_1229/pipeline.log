@@ -1,0 +1,45 @@
+2026-05-22 12:30:15 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   INFOU SCHEME INTELLIGENCE PIPELINE
+2026-05-22 12:30:15 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Python        : 3.10.11
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Input CSV     : data\input\sample_schemes.csv
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Run Directory : runs\run_20260522_1229
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Log File      : runs\run_20260522_1229\pipeline.log
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Model         : nvidia/nemotron-3-super-120b-a12b
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Workers       : 6
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Headless      : True
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Images Off    : True
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   Max Pages     : 30/scheme
+2026-05-22 12:30:15 | INFO     | scheme_scraper |   NVIDIA Key    : SET (nvapi-n3...)
+2026-05-22 12:30:15 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:30:15 | INFO     | scheme_scraper | Pipeline start: 1 total, 1 pending, 6 workers
+2026-05-22 12:30:15 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: nvidia/nemotron-3-super-120b-a12b | Base: https://integrate.api.nvidia.com/v1
+2026-05-22 12:30:15 | INFO     | scheme_scraper | >> Starting: Startup India Initiative [row-1]
+2026-05-22 12:30:22 | INFO     | scheme_scraper.crawler.driver | Chrome driver created (headless=True, images=off)
+2026-05-22 12:33:57 | INFO     | scheme_scraper | Crawl complete for 'Startup India Initiative': 30 pages, 20 docs, 2 errors, 0 skipped
+2026-05-22 12:34:00 | INFO     | scheme_scraper |   Crawled 30 pages, 20 docs, evidence text: 368654 chars
+2026-05-22 12:36:07 | INFO     | scheme_scraper.llm.nvidia_client | LLM analysis complete for 'Startup India Initiative': confidence=high, objectives=16, docs=9
+2026-05-22 12:36:07 | INFO     | scheme_scraper | [DONE] Completed: Startup India Initiative | confidence=high | 352.3s
+2026-05-22 12:36:07 | INFO     | scheme_scraper | Progress: 1/1 (completed)
+2026-05-22 12:36:07 | INFO     | scheme_scraper | Executing Vector Database ingestion step...
+2026-05-22 12:36:07 | INFO     | scheme_scraper.pipeline.vectorstore_ingest | Starting Vector DB Ingestion from runs\run_20260522_1229\artifacts
+2026-05-22 12:36:07 | INFO     | scheme_scraper.pipeline.vectorstore_ingest | No Markdown documents found to ingest.
+2026-05-22 12:36:07 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:36:07 | INFO     | scheme_scraper |   PHASE 2: Generating supplementary Markdown reports...
+2026-05-22 12:36:07 | INFO     | scheme_scraper | ============================================================
+2026-05-22 12:36:07 | INFO     | scheme_scraper.llm.nvidia_client | LLM client initialised. Model: nvidia/nemotron-3-super-120b-a12b | Base: https://integrate.api.nvidia.com/v1
+2026-05-22 12:36:07 | INFO     | scheme_scraper.pipeline.report_generator | Generating 9 business documents for 1 scheme(s)...
+2026-05-22 12:36:07 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-05-22 12:36:07 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-1-startup-india-initiative
+2026-05-22 12:36:20 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Startup India Initiative': 30 pages, 18 PDFs, 200000 page chars, 300000 pdf chars
+2026-05-22 12:36:20 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 200000 page chars + 300000 pdf chars | key_facts: 6728 chars
+2026-05-22 12:36:20 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Startup India Initiative
+2026-05-22 12:39:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [219.2s] Created report.md                                  (16873 chars) | Comprehensive Scheme Report & File Index
+2026-05-22 12:41:02 | INFO     | scheme_scraper.pipeline.report_generator |     -> [62.7s] Created SCHEME_MASTER_DATABASE.md                  (4160 chars) | Scheme Master DB entry (AI qualification brain)
+2026-05-22 12:41:14 | WARNING  | scheme_scraper.llm.nvidia_client | LLM API transient error 502: <html>
+<head><title>502 Bad Gateway</title></head>
+<body>
+<center><h1>502 Bad Gateway</h1></center>
+</body>
+</html>. Retrying...
+2026-05-22 12:42:48 | INFO     | scheme_scraper.pipeline.report_generator |     -> [105.9s] Created PITCH_AND_SALES_SCRIPTS.md                 (6823 chars) | Pitch & Sales Scripts (discovery call + objection handlers)

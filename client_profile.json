@@ -1,0 +1,10 @@
+{
+  "company_name": "Acme Manufacturing Tech",
+  "industry": "Manufacturing",
+  "revenue_cr": 12.5,
+  "state": "New Delhi",
+  "certifications": ["ISO 9001"],
+  "goals": "Looking to expand manufacturing capacity and adopt industry 4.0 standards. Seeking grants and incentives for machinery upgrade and job creation.",
+  "founded_year": 2021,
+  "employee_count": 45
+}

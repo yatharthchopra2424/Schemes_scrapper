@@ -8,8 +8,8 @@ from langchain_huggingface import HuggingFaceEmbeddings
 from langchain_pinecone import PineconeVectorStore
 from langchain_nvidia_ai_endpoints import ChatNVIDIA
 from langchain_core.prompts import ChatPromptTemplate
-from langchain.chains.combine_documents import create_stuff_documents_chain
-from langchain.chains import create_retrieval_chain
+from langchain_core.runnables import RunnablePassthrough, RunnableParallel
+from langchain_core.output_parsers import StrOutputParser
 
 from ..config import load_settings
 
@@ -35,6 +35,7 @@ vectorstore = None
 retriever = None
 llm = None
 rag_chain = None
+restricted_rag_chain = None
 
 
 @app.on_event("startup")
@@ -70,8 +71,44 @@ async def startup_event():
             ("human", "{input}"),
         ])
 
-        question_answer_chain = create_stuff_documents_chain(llm, prompt)
-        rag_chain = create_retrieval_chain(retriever, question_answer_chain)
+        def format_docs(docs):
+            return "\n\n".join(doc.page_content for doc in docs)
+
+        rag_chain_from_docs = (
+            RunnablePassthrough.assign(context=(lambda x: format_docs(x["context"])))
+            | prompt
+            | llm
+            | StrOutputParser()
+        )
+
+        global rag_chain
+        rag_chain = RunnableParallel(
+            {"context": retriever, "input": RunnablePassthrough()}
+        ).assign(answer=rag_chain_from_docs)
+
+        # Restricted API Chain Initialization
+        restricted_system_prompt = (
+            "You are a highly restricted assistant. Answer the user's question using ONLY a single sentence based on the context.\n"
+            "Give a simple one-liner about the scheme. Do NOT provide detailed explanations, financial amounts, eligibility criteria, or specific data that could be considered sensitive.\n"
+            "If you don't know the answer based on the context, say 'I do not have information on this'.\n\n"
+            "Context Information:\n{context}"
+        )
+        
+        restricted_prompt = ChatPromptTemplate.from_messages([
+            ("system", restricted_system_prompt),
+            ("human", "{input}"),
+        ])
+        
+        global restricted_rag_chain
+        restricted_rag_chain = RunnableParallel(
+            {"context": retriever, "input": RunnablePassthrough()}
+        ).assign(answer=(
+            RunnablePassthrough.assign(context=(lambda x: format_docs(x["context"])))
+            | restricted_prompt
+            | llm
+            | StrOutputParser()
+        ))
+
         logger.info("RAG Pipeline successfully initialized and ready for requests.")
 
     except Exception as exc:
@@ -105,3 +142,22 @@ async def chat_endpoint(request: ChatRequest):
     except Exception as e:
         logger.error("Chat endpoint error: %s", e, exc_info=True)
         raise HTTPException(status_code=500, detail=str(e))
+
+class RestrictedChatResponse(BaseModel):
+    answer: str
+
+@app.post("/chat-restricted", response_model=RestrictedChatResponse)
+async def chat_restricted_endpoint(request: ChatRequest):
+    if not restricted_rag_chain:
+        raise HTTPException(status_code=503, detail="RAG Pipeline is not initialized or failed to start.")
+        
+    try:
+        response = restricted_rag_chain.invoke({"input": request.query})
+        
+        # Do not extract or return any sources, just the one-liner answer
+        return RestrictedChatResponse(
+            answer=response["answer"]
+        )
+    except Exception as e:
+        logger.error("Restricted chat endpoint error: %s", e, exc_info=True)
+        raise HTTPException(status_code=500, detail="Internal server error")
