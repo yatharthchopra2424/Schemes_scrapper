@@ -1,0 +1,402 @@
+{
+  "row-2|Startup India Seed Fund Scheme (SISFS)|https://seedfund.startupindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-6|TIDE 2.0|https://msh.meity.gov.in/schemes/tide": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-5|Startup India Fund of Funds 2.0|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-3|Credit Guarantee Scheme for Startups (CGSS)|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-1|Startup India Initiative|https://www.startupindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-4|Fund of Funds for Startups (FFS)|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-7|SAMRIDH Startup Accelerator|https://msh.meity.gov.in/schemes/samridh": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-8|Digital India Bhashini|https://www.digitalindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-9|Future Skills PRIME|https://www.digitalindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-10|Chips to Startup (C2S)|https://msh.meity.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-12|NIDHI Prayas|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-13|NIDHI EIR|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-11|GENESIS Program (MeitY)|https://msh.meity.gov.in/schemes/genesis": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-14|NIDHI Seed Support|https://nidhi.dst.gov.in/nidhissp/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-15|Technology Business Incubators|https://www.startupindia.gov.in/content/sih/en/government-schemes.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-16|SERB Grants|https://dst.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-17|SAIF Facilities|https://dst.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-18|Research Development & Innovation (RDI) Scheme|https://rdifund.anrf.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-20|National Deep Tech Startup Policy (NDTSP)|https://www.psa.gov.in/deep-tech-policy": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-21|IndiaAI Mission \u2013 National Program on Artificial Intelligence|https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-22|STPI + C-DOT Samarth Incubation Program|https://stpi.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-24|BIG Grant|https://birac.nic.in/big.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-19|DST Multiplier & Collaborative R&D Grants|https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/multiplier-grants-scheme-mgs": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-23|Atal Innovation Mission (AIM)|https://aim.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-25|SBIRI|https://www.dbtindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-26|PACE|https://www.birac.nic.in/desc_new.php?id=286": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-29|PMEGP|https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-27|BioNEST Incubation|https://birac.nic.in/bionest.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-30|CLCSS|https://www.nimsme.gov.in/about-scheme/credit-linked-capital-subsidy-scheme-for-technology-upgradation": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-31|ZED Certification|https://zed.msme.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-34|SFURTI|https://sfurti.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-32|MSME Champions Scheme|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-37|Agri Clinics & Agribusiness Centres|https://agricoop.nic.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-33|MSME Incubation Scheme|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-38|NABARD Startup & Innovation Fund|https://nabard.org/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-40|PM-PRANAM|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-35|TREAD for Women|https://msme.gov.in/tread": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-36|RKVY-RAFTAAR|https://rkvy.nic.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-28|Seed Fund for Bio Startups|https://www.birac.nic.in/seedFundNew.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-42|iDEX|https://www.isp.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-46|Mahila E-Haat|https://www.mahilahaat.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-45|Stand-Up India|https://www.standupmitra.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-44|IN-SPACe Seed Fund|https://www.inspaceindia.org/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-47|DAY-NRLM Startup Grants|https://svep.nrlm.gov.in/landing": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-43|DRDO Technology Development Fund|https://www.drdo.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-39|Digital Agriculture Mission|https://agriwelfare.gov.in/en/DigiAgriDiv": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-48|ONGC Startup Fund|https://www.ongcindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-53|Startup Village Entrepreneurship Programme (SVEP)|https://svepindia.org/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-50|IOCL Startup Scheme|https://iocl.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-49|BHEL Innovation Challenge|https://www.bhel.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-54|Skill India Digital|https://www.skillindia.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-41|Pradhan Mantri Matsya Sampada Yojana (PMMSY)|https://pmmsy.dof.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-55|PMKVY|https://pmkvyofficial.org/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-58|FAME I & II|https://fame.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-60|ACC Battery Scheme|https://dhi.nic.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-52|NTPC Startup Incubation|https://www.ntpc.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-59|PLI for Auto & EV|https://dhi.nic.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-63|Market Access Initiative (MAI)|https://www.commerce.gov.in/international-trade/trade-promotion-programmes-and-schemes/trade-promotion-programme-focus-cis/market-access-initiative-mai-scheme/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-64|Trade Infrastructure for Export Scheme (TIES)|https://www.commerce.gov.in/ties": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-57|PM-DAKSH|https://pmdaksh.dosje.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-51|BPCL Ankur Fund|https://www.bharatpetroleum.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-65|Remission of Duties and Taxes on Exported Products (RoDTEP)|https://dgft.gov.in/rodtep": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-56|PM-SETU|https://dgt.gov.in/en/scheme-guidelines-of-pmsetu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-62|Export Promotion Capital Goods (EPCG)|https://www.dgft.gov.in/CP/?opt=epcg": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-69|Credit Enhancement Guarantee Scheme for SCs|https://www.ifcicegssc.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-67|SMILE Scheme|https://smile-b.dosje.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-61|PM E-DRIVE|https://pmedrive.heavyindustries.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-66|PM-AJAY|https://pmajay.dosje.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-68|Atal Vayo Abhyuday Yojana (AVYAY)|https://grants-msje.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-71|NSFDC|https://www.nsfdc.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-75|Gramin Rozgar Mission (GARIMA)|https://rural.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-70|NSKFDC|https://nskfdc.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-76|PM Surya Ghar: Muft Bijli Yojana|https://pmsuryaghar.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-74|Urban Challenge Fund (UCF)|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-72|SEED Scheme for DNTs|https://dwbdnc.dosje.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-77|PM-KUSUM|https://pmkusum.mnre.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-80|Grid Connected Rooftop Solar Programme Phase-II|https://solarrooftop.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-78|National Bio Energy Programme - Biogas|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-79|National Bio Energy Programme - Biomass|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-82|PLI Scheme for IT Hardware 2.0|https://pliithw.com/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-81|Carbon Credit Trading Scheme 2023|https://powermin.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-73|NAMASTE|https://namastescheme.com/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-85|PLI Scheme for Pharmaceuticals|https://pharma-dept.gov.in/schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-84|PLI Scheme for Specialty Steel|https://plimos.mecon.co.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-83|PLI Scheme for Textiles|https://pli.texmin.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-87|PLI for Medical Devices|https://pharma-dept.gov.in/schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-86|PLI for Domestic Manufacturing of KSMs/APIs|https://pharma-dept.gov.in/schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-89|Scheme for Strengthening of Pharmaceuticals Industry (SPI)|https://pharma-dept.gov.in/schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-90|PRIP Scheme|https://pharma-dept.gov.in/schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-88|PLISFPI|https://www.mofpi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-94|PM Gramin Awas Yojana (PMAY-G)|https://pmayg.nic.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-96|Deep Ocean Mission|https://www.moes.gov.in/schemes/dom": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-92|National Action Plan for Drug Demand Reduction|https://grants-msje.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-91|Ayushman Bharat PM-JAY|https://nha.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-98|Gyan Bharatam Mission|https://gyanbharatam.com/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-95|Mission Mausam|https://mausam.imd.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-99|Modified UDAN Scheme|https://www.aai.aero/en/rcs-udan": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-93|PM Awaas Yojana - Urban (PMAY-U)|https://pmay-urban.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-97|PM-JANMAN|https://tribal.nic.in/PM-JANMAN.aspx": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-100|Anusandhan National Research Foundation (ANRF)|https://anrfonline.in/": {
+    "status": "completed",
+    "error": ""
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "scheme": {
+    "row_id": "row-67",
+    "ministry_or_category": "Social Justice & Empowerment",
+    "scheme_name": "SMILE Scheme",
+    "scheme_url": "https://smile-b.dosje.gov.in/"
+  },
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://smile-b.dosje.gov.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-67-smile-scheme\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:17:08.840812+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://smile-b.dosje.gov.in/: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "evidence": {
+    "pages": [
+      {
+        "url": "https://smile-b.dosje.gov.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-67-smile-scheme\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:17:08.840812+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://smile-b.dosje.gov.in/: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "analysis": {
+    "overview": "The SMILE Scheme (Support for Marginalized Individuals for Livelihood and Enterprise) is a Central Sector Scheme under the Ministry of Social Justice and Empowerment, Government of India, aimed at providing rehabilitation, livelihood support, and enterprise development to marginalized groups including transgender persons and persons engaged in begging. It focuses on comprehensive welfare through shelter, skill development, medical support, and financial assistance for self-employment and entrepreneurship.",
+    "scheme_type": "subsidy",
+    "target_beneficiaries": [
+      "transgender persons",
+      "persons engaged in begging",
+      "marginalized individuals",
+      "SC/ST",
+      "OBC"
+    ],
+    "geographic_scope": "Pan-India",
+    "objectives": [
+      "Provide rehabilitation and livelihood support to transgender persons and persons engaged in begging",
+      "Establish shelter homes with basic facilities for target beneficiaries",
+      "Offer skill development and vocational training for sustainable livelihoods",
+      "Facilitate access to medical care, counselling, and legal aid",
+      "Promote self-employment and enterprise development through financial assistance and subsidies",
+      "Ensure social inclusion and protection of rights of marginalized communities",
+      "Strengthen outreach and identification of beneficiaries through surveys and surveys",
+      "Monitor and evaluate the implementation of the scheme for effective delivery"
+    ],
+    "eligibility": "The scheme covers transgender persons and persons engaged in begging who are identified through surveys conducted by State Governments/UT Administrations or implementing agencies. Beneficiaries must be Indian citizens and belong to the target groups as defined under the scheme. There is no income ceiling specified, but priority is given to those living in extreme poverty or without sustainable livelihood.",
+    "benefits": "Beneficiaries receive financial assistance for setting up self-employment ventures, access to shelter homes with food and sanitation facilities, skill development training, medical health cards, counselling services, legal aid for identity documentation, and support for education and scholarships. The scheme also provides seed capital and margin money assistance for entrepreneurial activities.",
+    "financial_support": "Under the SMILE Scheme, financial support is provided in the form of subsidies and seed capital for self-employment and enterprise development. Eligible individuals can receive one-time financial assistance for income-generating activities, with specific amounts varying based on the nature of the venture and State-level implementation guidelines. The support is disbursed through implementing agencies after verification of business plans and training completion.",
+    "fund_size_crores": "",
+    "grant_amount_per_entity": "",
+    "application_process": "1. Identification of beneficiaries through surveys conducted by State Governments/UT Administrations or NGOs. 2. Verification of eligibility and enrollment in the scheme. 3. Provision of temporary shelter and basic amenities in shelter homes. 4. Enrollment in skill development and vocational training programs. 5. Submission of business plan for self-employment or enterprise. 6. Assessment and approval of financial assistance by the implementing agency. 7. Disbursement of seed capital or subsidy for setting up the venture. 8. Post-disbursement monitoring and mentorship support.",
+    "application_portal_url": "",
+    "required_documents": [
+      "Proof of identity (Aadhaar card, Voter ID, etc.)",
+      "Proof of residence",
+      "Certificate of transgender identity (if applicable)",
+      "Proof of engagement in begging (as per survey or affidavit)",
+      "Bank account details",
+      "Passport-sized photographs",
+      "Business plan or project proposal (for self-employment assistance)"
+    ],
+    "deadlines": "Rolling basis — identification and enrollment are ongoing through periodic surveys.",
+    "implementing_agency": "Ministry of Social Justice and Empowerment, Government of India",
+    "contact_details": "",
+    "caveats": [
+      "Financial assistance is subject to availability of funds and State-level allocation",
+      "Benefits are contingent upon successful completion of skill training and submission of viable business plans",
+      "Duplicate benefits from other Central or State schemes for the same purpose are not permitted",
+      "The scheme does not provide recurring monthly stipends; support is primarily for initial setup and rehabilitation"
+    ],
+    "source_cited_notes": [
+      "https://smile-b.dosje.gov.in/"
+    ],
+    "last_updated_date": "",
+    "confidence": "medium",
+    "analysis_timestamp": "2026-06-14T12:17:53.823101+00:00"
+  },
+  "analysis_raw": "{\n  \"overview\": \"The SMILE Scheme (Support for Marginalized Individuals for Livelihood and Enterprise) is a Central Sector Scheme under the Ministry of Social Justice and Empowerment, Government of India, aimed at providing rehabilitation, livelihood support, and enterprise development to marginalized groups including transgender persons and persons engaged in begging. It focuses on comprehensive welfare through shelter, skill development, medical support, and financial assistance for self-employment and entrepreneurship.\",\n  \"scheme_type\": \"subsidy\",\n  \"target_beneficiaries\": [\"transgender persons\", \"persons engaged in begging\", \"marginalized individuals\", \"SC/ST\", \"OBC\"],\n  \"geographic_scope\": \"Pan-India\",\n  \"objectives\": [\n    \"Provide rehabilitation and livelihood support to transgender persons and persons engaged in begging\",\n    \"Establish shelter homes with basic facilities for target beneficiaries\",\n    \"Offer skill development and vocational training for sustainable livelihoods\",\n    \"Facilitate access to medical care, counselling, and legal aid\",\n    \"Promote self-employment and enterprise development through financial assistance and subsidies\",\n    \"Ensure social inclusion and protection of rights of marginalized communities\",\n    \"Strengthen outreach and identification of beneficiaries through surveys and surveys\",\n    \"Monitor and evaluate the implementation of the scheme for effective delivery\"\n  ],\n  \"eligibility\": \"The scheme covers transgender persons and persons engaged in begging who are identified through surveys conducted by State Governments/UT Administrations or implementing agencies. Beneficiaries must be Indian citizens and belong to the target groups as defined under the scheme. There is no income ceiling specified, but priority is given to those living in extreme poverty or without sustainable livelihood.\",\n  \"benefits\": \"Beneficiaries receive financial assistance for setting up self-employment ventures, access to shelter homes with food and sanitation facilities, skill development training, medical health cards, counselling services, legal aid for identity documentation, and support for education and scholarships. The scheme also provides seed capital and margin money assistance for entrepreneurial activities.\",\n  \"financial_support\": \"Under the SMILE Scheme, financial support is provided in the form of subsidies and seed capital for self-employment and enterprise development. Eligible individuals can receive one-time financial assistance for income-generating activities, with specific amounts varying based on the nature of the venture and State-level implementation guidelines. The support is disbursed through implementing agencies after verification of business plans and training completion.\",\n  \"fund_size_crores\": \"\",\n  \"grant_amount_per_entity\": \"\",\n  \"application_process\": \"1. Identification of beneficiaries through surveys conducted by State Governments/UT Administrations or NGOs. 2. Verification of eligibility and enrollment in the scheme. 3. Provision of temporary shelter and basic amenities in shelter homes. 4. Enrollment in skill development and vocational training programs. 5. Submission of business plan for self-employment or enterprise. 6. Assessment and approval of financial assistance by the implementing agency. 7. Disbursement of seed capital or subsidy for setting up the venture. 8. Post-disbursement monitoring and mentorship support.\",\n  \"application_portal_url\": \"\",\n  \"required_documents\": [\n    \"Proof of identity (Aadhaar card, Voter ID, etc.)\",\n    \"Proof of residence\",\n    \"Certificate of transgender identity (if applicable)\",\n    \"Proof of engagement in begging (as per survey or affidavit)\",\n    \"Bank account details\",\n    \"Passport-sized photographs\",\n    \"Business plan or project proposal (for self-employment assistance)\"\n  ],\n  \"deadlines\": \"Rolling basis — identification and enrollment are ongoing through periodic surveys.\",\n  \"implementing_agency\": \"Ministry of Social Justice and Empowerment, Government of India\",\n  \"contact_details\": \"\",\n  \"caveats\": [\n    \"Financial assistance is subject to availability of funds and State-level allocation\",\n    \"Benefits are contingent upon successful completion of skill training and submission of viable business plans\",\n    \"Duplicate benefits from other Central or State schemes for the same purpose are not permitted\",\n    \"The scheme does not provide recurring monthly stipends; support is primarily for initial setup and rehabilitation\"\n  ],\n  \"source_cited_notes\": [\n    \"https://smile-b.dosje.gov.in/\"\n  ],\n  \"last_updated_date\": \"\",\n  \"confidence\": \"medium\"\n}"
+}

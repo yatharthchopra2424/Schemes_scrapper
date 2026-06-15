@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-89",
+  "scheme_name": "Scheme for Strengthening of Pharmaceuticals Industry (SPI)",
+  "scheme_url": "https://pharma-dept.gov.in/schemes",
+  "ministry_or_category": "Pharmaceuticals",
+  "overview": "The Scheme for Strengthening of Pharmaceuticals Industry (SPI) is a Central Sector Scheme under the Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers, Government of India, aimed at strengthening existing pharmaceutical infrastructure, upgrading production facilities of MSMEs to meet regulatory standards, and promoting knowledge and awareness in the pharma and medical devices sector. It combines three existing sub-schemes: Assistance to Pharmaceutical Industry for Common Facilities (APICF), Pharmaceutical Technology Upgradation Assistance Scheme (PTUAS), and Pharmaceutical & Medical Devices Promotion and Development Scheme (PMPDS). The scheme has a total financial outlay of Rs. 500 crore for the period FY 2021-22 to FY 2025-26.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "pharma clusters",
+    "MSMEs",
+    "pharma manufacturing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To strengthen the existing infrastructure facilities in order to make India a global leader in Pharma Sector by providing financial assistance to pharma clusters for creation of Common Facilities to improve the quality and ensure the sustainable growth of cluster",
+    "To upgrade the production facilities of Pharma units to meet up to date regulatory standards, by providing subsidy on reimbursement basis, which will enable them to obtain revised Schedule M and WHO_GMP certifications",
+    "To promote knowledge and awareness in and about the Pharmaceutical and Medical Devices Industry by taking up studies, building databases and bringing industry leaders, academia and policy makers together to share their knowledge and experience for overall development of Pharma and Medical Devices industry"
+  ],
+  "eligibility": "Pharmaceutical manufacturing units in a cluster who have come together to form a Special Purpose Vehicle (SPV) to execute the project of developing common facility. There shall be a minimum of 5 pharma units as members of (SPV). The SPV should be a separate legal entity registered under the Companies Act or Registration of Societies Act. Pharma enterprises shall hold at least 51% equity of the SPV. The combined net worth of members of SPV shall be equivalent to total grant amount applied for and each SPV member must have a net worth of at least 1.5 times of their proposed equity contribution. The SPV members shall be legally independent entities without any related-party relationship with each other as described under Accounting Standard (AS) 18 of the Companies (Accounting Standard) Rules, 2006.",
+  "benefits": "Financial assistance for creation of Common Facilities (up to 70% of approved project cost or Rs. 20 crore, whichever is less, or 90% for Himalayan and North Eastern States), subsidy on reimbursement basis for technology upgradation to meet revised Schedule M and WHO-GMP standards (up to Rs. 1 crore per plant), and support for awareness programs, database creation, and industry-academia collaboration for overall sector development.",
+  "financial_support": "Financial support is provided as capital subsidy or grant-in-aid. For APICF, the incentive is 70% of approved project cost or Rs. 20 crore, whichever is less (90% or Rs. 20 crore for Himalayan and North Eastern States). For RPTUAS (revamped PTUAS), incentive is based on average turnover: 20% of investment for turnover Rs. 1-50 crore, 15% for Rs. 50-250 crore, and 10% for Rs. 250-500 crore, subject to a maximum of Rs. 2 crore per plant. For PMPDS, support is provided for studies, awareness programs, database creation, and industry promotion. Disbursement is made in instalments based on milestone achievement, with 50% of eligible amount (up to Rs. 1 crore) released as first instalment upon submission of requisite documents.",
+  "fund_size_crores": "500",
+  "grant_amount_per_entity": "Up to Rs. 20 crore for APICF (70% of project cost or Rs. 20 crore, whichever is less); up to Rs. 2 crore per plant for RPTUAS; support for PMPDS activities as per approval",
+  "application_process": "1. Pharmaceutical units form a Special Purpose Vehicle (SPV) with minimum 5 pharma units and at least 51% equity held by pharma enterprises. 2. SPV submits application through the Project Management Consultant (PMC) portal with detailed project proposal, gap analysis, and required documents. 3. PMC examines the proposal, processes loan application if applicable, and forwards to lending institution for sanction within 90 days. 4. PMC scrutinizes proposal, verifies eligibility, and submits appraisal report with recommendations to Technical Committee within one month. 5. Technical Committee evaluates and recommends to Scheme Steering Committee (SSC). 6. SSC approves the project and sanctions financial support. 7. Upon approval, applicant submits requisite documents (e.g., Revised Schedule M or WHO-GMP certificate, CA certified expenditure) for instalment release. 8. First instalment (50% of eligible amount, up to Rs. 1 crore) released within 30 days of document submission. 9. Subsequent instalments released upon verification of milestone achievement and submission of required documents.",
+  "application_portal_url": "https://spi.udyamimitra.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration of SPV",
+    "PAN of the entity",
+    "Detailed project report with gap analysis",
+    "CA certified expenditure statement",
+    "Revised Schedule M certificate or WHO-GMP certificate",
+    "Undertaking for fund utilization",
+    "Bank sanction letter for loan component (if applicable)",
+    "Net worth certificate of SPV members",
+    "Shareholding pattern of SPV",
+    "Undertaking of legally independent entities without related-party relationships"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per notifications; specific windows may be opened for sub-schemes (e.g., API-CF invitation from 11.12.2024 to 13.01.2025)",
+  "implementing_agency": "Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers, Government of India",
+  "contact_details": "Email: Head-PharmaPolicy[at]pharma-dept[dot]gov[dot]in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Incentive disbursement is subject to SSC approval and verification of documents by PMC",
+    "Loan proposals availing benefit under RPTUAS cannot avail benefits under any other technology upgradation scheme",
+    "Minimum repayment period of loan sanctioned for availing benefit under RPTUAS shall not be less than 3 years",
+    "For APICF, SPV members must be legally independent entities without any related-party relationship",
+    "In case of Himalayan States and North Eastern Region, grant-in-aid is Rs. 20 crore per cluster or 90% of project cost, whichever is less"
+  ],
+  "source_cited_notes": [
+    "https://pharma-dept.gov.in/schemes",
+    "https://pharma-dept.gov.in/sites/default/files/Approved%20Guidelines%20of%20scheme%20Strengthening%20of%20Pharmaceutical%20Industries%20%28SPI%29%2011032022.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Revised%20guidelines%20SPI%20dated%2014.03.2024_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Corrigendum%20SPI_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Guidelines%20PTUAS_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/FAQ-PTUAS_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/FAQ-APICF_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Corrigendum_4.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/FAQs%20in%20respect%20of%20RPTUAS%20-%20Copy.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Corrigendum%20RPTUAS_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Corrigendum%20RPTUAS%2021st%20March%2C%202026_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Notice_12.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:34:15.963653+00:00"
+}

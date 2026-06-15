@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-30",
+  "scheme_name": "CLCSS",
+  "scheme_url": "https://www.nimsme.gov.in/about-scheme/credit-linked-capital-subsidy-scheme-for-technology-upgradation",
+  "ministry_or_category": "MSME",
+  "overview": "The Credit Linked Capital Subsidy Scheme for Technology Upgradation (CLCSS) is a government initiative aimed at facilitating technology upgradation in Micro and Small Enterprises (MSEs) by providing an upfront capital subsidy of 15% on institutional finance of up to Rs 1 crore availed by them. The scheme supports the induction of well-established and improved technology in specified 51 sub-sectors/products, enabling MSEs to upgrade plant and machinery with state-of-the-art technology, with or without expansion. It also covers new MSEs that have set up facilities with appropriate eligible and proven technology duly approved under scheme guidelines.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate technology up-gradation in MSEs",
+    "Provide upfront capital subsidy of 15% on institutional finance up to Rs 1 crore",
+    "Support induction of well-established and improved technology in 51 specified sub-sectors/products",
+    "Upgrade plant & machinery with state-of-the-art technology, with or without expansion",
+    "Support new MSEs that have set up facilities with approved eligible and proven technology"
+  ],
+  "eligibility": "Micro and Small Enterprises (MSEs) that have availed institutional finance of up to Rs 1 crore for technology upgradation in the specified 51 sub-sectors/products, using well-established and improved technology duly approved under scheme guidelines, including new MSEs that have set up facilities with appropriate eligible and proven technology.",
+  "benefits": "Upfront capital subsidy of 15% on eligible institutional finance (up to Rs 1 crore), technology upgradation with state-of-the-art machinery, improved productivity and competitiveness, support for both existing and new MSEs adopting approved technology.",
+  "financial_support": "The scheme provides an upfront capital subsidy of 15% on institutional finance availed by MSEs, with a maximum eligible loan amount of Rs 1 crore, resulting in a maximum subsidy of Rs 15 lakh per unit. The subsidy is disbursed directly to the lending institution upon verification of technology upgradation and loan disbursement.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs 15 lakh",
+  "application_process": "1. Avail institutional finance (term loan) from a bank or financial institution for technology upgradation. 2. Ensure the technology is among the 51 approved sub-sectors/products under CLCSS. 3. Submit application through the lending institution with required documents. 4. Lending institution forwards the claim to the nodal agency. 5. Nodal agency verifies eligibility and approves subsidy. 6. Subsidy amount (15% of loan, up to Rs 15 lakh) is released to the lending institution, which adjusts it against the borrower's loan account.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Loan sanction letter from bank/financial institution",
+    "Proof of loan disbursement",
+    "Invoice and payment proof for machinery/technology purchased",
+    "Certificate of installation and commissioning",
+    "Details of technology adopted (specification, approval under 51 sub-sectors)",
+    "UDYAM Registration Certificate",
+    "Bank account details",
+    "Authorization letter for subsidy claim"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises (MSME), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is limited to institutional finance of up to Rs 1 crore per unit",
+    "Only technologies listed in the 51 approved sub-sectors/products are eligible",
+    "Subsidy is available only for term loans, not working capital",
+    "Claim must be submitted within a specified period after loan disbursement and installation",
+    "Subsidy is adjusted against the loan account and not given as direct cash to the beneficiary"
+  ],
+  "source_cited_notes": [
+    "https://nimsme.gov.in/about-scheme/credit-linked-capital-subsidy-scheme-for-technology-upgradation"
+  ],
+  "last_updated_date": "",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T11:59:42.969807+00:00"
+}

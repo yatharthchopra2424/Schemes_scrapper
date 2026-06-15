@@ -1,0 +1,2435 @@
+<html lang="en" class="no-js"><!--<![endif]--><head>
+  	<meta name="_csrf" content="">
+	<meta name="_csrf_header" content="">
+   
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+     <meta name="msapplication-TileColor" content="#ffffff">
+     <title>The Electronic Project Proposal Management System, For ANRF</title>
+     
+	<!--css for Apple iPhone, iPod Touch, and iPad favicons. onle png files are added to this list-->
+   	<link rel="apple-touch-icon" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-precomposed.png">
+    <link rel="apple-touch-icon" sizes="57x57" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-57x57-precomposed.png">
+    <link rel="apple-touch-icon" sizes="72x72" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-72x72-precomposed.png">
+    <link rel="apple-touch-icon" sizes="114x114" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-114x114-precomposed.png">
+    <link rel="apple-touch-icon" sizes="144x144" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+    <meta name="msapplication-TileImage" content="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+        
+    <script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery-3.7.1.min.js"></script>
+    <link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/bootstrap.min.css" rel="stylesheet"> 
+  	<script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/bootstrap.bundle.min.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/homepage/js/html5shiv.js"></script>
+ 	<script src="/ANRF/resources/app_srv/serb/gl/homepage/js/respond.min.js"></script>
+ 	<script src="/ANRF/resources/app_srv/serb/gl/homepage/js/jquery.matchHeight-min.js"></script>
+ 	 	
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/homepage.css" rel="stylesheet">
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/jquery.smartmenus.bootstrap-4.css" rel="stylesheet">
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/owl.carousel.min.css" rel="stylesheet">
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/owl.theme.default.css" rel="stylesheet">	
+    <link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/font-awesome.min.css" rel="stylesheet">	  
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/animate.css" rel="stylesheet">
+ 		 	
+	<script src="/ANRF/resources/app_srv/serb/gl/homepage/js/jquery.fittext.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery.smartmenus.min.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery.smartmenus.bootstrap-4.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/GlobalJS.js"></script>    
+
+    <script>
+		       $(document).ready(function(){
+		    	   var token = $("meta[name='_csrf']").attr("content");
+		    	   var header = $("meta[name='_csrf_header']").attr("content");	    
+		    	 
+		    	    $.ajaxSetup({
+	    		        beforeSend: function(xhr) {
+	    		          xhr.setRequestHeader(header, token);
+	    		       }
+	    		    });
+		    });
+     </script>    
+</head>
+
+<body class="container_home">
+	<div id="wrapper">
+	<div class="">
+		
+
+
+
+
+
+
+
+
+<header id="header">
+<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/postajaxformat.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/mycaptcha.js" type="text/javascript"></script>
+
+
+<style>
+.tooltip-inner {
+    background-color: #ffffff !important; 
+    color: #125a65 !important; 
+    border: 1px solid #125a65;
+    padding: 5px; 
+    border-radius: 0.25rem; 
+}
+
+.tooltip .tooltip-arrow::before {
+    content: "";
+    position: absolute;
+    border-style: solid;
+    display: block;
+    width: 0;
+    height: 0;
+    margin: auto; 
+}
+
+.tooltip.bs-tooltip-top .tooltip-arrow::before {
+    border-width: 5px 5px 0; 
+    border-color: #fff transparent transparent transparent;
+    top: 0;
+}
+
+.tooltip.bs-tooltip-bottom .tooltip-arrow::before {
+    border-width: 0 5px 5px 5px; 
+    border-color: transparent transparent #fff transparent;
+    bottom: 0;
+}
+
+.tooltip.bs-tooltip-start .tooltip-arrow::before {
+    border-width: 5px 0 5px 5px; 
+    border-color: transparent transparent transparent #fff;
+    left: 0;
+}
+
+.tooltip.bs-tooltip-end .tooltip-arrow::before {
+    border-width: 5px 5px 5px 0;
+    border-color: transparent #fff transparent transparent;
+    right: 0;
+}
+.contactUs-menu .menu-title{
+    color: #005a64;
+    font-weight: 800;
+    -webkit-text-stroke: .2px;
+}
+.contactUs-menu i{
+color: #005a64;
+}
+body.darkmode .contactUs-menu .menu-title, body.darkmode .contactUs-menu i {
+    color: #ffff4a;
+}
+.darkmode .contactUs-menu hr.dropdown-divider {
+    background: #ddd;
+}
+.darkmode nav .navbar-nav>li>ul.dropdown-menu li>a:hover, .darkmode nav .navbar-nav>li>ul.dropdown-menu li>a:focus, 
+.accessibility-icons .right .item ul.dropdown-menu>li>a:hover, .accessibility-icons .right .item ul.dropdown-menu>li>a:focus {
+    background: #2a2a2a;
+}
+.darkmode .news-span:after {
+    background: #000;
+}
+</style>	
+
+
+	<script>
+	function callNewsOutlines() {
+	    var max_elements = newsoutlinesobj.items.length;
+	    if (max_elements == 0) {
+	        $('#updates').hide();
+	    } else {
+	        var ongoing = "";
+	        if (max_elements > 2) {
+	            ongoing += "<div id='content' direction='up' scrollamount='1'><ul id='mainul'>";
+	        } else {
+	            ongoing += "<ul id='mainul'>";
+	        }
+
+	        var j = 0;
+	        for (var i = 0; i < max_elements; i++) {
+	            var jsonStr = newsoutlinesobj.items[i];
+	            jsonStr = JSON.stringify(jsonStr);
+	            jsonStr = $.parseJSON(jsonStr);
+	            var key = (i + 1);
+	            var startObj = 'jsonStr[' + key + '][1]';
+	            var endObj = 'jsonStr[' + key + '][2]';
+	            var newsOutlineObj = 'jsonStr[' + key + '][0]';
+	            var startDateString = eval(startObj);
+	            var endDateString = eval(endObj);
+	            var newsOutlineObjString = eval(newsOutlineObj);
+	            var startDate = new Date(startDateString);
+	            var endDate = new Date(endDateString);
+	            var today = new Date();
+	            var difference = dateDiffInDays(today, startDate);
+
+	            if (difference <= 0 && (endDate.getTime() >= today.getTime())) {
+	                var newsOutlineString = "";
+	                newsOutlineString = newsOutlineString + '<li>' + newsOutlineObjString + '</li>';
+	                ongoing = ongoing + newsOutlineString;
+	                j++;
+	            }
+	        }
+	        ongoing = ongoing + '</ul>';
+	    }
+
+	    if (j > 0) {
+	        $('#updates').removeClass('hidden');
+	    }
+
+	    $('#newsOutlines').append(ongoing);
+	    if (max_elements > 2) {
+	        var sum = 0;
+
+	        $('#mainul li:lt(3)').each(function() {
+	            sum += $(this).height();
+	        });
+	        ongoing = ongoing + '</div></div>';
+
+	        $("#content").attr("Height", sum);
+	    }
+	}
+
+	var _MS_PER_DAY = 1000 * 60 * 60 * 24;
+
+	function dateDiffInDays(a, b) {
+	    var utc1 = Date.UTC(a.getFullYear(), a.getMonth(), a.getDate());
+	    var utc2 = Date.UTC(b.getFullYear(), b.getMonth(), b.getDate());
+	    return Math.floor((utc2 - utc1) / _MS_PER_DAY);
+	}
+
+	</script>
+
+
+<section class="top-header">
+            <div class="container">
+                <div class="accessibility-icons">
+                    <div class="left">
+                        <div class="item"><a rel="noopener" href="https://www.facebook.com/anrfindia" target="blank" class="exlink" title="Follow on Facebook"> <i class="fa fa-facebook"></i></a>
+                        </div>
+                        <div class="item"><a rel="noopener" href="https://x.com/anrfindia" target="blank" class="exlink" title="Follow on Twitter"><i class="fa fa-twitter"></i></a>
+                        </div>
+                       <!-- Added by Roshni -->
+                        <div class="item"><a rel="noopener" href="https://www.linkedin.com/in/anusandhan-national-research-foundation-anrf/" target="blank" class="exlink" title="Follow on linkedin"><i class="fa fa-linkedin-square" style="font-size:20px"></i></a>
+                        </div>
+                         <div class="item"><a rel="noopener" href="https://www.instagram.com/anrfindia/" target="blank" class="exlink" title="Follow on Instagram"><i class="fa fa-instagram" style="font-size:15px"></i></a>
+                        </div>
+                    </div>
+                    <div class="right">
+                        <div class="item">
+						    <a href="#" id="skip-to-content" class="loginlinks skip-link">
+						        <span class="hide-text">Skip to main content</span>
+						        <i class="fa fa-share-square ps-2"></i>
+						    </a>
+						</div>
+                        <div class="item">                          
+                                <a class="dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <span class="hide-text">Text Size</span><i class=" fa fa-wheelchair ps-2"></i></a>
+                                <ul class="dropdown-menu">
+                                    <li><a rel="noopener" class="dropdown-item" data-size="small" id="small" href="#">A-</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a rel="noopener" class="dropdown-item" data-size="medium" id="medium" href="#">A</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a rel="noopener" class="dropdown-item" data-size="large" id="large" href="#">A+</a></li>
+                                </ul>                      
+                        </div>
+                        <div class="item">                          
+                                <a class="dropdown-toggle" href="#" data-bs-toggle="dropdown" aria-expanded="false">
+                                    <span class="hide-text">Theme</span><i class=" fa fa-adjust ps-2"></i></a>
+                                <ul class="dropdown-menu">
+                                    <li><a rel="noopener" class="dropdown-item lightmode" href="#">Light</a></li>
+                                    <li>
+                                        <hr class="dropdown-divider">
+                                    </li>
+                                    <li><a rel="noopener" class="dropdown-item darkmode" href="#">Dark</a></li>                                   
+                                </ul>
+                        </div>
+                    </div>
+
+                    <!--  <div class="right">
+                        <a href="#" class="loginlinks" data-bs-target="#modal1" data-bs-toggle="modal"><img class="small-icon pe-1" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/user.svg"
+                                alt="Login icon">Login</a>
+                    </div>  -->
+                </div>
+            </div>
+        </section>
+
+        <section class="bottom-header">
+            <div class="row">
+                <!-- <div class="col-lg-1">
+
+                    </div>  -->
+                <div class="serb-logo col-xl-4 col-lg-12">
+                    <a href="ANRF/HomePage" title="Anusandhan National Research Foundation" class="top-heading bold">
+                        <span class="hindi">अनुसंधान नेशनल रिसर्च फाउंडेशन</span><br>
+                        <span class="english">Anusandhan National Research Foundation</span>
+                    </a>
+                </div>
+
+                <div class="col-xl-8 col-lg-12 navigation-bar">
+                    <div class="triangle-top"></div>
+                    <nav class="navbar navbar-expand-lg navbar-light">
+
+                        <button class="navbar-toggler ms-3" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
+                            <span class="navbar-toggler-icon"></span>
+                        </button>
+                        <a id="login-btn-mobile" href="#loginForm" class="text-white d-lg-none me-3" title="Login"><i class="fa fa-user ms-1"></i></a>
+                        <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
+                        <div class="d-flex justify-content-center">
+                            <ul class="navbar-nav mb-2 mb-lg-0 sm-collapsible" data-smartmenus-id="17814408888297505">
+
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/ANRF/HomePage#aboutus">About Us</a>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link has-submenu" role="button" data-bs-toggle="dropdown" aria-expanded="false" id="sm-17814408888297505-1" aria-haspopup="true" aria-controls="sm-17814408888297505-2">ANRF Programs<span class="sub-arrow"></span></a>
+                                        
+                                  <ul class="dropdown-menu" id="sm-17814408888297505-2" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-1" aria-expanded="false">
+                                  <li><a class="dropdown-item" href="/ANRF/mahawp_anrf?HomePage=New">
+                                                ANRF MAHA Water Program </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                  <li><a class="dropdown-item" href="/ANRF/drone_anrf?HomePage=New">
+                                                ANRF MAHA Drones Program </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                 <li><a class="dropdown-item" href="/ANRF/lpf_anrf?HomePage=New">
+                                                ANRF Leapfrog Demonstrators Program </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/cpp_anrf?HomePage=New">
+                                                ANRF Catalytic Partnership Program </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/atri_anrf?HomePage=New">
+                                                Anrf Translational Research and Innovation </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/crm_anrf?HomePage=New">
+                                                Critical Raw Materials Research Program</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                   <li><a class="dropdown-item" href="/ANRF/coe_stiia?HomePage=New">
+                                                Centre of Excellence for STI Indicators and Analytics</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/aise_anrf?HomePage=New">
+                                                AI for Science &amp; Engineering</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/maha_medTech?HomePage=New">
+                                                MAHA MedTech Mission</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/mih_anrf?HomePage=New">
+                                                2D Innovation Hub</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                  <li><a class="dropdown-item" href="/ANRF/PMProfessorship_anrf?HomePage=New">
+                                                Prime Minister Professorship</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                                <li><a class="dropdown-item" href="/ANRF/coe_anrf?HomePage=New">
+                                                Convergence Research Centres of Excellence (CoE)</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                   <li><a class="dropdown-item" href="/ANRF/arg_anrf?HomePage=New">
+                                                Advanced Research Grant (ARG)</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                     <li><a class="dropdown-item" href="/ANRF/arg4_anrf?HomePage=New">
+                                                ARG MATRICS</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>            
+                                                   
+                                  <li><a class="dropdown-item" href="/ANRF/inrg_anrf?HomePage=New">
+                                                Inclusivity Research Grant (IRG)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a class="dropdown-item" href="/ANRF/its">
+                                                International Travel Support (ITS)</a></li>
+                                         <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a class="dropdown-item" href="/ANRF/jcbose_anrf">
+                                                J. C. Bose Grant (JBG)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li> 
+                                         <li><a class="dropdown-item" href="/ANRF/maha_Instructions?HomePage=New">
+                                                Mission for Advancement in High-impact Areas (EV-Mission)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a class="dropdown-item" href="/ANRF/npdf?HomePage=New">
+                                                National Post Doctoral Fellowship (N-PDF)</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                        <li><a class="dropdown-item" href="/ANRF/nationalScienceChair?HomePage=New">
+                                                National Science Chair (NSC)</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                        <li><a class="dropdown-item" href="/ANRF/PAIR?HomePage=New">
+                                               Partnerships for Accelerated Innovation and Research (PAIR)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                  <li><a class="dropdown-item" href="/ANRF/ecrg_anrf?HomePage=New">
+                                               Prime Minister Early Career Research Grant (PM ECRG)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                       <li><a class="dropdown-item" href="/ANRF/Ramanujan_fellowship?HomePage=New">
+                                                Ramanujan Fellowship</a></li>
+                                        <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                        
+                                        <li><a class="dropdown-item" href="/ANRF/seminar_symposia">
+                                                Seminar/Symposia (SSY)</a></li>                                   
+                                  </ul>
+                                </li>
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link has-submenu" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" aria-controls="sm-17814408888297505-3">
+                                        Erstwhile SERB Schemes
+                                    <span class="sub-arrow"></span></a>
+                                    <ul class="dropdown-menu" id="sm-17814408888297505-3" role="group" aria-hidden="true" aria-labelledby="navbarDropdown" aria-expanded="false">
+
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-4" aria-haspopup="true" aria-controls="sm-17814408888297505-5" aria-expanded="false">Schemes &amp; Programs
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-5" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-4" aria-expanded="false">
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/Irhpa_Instruction?HomePage=New">
+                                                        Intensification of Research in High Priority Areas
+                                                        (IRHPA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/emr?HomePage=New">
+                                                        Core Research Grant</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/srg_Instructions?HomePage=New">
+                                                        Start-up Research Grant (SRG)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/Supra?HomePage=New">
+                                                        Scientific and Useful Profound Research Advancement
+                                                        (SUPRA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/Weaker_section?HomePage=New">
+                                                        Empowerment and Equity Opportunities for Excellence in
+                                                        Science</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/matrics_new">
+                                                        Mathematical Research Impact Centric Support (MATRICS)</a>
+                                                </li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/IMPRINT2C">
+                                                        Impacting Research Innovation and Technology (IMPRINT-2)</a>
+                                                </li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/its?HomePage=New">
+                                                        International Travel Support</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/seminar_symposia">
+                                                        Seminar/Symposia</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/Covid_19">
+                                                        Short-term special call on COVID-19</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/serbPowerInstructions">
+                                                        SERB-POWER Grant</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/Sure">
+                                                        State University Research Excellence (SERB - SURE)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" href="/ANRF/fire">
+                                                        Fund for Industrial Research Management (SERB - FIRE)</a>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-6" aria-haspopup="true" aria-controls="sm-17814408888297505-7" aria-expanded="false">Awards &amp; Fellowships 
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-7" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-6" aria-expanded="false">
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/npdf?HomePage=New">
+                                                        National Post Doctoral Fellowship</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/jcbose_fellowship?HomePage=New">
+                                                        J.C. Bose Fellowship</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Ramanujan_fellowship?HomePage=New">
+                                                        Ramanujan Fellowship</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Tare">
+                                                        Teachers Association for Research Excellence (TARE)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/vajra">
+                                                        Visiting Advanced Joint Research Faculty (VAJRA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/ovdf?HomePage=New">
+                                                        Overseas Visiting Doctoral Fellowship (OVDF)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Star?HomePage=New">
+                                                        SERB Science and Technology Award for Research
+                                                        (SERB-STAR)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Women_excellence?HomePage=New">
+                                                        SERB Women Excellence Research Grant </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/serbPowerInstructions?HomePage=New">
+                                                        SERB-POWER Fellowship
+                                                    </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Spt">
+                                                        SERB-POWER Translation</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Spm">
+                                                        SERB-POWER Mobility</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Tetra">
+                                                        SERB Technology Translation Award (SERB-TETRA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/nationalScienceChair?HomePage=New">
+                                                        National Science​ Chair</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/Sire">
+                                                        SERB International Research Experience (SIRE) </a></li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>                                                              
+                                
+                                <li class="nav-item dropdown">
+                                    <a class="nav-link has-submenu" href="#" id="navbarDropdown" data-bs-toggle="dropdown" aria-expanded="false" aria-haspopup="true" aria-controls="sm-17814408888297505-8">
+                                        Downloads
+                                    <span class="sub-arrow"></span></a>
+                                    <ul class="dropdown-menu" id="sm-17814408888297505-8" role="group" aria-hidden="true" aria-labelledby="navbarDropdown" aria-expanded="false">
+                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PI_Biodata.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                Biodata Template</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-9" aria-haspopup="true" aria-controls="sm-17814408888297505-10" aria-expanded="false">Scientific Social Responsibility
+                                                (SSR)
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-10" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-9" aria-expanded="false">
+                                                <li><a id="SERB_SSR_Policy" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=SERB_SSR_Policy_document.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        SERB SSR Policy</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-11" aria-haspopup="true" aria-controls="sm-17814408888297505-12" aria-expanded="false">SSR Guidelines<span class="sub-arrow"></span></a>
+                                                    <ul class="dropdown-menu" id="sm-17814408888297505-12" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-11" aria-expanded="false">
+                                                        <li><a id="SSR_EMEQ_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_EEQ.pdf&amp;PathKey=DOCUMENT_TEMPLATE">Empowerment
+                                                                and Equity(EMEQ) </a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_CRG_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_EMR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                                Core Research Grant(CRG)</a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_ECR_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_SRG.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                                Start-up Research Grant (SRG)</a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_NPDF_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_PDF.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                                National Post Doctoral Fellowship(N-PDF)</a>
+                                                        </li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_MTR_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_MTR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                                Mathematical Research Impact Centric Support
+                                                                (MATRICS)</a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_SUR_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_SUR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">State
+                                                                University Research Excellence (SERB - SURE)
+                                                            </a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="SSR_DIA_Guidelines" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=Guidelines_for_SSR_DIA.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                                Distinguished Investigator Award (DIA)</a></li>
+
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-13" aria-haspopup="true" aria-controls="sm-17814408888297505-14" aria-expanded="false">Certificate from
+                                                Investigator/Convener Template 
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-14" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-13" aria-expanded="false">
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_SUR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        SERB-SURE</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_CVD.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        CRG Short-term special call on COVID-19</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_MSC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        MATRICS Short-term special call on COVID-19</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_IMC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        IMPRINT-IIC.2 (Consortium)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_IPA.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Intensification of Research in High Priority Areas
+                                                        (IRHPA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_IMP.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        IMPRINT - 2</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_EMR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Core Research Grant</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_SRG.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Start-up Research Grant (SRG) </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UBA_PDF.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        National Post Doctoral Fellowship <br>(N-PDF)
+                                                    </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_EEQ.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Empowerment and Equity</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_HRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        High Risk High Reward</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_IRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Industry Relevant R&amp;D</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Seminar/Symposia</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_AYU.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Ayurvedic Biology Program </a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_MTR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Mathematical Research Impact Centric Support (MATRICS)
+                                                    </a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CAE_ITS.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        International Travel Support (ITS)</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_ODF.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Overseas Visiting Doctoral Fellowship (OVDF)</a></li>
+                                            </ul>
+                                        </li>
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-15" aria-haspopup="true" aria-controls="sm-17814408888297505-16" aria-expanded="false">Endorsement from Head of
+                                                Institution
+                                                Template 
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-16" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-15" aria-expanded="false">
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_SUR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        SERB-SURE</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_CVD.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        CRG Short-term special call on COVID-19</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_MSC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        MATRICS Short-term special call on COVID-19</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_IMC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        IMPRINT-IIC.2 (Consortium)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_IPA.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Intensification of Research in High Priority Areas
+                                                        (IRHPA)</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_IMP.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        IMPRINT - 2</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_EMR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Core Research Grant</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_SRG.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Start-up Research Grant (SRG) </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_PDF.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        National Post Doctoral Fellowship <br> (N-PDF)
+                                                    </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_YSS.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Start-Up Research Grant (Young Scientists)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_EEQ.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Empowerment and Equity</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_HRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        High Risk High Reward</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_IRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Industry Relevant R&amp;D</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Seminar/Symposia</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_AYU.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Ayurvedic Biology Program </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_MTR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Mathematical Research Impact Centric Support (MATRICS)
+                                                    </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_ITS.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        International Travel Support (ITS)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_ODF.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Overseas Visiting Doctoral Fellowship (OVDF)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_JCB.doc&amp;PathKey=DOCUMENT_TEMPLATE">J
+                                                        C Bose National Fellowship</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_CVD.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        CRG Short-term special call on COVID-19</a></li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_MSC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        MATRICS Short-term special call on COVID-19</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-17" aria-haspopup="true" aria-controls="sm-17814408888297505-18" aria-expanded="false">Other Technical Details of the
+                                                Proposal Template 
+                                            <span class="sub-arrow"></span></a>
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-18" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-17" aria-expanded="false">
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_SUR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        SERB-SURE</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_CVD.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        CRG Short-term special call on COVID-19 </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_MSC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        MATRICS Short-term special call on COVID-19 </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_IMC.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        IMPRINT-IIC.2 (Consortium)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_IPA.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Intensification of Research in High Priority Areas
+                                                        (IRHPA)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_EMR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Core Research Grant</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_SRG.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Start-up Research Grant (SRG) </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_EEQ.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Empowerment and Equity</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_HRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        High Risk High Reward</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_IRR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Industry Relevant R&amp;D</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Seminar/Symposia</a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_TAR.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Teachers Associateship For Research Excellence (TARE)
+                                                    </a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_AYU.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Ayurvedic Biology Program </a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_JCB.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        JC Bose </a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_MTR.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Mathematical Research Impact Centric Support (MATRICS)
+                                                    </a></li>
+
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD_ODF.docx&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Overseas Visiting Doctoral Fellowship (OVDF) </a></li>
+
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=TSA_PFMS.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                  PFMS Mandate Form Template</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a id="biodataViewTemplate" class="dropdown-item has-submenu" href="#" aria-haspopup="true" aria-controls="sm-17814408888297505-19" aria-expanded="false">
+                                                Joining Report Template<span class="sub-arrow"></span></a>
+                                                <ul class="dropdown-menu" id="sm-17814408888297505-19" role="group" aria-hidden="true" aria-labelledby="biodataViewTemplate" aria-expanded="false">
+
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=JRP_PMP.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="_blank">
+                                                        Prime Minister Professorship</a></li>
+                                                
+                                                </ul>
+                                                </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=LKS_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                List of Keynote Speakers.</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=BND_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                Affidavit(Bond)</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=TPR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                Progress Report Template</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a id="biodataViewTemplate" class="dropdown-item has-submenu" target="_blank" href="#" aria-haspopup="true" aria-controls="sm-17814408888297505-20" aria-expanded="false">
+                                                Project Completion Report Template<span class="sub-arrow"></span></a>
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-20" role="group" aria-hidden="true" aria-labelledby="biodataViewTemplate" aria-expanded="false">
+
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=SIRE_PCR.doc&amp;PathKey=DOCUMENT_TEMPLATE">For
+                                                        SIRE Scheme</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=SPM_PCR.doc&amp;PathKey=DOCUMENT_TEMPLATE">For SPM Scheme</a></li>
+												<li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=SSY_PCR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">For SSY Scheme</a></li>
+												<li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+														
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PCR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">For
+                                                        Other
+                                                        Schemes</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-21" aria-haspopup="true" aria-controls="sm-17814408888297505-22" aria-expanded="false">Utilization Certificate Template
+                                                <span class="sub-arrow"></span></a>
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-22" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-21" aria-expanded="false">
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UCR_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">For
+                                                        Seminar/ Symposia</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a target="_blank" class="dropdown-item" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UCR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">For
+                                                        N-PDF</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-23" aria-haspopup="true" aria-controls="sm-17814408888297505-24" aria-expanded="false">For Other Schemes<span class="sub-arrow"></span></a>
+                                                    <ul class="dropdown-menu" id="sm-17814408888297505-24" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-23" aria-expanded="false">
+                                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UCR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">Recurring
+                                                                Budget</a></li>
+                                                        <li>
+                                                            <hr class="dropdown-divider">
+                                                        </li>
+                                                        <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UCN.pdf&amp;PathKey=DOCUMENT_TEMPLATE">Non-Recurring
+                                                                Budget</a></li>
+                                                    </ul>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-25" aria-haspopup="true" aria-controls="sm-17814408888297505-26" aria-expanded="false">Statement of Expenditure Template
+                                                <span class="sub-arrow"></span></a>
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-26" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-25" aria-expanded="false">
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PSE_SIR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        SIRE</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PSE_SPM.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+															SPM</a></li>
+												 <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=UCR_SSY.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Seminar/ Symposia</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PSE_PDF.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        N-PDF</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PSE_MTR.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        MATRICS</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PSE.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        For Other Schemes</a></li>
+                                            </ul>
+                                        </li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="crtificateforHRATemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_HRA.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                Certificate for House Rent Allowance</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="crtificateforHRATemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CVM.pdf&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                CV of Mentor</a></li>
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a id="crtificateforHRATemplate" class="dropdown-item has-submenu" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CLMS_SIR.doc&amp;PathKey=DOCUMENT_TEMPLATE" aria-haspopup="true" aria-controls="sm-17814408888297505-27" aria-expanded="false">
+                                                Claim Sheet<span class="sub-arrow"></span></a>
+                                                <ul class="dropdown-menu" id="sm-17814408888297505-27" role="group" aria-hidden="true" aria-labelledby="crtificateforHRATemplate" aria-expanded="false">
+                                               <li><a id="crtificateforHRATemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CLMS_SIR.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+															SIRE</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="crtificateforHRATemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CLMS_SPM.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+															SPM</a></li>                                            
+                                            </ul>
+                                         </li>
+
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li><a id="crtificateforHRATemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=BAC_ITS.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                Bank Account Details</a></li>
+                                        <li>
+                                            <hr class="dropdown-divider">
+                                        </li>
+                                        <li class="dropdown"><a class="dropdown-item has-submenu" href="#" id="sm-17814408888297505-28" aria-haspopup="true" aria-controls="sm-17814408888297505-29" aria-expanded="false"> Distinguished Investigator Award
+                                                (DIA)
+                                            <span class="sub-arrow"></span></a>
+
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-29" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-28" aria-expanded="false">
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=ENF_DIA.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Endorsement certificate (only fellowship)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CIF_DIA.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Certificate from PI (only fellowship)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=ENR_DIA.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Endorsement certificate (Project + Fellowship)</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a id="biodataViewTemplate" class="dropdown-item" target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CIR_DIA.doc&amp;PathKey=DOCUMENT_TEMPLATE">
+                                                        Certificate from PI (Project + Fellowship)
+                                                    </a>
+                                                </li>
+                                            </ul>
+                                        </li>
+                                    </ul>
+                                </li>
+                               <li class="nav-item dropdown contactUs-menu">
+                                    <a class="nav-link has-submenu" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="sm-17814408888297505-30" aria-haspopup="true" aria-controls="sm-17814408888297505-31">
+                                       Contact Us
+                                    <span class="sub-arrow"></span></a>
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-31" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-30" aria-expanded="false">
+                                               <li>
+    <a data-bs-target="anrf" class="dropdown-item d-flex flex-column align-items-start">
+        <span class="menu-title">Portal Technical Issue</span>
+
+        <span class="d-flex align-items-center portal-issue-mailid">
+            <i class="p-1 fa fa-envelope fa-1x"></i>
+            <span class="p-1 font-small">support[at]anrfonline[dot]in</span>
+        </span>
+
+        <span class="d-flex align-items-center font-small portal-issue-number">
+            <i class="p-1 fa fa-phone fa-1x"></i>
+            <span class="p-1">011-26552179, 26552197</span>
+        </span>
+    </a>
+</li>
+
+                                                         <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li> <a data-bs-target="anrf" onclick="contactAnrf(0)" class="dropdown-item">
+                                                        ANRF Program-wise</a> 
+                                                        
+                                                        
+                                                        </li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <li><a data-bs-target="erstwhile" onclick="contactAnrf(1)" class="dropdown-item">
+                                                        Erstwhile SERB Scheme-wise</a></li>                                                                  
+                                            </ul>
+                                </li>
+
+                                                               
+                                 <li class="nav-item dropdown">
+                                    <a class="nav-link has-submenu" href="#" data-bs-toggle="dropdown" aria-expanded="false" id="sm-17814408888297505-32" aria-haspopup="true" aria-controls="sm-17814408888297505-33">
+                                       Guidelines
+                                    <span class="sub-arrow"></span></a>
+
+                                            <ul class="dropdown-menu" id="sm-17814408888297505-33" role="group" aria-hidden="true" aria-labelledby="sm-17814408888297505-32" aria-expanded="false">
+
+
+                                                <li><a class="dropdown-item" href="/ANRF/registration_guidelines">For
+                                                        Registration Guidelines</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                               <!--  <li><a target="_blank" class="dropdown-item"
+                                                        href="#">For
+                                                        PI Guidelines</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> 
+                                                <li><a target="_blank" class="dropdown-item"
+                                                        href="/ANRF/copi_guidelines?HomePage=New">For
+                                                        CO-PI Guidelines</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>-->
+                                                <li><a class="dropdown-item" href="/ANRF/PINotes">For
+                                                        Quick Notes</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li>
+                                                <!-- <li><a target="_blank" class="dropdown-item"
+                                                        href="#">For
+                                                         Referee Guidelines</a></li>
+                                                <li>
+                                                    <hr class="dropdown-divider">
+                                                </li> -->
+                                                <li><a class="dropdown-item" href="/ANRF/faq">For
+                                                         FAQs</a></li>
+                                            </ul>
+                                </li>
+                                <li class="nav-item">
+                                    <a class="nav-link" href="/ANRF/Gallery">Gallery</a>
+                                </li>
+                            </ul>
+                            </div>
+                            <a id="login-btn" href="#loginForm" class="text-white text-center" data-bs-toggle="tooltip" data-bs-placement="top" title="" data-bs-original-title="Sign In / Register" aria-label="Sign In / Register"><i class="fa fa-user ms-1"></i></a>
+                        </div>
+                    </nav>                 
+                </div>
+
+            </div>
+        </section>
+</header>
+
+
+<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/jquery.cookie.js"></script>
+<script language="javascript" type="text/javascript">
+
+function contactAnrf(flag){
+	
+	openWindowWithPost('POST', '/ANRF/contactus', {"flag":flag}, 'contactus'); 
+	
+}
+</script>
+
+
+
+<script>
+	$(document).ready(
+			function() {
+
+				$("#fittext3").fitText(2.2, {
+					minFontSize : '4px',
+					maxFontSize : '28px'
+				});
+
+				$("#fittext4").fitText(3.5, {
+					minFontSize : '8px',
+					maxFontSize : '30px'
+				});
+				$("#fittext5").fitText(3.5, {
+					minFontSize : '8px',
+					maxFontSize : '30px'
+				});
+				function scrollToDiv(element, navheight) {
+					var offset = element.offset();
+					var offsetTop = offset.top;
+					var totalScroll = offsetTop - navheight;
+
+					$('body,html').animate({
+						scrollTop : totalScroll
+					}, 500);
+				}
+
+				$('nav ul li a').click(function() {
+					var el = $(this).attr('href');
+					var elWrapped = $(el);
+
+					scrollToDiv(elWrapped, 140);
+
+					return false;
+				});
+
+				$('ul.dropdown-menu [data-toggle=dropdown]').on('click',
+						function(event) {
+							event.preventDefault();
+							event.stopPropagation();
+							$(this).parent().siblings().removeClass('open');
+							$(this).parent().toggleClass('open');
+						});
+			});
+
+</script>
+
+<!-----------For Theme------------>
+    <script>
+    document.addEventListener('DOMContentLoaded', (event) => {
+        const lightModeLink = document.querySelector('.dropdown-item.lightmode');
+        const darkModeLink = document.querySelector('.dropdown-item.darkmode');
+
+        lightModeLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            document.body.classList.remove('darkmode');
+            localStorage.setItem('theme', 'light');
+        });
+
+        darkModeLink.addEventListener('click', (e) => {
+            e.preventDefault();
+            document.body.classList.add('darkmode');
+            localStorage.setItem('theme', 'dark');
+        });
+
+        // Check the saved theme in localStorage and apply it
+        const savedTheme = localStorage.getItem('theme');
+        if (savedTheme === 'dark') {
+            document.body.classList.add('darkmode');
+        } else {
+            document.body.classList.remove('darkmode');
+        }
+    });
+</script>
+
+
+<!-----------For Text Size------------>
+<script>
+  
+let curSize = parseInt($('html').css('font-size')); 
+
+$('#large').click(function() {
+    curSize = parseInt($('html').css('font-size')) + 2;
+    if (curSize <= 20) {
+        $('html').css('font-size', curSize + 'px');
+        checkFontSizeAndApplyPadding(curSize);
+    }
+});
+
+$('#medium').click(function() {
+    let mediumSize = 16;
+    if (curSize !== mediumSize) {
+        $('html').css('font-size', mediumSize + 'px');
+        checkFontSizeAndApplyPadding(mediumSize);
+    }
+});
+
+$('#small').click(function() {
+    curSize = parseInt($('html').css('font-size')) - 2;
+    if (curSize >= 12) {
+        $('html').css('font-size', curSize + 'px');
+        checkFontSizeAndApplyPadding(curSize);
+    }
+});
+
+function checkFontSizeAndApplyPadding(fontSize) {
+    if (fontSize === 18 || fontSize === 20 || fontSize === 22) {
+        if (window.innerWidth > 1400) {
+            $('.navbar').css('padding-left', '50px');
+            console.log(fontSize);
+        }
+    } else {
+        // Remove padding-left when font size is not 18px, 20px, or 22px
+        $('.navbar').css('padding-left', '');
+    }
+}
+
+
+</script>
+
+
+<!-----------For Skip to Content ------------>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const contentSelectors = ['.contact-and-achievers', '.card', 'section', 'main', '.container', '#main-content', '.content', '[role="main"]'];
+    const skipLink = document.getElementById('skip-to-content');
+
+    skipLink.addEventListener('click', function(e) {
+        e.preventDefault();
+
+        let mainContent = null;
+        for (const selector of contentSelectors) {
+            mainContent = document.querySelector(selector);
+            if (mainContent) break;
+        }
+
+        if (mainContent) {
+            mainContent.scrollIntoView({ behavior: 'smooth', block: 'start' });
+        } else {
+            console.error('Main content section not found!');
+        }
+    });
+});
+</script>
+
+<script>
+document.addEventListener('DOMContentLoaded', function () {
+    var tooltipTriggerList = [].slice.call(document.querySelectorAll('[data-bs-toggle="tooltip"]'));
+    var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
+        return new bootstrap.Tooltip(tooltipTriggerEl);
+    });
+});
+
+</script>
+
+<script src="/ANRF/resources/app_srv/serb/gl/jssrc/md5.js"></script>
+ <script src="/ANRF/resources/app_srv/serb/gl/jssrc/CSRF.js?v=1781440888"></script> 
+
+	</div>
+	<section class="">
+				     <link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/staticpages.css" rel="stylesheet"> 
+		     
+	         
+	 
+	    
+	<style>
+.eligibility-note {
+    background: #f9dddd;
+    padding: 10px;
+    border: 1px solid #f2eeee;
+    border-radius: 4px;
+    font-size: 15px;
+}
+span.note {
+    margin-right: 5px;
+}
+
+</style>   		
+<div class="staticpage-wrapper">
+	<div class="container">
+	 	<div class="col-md-12 text-center ">
+				<br>
+		</div>
+		 
+		<div class="col-md-12">
+			<div class="card my-4 p-3">
+     			<div class="card-body">
+     			<div class="page-heading mb-4">
+     			<h4>Advanced Research Grant(ARG) </h4>
+     		</div>
+     			
+     			<p class="justify">
+
+     			
+     				</p><p class="justify">
+<strong><u>(A) Introduction to the ARG Program:</u></strong><br>
+Advanced Research Grant (ARG) is a competitive program designed to&nbsp;support investigator-driven research, while&nbsp;embedding collaboration within the national R&amp;D ecosystem&nbsp;to enable&nbsp;high-impact, interdisciplinary research&nbsp;for complex scientific and societal challenges, aligned with the vision of&nbsp;Viksit Bharat. The ARG Program supports projects that are anchored in a well-defined research problem or hypothesis, with potential for step-change advances in frontier areas of natural sciences including mathematical sciences, engineering &amp; technology, environmental sciences, earth &amp; atmospheric sciences, and scientific &amp; technological interfaces of humanities &amp; social sciences. 
+<br>
+<br>
+The program places primary emphasis on ‘Outcomes’ and ‘Impact’ and will support proposals that are transformative in scope and ambition. Priority will be given to proposals that advance the frontiers of knowledge in the given field or deliver significant advances in technological and applied capabilities. 
+<br>
+<br>
+Proposals that are incremental in nature, or represent conventional low-risk extensions of existing work, or do not demonstrate clear and meaningful impact will not be considered for support.
+<br>
+<br>
+</p><p>The program solicits proposals in the following broad categories.</p>
+
+<div class="category">
+    <strong><strong>(i) Fundamental Frontier Research:</strong></strong>
+    <p>
+        Focuses on projects that address fundamental scientific or technological questions, 
+        with the objective of generating new knowledge, robust scientific data, and resolving 
+        existing knowledge gaps. These efforts aim to advance current understanding, thereby 
+        laying a strong foundation for addressing complex scientific and technological 
+        challenges over the long term.
+    </p>
+</div>
+<br>
+<div class="category">
+    <strong class="section-title">(ii) Use-Inspired Basic Research:</strong>
+    <p>
+        Refers to research that seeks to advance fundamental understanding while being 
+        motivated by potential practical applications. Such projects aim to address real-world 
+        challenges by improving existing technologies, simplifying complex processes, or 
+        developing cost-effective solutions over the longer term. While immediate applications 
+        may not be evident, these efforts are expected to create pathways for future 
+        translational outcomes.
+    </p>
+</div>
+<br>
+<div class="category">
+    <strong class="section-title">(iii) Applied / Translational Research:</strong>
+    <p>
+        Encompasses studies that generate scientific and technological insights with clear 
+        plans for application, including the development of prototypes, processes, or systems 
+        in the short term. Primarily focuses on evidence-based research and demonstrating 
+        technology for real-world applications. Projects are expected to deliver measurable 
+        scientific, societal, or economic impact, including contributions to technological 
+        self-reliance. This includes industry-relevant and need-based research, with partial 
+        collaboration and contribution from industry partners.
+    </p>
+</div>
+
+<p></p> 
+<br>
+<p class="justify">
+<strong><u>(B) Objectives :</u></strong><br>
+</p><ul>
+<li>To support high impact research that strengthens India’s R&amp;D ecosystem and contributes to elevating the country’s global standing and leadership in science, technology, and innovation.
+</li>
+<li>Enable investigator-driven (individual and small team) research&nbsp;across foundational, applied, and translational domains</li>
+<li>Strengthen core scientific domains&nbsp;by supporting fundamental frontier research&nbsp;with potential for transformative long-term impact.
+</li>
+<li>Catalyse interdisciplinary research and cross-sectoral collaboration, fostering convergence across disciplines to address complex scientific questions.
+</li>
+<li>Promote early-stage academia–industry–research ecosystem collaboration&nbsp;to accelerate translation, technology development, and societal impact.
+</li>
+</ul>
+<p></p> 
+<br>
+<div class="panel-group" id="accordionsoc2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionsoc2" href="#collapseInnerThirteensoc">
+                  (C) Eligibility Criteria
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteensoc" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+
+				<div>
+<br>
+<ol>
+    <li>
+        Applicants [Principal Investigator (PI) and Co-Principal Investigator(s) (Co-PI(s))] 
+        should be Indian citizens. Foreign nationals (including OCI and NRI) are also eligible 
+        to apply provided they fulfil the eligibility criteria notified.
+    </li>
+    <br>
+    <li>
+        The applicant(s) must hold a Ph.D. degree in Sciences, Mathematics and Engineering. 
+        Applicants with Master’s Degree in medicine, surgery, or dental sciences 
+        (M.D. / M.S. / M.D.S. / M.V.Sc.) can apply two years after obtaining degree. 
+        Under Quantitative Social Sciences area, PI and Co-Investigator(s) should hold 
+        Ph.D. degree in Science, Mathematics, Engineering, M.D. / M.S. / M.D.S. / M.V.Sc. 
+        degree or Ph.D degree in any Social Sciences area.
+    </li>
+    <br>
+  <li>
+        The applicant(s) (PIs and Co-PIs) must hold a regular position in a recognized academic 
+        institution or National Research Laboratory or in any other recognized research organization 
+        in India. A research professor or Professor of Practice may be a Co-PI. Private Academic 
+        institutions with valid UGC / AICTE / PCI approval, Private R&amp;D Institutions with valid 
+        DSIR-SIRO recognition and Voluntary and Non-Governmental Organizations registered under 
+        NITI-AAYOG Darpan portal are eligible to host a project. NGOs must have a valid DARPAN portal 
+        registration, and DSIR SIRO recognition to receive direct grant-in-aid under the program.
+    </li>
+<br>
+    <li>
+        The term "Regular" in the context of ARG refers to applicants who are appointed against 
+        a sanctioned post or on a tenure-track post of an Institute/University, and are likely 
+        to be renewed after the end of the tenure. Research Associates, Post-doctoral fellows, 
+        Ad-hoc faculties, Guest Faculties, Visiting Scientists, Consultants, Project Fellows, 
+        Faculty members/researchers whose contract is renewed every year are not eligible to apply.
+    </li>
+<br>
+    <li>
+        INSPIRE Faculty Fellowship, Ramanujan Fellowship, and Ramalingaswamy Fellowship holders 
+        are also eligible to apply as PI or Co-PI subject to fulfilling the service criteria 
+        as indicated below.
+    </li>
+<br>
+    <li>
+        <strong>Service Duration:</strong>
+        <ul type="a" class="sub-list">
+            <li>
+                In general, PI should have at least “the duration of the proposed project plus 
+                one year” of official service remaining at the time of submission of proposals 
+                (for purposes of computation, the last date for submission of proposals will be taken).
+            </li>
+            <li>
+                PI who will be superannuating during the duration of the project or already 
+                superannuated are also eligible to apply. In such cases, a Faculty/Scientist 
+                from the host institute who has at least the duration of the proposed project 
+                plus one year of official service remaining should be associated as a Co-PI.
+            </li>
+        </ul>
+    </li>
+<br>
+    <li>
+        Under no condition will ANRF projects be allowed to continue with a PI or Co-PI aged 70. 
+        Such individual’s host institution should ensure the transfer of PI responsibilities to Co-PI.
+    </li>
+<br>
+    <li>
+        Investigators can hold a maximum of two ANRF (or erstwhile SERB) projects at any point of time. 
+        In one project, they may be a PI and in another Co-PI; or, they could be Co-PIs in two projects. 
+        If an individual has hit or crossed this limit, they may not apply in this cycle of ARG. 
+        This limitation, however, does not apply to PIs involved in IRG/EMEQ schemes or PIs / Co-PIs 
+        in mission-mode programs (ANRF MAHA, ATRI, PAIR programs or other similar Mission programs of ANRF).
+    </li>
+<br>
+    <li>
+        Investigators become eligible to apply for another project within six months from the date 
+        of completion of the ongoing project. Application for another project more than six months 
+        prior to the completion will not be considered.
+    </li>
+<br>
+    <li>
+        In respect of cases that are not mentioned above, ANRF reserves the right to determine eligibility.
+    </li>
+</ol>
+
+ </div></div></div></div>
+
+<div class="panel-group" id="accordionsof2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionsof2" href="#collapseInnerThirteensof">
+                 	
+(D) Evaluation Criteria by Proposal Category
+                 	
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteensof" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+<div class="section">
+    <p><strong>(i) Fundamental Frontier Research</strong></p>
+    <ul>
+        <li><strong>Scientific Merit and Novelty:</strong> Breakthrough, paradigm shifting ideas with high originality</li>
+        <li><strong>Advancement of State-of-the-Art:</strong> Significant deepening of foundational knowledge; non-incremental advances</li>
+        <li><strong>Clarity of Deliverables and Outcomes:</strong> Clearly defined knowledge outputs (validated hypotheses / theories, datasets etc.)</li>
+        <li><strong>Feasibility and Research Methodology:</strong> Rigorous and innovative approaches suited to address the fundamental questions</li>
+        <li><strong>Potential for Impact:</strong> Advancement of knowledge with long-term scientific/technological impact</li>
+    </ul>
+</div>
+<br>
+<div class="section">
+    <p><strong>(ii) Use-Inspired Basic Research</strong></p>
+    <ul>
+        <li><strong>Problem Relevance and Scientific Merit:</strong> Strong originality anchored in clearly defined use inspired contexts</li>
+        <li><strong>Advancement of Knowledge and Utility:</strong> Progress in fundamental understanding alongside improvements in technological baselines (eg. efficiency, cost, performance etc.)</li>
+        <li><strong>Deliverables and Outcomes:</strong> Clearly defined outcomes with credible pathways toward application; measurable milestones</li>
+        <li><strong>Approach and Integration:</strong> Robust, interdisciplinary, and application aware research methodology</li>
+        <li><strong>Impact Potential:</strong> Potential for future technological, societal, or economic benefits arising from such research.</li>
+    </ul>
+</div>
+<br>
+<div class="section">
+    <p><strong>(iii) Applied / Translational Research</strong></p>
+    <ul>
+        <li>Limitations of existing technologies, originality of the proposed idea, and market competition.</li>
+        <li>Technical viability and economic feasibility of the outcome / deliverable.</li>
+        <li>Availability of scientific preliminary evidence or tested proof-of-concept supporting the project.</li>
+        <li>For interdisciplinary proposals, the extent of integration across disciplines, with clear justification, coherence, and complementary expertise within the team.</li>
+        <li>A well-defined translation roadmap, including backup plans and risk mitigation strategies.</li>
+        <li>Consideration of environmental and/or health risks associated with the proposed approach or product.</li>
+    </ul>
+
+    <ul>
+        <li>Bold high risk / high reward ideas are encouraged, with an articulation of the asymmetric upside on a positive outcome.</li>
+    </ul>
+</div>
+<br>
+<div class="section">
+    <p class="subheading"><strong>General Criteria</strong></p>
+    <ul>
+        <li>Interdisciplinary proposals should clearly bring out the integration of subject disciplines with a compelling rationale, as well as cohesiveness and complementary expertise in the team.</li>
+        <li>The content of the submitted proposal (and presentations in the review process) will be the primary source of evaluation. As an additional, or secondary source, evidence of relevant expertise in the proposed area, and performance in past projects, by the team of investigators may be considered in the evaluation.</li>
+        <li>Overlaps in the proposals submitted to different funding organizations or programs within Government of India (GoI) will be discouraged and not considered for support.</li>
+        <li>ANRF’s decisions are final and binding, and no requests for review or reconsideration will be entertained. However, PIs can consider revising the proposal based on the referee comments and resubmit the proposal in the subsequent call, subject to fulfilment of eligibility criteria.</li>
+    </ul>
+</div>
+</div></div></div></div>
+
+<div class="panel-group" id="accordiontv2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordiontv2" href="#collapseInnerThirteento">
+                  (E) Guidelines
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteento" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+<ol>
+    <li>
+        Principal investigator (PI) will lead the project and be responsible for successful 
+        implementation of the project. A proposal may include Co-PIs, either from the same 
+        host institute or other institutions.
+    </li>
+<br>
+    <li>
+        A proposal can be submitted by a team comprising of PI and up to 5 Co-PIs. ANRF 
+        encourages inclusion of PI or Co-PIs from emerging academic research institutions 
+        (as defined in Section F).
+    </li>
+<br>
+    <li>
+        The role and technical contribution, and accountability of PI / Co-PI(s) must be 
+        clearly articulated in the proposal. Co-PIs cannot be added in name only, without 
+        adequate budget allocation for their contribution, or with a weak contribution or 
+        accountability.
+    </li>
+<br>
+    <li>
+        For projects costing Rs. 1 Cr and above it is mandatory to have a Co-PI from the PI 
+        institution, for successful completion of the project (with the approval of ANRF) 
+        in the absence of or discontinuance of the PI.
+    </li>
+<br>
+    <li>
+        Financial support for an ARG project will be provided to at most three institutions: 
+        the institution of the PI, and up to two additional institutions.
+    </li>
+<br>
+    <li>
+        ANRF encourages participation of researchers from the industry/private research labs, 
+        deeptech startups/MSMEs, superannuated/retired technical experts (from academia or 
+        industry), or researchers / technical experts from international industry labs, 
+        deeptech companies or academia from highly rated institutions as Honorary Investigators, 
+        without funding support to them. Honorary Investigator should be a technical expert and 
+        must have a clear role justified in the proposal.
+    </li>
+<br>
+    <li>
+        ANRF is moving towards a principle of administrative responsibility to be held by the 
+        host institution, and technical responsibility by the PI. Till this is not fully 
+        implemented, the PI and host institution will hold joint responsibility. PIs are 
+        advised to inform their host institutions’ administration and ensure an administrative 
+        nodal point of contact is also provided to ANRF for the administrative responsibility.
+    </li>
+</ol>
+</div></div></div></div></div>
+
+<div class="panel-group" id="accordionrr2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionrr2" href="#collapseInnerThirteenrr">
+                (F) Nature &amp; Duration of Support 
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteenrr" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+<ul>
+    <li>
+        The ARG Program offers funding for projects for a maximum period of five years. 
+        For a project beyond three-year duration, support beyond the initial three-year 
+        period will be provided in a phased manner (i.e. 3+1 for 4 years and 3+1+1 for 
+        five years), contingent upon demonstrated research progress, impact and outcomes, 
+        in addition to publications and patents. ANRF will introduce an impact assessment 
+        scorecard with a real time dashboard per project and expect regular project updates 
+        post award. All data generated from project must be shared in appropriate depositories 
+        and managed. All publication pre-prints funded by the project must be shared in the public domain.
+    </li>
+<br>
+    <li>
+        <strong>Budget:</strong> The upper limit for project funding under the ARG Program is ₹ 5 Crores.
+        <p>The research grant will be provided under two budget heads:</p>
+
+        <ul type="A" class="sub-list">
+            <li>
+                Recurring [Research personnel, Consumables, Travel, Field Work Costs, Contingencies, 
+                other costs (to cover Cloud Compute Credits, Software Licenses, Publication Costs, 
+                Analytical / Facility Access charges) and Overheads]
+            </li>
+            <li>
+                Non-Recurring (Equipment, Software Purchased, Long-term purchase of cloud or remote facility access).
+            </li>
+            <li>
+                No reallocation of funds will be permissible from Non-recurring to Recurring heads or vice-versa.
+            </li>
+            <li>
+                Operational flexibility is provided to utilize funds under Recurring head 
+                (i.e. all sub-heads of Recurring) subject to the following conditions:
+                
+                <ul type="a" class="nested-list">
+                    <li>
+                        Research Personnel: Operational flexibility is provided for engaging research personnel 
+                        in the project. The norms for emoluments, and general terms and conditions of research 
+                        personnel engaged in the project will be as per ANRF norms, informed through Office Memoranda viz., ANRF/OM/N/01/2024 and
+SB/S9/Z-06/2019 and updated from time to time.
+                    </li>
+                    <li>
+                        All personnel, including Research Personnel engaged under the project, for the full/part 
+                        duration of the project, are to be treated as temporary employees and governed by 
+                        administrative rules/service conditions (for leave, TA/DA
+etc.) of the host institute. They shall not to be treated as employees of the ANRF
+or Government of India nor permanent employees of the host institute.
+                    </li>
+                    <li>
+                        Travel: Budget of up to Rs. 5 Lakhs will be provided for a project to undertake travel 
+                        related to the project. International travel for project-related work is also permitted within this travel head.
+                    </li>
+                    <li>
+                        Contingency: Contingency funds of up to Rs. 5 Lakhs will be provided for a project. 
+                        They can also be utilized for registration charges for international conferences.
+                    </li>
+                    <li>
+                        The PI shall ensure that the total funds sanctioned under the recurring head is not exceeded in any case.
+                    </li>
+                    <li>
+                        Publication and patent filing charges: Expenditure towards open access publications in 
+                        top journals of any discipline is permitted, as long as they are
+publications resulting from this project. Funds under the recurring head can also
+be utilized for patent filing charges.
+
+                    </li>
+                    <li>
+                        Equipment: The change of approved or sanctioned equipment is generally not
+permitted and may only be considered on a case-by-case basis, provided it is
+within the sanctioned budget for equipment/s. The PI must obtain prior approval
+from ANRF to change the approved or sanctioned equipment. [Refer ANRF OM
+ANRF/OM/N-01/2024 for details on overheads, travel and contingency.
+                    </li>
+                </ul>
+            </li>
+
+            <li>
+                Industry or International Collaborations: PIs are encouraged to bring Industry or
+International partners in proposals which are industry relevant (or in collaboration
+with top rated international research institutions). Optionally, PIs are encouraged to
+invite cost-sharing from industry or international partners. An LoI from industry or
+international partner can be added in full proposal stage. Industry, institutional or
+international co-funding is NOT mandatory, but is encouraged, and should be
+declared.
+            </li>
+        </ul>
+    </li>
+<br>
+    <li>
+        <strong>Proposals Costing Rs. 1 Cr and above:</strong>
+        <ul type="a" class="sub-list">
+            <li>Inclusion of Co-PI(s) is mandatory</li>
+            <li>If the Co-PI is from a different institution, an appropriate budget should be proposed and adequately justified</li>
+            
+            <li>
+                Inclusion of Co-PI (or PI) with justified role(s) from emerging academic research
+institutions is preferred. Emerging academic research institutions are defined as any
+State University OR lower NIRF ranked research active public or private academic
+institution, i.e. those institutions having &gt; 50 NIRF overall ranking. 
+            </li>
+        </ul>
+    </li>
+</ul>
+<br>
+<strong class="note">
+    Note: National Research Laboratories, R&amp;D Organizations and Deemed Universities under any 
+    Ministries/Departments except Department of Higher Education are not considered as emerging 
+    academic research institutions.
+</strong>
+				<div>
+</div></div></div></div></div>
+
+<div class="panel-group" id="accordion2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordiontt2" href="#collapseInnerEight">
+                   (G) Application and Selection
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerEight" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">
+
+<ul>
+    <li>
+        For this particular Call for Proposals, due to the anticipation of a very high number 
+        of submissions, a researcher is eligible to apply for at most one proposal as a PI 
+        and at most one proposal as a Co-PI. PIs already having ongoing projects as PI or 
+        Co-PI will be allowed to submit applications in accordance to the C (9 &amp; 10).
+    </li>
+<br>
+    <li>
+        The CFP for the ARG Program will be notified through the website 
+        "<a href="http://anrfonline.in/ANRF/HomePage" target="_blank">www.anrfonline.in</a>". 
+        The research proposal should be submitted only through the website 
+        "<a href="http://anrfonline.in/ANRF/HomePage" target="_blank">www.anrfonline.in</a>". 
+        Proposals submitted through any other mode will not be considered.
+    </li>
+<br>
+    <li>
+        A pre-proposal must be submitted in the prescribed format by the deadline. Applicants 
+        whose pre-proposals are shortlisted will be invited to submit a full proposal. These 
+        full proposals will undergo a rigorous review by subject matter experts. PIs may also 
+        be called for a presentation, whenever required.
+    </li>
+<br>
+    <li>
+        Larger value proposals (exceeding ₹1 Cr) will undergo another round of evaluation at 
+        level III by the Empowered Technical Committee, with specific emphasis on impact, 
+        and depth of collaboration.
+    </li>
+</ul></div></div></div></div>
+
+
+<div class="panel-group" id="accordion2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionrt2" href="#collapseInnerEleven">
+                  (H) Transfer or Termination
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerEleven" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">
+
+<ol>
+    <li>
+        During the execution of the project, requests from a PI to transfer the project 
+        from one institution to another, on account of career growth will be favorably 
+        considered by ANRF, provided the intimation is obtained well in advance, prior 
+        to moving from one institution to another.
+    </li>
+<br>
+    <li>
+        If the PI leaves the host institution due to personal reasons, moves to another 
+        institution on lien, or superannuates and is not officially appointed for an 
+        extended period and allowed to be a PI by the host institution, the project may 
+        be transferred to a Co-PI from the same host institution, provided that all other 
+        terms and conditions of the grant are met.
+    </li>
+<br>
+    <li>
+        The host institution shall not incur any expenditure from the date of resignation 
+        of the PI. The host institution shall arrange for the submission of all relevant documents.
+    </li>
+<br>
+    <li>
+        ANRF reserves the right to terminate the project at any stage if it is convinced that:
+        (i) inadequate progress is being made in the project, or 
+        (ii) the grant has not been appropriately utilized, or 
+        (iii) false information has been furnished to ANRF.
+    </li>
+<br>
+    <li>
+        In respect of cases that are not mentioned above, ANRF reserves the right to allow 
+        or deny the transfer of the project.
+    </li>
+</ol>
+<br>
+	
+</div></div></div></div>
+<div class="panel-group" id="accordion2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionht2" href="#collapseInnerThirteenplag">
+                     (I) Plagiarism, AI Generated Content, Retractions 
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteenplag" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">
+<ul>
+    <li>
+        Proposals submitted must be original in ideation and content. ANRF follows zero 
+        tolerance for plagiarism in any form. All submissions may undergo a third-party 
+        plagiarism check and any proposal found to contain plagiarised content will be rejected. 
+        Any form of text included verbatim from another source must be identified using quotation 
+        marks, with an appropriate citation (including use of AI tools). Applicants are strongly 
+        encouraged to precheck their proposals for plagiarism prior to submission in order to 
+        avoid rejections.
+    </li>
+<br>
+    <li>
+        The PI and Co-PIs must sign an undertaking that the proposal (or significant portions 
+        of the proposal) is not AI generated.
+    </li>
+<br>
+    <li>
+        ANRF may use a combination of tools to detect use of AI, and/or publication retractions 
+        in past five years, and alert the Technical Program Committee for decisions.
+    </li>
+<br>
+    <li>
+        PIs and Co-PIs must declare details (and reasons) of publication retractions, if any, 
+        in the past five years.
+    </li>
+<br>
+    <li>
+        ANRF reserves the right to take action on proposals involving plagiarism or undeclared 
+        AI generated content, and publications retractions by PIs, Co-PIs and Honorary Investigators.
+    </li>
+</ul>
+
+</div></div></div></div>
+
+<div class="panel-group" id="accordion2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionrh2" href="#collapseInnerEighttwo">
+                   (J) Online Application
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerEighttwo" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">
+<p>
+    For online submission of the research proposal, the following points may be noted:
+</p>
+
+<ul>
+    <li>
+        Applicant should first register on the online website 
+        <a href="http://www.anrfonline.in" target="_blank">www.anrfonline.in</a> 
+        click here to register. Applicants who are registered with the ANRF online portal 
+        (<a href="http://www.anrfonline.in" target="_blank">www.anrfonline.in</a>) may log in 
+        to anrfonline.in using the same credentials.
+    </li>
+
+    <li>
+        After the log-in, the applicant is required to fill-in all the mandatory fields in 
+        Profile Detail section under User Profile which includes Bio-data, Photo, Institution 
+        address, etc.
+    </li>
+
+    <li>
+        In respect of proposals having Co-PIs, it must be ensured that all the Co-PIs are also 
+        registered in the ANRF system following steps 1 and 2 above.
+    </li>
+
+    <li>
+        A compact pre-proposal (as per a prescribed format) needs to be submitted by the deadline. 
+        The investigators of the successfully screened in at the Pre-proposal level will be invited 
+        for submission of the full proposal. The full proposals will be subjected to a rigorous 
+        assessment with the help of subject matter experts at level II. Applicant(s) of the full 
+        proposals that clear the review process may be invited for a discussion/presentation.
+    </li>
+
+    <li>
+        Full Proposal Submission: Leading details of the full proposal such as Title; Summary; 
+        Keywords; Objectives; Expected Outputs and Outcome; and Proposed Budget have to be provided 
+        in the online web based template. The scientific part of the full proposal is to be uploaded 
+        as a single PDF file with a limit of up to 20 pages (12 font size) excluding references. 
+        A standard template and guidelines for preparation of the full proposals is available for 
+        download from 
+        <a href="http://www.anrfonline.in" target="_blank">www.anrfonline.in</a>.
+    </li>
+</ul>
+</div></div></div></div>
+
+
+<div class="panel-group" id="accordion2">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionf2" href="#collapseInnerThirteenfaq">
+                  (K) Frequently Asked Questions (FAQs)
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteenfaq" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+
+				<div>
+
+
+  <!-- Q1 -->
+<strong class="question">Q1: I wish to apply for an extramural research grant under the ARG Program. What is the maximum amount of the grant that will be funded?</strong>
+<div class="answer">
+A1: The PI is expected to propose a realistic budget for the proposal as needed for its successful implementation. The upper limit for project funding under the ARG Program is ₹ 5 Crores for maximum period of 5 years. Proposals larger than ₹ 1 crore will undergo multiple levels of evaluation, and will undergo deeper impact, technical and team scrutiny.
+</div>
+<br>
+<!-- Q2 -->
+<strong class="question">Q2: In how many project proposals can a researcher get involved as a PI, Co-PI, or as an Honorary Investigator under the ARG Program?</strong>
+<div class="answer">
+A2: Investigators can hold a maximum of two ANRF (or erstwhile SERB) projects at any point of time. In one project, they may be a PI and in another Co-PI, or, they could be Co-PIs in two projects. This limitation, however, does not apply to PIs involved in IRG/EMEQ schemes or PIs / Co-PIs in mission-mode programs. There is no limit on number of proposals where they are an Honorary Investigator (subject to the time they need to devote to their primary PI or Co-PI commitments).
+</div>
+<br>
+<!-- Q3 -->
+<strong class="question">Q3: I have an ongoing CRG project as a PI. Can I apply for the current ARG call?</strong>
+<div class="answer">
+A3: Yes, you may apply. For more details, please refer to Q2 above.
+</div>
+<br>
+<!-- Q4 -->
+<strong class="question">Q4: Can the PI and Co-PIs belong to different institutions?</strong>
+<div class="answer">
+A4: ANRF encourages multi-institutional participation and therefore the PIs and Co-PIs can be from different institutions.
+</div>
+<br>
+<!-- Q5 -->
+<strong class="question">Q5: Can a budget be provided separately to PI and Co-PIs in case of different institutions?</strong>
+<div class="answer">
+A5: Yes. A separate budget can be provided to the institutions of the Co-PIs (with a limit of up to two other institutions) if the work proposed requires complementary expertise for its implementation.
+</div>
+<br>
+<!-- Q6 -->
+<strong class="question">Q6: Are there any priority research areas for support under the ARG Program?</strong>
+<div class="answer">
+A6: ARG is a broad-based funding program, where applicants are encouraged to submit high quality proposals based upon their best ideas, rather than ANRF directing them to priority research topics. Applicants are welcome to submit proposals in related or emerging topics that align with the objectives of the ARG Program.
+</div>
+<br>
+<!-- Q7 -->
+<strong class="question">Q7: Can a Co-PI be included after the Project has been launched?</strong>
+<div class="answer">
+A7: It may be possible, under compelling reasons, to add a Co-PI after the project has already been launched. This will be on the condition that no separate budget allocation will be provided to the Co-PI being included. An Honorary Investigator (eg: industry collaborator) may also be similarly added.
+</div>
+<br>
+<!-- Q8 -->
+<strong class="question">
+Q8: Can investigators from private institutions or NGOs submit proposals under this Program?
+</strong>
+<div class="answer">
+A8: Yes. Private Academic institutions with valid UGC / AICTE / PCI approval, Private R&amp;D Institutions with valid DSIR-SIRO recognition and Voluntary and Non-Governmental Organizations registered under NITI-AAYOG Darpan portal are eligible to host a project. NGOs must have a valid DARPAN portal registration, and DSIR SIRO recognition to receive direct grant-in-aid under the program.
+</div>
+<br>
+<!-- Q9 -->
+<strong class="question">Q9: In the case of a multi-institution project, what is the role of the PI?</strong>
+<div class="answer">
+A9: In the case of multiple institutions participating in a project, the PI and host institution should take full technical and financial responsibility for completing the project successfully in all respects including financial closure. The PI and the administration of the host institution will be the point of contact with ANRF.
+<br><br>
+ANRF is in the process of Ease of Doing Research (EoDR) transformations to reduce the administrative and financial burden on PIs and Co-PIs, and moving this responsibility operationally to the administration of the host institution. This will allow PIs and Co-PIs to focus on technical responsibility, impact, quality and outcomes. Till this transition is complete, the responsibility is joint between the PI and the administration.
+</div>
+<br>
+<!-- Q10 -->
+<strong class="question">Q10: Can a researcher, superannuating in three years, submit a project of 3 years duration?</strong>
+<div class="answer">
+A10: Yes. PI who will be superannuating during the duration of the project or already superannuated are also eligible to apply. In such cases, a Faculty/Scientist from the host institute who has at least the duration of the proposed project plus one year of official service remaining should be associated as a Co-PI. Under no condition will ANRF projects be allowed to continue with a PI or Co-PI aged 70.
+</div>
+<br>
+<!-- Q11 -->
+<strong class="question">Q11: Is there any minimum number of disciplines required for the proposal to be considered as interdisciplinary?</strong>
+<div class="answer">
+A11: No. There is no such requirement of a minimum number of disciplines in an interdisciplinary proposal. However, the proposal should address a research question which requires a multidisciplinary team of researchers. The proposal may be submitted to the Vertical that is the best fit as the primary discipline.
+</div>
+<br>
+<!-- Q12 -->
+<strong class="question">Q12: Can researchers belonging to Industry, Start-ups be included as technical collaborators without any financial obligations?</strong>
+<div class="answer">
+A12: Yes. ANRF encourages participation of researchers from the industry/private research labs as Honorary Investigators, without funding support to them. Honorary Investigator should be a technical expert, and must have a clear role justified in the proposal.
+</div>
+<br>
+<!-- Q13 -->
+<strong class="question">Q13: Will international collaborators be encouraged to contribute without any financial obligations from either end?</strong>
+<div class="answer">
+A13: Yes. If accomplished international researchers wish to collaborate with the PI/Co-PIs to contribute to the project, they are welcome, without any financial obligation from ANRF, subject to acceptance of IP policy of ANRF.
+</div>
+<br>
+<!-- Q14 -->
+<strong class="question">Q14: Is a prior clearance (Ethical, biosafety, animal, humans, etc) required at the time of submission of proposals?</strong>
+<div class="answer">
+A14: The clearances may be submitted after approval of the proposal for funding.
+</div>
+<br>
+<!-- Q15 -->
+<strong class="question">Q15: Can I apply for a project under the MATRICS grant while implementing another project in ANRF?</strong>
+<div class="answer">
+A15: PI can submit one proposal as a PI and one proposal as a Co-PI during a call. However, if applying as a PI, they must choose between MATRICS or regular ARG proposal. If the person is a PI in a MATRICS proposal, they can participate as a Co-PI in another regular ARG proposal.
+</div>
+						                              						                         						
+			</div></div></div></div>    
+
+</div>
+<div class="panel-group" id="accordion211">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionrh211" href="#collapseInnerEighttwonine">
+                  (L)Documents Required
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerEighttwonine" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">
+<ul>
+    <li>
+        Bio-data 
+        <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PI_Biodata.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="_blank">
+            Download Template
+        </a>
+    </li>
+
+    <li>
+        Certificate from Principal Investigator 
+        <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="_blank">
+            Download Template
+        </a>
+    </li>
+
+    <li>
+        Endorsement Letter from the Head of Institution 
+        <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="_blank">
+            Download Template
+        </a>
+    </li>
+
+    <li>
+        Plagiarism/AI Generated Content/Retractions undertaking 
+        <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PUT_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="_blank">
+            Download Template
+        </a>
+    </li>
+
+
+	<li>
+	    Other Technical Details
+	    <ul>
+	        <li>
+	            Category I (Fundamental Frontier Research)
+	            <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD1_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="new" style="cursor: text;">Download Template</a>
+	        </li>
+	        <li>
+	            Category II (Use-inspired Basic Research)
+	            <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD2_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="new" style="cursor: text;">Download Template</a>
+	        </li>
+	        <li>
+	            Category III (Applied / Translational Research)
+	            <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=OTD3_ARG1.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="new" style="cursor: text;">Download Template</a>
+	        </li>
+	    </ul>
+	</li>
+</ul>
+
+</div></div></div></div>
+
+<div class="panel-group" id="accordionsofmatrics">
+                  <div class="card mb-2">
+                    <div class="card-heading">
+                      <h5 class="card-title p-2"><a data-bs-toggle="collapse" data-parent="#accordionsofmatrics" href="#collapseInnerThirteensofmatrics">
+                 	ARG MATRICS
+                      </a></h5>
+                    </div>
+                    <div id="collapseInnerThirteensofmatrics" class="panel-collapse collapse ">
+                      <div class="card-body mx-4 text-justify">	
+MATRICS is a part of Advanced Research Grant (ARG). It aims to provide fixed 
+grant support to active researchers with strong credentials in Mathematical 
+Sciences, Theoretical Sciences, and Quantitative Social Sciences.<br>
+<br><p><strong>Scope:</strong></p>
+<ul>
+<li>Mathematical Sciences (MS): Mathematical and allied areas.</li>
+<li>Theoretical Sciences (TS): All areas of Science and Engineering (other than 
+mathematical and allied areas).</li>
+<li>Quantitative Social Sciences (QSS): Quantitative Social Sciences which 
+involves quantitative analysis using mathematical, statistical or 
+computational techniques in the areas of Social Sciences.</li></ul>
+
+<br><p><strong>Nature of Support:</strong></p>
+<p>Research grant of Rs. 5 lakh per annum plus overheads for a period of up to five 
+years; out of which a maximum of Rs. 5 lakhs in total may be used for international 
+travel.
+</p>
+<br><p><strong>Purpose for which grants can be used:</strong></p>
+<ul>
+<li>Purchase of text books and monographs.</li>
+<li>Purchase of minor equipment such as workstation, laptop, etc.</li>
+<li>Purchase of software for research purposes.</li>
+<li>Travel support and payment of registration fee for invited talks or presenting 
+a paper in national and international conferences.</li>
+<li>Travel support for collaborative visits in India and abroad.</li>
+<li>Travel support and other logistics for inviting students and young 
+researchers for research activities.</li>
+</ul>
+<br><p><strong>Eligibility:</strong></p>
+<p>Eligibility will be as per section C (1), (3), (4), (6) in public, private universities or 
+National Research Laboratories and other recognised research organisations in 
+India, with the following additional changes.</p><ul>
+<li>The applicant should be an active researcher in the field of (i) Mathematical 
+Sciences and allied areas; (ii) Science and Engineering (excluding 
+mathematical sciences) or (iii) Social Sciences involving quantitative 
+analysis using mathematical, statistical and computational techniques.
+Applications for MATRICS may be made to the relevant Verticals.</li>
+<li>An applicant is eligible to submit only one proposal during a call.</li>
+<li>Co-PIs are not allowed in the MATRICS program. For MATRICS, Section C 
+(1) is relaxed to allow OCI / PIO holders satisfying other conditions above 
+to apply without need for a Co-PI.</li>
+<li>There is no provision for extension of project duration.</li></ul>
+<br><p><strong>MATRICS: Mode of Application and Selection:</strong></p>
+<p>The call for applications will be notified through the website www.anrfonline.in and 
+the proposal should be submitted online only at www.anrfonline.in.<br><br>
+The selection will be based on the recommendations of an Expert Committee 
+(formed from the relevant Vertical and Technical Program Committee) and the 
+criteria of consideration would be (1) Credentials of PI (2) Publications record and 
+(3) Mathematical/Theoretical content of the proposal in their respective area.
+<br><br>Applicants should first register in the online website, www.anrfonline.in. After 
+log-in applicants are required to fill all the mandatory fields in Profile Details 
+Section under User Profile which includes Bio data (as per defined template), 
+Photo, Institute Address, etc.
+<br><br>Proposal submission should include Project Title (max 500 characters), 
+Mathematics review subject classification in case of MATRICS, Keywords (max 
+6), Project summary (max 3000 characters), etc.
+<br><br><strong>Documents required (in PDF): </strong>
+</p><ul><li>Bio-data <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PI_Biodata.pdf&amp;PathKey=DOCUMENT_TEMPLATE" target="new">Download Template</a></li>
+<li>1-2 page(s) project proposal</li>
+<li>List of ten most significant publications</li>
+<li>List of all publications in the last five years</li>
+<li>Certificate from Principal Investigator <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=CFI_ARG4.doc&amp;PathKey=DOCUMENT_TEMPLATE" target="new">Download Template</a></li>
+<li>Endorsement Letter from the Head of Institution <a href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=END_ARG4.doc&amp;PathKey=DOCUMENT_TEMPLATE" target="new">Download Template</a></li>
+<li>Plagiarism undertaking <a target="_blank" href="/ANRF/AbstractFilePath?FileType=E&amp;FileName=PUT_ARG4.pdf&amp;PathKey=DOCUMENT_TEMPLATE">Download Template</a></li>
+</ul>
+
+</div></div></div></div>
+		
+ </div></div></div></div>
+ </div>
+     		    			    		    							
+	</section>
+	<div class="push"></div>
+	</div>
+	<div class="">
+		
+
+
+ 
+ 
+  
+ 
+ 
+ 
+    
+
+ <footer id="footer" class="p-3">
+        <div class="">
+            <div class="row">
+                <div class="col-lg-4 col-md-6 col-sm-12 footer-logo">
+                    <p class="mt-2 bold" style="color: #fff;">
+                        Designed Developed and Maintained by
+                    </p>
+                    <div class="mt-3 footerimg">
+                        <img class="img-fluid" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/cadc.png" alt="cdac logo">
+                    </div>
+                </div>
+
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="location-bg">
+                        <p class="mt-2 bold heading">                      
+                            Our Location
+                        </p>
+                        <div class="">
+                            <a class="font-small" href="http://www.serb.gov.in/home.php" target="_blank">
+                                Anusandhan National Research Foundation (ANRF)</a>
+                            <span class="font-small"> 4th Floor, AI Block, Technology Bhawan Complex,
+                                New Mehrauli Road, New Delhi-110016.</span>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-lg-3 col-md-6 col-sm-12">
+                    <div class="ps-5 bg-online">
+                        <p class="mt-2 bold heading">
+                            <!-- <img class="small-icon" src="./images/homepage/img/online_help1.png" alt="online"> -->
+                            Portal Technical Issue
+                        </p>
+                        <div class="pb-1 portal-issue-mailid">
+                            <i class="p-1 fa fa-envelope fa-1x"></i>
+                            <a class="p-1 font-small" href="mailto:support[at]anrfonline[dot]in">support[at]anrfonline[dot]in</a>
+                        </div>
+                        <div class="font-small portal-issue-number">
+                            <i class="p-1 fa fa-phone fa-1x"></i><span class="p-1">011-26552179, 26552197</span>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="col-lg-2 col-md-6 col-sm-12">
+                    <div class="browsers">
+                        <p class="mt-2 bold heading">
+                            <!-- <img class="small-icon" src="./images/homepage/img/browser-icon.png" alt="online"> -->
+                            Browsers
+                        </p>
+                        <div class="mb-1 chrome">
+                            <a href="http://www.google.com/chrome/" target="_blank">
+                                <img class="extra-small-icon" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/chrome.png" alt="chromo icon">
+                                <span class="font-small">Google Chrome</span>
+                            </a>
+                        </div>
+                        <div class="mb-1 mozilla">
+                            <a href="http://www.mozilla.com/firefox/" target="_blank">
+                                <img class="extra-small-icon" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/mozilla.png" alt="mozilla icon">
+                                <span class="font-small">Mozilla Firefox</span>
+                            </a>
+                        </div>
+                        <div class="mb-1 ie">
+                            <a href="http://www.microsoft.com/windows/Internet-explorer/" target="_blank">
+                                <img class="extra-small-icon" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/edge.png" alt="microsoft edge icon">
+                                <span class="font-small">Microsoft Edge</span>
+                            </a>
+                        </div>
+                        <div class="mb-1 safari">
+                            <a href="http://www.apple.com/safari/download/" target="_blank">
+                                <img class="extra-small-icon" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/safari.png" alt="safari icon">
+                                <span class="font-small">Safari </span>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        </footer></div>
+    
+	
+
+ <script>
+
+      var func1 =  function alwaysCall(){
+              //console.log("Cookie alwaysCall");
+              var cookieValue = $.cookie('hit-counter-updated');
+              //console.log("Cookie "+cookieValue);
+                if(!cookieValue){
+               // console.log('If Block');
+                $.ajax(
+                                          {
+                                          type: "POST",
+                                          url: "/ANRF/visitorCountUpdate",  
+                                          beforeSend: function(xhr) {
+                                             // xhr.setRequestHeader("Your-Header", "header-value");
+                                          },
+                                          success : function(response) {
+                                        	  //console.log(response);
+                                                  if(response != 0){
+                                                          $('#countLabel').text(response);
+                                                  }
+                                          },error: function(e){
+                                        console.log(e);
+                                    }
+                                          });        
+                                
+                     }else{
+                            // console.log('Else Block');
+                              $.ajax(
+                                                          {
+                                                          type: "POST",
+                                                          url: "/ANRF/initiateVisitorCount",                                                          
+                                                          success : function(response) {
+                                                                  //console.log(response);
+                                                                  if(response != 0){
+                                                                          $('#countLabel').text(response);
+                                                                  }
+                                                          },error: function(e){
+                                                        console.log(e);
+                                                    }
+                                                          });
+                        }
+                jQuery.cookie('hit-counter-updated','1',{expires: 31});
+            
+                };
+                window.onload = func1;
+      </script>
+
+	
+	
+	
+
+</body></html>

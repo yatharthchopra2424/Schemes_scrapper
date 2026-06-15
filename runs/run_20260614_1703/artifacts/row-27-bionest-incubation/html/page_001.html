@@ -1,0 +1,2625 @@
+<html lang="en" class=""><head><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head><body><input type="hidden" name="hidrandom" id="hidrandom" value="571c939fdc93638534aac712de62eb36ad83d0cd124954bb7be1cc6ce8634564">
+
+
+
+
+
+
+    <title>BIRAC-BioNEST</title>
+    <meta charset="utf-8">
+<meta http-equiv="x-ua-compatible" content="ie=edge">
+<meta name="author" content="ChitrakootWeb">
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<link rel="icon" type="image/x-icon" href="./images/Logo.ico">        <!--link rel="shortcut icon" href="assets_design/favicon/favicon.ico" /-->
+    <link rel="icon" href="images/birac_favicon.jpg">
+    <!-- load google font -->
+    <link href="https://fonts.googleapis.com/css?family=Barlow:300,400,400i,500,700,700i" rel="stylesheet">
+    <!-- all stylesheets include start -->
+    <!-- Bootstrap css -->
+    <link rel="stylesheet" href="assets_design/bootstrap/css/bootstrap.min.css">
+    <!-- fontawesome css -->
+    <link rel="stylesheet" href="assets_design/css/font-awesome.min.css">
+    <!-- ET Lineicon CSS -->
+    <link rel="stylesheet" href="assets_design/css/lineicon.css">
+    <!-- Light Box CSS -->
+    <link rel="stylesheet" href="assets_design/css/lightbox.css">
+    <link rel="stylesheet" href="assets_design/css/animations.css">
+
+    <!-- Accordions CSS -->
+    <link rel="stylesheet" href="assets_design/css/accordions.css">
+
+    <!-- Tab and Accordian CSS -->
+    <link rel="stylesheet" href="assets_design/css/tabs.css">
+
+    <!-- Datepicker CSS -->
+    <link rel="stylesheet" href="assets_design/css/datepicker.css">
+    <!-- theme style css -->
+    <link rel="stylesheet" href="assets_design/css/bionest.css">
+    <!-- responsive css -->
+    <link rel="stylesheet" href="assets_design/css/responsive.css">
+    <!-- all stylesheets include end -->
+    
+    <!-- data tables -->
+    <link rel="stylesheet" href="assets_design/bootstrap/datatables/dataTables.bootstrap.css">
+
+    <!-- Custom style css -->
+    <link rel="stylesheet" href="assets_design/css/custom.css">
+    <!-- jquery latest version -->
+    <div class="fit-vids-style" id="fit-vids-style" style="display: none;">­<style>.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style></div><script src="assets_design/js/jquery-3.6.0.min.js"></script>
+    
+    <!-- data table js-->
+    <script src="assets_design/bootstrap/datatables/jquery.dataTables.min.js"></script>
+    <script src="assets_design/bootstrap/datatables/dataTables.bootstrap.min.js"></script>
+    
+    <!-- revolution slider js files start -->
+    <script src="assets_design/js/rev_slider/jquery.themepunch.tools.min.js"></script>
+    <script src="assets_design/js/rev_slider/jquery.themepunch.revolution.min.js"></script>
+
+
+
+    <div id="container-fluid">        
+        <!-- Start Header & Navigation Section -->
+          
+<header class="clearfix" id="header">      
+    
+<style>
+    .topbar: hover{color:#fff !important;}
+	#element
+	{
+		font-weight:bold;
+	}
+	
+	.typed-cursor 
+	{
+		visibility:hidden;
+	}
+</style>
+<script>
+        var cbody = document.querySelector("body");
+        function changeSizeByBtn(act) {
+            var style = window.getComputedStyle(cbody, null).getPropertyValue('font-size');
+            var size = parseFloat(style); 
+            if(act == 'equal') {
+                size = 14;
+            }
+            else if(act == 'minus') {
+                size -= 2;
+            } else {
+                size += 2;
+            }
+ 
+            // Set value of the parameter as fontSize
+            cbody.style.fontSize = size+"px";
+        }
+        function toggl_el_class() {
+            var element = document.getElementById("font-btn");
+            element.classList.toggle("active");
+        }
+        function toggl_ln_class() {
+            var element = document.getElementById("lang-btn");
+            element.classList.toggle("active");
+        }
+
+    </script>
+<script src="https://unpkg.com/typed.js@2.0.16/dist/typed.umd.js"></script>
+<section class="topbar">
+    <div class="container-fluid">
+        <div class="row">
+            
+                                        <div class="col-md-4 col-sm-4 text-left">
+                                <div class="contact-info">
+                                    <li id="element">
+                                        <a href="./index.php" style="color: #fff !important;"><b><font size="2">Biotechnology Industry Research Assistance Council</font></b></a>
+                                    </li>
+                                </div>
+                            </div>
+                    
+
+
+
+            
+                <div class="contact-info col-md-8 col-sm-8 text-right">
+                 
+                <li class="label label-primary" style="padding: 0px;"><a href="#mainContent" style="color: #fff !important;"><img src="./images/ico-skip.png" alt="Skip to Main Content"></a></li>|&nbsp;
+                    <li class="label label-danger" style="padding: 5px;"><a target="_blank" href="howtoSubmitProposal.php" style="color: #fff !important;"><i class="fa fa-bullhorn"></i>Proposal Format</a></li>&nbsp;|&nbsp;
+                        <i class="fa fa-user"></i>
+                        <a href="login.php" style="color: #fff !important;">LogIn / Register </a>&nbsp;
+                    &nbsp;|&nbsp;
+                    <!-- <li class="label label-warning" style="padding: 5px;"><a  href="index.php" style="color: #fff !important;"> English</a></li>&nbsp;|&nbsp;
+                    <li class="label label-success" style="padding: 5px;"><a  href="index.php?lg=hi" style="color: #fff !important;"> हिंदी</a></li>&nbsp;|&nbsp; -->
+                    <li class="lang-btn" onclick="toggl_ln_class()" id="lang-btn">
+                        <button type="button" style="background: none !important; border: none;">
+                            <img src="./images/hi-en-icon.png" alt="language-icon" height="24" width="40">
+                        </button>
+                        <div class="lang-btn-wrap clearfix">
+                                                        <a href="index.php?lg=hi">हिंदी</a>
+                                                    </div>
+                    </li>&nbsp;|&nbsp;
+                   
+                                      
+                    <li><a target="_blank" href="screen-reader-access.php" style="color: #fff !important;"><i class="fa fa-wheelchair" aria-hidden="true" style="font-size:20px"></i></a></li>|
+                        
+                
+                    <li>
+                    
+                      </li><li><a target="_blank" href="https://twitter.com/BIRAC_2012" style="color: #fff !important;"><i class="fa fa-twitter"></i></a></li>
+                    <li><a target="_blank" href="videoGallery.php" style="color: #fff !important;"><i class="fa fa-youtube"></i></a></li>|&nbsp;
+                  <li class="font-btn" onclick="toggl_el_class()" id="font-btn">
+                        <button type="button" style="background: none !important; border: none;">
+                            <img src="./images/ico-accessibility.png" alt="accessibility">
+                        </button>
+                        <div class="accessibility-wrap clearfix">
+                            <button type="button" onclick="changeSizeByBtn('minus')" name="btn1">
+                                -A
+                            </button>
+                            
+                            <button type="button" onclick="changeSizeByBtn('equal')" name="btn2">
+                                A
+                            </button>
+                    
+                            <button type="button" onclick="changeSizeByBtn('plus')" name="btn3">
+                                A+
+                            </button>
+                        </div>
+                  </li>|&nbsp;
+                                      
+                    <li><a target="_blank" href="birac_site_map.php" style="color: #fff !important;"><i class="fa fa-sitemap" alt="Site Map" style="font-size:20px"></i></a></li>
+                                </div>
+            </div>
+                   
+<input type="hidden" id="hdn_compname" value="Biotechnology Industry Research Assistance Council">
+            
+        </div>
+    </section></header></div>
+
+<script>
+
+	var company_name = document.getElementById('hdn_compname').value;
+    var typed = new Typed('#element', {
+      strings: [company_name],
+      typeSpeed: 50,
+    });
+	
+
+  </script>    
+    <div class="navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="container-fluid">
+        <div class="navbar-header">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-collapse">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <img src="images/logo.png" class="img img-responsive visible-xs visible-sm logo2" style="width:140px;">
+        </div>
+        <div class="collapse navbar-collapse">
+            
+
+
+<div class="row header_bg"> 
+	<div class="col-md-12 four-three-box">
+	    <div class="col-md-1 col-lg-1 logo-center hidden-	sm hidden-xs logo">
+	      <a href="index.php"><img alt="amrit" src="images/Birac_logo.png" style="padding:5px; width: 80px;"></a>
+	    </div>
+        <div class="col-md-9 col-lg-9" style="text-align: center;">
+            <ul class="nav navbar-nav" style="float: none; display: inline-block; margin: 0 auto;">
+    <li class="active"><a href="index.php" style="font-size:18px;"><i class="fa fa-home" style="color: #f48d0e !important;"></i></a></li>
+    <li>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">About<b class="caret"></b></a>
+        <ul class="dropdown-menu multi-level">
+            <li><a href="./desc_new.php?id=89">About Us</a></li>                    
+            	           <li><a href="./bod.php">Our Board</a></li>	 
+           	                    
+            <li><a href="./webcontent/1684306604_Code_of_Conduct_English.pdf" target="_blank">Code of Conduct</a></li>
+           
+            <li><a href="./desc_new.php?id=111">Publications</a></li>
+			 <li><a href="./birac_departments.php">BIRAC Departments</a></li>
+        </ul>
+    </li>
+
+
+
+    <li class="megasubmenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Programmes<b class="caret"></b></a>
+        <ul class="dropdown-menu multi-level">
+            <li>
+                <div class="row">
+                    <div class="col-md-4">
+                        <ul>
+             <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Incubation</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./bionest.php">BioNEST</a></li>                                            
+                </ul>
+            </li>
+
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ideation to Early Stage</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./desc_new.php?id=275">BIG</a></li>    
+                    <li><a href="./desc_new.php?id=261">SITARE</a></li>                                
+                    <li><a href="e_yuva.php">E-YUVA</a></li>
+                </ul>
+            </li>
+            <!--li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Ideation to Early Stage</a>
+                <ul class="dropdown-menu">
+                                               
+                </ul>
+            </li-->
+            <li class="dropdown-submenu">
+                                <a href="./birac_i4.php" target="_blank">Ideation to Late Stage &nbsp;
+                                <img src="./images/1582006092_i4.jpg" alt="i4" width="40">
+                                </a>
+                <ul class="dropdown-menu">
+                    <!--li><a href="./bipp.php">BIPP</a></li-->  
+                      <li class="dropdown-submenu">
+		                <!--a href="./birac_i4.php" target='_blank' class="dropdown-toggle" >i4</a-->
+		                <ul class="dropdown-menu">
+		                	<li><a href="./desc_new.php?id=216">BIPP</a></li> 
+		                    <li><a href="./desc_new.php?id=217">SBIRI</a></li>
+		                    <!--li><a href="./bipp.php?scheme=2">SBIRI(New)</a></li-->  
+		                    
+		                    <!--li><a href="./bipp.php">BIPP</a></li-->  
+		                                            
+		                </ul>
+		            </li>                       
+                </ul>
+            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul>
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Translation Research</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./desc_new.php?id=286">PACE</a></li>
+                    <!--li><a href="./bipp.php?scheme=3">PACE(New)</a></li-->                                                          
+                </ul>
+            </li>
+
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Social Innovation</a>
+                <ul class="dropdown-menu">
+                    <li><a href="siip.php">SPARSH</a></li>
+                    <!--li><a href="./desc_new.php?id=110">SPARSH</a></li-->                                                       
+                </ul>
+            </li>
+
+           
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Equity Funding</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./seedFundNew.php">SEED Fund</a></li>
+					<li><a href="./leapFundNew.php">LEAP Fund</a></li>
+					<li><a href="./Bioangels.php">BioAngels Program</a></li>
+                    <li><a href="./aceFundNew.php">Fund of Funds - AcE</a></li>
+                </ul>
+            </li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul>
+           
+            <li class="dropdown-submenu">
+                <!--a href="#" class="dropdown-toggle" data-toggle="dropdown">Strategic Research Funding</a-->
+				 <a href="#" class="dropdown-toggle" data-toggle="dropdown">Thematic Support</a>
+                <ul class="dropdown-menu">
+					<li><a href="./desc_new.php?id=1037">Quest for Assistive Technologies</a></li> 
+					<li><a href="./desc_new.php?id=1038">SoCH</a></li>
+					<!--li><a href="#">जनCARE</a></li-->
+					<li><a href="./desc_new.php?id=1040">जनCARE</a></li>
+                    <li><a href="./desc_new.php?id=96">Banana Fortification</a></li> 
+                </ul>
+            </li>
+            
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Product Commercialization Program Fund</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./desc_new.php?id=629">PCP Fund</a></li> 
+                </ul>
+            </li>
+            
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Focused Call</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./desc_new.php?id=1035">Establishing preclinical models <br>for Drug discovery</a></li>
+                    <li><a href="./desc_new.php?id=853">DBT BIRAC AMR Mission</a></li>  
+                </ul>
+            </li>
+        </ul>
+                    </div>
+            
+
+
+
+
+                </div>
+    </li>
+        </ul>
+    </li>
+    <li class="megasubmenu">
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Partnerships<b class="caret"></b></a>
+        <ul class="dropdown-menu multi-level">
+            <li>
+                <div class="row">
+                    <div class="col-md-4">
+                        <ul>
+						<li><a href="./about_partnership.php" target="_blank"><font size="3" color="#185592">ABOUT BIRAC PARTNERSHIPS</font></a></li> 
+						<li><a href="./desc_new.php?id=278">CEFIPRA-BPI France</a></li>                    
+						 <li><a href="./desc_new.php?id=635">IndCEPI <img src="./images/new.gif" alt="new"></a></li> 
+						 <li><a href="./desc_new.php?id=639">ATGC<img src="./images/new.gif" alt="new"></a></li>
+						 <li><a href="./desc_new.php?id=862">Indo-Australian Biotechnology Fund<img src="./images/new.gif" alt="new"></a></li> 
+						<li><a href="./desc_new.php?id=109">DBT-BMGF-BIRAC</a></li>
+						<li><a href="./desc_new.php?id=280">Early Translation Accelator (ETA)</a></li>
+						<li><a href="./grandchallengesindia">Grand Challenges India (GCI)</a></li>
+						<li><a href="./desc_new.php?id=277">Industry Innovation Programme on Medical Electronics (IIPME)</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul>
+            <li><a href="./desc_new.php?id=272">LEHS (WISH)</a></li>
+             <li><a href="nationalbiopharmamission.php">National Biopharma Mission</a></li>
+            <li><a href="./desc_new.php?id=273">NESTA</a></li>
+            <li><a href="./desc_new.php?id=279">RAPID USAID-TB Diagnostics Programme</a></li>
+            <li><a href="./desc_new.php?id=268">TEKES</a></li>
+            <li><a href="./desc_new.php?id=269">TIE</a></li>
+            <li><a href="./desc_new.php?id=270">TISS</a></li>
+            <li><a href="./desc_new.php?id=271">UKTI (UK Trade &amp; Investment)</a></li>
+                        </ul>
+                    </div>
+                    <div class="col-md-4">
+                        <ul>
+            <li><a href="./desc_new.php?id=101">Wellcome Trust</a></li>
+	<li><a href="./desc_new.php?id=730">UNHIE</a></li>
+			<li><a href="./desc_new.php?id=729">TATA Trust-Social Alpha</a></li>
+			<li><a href="./desc_new.php?id=933">CSR:Join Hands with BIRAC</a></li>
+            <li class="dropdown-submenu">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mentorship</a>
+                <ul class="dropdown-menu">
+                    <li><a href="./desc_new.php?id=276">Ignite</a></li>                    
+            		<li><a href="./desc_new.php?id=100">Workshops</a></li>
+                </ul>
+		
+            </li>
+		                        </ul>
+                    </div>
+                </div>
+            </li>
+        </ul>
+    </li>
+    <li>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Regional Centres<b class="caret"></b></a>
+        <ul class="dropdown-menu"> 
+            <li><a href="./desc_new.php?id=265">BRIC</a></li>                                
+            <li><a href="./desc_new.php?id=274">BREC</a></li>
+            <li><a href="./desc_new.php?id=758">BRBC</a></li>
+			<li><a href="./desc_new.php?id=759">BRTC</a></li>
+        </ul>
+    </li>
+    <!--li>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">Mentorship<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><a href="./desc_new.php?id=276">Ignite</a></li>                    
+                    <li><a href="./desc_new.php?id=100">Workshops</a></li>
+        </ul>
+    </li-->
+    <li>
+        <a href="#" class="dropdown-toggle" data-toggle="dropdown">IP &amp; TT<b class="caret"></b></a>
+        <ul class="dropdown-menu">
+            <li><a href="./desc_new.php?id=93">IP &amp; Technology Management Cell</a></li>
+        </ul>
+    </li>
+    <li>
+    	           <a href="./cfp.php">Call for Proposal</a>	 
+           	
+    </li>
+    <li>
+        <a href="./desc_new.php?id=90">Contact Us</a>
+        
+    </li>
+                </ul>
+        </div>
+        <div class="col-md-2">
+            <ul class="nav navbar-nav pull-right">
+                <li>
+                    <img src="./images/amritmahotsav_english.png" alt="amrit" style="padding-top: 17px; width: 80px; margin-left:5px;">
+                </li>
+
+                <!--li>
+<img src="images/birac_ten_year_new.png" alt="ten" style="width: 55px; margin-left:5px; padding:2px;">
+  </li-->
+                <li>
+                    <img src="./images/g20.png" alt="amrit" style="padding-top: 17px; width: 80px; margin-left:5px;">
+                </li>
+            </ul>
+        </div>
+
+	    </div>
+	</div>
+</div>
+        </div>
+    </div>
+  
+        <!-- End Header -->
+        <!-- End Header & Navigation Section -->
+        <section class="breadcrumb-section parallax" style="background:#0a3157;">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-8 page-title text-left text-center-sm">
+                    <div class="page-title">
+                        <h1>Bioincubators Nurturing Entrepreneurship for Scaling Technologies</h1>
+                    </div>
+                </div>
+                <div class="col-md-4 mt10 no-mt-sm breadcrumb text-right text-center-sm">
+                    <ul>
+                        <li><a href="index.php">Home</a></li>
+                        <li>Bioincubators Nurturing Entrepreneurship for Scaling Technologies</li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+	
+    <section class="pad80 bg-gray-light">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-2 col-sm-2 bounceInRight animated">
+                    <div class="form-group">
+                    <div style="box-shadow: 2px 2px 5px #185592; padding: 5px;">
+                        <img src="images/Bionest_logo.jpg" alt="bionest" height="auto" width="auto" class="img-responsive">
+                    </div>
+                    </div>
+                </div>
+                <div class="col-md-10 col-sm-10">
+                    <div class="form-group bounceInRight animated">
+                    <div class="alert alert-info">
+                        <a href="./webcontent/bionest_guidelines_2025.pdf" target="_blank">
+                        <b style="color:#185592 !important;"><i class="fa fa-hand-o-right"></i><u> Guidelines for Bio-NEST Bioincubators Nurturing Entrepreneurship for Scaling  Technologies </u></b>
+                        </a>
+                    </div>
+                    
+                    <div class="alert alert-success">
+                        <a href="./desc_bionest_incubator_equipment.php" target="_blank">
+                        <b style="color:#185592 !important;"><i class="fa fa-hand-o-right"></i> <u>BioNEST Instrumentation &amp; User Charges Details </u></b>
+                        </a>
+                    </div>
+					<div class="alert alert-success">
+                        <a href="./webcontent/Bionest_Compendium.pdf" target="_blank">
+                        <b style="color:#185592 !important;"><i class="fa fa-hand-o-right"></i> <u>BioNEST Compendium </u></b>
+                        </a>
+                    </div>
+                    </div>
+                </div>
+            </div>
+			
+	<section>
+		<p class="alert alert-danger text-center" style="font-size:16px;"><a href="./webcontent/1767608337_Result_BioNEST_ACM.pdf" target="_blank"><font color="#dc3545">Click here to View the Result of BioNEST APEX Committee Meeting Held on 29th November 2025 </font><img src="./images/new.gif"></a></p>
+	</section>
+            
+            <div class="row">
+                <div class="col-md-12 bounceInRight animated">
+                    <div class="form-group">
+                        <p align="justify">Bio-NEST was launched by BIRAC with a vision that focused on fostering the biotech innovation ecosystem in the country. Unlike start ups in the IT sector, enterprising ideas in the biotech sector need incubation support of a different kind where they need a landing space to test their ideas, run their operations, have access to high end instrumentations and locate in a place where they connect with other start ups and mentors. Bio-NEST program provides support to establish bio-incubators either as a standalone entity or as a part of the academia. Through Bio-NEST, BIRAC has supported <b>73</b> bio-incubators creating a cumulative area of <b>1045470 sq. ft.</b> for budding entrepreneurs.</p>
+                    </div>
+                </div>
+            </div>
+				    <p class="col col-xs-8 alert alert-info"><a href="./webcontent/1708075346_bionest_prop_submission_stepwise_guide.pdf" target="_blank"><strong>Click here to view step wise guide to submit BioNEST application</strong></a><a href="./birac_registration_page.php" target="_blank"><font color="red"> &nbsp;&nbsp;<b>(Click here to Register)</b></font></a></p>
+
+            <br>
+            <div class="row">
+                    <div class="col-md-6 bounceInRight animated">
+                        <div class="form-group"> 
+                          <h3 style="color:#000 !important; padding-bottom: 10px;" class="text-center">Bio-NEST scheme</h3><hr class="style18">
+                          <h5 style="color:#000 !important; line-height: 50px;"><i class="fa fa-hand-o-right" style="color: #dc0000;"></i> Provides incubation space to Start-ups and Entrepreneurs.</h5>
+                          <h5 style="color:#000 !important; line-height: 50px;"><i class="fa fa-hand-o-right" style="color: #dc0000;"></i> Connects industry and academia and enable interactions for efficient exchange of knowledge as well as facilitate technical and business mentorship.</h5>
+                          <h5 style="color:#000 !important; line-height: 50px;"><i class="fa fa-hand-o-right" style="color: #dc0000;"></i> Provides enabling services and required mentorship for IP and Technology management, Legal and Contract, Resource mobilization and Networking platform.</h5>
+                         <h5 style="color:#000 !important; line-height: 50px;"><i class="fa fa-hand-o-right" style="color: #dc0000;"></i> Establishes an efficient governance model.</h5>
+                    </div>
+                </div>
+				
+                <div class="col-md-6 bounceInRight animated">
+                        <div class="form-group"> 
+                        <img src="./img/BioNest.jpg" class="img-responsive img-rounded">
+                    </div>
+                </div>
+            </div>  
+            
+            <div class="row">
+                <div class="col-md-7 bounceInRight animated">
+                    <div class="form-group">
+                        
+
+
+
+
+	<style>
+
+		.India
+		{
+	
+		position: absolute;
+	
+		top: 0;
+	
+		left: 0;
+
+		}
+
+
+		.AhmedabadUniversity
+		{
+
+		position: absolute;
+	
+		top: 331px;
+	
+		left: 73px;
+
+		}
+
+
+		.NAARM
+		{
+
+		position: absolute;
+	
+		top: 432px;
+	
+		left: 192px;
+
+		}
+
+
+		.PERD
+		{
+
+		position: absolute;
+	
+		top: 328px;
+	
+		left: 85px;
+
+		}
+
+
+		.BBC
+		{
+
+		position: absolute;
+	
+		top: 522px;
+	
+		left: 173px;
+
+		}
+
+
+		.BITS
+		{
+
+		position: absolute;
+	
+		top: 482px;
+	
+		left: 120px;
+
+		
+		}
+		
+		.IITD
+		{
+
+		position: absolute;
+	
+		top: 487px;
+	
+		left: 135px;
+
+		
+		}
+
+
+		.CCAMP
+		{
+
+		position: absolute;
+	
+		top: 527px;
+	
+		left: 192px;
+
+		}
+
+		.BREC
+		{
+
+		position: absolute;
+	
+		top: 520px;
+	
+		left: 196px;
+
+		}
+
+		.Venture
+		{
+
+		position: absolute;
+	
+		top: 415px;
+	
+		left: 112.5px;
+
+		}
+
+		.BRBC
+		{
+
+		position: absolute;
+	
+		top: 416px;
+	
+		left: 117.5px;
+
+		}
+
+		.DPSRU
+		{
+
+		position: absolute;
+	
+		top: 190px;
+	
+		left: 172px;
+
+		}
+
+
+		.FITT
+		{
+
+		position: absolute;
+	
+		top: 188px;
+	
+		left: 178px;
+
+		}
+
+
+		.GSBTM
+		{
+
+		position: absolute;
+	
+		top: 333px;
+	
+		left: 100px;
+
+		}
+
+
+		.HTIC
+		{
+
+		position: absolute;
+	
+		top: 531px;
+
+		left: 224px;
+		
+
+		}
+
+
+		.HyderabadUniversity
+		{
+
+		position: absolute;
+	
+		top: 437px;
+	
+		left: 211px;
+
+		}
+
+
+		.ICRISAT
+		{
+
+		position: absolute;
+	
+		top: 423px;
+	
+		left: 203px;
+
+		}
+
+
+		.IIHR
+		{
+
+		position: absolute;
+	
+		top: 530px;
+	
+		left: 182px;
+
+		}
+
+
+		.IIIT
+		{
+
+		position: absolute;
+	
+		top: 453px;
+	
+		left: 190px;
+
+		}
+
+		.CFHEH
+		{
+
+		position: absolute;
+	
+		top: 462px;
+	
+		left: 190px;
+
+		}
+		
+		.DERBI
+		{
+
+		position: absolute;
+	
+		top: 460px;
+	
+		left: 180px;
+
+		}
+
+
+		.ResearchPark
+		{
+
+		position: absolute;
+	
+		top: 538px;
+	
+		left: 231px;
+
+		}
+
+
+		.IKP
+		{
+
+		position: absolute;
+	
+		top: 425px;
+	
+		left: 219.5px;
+
+		}
+
+		.BRIC
+		{
+
+		position: absolute;
+	
+		top: 422px;
+	
+		left: 224.5px;
+
+		}
+		.CFTRIM
+		{
+
+		position: absolute;
+	
+		top: 542px;
+	
+		left: 162px;
+
+		}
+
+		.IKPEden
+		{
+
+		position: absolute;
+	
+		top: 544px;
+	
+		left: 172px;
+
+		}
+
+
+		.KIIT
+		{
+
+		position: absolute;
+	
+		top: 350px;
+	
+		left: 355px;
+
+		z-index: +1;
+
+		}
+
+		.BRTC
+		{
+
+		position: absolute;
+	
+		top: 349px;
+	
+		left: 353px;
+		
+		}
+
+			.LVPEI
+		{
+
+		position: absolute;
+	
+		top: 458px;
+	
+		left: 208px;
+
+		}
+
+		.CSIRJAM
+		{
+
+		position: absolute;
+	
+		top: 102px;
+	
+		left: 135px;
+
+		}
+		
+		.IPK
+		{
+
+		position: absolute;
+	
+		top: 107px;
+	
+		left: 142px;
+
+		}
+		
+		.RIDES
+		{
+
+		position: absolute;
+	
+		top: 203px;
+	
+		left: 189px;
+		
+		
+		}
+		
+		.IITMAN
+		{
+
+		position: absolute;
+	
+		top: 125px;
+	
+		left: 173px;
+		}
+
+		.PunjabUniversity
+		{
+
+		position: absolute;
+	
+		top: 142px;
+	
+		left: 165px;
+		
+		z-index: +1;
+
+		}
+		
+		.NABI
+		{
+
+		position: absolute;
+	
+		top: 146px;
+	
+		left: 162px;
+
+		}
+
+
+		.PSG
+		{
+
+		position: absolute;
+	
+		top: 555px;
+	
+		left: 190px;
+
+		}
+
+
+		.RCB
+		{
+
+		position: absolute;
+	
+		top: 212px;
+	
+		left: 180px;
+
+		}
+
+
+		.RIIDL
+		{
+
+		position: absolute;
+	
+		top: 390px;
+	
+		left: 93px;
+
+		}
+		.ITER
+		{
+
+		position: absolute;
+	
+		top: 365px;
+	
+		left: 201px;
+
+		}
+
+
+		.SBTIC
+		{
+
+		position: absolute;
+	
+		top: 444px;
+	
+		left: 200px;
+
+		}
+
+
+		.SIIC
+		{
+
+		position: absolute;
+	
+		top: 250px;
+	
+		left: 230px;
+
+		}
+
+
+		.SINE
+		{
+
+		position: absolute;
+	
+		top: 395px;
+	
+		left: 102px;
+
+		}
+
+
+		.SRISTI
+		{
+
+		position: absolute;
+	
+		top: 315px;
+	
+		left: 75px;
+
+		}
+
+
+		.VIT
+		{
+
+		position: absolute;
+	
+		top: 538px;
+	
+		left: 210px;
+
+		}
+
+
+		.WBP
+		{
+
+		position: absolute;
+	
+		top: 523px;
+	
+		left: 237px;
+
+		}
+
+
+		.ZTMBPD
+		{
+
+		position: absolute;
+	
+		top: 190px;
+	
+		left: 182px;
+
+		}
+
+
+		.CEIIC
+		{
+
+		position: absolute;
+	
+		top: 194px;
+	
+		left: 186px;
+
+		}
+
+
+		.TIDES
+		{
+
+		position: absolute;
+	
+		top: 155px;
+	
+		left: 193px;
+
+		}
+
+
+		.AMTZ
+		{
+
+		position: absolute;
+	
+		top: 427px;
+	
+		left: 295px;
+
+		}
+
+
+		.SPMVV
+		{
+
+		position: absolute;
+	
+		top: 510px;
+	
+		left: 219px;
+
+		}
+
+
+		.Crescent
+		{
+
+		position: absolute;
+	
+		top: 546px;
+	
+		left: 220px;
+
+		}
+
+
+		.NIPER
+		{
+
+		position: absolute;
+	
+		top: 247px;
+	
+		left: 467px;
+
+		}
+
+
+		.IASST
+		{
+
+		position: absolute;
+	
+		top: 249px;
+	
+		left: 455px;
+
+		}
+
+
+		.MSMF
+		{
+
+		position: absolute;
+	
+		top: 529px;
+	
+		left: 163px;
+
+		}
+
+
+		.MZU
+		{
+
+		position: absolute;
+	
+		top: 310px;
+	
+		left: 490px;
+
+		}
+
+
+		.SASTRA
+		{
+
+		position: absolute;
+	
+		top: 573px;
+	
+		left: 220px;
+
+		}
+
+		
+		.BHU
+		{
+
+		position: absolute;
+	
+		top: 265px;
+	
+		left: 280px;
+
+		}
+		.IITP
+		{
+
+		position: absolute;
+	
+		top: 265px;
+	
+		left: 335px;
+
+		}
+
+		
+		.CSIR{
+			position: absolute;
+	
+		top: 240px;
+	
+		left: 240px;
+		}
+
+		.IBSD{
+			position: absolute;
+	
+		top: 267px;
+	
+		left: 445px;
+		}
+
+		.TANUVAS{
+
+		position: absolute;
+	
+		top: 553px;
+	
+		left: 225px;
+
+		}
+
+		.sriramachandra{
+
+		position: absolute;
+
+		top: 553px;
+
+		left: 215px;
+        }
+		
+		.BRCC{
+
+		position: absolute;
+
+		top: 556px;
+
+		left: 219px;
+        }
+
+		.birac
+		{
+
+		position: absolute;
+	
+		top: 200px;
+	
+		left: 175px;
+		z-index: +1;
+
+		}
+
+
+		.direction
+		{
+
+		position: relative;
+	
+		top: 157px;
+	
+		left: 171px;
+		
+
+		}
+
+
+		.DU
+		{
+
+		position: absolute;
+
+		top: 200px;
+
+		left: 185px;
+		z-index: +1;
+		}
+		
+		
+
+		.ILF{
+
+		position: absolute;
+
+		top: 200px;
+
+		left: 170px;
+		
+
+		}
+
+
+
+
+		.niperahm{
+
+		position: absolute;
+
+		top: 338px;
+
+		left: 90px;
+
+		}
+
+		.MRIFK
+		{
+
+		position: absolute;
+	
+		top: 560px;
+	
+		left: 158px;
+
+		}
+
+		.ajce{
+
+		position: absolute;
+
+		top: 588px;
+
+		left: 174px;
+
+		}
+
+		
+		.IITJO{
+
+position: absolute;
+
+top: 220px;
+
+left: 120px;
+
+}
+
+.uasb{
+
+position: absolute;
+
+top: 542px;
+
+left: 183px;
+
+}
+.nehut{
+
+position: absolute;
+
+top: 267px;
+
+left: 460px;
+
+}
+.•BRDCM{
+
+position: absolute;
+
+top: 262px;
+
+left: 475px;
+
+}
+.niperhyderb{
+
+position: absolute;
+
+top: 458px;
+
+left: 203px;
+
+}
+.aiimsd{
+
+position: absolute;
+
+top: 210px;
+
+left: 175px;
+z-index: +1;
+}
+.vcrap{
+
+position: absolute;
+
+top: 427px;
+
+left: 285px;
+
+}
+.csirjor{
+
+position: absolute;
+
+top: 247px;
+
+left: 497px;
+
+}
+.iitg{
+
+position: absolute;
+
+top: 247px;
+
+left: 477px;
+
+}
+.manipal{
+
+position: absolute;
+
+top: 507px;
+
+left: 143px;
+
+}
+.ilsb{
+
+position: absolute;
+
+top: 360px;
+
+left: 355px;
+
+}
+
+.mytooltip {
+display: inline;
+position: relative;
+
+}
+.mytooltip .tooltip-item {
+cursor: pointer;
+display: inline-block;
+font-weight: 500;
+padding: 0 10px
+}
+.mytooltip .tooltip-content {
+position: absolute;
+
+margin: 0 0 20px -180px;
+bottom: 100%;
+text-align: left;
+font-size: 14px;
+line-height: 30px;
+-webkit-box-shadow: -5px -5px 15px rgba(48, 54, 61, 0.2);
+box-shadow: -5px -5px 15px rgba(48, 54, 61, 0.2);
+opacity: 0;
+cursor: default;
+pointer-events: none
+}
+
+.mytooltip .tooltip-content img {
+position: relative;
+height: 50px;
+display: block;
+float: right;
+margin-right: -16em;
+margin-top:10px;
+}
+.mytooltip .tooltip-item::after {
+content: '';
+position: absolute;
+width: 20px;
+height: 10px;
+bottom: 100%;
+left: 50%;
+pointer-events: none;
+-webkit-transform: translateX(-50%);
+transform: translateX(-50%)
+}
+.mytooltip:hover .tooltip-content {
+pointer-events: auto;
+opacity: 1;
+-webkit-transform: translate3d(0, 0, 0) rotate3d(0, 0, 0, 0deg);
+transform: translate3d(0, 0, 0) rotate3d(0, 0, 0, 0deg)
+}
+.mytooltip:hover .tooltip-content2 {
+opacity: 1;
+font-size: 18px
+}
+
+	</style>
+
+
+
+
+
+
+	<div style="position: relative; left:0; top: 0;">
+		<img src="India-birac-In.png" class="India">
+
+
+		<a href="https://ahduni.edu.in/vs/" target="_#">
+		<img src="Icon_Incubators.svg" class="AhmedabadUniversity" width="10" height="11" title="Ahmedabad University" border="0">
+	
+		</a>
+
+		<a href="http://aidea.naarm.org.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="NAARM" width="10" height="11" title="a-IDEA, NAARM-TBI, Rajendra Nagar, Hyderabad" border="0">
+	
+		</a>
+
+		<a href="http://perdcentre.com/" target="_#">
+		<img src="Icon_Incubators.svg" class="PERD" width="10" height="11" title="B. V. Patel Pharmaceutical Education and Research Development Centre (PERD), Ahmedabad" border="0">
+	
+		</a>
+
+		<a href="http://www.ibab.ac.in/index.php/bangalore-bioinnovation-centre-bbc/" target="_#">
+		<img src="Icon_Incubators.svg" class="BBC" width="10" height="11" title="Bangalore Bioinnovation Centre, Bengaluru" border="0">
+	
+		</a>
+
+		<a href="https://www.bits-pilani.ac.in/Goa/BITSBIRAC/Home" target="_#">
+		<img src="Icon_Incubators.svg" class="BITS" width="10" height="11" title="Birla Institute of Technology &amp; Science, Pilani, Goa Campus" border="0">
+	
+		</a>
+		
+		<a href="https://www.iitdh.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="IITD" width="10" height="11" title="Dharwad Research and Technology Incubator (DhaRTI) Foundation, IIT Dharwad" border="0">
+	
+		</a>
+
+		<a href="http://www.ccamp.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="CCAMP" width="10" height="11" title="C-CAMP, Bengaluru" border="0">
+	
+		</a>
+
+	    <div class="BREC">
+				<span class="mytooltip tooltip-effect-1">
+				<span class="tooltip-item"><a href="https://www.ccamp.res.in/brec" target="_#"><img src="Icon_birac_RC.png" width="15" height="21"></a>
+				<span class="tooltip-content clearfix">
+				<img src="./images/BREC.png">
+				</span>
+				</span>
+			</span>
+		</div>
+
+		<a href="http://www.venturecenter.co.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="Venture" width="10" height="11" title="Venture Center, NCL, Pune" border="0"> 
+		
+		</a>
+
+		<div class="BRBC">
+			<span class="mytooltip tooltip-effect-1">
+			<span class="tooltip-item"><a href="http://www.brbc.venturecenter.co.in/" target="_#"><img src="Icon_birac_RC.png" width="15" height="21"></a>
+			<span class="tooltip-content clearfix">
+			<img src="./images/BRBC.png">
+			</span>
+			</span>
+		</span>
+			</div>
+			
+		<a href="https://diif.in/" target="_#">
+		<img style="z-index:1" src="Icon_Incubators.svg" class="DPSRU" width="10" height="15" title="Delhi Pharmaceutical Sciences &amp; Research University (DPSRU), New Delhi" border="0">
+
+		</a>
+
+		<a href="https://fitt-iitd.in/web/" target="_#">
+		<img style="z-index:1" src="Icon_Incubators.svg" class="FITT" width="10" height="15" title="Foundation for Innovation And Technology Transfer, IIT Delhi" border="0">
+	
+		</a>
+		
+		<a href="https://btm.gujarat.gov.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="GSBTM" width="10" height="11" title="Gujarat State Biotechnology Mission, Savli" border="0">
+	
+		</a>
+
+		<a href="https://htic.iitm.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="HTIC" width="10" height="11" title="Healthcare Technology Innovation Centre - IIT Madras" border="0">
+	
+		</a>
+
+		<a href="http://bionest.uohyd.ac.in/#/home" target="_#">
+		<img src="Icon_Incubators.svg" class="HyderabadUniversity" width="10" height="11" title="University of Hyderabad" border="0">
+	
+		</a>
+
+		<a href="http://www.icrisat.org/" target="_#">
+		<img src="Icon_Incubators.svg" class="ICRISAT" width="10" height="11" title="ICRISAT, Hyderabad" border="0">
+	
+		</a>
+
+		<a href="http://www.iihr.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="IIHR" width="10" height="11" title="Indian Institute of Horticultural Research (IIHR), Bengaluru" border="0">
+	
+		</a>
+
+		<a href="https://www.iiit.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="IIIT" width="10" height="11" title="IIIT Hyderabad" border="0">
+	
+		</a>
+
+		<a href="https://cfhe.org.in/home-temp/home-partners/bionest/" target="_#">
+			<img src="Icon_Incubators.svg" class="CFHEH" width="10" height="11" title="CFHE, IIT Hyderabad" border="0">
+		
+			</a>
+			
+	    <a href="https://derbifoundation.com/bionest/" target="_#">
+			<img src="Icon_Incubators.svg" class="DERBI" width="10" height="11" title="Dayananda Sagar Entrepreneurship Research and Business Incubation Foundation (DERBI)" border="0">
+		
+			</a>
+
+		<a href="http://respark.iitm.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="ResearchPark" width="10" height="11" title="IIT Madras Research Park, IIT Madras" border="0">
+	
+		</a>
+
+		<div class="BRIC">
+			<span class="mytooltip tooltip-effect-1">
+			<span class="tooltip-item"><a href="https://www.ikpknowledgepark.com/bric.html" target="_#"><img src="Icon_birac_RC.png" width="15" height="21"></a>
+			<span class="tooltip-content clearfix">
+			<img src="./images/BRIC.png">
+			</span>
+			</span>
+		    </span>
+		</div>
+
+		<a href="http://ikpknowledgepark.com/" target="_#">
+			<img style="z-index:1" src="Icon_Incubators.svg" class="IKP" width="10" height="11" title="IKP Knowledge Park, Hyderabad" border="0">
+		
+		</a>
+
+		<a href="https://ikpeden.com/bionest/" target="_#">
+		<img src="Icon_Incubators.svg" class="IKPEden" width="10" height="11" title="IKP Eden, Bengaluru" border="0">
+	
+		</a>
+
+		<a href="https://cftri.res.in/" target="_#">
+			<img src="Icon_Incubators.svg" class="CFTRIM" width="10" height="11" title="CFTRI, Mysore" border="0">
+		
+			</a>
+
+		<a href="http://www.kiitincubator.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="KIIT" width="10" height="11" title="KIIT-TBI, Bhubaneswar" border="0">
+	
+		</a>
+       
+		
+			<div class="BRTC">
+				<span class="mytooltip tooltip-effect-1">
+				<span class="tooltip-item"><a href="https://kiitincubator.in/" target="_#"><img src="Icon_birac_RC.png" width="15" height="21"></a>
+				<span class="tooltip-content clearfix">
+				<img src="./images/BRTC.png">
+				</span>
+			    </span>
+				</span>
+			</div>
+			
+		
+
+		<a href="https://www.lvpei.org/" target="_#">
+		<img style="z-index:1" src="Icon_Incubators.svg" class="LVPEI" width="10" height="11" title="L.V. Prasad Eye Institute, Hyderabad" border="0">
+	
+		</a>
+		
+		<a href="https://www.iitmandicatalyst.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="IITMAN" width="10" height="11" title="IIT Mandi Catalyst" border="0">
+	
+		</a>
+
+		<a href="https://bionest.puchd.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="PunjabUniversity" width="10" height="11" title="Punjab University" border="0">
+	
+		</a>
+				
+		<a href="https://nabi.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="NABI" width="10" height="11" title="National Agri Food Biotechnology Institute (NABI)" border="0">
+	
+		</a>
+
+		<a href="http://www.iiimtbi.com/" target="_#">
+		<img src="Icon_Incubators.svg" class="CSIRJAM" width="10" height="11" title="CSIR IIIM  Jammu" border="0">
+		
+		</a>
+		<a href="https://iiim.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="IPK" width="10" height="11" title="Industrial Park Kathua" border="0">
+		
+		</a>
+
+		<a href="http://www.psgstep.org/" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="PSG" width="10" height="11" title="PSG-STEP, Coimbatore" border="0">
+	
+		</a>
+
+		<a href="http://riidl.org/" target="_#">
+		<img src="Icon_Incubators.svg" class="RIIDL" width="10" height="11" title="RiiDL (Research Innovation Incubation Design laboratory Foundation), Somaiya Vidyavihar, Mumbai" border="0">
+	
+		</a>
+		<a href="https://www.dmiher.edu.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="ITER" width="10" height="11" title="ITE Research Foundation, Wardha Maharashtra" border="0">
+			
+
+		</a><a href="http://sbtic.org/" target="_#">
+		<img src="Icon_Incubators.svg" class="SBTIC" width="10" height="11" title="SBTIC, Hyderabad" border="0">
+	
+		</a>
+
+		<a href="http://www.iitk.ac.in/siic/d/tags/sidbi" target="_#">
+		<img src="Icon_Incubators.svg" class="SIIC" width="10" height="11" title="SIDBI Innovation &amp; Incubation Center, IIT Kanpur" border="0">
+	
+		</a>
+
+		<a href="https://sineiitb.org/programmes/birac-bionest" target="_#">
+		<img src="Icon_Incubators.svg" class="SINE" width="10" height="11" title="Society for Innovation and Entrepreneurship, IIT Bombay" border="0">
+	
+		</a>
+
+		<a href="http://www.sristi.org/cms/" target="_#">
+		<img src="Icon_Incubators.svg" class="SRISTI" width="10" height="11" title="SRISTI Innovations, Ahmedabad" border="0">
+	
+		</a>
+
+		<a href="http://www.vittbi.com/#/" target="_#">
+		<img src="Icon_Incubators.svg" class="VIT" width="10" height="11" title="VIT-TBI, Vellore" border="0">
+	
+		</a>
+
+		<a href="http://www.biotechpark.co.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="WBP" width="10" height="11" title="Golden jubilee Biotech Park for Women Society, Chennai" border="0">
+	
+		</a>
+
+
+		<a href="http://bbb.rcb.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="RCB" width="10" height="15" title="Regional Centre for Biotechnology, Faridabad" border="0">
+	
+		</a>
+
+		<a href="https://www.birac.nic.in/" target="_#">
+		<img src="Icon_birac.svg" class="birac" width="10" height="18" border="0" title="Biotechnology Industry Research Assistance Council (BIRAC), New Delhi">
+		</a>
+
+		<img src="Arrow.png" class="direction" width="150" height="80" border="0">
+		
+
+		<a href="http://ztmbpd.iari.res.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="ZTMBPD" width="10" height="15" title="Zonal Technology Management &amp; Business Planning and Development Unit (ZTM-BPD), IARI, Delhi" border="0">
+	
+		</a>
+
+		<a href="https://www.socialalpha.org/energy-challenge/" target="_#">
+		<img src="Icon_Incubators.svg" class="CEIIC" width="10" height="15" title="Clean Energy International Incubation Center, New Delhi" border="0">
+	
+		</a>
+
+		<a href="http://tides.iitr.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="TIDES" width="10" height="11" title="Technology Incubation and Entrepreneurship Development Society, IIT Roorkee" border="0">
+	
+		</a>
+
+		<a href="http://amtz.in//" target="_#">
+		<img src="Icon_Incubators.svg" class="AMTZ" width="10" height="11" title="Andhra Pradesh Medtech Zone Ltd, Visakhapatnam" border="0">
+	
+		</a>
+
+		<a href="http://www.spmvv.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="SPMVV" width="10" height="11" title="SPMVV - Women Biotech Incubator Facility, Tirupati" border="0">
+	
+		</a>
+
+		<a href="http://ciic.ventures/" target="_#">
+		<img src="Icon_Incubators.svg" class="Crescent" width="10" height="11" title="B.S.Abdur Rahman Crescent Institute of Science &amp; Technology, Chennai" border="0">
+	
+		</a>
+
+		<a href="https://www.niperguwahati.ac.in/bionest/" target="_#">
+		<img src="Icon_Incubators.svg" class="NIPER" width="10" height="11" title="National Institute of Pharmaceutical Education and Research (NIPER)-Guwahati" border="0">
+	
+		</a>
+
+		<a href="https://iasst.gov.in/bionest/" target="_#">
+		<img src="Icon_Incubators.svg" class="IASST" width="10" height="11" title="Institute of Advanced Study in Science and Technology (IASST), Guwahati" border="0">
+
+		</a>
+
+		<a href="http://ms-mf.org/" target="_#">
+		<img src="Icon_Incubators.svg" class="MSMF" width="10" height="11" title="Mazumdar Shaw Medical Foundation (MSMF), Bangalore" border="0">
+
+		</a>
+
+		<a href="https://www.mzu.edu.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="MZU" width="10" height="11" title="Mizoram University, Aizawl" border="0">
+
+		</a>
+
+		<a href="https://www.sastra.edu/" target="_#">
+		<img src="Icon_Incubators.svg" class="SASTRA" width="10" height="11" title="Shanmugha Arts, Science, Technology&amp; Research Academy (SASTRA), Thanjavur" border="0">
+
+		</a>
+
+		
+
+		<a href="https://www.bhu.ac.in/" target="_#">
+		<img src="Icon_Incubators.svg" class="BHU" width="10" height="11" title="BHU ,Varanasi, UttarPradesh" border="0">
+
+		</a>
+		
+		<a href="https://iciitp.com/" target="_#">
+		<img src="Icon_Incubators.svg" class="IITP" width="10" height="11" title="Incubation Centre IIT Patna" border="0">
+
+		</a>
+
+		<a href="http://iitrindia.org/En/Index.aspx" target="_#">
+			<img src="Icon_Incubators.svg" class="CSIR" width="10" height="11" title="CSIR IITR, Lucknow, UttarPradesh" border="0">
+	
+		</a>
+
+		<a href="https://ibsd.gov.in/" target="_#">
+			<img src="Icon_Incubators.svg" class="IBSD" width="10" height="11" title="IBSD, Shilong" border="0">
+	
+		</a>
+
+		<a href="http://www.tanuvas.ac.in/" target="_#">
+			<img src="Icon_Incubators.svg" class="TANUVAS" width="10" height="11" title="TANUVAS, Chennai" border="0">
+	
+		</a>
+
+		<a href="https://www.sriramachandra.edu.in/" target="_#">
+			<img src="Icon_Incubators.svg" class="sriramachandra" width="10" height="11" title="Sri Ram Institute of Higher Education, Chennai, Tamil nadu" border="0">
+	
+		</a>
+		<a href="https://srmbrc.com/" target="_#">
+			<img src="Icon_Incubators.svg" class="BRCC" width="10" height="11" title="Bootstrappers Research Council, Tamil nadu" border="0">
+	
+		</a>
+
+	
+
+	<a href="http://www.du.ac.in/" target="_#">
+	<img src="Icon_Incubators.svg" class="DU" width="10" height="15" title="Delhi University, Delhi" border="0">
+
+	</a>
+	<a href="https://www.juit.ac.in/RIDE" target="_#">
+	<img src="Icon_Incubators.svg" class="RIDES" width="10" height="15" title="BioNEST Research Innovation Development and Entrepreneurship Society (RIDES)" border="0">
+
+	</a>
+
+	
+
+	<a href="https://www.indigramlabs.org/" target="_#">
+	<img src="Icon_Incubators.svg" class="ILF" width="10" height="15" title="Indigram Labs Foundation, Delhi" border="0">
+
+	</a>
+
+	<a href="https://www.niperahm.ac.in/" target="_#">
+	<img src="Icon_Incubators.svg" class="niperahm" width="10" height="11" title="NIPER , Ahmedabad, Gujarat
+	" border="0">
+	</a>
+
+	<a href="https://www.drmoopensmc.ac.in/" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="MRIFK" width="10" height="11" title="Mindriot Research and Innovation Foundation , Kerala" border="0">
+	
+		</a>
+	<a href="https://ajce.in/home/index.html" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="ajce" width="10" height="11" title="Amal Jyothi, Kottayam, Kerala" border="0">
+	
+		</a>
+
+<!--------Added on 10-6-2021--->
+
+		<a href="https://iitj.ac.in/" target="_#">
+		
+			<img src="Icon_Incubators.svg" class="IITJO" width="10" height="11" title="IIT Jodhpur,Jodhpur" border="0">
+		
+			</a>
+			
+			
+			<a href="https://uasbangalore.edu.in/index.php/kannada-uas" target="_#">
+		
+				<img src="Icon_Incubators.svg" class="uasb" width="10" height="11" title="UAS Bangalore, Karnataka" border="0">
+			
+				</a>
+				
+
+	<a href="https://nehu.ac.in/" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="nehut" width="10" height="11" title="NEHU, Tura Campus, Meghalaya" border="0">
+	
+		</a>
+
+		<a href="https://megbrdc.nic.in/" target="_#">
+		
+			<img src="Icon_Incubators.svg" class="•BRDCM" width="10" height="11" title="BRDC, Meghalaya" border="0">
+		
+			</a>
+
+		<a href="http://www.niperhyd.ac.in/" target="_#">
+		
+			<img src="Icon_Incubators.svg" class="niperhyderb" width="10" height="11" title="NIPER Hyderabad ,Telangana" border="0">
+		
+			</a>
+
+			<a href="https://www.aiims.edu/en.html" target="_#">
+		
+				<img src="Icon_Incubators.svg" class="aiimsd" width="10" height="11" title="AIIMS Delhi, NCT" border="0">
+			
+				</a>
+
+				<a href="https://vcrpark.com/" target="_#">
+		
+					<img src="Icon_Incubators.svg" class="vcrap" width="10" height="11" title="VCR Park, Visakhapatnam, Andhra Pradesh" border="0">
+				
+					</a>
+
+	<a href="https://www.neist.res.in/" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="csirjor" width="10" height="11" title="CSIR NEISt, Jorhat, Assam" border="0">
+	
+		</a>
+
+
+	<a href="https://www.iitg.ac.in/" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="iitg" width="10" height="11" title="IIT, Guwahati, Assam" border="0">
+	
+		</a>
+
+
+	<a href="https://manipal.edu/mu.html" target="_#">
+		
+		<img src="Icon_Incubators.svg" class="manipal" width="10" height="11" title="Manipal University, Karnataka" border="0">
+	
+		</a>
+
+
+		<a href="https://www.ils.res.in/" target="_#">
+		
+			<img src="Icon_Incubators.svg" class="ilsb" width="10" height="11" title="ILS, Bhubaneswar, Odisha" border="0">
+		
+			</a>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+	</div>
+
+
+                        
+                    </div>
+                </div>
+                <div class="col-md-5" style="background-color: #ffffff; padding: 10px 10px 0 10px;line-height: 23.5px !important;">
+                    <div class="form-groups">
+                        <div class="row">
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-danger"><b>73  Incubators supported</b></div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-warning"><b>4273655139.6 amount committed for BioNEST</b></div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-info"><b>1045470 sq. ft. Incubation Area supported<!--4,50,000+ sq. ft. area for Bioincubation--></b></div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-success"><b>2515 Incubatees supported</b></div>
+                                </div>
+                            </div>
+                            
+                            
+                            
+                            <!--div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-warning"><b>1,60,000 sq. ft. equipped with High end instrumentation</b></div>
+                                </div>
+                            </div-->
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-danger"><b>1560 Resident Incubatees supported</b></div>
+                                </div>
+                            </div>
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-success"><b>955 Non Resident Incubatees supported</b></div>
+                                </div>
+                            </div>
+                            
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-warning"><b>800+ Total Products/Technologies Commercialized</b></div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-success"><b>3500 Total Employment generated</b></div>
+                                </div>
+                            </div>
+
+                             <div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-danger"><b>1300+ Total IPs Filed</b></div>
+                                </div>
+                            </div>
+
+                             <!--div class="col-md-12">
+                                <div class="form-group">
+                                <div class="alert alert-warning"><b>1000 Total Trainings/Workshops conducted</b></div>
+                                </div>
+                            </div-->
+
+                            <!--div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div><div>&nbsp;</div-->
+                        </div>
+                    </div>
+                </div>
+            </div>
+            
+            <div>
+                 <div class="row toggle-menu">
+                    <link rel="stylesheet" href="./bootstrap/css/cdn.datatables.net_buttons_1.2.2_css_buttons.dataTables.min.css">
+	 <script src="./bootstrap/js/cdn.datatables.net_responsive_2.1.0_js_dataTables.responsive.min.js"></script>  
+	 <script src="./bootstrap/js/cdn.datatables.net_buttons_1.2.2_js_dataTables.buttons.min.js"></script>
+	 <script src="./bootstrap/js/cdn.datatables.net_buttons_1.2.2_js_buttons.flash.min.js"></script>
+	 <script src="./bootstrap/js/cdn.datatables.net_buttons_1.2.2_js_buttons.html5.min.js"></script>
+	  <script src="./bootstrap/js/cdn.datatables.net_buttons_1.2.2_js_buttons.print.min.js"></script>
+<script>
+       $(document).ready(function() { 
+		$('#bionest').DataTable( { 
+		dom: 'Bfrtip',
+		buttons: [
+		    'excel', 'pdf'
+		],
+		responsive: {
+		    details: {
+		        display: $.fn.dataTable.Responsive.display.modal( {
+		            header: function ( row ) { 
+		                var data = row.data();
+		                return 'Details for '+data[0]+' '+data[1];
+		            }
+		        } ),
+		        renderer: function ( api, rowIdx, columns ) {
+		            var data = $.map( columns, function ( col, i ) {
+		                return '<tr>'+
+		                        '<td>'+col.title+':'+'</td> '+
+		                        '<td>'+col.data+'</td>'+
+		                    '</tr>';
+		            } ).join('');
+
+		            return $('<table/>').append( data );
+		        }
+		    }
+		}
+		} );
+		} );
+</script>
+                             <div class="resp_container">
+                                <div class="resp_margin fadeInDown animated">
+                              
+								<div id="bionest_wrapper" class="dataTables_wrapper form-inline dt-bootstrap no-footer"><div class="dt-buttons"></div><div id="bionest_filter" class="dataTables_filter"><label>Search:<input type="search" class="form-control input-sm" placeholder="" aria-controls="bionest"></label></div><table id="bionest" class="table table-bordered table-responsive table-striped table-hover dataTable no-footer dtr-inline collapsed" style="font-size: 14px; width: 751px;" aria-describedby="bionest_info">
+										<thead>
+											<tr><th class="sorting sorting_asc" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 88px;" aria-sort="ascending" aria-label="S.No: activate to sort column descending">S.No</th><th class="sorting" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 98px;" aria-label="Bio-incubators: activate to sort column ascending">Bio-incubators</th><th class="sorting" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 88px;" aria-label="No. of Incubatees NOT funded under BIRAC Scheme: activate to sort column ascending">No. of Incubatees NOT funded under BIRAC Scheme</th><th class="sorting" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 89px;" aria-label="No. of Incubatees funded under various BIRAC Scheme: activate to sort column ascending">No. of Incubatees funded under various BIRAC Scheme</th><th class="sorting" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 78px;" aria-label="Total Funded Incubatees: activate to sort column ascending">Total Funded Incubatees</th><th class="sorting" tabindex="0" aria-controls="bionest" rowspan="1" colspan="1" style="width: 77px; display: none;" aria-label="Incubation Space (Sq. Feet): activate to sort column ascending">Incubation Space (Sq. Feet)</th></tr>
+										</thead>
+										<tbody>
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+																						
+												
+											
+										<tr class="odd">
+												<td tabindex="0" class="sorting_1">1</td>
+												<td>a-IDEA, NAARM-TBI, Rajendra Nagar, Hyderabad</td>
+												<td>5												</td><td>2												  </td>
+												<td>7  </td>
+												<td style="display: none;">10500  </td>
+											</tr><tr class="even">
+												<td tabindex="0" class="sorting_1">2</td>
+												<td>Ahmedabad University</td>
+												<td>38												</td><td>4												  </td>
+												<td>42  </td>
+												<td style="display: none;">9000  </td>
+											</tr><tr class="odd">
+												<td tabindex="0" class="sorting_1">3</td>
+												<td>All India Institute of Medical Sciences, Delhi</td>
+												<td>9												</td><td>4												  </td>
+												<td>13  </td>
+												<td style="display: none;">13500  </td>
+											</tr><tr class="even">
+												<td tabindex="0" class="sorting_1">4</td>
+												<td>Amal Jyothi Rural Technologies Business Incubator</td>
+												<td>9												</td><td>-												  </td>
+												<td>9  </td>
+												<td style="display: none;">20000  </td>
+											</tr><tr class="odd">
+												<td tabindex="0" class="sorting_1">5</td>
+												<td>Andhra Pradesh MedTech Zone</td>
+												<td>6												</td><td>-												  </td>
+												<td>6  </td>
+												<td style="display: none;">25000  </td>
+											</tr><tr class="even">
+												<td tabindex="0" class="sorting_1">6</td>
+												<td>Association for Bio-inspired Leaders and Entrepreneurs at Sastra TBI</td>
+												<td>42												</td><td>1												  </td>
+												<td>43  </td>
+												<td style="display: none;">5600  </td>
+											</tr><tr class="odd">
+												<td tabindex="0" class="sorting_1">7</td>
+												<td>Avishkaran-Foundation for Pharma Innovation, NIPER Hyderabad</td>
+												<td>60												</td><td>1												  </td>
+												<td>61  </td>
+												<td style="display: none;">8480  </td>
+											</tr><tr class="even">
+												<td tabindex="0" class="sorting_1">8</td>
+												<td>Banaras Hindu University</td>
+												<td>57												</td><td>3												  </td>
+												<td>60  </td>
+												<td style="display: none;">10000  </td>
+											</tr><tr class="odd">
+												<td tabindex="0" class="sorting_1">9</td>
+												<td>Bangalore Bioinnovation Centre</td>
+												<td>18												</td><td>11												  </td>
+												<td>29  </td>
+												<td style="display: none;">5000  </td>
+											</tr><tr class="even">
+												<td tabindex="0" class="sorting_1">10</td>
+												<td>Bio-resources Development Centre, Upper Shillong</td>
+												<td>-												</td><td>12												  </td>
+												<td>12  </td>
+												<td style="display: none;">196020  </td>
+											</tr></tbody>
+										
+									</table><div class="dataTables_info" id="bionest_info" role="status" aria-live="polite">Showing 1 to 10 of 74 entries</div><div class="dataTables_paginate paging_simple_numbers" id="bionest_paginate"><ul class="pagination"><li class="paginate_button previous disabled" id="bionest_previous"><a href="#" aria-controls="bionest" data-dt-idx="0" tabindex="0">Previous</a></li><li class="paginate_button active"><a href="#" aria-controls="bionest" data-dt-idx="1" tabindex="0">1</a></li><li class="paginate_button "><a href="#" aria-controls="bionest" data-dt-idx="2" tabindex="0">2</a></li><li class="paginate_button "><a href="#" aria-controls="bionest" data-dt-idx="3" tabindex="0">3</a></li><li class="paginate_button "><a href="#" aria-controls="bionest" data-dt-idx="4" tabindex="0">4</a></li><li class="paginate_button "><a href="#" aria-controls="bionest" data-dt-idx="5" tabindex="0">5</a></li><li class="paginate_button disabled" id="bionest_ellipsis"><a href="#" aria-controls="bionest" data-dt-idx="6" tabindex="0">…</a></li><li class="paginate_button "><a href="#" aria-controls="bionest" data-dt-idx="7" tabindex="0">8</a></li><li class="paginate_button next" id="bionest_next"><a href="#" aria-controls="bionest" data-dt-idx="8" tabindex="0">Next</a></li></ul></div></div>
+									
+                                </div>
+                            </div>
+		                </div>
+            </div>
+            
+            <div>&nbsp;</div>
+         
+            <div class="row">
+                <div class="col-md-12 bounceInRight animated">
+                    <div class="form-group">
+                        <img src="./images/1732530178_Logo_Bionest.jpg" class="img-responsive img-rounded" style="box-shadow: 1px 1px 8px #000;">
+                    </div>
+                </div>
+            </div>
+            
+            <!--div class="row text-right">
+                <div class="col-md-12">
+                    <p class="label label-danger"><b> Data as on 31<sup>st</sup> August 2018</b></p>
+                </div>
+            </div-->
+        </div>
+    </section>
+            
+    <!--For last updated date show code start  -->
+
+
+<!--For last updated date show code end  -->
+
+<section class="footer-section pad-t70 pad-b20 bg-gray-dark">
+	<div class="container">
+
+		<div class="row">
+
+			<div class="col-md-3 col-sm-12 mb-md-20">
+
+				<div class="sidebar-post">
+					<div class="row">
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=69" target="_blank"><h5 class="foot-head">Annual Reports</h5></a>
+						</div>
+
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=294" target="_blank"><h5 class="foot-head">Compliance</h5></a>
+						</div>
+
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=184" target="_blank"><h5 class="foot-head">RTI</h5></a>
+						</div>
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=820" target="_blank"><h5 class="foot-head">DBT-BIRAC MOU</h5></a>
+						</div>
+					</div>
+				</div>
+
+			</div>
+			<div class="col-md-3 col-sm-12 mb-md-20">
+
+				<div class="sidebar-post">
+					<div class="row">
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=54"><h5 class="foot-head">Birac News</h5></a>
+						</div>
+
+						<div class="col-md-12 mb10">
+							<!--a href="./news_description.php?id=123&fid=1"><h5 class="foot-head">Tenders</h5>
+                                </a-->
+																	<a href="./misc.php?type=t"><h5 class="foot-head">Tenders  &nbsp; <img src="../images/new.gif" alt="gif">
+									</h5>
+								                                </a>
+						
+						</div>
+
+						<div class="col-md-12 mb10">
+																	<a href="./misc.php?type=v"><h5 class="foot-head">Vacancy&nbsp; <img src="../images/new.gif" alt="gif">
+									</h5></a>
+														
+						</div>
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=396"><h5 class="foot-head">What's New</h5></a>
+						</div>
+					</div>
+				</div>
+			</div>
+			<div class="col-md-3 col-sm-12 mb-md-20">
+				<div class="sidebar-post">
+					<div class="row">
+						<div class="col-md-12 mb10">
+							<a href="./desc_new.php?id=283"><h5 class="foot-head">Loan Non-repayment</h5></a>
+						</div>
+
+						<div class="col-md-12 mb10">
+
+							<a href="./desc_new.php?id=963"><h5 class="foot-head">Caution</h5></a>
+						</div>
+
+						<div class="col-md-12 mb10">
+
+							<!--a href="./desc_new.php?id=145"><h5 class="foot-head">Supported projects &nbsp; <img src='../images/new.gif' alt="gif"></h5></a-->
+							<a href="./birac_supported_projects.php"><h5 class="foot-head">Supported projects &nbsp; <!--img
+										src='../images/new.gif' alt="gif"-->
+								</h5></a>
+							
+						</div>
+
+						<div class="col-md-12 mb10">
+
+							
+							<a href="./desc_new.php?id=443"><h5 class="foot-head">TRL &nbsp; <img src="../images/new.gif" alt="gif">
+								</h5></a>
+						</div>
+
+
+					</div>
+
+				</div>
+			</div>
+
+
+
+			<div class="col-md-3 col-sm-12 mb-md-20">
+				<div class="sidebar-post">
+					<div class="row">
+
+						<div class="col-md-12 mb10">
+							<a href="https://twitter.com/BIRAC_2012" style="padding-right: 12px;" target="_blank"> <b style="font-size: 35px; letter-spacing: 1px;"><i class="fa fa-twitter" aria-hidden="true"></i></b></a> <a href="videoGallery.php" style="padding-right: 12px;" target="_blank"> <b style="font-size: 35px; letter-spacing: 1px;"><i class="fa fa-youtube"></i></b></a>
+						</div>
+					</div>
+
+				</div>
+			</div>
+
+		</div>
+	</div>
+</section>
+<!-- Start  Copyright Section -->
+<section class="copyright-section">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12 ">
+				<span><a href="birac_feedback.php"><font color="white">Feedback</font></a></span>
+
+				<!--<div class="col-md-2">
+                         <p><a href='#'><font color='white'>Website Policy</font></a></p>
+                </div>
+                <div class="col-md-2">
+                         <p><a href='#'><font color='white'>Disclaimer</font></a></p>
+                </div>-->
+
+				<span>&nbsp;|&nbsp;<span> <span><a href="./desc_new.php?id=90"><font color="white">Contact Us</font></a></span>
+				<span>&nbsp;|&nbsp;<span> <span><a href="termsandcondition.php" target="_blank"><font color="white">Terms and Conditions</font></a></span>
+				
+				<span>&nbsp;|&nbsp;<span> <span><a href="birac_web_information_manager.php" target="_blank"><font color="white">Web Information Manager</font></a></span>
+				
+			
+			</span></span></span></span></span></span></div>
+		</div>
+	
+	
+	<br>
+		<div class="row">
+
+
+			<div class="col-md-6">
+				<div class="copyright-text text-center">
+
+					<p>This is the official Website of Biotechnology Industry Research Assistance Council (BIRAC) , a Public Sector Enterprise, set up by Department of Biotechnology (DBT), Government of India  © 2026</p>
+					<!-- last update data show -->
+					<p> Last Updated: 04 June, 2026</p>
+
+					<!--last update data show end  -->
+
+				</div>
+			</div>
+
+			<div class="col-md-2">
+				<div class="copyright-text text-center">
+					<a href="https://www.g20.org/en/" target="_blank"> <img alt="g20" style="height: 70px" src="./images/g20.png">
+					</a>
+				</div>
+			</div>
+			
+			<div class="col-md-2">
+				<div class="copyright-text text-center">
+					<a href="https://amritmahotsav.mygov.in" target="_blank"> <img alt="mygov" style="height: 70px" src="./images/amrit_mahotsav_en.jpg">
+					</a>
+				</div>
+			</div>
+			<div class="col-md-2">
+				<div class="copyright-text text-center">
+					<a href="https://www.india.gov.in" target="_blank"> <img alt="indiagov" src="./images/indiagov.jpg">
+					</a>
+				</div>
+			</div>
+
+
+		
+			<div class="col-md-2">
+				
+			</div>
+
+
+
+		</div>
+	</div>
+	
+</section>
+<!-- End Copyright Section -->
+
+<div id="back-to-top" class="back-to-top reveal">
+	<i class="fa fa-angle-up"></i>
+</div>
+
+<script>
+    var AllAnchor = document.querySelectorAll("a");
+    AllAnchor.forEach(elem => {
+    elem.addEventListener("click", ()=>{
+        let urlString = elem.getAttribute("href");
+            if (urlString.indexOf('http://') === 0 || urlString.indexOf('https://') === 0){
+                let hostname = new URL(urlString).hostname;
+                if(!(hostname == "www.birac.nic.in" || hostname == "https://birac.nic.in/")){
+                    alert("You are being redirected to an external website. Please note that BIRAC Website cannot be held responsible for external websites content & privacy policies\nआपको बाहरी वेबसाइट पर पुनर्निर्देशित किया जा रहा है। कृपया ध्यान दें कि बाइरैक वेबसाइट को बाहरी वेबसाइटों की सामग्री और गोपनीयता नीतियों के लिए जिम्मेदार नहीं ठहराया जा सकता है।")
+                    window.location.replace = urlString
+                }
+            }
+    })
+});
+</script>      
+
+  
+<!-- all js include start -->
+
+<!-- bootstrap latest version -->
+<script src="assets_design/bootstrap/js/bootstrap.min.js"></script>
+
+<!-- Other jQuery library -->
+<script src="assets_design/js/animation.js"></script>
+<script src="assets_design/js/jquery.appear.js"></script>
+<script src="assets_design/js/jquery.countTo.js"></script>
+<script src="assets_design/js/jquery.isotope.min.js"></script>
+<script src="assets_design/js/lightbox.js"></script>
+<script src="assets_design/js/owl.carousel.js"></script>
+<script src="assets_design/js/jquery.easypiechart.js"></script>
+<script src="assets_design/js/jquery.mb.YTPlayer.js"></script>
+<script src="assets_design/js/countdown.js"></script>
+<script src="assets_design/js/jquery.fitvids.js"></script>
+<script src="assets_design/js/easyResponsiveTabs.js"></script>
+<script src="assets_design/js/bootstrap-datepicker.min.js"></script>
+<script src="assets_design/js/stylesheetToggle.js"></script>
+<script src="assets_design/js/xzoom.js"></script>
+<script src="assets_design/js/jquery.fancybox.js"></script>
+<script src="assets_design/js/setup.js"></script>
+
+<!-- template main js file -->
+<script src="assets_design/js/main.js"></script>
+<!-- all js include end -->
+<script type="text/javascript">
+	jQuery.fn.liScroll = function(settings) {
+	settings = jQuery.extend({
+		travelocity: 0.03
+		}, settings);		
+		return this.each(function(){
+				var $strip = jQuery(this);
+				$strip.addClass("newsticker")
+				var stripHeight = 1;
+				$strip.find("li").each(function(i){
+					stripHeight += jQuery(this, i).outerHeight(true); // thanks to Michael Haszprunar and Fabien Volpi
+				});
+				var $mask = $strip.wrap("<div class='mask'></div>");
+				var $tickercontainer = $strip.parent().wrap("<div class='tickercontainer'></div>");								
+				var containerHeight = $strip.parent().parent().height();	//a.k.a. 'mask' width 	
+				$strip.height(stripHeight);			
+				var totalTravel = stripHeight;
+				var defTiming = totalTravel/settings.travelocity;	// thanks to Scott Waye		
+				function scrollnews(spazio, tempo){
+				$strip.animate({top: '-='+ spazio}, tempo, "linear", function(){$strip.css("top", containerHeight); scrollnews(totalTravel, defTiming);});
+				}
+				scrollnews(totalTravel, defTiming);				
+				$strip.hover(function(){
+				jQuery(this).stop();
+				},
+				function(){
+				var offset = jQuery(this).offset();
+				var residualSpace = offset.top + stripHeight;
+				var residualTime = residualSpace/settings.travelocity;
+				scrollnews(residualSpace, residualTime);
+				});			
+		});	
+};
+
+$(function(){
+    $("ul#ticker01").liScroll();
+});
+</script>
+
+<!-- template main js file -->
+<script src="assets_design/js/main.js"></script>
+  <script>
+    $(document).ready(function() {
+      var owl = $('.owl-carousel');
+      owl.owlCarousel({
+        items: 4,
+        loop: true,
+        margin: 10,
+        autoPlay: true,
+        autoplayTimeout: 1000,
+        autoplayHoverPause: true
+      });
+      $('.play').on('click', function() {
+        owl.trigger('play.owl.autoplay', [1000])
+      })
+      $('.stop').on('click', function() {
+        owl.trigger('stop.owl.autoplay')
+      })
+    })
+
+
+    $("#owl-slider1").owlCarousel ({
+
+        slideSpeed : 800,
+        autoPlay: 2000,
+        items:4,
+        stopOnHover : true,
+        itemsDesktop : [1199,4],
+        itemsDesktopSmall : [979,2],
+        itemsTablet :   [768,2],
+      });
+
+
+     $("#owl-slider2").owlCarousel ({
+
+        slideSpeed : 800,
+        autoPlay: 2000,
+        items:4,
+        stopOnHover : true,
+        itemsDesktop : [1199,4],
+        itemsDesktopSmall : [979,2],
+        itemsTablet :   [768,2],
+      });
+  </script>
+  <script type="text/javascript">
+      $('#flipto').on("click", function(event) {
+  event.preventDefault();
+  
+  var face = $(this).data("face");
+  
+  if ( face == "bottom" ) {
+    $(".cube").removeClass("flip-to-top").addClass("flip-to-bottom");
+    $(this).data("face", "top").text("Flip: to top");
+  } else {
+    $(".cube").removeClass("flip-to-bottom").addClass("flip-to-top");
+    $(this).data("face", "bottom").text("Flip: to bottom");
+  }
+});
+  </script>
+
+<script type="text/javascript">
+
+
+$( ".dropdown-submenu" ).hover(function(event) {
+
+    // stop bootstrap.js to hide the parents
+    event.stopPropagation();
+    // hide the open children
+    $( this).siblings().removeClass('open');
+    // add 'open' class to all parents with class 'dropdown-submenu'
+    $( this).addClass('open');
+    // this is also open (or was)
+   
+});
+
+</script>
+<script type="text/javascript">
+    $(function () {
+    $('#bio').dataTable({
+      "bPaginate": true,
+      "bLengthChange": true,
+      "bFilter": true,
+      "bSort": true,
+      "bInfo": true,
+      "bAutoWidth": true,
+      "lengthMenu": [[10, 50, 100, 150, 200, 250], [10, 50, 100, 150, 200, 250]]
+    });
+    });
+</script>
+
+
+<div id="lightboxOverlay" class="lightboxOverlay" style="display: none;"></div><div id="lightbox" class="lightbox" style="display: none;"><div class="lb-outerContainer"><div class="lb-container"><img class="lb-image" src=""><div class="lb-nav"><a class="lb-prev" href=""></a><a class="lb-next" href=""></a></div><div class="lb-loader"><a class="lb-cancel"></a></div></div></div><div class="lb-dataContainer"><div class="lb-data"><div class="lb-details"><span class="lb-caption"></span><span class="lb-number"></span></div><div class="lb-closeContainer"><a class="lb-close"></a></div></div></div></div></body></html>

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-16",
+  "scheme_name": "SERB Grants",
+  "scheme_url": "https://dst.gov.in/",
+  "ministry_or_category": "Science & Technology",
+  "overview": "SERB Grants refer to funding provided by the Science and Engineering Research Board (SERB), a statutory body under the Department of Science and Technology (DST), to support basic research in science and engineering. These grants are aimed at promoting high-quality research through financial assistance to individual researchers, academic institutions, and R&D organizations. The scheme supports various categories of grants including core research grants, fellowships, and travel grants to foster innovation and scientific excellence across India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "researchers",
+    "academic institutions",
+    "scientific associations",
+    "R&D organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote basic research in science and engineering",
+    "Support individual researchers through fellowships and project grants",
+    "Strengthen research infrastructure in academic institutions",
+    "Encourage innovation and scientific excellence",
+    "Provide travel grants for national and international collaboration",
+    "Fund high-impact research projects in emerging areas of science and technology"
+  ],
+  "eligibility": "Eligibility varies by grant type but generally includes Indian nationals with a Ph.D. in science or engineering, regular faculty or scientists in recognized academic institutions or R&D laboratories, and individuals affiliated with SERB-recognized organizations. Specific criteria depend on the grant category such as Core Research Grant (CRG), Early Career Research Award (ECRA), or Ramanujan Fellowship.",
+  "benefits": "Financial support for research projects, fellowships, travel, and equipment; access to research networks; recognition through prestigious fellowships; opportunities for national and international collaboration; and support for publishing research outcomes.",
+  "financial_support": "SERB provides financial assistance in the form of grants for manpower, consumables, travel, contingency, and overheads. The quantum and duration depend on the specific grant scheme, with funding typically covering project costs for 3 years. Fellowships include monthly stipends and research grants.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the appropriate SERB grant scheme based on eligibility and research objectives. 2. Register on the SERB online portal (serbonline.in). 3. Fill out the application form with project details, budget, and timeline. 4. Upload required documents such as CV, publications, and institutional endorsement. 5. Submit the application before the deadline. 6. Applications undergo peer review and evaluation by expert committees. 7. Selected applicants are notified and funds are disbursed upon approval.",
+  "application_portal_url": "https://serbonline.in/",
+  "required_documents": [
+    "Curriculum Vitae (CV)",
+    "List of publications",
+    "Project proposal with objectives and methodology",
+    "Detailed budget breakdown",
+    "Institutional endorsement letter",
+    "Proof of Ph.D. degree (if applicable)",
+    "Endorsement from host institution",
+    "Ethics clearance (if applicable)"
+  ],
+  "deadlines": "Varies by scheme; specific calls are announced periodically on the SERB portal.",
+  "implementing_agency": "Science and Engineering Research Board (SERB), Department of Science and Technology (DST), Ministry of Science and Technology",
+  "contact_details": "Email: serb@serb.gov.in | Phone: +91-11-26590515",
+  "caveats": [
+    "Grants are subject to mid-term and final evaluation",
+    "Funds must be utilized strictly as per approved budget",
+    "Any deviation requires prior approval from SERB",
+    "Intellectual property rights arising from SERB-funded projects follow government guidelines",
+    "Fellowship awards are non-transferable and tenable only at the approved institution"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/",
+    "https://serbonline.in/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:50:08.578726+00:00"
+}

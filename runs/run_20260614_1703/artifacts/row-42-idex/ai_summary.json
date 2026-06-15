@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-42",
+  "scheme_name": "iDEX",
+  "scheme_url": "https://www.isp.gov.in/",
+  "ministry_or_category": "Defence & Space",
+  "overview": "iDEX (Innovations for Defence Excellence) is a flagship initiative of the Ministry of Defence, Government of India, launched to foster innovation and technology development in defence and aerospace by engaging startups, MSMEs, innovators, and R&D institutes. It aims to create an ecosystem for indigenous defence solutions through grants, incubation, and industry collaboration. The scheme supports the development of cutting-edge technologies for the armed forces and promotes self-reliance in defence manufacturing under the 'Make in India' initiative.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "innovators",
+    "R&D institutes"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster innovation and technology development in defence and aerospace",
+    "Engage startups, MSMEs, innovators, and R&D institutes in defence innovation",
+    "Develop indigenous solutions for the armed forces",
+    "Promote self-reliance in defence manufacturing",
+    "Create a sustainable ecosystem for defence innovation",
+    "Provide financial and infrastructural support to innovators",
+    "Facilitate industry-academia-defence collaboration",
+    "Accelerate the development of critical defence technologies"
+  ],
+  "eligibility": "Startups, MSMEs, innovators, and R&D institutes registered in India are eligible to apply. Entities must be working on innovative defence and aerospace technologies that address the challenges articulated by the armed forces, Defence Public Sector Undertakings (DPSUs), and Ordnance Factories Board (OFB).",
+  "benefits": "Financial support in the form of grants, access to defence testing infrastructure, mentorship from defence experts, opportunities for trials and evaluation by the armed forces, potential for induction into service, and facilitation of partnerships with defence PSUs and OFBs.",
+  "financial_support": "iDEX provides grant funding of up to INR 1.5 Crore per project for proof of concept, prototype development, and trials. The funding is disbursed in milestones based on project progress and is managed through the Defence Innovation Organisation (DIO).",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "Up to INR 1.5 Crore per project",
+  "application_process": "1. Visit the iDEX portal and register as an innovator. 2. Review the problem statements released by the armed forces, DPSUs, or OFBs. 3. Submit a proposal addressing a specific problem statement. 4. Proposals are evaluated by the iDEX Evaluation Committee. 5. Shortlisted applicants are invited for presentations. 6. Selected projects are sanctioned funding and enter the development phase. 7. Progress is monitored through periodic reviews and milestone-based disbursement.",
+  "application_portal_url": "https://www.idex.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "PAN of the entity",
+    "GST registration (if applicable)",
+    "Detailed project proposal",
+    "Technical specifications and innovation details",
+    "Budget and financial plan",
+    "Team credentials and expertise",
+    "Any prior work or prototypes related to the proposal"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year against specific problem statements released periodically.",
+  "implementing_agency": "Ministry of Defence, Government of India",
+  "contact_details": "Email: idex@mod.gov.in | Phone: 011-23010131",
+  "caveats": [
+    "Funding is contingent on achieving predefined milestones",
+    "Intellectual property rights may be subject to government use for defence purposes",
+    "Projects must align with defence priorities as articulated by the armed forces",
+    "Continued funding depends on satisfactory progress reviews"
+  ],
+  "source_cited_notes": [
+    "https://www.isp.gov.in/",
+    "https://www.idex.gov.in/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:05:07.940026+00:00"
+}

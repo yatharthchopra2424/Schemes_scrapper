@@ -2,6 +2,9 @@ import os
 import logging
 from typing import List
 
+from dotenv import load_dotenv
+load_dotenv() # Load env vars from .env file
+
 from fastapi import FastAPI, HTTPException
 from pydantic import BaseModel
 from langchain_huggingface import HuggingFaceEmbeddings
@@ -59,7 +62,7 @@ async def startup_event():
             model=settings.llm.model, 
             base_url=settings.llm.base_url,
             temperature=0.1,  # Keep it deterministic for RAG tasks
-            max_tokens=1024
+            max_tokens=settings.llm.max_tokens
         )
 
         system_prompt = (

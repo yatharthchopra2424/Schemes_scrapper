@@ -1,0 +1,68 @@
+{
+  "scheme_id": "row-66",
+  "scheme_name": "PM-AJAY",
+  "scheme_url": "https://pmajay.dosje.gov.in/",
+  "ministry_or_category": "Social Justice & Empowerment",
+  "overview": "Pradhan Mantri Anusuchit Jaati Abhyuday Yojana (PM-AJAY) is a Centrally Sponsored Scheme launched by the Government of India to promote socio-economic development of Scheduled Castes (SCs) through integrated development of SC-dominated villages, income generation, skill development, and infrastructure support. The scheme merges three earlier schemes—Special Central Assistance to Scheduled Castes Sub Plan (SCA to SCSP), Babu Jagjivan Ram Chhatrawas Yojana (BJRCY), and Pradhan Mantri Adarsh Gram Yojana (PMAGY)—into a single framework for better convergence and optimal utilization of resources. It focuses on reducing poverty, improving socio-economic indicators, and increasing literacy and enrolment of SCs in educational institutions by providing residential facilities and skill development opportunities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "Scheduled Castes (SC)",
+    "SC communities",
+    "SC dominated villages",
+    "SC students",
+    "SC families below poverty line"
+  ],
+  "geographic_scope": "Pan-India (implemented in 28 States/UTs; not covered: Arunachal Pradesh, Nagaland, Meghalaya, Mizoram, A&N Islands, Dadra Nagar Haveli, Daman & Diu, Ladakh, Lakshadweep)",
+  "objectives": [
+    "Reduce poverty of SC communities by generating additional employment opportunities through skill development, income generating schemes, and other initiatives",
+    "Improve socio-economic developmental indicators by ensuring adequate infrastructure and requisite services in SC-dominated villages",
+    "Increase literacy and encourage enrolment of SCs in schools and higher educational institutions by providing adequate residential facilities in quality institutions and residential schools where required, especially in aspirational districts/SC-dominated blocks and elsewhere in India"
+  ],
+  "eligibility": "Scheduled Castes persons living below the poverty line are eligible for benefits under Income Generating Schemes and Skill Development Programmes. For Infrastructure Development, villages having 50% or more SC population are eligible for grants under the Scheme. Guidelines from the erstwhile Planning Commission and procedures laid down by the Ministry of Rural Development for selecting beneficiaries through Panchayati Raj institutions may be adopted for defining poverty line and selecting SC families below poverty line.",
+  "benefits": "Benefits include access to basic services in Adarsh Grams, grants-in-aid for livelihood projects, skill development training, construction/repair of hostels for SC students, financial assistance for income-generating activities (subsidy of Rs 10,000 per beneficiary or 50% of loan), infrastructure development in SC-majority villages, monitoring and evaluation support, and convergence with other central/state schemes for holistic development.",
+  "financial_support": "Financial support is provided as 100% central funding under the Centrally Sponsored Scheme. Under the Grants-in-Aid component, a subsidy of Rs 10,000 per beneficiary or 50% of the loan amount is provided for income-generating schemes. Funds are released to State/UT governments based on notional allocation, SC population weightage (50%), and State SCSP to Annual Plan ratio (50%). Up to 50% of funds are allocated for Adarsh Gram (gap-filling), up to 5% for Administration, Monitoring and Evaluation, up to 2% for Hostel construction/repair, and the balance for Grants-in-aid at District/State level. States/UTs may incur up to 1% of total Central Assistance released for administrative expenses of State Scheduled Caste Corporations.",
+  "fund_size_crores": "95700",
+  "grant_amount_per_entity": "Rs 10000/- per beneficiary or 50% of loan",
+  "application_process": "1. State/UT Governments prepare an Action Plan (AP) before the beginning of each financial year, including separate proposals under Adarsh Gram, Grants-in-Aid, and Administrative Expenses components. 2. For Grants-in-Aid component, States/UTs submit a Perspective Plan for the entire approved scheme period (up to 2025-26) via the online portal https://pmajay.dosje.gov.in, indicating activity-wise targets and financial requirements. 3. The Perspective Plan is placed before the Project Appraisal cum Convergence Committee (PACC) for consideration and approval. 4. Approved projects are conveyed to respective States/UTs. 5. States/UTs may expedite well-performing projects while keeping fund requirements within notional allocation for the financial year. 6. Based on progress of the previous year, States may propose modifications to the Perspective Plan with revised physical targets and financial requirements. 7. District-level projects are appraised by DL-PACC and recommended to SL-PACC (headed by Principal Secretary of SC Welfare Department) for inclusion in the Annual Action Plan (AAP). 8. Funds projection in Perspective Plan should be about 3.5-4 times the Notional Allocation to avoid approval shortfalls if projects are rejected by PACC. 9. Submission of Utilization Certificates (UCs) for funds released earlier is required as part of the AP.",
+  "application_portal_url": "https://pmajay.dosje.gov.in",
+  "required_documents": [
+    "Annual Action Plan (AAP)",
+    "Perspective Plan (for Grants-in-Aid component)",
+    "Utilization Certificate (UC) in GFR 12C format",
+    "Letter of Credentials for State/District Level Officers (sent to email of Principal Secretary)",
+    "Login credentials for web-portal access",
+    "Project proposals under Adarsh Gram, Grants-in-Aid, and Administrative Expenses components",
+    "VDP (Village Development Plan) finalized and approved by Gram Sabha and DL-PACC",
+    "Details of works to be undertaken from Gap-filling funds",
+    "Status of unspent funds and utilization plan",
+    "Details of Institute/University registration (for Hostel component): Institute name, UDISE/AISHE Code, NIRF Ranking, category, administrative ministry/state, department, funding category, nodal officer contacts, geographic location"
+  ],
+  "deadlines": "Action Plans (APs) must be submitted before the beginning of each financial year. Perspective Plans for Grants-in-Aid component are to be uploaded on the online portal for consideration by PACC. No fixed rolling deadline mentioned; submission is annual and tied to financial year cycle.",
+  "implementing_agency": "Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, Government of India",
+  "contact_details": "Email: support[dot]pmagy-msje[at]gov[dot]in | Phone: +91-11-24364468 (Technical Support, Monday to Friday 9:00 AM to 6:00 PM) | Web Information Manager: Ms. Radhika Chakravarty, Joint Secretary, +91-11-23384259, jssd-msje[at]nic[dot]in | Under Secretary: Shri Sewak Paul, 9811254817",
+  "caveats": [
+    "Scheme not implemented in Arunachal Pradesh, Nagaland, Meghalaya, Mizoram, A&N Islands, Dadra Nagar Haveli, Daman & Diu, Ladakh, and Lakshadweep",
+    "Proposal for enhancement of subsidy from Rs 10,000 to Rs 50,000 under income generation component pending Cabinet approval since 2018-19",
+    "Meager subsidy of Rs 10,000 per beneficiary under Income Generation Activities not sufficient to incentivize beneficiary-level adoption",
+    "Non-release of funds by State Treasuries to implementation Departments has resulted in poor implementation, especially during pandemic and in states like Karnataka due to poor budgetary planning",
+    "From 2019-20, submission of Annual Action Plan by States made mandatory; prior to this, it was not enforced",
+    "Savings under any component except Administrative Expenses can be redistributed only to other components/States against viable proposals subject to scheme guidelines",
+    "Post-completion infrastructure upkeep and operations to be managed by State Governments/implementing agencies using SCSP allocations",
+    "Grants-in-aid for Hostel construction not part of Perspective Plan; separate submission required via sub-portal",
+    "Funds under Administrative Expenses (5%) limited: up to 1% at Central level, remaining 4% released to States/UTs for PIU expenses, training, IEC, audit, etc.",
+    "State Scheduled Caste Corporations can claim up to 1% of total Central Assistance released for administrative expenses against man days spared/used"
+  ],
+  "source_cited_notes": [
+    "https://pmajay.dosje.gov.in/",
+    "https://pmajay.dosje.gov.in/content/about-scheme",
+    "https://pmajay.dosje.gov.in/Writereaddata/Guidelines_PM-Ajay_may2023.pdf",
+    "https://pmajay.dosje.gov.in/Writereaddata/Guidelines.pdf",
+    "https://pmajay.dosje.gov.in/Writereaddata/metadata.pdf",
+    "https://pmajay.dosje.gov.in/notional-report",
+    "https://pmajay.dosje.gov.in/Contact-Us",
+    "https://pmajay.dosje.gov.in/content/web-info-manager"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:19:13.405232+00:00"
+}

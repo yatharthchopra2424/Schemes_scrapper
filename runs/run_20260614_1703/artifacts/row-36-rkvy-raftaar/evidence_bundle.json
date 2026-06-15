@@ -1,0 +1,104 @@
+{
+  "scheme": {
+    "row_id": "row-36",
+    "ministry_or_category": "Agriculture & Rural",
+    "scheme_name": "RKVY-RAFTAAR",
+    "scheme_url": "https://rkvy.nic.in/"
+  },
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://rkvy.nic.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-36-rkvy-raftaar\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:03:43.912836+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://rkvy.nic.in/: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "evidence": {
+    "pages": [
+      {
+        "url": "https://rkvy.nic.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-36-rkvy-raftaar\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:03:43.912836+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://rkvy.nic.in/: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "analysis": {
+    "overview": "RKVY-RAFTAAR (Rashtriya Krishi Vikas Yojana - Remunerative Approaches for Agriculture and Allied sector Rejuvenation) is a centrally sponsored scheme launched in 2017-18 to make farming a remunerative economic activity through strengthening the farmer's effort, risk mitigation and promoting agri-business entrepreneurship. It aims to promote agri-startups and agri-entrepreneurship by providing financial and technical support for innovation in agriculture and allied sectors. The scheme focuses on value addition, post-harvest management, and linking farmers to markets through agribusiness models.",
+    "scheme_type": "grant",
+    "target_beneficiaries": [
+      "agri-startups",
+      "farmers",
+      "agri-entrepreneurs",
+      "MSME",
+      "youth"
+    ],
+    "geographic_scope": "Pan-India",
+    "objectives": [
+      "To make farming a remunerative economic activity through strengthening the farmer's effort, risk mitigation and promoting agri-business entrepreneurship",
+      "To promote agri-startups and agri-entrepreneurship by providing financial and technical support for innovation in agriculture and allied sectors",
+      "To support value addition, post-harvest management, and processing to increase farmers' income",
+      "To link farmers to markets through agribusiness models and reduce post-harvest losses",
+      "To encourage private investment in agriculture and allied sectors through incentivization",
+      "To promote sustainable agricultural practices and climate-resilient farming techniques"
+    ],
+    "eligibility": "Eligible beneficiaries include agri-startups, agri-entrepreneurs, farmers, farmer producer organizations (FPOs), self-help groups (SHGs), cooperatives, NGOs, and MSMEs engaged in agriculture and allied sectors. Projects must be innovative, feasible, and have potential for scalability and impact on farmers' income. Preference is given to projects promoting value addition, post-harvest management, and market linkage.",
+    "benefits": "Financial support in the form of grants for project implementation, technical guidance and mentorship, access to incubation and acceleration facilities, market linkage assistance, training and capacity building, and support for technology adoption and innovation in agriculture and allied sectors.",
+    "financial_support": "Under RKVY-RAFTAAR, financial support is provided as grants to eligible entities for innovative agri-projects. The grant amount varies based on the project proposal and is sanctioned by the State Level Sanctioning Committee (SLSC). Funds are released in installments based on project milestones and utilization certificates. The scheme encourages private investment and co-funding from beneficiaries.",
+    "fund_size_crores": "",
+    "grant_amount_per_entity": "",
+    "application_process": "1. Identify a viable agri-project idea aligned with RKVY-RAFTAAR objectives. 2. Prepare a detailed project report (DPR) including technical, financial, and economic feasibility. 3. Submit the application through the State Agriculture Department or designated nodal agency. 4. Application is screened by the State Level Sanctioning Committee (SLSC) for eligibility and merit. 5. Upon approval, grant is sanctioned and released in installments. 6. Project implementation begins with monitoring and evaluation by the implementing agency. 7. Submit utilization certificates and progress reports for subsequent fund releases.",
+    "application_portal_url": "https://rkvy.nic.in/",
+    "required_documents": [
+      "Detailed Project Report (DPR)",
+      "Certificate of Incorporation / Registration (for startups, FPOs, NGOs, etc.)",
+      "PAN of the applicant entity",
+      "Aadhaar of authorized signatory",
+      "Bank account details",
+      "Land lease/ownership documents (if applicable)",
+      "Quotations for equipment and machinery",
+      "Undertaking of compliance with scheme guidelines"
+    ],
+    "deadlines": "Applications are invited periodically by State Agriculture Departments; specific deadlines vary by state and are notified through official communications.",
+    "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+    "contact_details": "",
+    "caveats": [
+      "Funding is subject to availability of funds and approval by State Level Sanctioning Committee (SLSC)",
+      "Projects must be completed within the stipulated timeline as per the sanctioned DPR",
+      "Beneficiaries must submit utilization certificates and progress reports for continued funding",
+      "The scheme does not cover pure trading activities or land purchase",
+      "Preference is given to projects with innovative technology, value addition, and market linkage components"
+    ],
+    "source_cited_notes": [
+      "https://rkvy.nic.in/"
+    ],
+    "last_updated_date": "",
+    "confidence": "medium",
+    "analysis_timestamp": "2026-06-14T12:04:45.043525+00:00"
+  },
+  "analysis_raw": "{\n  \"overview\": \"RKVY-RAFTAAR (Rashtriya Krishi Vikas Yojana - Remunerative Approaches for Agriculture and Allied sector Rejuvenation) is a centrally sponsored scheme launched in 2017-18 to make farming a remunerative economic activity through strengthening the farmer's effort, risk mitigation and promoting agri-business entrepreneurship. It aims to promote agri-startups and agri-entrepreneurship by providing financial and technical support for innovation in agriculture and allied sectors. The scheme focuses on value addition, post-harvest management, and linking farmers to markets through agribusiness models.\",\n  \"scheme_type\": \"grant\",\n  \"target_beneficiaries\": [\"agri-startups\", \"farmers\", \"agri-entrepreneurs\", \"MSME\", \"youth\"],\n  \"geographic_scope\": \"Pan-India\",\n  \"objectives\": [\n    \"To make farming a remunerative economic activity through strengthening the farmer's effort, risk mitigation and promoting agri-business entrepreneurship\",\n    \"To promote agri-startups and agri-entrepreneurship by providing financial and technical support for innovation in agriculture and allied sectors\",\n    \"To support value addition, post-harvest management, and processing to increase farmers' income\",\n    \"To link farmers to markets through agribusiness models and reduce post-harvest losses\",\n    \"To encourage private investment in agriculture and allied sectors through incentivization\",\n    \"To promote sustainable agricultural practices and climate-resilient farming techniques\"\n  ],\n  \"eligibility\": \"Eligible beneficiaries include agri-startups, agri-entrepreneurs, farmers, farmer producer organizations (FPOs), self-help groups (SHGs), cooperatives, NGOs, and MSMEs engaged in agriculture and allied sectors. Projects must be innovative, feasible, and have potential for scalability and impact on farmers' income. Preference is given to projects promoting value addition, post-harvest management, and market linkage.\",\n  \"benefits\": \"Financial support in the form of grants for project implementation, technical guidance and mentorship, access to incubation and acceleration facilities, market linkage assistance, training and capacity building, and support for technology adoption and innovation in agriculture and allied sectors.\",\n  \"financial_support\": \"Under RKVY-RAFTAAR, financial support is provided as grants to eligible entities for innovative agri-projects. The grant amount varies based on the project proposal and is sanctioned by the State Level Sanctioning Committee (SLSC). Funds are released in installments based on project milestones and utilization certificates. The scheme encourages private investment and co-funding from beneficiaries.\",\n  \"fund_size_crores\": \"\",\n  \"grant_amount_per_entity\": \"\",\n  \"application_process\": \"1. Identify a viable agri-project idea aligned with RKVY-RAFTAAR objectives. 2. Prepare a detailed project report (DPR) including technical, financial, and economic feasibility. 3. Submit the application through the State Agriculture Department or designated nodal agency. 4. Application is screened by the State Level Sanctioning Committee (SLSC) for eligibility and merit. 5. Upon approval, grant is sanctioned and released in installments. 6. Project implementation begins with monitoring and evaluation by the implementing agency. 7. Submit utilization certificates and progress reports for subsequent fund releases.\",\n  \"application_portal_url\": \"https://rkvy.nic.in/\",\n  \"required_documents\": [\n    \"Detailed Project Report (DPR)\",\n    \"Certificate of Incorporation / Registration (for startups, FPOs, NGOs, etc.)\",\n    \"PAN of the applicant entity\",\n    \"Aadhaar of authorized signatory\",\n    \"Bank account details\",\n    \"Land lease/ownership documents (if applicable)\",\n    \"Quotations for equipment and machinery\",\n    \"Undertaking of compliance with scheme guidelines\"\n  ],\n  \"deadlines\": \"Applications are invited periodically by State Agriculture Departments; specific deadlines vary by state and are notified through official communications.\",\n  \"implementing_agency\": \"Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India\",\n  \"contact_details\": \"\",\n  \"caveats\": [\n    \"Funding is subject to availability of funds and approval by State Level Sanctioning Committee (SLSC)\",\n    \"Projects must be completed within the stipulated timeline as per the sanctioned DPR\",\n    \"Beneficiaries must submit utilization certificates and progress reports for continued funding\",\n    \"The scheme does not cover pure trading activities or land purchase\",\n    \"Preference is given to projects with innovative technology, value addition, and market linkage components\"\n  ],\n  \"source_cited_notes\": [\n    \"https://rkvy.nic.in/\"\n  ],\n  \"last_updated_date\": \"\",\n  \"confidence\": \"medium\"\n}"
+}

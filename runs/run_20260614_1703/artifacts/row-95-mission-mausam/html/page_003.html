@@ -1,0 +1,207 @@
+<html lang="en"><head>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="IT TEAM India Meteorological Department">
+    <title>IMD@150</title>
+
+    <link href="assets/dist/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom styles for this template -->
+    <link href="style.css" rel="stylesheet">
+  </head>
+  <body>
+
+    <header>
+      <div class="videoSlider">
+        <div class="container-xxl d-flex justify-content-between  align-items-center">
+          <div id="countDown2" class="fs-6 text-light fw-bold fs-10">Welcome to IMD</div>
+          <div class="social-media text-end">            
+            <a href="#" class="sm-link" id="muteUnmuteBtn" onclick="toggleMute()"><i class="bi bi-volume-mute-fill"></i></a>
+            <a href="#" class="sm-link" id="playPauseBtn" onclick="togglePlayPause()"><i class="bi bi-pause-fill"></i></a>
+            <a href="#" class="sm-link" id="fullscreenBtn" onclick="toggleFullscreen()"><i class="bi bi-fullscreen"></i></a>
+            <a href="https://www.facebook.com/India.Meteorological.Department/" target="new" class="sm-link facebook" title=""><i class="bi bi-facebook"></i></a>
+            <a href="https://www.youtube.com/channel/UC_qxTReoq07UVARm87CuyQw/featured?view_as=subscriber" target="new" class="sm-link youTube" title=""><i class="bi bi-youtube"></i></a>
+            <a href="https://twitter.com/Indiametdept" target="new" class="sm-link twitter" title=""><i class="bi bi-twitter"></i></a>
+            <a href="https://instagram.com/mausam_nwfc/" target="new" class="sm-link instagram" title=""><i class="bi bi-instagram"></i></a>
+            <a href="https://imdweather1875.wordpress.com/" target="new" class="sm-link instagram" title=""><i class="bi bi-chat-fill"></i></a>
+          </div>
+        </div>
+      </div>
+      <nav class="navbar navbar-expand-lg bg-light">
+        <div class="container-xxl">
+        <a class="navbar-brand" href="index.php"><img src="https://mausam.imd.gov.in/responsive/img/logo/imd150t_old.webp" class="img-fluid" style="max-width:50px;" alt="LOGO"></a>
+          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarNav">
+			      <ul class="navbar-nav fw-bold fs-6">
+              <li class="nav-item ">
+                <!-- <a class="nav-link" aria-current="page" href="index.php">Home</a> -->
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="about150.php">About IMD@150</a>
+              </li>
+			  <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  People
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="people_minister.php">Minister MOES</a></li>
+                  <li><a class="dropdown-item" href="people_secretary.php">Secretary MOES</a></li>
+                  <li><a class="dropdown-item" href="people_dgm.php">DGM IMD</a></li>
+                  <li><a class="dropdown-item" href="dgmimd.php">Director Generals of IMD</a></li>
+                  <li><a class="dropdown-item" href="imdawards.php">Padma Awardees</a></li>
+                  <li><a class="dropdown-item" href="imdwmo.php">WMO Vice Presidents</a></li>
+                </ul>
+			  </li>
+			  
+			  <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Activities
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="curtain_raiser_2024.php">Curtain Raiser - 15 Jan 2025</a></li>
+                  <li><a class="dropdown-item" href="exhibition_2024.php">Exhibition 2024: Organized at Vigyan Bhawan</a></li>
+                  <li><a class="dropdown-item" href="commemorative.php">Commemorative Release</a></li>
+                  <li><a class="dropdown-item" href="exhibition.php">Exhibition 2025: Walkthrough at Bharat Mandapam</a></li>
+                  <li><a class="dropdown-item" href="curtain_raiser_2025.php">150th Foundation Day - 15th January 2025</a></li>
+                  <li><a class="dropdown-item" href="milestones.php">Major Milestones: Key achievements over 150 years</a></li>
+                  <li><a class="dropdown-item" href="marathon.php">Marathon: Run for weather awareness</a></li>
+                  <li><a class="dropdown-item" href="sports.php">Sports: Games fostering team spirit</a></li>
+                  <li><a class="dropdown-item" href="competition.php">Competitions: Challenge yourself</a></li>
+                  <li><a class="dropdown-item" href="youth.php">Weather &amp; Youth</a></li>
+                </ul>
+				
+			  </li>
+			   <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Workshops
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="stakeholders.php">State Level Stake holders Workshop</a></li>
+                  <li><a class="dropdown-item" href="#">National Stake holders Workshop</a></li>
+                  <li><a class="dropdown-item" href="workshop.php">National &amp; International Workshop at IMD</a></li>
+                  </ul>
+				
+			  </li>
+			   <li class="nav-item dropdown">
+                <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+                  Souvenir
+                </a>
+                <ul class="dropdown-menu">
+                  <li><a class="dropdown-item" href="evolution.php">Evolutions</a></li>
+                  <li><a class="dropdown-item" href="milestones.php">Milestones</a></li>
+                  <li><a class="dropdown-item" href="achievements.php">Recent Achievements in Last Decade</a></li>
+                  <li><a class="dropdown-item" href="innovation.php">Major Science Innovation</a></li>
+                  </ul>
+				
+			  </li>
+			  <li class="nav-item">
+          <a class="nav-link" href="talks.php">Popular Lectures</a>
+        </li>
+		<li class="nav-item">
+          <a class="nav-link" href="message.php">Good Will Messages</a>
+        </li>
+			   <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Initiatives
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://mausamgram.imd.gov.in/" target="_blank">Har-Har Mausam Har-Ghar Mausam</a></li>
+              <li><a class="dropdown-item" href="mission_mausam.pdf" target="_blank">Mission Mausam</a></li>
+              <li><a class="dropdown-item" href="nfcs_india.php">National Framework for Climate Services</a></li>
+              <li><a class="dropdown-item" href="mou_int.php?type=national">National MOUs</a></li>
+              <li><a class="dropdown-item" href="mou_int.php?type=international">International MOUs</a></li>
+              <li><a class="dropdown-item" href="">UPHHEATT</a></li>
+              <li><a class="dropdown-item" href="https://egramswaraj.gov.in/mausam.do" target="_blank">Panchayat Mausam Seva</a></li>
+              </ul>
+			  </li>
+			  <li class="nav-item dropdown">
+            <a class="nav-link dropdown-toggle" href="#" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+              Reports
+            </a>
+            <ul class="dropdown-menu">
+              <li><a class="dropdown-item" href="https://www.imdpune.gov.in/home/125%20years%20of%20service%20to%20the%20%20nation.pdf" target="_blank">125 Years of IMD</a></li>
+              </ul>
+			  
+			  </li><li class="nav-item">
+                <a class="nav-link" href="contact.php">Contact Us</a>
+              </li>
+             
+</ul>          </div>
+        </div>
+      </nav>
+    </header>
+    <main>
+      <div class="banner">
+        <div class="video-container">
+          <div class="position-absolute videoSliderbg"></div>
+          <video autoplay="" muted="" loop="" id="bgVideo">
+            <source src="images/theme_song.mp4" type="video/mp4">
+            Your browser does not support the video tag.
+          </video>
+          <div class="container-fluid">
+            <div class="content">
+              <div class="col-xxl-6 col-xl-5 col-lg-6 col-md-7">
+                <h1 class="slider-h1">
+                  <span class="d-block f60">IMD's 150<sup>th</sup> Year Celebration</span>
+                  <span class="slider-home-text">15<sup>th</sup>January 2024</span>
+                </h1>
+                <div class="logo mt-5">
+                  <img src="images/glow-bg.svg" class="logo-glow" alt="">
+                  <img src="/responsive/img/logo/imd150t_old.webp" class="logo-150 img-fluid float-start" alt="150_logo" style="max-width:300px;z-index:5;">
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </main>
+    
+    
+<footer class="py-5 text-center text-body-secondary bg-body-tertiary border border-2 border-top-danger">
+  <p>© 2026 <a href="https://mausam.imd.gov.in/">IMD@150</a> by India Meteorological Department. <span style="font-size:13px;font-weight:bold;color:#004e99;">Visitors: 795718</span><br>Developed and Maintained by IT Team, India Meteorological Department<br>Ministry of Earth Sciences, New Delhi, India</p>
+  <p class="mb-0">
+    <a href="#">Back to top</a>
+  </p>
+</footer>
+
+    <script src="https://mausam.imd.gov.in/responsive/js/libs/jquery.min.js"></script>
+    <script src="assets/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="custom.js"></script>  
+    <script>
+      const video = document.getElementById("bgVideo");
+      const playPauseBtn = document.getElementById("playPauseBtn");
+      const muteUnmuteBtn = document.getElementById("muteUnmuteBtn");  
+      const fullscreenBtn = document.getElementById("fullscreenBtn");
+
+      function togglePlayPause() {
+        if (video.paused) {
+          video.play();
+          // playPauseBtn.textContent = "Pause";
+          playPauseBtn.innerHTML = '<i class="bi bi-pause-fill"></i>';
+        } else {
+          video.pause();
+          playPauseBtn.innerHTML = '<i class="bi bi-play-fill"></i>';
+        }
+      }
+
+      function toggleMute() {
+        muteUnmuteBtn.innerHTML = video.muted ? '<i class="bi bi-volume-up-fill"></i>' : '<i class="bi bi-volume-mute-fill"></i>';
+        video.muted = !video.muted;
+        // muteUnmuteBtn.textContent = video.muted ? "Unmute" : "Mute";
+      }
+      function toggleFullscreen() {
+        if (!document.fullscreenElement) {
+          video.requestFullscreen().catch(err => {
+            alert(`Error attempting to enable full-screen mode: ${err.message}`);
+          });
+        } else {
+          document.exitFullscreen();
+        }
+      }
+    </script>
+  
+
+</body></html>

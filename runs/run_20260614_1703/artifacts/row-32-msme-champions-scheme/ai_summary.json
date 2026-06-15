@@ -1,0 +1,36 @@
+{
+  "scheme_id": "row-32",
+  "scheme_name": "MSME Champions Scheme",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The MSME Champions Scheme is a technology platform launched by the Ministry of Micro, Small & Medium Enterprises to empower MSMEs by providing support in finance, marketing, technology, and capacity building. It also disseminates information in eleven regional languages through 69 State control rooms nationwide. The scheme serves as a holistic platform for redressal, guidance, and handholding of MSMEs.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide support in finance, marketing, technology, and capacity building to MSMEs",
+    "Disseminate information in eleven regional languages via 69 State control rooms nationwide",
+    "Serve as a holistic platform for redressal, guidance, and handholding of MSMEs"
+  ],
+  "eligibility": "MSMEs are eligible to benefit from the Champions portal as part of the Ministry's initiatives for redressal, guidance, and handholding.",
+  "benefits": "Support in finance, marketing, technology, and capacity building; information dissemination in eleven regional languages through 69 State control rooms nationwide; redressal, guidance, and handholding for MSMEs.",
+  "financial_support": "The Champions portal does not provide direct financial support but facilitates access to finance through guidance and handholding.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Access the Champions portal through the Ministry's website. 2. Utilize the platform for redressal, guidance, and handholding. 3. Access information in eleven regional languages via State control rooms. 4. Seek support in finance, marketing, technology, and capacity building.",
+  "application_portal_url": "https://msme.gov.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Micro, Small & Medium Enterprises",
+  "contact_details": "",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://msme.gov.in/sites/default/files/MSMEANNUALREPORT2025-26ENGLISH_0.pdf",
+    "https://msme.gov.in/sites/default/files/MSMEANNUALREPORT2025-26HINDI_4.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:03:24.455728+00:00"
+}

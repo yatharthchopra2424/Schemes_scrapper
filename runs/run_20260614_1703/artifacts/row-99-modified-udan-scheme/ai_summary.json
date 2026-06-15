@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-99",
+  "scheme_name": "Modified UDAN Scheme",
+  "scheme_url": "https://www.aai.aero/en/rcs-udan",
+  "ministry_or_category": "Civil Aviation",
+  "overview": "The Modified UDAN Scheme (Regional Connectivity Scheme - RCS-UDAN) is a Government of India initiative to enhance regional air connectivity by making air travel affordable and accessible to underserved and unserved airports. It provides financial and non-financial incentives to airline operators to operate flights on regional routes, with a focus on affordability, sustainability, and inclusive growth. The scheme uses a transparent bidding process and Viability Gap Funding (VGF) to support airline operations for a period of up to 10 years, with concessions from central and state governments and airport operators.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "airline operators",
+    "passengers",
+    "underserved regions",
+    "unserved airports"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance connectivity to underserved and unserved airports",
+    "Make air travel more affordable for the common citizen",
+    "Make operations and connectivity sustainable through market-based mechanisms",
+    "Promote balanced regional growth and economic development",
+    "Support tourism, trade, and employment generation in remote areas",
+    "Encourage private sector participation through PPP and concessions",
+    "Develop aviation infrastructure in underserved regions",
+    "Ensure long-term viability of regional routes after initial government support"
+  ],
+  "eligibility": "Eligibility is open to scheduled airline operators who qualify through a transparent, competitive bidding process for specific routes. Operators must meet technical and financial criteria set by the Ministry of Civil Aviation (MoCA) and Airports Authority of India (AAI), including aircraft suitability, operational capability, and compliance with regulatory requirements. Preference is given to zero-VGF bids, but operators can opt for VGF support if needed. The scheme allows both domestic and international airlines to participate, including code-sharing arrangements.",
+  "benefits": "Financial benefits include Viability Gap Funding (VGF) for up to 50% of aircraft capacity, concessional excise duty of 2% on ATF for three years, and reimbursement of GST on RCS seats (for UDAN 1-3). Non-financial benefits include waiver of landing, parking, and Terminal Navigation Landing Charges (TNLC), nominal Route Navigation and Facilitation Charges (RNFC), permission for self-ground handling, freedom to enter code-share agreements with domestic and international airlines, and provision of free security, fire, electricity, water, and utility services by state governments at concessional rates. State governments also provide land free of cost and multi-modal hinterland connectivity.",
+  "financial_support": "Financial support is provided through Viability Gap Funding (VGF), which bridges the gap between operational costs and expected revenues on regional routes. VGF is determined via a competitive bidding process where airlines quote the lowest VGF per seat. The central government provides 80% of VGF (90% for North Eastern States and Union Territories) through the Regional Connectivity Fund (RCF), while state governments provide the remaining share. VGF is indexed to ATF prices and inflation and is available for up to 10 years from commencement of operations. The RCF is funded by a levy on domestic flights (excluding RCS, Cat II/Cat IIA, and small aircraft below 80 seats) and premiums from international route capacity entitlements.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify route and submit proposal through the UDAN portal. 2. Participate in transparent, competitive bidding process for route allocation. 3. Qualify as a bidder based on technical and financial criteria. 4. Submit bid quoting VGF per seat for the route. 5. Win contract by quoting lowest VGF per seat. 6. Sign agreement with MoCA/AAI. 7. Commence flight operations within stipulated time. 8. Operate under scheme for up to 10 years with periodic review. 9. Claim VGF and concessions as per eligibility. 10. Submit periodic reports on operations, passenger load factor, and compliance.",
+  "application_portal_url": "https://www.aai.aero/en/rcs-udan",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Air Operator’s Permit (AOP)",
+    "Aircraft Registration and Airworthiness Certificates",
+    "Financial Statements and Bank Guarantees",
+    "Route Proposal Document",
+    "Bid Submission Form",
+    "Security Clearance (if applicable)",
+    "Undertaking for Compliance with Scheme Guidelines",
+    "Details of Aircraft Fleet and Seating Capacity",
+    "Operational Plan and Schedule"
+  ],
+  "deadlines": "Rolling basis — bids are invited periodically for different routes; no fixed annual deadline.",
+  "implementing_agency": "Ministry of Civil Aviation (MoCA), implemented by Airports Authority of India (AAI)",
+  "contact_details": "Email: rcs@aai.aero | Contact No.: 91-11-24632950",
+  "caveats": [
+    "VGF is provided only for a limited period (up to 10 years) and is subject to periodic review",
+    "Operations must maintain minimum Passenger Load Factor (PLF) to continue receiving VGF",
+    "Route may be withdrawn if not operated as per agreement",
+    "Exclusivity period of 3 years on awarded routes prevents competition",
+    "State government concessions (e.g., VAT on ATF ≤1%) are mandatory for route activation",
+    "Only 50% of seats are eligible for fare caps; remaining seats are market-priced",
+    "Cargo operators are not eligible for VGF under the scheme"
+  ],
+  "source_cited_notes": [
+    "https://aai.aero/en/rcs-udan",
+    "https://aai.aero/sites/default/files/rcs_news_notifications/Various_Concessions_Under_RCS_UDAN_Scheme.pdf",
+    "https://aai.aero/sites/default/files/rcs_news_notifications/UDAN_Manual.pdf",
+    "https://aai.aero/sites/default/files/basic_page_files/Final_NCAP_2016_15-06-2016-3%20%281%29.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:41:36.825189+00:00"
+}

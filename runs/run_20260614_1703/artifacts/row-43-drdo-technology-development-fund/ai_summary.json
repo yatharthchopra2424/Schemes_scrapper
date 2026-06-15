@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-43",
+  "scheme_name": "DRDO Technology Development Fund",
+  "scheme_url": "https://www.drdo.gov.in/",
+  "ministry_or_category": "Defence & Space",
+  "overview": "The DRDO Technology Development Fund (TDF) Scheme, under the 'Make in India' initiative, promotes the development of defence and dual-use systems, subsystems, components, or technologies by startups and MSMEs. It supports Indian Designed, Developed and Manufactured (IDDM) products to enhance self-reliance in defence technologies. The scheme aims to foster innovation and strengthen the defence R&D ecosystem by providing financial and technical support to eligible entities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote development of defence and dual-use systems, subsystems, components, or technologies",
+    "Support Indian Designed, Developed and Manufactured (IDDM) products",
+    "Encourage innovation among startups and MSMEs",
+    "Strengthen the defence R&D ecosystem through industry collaboration",
+    "Achieve self-reliance in critical defence technologies and systems",
+    "Enable indigenisation of defence products and components",
+    "Provide financial support for technology development projects",
+    "Facilitate transfer of technology and technical guidance from DRDO experts"
+  ],
+  "eligibility": "The scheme is open to Indian industries, especially MSMEs and startups, for indigenisation of defence products, subsystems and components. The fund may also be utilised for developing new technologies as required by DRDO, Services and DPSUs. Industries can approach DRDO for support under the TDF scheme.",
+  "benefits": "Financial support up to 90% of project cost, access to DRDO's technological and scientific support, testing facilities, technology transfer documents, handholding support, expert guidance from DRDO specialists, and opportunities for collaboration with DRDO laboratories on defence technology development.",
+  "financial_support": "In TDF, a corpus fund of Rs. 100 Cr has been created to enable Indian industries, specially MSMEs, for indigenisation of the defence products, sub systems and components. The fund may also be utilised for developing new technologies as required by DRDO, Services and DPSUs. The cost of each project under TDF can be up to Rs 10 Cr. The industry can get funding up to 90% of the project cost.",
+  "fund_size_crores": "100",
+  "grant_amount_per_entity": "Up to Rs 10 Cr per project (90% of project cost funded by TDF)",
+  "application_process": "1. Identify the technology development requirement aligned with TDF objectives. 2. Prepare a detailed project proposal including technical scope, budget, timeline, and expected outcomes. 3. Submit the proposal through the designated DRDO channel or portal. 4. Undergo technical and financial evaluation by DRDO experts. 5. Upon approval, sign the agreement and receive financial tranches as per project milestones. 6. Execute the project with periodic monitoring and reporting. 7. Submit final report and utilization certificate upon completion.",
+  "application_portal_url": "https://tdf.drdo.gov.in",
+  "required_documents": [
+    "Project proposal document",
+    "Technical scope and specifications",
+    "Detailed budget breakdown",
+    "Timeline and milestones",
+    "Expected outcomes and deliverables",
+    "Company registration documents",
+    "Audited financial statements",
+    "Tax clearance certificates",
+    "Bank account details",
+    "Undertaking for compliance with government policies",
+    "Reference letter from college/institution (if applicable for academic collaboration)",
+    "Memorandum of Association",
+    "Certificates of registration as a manufacturing unit",
+    "Income Tax returns for preceding three years",
+    "Details of shareholding/ownership pattern",
+    "PAN/TIN",
+    "PESO and DPIIT license for explosive handling (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Defence Research & Development Organisation (DRDO), Ministry of Defence, Government of India",
+  "contact_details": "Email: diitm.hqr@gov.in | Phone: 011-23007446, 011-23007447 | Fax: 011-23793008",
+  "caveats": [
+    "Funding is subject to technical and financial evaluation by DRDO",
+    "Projects must align with DRDO's technology development priorities",
+    "Intellectual property rights may be governed by DRDO's IPR policy",
+    "Beneficiaries must comply with government policies on Foreign Direct Investment (FDI)",
+    "Testing and certification support may be subject to availability and prior approval",
+    "Royalty of 2% applies for sales in Indian commercial market and exports",
+    "No ToT fee for Development cum Production Partner (DcPP)/Development Partner (DP)/Production Agency (PA); one-time ToT fee @5% of total project sanction cost for other industries"
+  ],
+  "source_cited_notes": [
+    "https://drdo.gov.in/drdo/sites/default/files/schemes_services/Support-to-Indian-Industry_1_1.pdf",
+    "https://drdo.gov.in/drdo/hi/offerings/schemes-and-services/sataarataapa-sapaorata",
+    "https://drdo.gov.in/drdo/en/offerings/schemes-and-services/startups-support",
+    "https://tdf.drdo.gov.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:09:06.823831+00:00"
+}

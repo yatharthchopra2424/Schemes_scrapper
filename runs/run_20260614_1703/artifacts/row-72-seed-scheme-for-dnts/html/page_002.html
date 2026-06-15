@@ -1,0 +1,659 @@
+<html><head>
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <title>Central Schemes</title>
+    <link rel="icon" href="/public/images/fevicon.png" type="image/gif" sizes="18x18">
+    <meta name="csrf-token" content="KzP6fa0UvBXokaZpUrAkXBAXS2StjKFzxhXYB3wR">
+	<link rel="stylesheet" href="/public/css/css2.css">
+    <link href="/public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/public/css/jquery-confirm.min.css" rel="stylesheet">
+    <link href="/public/css/select2.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/public/css/owl.carousel.min.css">
+    <link href="/public/css/style.css" rel="stylesheet">
+	
+	<link href="/public/css/jquery.dataTables.min.css" rel="stylesheet">
+	<!--<link rel="stylesheet" href="/public/css/all.min.css" />-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+	
+	
+	<style type="text/css">
+    .select2-container .select2-selection--single{
+      height:34px !important;
+    }
+    .select2-container--default .select2-selection--single{
+      border: 1px solid #ccc !important; 
+      border-radius: 0px !important; 
+    }
+	.dt-buttons
+	{
+		float: left;
+		margin-right: 20px;
+	}
+	.sticky-top
+	{
+		position:static !important;
+	}
+    </style>
+	
+</head>
+
+<body>
+	<style type="text/css">
+.navbar .dropdown .dropend:hover>ul {
+  left: 100%;
+}
+.navbar .dropdown ul a.dropdown-item.active, .navbar .dropdown ul a.dropdown-item:active, .navbar .dropdown ul a.dropdown-item.active:hover{
+  color: #fff;
+}
+.navbar a1{
+  padding: 10px;
+  font-size: 15px;
+}
+.navbar .dropdown ul{
+ /* left: 0; */
+}
+#more {display: none;}
+
+.dropdown-menu.show {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+.topbar {
+      background-color: #004080;
+      color: white;
+      padding: 8px 0;
+      text-align: center;
+      font-size: 14px;
+    }
+	
+.container-fluid {
+    max-width: 1800px;	
+	}
+.reg_btn
+{
+	border: 1px solid #ff9812;
+    border-radius: 10px;
+    background: #004080;
+    color: #fff !important;
+}
+.login_btn
+{
+	border: 1px solid #ff9812;
+    border-radius: 10px;
+    background: #fff;
+    color: #ff9812 !important;
+	padding: 10px !important;
+    margin-left: 10px;
+}
+</style>
+
+<nav class="sticky-top">
+	<nav class="navbar navbar-top py-1 pe-2 topbar" id="top">
+		<div class="container-fluid d-flex align-items-center justify-content-between flex-wrap py-2">
+		  <div class="d-none d-lg-flex align-items-center">
+						<img src="/public/assets/img/Inidan-flag.png" alt="Flag">
+						<a href="javascript:void(0);" onclick="safeOpen('https://socialjustice.gov.in')" class="fw-bold text-white ps-2 text-decoration-none">
+							<h4>Government of India</h4>
+						</a>
+					</div>
+		  <div class="d-lg-inline-block d-flex align-items-center justify-content-between md-width100">
+			<div class="d-block">
+			  <a href="#main-content" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Skip to Main Content" aria-label="Skip to Main Content" style="padding: 9px;">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" fill="000" viewBox="0 0 53 38">
+				  <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-1" d="M0,26.125V23.749L28.123,0,53,23.749v2.375L28.363,2.375ZM0,38V35.624L28.123,11.875,53,35.624V38L28.363,14.25Z"></path>
+				</svg>
+			  </a>
+			  <a href="https://dwbdnc.dosje.gov.in/content/screen-reader-access" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center opacity-75 skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Screen Reader Access" style="padding: 9px;">
+			  <img src="/public/assets/img/screen-icon.png" alt="black and white" width="23" height="21">
+			  </a>   
+			  <a href="#" class="float-start opacity-75 black-white border rounded-circle p-0" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="retheme();this.blur()" data-bs-original-title="Page Black &amp; White">
+			  <img src="/public/assets/img/black-white.png" alt="black and white" width="37px" height="37px">
+			  </a>
+			  <!--<div class="btn-group float-start mx-2" role="group" aria-label="Button group with nested dropdown">
+				<div class="btn-group" role="group" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Social Media Links">
+				  <button id="btnGroupDrop1" type="button" class="form-select rounded-pill" data-bs-toggle="dropdown" aria-expanded="false" onclick="">
+				  <img src="/public/assets/img/fb-icon.png" alt="facebook" width="15">
+				  <img src="/public/assets/img/twitter-icon.png" alt="facebook" width="15">
+				  <img src="/public/assets/img/twitter-icon.png" alt="facebook" width="15">
+				  </button>
+				  <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="btnGroupDrop1">
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://www.facebook.com/DWBDNC')" class="p-0 me-1"><img src="/public/images/fb-icon.png" alt="facebook" class="bg-white rounded-circle" width="40"></a></li>
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://www.instagram.com/dwbdnc.msje/')" class="p-0"><img src="/public/images/twitter-icon.png" alt="instagram" class="bg-white rounded-circle" width="40"></a></li>
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://x.com/DwbdncG33045')" class="p-0"><img src="/public/images/twitter-icon.png" alt="X" class="bg-white rounded-circle" width="40"></a></li>
+				  </ul>
+				</div>
+			  </div>-->
+				<div id="dnn_languageChange" class="languagechange" style="float: left; margin-right: 0.5rem !important;">
+				    <label for="changeLang" class="visually-hidden">Select Language</label>
+					<select class="form-select changeLang">
+						<option value="en">English</option>
+						<option value="hi">हिंदी</option>
+					</select>
+				</div>
+			  
+			  
+			  <div class="d-flex">
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2" id="plusBtn" onclick="plus()">A+</a>
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2 mx-2" id="defaultBtn">A</a>
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2" id="minusBtn" onclick="minus()">A-</a>
+			  <input type="hidden" id="clicks" value="0">
+			  <input type="hidden" id="clicks1" value="0">
+			  </div>
+			</div>
+		  </div>
+		</div>
+	</nav>
+<!-- ========Top Nav End ======= -->
+	
+
+<!-- ======= Header ======= -->
+	
+	<nav id="navbar" class="navbar navbar-expand-lg navbar-dark order-last order-lg-0 pb-3 pt-3" style="background: #f4f4f4;">
+	<a class="navbar-brand d-flex align-items-center" href="https://dwbdnc.dosje.gov.in">
+        <img src="https://dwbdnc.dosje.gov.in/public/assets/img/logo.png" alt="DWBDNC Logo">
+    </a>
+  <button class="navbar-toggler border me-1 d-lg-none d-flex align-items-center py-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll">
+  <span class="material-symbols-outlined text-dark">menu</span>
+  </button>
+   <form action="" class="navbar-collapse collapse mb-0" id="navbarScroll">
+    <div class="w-100">
+      <ul class="header-design py-2 px-4 d-lg-flex">
+        <div class="navIn flex-grow-1">
+          <ul class="navlist" id="main-menu">
+            <li class="nav-item">
+              <a class="nav-link" href="https://dwbdnc.dosje.gov.in">Home</a>
+            </li>
+                        <li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">About Us</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/about-us">Brief History</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/sector-overview">Sector Overview</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/organisational-setup">Organisational Setup</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/whos-who">Whos Who</a></li>
+                              </ul>
+            </li>
+			
+				
+			<li class="nav-item dropdown">
+				<a class="nav-link d-inline-block dropdown-toggle show  active" "="" href="#" id="navbar-scheme" role="button" data-bs-toggle="dropdown" aria-expanded="false">Schemes</a>
+				<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-scheme">
+									<li><a class="dropdown-item  active" href="https://dwbdnc.dosje.gov.in/central">Central Schemes</a></li>
+									<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/state">State Schemes</a></li>
+									<!--<li class="dropdown dropend">
+						<a class="dropdown-item dropdown-toggle" href="#" id="navbar-central-schemes" role="button" data-bs-toggle="dropdown" aria-expanded="false">Central Schemes</a>
+						<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-central-schemes">
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="https://dwbdnc.dosje.gov.in/central/education" id="navbar-education" data-bs-toggle="dropdown" aria-expanded="false">Education</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/education/free_coaching">Seed Free Coaching</a></li>
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/content/seed-scheme">PM Yasasvi</a></li>
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/content/seed-scheme">Overshae Scholership</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Healthcare</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="#">Seed Health Insurance</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Livelihood</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/livelihood/seed_livelihood">Seed Livelihood</a></li>
+									<li><a class="dropdown-item" href="#">PM Daksh</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Housing</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="#">Seed Housing</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>-->
+					<!--<li class="dropdown dropend">
+						<a class="dropdown-item dropdown-toggle" href="#" id="navbar-state-schemes" role="button" data-bs-toggle="dropdown" aria-expanded="false">State Schemes</a>
+						<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-state-schemes">
+							<li><a class="dropdown-item" href="#">Seed Free Coaching</a></li>
+							<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/content/seed-scheme">SEED Scheme</a></li>
+						</ul>
+					</li>-->
+				</ul>
+			</li>
+				
+                        <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show" href="#" id="navbar-scheme" role="button" data-bs-toggle="dropdown" aria-expanded="true">Scheme</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-scheme" data-bs-popper="none">
+                <li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/content/seed-scheme">SEED Scheme</a></li>
+                                <li class="dropdown dropend">
+                  <a class="dropdown-item dropdown-toggle show" href="#" id="navbar-components" role="button" data-bs-toggle="dropdown" aria-expanded="true">Components</a>
+                  <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-components" data-bs-popper="none">
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/free-coaching">Free Coaching</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/health-insurance">Health Insurance</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/livelihood">Livelihood</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/housing">Housing</a></li>
+                                      </ul>
+                </li>
+                              </ul>
+            </li>-->
+                                    <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Convergence</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-free-coaching">Free Coaching</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-health-insurance">Health Insurance</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-livelihood">Livelihood</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-housing">Housing</a></li>
+                              </ul>
+            </li>-->
+                                                <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Government Entitlements</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/central-government-schemes-for-denotified-and-nomadic-tribes">Central Government Schemes for DNCs</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/state-government-schemes-for-denotified-and-nomadic-tribes">State Government Schemes for DNCs</a></li>
+                              </ul>
+            </li>-->
+                        <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/publication">Publication</a></li>-->
+            <!--
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/activities">Activities</a></li>
+            
+            
+			 
+			<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Activities</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/livelihood" >Livelihood</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/free-coaching" >Free Coaching</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/health-insurance" >Health Insurance</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/housing" >Housing</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/others" >Others</a></li>
+                              </ul>
+            </li>
+			-->
+			<!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>-->
+            
+			 
+			<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Glimpse</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/Image-Gallery">Gallery</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/success-story">Success Story</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/News-Coverage">Newsletter</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/video">Video</a></li>
+                              </ul>
+            </li>
+			
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/resources">Resources</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/tenders-vacancies">Tenders/Vacancies</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/orders-circular">Orders/Circular</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/faq">FAQs</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/state-wise-dnt-board">State Wise DNT Office</a></li>-->
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/contact-us">Contact Us </a></li>
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/report/dashboard">Dashboard </a></li>
+		  </ul>
+        </div>
+        		
+		<ul>
+			
+				<li class="nav-item dropdown">
+					<a class="reg_btn nav-link dropdown-toggle " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+						REGISTER
+					</a>
+					<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+							<!--<li>
+								<a class="dropdown-item" href="https://www.buddy4study.com/page/free-coaching-for-dnt-students-under-seed-scheme" target="_blank" rel="noopener noreferrer" >Free Coaching</a>
+							</li>-->
+							<li>
+								<a class="dropdown-item livelihood ? 'active' : '' }}" href="https://dwbdnc.dosje.gov.in/register_new/livelihood">Livelihood	</a>
+							</li>
+							
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/livelihood">Livelihood</a>
+							</li>-->
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/housing">Housing</a>
+							</li>-->
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/health">Health</a>
+							</li>-->
+											</ul>
+				</li>
+				<li class="nav-item">
+					<a class="login_btn nav-link " href="https://dwbdnc.dosje.gov.in/login">
+						LOGIN
+					</a>
+				</li>
+		</ul>
+		      </ul>
+    </div>
+  </form>
+  
+  <i class="bi mobile-nav-toggle bi-list"></i>
+</nav>
+
+</nav>
+
+
+
+
+<div class="toast position-absolute top-0 start-50 translate-middle-x mt-1" role="alert" aria-live="assertive" aria-atomic="true">
+  <div class="toast-body py-3 d-flex align-items-center justify-content-between bg-danger rounded">
+    <p class="m-0 fs-7 text-white d-flex align-items-center">
+      <span class="toast-content">Hello, world! This is a toast message.</span>
+    </p>
+    <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+  </div>
+</div>
+
+  <div id="main-content"></div>
+  	<div class="container mb-5">
+	<div class="row">
+		<h2 class="text-center contact-heading dashboard_text w-100 fw-bolder mb-5">Central Schemes : Overview</h2>
+			<div class="col-md-6 col-lg-3">
+				<div class="service">
+					<img src="/public/images/livelihood.PNG" alt="Livelihoods Icon" width="50">
+					<h3><a href="https://dwbdnc.dosje.gov.in/central/livelihood" style="color:#fff">Livelihoods</a></h3>
+				</div>	
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="service">
+					<img src="/public/images/Education.PNG" alt="Education Icon" width="50">
+					<h3><a href="https://dwbdnc.dosje.gov.in/central/education" style="color:#fff">Education</a></h3>
+				</div>
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="service">
+					<img src="/public/images/Health.PNG" alt="Healthcare Icon" width="50">
+					<h3><a href="https://dwbdnc.dosje.gov.in/central/health" style="color:#fff">Healthcare</a></h3>
+				</div>	
+			</div>
+			<div class="col-md-6 col-lg-3">
+				<div class="service">
+					<img src="/public/images/Housing.PNG" alt="Housing Icon" width="50">
+					<h3><a href="https://dwbdnc.dosje.gov.in/central/housing" style="color:#fff">Housing</a></h3>
+				</div>
+			</div>
+	</div>
+</div>
+
+
+	<style type="text/css">
+   .small li{line-height: 1.8em;;}
+</style>
+
+
+<footer id="footer" class="">
+<div class="bg-primary text-white pt-3" style="background-color:#024D97 !important;">
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col-md-4">
+          <img src="/public/assets/img/nicwhitelogo.png" alt="NIC logo">
+          <p class="small" style="text-align: justify; padding-left: 25px;">
+            This Site Is Designed, Developed, Hosted And Maintained By National Informatics Centre, Department Of Social Justice And Empowerment, Ministry Of Social Justice And Empowerment, Government Of India.
+          </p>
+        </div>
+		<div class="col-md-1"></div>
+        <div class="col-md-3 mt-4">
+         <strong>Useful Links</strong>
+          <ul class="list-unstyled small">
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/feedback">Feedback</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/faqs">FAQs</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/downloads/archive">Archive</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/terms-conditions">Terms &amp; Conditions</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/privacy-policy">Privacy Policy</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/copyright-policy">Copyright Policy</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/hyperlinking-policy">Hyperlinking Policy</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4 mt-4">
+          <strong>Contact Us</strong>
+          <ul class="list-unstyled small">
+            <li><i class="fa fa-phone"></i> +91-11-20867719</li>
+            <li><i class="fa fa-envelope"></i> dwbdnc-msje[at]gov[dot]in</li>
+            <li><i class="fa fa-map-marker"></i> 2nd Floor, Wing 2, West Block-8, <br>Sector-1, R.K. Puram, <br>New Delhi - 110066</li>
+          </ul>
+          <div class="mt-2">
+            <strong>Follow Us</strong><br>
+            <a href="https://www.facebook.com/DWBDNC" aria-label="facebook" target="_blank" rel="noopener noreferrer" class="text-white me-2 "><i class="fa-brands fa-square-facebook" style="font-size:25px"></i></a>
+            <a href="https://www.instagram.com/dwbdnc.msje/" aria-label="instagram" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fa-brands fa-square-instagram" style="font-size:25px"></i></a>
+            <a href="https://x.com/DwbdncG33045" aria-label="twitter" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fa-brands fa-square-x-twitter" style="font-size:25px"></i></a>
+            <a href="https://youtube.com/@DWBDNCMSJE" aria-label="youtube" rel="noopener noreferrer" target="_blank" class="text-white"><i class="fa-brands fa-square-youtube" style="font-size:25px"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-white bg-info py-2 small" style="background-color:#2483C5 !important;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 mt-2">
+				<div>Platform is Owned by: <strong>Government of India</strong></div>
+			</div>
+			<div class="col-md-6" style="text-align: right;">
+				<div class="mt-1">Last Modified: Monday, 8 June 2026 | Visitor Count: 356,274</div>
+				<div class="mt-1">© Copyright 2026 - All Rights Reserved</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</footer>
+
+
+<footer id="footer" class="d-none">
+    <div class="footer-top">
+       <div class="container">
+          <div class="row">
+             <div class="col-lg-12 col-md-12 footer-contacts">
+                <ul class="footermenu">
+                   <li><a href="#">Feedback</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/faqs">FAQs</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/downloads/archive">Archive</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/terms-conditions">Terms &amp; Conditions</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/privacy-policy">Privacy Policy</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/copyright-policy">Copyright Policy</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/hyperlinking-policy">Hyperlinking Policy</a></li>
+                   <!-- <li><a href="#">Sitemap</a></li> -->
+                                        
+                </ul>
+             </div>
+          </div>
+       </div>
+    </div>
+    <div class="footer-top-middle border-bottom">
+       <div class="container">
+          <div class="row">
+              <div class="col-lg-3 col-md-3 footer-contacts">
+                <p>
+                <a href="https://www.nic.in/" target="_blank" rel="noopener noreferrer" style="padding: 0;" onclick="return confirm('This link will take you to an external web site. \n यह लिंक आपको एक बाहरी वेब साइट पर ले जाएगा।'); ">
+                  <img src="/public/assets/img/nic_logo.png" class="img-responsive" style="max-width:100%;"></a>
+                </p>
+             </div>
+             <div class="col-lg-9 col-md-9 footer-contacts mt-5">
+              <p style="font-size:14px">This site is designed, developed, hosted and maintained by National Informatics Centre,Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, Government of India.</p>   
+             </div>
+          </div>
+       </div>
+    </div>
+    <div class="footer-top-down">
+       <div class="container py-4s">
+          <div class="copyright"> No. Of Visitors<strong><span class="red-captcha">356,274</span></strong>
+          </div>
+          <div class="credits">Last updated on : <b>8 June 2026</b></div>
+       </div>
+    </div>
+ </footer>  <!-- The Modal -->
+  <div class="modal" id="trgtOtherModal">
+    <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header py-1">
+        <h4 class="modal-title">File View</h4>
+        <a type="button" class="fs-3 text-danger pointer-events" data-bs-dismiss="modal"><i class="fa fa-times-circle-o"></i></a>
+      </div>
+      <div class="modal-body p-1"></div>
+      <div class="modal-footer p-1">
+        <button type="button" class="btn btn-danger btn-sm btn-bold" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+  </div>
+
+	<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <script src="/public/js/jquery.min.js"></script>  
+  
+  <script>
+	/*$(document).ready(function() {
+		$('a[target="_blank"]').attr('rel', 'noopener noreferrer');
+	});
+	*/
+	function safeOpen(url)
+	{ 
+		if(confirm("You are being redirected to a third party site. Continue?"))
+		{
+		let win = window.open(url,"_blank","noopener noreferrer");
+		if (win) win.opener = null;
+		}
+	}
+	</script>
+	
+  <script src="/public/js/validate/jquery.validate.js"></script>
+  <script src="/public/js/validate/additional-methods.js"></script>
+  <script src="/public/js/popper.min.js"></script>
+  <script src="/public/js/bootstrap.bundle.min.js"></script>
+  <script src="/public/js/jquery-confirm.min.js"></script>  
+  <script src="/public/js/owl.carousel.min.js"></script>
+  <script src="/public/js/select2.min.js"></script>
+  
+  
+  
+<script type="text/javascript" language="javascript" src="/public/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.flash.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/jszip.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/vfs_fonts.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/pdfmake.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.html5.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.print.min.js"></script>
+  
+
+  <script src="/public/js/custom.js"></script>
+  
+  <script type="text/javascript">
+  
+  
+   
+  function showmessage(message){
+    swal(message);
+  }
+  $(document).ready(function(){
+    $(".font-size-dropdown").click(function(e){
+      e.stopPropagation();
+    });
+    
+    $(".inptEdt, .form-control[type=file]").parent().addClass("position-relative");
+    $("select.form-control").addClass("form-select");
+
+    $('.select2').select2();
+
+    $('.select2').one('select2:open', function(e) {
+      $('input.select2-search__field').prop('placeholder', ' Search...');
+    });
+    
+  });
+
+  function validateForm() {
+    var result=confirm("Are you sure you want to reject this form?");
+    if(result) {
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+  }
+  function validateApprove() {
+    var result=confirm("Are you sure you want to approve this form?");
+    if(result) {
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+  }
+  </script>
+  
+<script type="text/javascript">
+    
+    var url = "https://dwbdnc.dosje.gov.in/lang/change";
+    
+    $(".changeLang").change(function(){ 
+        window.location.href = url + "?lang="+ $(this).val();
+    });
+    
+</script>
+
+<script>
+function myFunction(event) {
+        var btn = event.target; // The button that was clicked
+        var moreTextId = btn.getAttribute("data-more-id"); // Get the ID of the related more-content section
+        var moreText = document.getElementById(moreTextId); // The related more-content section
+
+        if (moreText.style.display === "block") {
+            btn.innerHTML = "Read more";
+            moreText.style.display = "none";
+        } else {
+            btn.innerHTML = "Read less";
+            moreText.style.display = "block";
+        }
+    }
+	
+	
+	function showState(event) {
+        var area = event.target;
+        var stateName = area.getAttribute('data-state');
+        var stateInfo = document.getElementById('state-info');
+
+        stateInfo.innerHTML = stateName;
+        stateInfo.style.display = 'block';
+        stateInfo.style.left = event.pageX + 'px';
+        stateInfo.style.top = event.pageY + 'px';
+
+        area.classList.add('highlight');
+    }
+
+    function hideState(event) {
+        var area = event.target;
+        var stateInfo = document.getElementById('state-info');
+
+        stateInfo.style.display = 'none';
+        area.classList.remove('highlight');
+    }
+		
+</script>
+
+<script>
+    $(document).ready(function() {
+        // Get the URL fragment
+        var hash = window.location.hash;
+
+        // If there's a hash, activate the corresponding tab
+        if (hash) {
+            $('.nav-tabs a[href="' + hash + '"]').tab('show');
+        }
+
+        // Update the URL when a tab is shown
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+            window.location.hash = e.target.hash;
+        });
+    });
+</script>
+
+</body></html>

@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-76",
+  "scheme_name": "PM Surya Ghar: Muft Bijli Yojana",
+  "scheme_url": "https://pmsuryaghar.gov.in/",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "PM Surya Ghar: Muft Bijli Yojana is a Government of India scheme launched to promote rooftop solar installations in residential households. With an investment of over Rs. 75,000 crores, it aims to provide up to 300 units of free electricity per month to 1 crore households. The scheme offers financial subsidies for solar rooftop systems and enables consumers to benefit from reduced electricity bills through solar energy generation.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "residential households"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote sustainable development and people's well-being through solar energy adoption",
+    "Provide up to 300 units of free electricity per month to beneficiary households",
+    "Install rooftop solar systems in 1 crore households across India",
+    "Reduce dependence on grid electricity and lower household electricity expenses",
+    "Encourage renewable energy usage at the residential level"
+  ],
+  "eligibility": "Residential households across India are eligible to apply for the PM Surya Ghar: Muft Bijli Yojana. Applicants must register on the national portal and provide valid consumer details including mobile number, name, email, address, state, district, PIN code, and electricity consumer account number. Applications can be submitted either directly by the consumer or through empanelled vendors.",
+  "benefits": "Financial subsidy for residential households: Rs. 30,000 per kW up to 2 kW, Rs. 18,000 per kW for additional capacity up to 3 kW, and a total subsidy of Rs. 78,000 for systems larger than 3 kW. For Group Housing Societies (GHS) and Resident Welfare Associations (RWA), subsidy is Rs. 18,000 per kW for common facilities (including EV charging) up to 500 kW capacity. Special states receive an additional 10% subsidy per kW. Beneficiaries also receive up to 300 units of free electricity monthly after installation.",
+  "financial_support": "The scheme provides a central financial subsidy for rooftop solar installations. For individual households: Rs. 30,000 per kW for the first 2 kW, Rs. 18,000 per kW for the next kW (up to 3 kW), and a capped total subsidy of Rs. 78,000 for systems above 3 kW. For GHS/RWA, Rs. 18,000 per kW is provided for common facilities up to 500 kW. Special states receive an additional 10% subsidy per kW. The subsidy is disbursed after successful installation and verification.",
+  "fund_size_crores": "75000",
+  "grant_amount_per_entity": "Rs. 78,000 (capped subsidy for systems above 3 kW)",
+  "application_process": "Step 01: Visit the website at https://pmsuryaghar.gov.in/. Step 02: Go to consumer page and select 'Apply Now' or open the Login dropdown and select 'Consumer Login'. Step 03: Enter valid registered consumer mobile number, enter captcha, select 'Yes, I have read all the guidelines of PM Surya Ghar Muft Bijli Yojana', then click 'Verify'. Step 04: Enter valid mobile OTP received via SMS and click 'Login'. Step 05: After successful login, enter profile details (consumer name, email, address, state, district, PIN code) and click 'Save'. Step 06: Submit application either by clicking 'Apply for Solar Rooftop' or through vendor selection. Select state, district, electricity distribution company/utility, enter consumer account number, click 'Fetch Details', then click 'Next' to start filling the application.",
+  "application_portal_url": "https://pmsuryaghar.gov.in/",
+  "required_documents": [
+    "Valid consumer mobile number",
+    "Email ID",
+    "Consumer name",
+    "Address",
+    "State",
+    "District",
+    "PIN code",
+    "Electricity consumer account number"
+  ],
+  "deadlines": "Scheme closes on 31 March 2027",
+  "implementing_agency": "Ministry of New and Renewable Energy",
+  "contact_details": "",
+  "caveats": [
+    "The provision allowing installation submission of applications with repeated module/inverter serial numbers based on vendor undertakings will be discontinued from 26 May 2026",
+    "Subsidy for systems larger than 3 kW is capped at Rs. 78,000",
+    "Additional 10% subsidy per kW is applicable only for special states"
+  ],
+  "source_cited_notes": [
+    "https://pmsuryaghar.gov.in/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:20:44.975628+00:00"
+}

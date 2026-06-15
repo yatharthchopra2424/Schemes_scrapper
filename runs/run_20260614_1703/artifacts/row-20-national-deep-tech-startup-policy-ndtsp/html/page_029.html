@@ -1,0 +1,260 @@
+<html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Science and Technology Partnership Dashboard</title>
+
+    <!-- Local CSS with nonce -->
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/coreui.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/jquery.dataTables.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/home.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/simplebar.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/style.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/home_custom.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/owl.carousel.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/owl.theme.default.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/all.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/select2.min.css" nonce="">
+    <link rel="stylesheet" href="https://psa.gov.in/sti-partnership/assets/css/jquery-ui.css" nonce="">
+    
+    
+</head>
+<body>
+<main>
+    <header>
+        <div class="logo">
+            <a href="https://www.psa.gov.in/">
+                <img src="https://psa.gov.in/sti-partnership/assets/img/PSA25Logo.png" alt="PSA logo">
+            </a>
+        </div>
+        <nav>
+            <div class="actions">
+                <a href="https://psa.gov.in/sti-partnership/login">
+                    <button class="login">Login</button>
+                </a>
+            </div>
+        </nav>
+    </header>
+
+    <section class="hero">
+        <h1>India's International Science and Technology Partnerships (STP) Dashboard</h1>
+        <p>This Page is a repository of dashboards that provide an overview of India's Science and Technology partnership landscape.</p>
+        <div class="countries_dropdown">
+            STP Details on 
+            <select id="countrySelect" aria-label="Select feature to view" class="dropdowncolor">
+                <option value="uk">India - United Kingdom</option>
+                <option value="france">India - France</option>
+                <option value="australia">India - Australia</option>
+            </select> 
+            are as follows:
+        </div>
+    </section>
+
+    <section class="metrics pt-3" id="metrics">
+        <h2 class="mt-3">Scientific Collaboration Metrics</h2>
+        <div class="cards metrics-cards d-flex flex-wrap gap-3">
+            <div class="card project_card text-light metric_dev">
+                <div class="card-header"><h3>Total Projects</h3></div>
+                <p class="value" id="project_count">143</p>
+                <span class="arrow">▾</span>
+                <small class="fontbold">
+                  Completed: <span id="completed_project_count">77</span> <br>
+                  In Progress: <span id="in_progress_project_count">65</span> <br>
+                  Planned: <span id="yet_to_start_project_count">1</span>
+                </small>
+            </div>
+            <div class="card projectvalue_card text-light metric_dev">
+              <div class="card-header"><h3>Projects Value</h3></div>
+              <p class="value" id="project_value_count">₹ 5,447.76 M</p>
+              <p class="value" id="gbp_project_value_count">£ 58.67 M</p>
+              <!--<span class="arrow">▾</span>-->
+              <!--<small class="fontbold"></small>-->
+            </div>
+        
+            <div class="card ministry_card text-light metric_dev">
+              <div class="card-header"><h3>Funding Agencies</h3></div>
+              <p class="value" id="ministries_count">43</p>
+              <span class="arrow">▾</span>
+              <small class="fontbold">United Kingdom: 27<br>India: 16<br></small>
+            </div>
+            
+            <div class="card institution_card text-light metric_dev">
+              <div class="card-header"><h3>Implementing Partner</h3></div>
+              <p class="value" id="institutions_count">182</p>
+              <span class="arrow">▾</span>
+              <small class="fontbold">India: 107<br>United Kingdom: 75<br></small>
+            </div>
+        </div>
+    </section>
+
+    <section class="insights p-3 pt-3" id="insights">
+        <h2 class="p-3">Collaboration Goals Overview</h2>
+        <div class="goals-carousel-container p-5">
+            <div class="goals-carousel" id="goals-carousel">
+      <div class="goals-carousel-slide active" style="display: block;">
+        <div class="card mb-4">
+          <div class="card-header">SDG Goals</div>
+          <div class="card-body">
+            <div class="row g-3 align-items-center">
+              <div class="col-md-5"><canvas id="goal-chart-0" width="527" height="350" style="display: block; box-sizing: border-box; height: 350px; width: 527px;"></canvas></div>
+              <div class="col-md-7 d-flex align-items-center">
+                <div class="goals-scroll-content"><div id="goal-labels-0"><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #e7ebe8;"></div><span><strong> Goal 1 - No Poverty </strong>: 2 Projects (1.63%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #3ada94;"></div><span><strong>Goal 2 - Zero Hunger</strong>: 3 Projects (2.44%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #0f310f;"></div><span><strong>Goal 3 - Good health and well-being</strong>: 45 Projects (36.59%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #827649;"></div><span><strong>Goal 4 - Quality Education</strong>: 3 Projects (2.44%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #8e4c35;"></div><span><strong>Goal 5 - Gender Equality</strong>: 1 Projects (0.81%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #3138ef;"></div><span><strong>Goal 6 - Clean Water and Sanitation</strong>: 8 Projects (6.50%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #578737;"></div><span><strong>Goal 7 - Affordable and Clean Energy</strong>: 11 Projects (8.94%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #0b38ea;"></div><span><strong>Goal 8 - Decent Work and Economic Growth</strong>: 4 Projects (3.25%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #ce65ea;"></div><span><strong>Goal 9 - Industry, Innovation, and Infrastructure</strong>: 7 Projects (5.69%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #53c273;"></div><span><strong>Goal 10 - Reduce Inequalities</strong>: 2 Projects (1.63%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #6d53d8;"></div><span><strong>Goal 11 - Sustainable Cities and Communities</strong>: 13 Projects (10.57%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #e6a018;"></div><span><strong>Goal 12 - Responsible Consumption and Production</strong>: 2 Projects (1.63%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #ee4b4d;"></div><span><strong>Goal 13 - Climate Action</strong>: 10 Projects (8.13%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #74de80;"></div><span><strong>Goal 14 - Life Below Water</strong>: 4 Projects (3.25%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #5c3969;"></div><span><strong>Goal 15 - Life on Land</strong>: 1 Projects (0.81%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #81ab7b;"></div><span><strong>Goal 16 - Peace, Justice, and Strong Institutions</strong>: 1 Projects (0.81%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #0fa883;"></div><span><strong>Goal 17 - Partnership for the Goals</strong>: 6 Projects (4.88%)</span></div></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="goals-carousel-slide" style="display: none;">
+        <div class="card mb-4">
+          <div class="card-header">Technology Areas of Cooperation</div>
+          <div class="card-body">
+            <div class="row g-3 align-items-center">
+              <div class="col-md-5"><canvas id="goal-chart-1" height="0" style="display: block; box-sizing: border-box; height: 0px; width: 0px;" width="0"></canvas></div>
+              <div class="col-md-7 d-flex align-items-center">
+                <div class="goals-scroll-content"><div id="goal-labels-1"><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #97325e;"></div><span><strong>DataScience</strong>: 3 Projects (21.43%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #76e377;"></div><span><strong>Telecoms</strong>: 4 Projects (28.57%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #735fc1;"></div><span><strong>Artificial Intelligence</strong>: 3 Projects (21.43%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #14f1a3;"></div><span><strong>AgriTech</strong>: 1 Projects (7.14%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #c6cd9a;"></div><span><strong>Engineering Biology</strong>: 2 Projects (14.29%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #1746f9;"></div><span><strong>Semiconductors</strong>: 1 Projects (7.14%)</span></div></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div class="goals-carousel-slide" style="display: none;">
+        <div class="card mb-4">
+          <div class="card-header">Science and Innovation Council (SIC) Goals </div>
+          <div class="card-body">
+            <div class="row g-3 align-items-center">
+              <div class="col-md-5"><canvas id="goal-chart-2" height="0" style="display: block; box-sizing: border-box; height: 0px; width: 0px;" width="0"></canvas></div>
+              <div class="col-md-7 d-flex align-items-center">
+                <div class="goals-scroll-content"><div id="goal-labels-2"><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #d373c8;"></div><span><strong>Facilitating the 4th Industrial Revolution</strong>: 5 Projects (5.43%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #d0d9b7;"></div><span><strong>Achieving Net Zero</strong>: 12 Projects (13.04%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #7881a9;"></div><span><strong>Innovation Translation &amp; Commercialisation</strong>: 6 Projects (6.52%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #a8fef1;"></div><span><strong>Building healthy societies and environments</strong>: 66 Projects (71.74%)</span></div><div class="goal-label-row"><div class="goal-color-box" style="--box-color: #1174cc;"></div><span><strong>Fostering talent</strong>: 3 Projects (3.26%)</span></div></div></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div></div>
+            <div class="carousel-dots" id="goals-carousel-dots"><span class="carousel-dot active" data-slide="0"></span><span class="carousel-dot" data-slide="1"></span><span class="carousel-dot" data-slide="2"></span></div>
+            <div class="carousel-nav goals-nav">
+                <button class="goals-carousel-prev nav-btn" aria-label="Previous goals">‹</button>
+                <button class="goals-carousel-next nav-btn" aria-label="Next goals">›</button>
+            </div>
+        </div>
+    </section>
+
+    <section class="events p-3 pt-3" id="events">
+        <div class="events-container p-5">
+            <h2 class="events_title">Highlight Events</h2>
+            <div class="carousel-container">
+                <div class="event-cards d-flex gap-3 flex-wrap" id="event-cards">
+      <div class="event-card p-3" data-type="multi-lateral" data-status="completed" style="display: none;">
+        <h3>Dialogue 2023: Expanding Science and Technology Horizons</h3>
+        <div class="badge-container">
+          <span class="badge">Completed</span>
+        </div>
+        <p><strong><i class="fas fa-calendar"></i></strong> 18 November 2023 - 18 November 2023</p>
+        <p><strong><i class="fas fa-map-marker-alt"></i></strong> Indian Institute of Science , Bengaluru</p>
+        <p>Recognising the importance of science, technology and innovation in addressing socioeconomic challenges and existential threats like climate change, the summit focused on ethical challenges related to disruptive technologies, the role of international collaborations, and the need to recognise diverse knowledge systems.</p>
+      </div>
+    
+      <div class="event-card p-3" data-type="multi-lateral" data-status="completed" style="display: none;">
+        <h3>Technology Dialogue, 2025</h3>
+        <div class="badge-container">
+          <span class="badge">Completed</span>
+        </div>
+        <p><strong><i class="fas fa-calendar"></i></strong> 24 January 2025 - 25 January 2025</p>
+        <p><strong><i class="fas fa-map-marker-alt"></i></strong> Indian Institute of Science, Bengaluru</p>
+        <p>Office of the Principal Scientific Adviser (PSA) to the Government of India, Indian Institute of Science (IISc) and the Ministry of External Affairs (MEA) jointly organised an international technology policy summit titled "Technology Dialogue 2025: Exploring New Frontiers in Technology Diplomacy" on 24 and 25 January 2025 in IISc, Bengaluru.</p>
+      </div>
+    
+      <div class="event-card p-3" data-type="multi-lateral" data-status="completed" style="display: none;">
+        <h3>ESTIC - 2025</h3>
+        <div class="badge-container">
+          <span class="badge">Completed</span>
+        </div>
+        <p><strong><i class="fas fa-calendar"></i></strong> 3 November 2025 - 5 November 2025</p>
+        <p><strong><i class="fas fa-map-marker-alt"></i></strong> Bharat Mandapam, New Delhi</p>
+        <p>The Emerging Science, Technology, and Innovation Conclave (ESTIC) is India's premier STI platform, bringing together ministries, innovators, and global visionaries</p>
+      </div>
+    
+      <div class="event-card p-3" data-type="domestic" data-status="completed" style="display: none;">
+        <h3>International S&amp;T Clusters' Conference 2025</h3>
+        <div class="badge-container">
+          <span class="badge">Completed</span>
+        </div>
+        <p><strong><i class="fas fa-calendar"></i></strong> 4 December 2025 - 5 December 2025</p>
+        <p><strong><i class="fas fa-map-marker-alt"></i></strong> Dr. Ambedkar International Center (DAIC), 15 Janpath, New Delhi</p>
+        <p>This two day conference aims to enhance global connectivity and foster cross border collaborations to solve some of the most pressing global challenges through science and technology.</p>
+      </div>
+    
+      <div class="event-card p-3" data-type="multi-lateral" data-status="completed" style="display: none;">
+        <h3>AI Impact Summit - 2026</h3>
+        <div class="badge-container">
+          <span class="badge">Completed</span>
+        </div>
+        <p><strong><i class="fas fa-calendar"></i></strong> 19 February 2026 - 20 February 2026</p>
+        <p><strong><i class="fas fa-map-marker-alt"></i></strong> New Delhi</p>
+        <p>India will host the AI Impact Summit in 2026, building on the momentum of Bletchley Park, Seoul, and Paris to shape a future-oriented agenda for inclusive, responsible and impactful AI cooperation.</p>
+      </div>
+    </div>
+                <div class="carousel-nav events-nav">
+                    <button class="events-carousel-prev nav-btn" aria-label="Previous events" disabled="">‹</button>
+                    <button class="events-carousel-next nav-btn" aria-label="Next events" disabled="">›</button>
+                </div>
+            </div>
+            <div class="filters mt-3">
+                <button data-filter="all">All Events</button>
+                <button data-filter="completed">Completed</button>
+                <button data-filter="upcoming" class="active">Upcoming</button>
+            </div>
+        </div>
+    </section>
+    <footer class="main-footer">
+    <div class="footer-top">
+      
+     <div class="footer-links">
+        <h4 class="footer_center">Quick Links</h4>
+        <ul class="grid">
+            <li><a href="https://www.psa.gov.in/about-us">About PSA Office</a></li>
+            <li><a href="https://www.psa.gov.in/contact-us">Contact Us</a></li>
+            <li><a href="https://www.psa.gov.in/innerPage/privacy-policy/142">Privacy Policy</a></li>
+            <li><a href="https://www.psa.gov.in/innerPage/copyright-policy/141">Copyright Policy</a></li>
+        </ul>
+    </div>
+
+      <div class="footer-contact">
+        <h4>Contact Information</h4>
+        <p><strong>Email:</strong>office-psa[at]nic[dot]in</p>
+        <p><strong>Phone:</strong> 011 24011868</p>
+        <p><strong>Address:</strong> Room No. 33027, 3rd Floor, Kartavya Bhavan 3, Central Secretariat, New Delhi - 110001</p>
+      </div>
+    </div>
+
+    <div class="footer-bottom">
+      <p>Office of the Principal Scientific Adviser to the Government of India © <span id="year"></span></p>
+    </div>
+  </footer>
+</main>
+
+<!-- Local JS with nonce -->
+<script src="https://psa.gov.in/sti-partnership/assets/js/coreui.bundle.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/bootstrap.bundle.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/jquery-3.6.0.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/jquery.dataTables.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/jquery-ui.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/chart.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/chartjs-plugin.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/select2.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/owl.carousel.min.js" nonce=""></script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/jquery.min.js" nonce=""></script>
+<script nonce="">window.HOME_BASE_URL = "https:\/\/psa.gov.in\/sti-partnership\/";</script>
+<script src="https://psa.gov.in/sti-partnership/assets/js/home-custom-ss.js" nonce=""></script>
+
+
+<!-- External JS (whitelisted in CSP, no nonce) -->
+<!--<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>-->
+<!--<script src="https://cdn.jsdelivr.net/npm/chartjs-plugin-datalabels@2.0.0"></script>-->
+<!--<script src="https://cdn.jsdelivr.net/npm/select2@4.0.13/dist/js/select2.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.min.js"></script>-->
+<!--<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" ></script>-->
+
+
+
+
+
+</body></html>

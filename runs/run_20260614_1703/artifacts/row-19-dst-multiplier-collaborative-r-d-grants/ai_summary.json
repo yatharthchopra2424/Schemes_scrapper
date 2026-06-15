@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-19",
+  "scheme_name": "DST Multiplier & Collaborative R&D Grants",
+  "scheme_url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/multiplier-grants-scheme-mgs",
+  "ministry_or_category": "Science & Technology",
+  "overview": "The Multiplier Grants Scheme (MGS) is implemented by the Department of Electronics and Information Technology (DeitY) to encourage collaborative R&D between industry and academic/R&D institutions for the development of commercially viable products and packages. Under the scheme, if industry supports R&D for product development at the institution level, the government provides financial support up to twice the amount contributed by industry. Proposals must be submitted jointly by industry and academic/R&D institutions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "incubator",
+    "academia",
+    "accelerator",
+    "R&D institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encourage collaborative R&D between industry and academics/R&D institutions",
+    "Develop products and packages that can be commercialized at institution level",
+    "Provide government financial support up to twice the industry contribution",
+    "Support projects in electronics and information technology",
+    "Promote capacity building in the Computer Sciences and Information Technology domain"
+  ],
+  "eligibility": "Startup, Incubator/Academia/Accelerator having projects in electronics & information technology",
+  "benefits": "Government provides financial support up to twice the amount contributed by industry; grants are given to academic/R&D institution(s) only; supports collaborative R&D for commercializable products; funding duration preferably less than 2 years for individual industry and 3 years for industry consortium.",
+  "financial_support": "The Government grants, for individual industry, would be limited to a maximum of Rs. 2.0 Crores per project and the duration of each project should, preferably, be less than 2 years; for industry consortium these figures would be Rs. 4.0 Crores and 3 years respectively. The contribution of industry and grant-in-aid from DeitY will be given to academic/R&D institution(s) only.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs. 2.0 Crores per project for individual industry; Rs. 4.0 Crores for industry consortium",
+  "application_process": "1. Identify a collaborative R&D project between industry and academic/R&D institution in electronics & information technology. 2. Ensure the startup/incubator/academia/accelerator has a project in electronics & IT. 3. Prepare a joint proposal from industry and institution. 4. Submit the proposal jointly by industry and academic/R&D institution. 5. Await evaluation and approval based on commercialization potential and eligibility.",
+  "application_portal_url": "https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/multiplier-grants-scheme-mgs",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Electronics and Information Technology (DeitY), Govt of India",
+  "contact_details": "",
+  "caveats": [
+    "The contribution of industry and grant-in-aid from DeitY will be given to academic/R&D institution(s) only",
+    "For individual industry, project duration should preferably be less than 2 years",
+    "For industry consortium, project duration should preferably be less than 3 years",
+    "Proposals must be submitted jointly by industry and academic/R&D institution"
+  ],
+  "source_cited_notes": [
+    "https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/multiplier-grants-scheme-mgs"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:55:39.517324+00:00"
+}

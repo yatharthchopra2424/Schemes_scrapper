@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-20",
+  "scheme_name": "National Deep Tech Startup Policy (NDTSP)",
+  "scheme_url": "https://www.psa.gov.in/deep-tech-policy",
+  "ministry_or_category": "Deep Tech & R&D",
+  "overview": "National Deep Tech Startup Policy (NDTSP) aims to support and nurture the unique requirements of Deep Tech startups in India. It establishes a foundational framework for India’s emerging deep tech ecosystem, anchored on four pillars: Ensuring the Security of India's Economic Future, Facilitating a Seamless Transition to a Knowledge Driven Economy, Bolstering National Capability and Sovereignty through the Atmanirbhar Bharat Imperative, and Fostering Ethical Innovation. The policy was developed following a recommendation by the Prime Minister's Science, Technology & Innovation Advisory Council (PM-STIAC) in July 2022 and involved a high-level NDTSP Consortium and Working Group for policy design and coordination.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "deep tech startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensuring the Security of India's Economic Future",
+    "Facilitating a Seamless Transition to a Knowledge Driven Economy",
+    "Bolstering National Capability and Sovereignty through the Atmanirbhar Bharat Imperative",
+    "Fostering Ethical Innovation",
+    "Address systemic challenges through targeted policy interventions",
+    "Foster an enabling environment for innovation-led growth",
+    "Establish a foundational framework for India’s emerging deep tech ecosystem",
+    "Support deep tech startups with strategic incentives, patient capital, and robust intellectual property (IP) protection"
+  ],
+  "eligibility": "Deep tech startups are defined as entities working on producing a solution based on new knowledge/advancements within a scientific or engineering discipline or multiple disciplines, which is yet to be developed or is in the process of being developed; having a high percentage of expenditure on research and development (R&D) activities as a percentage of revenue/funding; owning or being in the process of creating significant novel intellectual property (IP) and taking steps to commercialize the same; and facing extended development timelines, long gestation periods, high capital and infrastructure requirements, and carrying large technical or scientific uncertainty.",
+  "benefits": "The policy provides targeted support including financial incentives and regulatory measures for high-risk, high-impact startups through mechanisms such as the Deep Tech Fund of Funds (FoF), regulatory sandboxes, Deep Tech Translation Program, IP regime alignment, and Bharat Deep Tech Talent Pool. It enables access to venture capital, pilot debt-based funding, patient and global capital, and flexibility in government funding caps. It also supports IP registration, legal support, dispute resolution, faster examinations, reduced fees, patent valuation support, institutional capacity building, centralized IP database, IP insurance, and global protection frameworks.",
+  "financial_support": "The Deep Tech Fund of Funds (FoF) under NDTSP is supported by the Startup India Fund of Funds 2.0 with a corpus of ₹10,000 crore to mobilize venture capital, with expanded focus on deep tech startups. Operational guidelines incorporate flexibilities tailored to the unique needs of deep tech, including pilot debt-based funding and attraction of patient and global capital.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "",
+  "application_process": "",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Office of the Principal Scientific Adviser (PSA) to the Government of India",
+  "contact_details": "",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://psa.gov.in/deep-tech-policy",
+    "https://psa.gov.in/CMS/web/sites/default/files/2026-05/DeepTech%20Startup%20Definition%20Notification.pdf",
+    "https://psa.gov.in/CMS/web/sites/default/files/2026-05/FoF%20Notification.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:53:25.488436+00:00"
+}

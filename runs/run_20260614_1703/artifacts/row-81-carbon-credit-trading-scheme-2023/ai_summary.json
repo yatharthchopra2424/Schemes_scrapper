@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-81",
+  "scheme_name": "Carbon Credit Trading Scheme 2023",
+  "scheme_url": "https://powermin.gov.in/",
+  "ministry_or_category": "Environment & Energy",
+  "overview": "The Carbon Credit Trading Scheme 2023 is a market-based mechanism under the Energy Conservation Act, 2001, designed to facilitate the trading of carbon credits to reduce greenhouse gas emissions. It enables designated consumers, including industries and power sector entities, to earn and trade Energy Savings Certificates (ESCerts) based on over-achievement of energy efficiency targets under the Perform, Achieve and Trade (PAT) scheme. The scheme aims to promote energy efficiency, reduce emissions intensity, and support India's climate goals through a transparent and tradable certificate system.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "power sector entities",
+    "designated consumers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote energy efficiency in energy-intensive industries",
+    "Reduce greenhouse gas emissions through market-based mechanisms",
+    "Enable trading of Energy Savings Certificates (ESCerts) for over-achievement of targets",
+    "Support India's Nationally Determined Contributions (NDCs) under the Paris Agreement",
+    "Encourage adoption of clean technologies and best practices in energy use",
+    "Create a transparent and credible carbon credit market in India",
+    "Facilitate cost-effective compliance with energy efficiency norms",
+    "Strengthen the Perform, Achieve and Trade (PAT) scheme through tradable instruments"
+  ],
+  "eligibility": "Designated consumers under the Energy Conservation Act, 2001, including industries and establishments in sectors notified by the Central Government (such as thermal power plants, cement, iron & steel, aluminium, fertilizers, pulp & paper, textiles, and petrochemicals), which are assigned specific energy consumption reduction targets under the PAT cycle, are eligible to participate in the Carbon Credit Trading Scheme. Entities that over-achieve their energy savings targets are issued Energy Savings Certificates (ESCerts) that can be traded on power exchanges.",
+  "benefits": "Financial benefits include revenue generation from sale of ESCerts; non-financial benefits include recognition for energy efficiency improvements, compliance with regulatory targets, enhanced corporate sustainability profile, access to green finance, and contribution to national climate goals. The scheme also promotes technology upgradation and operational efficiency in participating industries.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants. Instead, it enables financial gains through the market-based trading of Energy Savings Certificates (ESCerts) on power exchanges like Indian Energy Exchange (IEX) and Power Exchange India Ltd (PXIL). The value of ESCerts is determined by market demand and supply, with each certificate representing one metric tonne of oil equivalent (mtoe) of energy saved.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Designated consumers are notified of their energy consumption reduction targets under the relevant PAT cycle by the Bureau of Energy Efficiency (BEE). 2. Entities implement energy efficiency measures to achieve or exceed their targets. 3. Verified energy savings data is submitted to BEE through accredited energy auditors. 4. BEE issues Energy Savings Certificates (ESCerts) to entities that over-achieve their targets. 5. ESCerts are deposited in the entity's account on the Power Exchange platform. 6. Entities can sell ESCerts on power exchanges through registered brokers or directly. 7. Shortfall entities can buy ESCerts to meet compliance obligations. 8. Transactions are settled as per exchange rules, and certificates are transferred upon sale.",
+  "application_portal_url": "https://www.iexindia.com/",
+  "required_documents": [
+    "Verified energy audit report from an accredited energy auditor",
+    "Baseline and assessment year energy consumption data",
+    "Details of energy efficiency measures implemented",
+    "Form A (for target fulfillment) as per PAT scheme guidelines",
+    "Certificate of registration as a designated consumer under EC Act, 2001",
+    "Board resolution approving participation in PAT scheme",
+    "No objection certificate from the State Designated Agency (if applicable)"
+  ],
+  "deadlines": "Aligned with PAT cycle timelines; issuance and trading of ESCerts occur after target period completion and verification, typically on an annual basis per cycle.",
+  "implementing_agency": "Bureau of Energy Efficiency (BEE), Ministry of Power",
+  "contact_details": "Email: bee@beeindia.gov.in | Helpline: 1800-180-3333",
+  "caveats": [
+    "Only over-achievement of targets results in issuance of ESCerts; under-achievement requires purchasing certificates to comply",
+    "ESCerts have a validity period and must be traded within the compliance period",
+    "Trading is permitted only on recognized power exchanges (IEX, PXIL) under CERC regulations",
+    "The scheme is applicable only to notified designated consumers under the Energy Conservation Act, 2001",
+    "Double counting of ESCerts is strictly prohibited; each certificate can be traded only once"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/offerings/schemes-and-services/details/energy-conservation-energy-transition-EjN5MTMtQWa"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:28:17.860336+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-92",
+  "scheme_name": "National Action Plan for Drug Demand Reduction",
+  "scheme_url": "https://grants-msje.gov.in",
+  "ministry_or_category": "Healthcare & Social Welfare",
+  "overview": "The National Action Plan for Drug Demand Reduction (NAPDDR) is a centrally sponsored scheme under the Ministry of Social Justice and Empowerment aimed at reducing drug demand through preventive education, awareness generation, counseling, treatment, rehabilitation, and skill development for affected individuals. It supports NGOs and other eligible organizations in setting up and running District De-Addiction Centres (DDACs), Garima Greh (shelters for transgender persons), and other related interventions under its sub-schemes like SMILE and AVYAY. The scheme operates through the e-Anudaan portal for online submission of proposals, document verification, and grant-in-aid disbursement. It targets vulnerable populations including persons affected by substance abuse, transgender individuals, and senior citizens in need of care and protection.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "persons affected by substance abuse",
+    "transgender individuals",
+    "senior citizens",
+    "NGOs",
+    "charitable institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Preventive education and awareness generation against alcoholism and substance (drugs) abuse",
+    "Counseling, treatment, and rehabilitation of drug-dependent persons",
+    "Social reintegration of recovered individuals",
+    "Capacity building and skill development of beneficiaries under PM-DAKSH programme",
+    "Support for setting up and running District De-Addiction Centres (DDACs)",
+    "Support for Garima Greh (shelters for transgender persons) under SMILE scheme",
+    "Support for Senior Citizen Homes and Continuous Care Homes under AVYAY/IPSrC",
+    "Geo-tagging of ministry-supported institutions for better accessibility"
+  ],
+  "eligibility": "Eligible organisations include NGOs, Trusts, and Charitable institutions registered for at least two years with a minimum of two years' experience in the social sector at the time of applying. They must register on the NGO-DARPAN portal of NITI Aayog to obtain a NGO Unique ID before applying on the e-Anudaan portal. For specific sub-schemes like IPSrC under AVYAY, applicants must propose projects in designated Gap districts as per the tentative list annexed in the guidelines. Applications must be submitted exclusively through the e-Anudaan portal (https://grants-msje.gov.in/ngo-login) with complete documentation.",
+  "benefits": "Financial support in the form of Grant-in-Aid (GIA) for setting up and running projects such as DDACs, Garima Greh, Senior Citizen Homes, and Continuous Care Homes. Non-financial benefits include technical support, guidance on scheme guidelines, access to training under PM-DAKSH for beneficiaries, geo-tagging of facilities for better service accessibility, and facilitation of monitoring and inspection processes via the e-Anudaan portal. The portal automates application verification, checklist filling, inspection report scrutiny, screening, recommendation, financial approval, and GIA sanction.",
+  "financial_support": "Financial assistance is provided as Grant-in-Aid (GIA) to eligible NGOs for recurring and non-recurring expenses related to the establishment and operation of projects under NAPDDR, including DDACs, Garima Greh, Senior Citizen Homes, and Continuous Care Homes. The quantum of assistance, cost norms, and conditions are detailed in the respective scheme guidelines (e.g., AVYAY scheme guideline) uploaded on the Ministry's website and the e-Anudaan portal. Funds are disbursed in installments (e.g., 1st, 2nd, 3rd/final) based on project progress and submission of required documents and inspection reports.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the NGO-DARPAN portal (https://ngodarpan.gov.in) to obtain a NGO Unique ID. 2. Access the e-Anudaan portal at https://grants-msje.gov.in/ngo-login. 3. Log in using credentials and ensure NGO Unique ID and PAN are submitted during registration. 4. Navigate to the relevant scheme (e.g., NAPDDR, DDAC, Garima Greh, AVYAY/IPSrC) under 'Notice Inviting Applications'. 5. Fill in the application form with project details. 6. Upload prescribed documents including NGO Unique ID, PAN, project proposal, and other scheme-specific documents. 7. Submit the application before the deadline. 8. Await verification, inspection, and approval by district, state, and central authorities. 9. Upon approval, Grant-in-Aid will be sanctioned and disbursed in installments.",
+  "application_portal_url": "https://grants-msje.gov.in/ngo-login",
+  "required_documents": [
+    "NGO Unique ID from NGO-DARPAN portal",
+    "PAN of the organisation",
+    "Certificate of Incorporation / Registration",
+    "Project proposal in prescribed proforma",
+    "UDID number or UDID enrollment ID with disability certificate (for DDRS scheme from FY 2023-24)",
+    "Inspection report (where applicable)",
+    "Financial statements and audit reports",
+    "Bank account details",
+    "Authorization letter from authorized signatory",
+    "Details of beneficiaries (for ongoing projects)"
+  ],
+  "deadlines": "Varies by scheme and notice; e.g., applications for new projects under IPSrC/AVYAY in Gap districts were accepted from 01st July 2024 till 15th August 2024 (as per one notice), while RRTC applications were accepted from 01st July 2024 till 31st July 2024. Deadlines are specified in individual notices; applicants must check the latest notice on the e-Anudaan portal.",
+  "implementing_agency": "Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, Government of India",
+  "contact_details": "Email: bharati.gusain@nic.in (for IPSrC/AVYAY queries), support[dot]ngo-msje[at]nic[dot]in (technical support), feedbackddrs[at]gmail[dot]com (DDRS scheme feedback)",
+  "caveats": [
+    "Applications must be submitted exclusively through the e-Anudaan portal; no other means of application shall be entertained.",
+    "For DDRS scheme from FY 2023-24, UDID number or UDID enrollment ID with disability certificate is mandatory; no grants will be released without it.",
+    "NGOs must first register on NGO-DARPAN portal and obtain a NGO Unique ID before applying on e-Anudaan.",
+    "The Ministry reserves the right to cancel notices, invite afresh proposals, or take final decisions on selection without assigning any reason.",
+    "Project proposals must conform to the prescribed proforma and scheme guidelines.",
+    "Some schemes are restricted to specific districts (e.g., Gap districts for AVYAY/IPSrC)."
+  ],
+  "source_cited_notes": [
+    "https://grants-msje.gov.in/",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/14471719837115.pdf",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/33281719834645.pdf",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/85831719577891.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:36:24.877475+00:00"
+}

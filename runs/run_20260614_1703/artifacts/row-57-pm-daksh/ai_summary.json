@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-57",
+  "scheme_name": "PM-DAKSH",
+  "scheme_url": "https://pmdaksh.dosje.gov.in",
+  "ministry_or_category": "Skill Development",
+  "overview": "PM-DAKSH (Pradhan Mantri Dakshta Aur Kushalta Sampann Hitgrahi) is a Central Sector Scheme launched by the Ministry of Social Justice and Empowerment to provide skill development training to marginalized groups including Scheduled Castes, Other Backward Classes, Safai Karamcharis, and Denotified Tribes. The scheme aims to enhance employability and income generation through short-term and long-term skill training programs aligned with industry requirements. It focuses on uplifting socio-economically disadvantaged communities by providing access to quality skills training and placement support.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "Scheduled Castes (SC)",
+    "Other Backward Classes (OBC)",
+    "Safai Karamcharis (including waste pickers)",
+    "Denotified Tribes (DNT)",
+    "Sem Nomadic Tribes",
+    "Manual Scavengers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide skill development training to target groups from marginalized communities",
+    "To enhance employability and livelihood opportunities through industry-aligned training",
+    "To promote inclusive growth by reducing socio-economic disparities",
+    "To support self-employment and wage employment after training completion",
+    "To strengthen the skill ecosystem through partnerships with accredited training providers",
+    "To monitor and ensure quality of training delivery and placement outcomes"
+  ],
+  "eligibility": "The scheme targets individuals belonging to Scheduled Castes (SC), Other Backward Classes (OBC), Safai Karamcharis (including waste pickers), Denotified Tribes (DNT), Sem Nomadic Tribes, and Manual Scavengers. Beneficiaries must be Indian citizens and fall within the age group of 18-45 years (relaxable for certain categories). Priority is given to those from economically weaker sections within these communities.",
+  "benefits": "Beneficiaries receive free skill development training in sectors such as IT, healthcare, hospitality, construction, and textiles, aligned with National Skills Qualification Framework (NSQF). Training includes provision of free course material, stipend during training (where applicable), and post-training placement assistance or support for self-employment. Successful trainees receive nationally recognized certificates upon completion.",
+  "financial_support": "The scheme provides 100% financial support for training costs, including course fees, training material, and stipends (where applicable), directly paid to empaneled training providers. There is no direct cash transfer to beneficiaries; instead, the government bears the entire cost of training through reimbursement to accredited institutions based on successful completion and placement outcomes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official PM-DAKSH portal at https://pmdaksh.dosje.gov.in 2. Click on the 'Beneficiary Registration' or 'Apply Now' section 3. Fill in the online application form with personal, educational, and category details 4. Upload required documents such as caste certificate, identity proof, and address proof 5. Submit the application and await verification 6. Upon approval, select an approved training center and course 7. Attend training as per schedule 8. Complete assessment and receive certification 9. Avail placement support or self-employment assistance",
+  "application_portal_url": "https://pmdaksh.dosje.gov.in",
+  "required_documents": [
+    "Caste Certificate (SC/OBC/DNT as applicable)",
+    "Identity Proof (Aadhaar Card, Voter ID, PAN, etc.)",
+    "Address Proof (Aadhaar, utility bill, ration card)",
+    "Age Proof (Birth Certificate, School Leaving Certificate)",
+    "Passport-sized Photographs",
+    "Mobile Number and Email ID for communication"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of training slots.",
+  "implementing_agency": "Ministry of Social Justice and Empowerment, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Training is provided only through empaneled and accredited training partners",
+    "Placement or self-employment support is not guaranteed and depends on market conditions and individual performance",
+    "Beneficiaries must maintain minimum attendance as prescribed by the training provider",
+    "False information or document forgery leads to disqualification and blacklisting"
+  ],
+  "source_cited_notes": [
+    "https://pmdaksh.dosje.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:14:39.556223+00:00"
+}

@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-14",
+  "scheme_name": "NIDHI Seed Support",
+  "scheme_url": "https://nidhi.dst.gov.in/nidhissp/",
+  "ministry_or_category": "Science & Technology",
+  "overview": "The NIDHI Seed Support Program (NIDHI-SSP) is designed to provide timely financial assistance to incubators to support potential startups with promising ideas, innovations, and technologies. The key objective is to ensure availability of seed support through incubators for providing timely support to potential startups, enabling them to take their ventures to the next level and facilitate their success in the marketplace. The scheme also enables incubators to widen their pipeline of startups and share the success of their startups, ensuring long-term operational sustainability. This seed support acts as a bridge between the development and commercialization of innovative technologies, products, and services.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "students",
+    "researchers",
+    "innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure availability of seed support through incubators for providing timely support to potential startups",
+    "Enable startups to take their ventures to the next level and facilitate their success in the marketplace",
+    "Enable incubators to widen their pipeline of startups",
+    "Share the success of startups to ensure long-term operational sustainability of incubators",
+    "Act as a bridge between development and commercialization of innovative technologies, products, and services",
+    "Facilitate the success of incubatee startups in a relatively hassle-free manner"
+  ],
+  "eligibility": "For Incubators/TBIs: Applications for financial support will be accepted once per year through an online portal. A call for applications will be announced at the appropriate time. For Startups/Entrepreneurs: Innovators and startups can apply to one of the listed Startup Incubators/Technology Business Incubators (TBIs) for the NIDHI Seed Support Program (NIDHI-SSP). The Startup Incubators/TBIs announce periodic calls for applications, and innovators and startups are encouraged to visit the website of Startup Incubators regularly to stay informed about these calls.",
+  "benefits": "For Incubators/TBIs: The maximum financial support that will be made available to an incubator is INR 1000 lakh, which will be released in phases according to the needs, capacity, and capabilities of the incubator, following a proper process. For Startups/Entrepreneurs: The maximum support that will be given to a deserving startup is up to INR 100 lakh. This support will be provided to help startups get off the ground and grow, increasing their chances of success in the marketplace.",
+  "financial_support": "For Incubators/TBIs: The maximum financial support that will be made available to an incubator is INR 1000 lakh, which will be released in phases according to the needs, capacity, and capabilities of the incubator, following a proper process. For Startups/Entrepreneurs: The maximum support that will be given to a deserving startup is up to INR 100 lakh. This support will be provided to help startups get off the ground and grow, increasing their chances of success in the marketplace.",
+  "fund_size_crores": "1000",
+  "grant_amount_per_entity": "Up to INR 100 lakh per startup",
+  "application_process": "1. Applications for financial support will be accepted once per year through an online portal. 2. A call for applications will be announced at the appropriate time. 3. Innovators and startups can apply to one of the listed Startup Incubators/Technology Business Incubators (TBIs) for the NIDHI Seed Support Program (NIDHI-SSP). 4. The Startup Incubators/TBIs announce periodic calls for applications. 5. Innovators and startups are encouraged to visit the website of Startup Incubators regularly to stay informed about these calls.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Applications for financial support will be accepted once per year through an online portal. A call for applications will be announced at the appropriate time.",
+  "implementing_agency": "Department of Science and Technology (DST), Government of India",
+  "contact_details": "For more information, please write us an email on rajivarc[at]nic[dot]in",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://nidhi.dst.gov.in/nidhissp/",
+    "https://cdnbbsr.s3waas.gov.in/s312b1e42dc0746f22cf361267de07073f/uploads/2024/03/202403201078034720.pdf"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:49:19.775674+00:00"
+}

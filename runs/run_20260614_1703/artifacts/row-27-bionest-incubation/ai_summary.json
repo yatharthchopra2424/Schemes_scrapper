@@ -1,0 +1,38 @@
+{
+  "scheme_id": "row-27",
+  "scheme_name": "BioNEST Incubation",
+  "scheme_url": "https://birac.nic.in/bionest.php",
+  "ministry_or_category": "Biotechnology",
+  "overview": "BioNEST Incubation is a scheme launched by BIRAC to foster the biotech innovation ecosystem by providing incubation space to startups and entrepreneurs. It supports the establishment of bio-incubators either as standalone entities or as part of academia, offering access to high-end instrumentation, mentorship, IP and technology management, legal support, resource mobilization, and networking platforms. The program aims to connect industry and academia, enable knowledge exchange, and establish efficient governance models for bioincubators. As of the latest data, BIRAC has supported 73 bio-incubators creating a cumulative area of 1,045,470 sq. ft. for budding entrepreneurs.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support and encourage startups and entrepreneurs in the biotech sector",
+    "Connect Industry and Academia and enable interactions for efficient exchange of knowledge as well as facilitate technical and business mentorship",
+    "Provide enabling services and required mentorship for IP and Technology management, legal support, certifications, validation, regulatory requirements, resource mobilization and a unique networking platform",
+    "Establish an efficient governance model for bioincubators"
+  ],
+  "eligibility": "Indian institutions including Universities/ Research Institutes/ Colleges/ Management Institutes/ Business Schools/ Business Incubators/Biotech-Parks/State government S & T bodies/ Biotech State Councils/Research Hospitals. Incorporation of an Indian legal entity* is recommended for Bioincubators, however it is not a must for the new applicants especially from Indian Institutions including Universities/ Research Institutes/Colleges/ Management Institutes/ Business Schools etc. *Private Company/ Not for profit Section 8 company/Trust/Society - The legal entities under the relevant Law of India having at least 51% Indian (Citizen) stakeholders (owners/partners/trustees/members/associates/directors etc. as applicable).",
+  "benefits": "Incubation space for startups and entrepreneurs, connection between industry and academia for knowledge exchange, technical and business mentorship, enabling services for IP and Technology management, legal and contractual support, resource mobilization, networking platform, and establishment of an efficient governance model.",
+  "financial_support": "The BIRAC funding for the BIRAC BioNEST Centres will be done in alignment with the Government’s umbrella scheme ‘Biotechnology Research Innovation and Entrepreneurship Development’ (Bio-RIDE). The funding support from BIRAC will be in the form of grant in aid for both Capital and Operational expenses and will be based on the need and scope of the project as adjudged by the BioNEST committee. Private entities/Institutions - Minimum contribution of 30% will be required for the total project cost by the applicant. Funding to Government entities shall be done as per the following categories: Government Academic Institutions (Centre/State -owned): Support shall be provided as Grant-in-aid; Central Government owned Section -8 company (ies): Support shall be provided as Grant-in-aid; State Government -Owned Section -8 company(ies) /Councils: Minimum contribution of 50% from the applicant is required (for applications under Category 4).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Step-1 Go to home page of BIRAC and click on the provided link. Step-2 Click on 'Click here to Register'. Step-3 Click on 'Click here to register/apply for BioNEST'. Step-4 The below shown page will open. Step-5 Read the instructions carefully and click on 'next' at the bottom of the page. Step-6 Register by filling in the details. Step-7 After registration, link for password reset will be sent over email. Reset the password to get the login credentials. Step-8 Click on to 'Login/Register'. Step-9 Login using the credentials. Step-10 After login, below shown page will open. Click on 'BioNEST'. Step-11 Click on 'Click here to submit new proposal'. Step-12 The below shown page will open. Kindly fill in details required. Step-13 Kindly fill in 'Basic information'. Step-14 Click on 'Proposal Details'. Step-15 After clicking on 'Proposal Details', below page will open. Download the proposal form by clicking on 'Click here to download format'. Fill the form and convert into PDF and upload. Step-16 Click on 'Project coordinator/lead' and fill in the details. Step-17 Click on Final submit.",
+  "application_portal_url": "https://birac.nic.in/bionest.php",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Biotechnology Industry Research Assistance Council (BIRAC), a Public Sector Enterprise, set up by Department of Biotechnology (DBT), Government of India",
+  "contact_details": "Dr. Chhaya Chauhan, Incharge-Incubation; Email: sped4.birac@nic.in",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://birac.nic.in/bionest.php",
+    "https://birac.nic.in/webcontent/bionest_guidelines_2025.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T11:59:41.045958+00:00"
+}

@@ -1,0 +1,1723 @@
+<html xmlns="http://www.w3.org/1999/xhtml"><head>
+<!-- <meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" /> -->
+<!-- New addition 14-06-2022  -->
+    <meta charset="utf-8">
+	<meta name="theme-color" content="#f5a915">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="yandex-verification" content="1dfc0cfd57616a61">
+    <link rel="apple-touch-icon" href="images/favicon.png">
+    <link rel="icon" href="images/favicon.png">
+	<title>Home | eAnudaan </title>
+	<link href="https://fonts.googleapis.com/css2?family=Courier+Prime:wght@700&amp;family=Poppins:wght@300;400&amp;display=swap&amp;family=Material+Symbols+Outlined:opsz,wght,FILL,GRAD@20..48,100..700,0..1,-50..200" rel="stylesheet">
+	<link href="./css/bootstrap.min.css" rel="stylesheet">
+	<link href="./css/jquery.bxslider.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="css/owl.carousel.min.css">
+	<link href="./css/index-style.css" rel="stylesheet">
+	<link href="./css/responsive.css" rel="stylesheet">
+	<script src="/js/jquery-min3.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	
+	<link href="./css/msje/accesibility-style-v2.1.css" rel="stylesheet">
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@docsearch/css@3">
+	<link rel="canonical" href="https://getbootstrap.com/docs/5.3/examples/carousel/">
+	<link href="/css/msje/owl.carousel.min.css;jsessionid=6033D919DA376171C2545CC4C8DC910E" rel="stylesheet" type="text/css">
+	
+	<!-- Added By Rishabh start 15/02/2024 -->
+	<style>
+		div#cardHeight {
+		    height: 26em;
+		    color: #dc3545;
+		    font-weight: 600;
+		}
+		.news {
+		    max-height: 5em;
+		    overflow-y: scroll;
+		}
+	#maintenanceModal {
+      display: none;
+      position: fixed;
+      z-index: 9999;
+      left: 0;
+      top: 0;
+      width: 100%;
+      height: 100%;
+      overflow: auto;
+      background-color: rgba(0,0,0,0.5);
+    }
+
+    .modal-content {
+      background-color: #fff;
+<!--  margin: 15% auto;-->
+      padding: 20px;
+      border-radius: 8px;
+     <!-- width: 50%;-->
+      box-shadow: 0 4px 8px rgba(0,0,0,0.2);
+      text-align: center;
+    }
+
+    .modal-content h2 {
+      margin-top: 0;
+      color: #d9534f;
+    }
+
+    .close-btn {
+      margin-top: 20px;
+      background-color: #0275d8;
+      color: white;
+      padding: 10px 20px;
+      border: none;
+      border-radius: 5px;
+      cursor: pointer;
+      width: 80px; 
+      align-self: center;
+    }
+
+    .close-btn:hover {
+      background-color: #025aa5;
+    }
+	</style>
+
+ <style>
+
+#NMBA_backdrop {
+  
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background: rgba(0,0,0,0.5); /* semi-transparent black */
+  z-index: 9999;
+  display: none;
+}
+
+#NMBA_popup_div {
+  margin-left: 37.5%;
+  margin-top: 14%;
+  top: 220px;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 37%;
+  
+  background-color: #fff;
+  border: 1px solid #ddd;
+  border-radius: 5px;
+  box-shadow: 0 2px 8px rgba(170,170,170,0.8);
+  overflow: hidden;
+  z-index: 10000;
+  display: none;
+}
+
+#NMBA_popup_div .opens_button {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  width: 32px;
+  height: 32px;
+  border-radius: 50%;
+  background: #fff;
+  color: #000;
+  font-size: 18px;
+  font-weight: bold;
+  cursor: pointer;
+  line-height: 28px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0,0,0,0.5);
+}
+
+#NMBA_popup_div .popup_body img {
+  width: 100%; 
+  display: block;
+}
+</style>
+	<!-- end -->
+	
+<script type="text/javascript">
+ $(document).ready(function(){
+	  // Show popup on page load
+	  $('#notificationModal').fadeIn();
+
+	  // Close popup when button is clicked
+	  $('.close-btn').click(function(){
+	    $('#notificationModal').fadeOut();
+	  });
+	});
+</script>
+
+<script src="/js/msje/bootstrap.bundle.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+<script>document.getElementById('uw-widget-custom-trigger2').addEventListener('click', function() {    openMain();  });</script>
+
+
+</head>
+<body onload="javascript:offAutoComplete();">
+<!--<div id="notificationModal" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
+     background:rgba(0,0,0,0.4); z-index:9999; display:flex; align-items:center; justify-content:center;">
+  <div style="background:#fff; padding:20px 30px; border-radius:8px; max-width:785px; text-align:left; box-shadow:0 0 10px rgba(0,0,0,0.2);">
+    <p style="margin-bottom:20px; font-size:15px; line-height:1.5;">
+    <b>NGOs under IPSrC are requested to submit the Second Installment proposal for FY 2025-26 at the earliest.
+     The combined 60% grant (40% for FY 2025-26 + pending 20% of FY 2024-25) 
+     will be processed only after complete submission of the required documents.<br><br>
+    Note: For any technical support kindly contact to our helpdesk at Tel No. 011-24364461 (9:30 AM - 5:30 PM) e-Mail: support[dot]ngo-msje[at]nic[dot]in.</b>
+
+    </p>
+    <button class="close-btn" style="padding:6px 20px; margin-left: 300px; background:#007bff; border:none; color:#fff; border-radius:5px; cursor:pointer;">
+      Close
+    </button>
+  </div>
+</div>-->
+<div id="maintenanceModal">
+  <div class="modal-content">
+    <h2>Maintenance Activity Notice</h2>
+    <p>The <strong style="font-weight: bold;">e-Anudaan portal</strong> will be undergoing scheduled maintenance </p>
+    <p><strong style="font-weight: bold;">from 09:00 am on 10th May 2025</strong><br>
+    </p><p><strong style="font-weight: bold;">to 11:30 pm on 12th May 2025</strong>.</p>
+    <p>During this period, the e-Anudaan portal will not be accessible.</p>
+    <button class="close-btn">Close</button>
+  </div>
+</div>
+<nav class="navbar navbar-top py-1 bg-light" id="top">
+		<div class="container-xxl">
+		   <a class="navbar-brand d-none d-lg-flex align-items-center" href="https://socialjustice.gov.in/">
+			  <p class="m-0 lh-1 fw-normal fs-7 text-dark">Government of India, Ministry of Social Justice &amp; Empowerment</p>
+		   </a>
+		   <div class="d-lg-inline-block d-flex align-items-center justify-content-between md-width100">
+			  <div class="d-block">
+				 <a href="#users" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Skip to Main Content">
+					<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="16" fill="000" viewBox="0 0 53 38">
+					   <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-1" d="M0,26.125V23.749L28.123,0,53,23.749v2.375L28.363,2.375ZM0,38V35.624L28.123,11.875,53,35.624V38L28.363,14.25Z"></path>
+					</svg>
+				 </a>
+				 <a href="#" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center opacity-75 skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Screen Reader Access">
+				 <img src="images/screen-icon.png" alt="black and white" width="27">
+				 </a>   
+				 <a href="#" class="float-start opacity-75 black-white border rounded-circle" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Page Black &amp; White">
+					<img src="images/black-white.png" alt="black and white" width="37px" height="37px">
+				 </a>
+				 <div class="btn-group float-start mx-2" role="group" aria-label="Button group with nested dropdown">
+					<div class="btn-group" role="group" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Social Media Links">
+					   <button id="btnGroupDrop1" type="button" class="form-select rounded-pill" data-bs-toggle="dropdown" aria-expanded="false" onclick="this.blur();">
+					   <img src="images/fb-icon.png" alt="facebook" width="15">
+					   <img src="images/twitter-icon.png" alt="facebook" width="15">
+					   </button>
+					   <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="btnGroupDrop1">
+						  <li class="d-inline-block"><a target="_blank" href="https://www.facebook.com/MOSJANDE"><img src="images/fb-icon.png" alt="facebook" class="bg-white rounded-circle" width="40"></a></li>
+						  <li class="d-inline-block"><a target="_blank" href="https://twitter.com/msjegoi"><img src="images/twitter-icon.png" alt="facebook" class="bg-white rounded-circle" width="40"></a></li>
+					   </ul>
+					</div>
+				 </div>
+				 <div class="btn-group float-start me-2" role="group" aria-label="Button group with nested dropdown">
+					<div class="btn-group" role="group" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Font size increase decrease">
+					   <button id="btnGroupDrop2" type="button" class="form-select rounded-pill" data-bs-toggle="dropdown" aria-expanded="false">
+					   T<span class="fs-7">T</span>
+					   </button>
+					   <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="btnGroupDrop2">
+						  <li class="d-inline-block"><a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer" id="plusBtn" onclick="plus()">A+</a></li>
+						  <li class="d-inline-block"><a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer" id="defaultBtn">A</a></li>
+						  <li class="d-inline-block"><a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer" id="minusBtn" onclick="minus()">A-</a></li>
+					   </ul>
+					</div>
+				 </div>
+			  </div>
+			  <a target="_blank" href="https://amritmahotsav.nic.in/" class="float-end d-lg-none">
+			  <img src="images/logo-amrit2.png" alt="Azadi ka marit mahotsav" width="130">		
+			  </a>
+			  <a target="_blank" href="https://swachhbharat.mygov.in/" class="float-end me-2 d-none d-sm-block d-lg-none">
+			  <img src="images/swachh2.png" alt="Ek kadam swachchhata ki wor" width="150">		
+			  </a>
+		   </div>
+		</div>		
+		<!-- PMO BANNER 15-06-2022 -->
+		<!-- <div id="pmo_popup_div" style="position: absolute;width: 80%; z-index: 9999993;display: block; top: 220px; background-color: rgb(255, 255, 255); border: 1px solid rgb(221, 221, 221); border-radius: 5px;  box-shadow: rgb(170, 170, 170) 0px 2px 8px; overflow: hidden; margin: auto; left: 0;  right: 0;  text-align: center;">
+	       <!-- <button class="open_button" style="position: absolute; background: #fff;color: #000;right: 3px; top: 5px; border-radius: 70%; width: 32px; height: 32px; line-height: 10px; font-size: 18px; font-weight: bold; cursor: pointer;    box-shadow: 0 0 10px 0 #000;">X</button>
+	        <div class="popup_body" style=" ">
+		        <a style="curser:pointer;" href="https://cbpssubscriber.mygov.in/aff/tN4oLOw4rvczSMl0" target="_blank">
+		        	<img src="https://cbpssubscriber.mygov.in/assets/uploads/juGajmc1gOVBUtt5" alt="" style=" width: 100%; height:100%">
+	        	</a>
+	        	</div> 
+        </div> -->
+      <!--  <div id="pmo_popup_div" style="position: absolute;width: 56%;z-index: 9999993;display: block;top: 220px;background-color: rgb(255, 255, 255);border: 1px solid rgb(221, 221, 221);border-radius: 5px;box-shadow: rgb(170, 170, 170) 0px 2px 8px;overflow: hidden;margin: auto;left: 0;right: 0;/* text-align: center; */margin-left: 75px;margin-top: 80px;">
+        	<button class="open_button" style="position: absolute; background: #fff;color: #000;right: 3px; top: 5px; border-radius: 70%; width: 32px; height: 32px; line-height: 10px; font-size: 18px; font-weight: bold; cursor: pointer;    box-shadow: 0 0 10px 0 #000;">X</button>
+       		 <div class="popup_body" style=" ">
+       			 <a style="curser:pointer;" href="https://cbpssubscriber.mygov.in/aff/tN4oLOw4rvczSMl0" target="_blank">
+       				 <img src="https://cbpssubscriber.mygov.in/assets/uploads/juGajmc1gOVBUtt5" alt="" style="width: 100%;height:100%;z-index: 100px;">
+       			 </a>
+      		  </div>
+       </div> -->
+<!--<div id="NMBA_backdrop" style="display:none;position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,0.6);z-index: 9999992;">
+		</div>
+       <div id="NMBA_popup_div" style="position: absolute;width: 36%;z-index: 9999993;display: block;top: 220px;background-color: rgb(255, 255, 255);border: 1px solid rgb(221, 221, 221);border-radius: 5px;box-shadow: rgb(170, 170, 170) 0px 2px 8px;overflow: hidden;left: 0;right: 0;">
+        	<button class="opens_button"  onclick="closeNMBA()"   style="position: absolute; background: #fff;color: #000;right: 3px; top: 5px; border-radius: 70%; width: 32px; height: 32px; line-height: 10px; font-size: 18px; font-weight: bold; cursor: pointer;    box-shadow: 0 0 10px 0 #000;">X</button>
+       		 <div class="popup_body" style=" object-fit: cover">
+       			<img src="images/Backdrop.jpg" alt="" style="width: 100%;height:100%;z-index: 100px;">
+       			 
+		</div>
+       </div>-->
+
+<div id="NMBA_backdrop" style="display:none;position: fixed;top: 0;left: 0;width: 100%;height: 100%;background: rgba(0,0,0,0.6);z-index: 9999992;">
+		</div>
+       <div id="NMBA_popup_div" style="position: absolute;width: 36%;z-index: 9999993;display: block;top: 220px;background-color: rgb(255, 255, 255);border: 1px solid rgb(221, 221, 221);border-radius: 5px;box-shadow: rgb(170, 170, 170) 0px 2px 8px;overflow: hidden;left: 0;right: 0;">
+        	<button class="opens_button" onclick="closeNMBA()" style="position: absolute; background: #fff;color: #000;right: 3px; top: 5px; border-radius: 70%; width: 32px; height: 32px; line-height: 10px; font-size: 18px; font-weight: bold; cursor: pointer;    box-shadow: 0 0 10px 0 #000;">X</button>
+       		 <div class="popup_body" style=" object-fit: cover">
+<a href="https://youtube.com/live/vAdhVVUPfeU?feature=share" target="_blank">
+       			<img src="images/NMBABackdrop.jpg" alt="" style="width: 100%;height:100%;z-index: 100;">
+       			</a> 
+		</div>
+       </div>
+
+        <!-- End here 15062022 -->
+	 </nav>
+	 <nav class="navbar py-1 d-none d-lg-block bg-blue">
+		<div class="container-xxl">
+		   <a class="navbar-brand d-flex align-items-center" href="#">
+			  <img src="images/government-logo.png" alt="central gov logo" width="50">
+			  <div class="lh-1 fs-6 fw-ligh ms-2 text-dark">
+				 <p class="m-0 text-orangem-0 text-orange fw-bold mb-1 fs-2 logo">e-ANUDAAN</p>
+				 <p class="m-0 fs-7 text-white fw-normal">Department of Social Justice &amp; Empowerment</p>
+			  </div>
+		   </a>
+		   <div class="d-lg-inline-block d-flex align-items-center justify-content-between md-width100">
+			  <a target="_blank" href="https://amritmahotsav.nic.in/" class="float-end ms-4">
+			  <img src="images/logo-amrit.png" alt="Azadi ka marit mahotsav" width="130">		
+			  </a>
+			  <a target="_blank" href="https://swachhbharat.mygov.in/" class="float-end me-2 d-none d-sm-inline">
+			  <img src="images/swachh.png" alt="Ek kadam swachchhata ki wor" width="130">		
+			  </a>
+		   </div>
+		</div>
+	 </nav>
+	 <nav class="navbar py-0 sticky-top navbar-dark bg-dark navbar-expand-lg">
+		<div class="container-xxl justify-content-lg-end">
+		   <a class="navbar-brand d-flex align-items-center d-lg-none" href="#">
+			  <img src="images/government-logo.png" alt="central gov logo" width="40">
+			  <div class="lh-1 fs-6 fw-ligh ms-2">
+				 <p class="m-0 fw-bold mb-1 fs-4 logo">e-ANUDAAN</p>
+				 <p class="m-0 fs-7">Department of Social Justice &amp; Empowerment</p>
+			  </div>
+		   </a>
+		   <button class="navbar-toggler shadow-none px-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll" aria-controls="navbarScroll" aria-expanded="false" aria-label="Toggle navigation">
+		   <span class="navbar-toggler-icon"></span>
+		   </button>
+		   <div class="collapse navbar-collapse" id="navbarScroll">
+			  <ul class="navbar-nav me-auto my-lg-0 navbar-nav-scroll">
+				 <li class="nav-item">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block active" href="#">Home</a>
+				 </li>
+				 <li class="nav-item nav-item">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" data-bs-toggle="modal" data-bs-target="#schemes">Schemes</a>
+				 </li>
+
+				<li class="nav-item nav-item">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" data-bs-toggle="modal" data-bs-target="#omId">Office Memorandums</a>
+				 </li>
+				<!-- <li class="nav-item dropdown">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" id="nav-dropdown2" role="button" data-bs-toggle="dropdown" aria-expanded="false">Office Memorandums</a>
+					<ul class="dropdown-menu mt-0" aria-labelledby="nav-dropdown4">
+					<b> 
+									
+					 <a href='https://socialjustice.gov.in/writereaddata/UploadFile/14471719837115.pdf' target="_blank"> Notice inviting applications for new cases under AYVYAY in Gap Districts Published Date: 01 Jul 2024)</a><br/>						
+					 <a href='https://socialjustice.gov.in/writereaddata/UploadFile/33281719834645.pdf' target="_blank" >Extension of portal for AVYAY ONGOING cases for 2024-25 First installment till 15.7.2024  Published Date: 01 Jul 2024</a><br/>		 			 
+					 <a href='https://socialjustice.gov.in/writereaddata/UploadFile/85831719577891.pdf' target="_blank">Advertisement for new Regional Resource & Training Centres (RRTCs) under Sr Citizen Division of Ministry of Social Justice and Empowerment </a><br/>
+					 
+					 <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-odic-cost-norms-2021-22.pdf' target="_blank">Cost Norms of ODIC, CPLI & SLCA (2021-22) </a><br/>
+					 <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-irca-cost-norms-2021-22.pdf' target="_blank">Cost Norms of IRCA (2021-22) </a><br/>
+					 <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-napsrc-avyay.pdf' target="_blank">Atal Vayo Abhyuday Yojana (AVYAY) (2021-22) </a><br/>
+					 <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-avyay-corrigendum.pdf' target="_blank">CORRIGENDUM for Atal Vayo Abhyuday Yojana (AVYAY) (2021-22)</a><br/>
+					  </b>
+					  </ul>
+				 </li> -->
+				 <li class="nav-item dropdown">
+					<!-- <a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" id="nav-dropdown3" role="button" data-bs-toggle="dropdown" aria-expanded="false">How to Apply</a> -->
+                                        <a class="nav-link p-0 py-1 me-5 d-inline-block" href="ngo-registeration-guideline" target="_blank">How to Apply</a>
+					<!-- <ul class="dropdown-menu mt-0" aria-labelledby="nav-dropdown3">
+			            <li><a class="dropdown-item" href="#">Dropdown1</a></li>
+			            <li><a class="dropdown-item" href="#">Dropdown2</a></li>
+			            <li><a class="dropdown-item" href="#">Dropdown3</a></li>
+			          </ul> -->
+				 </li>
+				 <li class="nav-item dropdown">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" id="nav-dropdown4" role="button" data-bs-toggle="dropdown" aria-expanded="false">Register</a>
+					<ul class="dropdown-menu mt-0" aria-labelledby="nav-dropdown4">					
+			            <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#ngo-login">Register Your NGO</a> <!-- &nbsp;&nbsp;<a href='ngo-registeration-guideline' target="_blank">Steps to Register Your NGO</a> --></li>
+			            <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#ddac-napddr">Register For Government Org./DMT</a></li>
+			           <!--  <li><a class="dropdown-item" href="#" data-bs-toggle="modal" data-bs-target="#free-coaching">Register Free Coaching</a></li> -->
+			          </ul>
+				 </li>
+				<!-- <li class="nav-item">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" data-bs-toggle="modal" data-bs-target="#dashboard">Dashboard</a>
+				 </li> -->
+				 <li class="nav-item dropdown">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="bo-login" id="nav-dropdown6" role="button">BO Users</a>
+					
+				 </li>
+				 <li class="nav-item">
+					<a class="nav-link p-0 py-1 me-5 d-inline-block" href="#" data-bs-toggle="modal" data-bs-target="#contact-us">Contact Us</a>
+				 </li>
+			  </ul>
+		   </div>
+		</div>
+	 </nav>
+	 <div class="bg-blue-light py-5">
+	<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+		<font style="color:#ffffff"> <!-- All Centres (IRCA, ODIC, CPLI,SLCA & DDAC) running under NAPDDR may please update/ complete real time beneficiaries data of 2023-24  at e-Anudaan portal before 30.04.2024 i.e. before closing of the portal for this purpose
+							<br/>  --> 
+    	<b>Note: All NGOs are requested to submit applications for the release of the 2nd and 3rd installments for the Financial Years 2024-25 and 2025-26 respectively, in order to obtain the remaining 20% grant-in-aid for FY 2024-25 and 40% as the second installment for FY 2025-26.
+		</b></font><b>
+	</b></marquee>
+<br>
+	<marquee behavior="scroll" direction="left" onmouseover="this.stop();" onmouseout="this.start();">
+	<font style="color:#ffffff">						
+       <b id="noticeIpopMarqueId"> ग़ैर सरकारी संगठनों से अनुरोध है कि वे वित्तीय वर्ष 2024–25 के शेष 20 प्रतिशत अनुदान की भुगतान हेतु तथा वित्तीय वर्ष 2025–26 की द्वितीय किस्त के रूप में 40 प्रतिशत अनुदान प्राप्त करने के लिए, क्रमशः द्वितीय और तृतीय किस्तों के जारी किए जाने हेतु आवेदन प्रस्तुत करें।</b>	</font>	</marquee>	
+<div class="container-xxl">
+		<div class="row align-items-center">
+			<div class="col-lg-8">
+				<h1 class="heading fs-2 text-white mb-4">Online Portal for Grant-in-Aid Schemes</h1>
+				<h6 class="lh-base text-justified pe-4">The portal facilitates online submission of NGO’s proposals alongwith the prescribed documents and automates the complete process for issuance of Grant-in-Aid. Various Back office user have privilege for application processing as per the role defined at District, State Directorate, State Secretariat and at the Central Ministry. The process involves the application verification, checklist filling, inspection report, scrutinizing, screening, recommendation, financial approval and GIA sanction.</h6>
+				<!-- <h6 class="errorMessage text-start fw-bold">For any technical support mail to : support[dot]ngo-msje[at]nic[dot]in</h6> -->
+			</div>
+			<div class="col-lg-4 position-relative">
+			<div id="logalert"> 
+					
+			</div>
+			
+			<div class="row pe-3 login-form my-4 position-relative flip-box">
+					<div class="flip-box-inner position-relative p-0">
+						<!-- <form class="flip-box-front"> -->
+						        
+<form id="ngo-login-process" name="ngo-login-process" onsubmit="encodeInputText();" action="/ngo-login-process;jsessionid=6033D919DA376171C2545CC4C8DC910E" method="post" autocomplete="off"><input type="hidden" name="passwordNgoOld" value="" id="passwordNgoOld"><input type="hidden" name="passwordRaw" value="" id="passwordRaw"><input type="hidden" name="isForgotUserId" value="" id="isForgotUserId" disabled="disabled"><div class="">
+								<h4 class="text-dark fw-bold text-center m-0 mb-5">Registered NGO Login</h4>
+								<div class="d-flex align-items-center bg-white rounded border border-dark ps-1 py-1">
+									<label for="userid" class="form-label material-symbols-outlined m-0 p-0 fs-1">person</label>									
+									 <input type="text" name="userId" value="" id="userId" class="form-control border-0 shadow-none text-dark" autocomplete="off" placeholder="Enter login id"></div>
+								<div class="d-flex align-items-center bg-white rounded border border-dark ps-1 py-1 my-4">
+									<label for="password" class="form-label material-symbols-outlined m-0 p-0 fs-1">pattern</label>									
+									 <input type="password" name="password" id="password" class="form-control border-0 shadow-none text-dark" autocomplete="off" placeholder="Enter password"></div>
+								<div class="d-flex align-items-center bg-white rounded border border-dark ps-1 py-1">							
+										<img id="captchaCodeImg" src="/captcha;jsessionid=6033D919DA376171C2545CC4C8DC910E" border="0">
+    									<input type="text" name="captcha" value="" id="captcha" class="form-control border-0 shadow-none text-dark" placeholder="Captcha" autocomplete="off"><label for="captcha" class="form-label material-symbols-outlined m-0 p-0 fs-1 pointer" id="refreshCaptcha">cached</label>
+								</div>
+								<div class="d-flex align-items-center justify-content-between p-0 mt-4">
+									<a class="forgotPwdShowHints text-dark" href="forgot-password?usrType=0" title="&lt;Forgot Password&gt; link would help the registered user who have forgotten their password, however he should remember his user id.">Forgot Password?</a>
+									
+									&nbsp;&nbsp;
+									<a class="forgotPwdShowHints text-dark" href="forgot-userid?usrType=0" title="&lt;Forgot UserId&gt; link would help the registered user who have forgotten their UserId, however he should remember his registered Mobile Number.">Forgot UserId?</a>
+									<input type="hidden" name="pageSize" value="27553e13b7d4b3d6bd335fd538dbb4270f2b85408ec4e64a05ce4c6efebc1efcb0248c48d358f6ae162346cafae01d87e4285832e9a53bf33ff4683b683ff12d" id="pageSize"><input type="submit" value="Login" id="ngo-login-process_0" class="btn btn-dark btn-lg px-5 py-2">
+<!-- <button type="submit" class="btn btn-dark btn-lg px-5 py-2">Login</button> -->
+								</div>								
+							
+							</div>
+						</form>
+
+
+</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+<!-- Previous Code Commented By Rishabh start -->
+<!-- end -->
+<!-- New Code Added By Rishabh start 15/02/2024 -->
+<!-- end 15-02-2024-->
+<!-- Rishabh Code On date 16-02-2024 -->
+<div class="bg-light pt-5 pb-4" id="users">
+ <div class="container-xxl">
+  <div class="row">
+	
+	<div class="col-md-12" style="width: 50%">
+		<div class="shadow-md rounded bg-white p-4 mb-4" data-aos="fade-right">
+			<h6 class="mb-4 d-lg-flex align-items-center text-blue fw-bold"><span class="material-symbols-outlined me-2">newspaper</span>New/Current</h6>
+			<div class="news" style="max-height: 15em;">
+				<div class="marquee ps-4" behavior="scroll" direction="up" onmouseover="this.stop();" onmouseout="this.start();">
+					<ul class="ps-1">
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">All projects under the IPSrC Scheme are required to mandatorily furnish the requisite details in the prescribed proforma and submit the same at mosje.src1@gmail.com.: 29-05-2026 &nbsp; <a href="ngocctvipoptemplatenotice" target="_blank">Uploading of Proforma on e-Anudaan Portal for Collection of CCTV Infrastructure Details.</a>
+			    </li>
+
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Extension of last date for setting up DDAC on e-Anudaan portal till 30.09.2025 Published Date: 08-09-2025 &nbsp; <a href="drugsgapdiistdateextenpropnotice" target="_blank">Extension of last date for submission of proposals till 30.09.2025.</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Eligible organizations for setting up of District De-Addiction Centres (DDACS) under
+                                           the scheme of National Action Plan for Drug Demand Reduction (NAPDDR) Published Date: 04-09-2025 &nbsp; <a href="gapdistrictexlutionnotice" target="_blank">Exclusion of District, Maharashtra from the list of 291 GAP districts- reg</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Setting up of new Garima Greh and for existing Garima Grehs in all the States/UTs under SMILE Scheme throughout the year Published Date: 04-09-2025 &nbsp; <a href="smileopenportalthroughoutyearnotice" target="_blank">.Opening of e-anudan portal throughout the year new Garima Greh and for existing Garima Grehs</a>
+			    </li>
+
+
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Extension of last date of 6th Advertisement for setting up DDAC on e-Anudaan portal Published Date: 03-07-2025 &nbsp; <a href="drugslastdateextenpropnotice" target="_blank">Extension of last date for submission of proposals</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Revise Notice for inviting application in respect of Garima Greh project under SMILE Scheme from Gap States/UTs-reg (SMILE) Published Date: 09-06-2025 &nbsp; <a href="smilegapdistrevisenotice" target="_blank">REVISE NOTICE INVITING AAPPLICATION FOR GARIMA GREH</a>
+			    </li>
+                                        <li> <img src="images/new_notice.gif" style="vertical-align: top;">CORRIGENDUM - Inviting Expression of Interest-cum-proposal from the eligible organizations for setting up of District De-Addiction Centres (DDACs) under the scheme of National Action Plan for Drug Demand Reduction (NAPDDR).Published Date: 29-05-2025 &nbsp; <a href="ddaceoicumproposalcorrigendum" target="_blank">NOTICE INVITING AAPPLICATION FOR NAPDDR(DDAC)</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Inviting Expression of Interest-cum-proposal from the eligible organizations for setting up of District De-Addiction Centres (DDACs) under the scheme of National Action Plan for Drug Demand Reduction (NAPDDR). Published Date: 28-05-2025 &nbsp; <a href="ddaceoicumproposal" target="_blank">NOTICE INVITING AAPPLICATION FOR NAPDDR(DDAC)</a>
+			    </li>
+                                        <li> <img src="images/new_notice.gif" style="vertical-align: top;">Notice inviting applications for Gap State. Published date: 07-05-2025 &nbsp; <br><a href="smilegapdistnotice" target="_blank">NOTICE INVITING APPLICATION FOR GARIMA GREH</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for receiving all applications i.e. ongoing (1st, 2nd and 3rd installments) and new cases submitted by the agencies for receiving the Grants-in-aid for FY 2025-26 under AVYAY Scheme. Published date: 16-04-2025 &nbsp;
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for receiving all applications (existing/ongoing/new projects) submitted by the agencies for receiving the Grants-in-aid in case of IRCA, ODIC, CPLI, DDAC and SLCA under NAPDDR Scheme. Published date: 08-04-2025 &nbsp; <a href="om-portal-open-napddr-07-04-2025" target="_blank">OFFICE MEMORANDUM</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications for AVYAY/IPSrC/IPOP (New projects for FY 2024-25). Published date: 13-12-2024 &nbsp; <a href="ipsrc-new-project-open-notice-13122024" target="_blank">NOTICE INVITING AVAYA APPLICATIONS(New Projects)</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Request to submit proposal for release of grant-in-aid for operation of Garima Greh under SMILE Scheme for FY 2024-25. (Date Extended: From 25.11.2024 to 06.12.2024). Published date: 25-11-2024 &nbsp; <a href="garima-greh-smile-01-11-2024" target="_blank">NOTICE INVITING AAPPLICATION FOR GARIMA GREH</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications for AVYAY/IPSrC/IPOP (1st installment for FY 2024-25 RRTC). (Last Date  till 31.08.2024). Published date: 31-07-2024 &nbsp; <a href="ipop-rrtc-guideline-ngo" target="_blank">NOTICE INVITING RRTC AVAYA APPLICATIONS</a>
+			    </li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications for AVYAY/IPSrC/IPOP (1st installment for FY 2024-25 new cases ONLY). (Last Date  till 15.08.2024). Published date: 12-07-2024 &nbsp; <a href="ipop-new-guideline-ngo" target="_blank">NOTICE INVITING NEW AVAYA APPLICATIONS</a>
+			    </li>				
+			    <li> <img src="images/new_notice.gif" style="vertical-align: top;">Applications invited for setting up  of Garima Greh (open up to 05-08-2024) <a href="smile-hindi-guideline-ngo" target="_blank">रुचि की अभिव्यक्ति</a>,&nbsp; <a href="smile-english-guideline-ngo" target="_blank">Expression of Interest</a> ,&nbsp; <a href="smile-om-guideline-ngo" target="_blank">OFFICE MEMORANDUM</a>
+					Republished Date 06-08-2024</li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Applications are invited for online submission of 1st installment (Ongoing) proposals for the year 2024-25 under NAPDDR. Last Date for submission of applications with complete documents is 30.06.2024 (till midnight).
+			    </li>
+			    <li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications from eligible NGOs for release of 3rd/ full &amp; final instalment of GIA for running of ongoing IRCA/ODIC/CPLI/DDAC/SLCA for the year 2023-24 under NAPDDR. Last Date for submission of applications with complete documents is 30.06.2024 (till midnight).
+			   			 </li>
+					
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;"><a href="avaya-ngo-address" target="_blank">Projects of Senior Citizens Home under Atal Vayo Abhyuday Yojana (AVYAY)</a>
+			    </li>	
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications for AVYAY/IPSrC/IPOP (1st installment for FY 2024-25 ongoing cases ONLY) for a period of two months. (Last Date  till 15.08.2024). Republished date 30-07-2024
+			    </li>
+			     <li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications from eligible NGOs for release of 2nd instalment of GIA for running of ongoing projects for the year 2023-24 under AVYAY/IPSrC/IPOP.(Last Date  till 15-08.2024).Republished 30-07-2024
+			   			 </li>
+			   	<li> <img src="images/new_notice.gif" style="vertical-align: top;">Applications are invited for online submission of DDRS Scheme for Financial Year 2024-25.
+			   			 </li>
+			   	<li> <img src="images/new_notice.gif" style="vertical-align: top;"><a href="ddrs-ngo-notice" target="_blank">Office order to provide Right to Education(RTE)  entitlements to Children with Special Needs(CwSN) under the Inclusive Education Component of Samagra Shiksha Scheme and PM POSHAN</a>
+			    Published Date 26-06-2024</li>	
+			    <li>GEO-TAGGED! Ministry supported institutions providing Drug addiction counseling, treatment and rehabilitation and other facilities have been Geo-tagged to make their services accessible and easier to locate. <br>
+				 <a href="https://www.google.com/maps/d/viewer?mid=1tdLtmShkciGDV57B25ZpzI_Mp6CDiN7U&amp;ll=21.953643975710758%2C82.89784049999999&amp;z=4" target="_blank">Ministry supported institutions providing Drug addiction counseling, treatment and rehabilitation and other facilities have been Geo-tagged to make their services accessible and easier to locate. Click here </a></li>
+				
+					<!-- <li> <img src="images/new_notice.gif" style="vertical-align: top;"/>All Centres (IRCA, ODIC, CPLI, SLCA & DDAC) running under NAPDDR may please update/ complete real time beneficiaries data of 2023-24  at e-Anudaan portal before 30.04.2024 i.e. before closing of the portal for this purpose
+					</li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;"/>All Centres running under AVAYA (NAPSrC) may please update/ complete real time beneficiaries data of 2023-24  at e-Anudaan portal before 30.04.2024 i.e. before closing of the portal for this purpose
+					</li>
+					<li> <img src="images/new_notice.gif" style="vertical-align: top;"/>All the organizations registered under SHRESHTA scheme to update/ complete real time beneficiaries data of school/ hostel project 2023-24 at e-Anudaan portal before 30.04.2024
+					</li> -->
+						
+			   			 <li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications from eligible NGOs for release of 2nd instalment of GIA for running of ongoing Residential/Non-Resedentail/Hostal for the year 2023-24 under SHRESHTA.
+			   			 </li>
+			   			 <li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications from eligible NGOs for 1st instalment of GIA for running of ongoing Residential/Non-Resedentail/Hostal for the year 2024-25 under SHRESHTA.
+			   			 </li>
+			   			 <li> <img src="images/new_notice.gif" style="vertical-align: top;">Portal is open for seeking applications from eligible NGOs for 1st instalment of GIA for running of ongoing/new for the year 2024-25 under ADIP.
+			   			 </li>
+						<!-- <li>
+						<b style="color:red;">(Last Chance)</b> Applications are invited for online submission of 1st installment (Ongoing) proposals for the year 2023-24 under NAPDDR. Date for submission of applications with complete documents is 28.02.2024 
+						</li> -->
+					</ul> 
+					<div id="cardHeight">
+					<!-- <marquee width="100%" direction="up" height="100px" class="lh-base text-justified">
+						<b>No New Update...</b>
+					</marquee> -->
+					</div>
+					
+					
+				</div>
+			</div>
+		</div>
+	</div>
+  	
+	<div class="col-md-12" style="width: 50%">
+		<div class="shadow-md rounded bg-white p-4 mb-4" data-aos="fade-right">
+			<h6 class="mb-4 d-lg-flex align-items-center text-blue fw-bold"><span class="material-symbols-outlined me-2">newspaper</span>Archived/Closed</h6>
+			<div class="news" style="max-height: 15em;">
+			<div class="marquee ps-4" behavior="scroll" direction="up" onmouseover="this.stop();" onmouseout="this.start();">
+			<ul class="ps-1">
+			<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Applications are invited for online submission of 1st installment (Ongoing) proposals under for running the DDAC for the year 2023-24 under NAPDDR. Date for submission of applications with complete documents is 22.12.2023
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> --><a href="smile-ngo-advisory" target="_blank">Call for submission of proposal for CBOs operating existing Garima Greh for FY 2023-24 (last date of submission 16.12.2023)</a>
+			    </li>	
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> --> New applications for setting up SLCAs in the state of Uttar Pradesh, Punjab and Rajasthan under NAPDDR are invited from organizations till 10-12-2023
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> --><a href="napddr-ngo-gia-advisory" target="_blank">Advisory to NGOs receiving grant under the Scheme of NAPDDR</a>
+			    </li>			
+			    <li>  <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is opened till 31.10.2023 for applying of ongoing proposals under NAPDDR (IRCA/ODIC/CPLI/SLCAs) by the organisations who has not applied so far. No further opportunity would be given in case the organisations could not apply. 
+			    </li>
+			    <li>  <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->(Portal for making entries of beneficiaries for the year 2022-23 for Scheme under NAPDDR (IRCA/ODIC/CPLI) ( for period of 1st April,2022 to 31st March, 2023) has been opened  till 19.10.2023. The organisations who had not updated their beneificiaries detail on the portal, are requested to please update the beneficiaries details with the proposals of 2022-23. Further grant in aid would be considered on the basis of  beneficiaries details entered in the portal fullfilling targets of the projects). 
+			    </li>
+				<li>  <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Applications are invited for online submission of 1st installment proposals under SHRESHTA Scheme (SC) for FY 2023-24. 
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is open for seeking applications from eligible NGOs for release of 1st instalment of GIA for running of ongoing IRCA/ODIC/CPLI for the year 2023-24 under NAPDDR. Date for submission of applications with complete documents is 15.08.2023
+			    </li>
+			    <li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is open for seeking applications from eligible NGOs for release of 1st instalment of GIA for running of ongoing DDAC for the year 2023-24 under NAPDDR. Date for submission of applications with complete documents is 15.08.2023
+			    </li>
+			    <li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is open for seeking applications for AVYAY/IPSrC/IPOP (1st installment for FY 2023-24 ongoing cases ONLY) for a period of one month. (Last Date Extended till 07.07.2023).
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Applications from residential schools (selected in 2021-22 by District Authorities) for submit fee claim for the year 2023-24 for students promoted in 11th class under SHRESHTA scheme.
+			    </li>
+			    <!-- <li> <img src="images/new_notice.gif" style="vertical-align: top;"/>Invitation of Expression of Interest-cum proposal for setting up of District De-Addiction Centres (DDAC) under NAPDDR. (Last Date 19th July 2023)
+			    </li> -->
+			    <li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Revamped e-Anudaan portal has be made operational and live from 21st July, 2023. All PIA (NGOs) are requested to login and submit the proposals as per new DDRS guidelines (Available in the website). It is also mentioned here that from FY 2023-24 UDID number or UDID enrollment ID is mandatory for obtaining grant under DDRS scheme
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->UDID number / UDID enrollment number with disability certificate is mandatory for availing Grant-in-Aid under DDRS from the FY 2023-24. No grants will be released without UDID number/ UDID enrollment number with Disability Certificate. Send your feedback/suggestion on DDRS Scheme at the email id: feedbackddrs[at]gmail[dot]com
+			    </li>
+				<li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is open for seeking applications from eligible NGOs for release of 3rd/ full &amp; final installment of GIA for running of ongoing AVYAY/IPSrC/IPOP for the year 2022-23.
+			    </li>
+			    <li> <!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Portal is open for seeking applications from eligible NGOs for release of 3rd/ full &amp; final installment of GIA for running of ongoing SHRESHTA scheme for the year 2022-23.
+			    </li>
+				<!-- <li> <img src="images/new_notice.gif" style="vertical-align: top;"/>Portal is open for seeking applications from eligible NGOs for release of 3rd/ full & final instalment of GIA for running of ongoing IRCA/ODIC/CPLI for the year 2022-23 under NAPDDR. Last Date for submission of applications with complete documents is 31.05.2023 (till midnight).
+			    </li> -->
+				<li> <a href="finalized-implementing-agencies-ipsrc-10032023" target="_blank">Notification dated 15-02-2023 for Organisations finalized as Implementing Agencies under IPSrC.</a>
+			    </li>
+				<!-- <li>  Applications are invited for online submission of 2nd installment proposals under Shrestha Scheme (SC) for FY 2022-23. (Last Date 08.03.2023).
+			    </li> -->
+				<li> <a href="status-of-rejected-proposal-ddac-napddr-22122022" target="_blank">Status of rejected proposals received for setting up of District De-Addiction Centres (DDACs) under the scheme of NAPDDR.</a>
+			    </li>
+			    
+				<!-- <li>  Applications are invited for online submission of 2nd installment of ongoing IRCA/ODIC and CPLI  proposals under NAPDDR Scheme for FY 2022-23. (Last Date 28.01.2023).
+			    </li> -->
+			
+				<!-- <li>  Re-opening of e-Anudaan portal for AVYAY/IPSrC/IPOP (2nd installment for AY 2020-21 ongoing cases ONLY)(Last Date 08.01.2023).
+			    </li> -->
+			    
+				<li>  Applications are invited for online submission of 2nd installment of ongoing IRCA/ODIC and CPLI  proposals under NAPDDR Scheme.
+			    </li>
+			 <li>  Invitation of Expression of Interest-cum proposal for setting up of District De-Addiction Centres (DDAC) under NAPDDR
+			    <!-- <a href='napddr-ddac-info-hindi' target="_blank">Hindi Guideline</a>, --> <a href="napddr-ddac-info-en" target="_blank">English Guideline</a>
+			    </li>
+			<li><a href="revised-napddr-action-plan" target="_blank">NAPPDR (National Action Plan for Drug Demand Reduction) Revised Guidelines w.e.f. 03-08-2022.</a>
+			    </li>
+			<li>Invitation of Applications for the National Awards for Outstanding service in the field of Prevention of Alcoholism and Substance (Drugs) Abuse, 2022. 
+				<br>
+				  <a href="englishnationalaward" target="_blank">Award Guideline</a>
+			    </li>
+			<li> 
+			 <a href="napsrc-umbrella-scheme-info" target="_blank">Centrally Sponsored NAPSrC Umbrella Scheme</a><br>
+					 &nbsp;&nbsp;&nbsp;<a href="napsrc-annual-action-plan" target="_blank">NAPSrC Annual Action Plan 2022-23</a><br>
+			</li>
+			<li> 
+			Calling application for renewal of ongoing Pilot Garima Greh projects till 20-08-2022
+			<!-- Calling up proposals from eligible organizations at e-Anudaan portal for setting up of Garima Greh (Shelter for Transgender persons), for the year 2022-23 <br/>under the Scheme of Support for Marginalised Individuals for Livelihood and Enterprise (SMILE) till 31-07-2022 -->
+			<!-- <a href='smile-garima-rfp-info' target="_blank">RFP Documents for New Garima Greh</a> -->
+			</li>
+			<li>  Invitation of Applications for " Best Panchayati Raj or Municipal Body working for prevention of Alcoholism and Drug Abuse " for National Awards for Outstanding services in the field of Prevention of Alcoholism and Substance (Drugs) Abuse, 2022. 
+				<a href="napddr-award-info-hindi" target="_blank">Hindi Award Guideline</a>, <a href="napddr-award-info-en" target="_blank">English Award Guideline</a>
+				<br>
+				</li><li>  Applications for Fee claim for 2022-23 for SHRESHTA Schools Registered in 2021-22. Please use your Login Id &amp; password. 
+				<br>
+				<!-- <li>  Calling up proposals (ongoing) from eligible organizations at e-Anudaan portal for consideration of first instalment of grant-in-aid, as <br/>an advance, for the year 2022-23 for IPSrC projects under the Scheme of Atal Vayo Abhyuday Yojana (AVYAY)(earlier Known as NAPSrC)<br/> last date 07-07-2022 (The eligible organiztions shall apply their renewal of proposals with respect to the last year's project Id only)
+				</li> -->
+				<!-- <li>Invitation of Applications for the National Awards for Outstanding service in the field of Prevention of Alcoholism and Substance (Drugs) Abuse, 2022. 
+				<br/> -->
+				<!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> --><a href="hindinationalaward" target="_blank">Hindi Award Guideline</a>, <a href="englishnationalaward" target="_blank">English Award Guideline</a>
+			   <!--  </li> -->
+				</li><li>GEO-TAGGED! Ministry supported institutions providing Drug addiction counseling, treatment and rehabilitation and other facilities have been Geo-tagged to make their services accessible and easier to locate. <br>
+				 <a href="https://www.google.com/maps/d/viewer?mid=1tdLtmShkciGDV57B25ZpzI_Mp6CDiN7U&amp;ll=21.953643975710758%2C82.89784049999999&amp;z=4" target="_blank">Ministry supported institutions providing Drug addiction counseling, treatment and rehabilitation and other facilities have been Geo-tagged to make their services accessible and easier to locate. Click here </a></li>
+				<li>
+				<!-- <img src="images/new_notice.gif" style="vertical-align: top;"/> -->Applications are invited for obtaining Skill Development Training under Ministry's PM-DAKSH Programme.
+		 Beneficiaries of IRCA &amp; ODIC under NAPDDR, who are undergoing treatment/ already recovered persons, belonging to categories of SCs, OBCs, EBCs, DNTs, Sanitation workers including waste pickers are eligible to apply.
+		<a href="https://pmdaksh.dosje.gov.in/student" target="_blank"> Eligible applicants can apply on https://pmdaksh.dosje.gov.in/student.</a>
+		</li>
+				<li><a href="smilegarimagrah" target="_blank">Garima Grah EoI</a>, &nbsp; <a href="display-smile-guidelines" target="_blank"> SMILE Guideline</a></li>
+				<li><a href="smilebeggary" target="_blank">Beggary RFP</a></li>
+				<li><a href="ddac-cost-norms" target="_blank" rel="noopener noreferrer">Norms for Drugs De-Addiction Centre (DDAC),</a>&nbsp;&nbsp;<a href="hindi-ddac-district-list" target="_blank" rel="noopener noreferrer">DDAC District List in Hindi,</a>&nbsp;&nbsp;	<a href="ddac-district-list" target="_blank" rel="noopener noreferrer">DDAC District List in English</a>&nbsp;&nbsp;
+				</li>	
+				<li><a href="display-avyay-rrtc" target="_blank" rel="noopener noreferrer">Selection of new RRTCs under NAPSrC Scheme </a>, &nbsp; <a href="avyay-implementing-agencies" target="_blank" rel="noopener noreferrer">Implementing Agency Order </a>(<a href="ipopnewhindiguide" target="_blank">District List in Hindi</a>, &nbsp; <a href="ipopnewenglishguide" target="_blank"> District List in English</a>)</li>
+				</ul>
+		</div>
+		</div>
+		</div>
+	</div>
+	
+  </div>
+ </div>
+</div>
+<!-- End Rishabh Code 15-02-2024 -->
+
+<div class="bg-white pt-5 pb-4">
+ <div class="container-xxl">
+  <div class="row">
+	<div class="col-lg-4 col-md-6 col-sm-6">
+	 <div class="shadow-md rounded-3 my-5 position-relative social-youtube" data-aos="fade-up">
+		<span class="position-absolute top-0 start-50 translate-middle youtube-icon fw-normal text-white py-1 pe-2 rounded-top">Youtube</span>
+	   <div class="text-danger bg-light social-tiles">
+		<iframe width="100%" height="98%" src="https://www.youtube.com/embed/RqSY8A4k_RQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen=""></iframe>
+	  </div>
+	 </div>  
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-6">
+	 <div class="shadow-md rounded-3 my-5 position-relative social-facebook" data-aos="fade-up">
+		<span class="position-absolute top-0 start-50 translate-middle facebook-icon fw-normal text-white py-1 pe-2 rounded-top">Facebook</span>
+	   <div class="text-danger bg-light social-tiles">
+		<div class="facebook-responsive">
+			<iframe src="https://www.facebook.com/plugins/page.php?href=https%3A%2F%2Fwww.facebook.com%2FMOSJANDE%2F&amp;tabs=timeline&amp;width=450&amp;height=390&amp;small_header=false&amp;adapt_container-xxl_width=true&amp;hide_cover=false&amp;show_facepile=true&amp;appId" width="450" height="390" style="border:none;overflow:hidden" scrolling="no" frameborder="0" allowfullscreen="true" allow="autoplay; clipboard-write; encrypted-media; picture-in-picture; web-share"></iframe>
+		</div> 
+	   </div>
+	 </div>  
+	</div>
+	<div class="col-lg-4 col-md-6 col-sm-6">
+      <div class="shadow-md rounded-3 my-5 position-relative social-youtube">
+         <span class="position-absolute top-0 start-50 translate-middle youtube-icon" data-bs-toggle="tooltip" title="" role="instagram" aria-label="Instagram" data-bs-original-title="Instagram"></span>
+         <div class="text-danger bg-light social-tiles" style="overflow: hidden;">
+			<iframe class="w-100 h-100" src="https://www.instagram.com/msjegoi/embed" frameborder="0" title="Instagram">Instagram</iframe>
+         </div>
+      </div>
+  </div>
+  </div>	
+ </div>	
+</div>
+<div class="bg-light py-5">
+	<div class="container-xxl">
+		<div class="row">
+			<div class="owl-carousel owl-theme owl-loaded owl-drag">
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+				
+			 <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-2865px, 0px, 0px); transition: 0.25s; width: 10588px;"><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ncsc.nic.in/" title="National Commission for Scheduled Castes">
+				   <img src="images/bxslider/national-commission.png" class="img-thumbnail" title="National Commission for Scheduled Castes">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ambedkarfoundation.nic.in" title="Dr Ambedkar Foundation">
+				   <img src="images/bxslider/ambedkar-foundation.png" class="img-thumbnail" title="Dr Ambedkar Foundation">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://daic.gov.in" title="Dr Ambedkar International Centre">
+				   <img src="images/bxslider/daic.jpg" class="img-thumbnail" title="Dr Ambedkar International Centre">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://jagjivanramfoundation.nic.in/" title="Babu Jagjivan Ram">
+				   <img src="images/bxslider/babu-jagjivan-ram.png" class="img-thumbnail" title="Babu Jagjivan Ram">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://nbcfdc.gov.in/" title="NBCFDC">
+				   <img src="images/bxslider/NBCFDC.png" class="img-thumbnail" title="NBCFDC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ncsk.nic.in/" title="NCSK">
+				   <img src="images/bxslider/ncsk.png" class="img-thumbnail" title="NCSK">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.nisd.gov.in/" title="NISD">
+				   <img src="images/bxslider/nisd.png" class="img-thumbnail" title="NISD">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.nsfdc.nic.in/" title="NSCFDC">
+				   <img src="images/bxslider/NSCFDC.png" class="img-thumbnail" title="NSCFDC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://nskfdc.nic.in/" title="NSKFDC">
+				   <img src="images/bxslider/NSKFDC.png" class="img-thumbnail" title="NSKFDC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://secc.gov.in/" title="SECC">
+				   <img src="images/bxslider/SECC2011.png" class="img-thumbnail" title="SECC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://grants-msje.gov.in/" title="ONPTS">
+				   <img src="images/bxslider/ONPTS.png" class="img-thumbnail" title="ONPTS">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://disabilityaffairs.gov.in/" title="disabilityaffairs">
+				   <img src="images/bxslider/disabilityaffairs.png" class="img-thumbnail" title="disabilityaffairs">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://pib.nic.in/newsite/mainpage.aspx" title="Press Information Bureau">
+				   <img src="images/bxslider/pib-img.jpg" class="img-thumbnail" title="Press Information Bureau">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.ifcicegssc.in/" title="CEGSSC">
+				   <img src="images/bxslider/ifci.png" class="img-thumbnail" title="CEGSSC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.vcfsc.in/" title="IFCI VENTURE">
+				   <img src="images/bxslider/vcfsc-logo.png" class="img-thumbnail" title="IFCI VENTURE">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://elderline.dosje.gov.in/" title="National Helpline for Senior Citizens">
+				   <img src="images/bxslider/elderline-logo.jpg" class="img-thumbnail" title="National Helpline for Senior Citizens" alt="Elderline">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://ncwwomenhelpline.in/" title="NCW Women's HelpLine">
+				   <img src="images/bxslider/ncw-helpline.jpg" class="img-thumbnail" title="NCW Women's HelpLine" alt="NCW">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gandhi.gov.in" title="150 Years of Celebrating the Mahatma">
+				   <img src="images/bxslider/Mgandhi.png" class="img-thumbnail" title="150 Years of Celebrating the Mahatma" alt="MGandhi">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				    <a target="_blank" href="https://rti.gov.in" title="Right to Information">
+				   <img src="images/bxslider/right-to-information-logo.png" class="img-thumbnail" title="Right to information" alt="Right to information">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://disabilityaffairs.gov.in/">
+				   <img src="images/bxslider/disabilityaffairs.png" class="img-thumbnail" title="disabilityaffairs" alt="img">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://pib.nic.in/newsite/mainpage.aspx" title="Press Information Bureau">
+				   <img src="images/bxslider/pib-img.jpg" class="img-thumbnail" title="Press Information Bureau">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.ifcicegssc.in/" title="CEGSSC">
+				   <img src="images/bxslider/ifci.png" class="img-thumbnail" title="CEGSSC">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.vcfsc.in/" title="IFCI VENTURE">
+				   <img src="images/bxslider/vcfsc-logo.png" class="img-thumbnail" title="IFCI VENTURE">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://elderline.dosje.gov.in/" title="National Helpline for Senior Citizens">
+				   <img src="images/bxslider/elderline-logo.jpg" class="img-thumbnail" title="National Helpline for Senior Citizens" alt="Elderline">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://ncwwomenhelpline.in/" title="NCW Women's HelpLine">
+				   <img src="images/bxslider/ncw-helpline.jpg" class="img-thumbnail" title="NCW Women's HelpLine" alt="NCW">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gandhi.gov.in" title="150 Years of Celebrating the Mahatma">
+				   <img src="images/bxslider/Mgandhi.png" class="img-thumbnail" title="150 Years of Celebrating the Mahatma" alt="MGandhi">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://nhapoa.gov.in/" title="National Helpdesk Against Atrocities">
+				   <img src="images/bxslider/nhapoa.jpg" class="img-thumbnail" title="nhapoa" alt="nhapoa">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.mygov.in/" title="My Gov">
+				   <img src="images/bxslider/mygov1.png" class="img-thumbnail" title="My Gov" alt="mygov1">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://pgportal.gov.in/" title="CPGRAMS">
+				   <img src="images/bxslider/cpgrams_logo.png" class="img-thumbnail" title="CPGRAMS" alt="CPGRAMS">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://pmagy.gov.in/" title="Pradhan Mantri Adarsh Gram Yojana">
+				   <img src="images/bxslider/PMAGY Logo_small.png" class="img-thumbnail" title="PMAGY" alt="PMAGY">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gramswarajabhiyan.nic.in/" title="Gram Swaraj Abhiyan">
+				   <img src="images/bxslider/gsa.png" class="img-thumbnail" title="Gram Swaraj Abhiyan" alt="gramswarajabhiyan">
+				   </a>
+				</div></div><div class="owl-item active" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.makeinindia.com/" title="Make In India">
+				   <img src="images/bxslider/makeinindia.png" class="img-thumbnail" title="Make In India" alt="makeinindia">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://india.gov.in/" title="National Portal Of India">
+				   <img src="images/bxslider/india-gov.png" class="img-thumbnail" title="National Portal Of India" alt="india-gov">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://data.gov.in/" title="Open Government Data (OGD) Platform India">
+				   <img src="images/bxslider/data-gov_0.png" class="img-thumbnail" title="Open Government Data (OGD) Platform India">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.digitalindia.gov.in/" title="Digital India Program">
+				   <img src="images/bxslider/digital-india_1.png" class="img-thumbnail" title="Digital India Program">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://canarabankcsis.in/ACSIS/" title="ACSIS-OBC-EBC">
+				   <img src="images/bxslider/ACSIS-OBC-EBC.png" class="img-thumbnail" title="ACSIS-OBC-EBC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.ncbc.nic.in" title="National Commission for Backward Classes">
+				   <img src="images/bxslider/backward-classes.png" class="img-thumbnail" title="National Commission for Backward Classes">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ncsc.nic.in/" title="National Commission for Scheduled Castes">
+				   <img src="images/bxslider/national-commission.png" class="img-thumbnail" title="National Commission for Scheduled Castes">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ambedkarfoundation.nic.in" title="Dr Ambedkar Foundation">
+				   <img src="images/bxslider/ambedkar-foundation.png" class="img-thumbnail" title="Dr Ambedkar Foundation">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://daic.gov.in" title="Dr Ambedkar International Centre">
+				   <img src="images/bxslider/daic.jpg" class="img-thumbnail" title="Dr Ambedkar International Centre">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://jagjivanramfoundation.nic.in/" title="Babu Jagjivan Ram">
+				   <img src="images/bxslider/babu-jagjivan-ram.png" class="img-thumbnail" title="Babu Jagjivan Ram">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://nbcfdc.gov.in/" title="NBCFDC">
+				   <img src="images/bxslider/NBCFDC.png" class="img-thumbnail" title="NBCFDC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ncsk.nic.in/" title="NCSK">
+				   <img src="images/bxslider/ncsk.png" class="img-thumbnail" title="NCSK">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.nisd.gov.in/" title="NISD">
+				   <img src="images/bxslider/nisd.png" class="img-thumbnail" title="NISD">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.nsfdc.nic.in/" title="NSCFDC">
+				   <img src="images/bxslider/NSCFDC.png" class="img-thumbnail" title="NSCFDC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://nskfdc.nic.in/" title="NSKFDC">
+				   <img src="images/bxslider/NSKFDC.png" class="img-thumbnail" title="NSKFDC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://secc.gov.in/" title="SECC">
+				   <img src="images/bxslider/SECC2011.png" class="img-thumbnail" title="SECC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://grants-msje.gov.in/" title="ONPTS">
+				   <img src="images/bxslider/ONPTS.png" class="img-thumbnail" title="ONPTS">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://disabilityaffairs.gov.in/" title="disabilityaffairs">
+				   <img src="images/bxslider/disabilityaffairs.png" class="img-thumbnail" title="disabilityaffairs">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://pib.nic.in/newsite/mainpage.aspx" title="Press Information Bureau">
+				   <img src="images/bxslider/pib-img.jpg" class="img-thumbnail" title="Press Information Bureau">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.ifcicegssc.in/" title="CEGSSC">
+				   <img src="images/bxslider/ifci.png" class="img-thumbnail" title="CEGSSC">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.vcfsc.in/" title="IFCI VENTURE">
+				   <img src="images/bxslider/vcfsc-logo.png" class="img-thumbnail" title="IFCI VENTURE">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://elderline.dosje.gov.in/" title="National Helpline for Senior Citizens">
+				   <img src="images/bxslider/elderline-logo.jpg" class="img-thumbnail" title="National Helpline for Senior Citizens" alt="Elderline">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://ncwwomenhelpline.in/" title="NCW Women's HelpLine">
+				   <img src="images/bxslider/ncw-helpline.jpg" class="img-thumbnail" title="NCW Women's HelpLine" alt="NCW">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gandhi.gov.in" title="150 Years of Celebrating the Mahatma">
+				   <img src="images/bxslider/Mgandhi.png" class="img-thumbnail" title="150 Years of Celebrating the Mahatma" alt="MGandhi">
+				   </a>
+				</div></div><div class="owl-item" style="width: auto; margin-right: 10px;"><div class="item">
+				    <a target="_blank" href="https://rti.gov.in" title="Right to Information">
+				   <img src="images/bxslider/right-to-information-logo.png" class="img-thumbnail" title="Right to information" alt="Right to information">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://disabilityaffairs.gov.in/">
+				   <img src="images/bxslider/disabilityaffairs.png" class="img-thumbnail" title="disabilityaffairs" alt="img">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://pib.nic.in/newsite/mainpage.aspx" title="Press Information Bureau">
+				   <img src="images/bxslider/pib-img.jpg" class="img-thumbnail" title="Press Information Bureau">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.ifcicegssc.in/" title="CEGSSC">
+				   <img src="images/bxslider/ifci.png" class="img-thumbnail" title="CEGSSC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.vcfsc.in/" title="IFCI VENTURE">
+				   <img src="images/bxslider/vcfsc-logo.png" class="img-thumbnail" title="IFCI VENTURE">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://elderline.dosje.gov.in/" title="National Helpline for Senior Citizens">
+				   <img src="images/bxslider/elderline-logo.jpg" class="img-thumbnail" title="National Helpline for Senior Citizens" alt="Elderline">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://ncwwomenhelpline.in/" title="NCW Women's HelpLine">
+				   <img src="images/bxslider/ncw-helpline.jpg" class="img-thumbnail" title="NCW Women's HelpLine" alt="NCW">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gandhi.gov.in" title="150 Years of Celebrating the Mahatma">
+				   <img src="images/bxslider/Mgandhi.png" class="img-thumbnail" title="150 Years of Celebrating the Mahatma" alt="MGandhi">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://nhapoa.gov.in/" title="National Helpdesk Against Atrocities">
+				   <img src="images/bxslider/nhapoa.jpg" class="img-thumbnail" title="nhapoa" alt="nhapoa">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://www.mygov.in/" title="My Gov">
+				   <img src="images/bxslider/mygov1.png" class="img-thumbnail" title="My Gov" alt="mygov1">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://pgportal.gov.in/" title="CPGRAMS">
+				   <img src="images/bxslider/cpgrams_logo.png" class="img-thumbnail" title="CPGRAMS" alt="CPGRAMS">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://pmagy.gov.in/" title="Pradhan Mantri Adarsh Gram Yojana">
+				   <img src="images/bxslider/PMAGY Logo_small.png" class="img-thumbnail" title="PMAGY" alt="PMAGY">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://gramswarajabhiyan.nic.in/" title="Gram Swaraj Abhiyan">
+				   <img src="images/bxslider/gsa.png" class="img-thumbnail" title="Gram Swaraj Abhiyan" alt="gramswarajabhiyan">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.makeinindia.com/" title="Make In India">
+				   <img src="images/bxslider/makeinindia.png" class="img-thumbnail" title="Make In India" alt="makeinindia">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://india.gov.in/" title="National Portal Of India">
+				   <img src="images/bxslider/india-gov.png" class="img-thumbnail" title="National Portal Of India" alt="india-gov">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://data.gov.in/" title="Open Government Data (OGD) Platform India">
+				   <img src="images/bxslider/data-gov_0.png" class="img-thumbnail" title="Open Government Data (OGD) Platform India">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.digitalindia.gov.in/" title="Digital India Program">
+				   <img src="images/bxslider/digital-india_1.png" class="img-thumbnail" title="Digital India Program">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="https://canarabankcsis.in/ACSIS/" title="ACSIS-OBC-EBC">
+				   <img src="images/bxslider/ACSIS-OBC-EBC.png" class="img-thumbnail" title="ACSIS-OBC-EBC">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://www.ncbc.nic.in" title="National Commission for Backward Classes">
+				   <img src="images/bxslider/backward-classes.png" class="img-thumbnail" title="National Commission for Backward Classes">
+				   </a>
+				</div></div><div class="owl-item cloned" style="width: auto; margin-right: 10px;"><div class="item">
+				   <a target="_blank" href="http://ncsc.nic.in/" title="National Commission for Scheduled Castes">
+				   <img src="images/bxslider/national-commission.png" class="img-thumbnail" title="National Commission for Scheduled Castes">
+				   </a>
+				</div></div></div></div><div class="owl-nav"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+		</div>
+	</div>
+</div>
+<footer class="">
+	<div class="bg-blue">
+	<div class="style">
+	 <div class="d-flex justify-content-start align-items-center pt-4 pb-3">
+		 <img src="images/nic-logo.png" alt=" ">
+		 <p class="flex-fill text-center text-white fw-light fs-7 mb-0">Contents of this website owned and managed by Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, GOI This site is designed, developed, hosted and maintained by National Informatics Centre (NIC).</p>
+	 </div>	
+	 <div class="uwaw uw-light-theme gradient-head uwaw-initial paid_widget" id="uw-main" style="display:none;">   <div class="relative second-panel">      <h3>Accessibility options</h3>      <div class="uwaw-close" onclick="closeMain()"></div>   </div>   <div class="uwaw-body">      <div class="h-scroll">         <div class="uwaw-features">            <div class="uwaw-features__item reset-feature" id="featureItem_sp">               <button id="speak" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-speaker"> </span>               </span>               <span class="uwaw-features__item__name">Text To Speech</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon_sp" style="display: none">               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem">               <button id="btn-s9" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-bigger-text"> </span> </span><span class="uwaw-features__item__name">Bigger Text</span>                  <div class="uwaw-features__item__steps reset-steps" id="featureSteps">                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon" style="display: none">                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-st">               <button id="btn-small-text" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-small-text"> </span> </span><span class="uwaw-features__item__name">Small Text</span>                  <div class="uwaw-features__item__steps reset-steps" id="featureSteps-st">                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-st" style="display: none">                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-lh">               <button id="btn-s12" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-line-hight"> </span>                  </span>                  <span class="uwaw-features__item__name">Line Height</span>                  <div class="uwaw-features__item__steps reset-steps" id="featureSteps-lh">                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-lh" style="display: none">                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-ht">               <button id="btn-s10" onclick="highlightLinks()" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-highlight-links"> </span>               </span>               <span class="uwaw-features__item__name">Highlight Links</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-ht" style="display: none">               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-ts">               <button id="btn-s13" onclick="increaseAndReset()" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">                  <span class="uwaw-features__item__icon">                  <span class="ux4g-icon icon-text-spacing"> </span>                  </span>                  <span class="uwaw-features__item__name">Text Spacing</span>                  <div class="uwaw-features__item__steps reset-steps" id="featureSteps-ts">                     <!-- Steps span tags will be dynamically added here -->                  </div>                  <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-ts" style="display: none">                  </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-df">               <button id="btn-df" onclick="toggleFontFeature()" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-dyslexia-font"> </span>               </span>               <span class="uwaw-features__item__name">Dyslexia Friendly</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-df" style="display: none">               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-hi">               <button id="btn-s11" onclick="toggleImages()" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-hide-images"> </span>               </span>               <span class="uwaw-features__item__name">Hide Images</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-hi" style="display: none">               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-Cursor">               <button id="btn-cursor" onclick="toggleCursorFeature()" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-cursor"> </span>               </span>               <span class="uwaw-features__item__name">Cursor</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-cursor" style="display: none">               </span>               </button>            </div>            <div class="uwaw-features__item reset-feature" id="featureItem-ht-dark">               <button id="dark-btn" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">                  <span class="uwaw-features__item__name">                     <span class="light_dark_icon">                        <input type="checkbox" class="light_mode uwaw-featugres__item__i" id="checkbox">                        <label for="checkbox" class="checkbox-label">                           <!-- <i class="fas fa-moon-stars"></i> -->                           <i class="fas fa-moon-stars">                           <span class="ux4g-icon icon-moon"></span>                           </i>                           <i class="fas fa-sun">                           <span class="ux4g-icon icon-sun"></span>                           </i>                           <span class="ball"></span>                        </label>                     </span>                     <span class="uwaw-features__item__name">Light-Dark</span>                  </span>                  <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-ht-dark" style="display: none; pointer-events: none">                  </span>               </button>            </div>            <!-- Invert Colors Widget -->            <div class="uwaw-features__item reset-feature" id="featureItem-ic">               <button id="btn-invert" class="uwaw-features__item__i" data-uw-reader-content="Enable the UserWay screen reader" aria-label="Enable the UserWay screen reader" aria-pressed="false">               <span class="uwaw-features__item__icon">               <span class="ux4g-icon icon-invert"> </span>               </span>               <span class="uwaw-features__item__name">Invert Colors</span>               <span class="tick-active uwaw-features__item__enabled reset-tick" id="tickIcon-ic" style="display: none">               </span>               </button>            </div>         </div>      </div>      <!-- Reset Button -->   </div>   <div class="reset-panel">      <!-- copyright accessibility bar -->   
+	    <div class="copyrights-accessibility">        
+  	 <button class="btn-reset-all" id="reset-all" onclick="resetAll()">         <span class="reset-icon"> </span>         <span class="reset-btn-text">Reset All Settings</span>         </button>             </div>   </div></div><button id="uw-widget-custom-trigger" class="uw-widget-custom-trigger" aria-label="Accessibility Widget" data-uw-trigger="true" aria-haspopup="dialog"><img src="data:image/svg+xml,%0A%3Csvg width='32' height='32' viewBox='0 0 32 32' fill='none' xmlns='http://www.w3.org/2000/svg'%3E%3Cg clip-path='url(%23clip0_1_1506)'%3E%3Cpath d='M16 7C15.3078 7 14.6311 6.79473 14.0555 6.41015C13.4799 6.02556 13.0313 5.47894 12.7664 4.83939C12.5015 4.19985 12.4322 3.49612 12.5673 2.81719C12.7023 2.13825 13.0356 1.51461 13.5251 1.02513C14.0146 0.535644 14.6383 0.202301 15.3172 0.0672531C15.9961 -0.0677952 16.6999 0.00151652 17.3394 0.266423C17.9789 0.53133 18.5256 0.979934 18.9101 1.55551C19.2947 2.13108 19.5 2.80777 19.5 3.5C19.499 4.42796 19.1299 5.31762 18.4738 5.97378C17.8176 6.62994 16.928 6.99901 16 7Z' fill='white'/%3E%3Cpath d='M27 7.05L26.9719 7.0575L26.9456 7.06563C26.8831 7.08313 26.8206 7.10188 26.7581 7.12125C25.595 7.4625 19.95 9.05375 15.9731 9.05375C12.2775 9.05375 7.14313 7.67875 5.50063 7.21188C5.33716 7.14867 5.17022 7.09483 5.00063 7.05063C3.81313 6.73813 3.00063 7.94438 3.00063 9.04688C3.00063 10.1388 3.98188 10.6588 4.9725 11.0319V11.0494L10.9238 12.9081C11.5319 13.1413 11.6944 13.3794 11.7738 13.5856C12.0319 14.2475 11.8256 15.5581 11.7525 16.0156L11.39 18.8281L9.37813 29.84C9.37188 29.87 9.36625 29.9006 9.36125 29.9319L9.34688 30.0112C9.20188 31.0206 9.94313 32 11.3469 32C12.5719 32 13.1125 31.1544 13.3469 30.0037C13.5813 28.8531 15.0969 20.1556 15.9719 20.1556C16.8469 20.1556 18.6494 30.0037 18.6494 30.0037C18.8838 31.1544 19.4244 32 20.6494 32C22.0569 32 22.7981 31.0162 22.6494 30.0037C22.6363 29.9175 22.6206 29.8325 22.6019 29.75L20.5625 18.8294L20.2006 16.0169C19.9387 14.3788 20.1494 13.8375 20.2206 13.7106C20.2225 13.7076 20.2242 13.7045 20.2256 13.7013C20.2931 13.5763 20.6006 13.2963 21.3181 13.0269L26.8981 11.0763C26.9324 11.0671 26.9662 11.0563 26.9994 11.0438C27.9994 10.6688 28.9994 10.15 28.9994 9.04813C28.9994 7.94625 28.1875 6.73813 27 7.05Z' fill='white'/%3E%3C/g%3E%3Cdefs%3E%3CclipPath id='clip0_1_1506'%3E%3Crect width='32' height='32' fill='white'/%3E%3C/clipPath%3E%3C/defs%3E%3C/svg%3E%0A"><span>Accessibility Options</span></button><!-- accessibility panel end-->
+	
+	</div>
+	<hr class="footer-line my-2">
+	<div class="container-xxl">
+	 <div class="d-flex justify-content-between">
+		<!-- <p class="text-white fw-light mb-2">No. Of Visitors : <b>82,443</b></p>
+		<p class="text-white fw-light mb-2">Page last updated on : <b>28 March 2022</b></p> -->
+	 </div>	
+	</div>	
+   </div>
+</footer>   
+<a href="#top" class="me-2 rounded-pill d-flex justify-content-center align-items-center shadow-md position-fixed px-4 py-2 bg-blue back-top" data-bs-toggle="tooltip" data-bs-placement="left" data-bs-original-title="Back to Top" onclick="this.blur();" data-aos="fade-left">
+ <svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="20" height="16" fill="#fff" viewBox="0 0 53 38">
+	  <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-1" d="M0,26.125V23.749L28.123,0,53,23.749v2.375L28.363,2.375ZM0,38V35.624L28.123,11.875,53,35.624V38L28.363,14.25Z"></path>
+ </svg>
+</a>
+
+
+<!-- contact us page -->
+<div class="modal fade" id="contact-us" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-dialog modal-dialog-centered contact-popup">
+    <div class="modal-content d-block">
+        <button type="button" class="btn-close position-absolute top-0 end-0 mt-4 me-4 contact-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+      <div class="modal-body">
+        <div class="py-5">
+		<div class="container-xxl">
+			<div class="row">
+				<nav aria-label="breadcrumb">
+					<ol class="breadcrumb m-0 fw-light">
+					  <li class="breadcrumb-item"><a href="ngo-login">Home</a></li>
+					  <li class="breadcrumb-item active" aria-current="page">Contact Us</li>
+					</ol>
+				</nav>
+				<div class="col-md-12 mt-5">
+				  <div class="alert alert-danger" role="alert">
+					<p class="m-0"><b>Technical Support</b> Tel No. 011-24364461 (9:30 AM - 5:30 PM) e-Mail: support[dot]ngo-msje[at]nic[dot]in</p>
+				  </div>
+				  <div class="table-responsive">
+					<table class="table table-striped table-bordered fs-7 fw-normal">
+						<thead class="bg-blue text-white">
+						   <tr>
+							  <th width="5%">Sr. No.</th>
+							  <th width="25%">Scheme</th>
+							  <th width="20%">Bureau Head </th>
+							  <th width="20%">Director/ DS</th>
+							  <th width="20%">Under Secretary</th>
+						   </tr>
+						</thead>
+						<tbody class="border-top-0">
+						   <tr>
+							  <td>1</td>
+							  <td>Scheme for Residential Education for Students in High Schools in Targeted Areas (SHRESHTA)<br>(Earlier known as Scheme of Grant in Aid to Voluntary Organisations working for Scheduled Castes (SC))</td>
+							  <td>Shri Parveen Kumar Thind, JS<br>
+								 e-Mail : jsscd-msje[at]nic[dot]in <br>
+							  </td>
+							  <td>Shri Mahesh Kumar Meena<br>
+								 Tel. No. 011-26110094<br>
+								 e-Mail : mkmeena[dot]edu[at]nic[dot]in<br>
+							  </td>
+							  <td>Shri Gottimukkala Vijay Kumar<br>
+								 Tel. No.011-24105013 <br>
+								 e-Mail : g[dot]vijaykumar[at]gov[dot]in<br>
+							  </td>
+						   </tr>
+						   <tr>
+							  <td>2</td>
+							  <td>National Action Plan for Senior Citizen (NAPSrC)</td>
+							  <td>Ms. Monali P. Dhakate, JS<br>
+								 e-Mail : jssrc-msje[at]gov[dot]in <br>
+							  </td>
+							<!--  <td>Shri Puspendra Singh<br>
+								 Tel. No. 011-23070251<br>
+								 e-Mail : pushpendra[dot]singh[at]nic[dot]in<br>
+							  </td>-->
+                                                            <td>Shri Praveen Sharma<br>
+						                Tel. No. 011-24672193    <br>
+								 e-Mail : praveen[dot]sharma68[at]gov[dot]in<br>
+							  </td>
+
+							  <td>Ms Bharati Gusain<br>
+								 Tel. No. 011-26110104 <br>
+								 e-Mail : bharati[dot]gusain[at]nic[dot]in<br>
+							  </td>
+						   </tr>
+						   <tr>
+							  <td>3</td>
+							  <td>National Action Plan for Drug Demand Reduction (NAPDDR)</td>
+							  <td>Ms. Pratima Gupta, DDG<br>
+								 e-Mail : jssd-msje[at]nic[dot]in<br>
+							  </td>
+							  <td>
+								 Shri Anil Kumar Vinayak Patil<br>
+								 Tel. No. 011-23782713 <br>
+								 e-Mail: anil[dot]kvpatil[dot]ncbc[at]nic[dot]in<br><br>
+								 							  </td>
+							  <td>Shri Imtiyaz Ahmad Kamal<br>
+								 Tel No. 011-26116320 <br>
+								 e-Mail : ai[dot]kamal[at]nic[dot]in
+							  </td>	
+						 </tr>
+						  <!--  <tr>
+							  <td>4</td>
+							  <td>Free Coaching Scheme for SC and OBC students.</td>
+							  <td>Sh. Biswaranjan Sasmal, AS<br>
+								 e-Mail : jsscd-msje[at]nic[dot]in <br>
+							  </td>
+							  <td>Shri Sanjay Gupta, DS<br>
+								 Tel. No. 011-23070251<br>
+								 e-Mail : sanjayg[dot]edu[at]nic[dot]in<br>
+							  </td>
+							  <td>Shri Praveen Kr. Tripathi<br>
+								 Tel No. 011-23389368<br>
+								 e-Mail: pravin[dot]tripathi[at]nic[dot]in<br>
+							  </td>
+						   </tr> -->
+						  <tr>
+							  <td>4</td>
+							  <td>Support for Marginalised Individuals for Livelihood and Enterprise (SMILE)</td>
+							  <td>Ms. Yogita Swaroop, Sr. EA<br>
+								 e-Mail : jssd-msje[at]nic[dot]in<br>
+							  </td>
+							 <td>
+								 Shri Anil Kumar Vinayak Patil<br>
+								 Tel. No. 011-23782713 <br>
+								 e-Mail: anil[dot]kvpatil[dot]ncbc[at]nic[dot]in<br><br>
+							  </td>
+							  <td>Shri Imtiyaz Ahmad Kamal<br>
+								 Tel No. 011-26116320 <br>
+								 e-Mail : ai[dot]kamal[at]nic[dot]in
+							  </td>
+						   </tr>
+
+						 	 <tr>
+							  <td>5</td>
+							  <td> NIC</td>
+							  <td>Shri Bhupinder Pathak, DDG<br>
+							    Tel No. 011-24360791<br>
+								e-Mail : hod-sje[at]nic[dot]in<br>
+							 <!--  <br/>Shri Bhuwan Chandra Mishra, STD<br />
+								e-Mail : bcmishra[at]nic[dot]in<br /> -->
+							  </td>
+							 <td>Shri  Manjeet Kumar, DD<br>
+								 Tel No. 011-24305618 <br>
+								 e-Mail : officer2[dot]sje[at]nic[dot]in<br>
+							  </td>	
+							 <td></td>
+						   </tr>
+						</tbody>
+					</table>
+				  </div>
+				</div>
+			</div>
+		</div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>	 
+
+<!-- Modal dash board -->
+<!-- <div class="modal fade" id="dashboard" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+	<button type="button" class="btn-close position-absolute top-0 end-0 mt-4 me-4 contact-close-btn" data-bs-dismiss="modal" aria-label="Close"></button>
+      <div class="modal-body">
+        <div class="py-5">
+		<div class="container-xxl">
+			<div class="row">
+				<nav aria-label="breadcrumb">
+					<ol class="breadcrumb m-0 fw-light">
+					  <li class="breadcrumb-item"><a href="ngo-login">Home</a></li>
+					  <li class="breadcrumb-item active" aria-current="page">Dashboard</li>
+					</ol>
+				</nav>
+				Dashboard Content Here
+			</div>
+		</div>
+		</div>
+      </div>
+    </div>
+  </div>
+</div> -->
+<!-- Schemes Popup -->
+<div class="modal fade" id="schemes" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Schemes</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+        <!--	<li class="fw-bold fs-7 mb-2">DoSJ&E</li>-->
+        	<li class="fw-bold fs-7 mb-2"><a href="revised-napddr-action-plan" target="_blank">National Action Plan for Drug Demand Reduction (NAPDDR) </a></li>
+        	<li class="fw-bold fs-7 mb-2"><a href="display-avyay" target="_blank">Atal Vayo Abhyuday Yojana (AVYAY)</a></li>
+        	<li class="fw-bold fs-7 mb-2"><a href="scguidelines" target="_blank">Scheme For Residential Education For Students in High Schools in Targeted Areas(SHRESHTA) for SC Welfare</a></li>
+            <!--<li class="fs-7 mb-2">Assistance to Voluntary Organizations for Welfare of OBCs</li> -->
+            <!--<li class="fw-bold fs-7 mb-2"><a href="fccguidelines" target="_blank">Free Coaching Scheme For SC And OBC Students (FCFSO)</a></li>-->
+        	<li class="fw-bold fs-7 mb-2"><a href="display-smile-guidelines" target="_blank"> Support for Marginalised Individuals for Livelihood and Enterprise (SMILE)</a></li>
+        <!--	<li class="fw-bold fs-7 mb-2">DEPWD</li>
+        	<li class="fw-bold fs-7 mb-2"><a href="ddrsguidelines" target="_blank">Deendayal Divyangjan Rehabilitation Scheme to Promote Voluntary Action for Persons with Disabilities (DDRS Scheme)</a></li>
+        	<li class="fw-bold fs-7">Scheme of Assistance to Persons with Disabilities for Purchase/ Fitting of Aids and Appliances (ADIP Scheme)</li>-->
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- NGO Popup -->
+<div class="modal fade" id="ngo-login" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered modal-lg">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">NGO Registration</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+        	<li class="fw-bold fs-7 mb-2">* Prior to Registration on portal e-ANUDAAN of the MoSJE http://grants-msje.gov.in , it is mandatory for every NGO to register first at NGO- DARPAN portal of NITI Aayog https://ngodarpan.gov.in and to get NGO Unique ID.</li>
+        	<li class="fw-bold fs-7 mb-2">* During registration, NGO have to submit NGO Unique ID and PAN of the organisation. Common registration details of organisation available on NGO-Darpan will automatically be auto-filled in non-editing mode. A few details like Username/ Password and scheme etc. are required to be submitted by NGO. Take care of all input fields marked with * which are mandatory to fill and follow the instructions.</li>
+        	<li class="fw-bold fs-7 mb-2">* Registration on this portal needs to be done only once. The NGO(s) who had registered earlier on this portal need not to register again. NGO(s) who have registered multiple times and are having multiple login/userid accounts, will be shown all login accounts. NGO would select only one login/user id account to keep it active in future. All other login/user id account(s) will be deactivated however would remain available for uploading the deficient documents.</li>
+        	<li class="fw-bold fs-7 mb-2">* For updating any NGO registration details at e-Anudaan, it is to be updated first at NGO Darpan. Update Profile option in NGO login at e-Anudaan would enable NGO to update the profile details.</li>
+        	<li class="fw-bold fs-7 mb-2"><b>Note:</b> In case of any query relating to the above, kindly send email to support[dot]ngo-msje[at]nic[dot]in for the needful.</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <a href="register-page" class="btn btn-dark">Proceed</a>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- DDAC -->
+<div class="modal fade" id="ddac-napddr" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">DDAC</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+        	<li class="fw-bold fs-7 mb-2">Registration on this portal needs to be done only once.</li>
+        	<li class="fw-bold fs-7 mb-2">The State Govt/District Admin who had registered earlier on this portal need not register again.</li>
+        	<li class="fw-bold fs-7 mb-2">The State Govt/District Admin who have registered multiple times and are having multiple login/userid accounts, barring one login/userid account all other login/userid account(s) will be deactivated.</li>
+        	<li class="fw-bold fs-7 mb-2"><b>Note:</b> In case of any query relating to the above, kindly send email to support[dot]ngo-msje[at]nic[dot]in for the needful.</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <a href="register-page-govt" class="btn btn-dark">Proceed</a>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Free Coaching -->
+<div class="modal fade" id="free-coaching" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title" id="exampleModalLabel">Free Coaching</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+        	<li class="fw-bold fs-7 mb-2">Registration on this portal needs to be done only once.</li>
+        	<li class="fw-bold fs-7 mb-2">The NGO(s) who had registered earlier on this portal need not register again.</li>
+        	<li class="fw-bold fs-7 mb-2">NGO(s) who have registered multiple times and are having multiple login/userid accounts, barring one login/userid account all other login/userid account(s) will be deactivated.</li>
+        	<li class="fw-bold fs-7 mb-2"><b>Note:</b> In case of any query relating to the above, kindly send email to support[dot]ngo-msje[at]nic[dot]in for the needful.</li>
+        </ul>
+      </div>
+      <div class="modal-footer">
+        <a href="register-page-inst" class="btn btn-dark">Proceed</a>
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+<!-- Office Memorandums Popup -->
+<div class="modal fade" id="omId" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
+  <div class="modal-dialog modal-dialog-centered">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h5 class="modal-title">Office Memorandums</h5>
+        <button type="button" class="btn-close" data-bs-dismiss="modal" aria-label="Close"></button>
+      </div>
+      <div class="modal-body">
+        <ul>
+        	<li class="fw-bold fs-7 mb-2"> <a href="https://socialjustice.gov.in/writereaddata/UploadFile/14471719837115.pdf" target="_blank"> Notice inviting applications for new cases under AYVYAY in Gap Districts Published Date: 01 Jul 2024)</a></li>						
+			<li class="fw-bold fs-7 mb-2"> <a href="https://socialjustice.gov.in/writereaddata/UploadFile/33281719834645.pdf" target="_blank">Extension of portal for AVYAY ONGOING cases for 2024-25 First installment till 15.7.2024  Published Date: 01 Jul 2024</a></li>		 			 
+			<li class="fw-bold fs-7 mb-2"> <a href="https://socialjustice.gov.in/writereaddata/UploadFile/85831719577891.pdf" target="_blank">Advertisement for new Regional Resource &amp; Training Centres (RRTCs) under Sr Citizen Division of Ministry of Social Justice and Empowerment </a></li>
+		<!--<li class="fw-bold fs-7 mb-2">  <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-odic-cost-norms-2021-22.pdf' target="_blank">Cost Norms of ODIC, CPLI & SLCA (2021-22) </a></li>
+			<li class="fw-bold fs-7 mb-2"> <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-irca-cost-norms-2021-22.pdf' target="_blank">Cost Norms of IRCA (2021-22) </a></li>
+			<li class="fw-bold fs-7 mb-2"> <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-napsrc-avyay.pdf' target="_blank">Atal Vayo Abhyuday Yojana (AVYAY) (2021-22) </a></li>
+			<li class="fw-bold fs-7 mb-2"> <a href='http://socialjustice.gov.in/writereaddata/UploadFile/display-avyay-corrigendum.pdf' target="_blank">CORRIGENDUM for Atal Vayo Abhyuday Yojana (AVYAY) (2021-22)</a></li> -->
+		 </ul>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<script>
+var data = [];
+var filename =[];
+var indexes = [];
+
+
+ function define_variable()
+ {
+	 multi_dataset_page = true;
+	  multi_dataset_page_with_explorer = true;
+	 /// data_table_width = "40%";
+	///  data_font_size = "75%";
+	  total_no_div_graph = 7;
+ }
+
+show_dashboard();
+
+//##################################
+//######### get_multi_dataset_matrix  ####
+//##################################
+function get_multi_dataset_matrix()
+{
+try
+{
+if (template_name=="template_1" || template_name=="template_4")
+{
+ // get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_OBC.csv");  
+  get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_ADIP.csv");  
+ get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_DRUGS.csv"); 
+ get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_IPOP.csv"); 
+ get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_SC.csv");  
+ get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_FCC.csv");  
+ get_matrix("dashboardcsvfile/prpslRecSancScmDateWise_DDRS.csv");  
+
+}
+else
+{
+ get_matrix("json/example_Registration.json");  
+}
+
+}
+catch(e)
+{
+alert("Error in get_multi_dataset_matrix"+e);
+}
+}
+
+//##################################
+//######### get_default_page #######
+//##################################
+function get_default_page(g_dataObj,fileName)
+{
+try
+{
+	
+		data[dataset_no] = g_dataObj;
+		filename[dataset_no] = fileName;
+		indexes[dataset_no] = fileName.split("_")[1].split(".")[0];
+		dataset_no++;
+		
+		if(dataset_no==6){
+			drawChart(data,filename);
+		}
+	
+ /* if (dataset_no ==0 && fileName.split("_")[1].split(".")[0]=="DRUGS")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+  get_chart_common_code_multi_col_selected('bar',           'div_graph'   , g_dataObj,'small');
+  dataset_no++;
+ }
+ else if (dataset_no ==1 && fileName.split("_")[1].split(".")[0]=="IPOP")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_1'   , g_dataObj,'small');
+  dataset_no++;
+ }
+ else if (dataset_no ==2 && fileName.split("_")[1].split(".")[0]=="SC")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_2'   , g_dataObj,'small');
+  dataset_no++;
+ }
+ else if (dataset_no ==3 && fileName.split("_")[1].split(".")[0]=="FCC")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+		line_area_fill = true;
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_3'   , g_dataObj,'small');
+   line_area_fill = false;
+  dataset_no++;
+ }
+ else if (dataset_no ==4 && fileName.split("_")[1].split(".")[0]=="DDRS")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+		line_area_fill = true;
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_4'   , g_dataObj,'small');
+   line_area_fill = false;
+  dataset_no++;
+ }
+ else if (dataset_no ==5 && fileName.split("_")[1].split(".")[0]=="ADIP")
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+		line_area_fill = true;
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_5'   , g_dataObj,'small');
+   line_area_fill = false;
+  dataset_no++;
+ } */
+/*  else if (dataset_no ==6)
+ {
+	 chart_title  =fileName.split("_")[1].split(".")[0];
+	 //col_label_display_limit=8;
+		//canvas_height="550";
+		//data_table_width = "90%";
+		y_axis_label = "Total";
+		x_axis_label = "Financial Year Range";
+		show_legend  = true;
+		g_graph_color =  '#F08080';
+		line_area_fill = true;
+   get_chart_common_code_multi_col_selected('bar',           'div_graph_6'   , g_dataObj,'small');
+   line_area_fill = false;
+  dataset_no++;
+ } */
+
+}
+catch(e)
+{
+ alert("Error in get_default_page"+e);
+}
+}
+
+function drawChart(data,filename){
+	var graphNumber = "div_graph";
+	var graphNumberTemp;
+	
+	for(var i=0; i<data.length; i++){
+		chart_title  =filename[i].split("_")[1].split(".")[0];
+		if(chart_title=="ADIP")
+			graphNumberTemp = graphNumber+"_"+5;
+		else if(chart_title=="DDRS")
+			graphNumberTemp = graphNumber+"_"+4;
+		else if(chart_title=="IPOP")
+			graphNumberTemp = graphNumber+"_"+1;
+		else if(chart_title=="SC")
+			graphNumberTemp = graphNumber+"_"+2;
+		else if(chart_title=="DRUGS")
+			graphNumberTemp = graphNumber;
+		else if(chart_title=="FCC")
+			graphNumberTemp = graphNumber+"_"+3;
+			
+		 col_label_display_limit=8;
+			//canvas_height="550";
+			//data_table_width = "90%";
+			y_axis_label = "Total";
+			x_axis_label = "Financial Year Range";
+			show_legend  = true;
+			g_graph_color =  '#F08080';
+			line_area_fill = true;
+	   get_chart_common_code_multi_col_selected('bar',           graphNumberTemp   , data[indexes.indexOf(chart_title)],'small');
+	   line_area_fill = false;
+	}
+	//alert("aakash");
+}
+
+</script>
+<script src="/js/jquery-3.6.0.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/jquery-ui-1.7.2.custom.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script> 	   
+	<script src="/js/states.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/district.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/eawedan.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>	
+	<script src="/js/jquery.showhide.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>	
+	<script src="/js/login.algorithm.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/cache.offline.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/print.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/popper.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/bootstrap.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/owl.carousel.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/dashboard/Chart.min.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script src="/js/msje/forgot-pwd-sms-otp-hint.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+	<script type="text/javascript" src="js/dashboard/dashboardAPI.js?p1=" +="" (new="" date).getyear()+(new="" date).getmonth()+(new="" date).getdate()+(new="" date).gettime()=""></script>
+	<script src="/js/customize.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+<script type="text/javascript">
+jQuery(function() {
+    jQuery('#userId').attr('autocomplete', 'off');
+});
+
+	
+	$('document').ready(function(){
+		$("span, .overlayAnudan").click(function () {
+    	    $(".showAnudan").fadeOut();
+    	});
+		
+		// added on 11-08-2021
+		var overlay = $('<div id="overlay1"></div>');
+		overlay.show();
+		overlay.appendTo(document.body);
+		$('.popup').show();
+		$('.close').click(function(){
+		$('.popup').hide();
+		overlay.appendTo(document.body).remove();
+		return false;
+		});
+		// End here 11-08-2021
+		// Commented as JS FCC desired 11-05-2020
+		// promptBONotice('body');
+		$('#annualPlanContent').hide();
+		$('#contactContent').hide();
+		$('#schemeContent').hide();
+		/* $('#loginBoContent').hide(); */
+		$('#loginNgoContent').hide();
+		$('#officeMemorandumContent').hide();
+		
+		$('.forgotPwdShowHints').click(function(){
+			var forgotPwdHrefAction = 'forgot-password?usrType=0';
+			forgotPwdShowHints(forgotPwdHrefAction);
+		});
+		
+		$('#refreshCaptcha').click(function(){
+			var d = new Date();
+			var refreshCaptcha = 'captcha?'+d.getTime();
+			refreshSrc="/"+refreshCaptcha+";jsessionid=6033D919DA376171C2545CC4C8DC910E";
+			$("#captchaCodeImg").attr("src", refreshSrc);	
+		});
+		
+		$('#regtrngo1').click(function(){
+			var registerNgoHrefAction = 'register-page';
+		//	var registerNgoHrefAction = 'register-page-ngo';
+			registerNgoShowHints(registerNgoHrefAction);
+		}); 
+		
+		$('#regtrinst1').click(function(){			
+			var registerNgoHrefAction = 'register-page-inst';
+			//window.location.href=registerNgoHrefAction;
+			registerFreeCoachingShowHints(registerNgoHrefAction);
+		});
+		
+		$('#annualPlanId').popover({
+		    html: true,
+		    placement: 'bottom',
+		    title: 'Action Plans : ',
+		    content: $('#annualPlanContent').html(),
+		});
+		
+		$('#schemeId').popover({
+		    html: true,
+		    placement: 'bottom',
+		    title: 'Schemes : ',
+		    content: $('#schemeContent').html(),
+		});
+		
+		$('#officeMemorandumId').popover({
+		    html: true,
+		    placement: 'bottom',
+		    title: 'Office Memorandum : ',
+		    content: $('#officeMemorandumContent').html(),
+		});
+		
+		$('#annualPlanId').click(function (e) {
+		    e.stopPropagation();
+		    $('#contactId').popover('hide');
+	        $('#schemeId').popover('hide');
+	        $('#officeMemorandumId').popover('hide');
+	        //$('#registrationGuideId').popover('hide');
+		});
+		$('#schemeId').click(function (e) {
+		    e.stopPropagation();
+		    $('#annualPlanId').popover('hide');
+	        $('#contactId').popover('hide');
+	        $('#officeMemorandumId').popover('hide');
+	       // $('#registrationGuideId').popover('hide');
+		});
+		$('#officeMemorandumId').click(function (e) {
+		    e.stopPropagation();
+		    $('#annualPlanId').popover('hide');
+	        $('#contactId').popover('hide');
+	        $('#schemeId').popover('hide');
+	       // $('#registrationGuideId').popover('hide');
+		});
+		
+		$(document).click(function (e) {
+		    if (($('.popover').has(e.target).length == 0) || $(e.target).is('.close')) {
+		        $('#annualPlanId').popover('hide');
+		        $('#contactId').popover('hide');
+		        $('#schemeId').popover('hide');
+		        $('#officeMemorandumId').popover('hide');
+		        //$('#registrationGuideId').popover('hide');
+		        //$('#loginBoId').popover('hide');
+		    }
+		});
+		
+		 $('.open_button').click(function () {
+			  $('#pmo_popup_div').hide();
+			});
+		
+	});
+	
+
+	
+	function openNav() {
+		document.getElementById("contactNav").style.width = "0%";
+		if(document.getElementById("myNav").style.width == "100%")
+	  		document.getElementById("myNav").style.width = "0%";
+		else
+			document.getElementById("myNav").style.width = "100%";
+		}
+		
+		function closeNav() {
+		  document.getElementById("myNav").style.width = "0%";
+		}
+		
+		function openContactUs() {
+			document.getElementById("myNav").style.width = "0%";
+			if(document.getElementById("contactNav").style.width == "100%")
+		  		document.getElementById("contactNav").style.width = "0%";
+			else
+				document.getElementById("contactNav").style.width = "100%";
+			}
+			
+			function closeContactUs() {
+			  document.getElementById("contactNav").style.width = "0%";
+			}
+	
+</script>
+<script>
+document.addEventListener("DOMContentLoaded", function(){
+  var pwd = document.getElementById("password");
+  if (!pwd) return;
+
+  
+  pwd.addEventListener("paste", function(e){
+    e.preventDefault();
+    //alert("Paste disabled. Please type your password.");
+  });
+ 
+  pwd.addEventListener("keydown", function(e){
+    if ((e.ctrlKey || e.metaKey) && (e.key.toLowerCase() === "v")) {
+      e.preventDefault();
+      //alert("Paste disabled. Please type your password.");
+    }
+  });
+  
+  pwd.addEventListener("drop", function(e){
+    e.preventDefault();
+    //alert("Dropping disabled. Please type your password.");
+  });
+
+  pwd.addEventListener("contextmenu", function(e){
+    e.preventDefault();
+  });
+});
+</script>
+<script>
+function openNMBA() {
+    document.getElementById("NMBA_backdrop").style.display = "block";
+    document.getElementById("NMBA_popup_div").style.display = "block";
+}
+
+function closeNMBA() {
+    document.getElementById("NMBA_backdrop").style.display = "none";
+    document.getElementById("NMBA_popup_div").style.display = "none";
+}
+
+document.getElementById("NMBA_backdrop").addEventListener("click", closeNMBA);
+</script>
+<script src="js/msje/weights-v1.js;jsessionid=6033D919DA376171C2545CC4C8DC910E" type="text/javascript"></script>
+
+
+<div id="overlay1"></div></body></html>

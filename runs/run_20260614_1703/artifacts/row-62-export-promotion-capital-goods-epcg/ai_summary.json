@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-62",
+  "scheme_name": "Export Promotion Capital Goods (EPCG)",
+  "scheme_url": "https://www.dgft.gov.in/CP/?opt=epcg",
+  "ministry_or_category": "Commerce & Industry",
+  "overview": "The Export Promotion Capital Goods (EPCG) Scheme facilitates the import of capital goods for pre-production, production, and post-production at zero customs duty to enhance India's manufacturing competitiveness. It allows import of capital goods for producing quality goods and services, with exemptions from IGST and Compensation Cess up to 31.03.2020. The scheme covers manufacturer exporters, merchant exporters tied to supporting manufacturers, and service providers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturer exporters",
+    "merchant exporters",
+    "service providers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate import of capital goods for producing quality goods and services",
+    "Enhance India's manufacturing competitiveness",
+    "Allow import of capital goods at zero customs duty",
+    "Provide exemption from IGST and Compensation Cess up to 31.03.2020",
+    "Support physical exports through capital goods import"
+  ],
+  "eligibility": "To apply for an EPCG scheme, an IEC is required. Other pre-requisites as mentioned in Chapter 5 of Foreign Trade Policy and Handbook of Procedures may be referred.",
+  "benefits": "Import of capital goods for pre-production, production, and post-production at zero customs duty. Capital goods imported under EPCG for physical exports are exempt from IGST and Compensation Cess up to 31.03.2020. Alternatively, exporters may procure capital goods from the domestic market in accordance with paragraph 5.07 of FTP.",
+  "financial_support": "The scheme provides zero customs duty on import of capital goods for pre-production, production, and post-production. Capital goods imported under EPCG for physical exports are exempt from IGST and Compensation Cess up to 31.03.2020. Exporters may also procure capital goods from the domestic market per paragraph 5.07 of FTP.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure you have an IEC (Importer Exporter Code). 2. Refer to Chapter 5 of Foreign Trade Policy and Handbook of Procedures for pre-requisites. 3. Apply for EPCG via ANF-5A form. 4. Access services such as amendment, invalidation, revalidation, clubbing, closure, installation certificate, license status, EO/block extension, authorisation transmission, manual EODC status update, EPCG committee request, review application, transfer of authorisation, annual reporting of EO fulfilment, and help/FAQs through the DGFT portal.",
+  "application_portal_url": "https://dgft.gov.in/CP/?opt=epcg",
+  "required_documents": [
+    "IEC (Importer Exporter Code)",
+    "ANF-5A application form",
+    "Documents as per Chapter 5 of Foreign Trade Policy and Handbook of Procedures"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry",
+  "contact_details": "Email: dgftedi[at]nic[dot]in | Helpline: 1800-572-1550 / 1800-111-550",
+  "caveats": [
+    "Capital goods for EPCG scheme include: Capital Goods as defined in Chapter 9, computer systems and software part of capital goods, spares, moulds, dies, jigs, fixtures, tools & refractories, catalysts for initial charge plus one subsequent charge",
+    "Exporter may alternatively procure capital goods from domestic market per paragraph 5.07 of FTP",
+    "IGST and Compensation Cess exemption available only up to 31.03.2020"
+  ],
+  "source_cited_notes": [
+    "https://dgft.gov.in/CP/?opt=epcg"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:16:29.439187+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-78",
+  "scheme_name": "National Bio Energy Programme - Biogas",
+  "scheme_url": "https://mnre.gov.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "The National Bio Energy Programme - Biogas is a scheme under the Ministry of New and Renewable Energy (MNRE) aimed at promoting biogas technology for clean cooking and lighting in rural areas. It provides Central Financial Assistance (CFA) for setting up biogas plants, including family-size and community/ institutional plants, to reduce dependence on fossil fuels and improve rural energy access. The programme supports the installation of biogas plants through State Nodal Agencies and implementing agencies, with subsidies disbursed after verification of plant completion and functionality.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural households",
+    "farmers",
+    "institutions",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote biogas technology for clean cooking and lighting in rural areas",
+    "Reduce dependence on fossil fuels and firewood for domestic energy needs",
+    "Improve rural livelihoods and energy security through decentralized renewable energy",
+    "Strengthen the country's renewable energy mix by utilizing organic waste for energy generation",
+    "Provide financial support for installation of family-size and community/ institutional biogas plants",
+    "Encourage private sector participation and entrepreneurship in biogas technology",
+    "Ensure quality and performance of biogas plants through monitoring and verification"
+  ],
+  "eligibility": "Any individual, farmers, institutions, industries, or NGOs can apply for setting up biogas plants under the National Bio Energy Programme. The applicant must be the owner or authorized representative of the site where the biogas plant is to be installed. For community/ institutional plants, the applying entity must have legal ownership or long-term usage rights of the land. The proposed biogas plant must conform to MNRE-approved designs and specifications, and the beneficiary must contribute the beneficiary share as per the scheme guidelines.",
+  "benefits": "Financial benefits include Central Financial Assistance (CFA) as a subsidy towards the capital cost of biogas plants. Non-financial benefits include access to clean cooking fuel, reduction in indoor air pollution, production of organic slurry as bio-fertilizer, improved sanitation through waste management, and potential for income generation from excess biogas or slurry sale. The scheme also promotes energy independence in rural areas and supports sustainable agriculture through slurry utilization.",
+  "financial_support": "Central Financial Assistance (CFA) is provided as a subsidy for biogas plants. For family-size biogas plants (1 to 25 m³ capacity), CFA is ₹9,000 per m³ for general category and ₹12,000 per m³ for North Eastern States, including Sikkim. For community/ institutional biogas plants (above 25 m³ capacity), CFA is 30% of the benchmark cost, with higher rates of 50% for North Eastern States, hilly areas, and islands. The CFA is released in instalments after verification of plant installation and functionality, with the beneficiary share to be borne by the applicant.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the appropriate biogas plant size and type based on requirement. 2. Contact the State Nodal Agency or Khadi and Village Industries Commission (KVIC) for guidance and application forms. 3. Submit the application along with required documents to the State Nodal Agency or implementing agency. 4. Obtain technical sanction and approval for the biogas plant design and site. 5. Install the biogas plant using an approved turnkey key worker or through self-construction with technical guidance. 6. Notify the implementing agency upon completion for inspection and verification. 7. After successful verification of plant functionality, submit the completion report and utilization certificate. 8. Receive disbursement of Central Financial Assistance (CFA) directly into the beneficiary's bank account.",
+  "application_portal_url": "https://mnre.gov.in/en/bio-gas/",
+  "required_documents": [
+    "Application form for biogas plant",
+    "Proof of land ownership or usage rights",
+    "Identity proof of applicant (Aadhaar, Voter ID, etc.)",
+    "Bank account details (passbook or cancelled cheque)",
+    "Site plan and layout of the proposed biogas plant",
+    "Beneficiary share contribution proof (if applicable)",
+    "Completion report and utilization certificate after installation",
+    "Photographs of the installed biogas plant (before and after)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE)",
+  "contact_details": "Email: biogas@mnre.gov.in | Helpline: 1800-180-3333 (PM-KUSUM toll-free, may be used for general queries)",
+  "caveats": [
+    "CFA is released only after successful installation, inspection, and verification of the biogas plant",
+    "The beneficiary must bear the non-subsidized portion of the plant cost",
+    "Plants must be installed using MNRE-approved designs and through authorized agencies or turnkey workers",
+    "Subsidy claims must be submitted within the stipulated time after plant completion",
+    "Funds are subject to availability and may be exhausted during the financial year"
+  ],
+  "source_cited_notes": [
+    "https://mnre.gov.in/en/bio-gas/",
+    "https://mnre.gov.in/",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/03/202603191833866183.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:26:19.499527+00:00"
+}
