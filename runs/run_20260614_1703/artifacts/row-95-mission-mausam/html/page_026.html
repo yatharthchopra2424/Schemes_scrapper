@@ -1,0 +1,802 @@
+<html lang="en"><head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="IMD_IT_TEAM">
+    <!-- <meta http-equiv="Content-Security-Policy" content="upgrade-insecure-requests"> -->
+    <meta name="generator" content="IMD_GANGTOK">
+    <title>SDW Warnings | India Meteorological Department</title>
+   
+    <!-- Bootstrap core CSS -->
+    <link href="assets/css/bootstrap.min.css" rel="stylesheet">
+    <!-- Font Awesome CSS -->
+    <link href="assets/font-awesome/css/font-awesome.min.css" rel="stylesheet">
+    <!-- Leaflet export css -->
+    <link rel="stylesheet" href="js/leaflet/leaflet.css">
+    <link rel="stylesheet" href="js/leaflet/leaflet.zoomhome.css">
+    <link rel="stylesheet" href="js/leaflet/Leaflet.BigImage.css">
+    <!-- Custom styles for this template -->
+    <link href="css/style.css" rel="stylesheet">
+    <link href="css/style-in.css" rel="stylesheet">
+    
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="img/logo/imd_icon.ico">
+    <style type="text/css">
+      .popupMessage {
+        font-size: 12px;
+        max-width: 200px;
+      }
+      @media only screen and (max-width: 600px) {
+        .popupMessage {
+          font-size: 10px;
+          max-width: 120px;
+        }
+        .popupMessage h6{
+          font-size: 10px;
+          font-weight: bold;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- header + navigation include -->
+        <!-- header -->    
+		<section class="header">
+			<!-- header top area -->
+			<div class="header-top">
+				<div class="container-xxl">
+					<div class="social-media">
+						<a href="https://www.facebook.com/India.Meteorological.Department/" target="new" class="sm-link facebook" title=""><i class="bi bi-facebook"></i></a>
+						<a href="https://www.youtube.com/channel/UC_qxTReoq07UVARm87CuyQw/featured?view_as=subscriber" target="new" class="sm-link youTube" title=""><i class="bi bi-youtube"></i></a>
+						<a href="https://twitter.com/Indiametdept" target="new" class="sm-link twitter" title=""><i class="bi bi-twitter"></i></a>
+						<a href="https://instagram.com/mausam_nwfc/" target="new" class="sm-link instagram" title=""><i class="bi bi-instagram"></i></a>
+						<a href="https://imdweather1875.wordpress.com/" target="new" class="sm-link instagram" title=""><i class="bi bi-chat-fill"></i></a>
+						
+						<a href="/index.php" class="hindi">हिन्दी वेबसाईट</a>
+					</div>
+				</div>
+			</div>
+			<div class="container-xxl">
+				<div class="header-content">
+					<div class="logo-area">
+						<img src="img/logo/logo_emb.png" class="logo img-fluid" alt="EMBLEM">
+						<h4>India Meteorological Department</h4>
+						<h4>Ministry of Earth Sciences</h4>
+						<h4>Government of India</h4>
+					</div>
+					<div class="social-area">
+						<form class="d-flex form-inline" action="https://www.google.com/search" method="get" target="_blank" onsubmit="this.q.value = 'site:*.imd.gov.in ' + this.sr.value;return true;">
+							<input class="form-control rounded me-1" type="search" name="sr" id="sr" placeholder="Search here...">
+							<input class="form-control rounded me-1" type="hidden" name="q" id="q" placeholder="Search here...">
+							<button class="btn rounded" value="Search" name="Search" id="Search" type="submit"><i class="bi bi-search"></i></button>
+						</form>
+						<div class="clearfix"></div>
+					</div>
+					<div class="lmdlogo-area">
+						<img src="img/logo/imd_logo_a.webp" class="logo" alt="IMD_LOGO">
+						<img src="img/logo/esso.png" class="logo-150-right img-fluid" alt="ESSO" style="height:85px;">
+						<a href="https://mausam.imd.gov.in/event/" target="_blank" rel="noopener noreferrer"><img src="img/logo/imd150t.webp" class="logo-150-right img-fluid" alt="IMD_150"></a>
+						<a href="https://2025.coop/" target="_blank" rel="noopener noreferrer"><img src="img/logo/iyc2025.png" class="logo-150-right img-fluid" alt="IYC 2025"></a>
+
+					</div>
+				</div>
+				<div class="text-center">
+					<img src="img/logo/esso.png" class="logo-150-center-xs" alt="ESSO">
+					<a href="https://mausam.imd.gov.in/event/" target="_blank" rel="noopener noreferrer"><img src="img/logo/imd150t.webp" class="logo-150-center-xs" alt="IMD_150"></a>
+				</div>
+				
+			</div>
+		</section>
+		<!-- header end -->
+		
+		<!-- navigation -->
+		<section class="navigation">
+			<nav class="navbar navbar-expand-lg">
+				<div class="container-xxl">
+					<button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
+						<i class="bi bi-stack"></i>
+					</button> <span class="visible-xs"><i class="bi bi-reply-fill"></i> Navigation Menu</span>
+					<div class="collapse navbar-collapse" id="navbarNavDropdown">
+						<ul class="navbar-nav w-100 justify-content-between">
+							<li class="nav-item">
+								<a class="nav-link" href="/">Home</a>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="departmentalweb.php">Departmental Websites</a>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									About IMD
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+									 <li><a class="dropdown-item" href="history.php">History</a></li>
+									 <li><a class="dropdown-item" href="mandate.php">Mandate</a></li>
+									 <li><a class="dropdown-item" href="orgStructure.php">Organizational Structure</a></li>
+									 									 <li><a class="dropdown-item" href="https://metnet.imd.gov.in/imdpis/imdweb_list_of_dgms.php" target="_blank" rel="noopener noreferrer">Ex DGM's of IMD</a></li>                     
+									 <li><a class="dropdown-item" href="citizenCharter.php">Citizen's/Client's Charter</a></li> 
+								</ul>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									People
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+																	<li><a class="dropdown-item" href="people_minister_moes.php">Minister MoES</a></li>
+									<li><a class="dropdown-item" href="people_secretory_moes.php">Secretary MoES</a></li>
+									<li><a class="dropdown-item" href="people_dgm.php">DGM IMD</a></li>
+																	</ul>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									Publications
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<li><a class="dropdown-item" href="rashtriyPanchang.php">Rashtriya Panchang</a></li>
+									<li><a class="dropdown-item" href="indianAstronomicalEphemeris.php">The Indian Astronomical Ephemeris</a></li>
+									<li><a class="dropdown-item" href="https://mausamjournal.imd.gov.in/index.php/MAUSAM" target="_blank" rel="noopener noreferrer">Mausam Journal</a></li>
+									<li><a class="dropdown-item" href="https://imdpune.gov.in/Reports/rainfall%20variability%20page/raintrend%20new.html" target="_blank" rel="noopener noreferrer">Observed Rainfall Trend over States</a></li>
+									<li><a class="dropdown-item" href="https://www.clivar.org/sites/default/files/documents/CLIVAR%20Exchanges%2079%20Monsoon%20Mission%20Final.pdf" target="_blank" rel="noopener noreferrer">CLIVAR Exchanges</a></li>
+									<li><a class="dropdown-item" href="https://internal.imd.gov.in/pages/severewx_mausam.php" target="_blank" rel="noopener noreferrer">Severe Weather Reports</a></li>
+									<li><a class="dropdown-item" href="https://metnet.imd.gov.in/phps/imdweb_imdnews.php" target="_blank" rel="noopener noreferrer">IMD News</a></li>
+									<li><a class="dropdown-item" href="https://metnet.imd.gov.in/imdrajbhasha/" target="_blank" rel="noopener noreferrer">मौसम मंजूषा</a></li>
+									<li><a class="dropdown-item" href="imdBroucher.php">IMD Brochure</a></li>
+																		<li><a class="dropdown-item" href="https://metnet.imd.gov.in/phps/imdweb_imdarep.php" target="_blank" rel="noopener noreferrer">IMD Annual Report</a></li>
+									<li><a class="dropdown-item" href="/responsive/met1.php" rel="noopener noreferrer">MET Monograph</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/IMDposoco.pdf" target="_blank" rel="noopener noreferrer">Weather for Power System Operation</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/FD2022POEMBOOK.pdf" target="_blank" rel="noopener noreferrer">FD 2022 POEM BOOK</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/FD2022POSTERBOOK.pdf" target="_blank" rel="noopener noreferrer">FD 2022 POSTER BOOK</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/SOUVENIR.pdf" target="_blank" rel="noopener noreferrer">SOUVENIR</a></li>
+								</ul>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									SOP
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/aviation_sop.pdf" target="_blank" rel="noopener noreferrer">Aviation Meteorology</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/emrc_sop.pdf" target="_blank" title="Environment Monitoring &amp; Research Centre" rel="noopener noreferrer">EMRC</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/gkms_sop.pdf" target="_blank" title="Gramin Krishi Mausam Sewa" rel="noopener noreferrer">GKMS</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/cyclone_sop.pdf" target="_blank" rel="noopener noreferrer">Cyclone Warning</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/training_sop.pdf" target="_blank" rel="noopener noreferrer">Training</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/forecasting_sop.pdf" target="_blank" rel="noopener noreferrer">Weather Forecasting &amp; Warning Services</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/hydrology_sop.pdf" target="_blank" rel="noopener noreferrer">Hydrometeorological Services</a></li>
+									<li><a class="dropdown-item" href="/imd_latest/contents/pdf/nwp_sop.pdf" target="_blank" title="Numerical Weather Prediction" rel="noopener noreferrer">NWP</a></li>
+								</ul>
+							</li>
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									Services
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<li><a class="dropdown-item" href="servicesHydrological.php">Hydrometeorological Services in IMD</a></li>
+									<li><a class="dropdown-item" href="servicesMetAgriculture.php">Met. Services for Agriculture in India</a></li>
+									<li><a class="dropdown-item" href="servicesMetCivilAviation.php">Met. Services for Civil Aviation in India</a></li>
+									<li><a class="dropdown-item" href="servicesSatMet.php" title="Satellite Meteorology">SATMET Services</a></li>
+									<li><a class="dropdown-item" href="servicesDwrNetwork.php" title="Doppler Weather Radar">IMD DWR Network</a></li>
+									<li><a class="dropdown-item" href="servicesMetSurface.php">Surface Meteorological Instrumentataion</a></li>
+									<li><a class="dropdown-item" href="servicesMetUpperAir.php">Upper Air Meteorological Instrumentataion</a></li>
+									<li><a class="dropdown-item" href="servicesMetTeleComm.php">Meteorological Telecomm. in IMD</a></li>
+									<li><a class="dropdown-item" href="servicesMetEnvironment.php">Environmental Monitoring</a></li>
+									<li><a class="dropdown-item" href="servicesPosAstro.php">Positional Astronomy</a></li>
+									<li><a class="dropdown-item" href="https://imdpune.gov.in/training/index.php" target="_blank" rel="noopener noreferrer">WMO-Regional Training Institute</a></li>
+								</ul>
+							</li>
+							<li class="nav-item">
+								<a class="nav-link" href="https://internal.imd.gov.in/pages/press_release_mausam.php" target="_blank" rel="noopener noreferrer">Press Release</a>
+							</li>
+							
+							<li class="nav-item">
+								<a class="nav-link" href="contact.php">Contacts</a>
+							</li>
+														
+							<li class="nav-item dropdown">
+								<a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
+									Local Forecast
+								</a>
+								<ul class="dropdown-menu" aria-labelledby="navbarDropdown">
+									<li><a class="dropdown-item" href="https://city.imd.gov.in/" target="_blank" rel="noopener noreferrer">Local Weather Report &amp; Forecast</a></li>
+									<li><a class="dropdown-item" href="https://mausamgram.imd.gov.in/" target="_blank" rel="noopener noreferrer">Weather At Your Location</a></li>
+									<!-- <li><a class="dropdown-item" href="https://internal.imd.gov.in/pages/city_weather_main_mausam.php?id=2" target="_blank" rel="noopener noreferrer">Capital Cities Forecast</a></li>
+									<li><a class="dropdown-item" href="https://internal.imd.gov.in/pages/city_weather_main_mausam.php?id=1" target="_blank" rel="noopener noreferrer">Smart Cities Forecast</a></li> -->
+								</ul>
+							</li>
+														<li class="nav-item">
+								<a class="nav-link" href="/event/" target="_blank" rel="noopener noreferrer">IMD@150</a>
+							</li> 
+							<li class="nav-item">
+								<a class="nav-link" href="https://api.imd.gov.in" target="_blank" rel="noopener noreferrer">IMD API<img src="img/icons/new.gif" alt="new"></a>
+							</li>		
+							
+							
+						</ul>
+					</div>
+				</div>
+			</nav>
+		</section>
+		<!-- navigation end -->    
+    <!-- main content -->
+    <section class="main-content">
+    
+      <!-- quick links  -->
+      
+			<div class="quick-links">
+				<div class="container-xxl">
+					<div class="row g-0">
+						<div class="col-lg-3 col-sm-6">
+							<div class="ql-item">
+								<h2>Warnings</h2>
+								<!-- link for information -->
+								<a href="subDivisionWiseWarningGIS.php">Subdivisionwise</a>
+								&nbsp;|&nbsp;
+								<a href="districtWiseWarningGIS.php">Districtwise</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="ql-item">
+								<h2>Nowcast</h2>
+								<!-- link for information -->
+								<a href="districtWiseNowcastGIS.php">Districtwise</a>
+								&nbsp;|&nbsp;
+								<a href="stationWiseNowcastGIS.php">Stationwise</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="ql-item bg-qlinks-green">
+								<h2>Public Observation</h2>
+								<!-- link for information -->
+								(<a href="https://city.imd.gov.in/citywx/crowd/enter_th_datag_multilang.php" title="Download Mausam App for CrowdSource Observation" target="_blank" rel="noopener noreferrer">Multi Indian Languages</a>)
+								&nbsp;|&nbsp;
+								<a href="wxRealized.php" title="Temperature &amp; Rainfall">Weather Realized</a>
+							</div>
+						</div>
+						<div class="col-lg-3 col-sm-6">
+							<div class="ql-item bg-qlinks-yellow lh-70 sub-menu">
+								<h2 class="text-dark">Specialized Forecast <i class="bi bi-sort-down"></i></h2>
+								<ul class="list-unstyled sp-items">
+									<!--<li><a href="../amarnath/" target="_blank">Amarnath Yatra</a></li>-->
+									<li><a href="marine_forecast.php">Marine Forecast</a></li>
+									<li><a href="https://imdpune.gov.in/caui/health.pdf" target="_blank" rel="noopener noreferrer">Health Meteorological Bulletin</a></li>
+									<li><a href="https://internal.imd.gov.in/pages/tourism_forecast_mausam.php" target="_blank" rel="noopener noreferrer">Tourism Forecast</a></li>
+									<li><a href="http://srf.tropmet.res.in/srf/ts_prediction_system/index.php" target="_blank" rel="noopener noreferrer">Thunderstorm Prediction</a></li>
+									<li class=""><a href="https://mausam.imd.gov.in/responsive/heatwave_guidance.php" target="_blank">Heat Wave Guidance</a></li>
+																		<!--<li><a href="http://internal.imd.gov.in/pages/fogmain_mausam.php" target="_blank" rel="noopener noreferrer">Winter Weather Guidance</a></li>-->
+									<li><a href="flashFloodBulletin.php">Flash Flood Bulletin</a></li>			   
+									<li><a href="https://ews.tropmet.res.in/" target="_blank" rel="noopener noreferrer" title="AIR QUALITY EARLY WARNING SYSTEM">AQEWS</a></li>
+									<li><a href="https://nwp.imd.gov.in/silam_imd.php" target="_blank" rel="noopener noreferrer">Air Quality forecast</a></li>
+									<li><a href="https://nwp.imd.gov.in/enfuser_imd.php" target="_blank" rel="noopener noreferrer" title="Environmental Information Fusion Service">ENFUSER AQ</a></li>	   
+									<!-- <li><a href="http://safar.tropmet.res.in/" target="_blank" rel="noopener noreferrer" title="System of Air Quality and Weather Forecasting And Research">SAFAR</a></li> -->
+									<li><a href="https://internal.imd.gov.in/power/NRLDC/" target="_blank" rel="noopener noreferrer">Power Sector</a></li>
+									<!--<li><a href="http://14.139.247.5/power/NRLDC/" target="_blank" rel="noopener noreferrer">Power Sector</a></li>-->
+									<!-- <li><a href="pilgrimage_forecast.php">Pilgrimage Forecast</a></li> -->
+									<li><a href="https://dss.imd.gov.in/dwr_img/GIS/chardham_public_portal/char_dham_oper.html" target="_blank" rel="noopener noreferrer">Pilgrimage Forecast</a></li>
+									<li><a href="https://internal.imd.gov.in/section/nhac/dynamic/hmc.pdf" target="_blank" rel="noopener noreferrer">Mountain Weather Bulletin</a></li>
+									<li><a href="highwayForecast.php">Highway Forecast</a></li>
+																		<li><a href="https://dss.imd.gov.in/dwr_img/GIS/railway_dashboard/railway_monitoring.html" target="_blank" rel="noopener noreferrer">INDIAN RAILWAYS Forecast</a></li>
+								</ul>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div><!-- quick links end -->      
+      <!-- marquee content -->
+      <section class="mrq">
+        <div class="container-xxl">
+          <marquee direction="scroll" scrollamount="4" onmouseover="this.stop();" onmouseout="this.start();">
+            <!-- paragraps -->
+            <p><a href="/Forecast/marquee_data/Press Release 14-06-2026.pdf" style="color: #000000" target="_blank">Press Release dated 14.06.2026:  Isolated heavy to very heavy rainfall likely over Sub-Himalayan West Bengal &amp; Sikkim</a></p><p><a href="/Forecast/marquee_data/Press Release 13-06-2026.pdf" style="color: #000000" target="_blank">Press Release dated 13.06.2026: Under the influence of western disturbance, wet spell likely to continue over northwest India.</a></p><p><a href="/Forecast/marquee_data/Press Release 12-06-2026_1781258425.pdf" style="color: #000000" target="_blank">PRESS RELEASE DATED 12.06.2026:THE SOUTHWEST MONSOON HAS FURTHER ADVANCED INTO SOME MORE PARTS OF WEST BENGAL &amp; BIHAR</a></p><p><a href="/Forecast/marquee_data/ERF 11.06.26.pdf" style="color: #000000" target="_blank">Current Weather Status and Extended Range Forecast for the next  two weeks (11 to 24 June 2026)</a></p><p><a href="/Forecast/marquee_data/Press Release 10-06-2026.pdf" style="color: #000000" target="_blank">  Press Release dated 10.06.2026: Under the influence of western disturbance, wet spell likely over northwest India till 13th June.</a></p><p><a href="/Forecast/marquee_data/Press Release 09-06-2026.pdf" style="color: #000000" target="_blank">Press Release dated 09.06.2026: Subject: (i) The Southwest Monsoon has further advanced remaining parts of northeastern states, entire Sikkim and some parts of Sub-Himalayan West Bengal, today the 9th June, 2026</a></p><p><a href="/Forecast/marquee_data/Press Release 05-06-2026.pdf" style="color: #000000" target="_blank">Press Release dated 05.06.2026</a></p><p><a href="/Forecast/marquee_data/Long Range Forecast for Southwest Monsoon Season Rainfall_Press_release_13.4.2026 (1).pdf" style="color: #000000" target="_blank">Long Range Forecast  For the 2026Southwest Monsoon Season Rainfall </a></p><p><a href="/Forecast/marquee_data/ विज्ञप्ति LRF_1776081992.pdf" style="color: #000000" target="_blank">2026 के दक्षिण-पश्चिम मॉनसून ऋतु की वर्षा के लिए दीर्घावधि पूर्वानुमान</a></p><p><a href="/Forecast/marquee_data/ विज्ञप्ति LRF.pdf" style="color: #000000" target="_blank">2026 केदक्षऺण-ऩप्चिभ भॉनसन ू ऋतु की िर्षा के लरए दीघषािधध ऩि ू षानभ ु षन</a></p>          </marquee>
+        </div>
+      </section>
+      
+      <!-- inner page content area -->
+      <div class="inner-page-content">
+        <div class="container-xxl">
+          <!-- page title -->
+          <h3 class="ipc-title">Sub Divisionwise Warnings</h3>
+          <!-- district wise nowcast page content -->
+          <div class="sdww-block">
+          <div class="bg-light p-2 text-center">
+              <!-- radiobutton event handler -->
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb1" value="1" checked="true">
+                <label class="form-check-label" for="rb1">Jun 14, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb2" value="2">
+                <label class="form-check-label" for="rb2">Jun 15, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb3" value="3">
+                <label class="form-check-label" for="rb3">Jun 16, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb4" value="4">
+                <label class="form-check-label" for="rb4">Jun 17, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb5" value="5">
+                <label class="form-check-label" for="rb5">Jun 18, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb6" value="6">
+                <label class="form-check-label" for="rb6">Jun 19, 2026</label>
+              </div>
+              <div class="form-check form-check-inline">
+                <input class="form-check-input" type="radio" name="group" id="rb7" value="7">
+                <label class="form-check-label" for="rb7">Jun 20, 2026</label>
+              </div>
+            </div>
+            <!-- Legend display -->
+            <div class="legends">
+              <ul class="list-unstyled">
+                <li><img class="wr-syb" src="img/warning_images/nw.png" alt="WarningSymbol"> No Warning</li>
+                <li><img class="wr-syb" src="img/warning_images/wh.png" alt="WarningSymbol"> Watch</li>
+                <li><img class="wr-syb" src="img/warning_images/al.png" alt="WarningSymbol"> Alert</li>
+                <li><img class="wr-syb" src="img/warning_images/wg.png" alt="WarningSymbol"> Warning</li>
+                <li><img class="wr-syb" src="img/warning_images/01.png" alt="WarningSymbol"> Heavy Rain</li>
+                <li><img class="wr-syb" src="img/warning_images/15.png" alt="WarningSymbol"> Very Heavy Rain</li>
+                <li><img class="wr-syb" src="img/warning_images/16.png" alt="WarningSymbol"> Extremely Heavy Rain</li>
+                <li><img class="wr-syb" src="img/warning_images/02.png" alt="WarningSymbol"> Heavy Snow</li>
+                <li><img class="wr-syb" src="img/warning_images/42.png" alt="WarningSymbol"> Thunderstorm &amp; Lightning</li>
+                <li><img class="wr-syb" src="img/warning_images/04.png" alt="WarningSymbol"> Hailstorm</li>
+                <li><img class="wr-syb" src="img/warning_images/05.png" alt="WarningSymbol"> Dust Storm</li>
+                <li><img class="wr-syb" src="img/warning_images/06.png" alt="WarningSymbol"> Dust Raising Winds</li>
+                <li><img class="wr-syb" src="img/warning_images/07.png" alt="WarningSymbol"> Strong Surface Winds</li>
+                <li><img class="wr-syb" src="img/warning_images/08.png" alt="WarningSymbol"> Heat Wave</li>
+                <li><img class="wr-syb" src="img/warning_images/09.png" alt="WarningSymbol"> Hot Day</li>
+                <li><img class="wr-syb" src="img/warning_images/17.png" alt="WarningSymbol"> Hot and Humid</li>
+                <li><img class="wr-syb" src="img/warning_images/10.png" alt="WarningSymbol"> Warm Night</li>
+                <li><img class="wr-syb" src="img/warning_images/11.png" alt="WarningSymbol"> Cold Wave</li>
+                <li><img class="wr-syb" src="img/warning_images/12.png" alt="WarningSymbol"> Cold Day</li>
+                <li><img class="wr-syb" src="img/warning_images/13.png" alt="WarningSymbol"> Ground Frost</li>
+                <li><img class="wr-syb" src="img/warning_images/14.png" alt="WarningSymbol"> Fog</li>
+              </ul>
+              <div class="clearfix"></div>
+            </div>
+            <!-- leaflet map display -->
+            <div id="chartdiv2" style="background-color: transparent; position: relative;" class="leaflet-container leaflet-touch leaflet-fade-anim leaflet-grab leaflet-touch-drag leaflet-touch-zoom" tabindex="0"><div class="leaflet-pane leaflet-map-pane" style="transform: translate3d(0px, 0px, 0px);"><div class="leaflet-pane leaflet-tile-pane"><div class="leaflet-layer " style="z-index: 4;"><div class="leaflet-tile-container leaflet-zoom-animated" style="z-index: 18; transform: translate3d(0px, 0px, 0px) scale(1);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=7514065.628545968,2504688.542848655,8766409.899970295,3757032.8142729844" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(25px, -11px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=8766409.899970295,2504688.542848655,10018754.171394622,3757032.8142729844" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(281px, -11px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=7514065.628545968,1252344.2714243277,8766409.899970295,2504688.542848655" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(25px, 245px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=8766409.899970295,1252344.2714243277,10018754.171394622,2504688.542848655" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(281px, 245px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=6261721.357121639,2504688.542848655,7514065.628545968,3757032.8142729844" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(-231px, -11px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=10018754.171394622,2504688.542848655,11271098.44281895,3757032.8142729844" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(537px, -11px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=6261721.357121639,1252344.2714243277,7514065.628545968,2504688.542848655" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(-231px, 245px, 0px);"><img alt="" src="https://reactjs.imd.gov.in/geoserver/imd/wms?service=WMS&amp;request=GetMap&amp;layers=imd%3Asubdiv_warnings_now&amp;styles=&amp;format=image%2Fpng&amp;transparent=true&amp;version=1.1.1&amp;env=day%3ADay1_Color&amp;width=256&amp;height=256&amp;srs=EPSG%3A3857&amp;bbox=10018754.171394622,1252344.2714243277,11271098.44281895,2504688.542848655" class="leaflet-tile" style="width: 256px; height: 256px; transform: translate3d(537px, 245px, 0px);"></div></div></div><div class="leaflet-pane leaflet-overlay-pane"><svg pointer-events="none" class="leaflet-zoom-animated" width="870" height="515" viewBox="-72 -43 870 515" style="transform: translate3d(-72px, -43px, 0px);"><g><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M599 475L599 475zM603 475L603 475zM602 475L600 475L602 475zM602 474L602 474zM604 472L604 474L604 472zM599 463L599 464zM604 471L605 465L604 462L601 461L599 463L600 466L598 468L598 472L600 475L602 475L603 474L600 471L603 471zM599 459L597 462L598 463L599 460zM606 450L607 450zM605 448L606 449L606 445L603 446L604 447L601 451L601 461L604 456L604 458L606 457L607 453L604 450L606 450L605 448zM606 443L606 444zM646 475L646 435L576 435L576 475zM606 443L605 443zM606 445L607 450L604 451L607 453L602 461L601 451L604 447L603 446L605 446zM606 450L607 451L606 450zM603 460L605 470L601 472L603 474L599 475L598 470L599 467L601 467L599 463L603 461zM604 472L604 473zM603 473L602 472zM599 475L599 475zM600 475L603 475zM598 464L598 459L598 463z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M656 127L668 121L670 118L673 117L675 113L679 111L680 112L690 109L694 112L694 114L700 116L700 114L694 107L694 104L702 95L705 96L706 92L703 91L705 88L698 83L697 85L689 81L682 84L680 82L682 80L681 79L685 76L684 75L688 73L684 67L685 66L682 66L677 70L678 67L676 65L682 63L683 60L678 60L678 58L675 55L663 61L663 64L662 63L661 66L657 66L657 64L648 62L646 63L646 60L643 58L634 64L626 75L613 76L610 82L611 83L609 85L608 84L605 87L600 88L598 90L599 95L593 98L592 97L590 99L588 96L581 100L579 100L579 98L573 96L572 97L574 97L573 105L579 107L583 106L585 111L583 117L585 121L594 119L595 120L598 118L606 121L619 120L624 117L626 112L634 105L634 102L636 104L639 104L658 96L659 97L665 94L673 94L668 101L671 105L670 108L671 107L674 109L671 112L662 112L661 115L655 119L656 126z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M655 118L660 116L662 112L671 112L674 109L672 107L670 108L671 105L668 102L668 100L673 94L665 94L659 97L658 96L639 104L634 102L633 106L619 120L607 121L599 118L596 120L594 119L584 122L580 121L571 124L550 124L547 121L542 122L540 125L534 125L534 133L531 137L534 144L533 162L535 161L547 166L561 164L576 166L583 164L590 167L594 171L592 173L589 171L588 172L589 177L587 182L589 184L587 188L592 188L593 191L597 188L600 181L601 185L606 183L608 177L607 176L608 174L610 174L611 168L613 167L616 161L616 159L613 156L621 148L622 145L623 148L627 146L628 140L632 132L634 130L636 132L637 128L644 125L649 120L651 121L654 119z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M197 420L197 410L194 411L192 409L194 406L190 402L184 402L179 399L179 403L181 405L179 405L180 411L176 413L177 414L176 413L175 416L179 418L184 434L187 438L191 461L193 464L196 463L195 465L197 465L201 469L202 468L202 470L206 471L211 469L208 457L204 454L202 456L200 454L198 451L199 448L195 442L196 441L189 437L187 433L187 431L189 431L190 429L193 430L195 428L193 424L195 422L196 424L196 421z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M439 175L447 175L450 180L453 179L452 183L456 185L460 179L469 179L472 173L472 169L476 167L478 163L479 164L482 161L487 163L488 162L486 159L489 156L493 156L493 152L487 146L492 139L493 140L494 138L497 137L497 135L498 136L496 132L497 130L495 130L491 135L489 132L483 134L479 133L476 135L474 133L472 134L470 130L463 133L454 128L449 129L448 127L446 127L443 129L440 127L440 123L438 122L432 125L428 125L428 122L424 122L420 118L415 117L415 111L412 109L407 108L403 105L401 107L397 107L397 110L399 110L398 112L400 113L399 116L402 117L401 120L405 123L406 122L406 124L410 127L407 129L404 128L401 131L399 131L398 133L405 134L405 136L401 138L401 140L406 145L415 149L413 152L409 150L407 153L403 151L394 160L386 165L385 168L386 173L390 178L389 181L394 182L401 178L403 181L402 182L407 181L407 183L410 186L416 184L419 181L421 185L425 185L430 181L436 181L436 179L439 180L439 176z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M230 90L225 88L227 90L225 92L222 92L224 97L218 97L217 94L218 95L219 92L217 90L221 89L211 79L206 84L204 84L201 81L201 83L199 83L199 85L196 88L193 88L190 93L192 95L190 96L192 98L189 100L190 101L188 101L190 103L189 105L193 108L193 110L197 109L199 111L197 113L202 115L202 118L195 121L195 119L193 119L189 124L188 129L187 130L186 128L183 132L179 134L179 137L181 137L181 139L179 140L180 141L176 143L177 146L175 148L173 147L171 149L171 152L167 160L165 160L164 164L161 167L159 167L158 172L156 172L155 175L150 171L153 167L151 165L151 167L150 165L149 166L150 164L146 162L144 167L139 172L139 174L136 175L133 180L135 180L139 184L140 182L144 185L150 185L149 184L152 182L152 184L155 185L152 188L152 190L156 194L158 191L160 195L158 198L162 202L161 203L165 203L164 206L170 209L170 211L171 210L176 212L176 214L178 214L180 218L182 216L185 217L188 214L190 214L185 211L194 203L194 196L196 193L193 190L194 188L191 187L192 183L189 181L192 177L191 174L193 178L196 175L192 173L193 170L197 173L200 168L203 168L204 169L203 172L202 170L202 172L205 173L200 172L201 176L215 176L216 183L213 184L214 192L212 195L208 193L206 195L211 200L212 197L216 197L222 191L222 186L224 189L227 188L231 190L234 187L235 190L239 191L240 189L237 181L239 181L240 183L243 180L243 178L237 174L240 173L238 170L239 168L250 166L250 159L248 158L242 162L234 161L231 158L229 152L233 146L235 147L238 144L237 143L241 140L260 130L262 127L265 127L270 121L267 120L265 122L259 120L252 124L252 121L259 118L258 119L254 117L256 114L255 111L251 109L249 105L249 100L247 98L243 98L243 100L242 99L241 102L239 102L241 89L238 87L231 94L229 90z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M498 254L499 254zM504 255L503 254L504 255zM512 255L511 253L510 254L512 255zM505 253L503 252L505 254zM509 253L508 254L510 254L509 253zM514 252L513 253L514 252zM499 252L498 253L500 252zM501 252L502 254L502 252zM505 253L504 252L505 253zM502 251L501 252L502 251zM514 252L514 252zM512 252L512 250L512 253zM513 250L512 249L515 253L513 250zM511 250L509 250L510 253L511 251zM505 250L505 250zM505 249L506 249zM504 249L504 253L504 250zM515 249L513 249L515 253L515 249zM510 250L510 248L509 249zM505 249L505 249zM511 247L512 250L511 247zM495 249L495 247L492 252L495 253L495 250zM505 247L505 247zM514 246L514 249L514 246zM506 247L505 246L506 247zM510 247L510 247zM508 246L507 250L509 252L510 247L508 246zM507 246L506 247L507 246zM494 246L494 246zM508 246L509 247L509 245zM511 246L512 250L514 246L511 246zM495 246L494 246zM508 244L508 246L509 245zM509 244L511 246L510 244zM494 244L495 243L494 244zM492 177L489 173L489 175L487 175L490 178L483 189L485 190L481 192L480 191L479 194L474 193L475 196L474 198L472 197L473 199L468 197L465 199L464 202L457 203L454 206L454 208L449 207L450 206L447 204L447 206L443 207L444 209L442 211L442 213L450 219L458 220L456 224L459 227L461 227L460 229L464 231L463 232L465 233L466 236L462 239L469 242L470 247L473 244L475 245L474 246L476 249L480 251L480 253L488 250L491 247L493 244L491 241L493 243L496 241L495 239L491 238L493 238L494 236L494 238L497 241L495 244L497 254L498 249L501 253L503 245L503 247L506 244L507 245L509 242L511 246L516 245L513 230L514 223L511 220L511 217L514 214L508 213L507 211L509 211L508 210L510 208L504 203L505 198L508 197L509 194L507 192L508 187L497 183L494 181L493 178z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M230 90L229 91L233 93L233 91L238 87L240 89L239 102L241 102L243 98L251 97L252 94L254 94L252 92L252 89L254 88L252 86L253 83L248 78L249 74L246 72L247 69L244 64L245 57L243 51L245 49L245 45L255 31L253 29L250 30L244 26L245 23L237 16L236 17L238 20L235 21L240 25L239 30L235 30L235 32L231 35L233 35L231 39L228 36L228 38L223 37L224 44L219 48L213 45L210 48L206 46L202 53L200 51L200 46L199 45L199 47L198 44L190 40L190 42L185 42L186 44L184 46L187 49L187 53L185 56L187 58L192 57L197 61L205 60L204 63L206 67L208 67L208 77L210 77L210 79L214 81L213 82L216 83L221 89L217 91L219 91L217 95L218 97L223 97L222 93L224 91L227 91L225 89L230 90z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M273 -26L271 -24L270 -25L271 -28L273 -28L272 -33L265 -28L259 -36L260 -37L257 -39L249 -34L244 -39L243 -38L240 -40L237 -46L235 -44L230 -45L226 -43L225 -40L217 -36L214 -36L217 -32L215 -26L217 -23L211 -19L209 -15L216 -11L218 -8L217 -7L221 0L222 5L225 6L227 4L231 8L232 7L232 13L245 23L244 26L250 30L253 29L254 31L260 27L257 21L260 16L258 16L260 16L262 10L273 7L275 9L283 9L282 10L284 12L287 11L281 5L282 3L280 1L283 -1L280 -6L282 -12L275 -20L274 -25z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M236 17L232 13L232 8L227 4L225 6L222 5L216 -11L212 -14L209 -14L211 -16L210 -19L216 -23L214 -26L210 -22L208 -22L208 -20L203 -21L204 -18L200 -14L193 -14L186 -8L184 -5L187 0L186 1L188 2L185 6L185 11L189 12L186 13L179 20L179 22L171 29L172 30L170 31L172 34L172 38L170 40L175 42L188 43L192 41L196 44L198 43L198 45L200 45L201 47L201 53L203 52L202 51L206 46L210 48L213 45L217 48L224 44L223 37L228 38L228 36L231 39L233 37L233 35L231 35L236 30L239 30L240 25L236 23L235 21L238 20L236 18z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M321 168L319 168L322 168zM321 168L323 167L323 165L323 167L326 168L326 166L329 165L328 170L333 170L335 172L339 165L344 167L343 166L345 164L348 168L352 169L354 173L359 174L363 179L365 177L373 178L373 180L371 180L371 185L373 186L372 190L370 190L376 197L381 197L386 191L386 186L388 186L387 183L390 180L386 173L386 165L389 162L396 159L403 151L407 153L408 150L411 152L415 150L413 147L406 145L401 140L401 138L403 138L405 134L399 133L399 131L401 131L403 128L407 129L410 127L408 127L406 122L402 122L399 110L398 111L390 106L387 106L385 110L382 107L373 106L370 100L365 101L357 95L353 96L343 91L337 84L330 81L323 75L321 76L321 78L317 76L320 80L317 80L318 84L316 89L312 93L312 95L310 95L310 100L306 102L304 100L302 102L303 107L301 102L298 103L292 100L290 101L293 105L292 106L294 113L296 114L296 118L294 120L298 122L302 121L304 124L298 135L300 135L300 138L302 138L304 141L308 142L308 140L308 142L311 142L311 144L317 147L315 149L317 153L314 156L315 157L312 159L313 161L317 159L319 164L316 168L320 168z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M273 -26L276 -29L278 -28L282 -31L282 -25L287 -21L294 -28L296 -28L297 -26L301 -32L294 -40L296 -40L295 -42L297 -46L164 -46L168 -39L180 -35L181 -33L185 -32L188 -35L189 -26L195 -24L197 -26L203 -21L208 -20L208 -22L210 -22L217 -29L217 -32L214 -36L215 -37L219 -37L225 -40L227 -44L235 -44L237 -46L238 -42L239 -43L241 -39L244 -39L249 -34L257 -39L264 -28L266 -30L270 -30L272 -33L273 -28L271 -28L270 -25L271 -24L272 -26z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M579 207L579 209L581 207L582 202L589 202L592 213L591 221L595 227L594 228L596 242L597 244L598 240L603 245L604 243L605 244L607 241L606 240L610 238L610 233L608 231L609 229L607 226L609 221L608 218L611 219L614 216L615 199L613 193L615 192L617 196L623 194L624 196L626 195L631 198L632 197L635 186L637 185L636 184L642 176L645 169L645 166L641 164L642 161L647 155L649 155L650 151L652 151L651 147L655 142L653 140L654 135L652 132L656 127L655 119L651 121L648 120L645 125L640 126L635 132L634 130L628 139L628 146L623 149L623 145L613 156L616 159L616 161L613 164L610 174L608 174L607 176L608 177L605 184L602 185L600 181L597 188L595 188L595 190L593 191L592 188L587 188L589 185L586 181L585 185L582 186L581 191L577 188L577 191L575 190L573 192L568 192L569 193L568 195L566 195L563 203L566 207L567 215L569 218L569 212L573 220L578 217L578 206z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M534 126L529 126L529 124L525 124L523 122L516 123L517 122L512 119L509 114L513 110L509 107L512 97L509 91L506 90L504 92L494 95L496 99L493 103L493 111L491 116L492 118L495 119L494 120L496 126L494 130L496 130L498 136L497 135L496 138L494 138L493 140L492 139L491 142L488 143L487 146L490 148L489 150L493 151L493 156L489 156L486 159L488 162L485 163L487 167L491 170L489 173L492 177L495 171L497 170L498 172L502 168L502 164L513 165L514 162L510 159L510 157L503 155L502 152L498 149L495 150L494 148L494 144L496 142L495 141L499 139L501 135L503 135L503 133L499 131L500 128L501 130L506 132L508 137L509 136L511 138L515 138L516 137L513 135L513 133L517 136L518 141L522 144L527 144L529 142L528 139L529 140L529 138L531 140L531 137L534 132L534 127z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M311 71L312 65L316 63L315 56L319 52L318 48L322 45L323 42L327 40L330 35L333 36L333 34L328 33L323 28L322 29L314 25L315 22L307 17L307 15L304 14L300 16L297 13L296 14L292 5L289 2L284 7L287 10L285 12L282 9L275 9L273 7L261 11L257 21L260 26L255 30L263 35L257 44L259 48L262 49L263 52L272 46L275 48L277 52L285 56L281 58L281 60L284 61L286 64L287 63L292 67L295 67L296 70L305 70L305 72L306 71L308 73L311 72z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M185 42L171 41L170 40L172 36L159 42L157 52L149 66L135 74L132 83L126 90L125 94L99 100L95 92L90 93L86 96L77 110L72 114L70 122L71 125L76 127L77 129L86 130L84 146L90 152L97 152L97 159L102 165L103 171L107 177L111 179L115 177L122 177L124 179L124 177L126 178L129 176L129 178L135 179L136 175L139 174L138 172L144 167L144 165L147 162L149 166L150 165L150 167L153 166L153 168L150 170L151 172L154 173L154 175L156 174L156 172L158 172L159 168L164 164L164 162L168 158L173 147L176 147L176 143L180 141L179 140L182 137L179 137L180 132L188 129L188 126L191 123L190 122L192 121L192 119L196 121L199 120L201 116L204 116L200 115L197 109L193 111L188 101L190 101L189 100L192 98L190 96L192 95L190 93L193 88L195 88L202 81L204 84L209 83L211 79L210 77L208 77L208 71L206 69L208 68L204 63L205 60L198 61L195 60L192 56L191 58L185 56L187 54L187 47L184 46L186 44L185 43z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M111 208L112 207L110 208zM108 187L109 188zM176 233L174 231L181 228L184 223L183 221L181 221L179 215L177 215L176 212L172 210L171 211L169 208L166 209L164 205L165 203L161 203L162 202L158 199L160 195L159 193L158 192L156 194L152 190L152 188L155 185L153 185L152 182L150 182L150 185L148 186L144 185L141 182L138 184L137 181L133 180L135 178L132 179L129 178L129 176L123 179L123 177L116 177L111 179L112 180L110 182L113 182L113 186L111 187L112 190L113 189L111 190L112 195L106 197L106 203L107 204L109 201L113 203L115 207L122 207L122 209L124 209L124 207L127 206L127 209L124 212L127 213L125 215L128 219L127 222L130 227L128 227L132 230L129 233L127 230L125 231L126 234L125 233L123 235L119 234L119 239L120 238L122 240L128 241L132 244L134 242L134 238L136 235L137 239L138 237L148 238L146 237L147 238L145 238L145 240L142 238L139 242L140 246L141 245L139 251L142 251L144 255L142 256L143 257L141 261L142 265L145 266L144 267L145 270L146 269L145 270L148 278L148 282L145 285L144 289L146 289L147 287L149 287L149 285L150 286L152 284L154 286L152 287L152 289L156 289L158 287L159 288L159 283L161 280L160 275L167 279L169 275L172 274L170 270L171 269L168 267L169 266L168 267L164 265L169 264L169 262L174 257L178 257L180 255L169 255L169 248L176 245L175 244L177 242L174 237L175 235L177 236L179 234L176 232zM149 285L150 285z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M184 475L184 473L113 473L113 475z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M439 175L438 180L437 179L435 181L431 181L425 185L422 185L420 181L410 186L407 183L407 180L403 182L400 178L398 181L389 181L387 182L388 185L385 192L390 194L389 195L395 200L394 202L396 204L398 205L401 203L401 216L403 216L404 219L405 218L410 221L406 227L401 229L401 231L407 235L412 233L424 232L426 236L423 241L429 243L431 240L437 242L442 241L441 244L443 244L447 239L447 234L445 232L447 230L455 236L457 235L461 238L466 236L465 233L463 233L464 230L461 229L461 227L459 227L456 224L458 220L451 219L444 215L442 213L444 209L443 208L447 207L447 204L450 205L450 208L453 208L457 203L464 202L464 199L467 197L473 199L472 198L475 197L475 193L479 195L480 192L482 192L482 190L484 190L483 189L487 185L487 181L490 179L487 175L489 175L491 171L487 167L485 161L481 161L480 164L478 163L476 167L472 169L470 179L460 179L456 185L452 183L453 179L450 180L447 175L445 176L444 174L440 174z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M73 232L74 233zM111 179L107 177L104 180L104 182L108 184L106 184L100 189L95 187L96 184L87 186L83 190L77 190L73 187L60 189L58 187L56 189L56 187L54 187L54 195L45 195L42 197L42 202L40 204L43 205L46 201L54 197L54 199L51 199L51 201L48 202L49 203L47 206L53 212L51 214L56 219L68 224L76 224L85 219L86 216L89 214L96 215L99 213L99 215L93 220L94 221L88 226L85 231L64 238L64 233L60 234L61 232L59 233L58 237L83 265L92 272L101 276L103 274L106 275L127 265L134 254L132 247L133 244L131 244L129 241L124 241L119 238L119 234L124 235L125 233L126 234L126 230L129 233L132 230L128 227L130 227L127 222L128 219L125 216L127 213L124 212L124 210L127 209L127 207L126 206L123 209L121 207L116 207L113 203L109 201L107 204L106 203L106 197L112 195L111 191L113 190L113 182L110 182L112 180L111 179zM108 187L108 188zM111 208L111 207z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M176 233L177 232L179 234L177 236L174 236L177 242L175 244L176 245L180 245L182 243L185 246L184 249L186 252L197 254L198 257L200 258L216 258L220 260L221 259L222 266L227 266L230 263L233 264L233 260L237 256L236 255L244 250L247 251L252 249L254 251L254 255L255 254L251 256L252 259L261 259L268 256L268 254L272 254L275 250L274 249L276 245L274 245L272 241L270 241L270 234L274 234L277 232L275 229L276 227L278 228L280 226L274 219L280 218L282 214L281 211L278 210L278 208L281 206L276 205L274 201L272 201L274 201L272 203L270 201L270 193L269 192L267 194L267 189L265 188L270 183L268 173L272 169L271 167L274 166L271 161L273 156L283 153L281 150L283 148L284 149L283 148L286 144L286 140L290 136L289 132L288 133L286 129L287 128L280 124L277 125L270 122L266 124L266 127L264 126L255 133L244 138L230 150L231 151L229 152L231 158L234 161L242 162L248 158L250 159L249 162L251 164L249 167L245 166L243 168L241 167L238 169L240 172L237 174L242 176L243 178L243 180L240 183L238 181L239 191L234 189L234 187L231 190L227 188L224 189L223 186L221 189L222 191L219 192L218 196L213 198L212 197L211 200L206 195L208 193L211 193L212 195L215 192L213 191L214 186L213 187L212 184L215 184L217 181L215 179L215 176L201 176L200 172L203 174L205 172L202 171L203 172L203 168L200 168L197 173L192 170L192 174L196 174L196 177L194 178L191 174L192 177L190 179L192 183L190 187L193 187L195 191L194 204L185 210L185 212L189 212L190 214L183 217L182 216L180 218L181 221L183 221L184 223L181 228L174 231L175 233z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M295 166L295 168L295 166zM311 71L308 74L306 71L305 72L305 70L297 70L295 67L294 68L290 66L290 64L287 64L284 61L282 61L281 58L285 57L284 55L279 53L276 50L276 48L272 46L266 51L263 52L264 50L262 48L260 50L257 44L259 38L260 39L263 35L256 30L254 30L255 31L245 45L245 49L243 51L245 58L244 63L249 77L248 78L253 83L252 86L254 88L252 91L254 93L248 98L248 103L251 109L253 109L257 114L255 114L253 117L258 119L259 118L252 121L252 125L259 120L265 122L269 120L270 123L271 122L277 125L280 124L286 126L285 127L287 127L288 132L290 133L290 135L287 138L287 142L283 148L284 149L283 148L281 150L283 152L282 154L275 155L271 159L274 165L268 173L270 177L269 181L272 187L274 187L275 184L279 188L284 189L287 184L284 178L281 179L282 174L278 170L278 165L276 162L274 162L276 162L276 160L277 161L279 158L279 160L281 160L281 158L284 158L283 157L285 155L286 160L282 162L286 162L284 163L284 165L287 164L287 162L288 166L294 166L294 161L298 167L306 167L306 163L310 162L317 153L315 149L317 147L314 146L312 142L309 142L309 140L308 142L305 141L304 139L299 137L300 135L298 135L304 124L301 121L299 122L295 120L297 116L293 111L293 105L289 101L291 100L298 103L301 102L303 107L302 102L304 100L306 102L311 99L310 95L312 95L312 93L315 91L318 84L317 81L319 80L316 74L313 73L312 71L311 72z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M321 168L316 168L319 165L319 163L315 158L310 162L306 163L306 167L299 165L299 167L297 167L297 163L294 161L294 166L288 166L287 163L285 165L284 164L285 162L286 163L286 161L284 161L283 163L282 162L285 159L284 160L286 160L285 155L283 157L284 158L282 157L281 160L279 160L279 158L275 162L278 165L278 170L282 174L281 178L284 178L286 182L285 183L287 184L282 190L275 184L275 186L272 187L270 183L265 188L267 190L266 193L267 194L269 192L271 195L269 201L272 203L274 202L273 201L272 202L273 201L276 204L275 205L281 205L278 208L278 210L281 211L282 216L280 218L274 219L277 220L278 225L280 225L275 228L277 232L275 234L270 234L270 240L273 243L273 245L276 246L272 253L274 253L275 256L284 256L286 253L292 252L292 250L296 252L297 251L299 255L310 255L312 253L316 253L319 259L320 258L324 260L326 258L326 250L329 249L329 243L331 241L332 242L336 232L341 231L341 233L347 230L347 228L350 226L350 222L352 222L354 219L353 218L359 215L358 214L360 211L357 209L356 210L353 206L346 206L345 204L348 201L346 197L347 196L350 199L360 198L367 200L368 198L370 198L370 196L373 195L372 192L370 191L372 191L373 187L371 185L371 181L373 180L373 178L365 177L363 179L360 174L353 173L354 172L352 169L347 167L345 164L343 166L344 167L340 165L338 166L337 171L336 170L335 172L333 170L328 170L330 165L329 164L329 166L326 167L327 168L325 168L323 165L321 169L319 168L321 168zM295 166L295 168L295 166z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M385 192L381 197L377 197L374 195L367 200L356 199L353 197L352 199L350 199L348 196L346 198L348 200L346 206L347 207L351 205L356 210L357 209L359 211L359 215L353 218L354 219L350 222L350 226L349 228L347 228L347 230L345 230L342 233L341 231L335 233L335 237L329 243L329 249L326 250L326 258L324 260L325 261L320 264L319 268L322 271L323 276L320 277L323 278L324 280L324 284L319 286L319 288L322 290L322 294L320 294L320 297L321 296L325 300L325 302L327 302L330 305L328 307L329 308L325 310L322 307L318 311L316 316L318 321L316 322L316 324L324 328L327 336L332 336L331 339L333 346L336 344L340 345L343 342L344 334L349 332L354 327L353 326L355 323L359 322L359 306L356 304L356 298L352 294L352 292L354 290L359 293L360 292L363 296L369 296L368 297L371 295L371 293L364 291L365 282L363 280L363 271L366 272L366 270L369 268L369 264L373 265L377 263L378 265L382 265L384 259L387 260L386 253L388 252L387 251L389 250L389 248L391 248L390 243L393 238L402 233L400 231L406 227L409 221L408 219L407 220L405 218L404 220L404 217L401 216L401 204L396 204L393 198L387 192z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M463 238L457 235L456 236L447 230L445 232L447 234L445 238L447 239L444 244L442 244L441 241L437 242L433 240L431 240L428 243L426 241L423 242L426 236L424 232L412 233L408 235L400 231L402 233L392 239L390 242L392 246L389 249L389 252L386 253L387 260L385 259L381 265L369 264L369 268L365 272L363 272L363 279L365 282L364 291L368 293L371 292L371 296L368 298L367 295L364 296L360 292L355 292L354 290L352 292L352 294L356 298L356 304L359 307L361 318L353 325L354 326L349 332L347 332L344 335L342 342L343 343L341 343L341 345L346 345L355 339L359 339L361 341L361 339L363 339L363 330L366 328L368 330L367 331L369 331L369 335L373 332L373 330L375 330L376 332L378 331L380 327L379 328L378 325L381 322L386 321L387 320L385 317L386 316L388 318L388 316L392 314L391 313L396 319L396 316L398 321L407 322L412 315L416 315L414 313L418 315L430 303L455 293L458 288L464 284L464 279L470 275L465 266L467 260L471 256L480 253L480 251L474 247L474 244L470 247L468 241L462 239z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M316 323L311 324L308 321L309 318L308 315L307 316L306 314L308 313L309 307L304 302L300 304L292 302L291 305L286 303L286 301L283 301L283 298L274 297L271 294L271 305L268 307L268 311L265 311L263 308L261 310L259 317L262 320L258 327L255 327L253 330L255 334L254 339L256 341L251 350L257 353L255 353L251 357L250 360L253 363L252 370L251 369L252 374L249 377L247 377L255 381L252 383L253 390L265 390L267 392L270 389L270 387L271 388L273 386L278 386L282 388L283 385L285 385L285 383L292 382L292 375L304 371L308 373L311 370L310 366L314 364L316 364L317 368L321 370L323 369L323 367L322 365L318 365L319 362L320 364L323 361L328 363L330 359L336 359L339 356L336 353L332 353L332 351L329 350L329 347L331 346L334 348L334 346L332 345L332 336L327 336L326 331L323 327L321 325L317 326L316 323z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M219 277L214 279L211 276L205 280L205 278L203 278L199 282L199 284L195 284L194 288L192 288L192 286L190 288L188 296L186 298L187 297L193 301L200 302L203 305L204 304L203 307L208 307L205 311L205 313L207 313L206 315L204 315L205 313L203 313L203 315L202 314L202 316L204 316L203 317L200 314L200 316L194 313L195 317L191 317L199 325L203 321L207 323L208 322L207 326L205 328L203 327L202 329L205 335L207 337L212 333L213 330L217 334L218 339L218 341L215 340L215 344L218 344L218 346L222 346L222 348L225 347L229 349L231 346L231 348L232 346L234 348L236 345L235 344L239 342L239 338L241 336L244 337L243 336L248 330L250 331L251 334L254 333L253 330L256 327L258 327L260 322L263 320L259 317L261 313L260 312L262 310L261 309L263 308L267 311L268 310L269 306L271 306L270 300L272 296L265 294L261 296L262 299L268 302L266 305L261 304L259 306L257 306L258 305L255 301L251 299L246 293L244 294L242 292L236 295L235 294L233 296L227 294L221 296L218 292L223 285L217 285L219 277z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M227 266L223 266L221 264L222 261L219 259L204 259L199 257L197 254L186 252L184 249L185 246L182 243L180 245L174 245L168 248L171 252L169 253L170 256L177 254L180 254L180 256L174 257L172 261L169 261L167 265L164 265L168 267L169 266L168 267L171 269L170 270L172 274L169 275L167 279L165 279L161 275L159 277L161 279L159 283L160 286L159 288L158 287L156 289L160 293L160 297L162 298L161 299L168 307L167 309L165 309L166 310L164 312L162 312L163 316L158 322L158 327L162 335L165 336L163 347L166 348L167 350L165 355L166 361L169 363L167 369L170 372L169 380L171 380L170 381L172 384L169 385L175 388L174 392L178 394L182 392L181 391L182 392L183 387L181 387L183 385L184 386L184 382L182 382L180 380L180 376L179 377L182 376L182 374L184 373L186 375L189 373L189 371L194 370L194 366L202 368L203 365L211 365L211 359L209 357L210 353L214 356L214 354L217 357L228 356L226 354L226 350L228 350L225 347L222 348L222 346L218 346L219 345L215 343L215 341L219 339L213 330L212 333L210 333L210 335L207 337L205 333L202 331L202 329L209 324L206 323L205 321L199 324L192 317L195 316L194 314L198 314L197 315L200 316L200 314L203 317L204 316L202 316L202 314L203 315L203 313L205 313L204 315L207 313L206 314L205 311L208 309L208 307L204 307L204 304L203 305L200 302L193 301L187 297L186 298L188 296L190 287L192 286L192 288L194 289L195 285L197 285L202 278L204 278L205 280L211 276L214 279L216 279L221 271L220 270L222 268L227 269L227 267zM179 392L179 393z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M169 403L171 404L171 409L174 412L174 414L177 414L176 413L180 411L180 403L178 397L179 396L175 396L178 393L174 393L175 388L169 385L172 384L170 381L171 380L169 380L170 372L167 369L169 365L165 355L167 350L163 344L163 342L165 341L165 337L160 333L158 327L158 323L163 316L162 313L168 307L163 302L161 299L162 298L160 298L160 294L156 289L154 291L147 287L144 290L142 296L145 308L148 309L145 310L146 318L148 316L147 319L150 322L147 321L148 331L151 335L149 335L150 339L152 339L151 342L156 357L155 358L158 372L157 375L162 390L164 390L169 403z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M269 464L272 461L274 461L273 460L276 457L277 452L272 450L272 445L268 445L269 444L266 443L267 438L263 439L264 436L260 437L260 439L257 441L256 440L252 442L251 439L247 439L246 437L244 441L241 441L242 436L239 431L241 431L242 434L249 435L250 438L251 437L249 435L249 432L253 432L253 429L251 429L251 427L250 431L248 427L245 427L244 430L241 430L239 428L241 424L236 422L236 417L238 416L238 412L236 412L236 410L237 409L243 412L245 407L241 400L242 397L244 397L242 392L240 393L236 400L232 401L230 404L226 404L226 406L224 407L223 406L221 408L217 408L216 411L212 413L211 416L214 419L214 423L211 425L210 424L210 427L208 429L204 426L202 422L197 420L196 424L193 423L195 427L194 430L187 431L188 436L194 439L194 441L196 441L195 442L199 448L198 451L200 454L202 456L204 454L208 458L207 459L211 465L211 469L207 471L206 470L204 472L206 475L254 475L255 467L257 467L260 462L262 461L268 464z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M285 385L283 385L282 388L278 386L274 386L271 388L270 387L270 389L267 392L265 390L256 391L251 389L245 389L242 391L242 394L244 396L242 397L241 400L245 406L245 409L243 411L239 411L237 409L236 410L236 412L238 413L236 421L238 424L241 424L239 428L241 430L243 430L244 427L247 427L250 430L251 427L251 429L253 429L253 431L249 433L250 432L250 438L249 435L244 435L241 431L239 431L242 436L241 441L245 441L245 437L247 439L251 439L252 442L256 440L257 441L263 436L263 438L267 438L267 442L265 443L268 443L268 445L272 445L272 450L276 452L277 451L277 455L274 458L275 461L272 460L269 465L273 467L275 467L276 465L277 466L280 457L284 456L284 458L291 458L298 451L300 453L303 452L302 453L304 454L305 453L303 452L305 452L309 449L309 447L311 447L309 446L311 445L308 442L306 442L303 439L303 437L301 439L297 437L297 429L291 421L288 409L289 408L286 408L286 406L281 406L282 391L285 389L285 386z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M179 392L180 392zM254 334L252 334L250 332L251 331L249 330L243 337L240 336L239 342L235 344L236 345L234 348L232 346L232 348L231 346L230 349L226 351L228 356L227 357L217 357L211 353L209 356L211 358L211 365L203 365L202 368L194 366L194 370L190 371L186 375L184 373L182 376L179 376L181 378L181 381L184 382L184 386L183 385L181 387L183 387L182 392L181 391L182 392L180 394L176 394L176 396L178 396L179 399L184 402L192 403L194 406L192 408L193 411L196 410L198 413L196 419L199 420L206 428L207 427L209 429L210 425L214 422L214 420L211 417L211 413L213 413L217 408L221 408L223 406L224 407L226 404L230 404L233 401L237 400L237 398L243 390L253 389L252 382L255 380L249 379L247 377L249 377L252 374L251 369L252 370L253 364L249 360L255 353L257 353L251 350L251 348L254 347L253 346L256 342L254 339L254 334z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M272 254L268 254L268 256L262 259L253 259L251 255L255 255L252 249L247 251L241 251L236 255L237 256L233 260L233 264L229 264L227 269L222 267L220 270L221 271L218 274L219 279L217 281L217 285L223 285L218 293L221 296L227 294L233 296L241 292L244 294L245 293L250 297L250 299L256 302L258 305L257 306L261 304L264 306L268 303L268 301L261 298L261 296L265 294L271 294L274 297L283 298L283 301L286 301L286 303L290 305L292 305L291 304L293 302L296 304L300 304L303 302L309 307L307 314L309 318L308 321L312 324L316 323L316 315L319 310L322 307L325 310L329 308L328 307L330 305L327 302L325 302L325 300L321 296L320 297L321 296L319 294L321 294L322 291L321 289L318 288L324 284L324 278L320 277L323 276L322 271L319 268L321 263L325 261L322 260L321 258L320 259L314 253L310 255L306 255L303 253L300 255L297 251L296 252L292 250L292 252L286 253L285 256L275 256L274 253L272 254z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M205 470L204 471L202 469L203 468L201 469L197 465L195 465L196 464L194 464L193 466L198 475L207 475L204 473L205 471z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M390 342L395 337L401 335L409 327L418 315L416 313L414 313L416 315L411 316L408 322L402 322L397 320L396 316L396 318L394 317L392 313L390 316L388 316L388 318L386 316L386 321L381 322L378 325L378 327L380 327L378 330L379 331L377 332L374 330L369 335L367 328L365 329L362 336L363 339L361 339L361 341L359 339L355 339L348 344L347 343L346 345L337 344L334 346L334 348L332 346L330 347L329 350L331 350L332 353L335 353L339 356L333 360L331 359L328 363L323 361L320 364L319 363L318 364L323 366L322 370L319 368L318 369L317 366L313 364L308 373L304 371L294 374L292 376L291 383L286 383L285 389L282 391L281 406L289 408L288 409L291 420L296 427L297 438L300 437L302 439L302 437L311 445L311 447L315 447L315 438L312 431L314 421L311 416L311 405L316 395L323 391L327 391L328 394L331 395L339 381L349 381L362 374L361 373L363 368L361 367L361 365L367 358L383 350L390 342z"></path><path class="leaflet-interactive" stroke="none" fill="FFFFFF" fill-opacity="0" fill-rule="evenodd" d="M310 475L316 464L316 445L315 448L310 446L311 447L309 447L309 449L305 451L304 454L302 452L296 451L297 454L294 456L293 455L290 458L285 458L284 456L281 457L278 459L279 460L275 467L270 465L269 466L269 464L265 462L264 463L262 461L259 463L259 466L255 467L254 471L256 471L252 475z"></path></g></svg></div><div class="leaflet-pane leaflet-shadow-pane"></div><div class="leaflet-pane leaflet-marker-pane"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(608px, 464px, 0px); z-index: 464;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/03.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(600px, 103px, 0px); z-index: 103;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(550px, 145px, 0px); z-index: 145;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/03.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(620px, 127px, 0px); z-index: 127;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/40.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(182px, 442px, 0px); z-index: 442;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(421px, 136px, 0px); z-index: 136;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(212px, 152px, 0px); z-index: 152;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(493px, 196px, 0px); z-index: 196;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(464px, 212px, 0px); z-index: 212;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(233px, 79px, 0px); z-index: 79;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(250px, 8px, 0px); z-index: 8;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(331px, 101px, 0px); z-index: 101;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(233px, -83px, 0px); z-index: -83;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(646px, 135px, 0px); z-index: 135;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/03.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(621px, 187px, 0px); z-index: 187;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(503px, 103px, 0px); z-index: 103;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(516px, 129px, 0px); z-index: 129;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(278px, 16px, 0px); z-index: 16;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(157px, 132px, 0px); z-index: 132;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/05.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(91px, 113px, 0px); z-index: 113;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(471px, 187px, 0px); z-index: 187;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(213px, 215px, 0px); z-index: 215;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/05.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(261px, 144px, 0px); z-index: 144;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(278px, 93px, 0px); z-index: 93;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(325px, 207px, 0px); z-index: 207;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(377px, 212px, 0px); z-index: 212;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(454px, 253px, 0px); z-index: 253;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/42.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(373px, 312px, 0px); z-index: 312;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/40.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(306px, 344px, 0px); z-index: 344;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(231px, 328px, 0px); z-index: 328;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/08.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(203px, 294px, 0px); z-index: 294;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(184px, 264px, 0px); z-index: 264;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/17.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(179px, 308px, 0px); z-index: 308;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(157px, 346px, 0px); z-index: 346;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/17.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(150px, 297px, 0px); z-index: 297;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/10.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(164px, 384px, 0px); z-index: 384;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/40.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(224px, 460px, 0px); z-index: 460;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(272px, 421px, 0px); z-index: 421;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/07.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(257px, 398px, 0px); z-index: 398;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(226px, 381px, 0px); z-index: 381;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(298px, 268px, 0px); z-index: 268;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/08.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(268px, 270px, 0px); z-index: 270;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/01.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(225px, 515px, 0px); z-index: 515;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/40.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(232px, 544px, 0px); z-index: 544;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/07.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(202px, 487px, 0px); z-index: 487;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(342px, 366px, 0px); z-index: 366;"><img src="https://mausam.imd.gov.in/responsive/img/warning_images/41.png" class="leaflet-marker-icon leaflet-zoom-animated leaflet-interactive" alt="Marker" tabindex="0" role="button" style="margin-left: -12px; margin-top: -12px; width: 24px; height: 24px; transform: translate3d(267px, 495px, 0px); z-index: 495;"></div><div class="leaflet-pane leaflet-tooltip-pane"></div><div class="leaflet-pane leaflet-popup-pane"></div><div class="leaflet-proxy leaflet-zoom-animated" style="transform: translate3d(5969.63px, 3553.61px, 0px) scale(16);"></div></div><div class="leaflet-control-container"><div class="leaflet-top leaflet-left"><div id="print-container" class="leaflet-bar leaflet-control"><div id="print-params" style="display: none;"><div class="close">×</div><h6 style="width: 100%;">Choose scale:</h6><input type="number" min="1" max="10" id="scale" style="width: 100%;"><div class="download-button">Download</div></div><a id="print-btn" title="Get image" class="polyline-measure-unicode-icon">🖶</a><div id="print-loading"></div></div><div class="leaflet-control-zoomhome leaflet-bar leaflet-control"><a class="leaflet-control-zoomhome-in" href="#" title="Zoom in" role="button" aria-label="Zoom in" aria-disabled="false">+</a><a class="leaflet-control-zoomhome-home" href="#" title="Home" role="button" aria-label="Home"><i class="fa fa-home" style="line-height:1.65;"></i></a><a class="leaflet-control-zoomhome-out leaflet-disabled" href="#" title="Zoom out" role="button" aria-label="Zoom out" aria-disabled="true">-</a></div></div><div class="leaflet-top leaflet-right"><div class="opacity_button leaflet-control"><form style="background-color:#99cefe;border: 1px solid grey;"><div class="form-check form-switch" style="padding-top:2px;margin : 5px;font-weight:bold"><label class="form-check-label" for="opacity_button">Transparent</label><input class="form-check-input" type="checkbox" id="opacity_button"></div></form></div><div class="leaflet-control-layers leaflet-control" aria-haspopup="true"><a class="leaflet-control-layers-toggle" href="#" title="Layers" role="button"></a><section class="leaflet-control-layers-list"><div class="leaflet-control-layers-base"></div><div class="leaflet-control-layers-separator" style="display: none;"></div><div class="leaflet-control-layers-overlays"><label><span><input type="checkbox" class="leaflet-control-layers-selector"><span> Google Map</span></span></label><label><span><input type="checkbox" class="leaflet-control-layers-selector"><span> MapMyIndia</span></span></label><label><span><input type="checkbox" class="leaflet-control-layers-selector"><span> Openstreet</span></span></label><label><span><input type="checkbox" class="leaflet-control-layers-selector" checked=""><span> Sub-Div Warnings</span></span></label></div></section></div></div><div class="leaflet-bottom leaflet-left"></div><div class="leaflet-bottom leaflet-right"><div class="leaflet-control-attribution leaflet-control"></div></div></div></div>     
+              <span class="image-container-span">
+                <a href="https://www.facebook.com/sharer/sharer.php?u=https://mausam.imd.gov.in/responsive/subDivisionWiseWarningGISPNG.php?day=1" target="_blank" class="share-link" title="Share on Facebook" style="--index: 1;"><i class="bi bi-facebook"></i></a>
+                              </span>
+          </div><!-- district wise nowcast end -->              
+        </div>
+      </div>
+      
+    </section>
+    <!-- main content end -->
+
+    <!-- footer include -->
+    <section class="footer border-top">
+	<div class="container-xxl">
+		<!-- footer widget -->
+		<div class="row">
+			<div class="col-lg-3 col-sm-6">
+				<!-- footer widget items -->
+				<div class="fw-item">
+					<!-- heading/title -->
+					<h3 class="fw-title">Forecasts</h3>
+					<!-- footer widget body -->
+					<div class="fw-body">
+						<ul class="list-unstyled">
+							<li><a href="http://internal.imd.gov.in/pages/city_weather_main_mausam.php" target="_blank" rel="noopener noreferrer">Urban Meteorological Services </a></li>
+							<li><a href="http://nwp.imd.gov.in/gfsproducts_cycle00_mausam.php" target="_blank">Short to Medium Range Model Guidance</a></li>
+							<li><a href="extendedRangeForecast.php">Extended Range Model Guidance</a></li>
+							<li><a href="seasonal_forecast.php">Seasonal Forecast</a></li>
+							<li><a href="quantPrecipForecast.php">Quantitative Precipitation Forecast</a></li>
+							<li><a href="https://cap-sources.s3.amazonaws.com/in-imd-en/rss.xml" target="_blank">Latest CAP Alerts</a></li>
+						</ul>
+					</div>
+					<br>
+					<div class="fw-body">
+						<h3 class="fw-title">for historical data related query</h3>
+
+						<div class="fw-body">
+							<p class="address">1. Mr. Ranjan Phukan, Sc. D<br>Contact No: <a href="tel:+919435669264">+91 9435669264</a>, ranjan.phukan[at]imd[dot]gov[dot]in
+						</p></div>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<!-- footer widget items -->
+				<div class="fw-item">
+					<!-- heading/title -->
+					<h3 class="fw-title">Specialised products &amp; forecasts</h3>
+					<!-- footer widget body -->
+					<div class="fw-body">
+						<ul class="list-unstyled">
+							<li><a href="cycloneinformation.php">Cyclones</a> &nbsp;|&nbsp;
+								<a href="monsooninformation.php">Monsoon</a> &nbsp;|&nbsp;
+								<a href="satellite.php">Satellite</a><!-- <a href="https://www.mosdac.gov.in/" target="_new">Satellite</a>-->
+							</li>
+							<li><a href="radar.php">Radar</a> &nbsp;|&nbsp;
+								<a href="rainfallinformation.php">Rainfall</a> &nbsp;|&nbsp;
+								<a href="agromet_adv_ser_state_current.php">Agromet Advisories</a>
+							</li>
+							<li>MAUSAM : <a href="https://play.google.com/store/apps/details?id=com.imd.masuam" target="_blank" rel="noopener noreferrer"><img src="img/icons/android.png" alt="ANDROID"></a> &nbsp;|&nbsp;
+								<a href="https://apps.apple.com/us/app/id1522893967" target="_blank"><img src="img/icons/apple.png" alt="APPLE"></a> |
+								<a href="videos/mausam_app_v1.mp4" target="_blank" rel="noopener noreferrer">Video</a>
+							</li>
+							<li>Meghdoot Agro : <a href="https://play.google.com/store/apps/details?id=com.aas.meghdoot" target="_blank" rel="noopener noreferrer"><img src="img/icons/android.png" alt="ANDROID"></a> &nbsp;|&nbsp;
+								<a href="https://apps.apple.com/in/app/meghdoot/id1474048155" target="_blank" rel="noopener noreferrer"><img src="img/icons/apple.png" alt="APPLE"></a> |
+								<a href="videos/meghdoot_app.mp4" target="_blank" rel="noopener noreferrer">Video</a>
+							</li>
+							<!-- <li>Public Observation-IMD : <a href="https://play.google.com/store/apps/details?id=com.mausam.crowdsource" target="_blank" rel="noopener noreferrer"><img src="img/icons/android.png" alt="ANDROID"></a></a>&nbsp;|&nbsp;
+								<a href="https://apps.apple.com/in/app/public-observation-imd/id1618055762" target="_blank"><img src="img/icons/apple.png"></a> |
+								<a href="/imd_latest/weather_video/Crowd%20Sourcing%20Observation.mp4" target="_blank">Video</a>
+							</li> -->
+							<li>Damini Lightning : <a href="https://play.google.com/store/apps/details?id=com.lightening.live.damini" target="_blank" rel="noopener noreferrer"><img src="img/icons/android.png" alt="ANDROID"></a> &nbsp;|&nbsp;
+								<a href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewSoftware?id=1502385645" target="_blank" rel="noopener noreferrer"><img src="img/icons/apple.png" alt="APPLE"></a>
+							</li>
+							<li>UMANG : <a href="https://play.google.com/store/apps/details?id=in.gov.umang.negd.g2c" target="_blank" rel="noopener noreferrer"><img src="img/icons/android.png" alt="ANDROID"></a> &nbsp;|&nbsp;
+								<a href="https://apps.apple.com/in/app/umang/id1236448857" target="_blank" rel="noopener noreferrer"><img src="img/icons/apple.png" alt="APPLE"></a>
+							</li>
+							<li><a href="https://dsp.imdpune.gov.in/" target="_blank" rel="noopener noreferrer"><b>Data Service Portal - Meteorological Data</b></a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<!-- footer widget items -->
+				<div class="fw-item">
+					<!-- heading/title -->
+					<h3 class="fw-title">Miscellaneous</h3>
+					<!-- footer widget body -->
+					<div class="fw-body">
+						<ul class="list-unstyled">
+							<li>
+																<a href="citizenCharter.php">Citizen’s Charter</a> &nbsp;|&nbsp;
+								<a href="hindi_section.php" target="_blank" rel="noopener noreferrer">संगोष्ठी</a>
+							</li>
+							<li>
+								<a href="faq.php">Frequently Asked Questions</a>
+							</li>
+							<li><a href="https://internal.imd.gov.in/pages/rti_mausam.php" target="_blank" rel="noopener noreferrer">RTI</a> &nbsp;|&nbsp;
+								<a href="feedback/feedback.php" target="_blank" rel="noopener noreferrer">Feedback</a>&nbsp;|&nbsp;
+								<a href="/responsive/PoSH.php" target="_blank" rel="noopener noreferrer">Internal Complaint Committee</a>
+							</li>
+							<li><a href="https://shebox.wcd.gov.in/" target="_blank" rel="noopener noreferrer">Sexual Harassment complaint portal</a></li>
+
+							<li><a href="https://www.youtube.com/playlist?list=PLeEHd98fYDxjqoVoGRmyzQeJlIVClRQts">Weather Video</a> &nbsp;|&nbsp;
+								<a href="https://internal.imd.gov.in/advertisements/20260514_advt_119.pdf" target="_blank" rel="noopener noreferrer">GKMS News Letter</a>
+							</li>
+							<li><a href="/Forecast/login.php" target="_blank" rel="noopener noreferrer">Database Login</a> &nbsp;|&nbsp;
+								<a href="/backend/auth/login" target="_blank" rel="noopener noreferrer">Admin Login</a>
+							</li>
+							<li><a href="http://internal.imd.gov.in/pages/tenders_mausam.php" target="_blank" rel="noopener noreferrer">Tenders</a> &nbsp;|&nbsp;
+								<a href="https://internal.imd.gov.in/pages/recruits_mausam.php?id=1" target="_blank" rel="noopener noreferrer">WMO recruitment/notices</a>
+							</li>
+							<li><a href="http://internal.imd.gov.in/pages/recruits_mausam.php" target="_blank" rel="noopener noreferrer">Recruitment</a> &nbsp;|&nbsp; <a href="https://internal.imd.gov.in/pages/recruits_mausam.php?id=2" target="_blank" rel="noopener noreferrer">Compassionate Appointment</a></li>
+							
+							<li><a href="https://metnet.imd.gov.in/phps/imdweb_ip_main2.php" target="_blank">Immovable Property Return</a></li>
+							<li><a href="disclaimer.php">Disclaimer</a> &nbsp;|&nbsp;
+								<a href="sitemap.php">Sitemap</a>
+							</li>
+						</ul>
+					</div>
+				</div>
+			</div>
+			<div class="col-lg-3 col-sm-6">
+				<!-- footer widget items -->
+				<div class="fw-item">
+					<!-- heading/title -->
+					<h3 class="fw-title"><a href="contact.php">Contact Us</a></h3>
+					<!-- footer widget body -->
+					<div class="fw-body">
+						<p class="address">Office of Director General of Meteorology<br>
+							India Meteorological Department (IMD)<br>
+							Mausam Bhawan, Lodhi Road<br>
+							New Delhi - 110003</p><br>
+						<!-- heading/title -->
+						<h3 class="fw-title">Weather related query for Media</h3>
+						<h4 style="font-size:15px;">Query Time: 10:00am to 5:00pm</h4>
+
+						<!-- footer widget body -->
+						<div class="fw-body">
+							<p class="address">1. Dr. Naresh Kumar, Sc. F<br>Contact No: <a href="tel:+919968680077">+91 9968680077</a>, naresh.nhac[at]gmail[dot]com<br>
+								2. Dr. Akhil Srivastava, Sc. D<br>Contact No: <a href="tel:+918285281968">+91 8285281968</a>, akhil.srivastava[at]imd[dot]gov[dot]in<br></p>
+						</div>
+						<!-- heading/title -->
+						<!--<h3 class="fw-title mt-4">Total Visits</h3>-->
+						<!-- footer widget body -->
+						<div class="fw-body">
+							<!-- visit count display -->
+													</div>
+					</div>
+				</div>
+			</div>
+			<!-- footer social media -->
+			<div class="social-media">
+				<a href="https://www.facebook.com/India.Meteorological.Department/" class="sm-link facebook" title=""><i class="bi bi-facebook"></i></a>
+				<a href="https://www.youtube.com/channel/UC_qxTReoq07UVARm87CuyQw/featured?view_as=subscriber" class="sm-link youTube" title=""><i class="bi bi-youtube"></i></a>
+				<a href="https://twitter.com/Indiametdept" class="sm-link twitter" title=""><i class="bi bi-twitter"></i></a>
+				<a href="https://instagram.com/mausam_nwfc/" target="new" class="sm-link instagram" title=""><i class="bi bi-instagram"></i></a>
+			</div>
+			<p class="copy-right">© Copyright 2026, Developed by IT Team, India Meteorological Department<br>Ministry of Earth Sciences, New Delhi, India</p>
+		</div>
+</div></section>
+
+
+<!-- Google tag (gtag.js) -->
+<script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.googletagmanager.com/gtag/js?id=G-32TG9YS6MD&amp;cx=c&amp;gtm=4e66a1"></script><script async="" src="https://www.googletagmanager.com/gtag/js?id=UA-157746104-1"></script>
+<script>
+	window.dataLayer = window.dataLayer || [];
+
+	function gtag() {
+		dataLayer.push(arguments);
+	}
+	gtag('js', new Date());
+
+	gtag('config', 'UA-157746104-1');
+</script>
+
+        
+    <!-- Scroll to top -->
+    <span class="totop"><a href="#"><i class="bi bi-arrow-up-circle-fill"></i></a></span> 
+    
+    <!-- bootstrap js 5.0 -->
+    <script src="assets/js/bootstrap.bundle.min.js"></script>
+    <script src="js/libs/jquery.min.js"></script>
+    <!-- Leaflet includes -->
+    <script src="js/leaflet/leaflet.js"></script>
+    <script src="js/leaflet/leaflet.zoomhome.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/leaflet-easybutton@2/src/easy-button.js"></script>
+    <script src="js/leaflet/Leaflet.BigImage.js"></script>
+    <script src="js/leaflet/leaflet-image.min.js"></script>
+    <script src="js/main.js"></script>
+        <script>
+      $(document).ready(function(){  
+        $('.sdww-block input[type="radio"]').click(function(){  
+          var _day = $(this).val();
+          window.location = "subDivisionWiseWarningGIS.php?day=" + _day; 
+        });  
+      });  
+      
+     
+      var check="1";
+      
+      if(check=="1"){
+        document.getElementById("rb1").checked = true; 
+      } else if(check=="2"){
+        document.getElementById("rb2").checked = true; 
+      } else if(check=="3"){
+        document.getElementById("rb3").checked = true; 
+      } else if(check=="4"){
+        document.getElementById("rb4").checked = true; 
+      } else if(check=="5"){
+        document.getElementById("rb5").checked = true; 
+      } else if(check=="6"){
+        document.getElementById("rb6").checked = true; 
+      } else if(check=="7"){
+        document.getElementById("rb7").checked = true; 
+      }
+    </script>
+    <script>
+      var map;
+      var day = 1;
+      var openstreetLyr;
+      var gisLyr;
+      var zoomLevel;
+      var homeLocation = [23.1764658, 82.3372044];
+      var width = document.documentElement.clientWidth;
+      var height = document.documentElement.clientHeight;
+      // tablets are between 768 and 922 pixels wide
+      // phones are less than 768 pixels wide
+      if (width > 922) {
+        // set the zoom level to 4
+        if (height > 800) {
+          zoomLevel = 4.9;
+        } else if (height > 550) {
+          zoomLevel = 4.3;
+        } else {
+          zoomLevel = 4.1;
+        }
+      } else if (width > 558) {
+        // set the zoom level to 4
+        if (height > 800) {
+          zoomLevel = 4.9;
+        } else {
+          zoomLevel = 4.7;
+        }
+      } else {
+        // set the zoom level to 6
+        if (height > 654) {
+          zoomLevel = 3.8;
+        } else {
+          zoomLevel = 3.6;
+        }
+      }
+      opacity = 1.0;
+      transparent = true;
+      $(document).ready(function() {
+        map = L.map('chartdiv2', {minZoom: 5, maxZoom: 12, zoomSnap: 0, zoomDelta: 1, zoomControl: false, attributionControl: false}).setView(homeLocation, zoomLevel);
+        L.control.attribution({ prefix: false }).addTo(map);
+        
+        gisLyr = L.tileLayer.wms('https://reactjs.imd.gov.in/geoserver/imd/wms', {
+            layers: "imd:subdiv_warnings_now",
+            transparent: transparent,
+            opacity: opacity,
+            env: "day:Day"+day+"_Color",
+            format: 'image/png'
+        })
+
+        googleLyr = L.tileLayer('http://{s}.google.com/vt?lyrs=m&x={x}&y={y}&z={z}', {
+            maxZoom: 19,
+            subdomains:['mt0','mt1','mt2','mt3'],
+            attribution: '&copy; <a href="#">Google Map</a>'
+        });
+
+        mapMyIndiaLyr = L.tileLayer('https://{s}.mapmyindia.com/advancedmaps/v1/itvy4aii733z9vbkshaj8ohw949hyfig/still_map/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            subdomains:['mt0', 'mt1','mt2','mt3','mt4','mt5'],
+            attribution: '&copy; <a href="#">Map My India</a>'
+        });
+
+        osm = L.tileLayer('https://tile.openstreetmap.org/{z}/{x}/{y}.png', {
+            maxZoom: 19,
+            attribution: '© OpenStreetMap'
+        })
+
+        var LeafIcon = L.Icon.extend({
+            options: {
+              iconSize: [24, 24],
+              iconAnchor: [12, 12],
+              popupAnchor: [0, -24]
+            }
+        });
+
+        var opacity_button = L.control({position: 'topright'});
+
+        opacity_button.onAdd = function (map) {
+            var div = L.DomUtil.create('div', 'opacity_button');
+            div.innerHTML = '<form style="background-color:#99cefe;border: 1px solid grey;"><div class="form-check form-switch" style="padding-top:2px;margin : 5px;font-weight:bold"><label class="form-check-label" for="opacity_button">Transparent</label><input class="form-check-input" type="checkbox" id="opacity_button"></div></form>';
+            return div;
+        };
+
+        opacity_button.addTo(map);
+
+        // add the event handler
+        function handleCommand() {
+          if (map.hasLayer(gisLyr)) {
+            if(opacity == 1) {
+              opacity = 0.7;
+            } else {
+              opacity = 1;
+            }
+            gisLyr.setOpacity(opacity);
+          }
+        }
+
+        document.getElementById ("opacity_button").addEventListener ("click", handleCommand, false);
+
+        L.control.bigImage({position: 'topleft'}).addTo(map);
+
+        var wfsLayer = null;
+        /*function handleJson(data) {
+          wfsLayer = L.geoJSON(data).addTo(map);
+        }*/
+
+        function getWarning(nc){
+          var category={"1":"No Warning","2":"Heavy Rain","3":"Heavy Snow","4":"Thunderstorm & Lightning","5":"Hailstorm","6":"Dust Storm","7":"Dust Raising Winds","8":"Strong Surface Winds","9":"Heat Wave","91":"Severe Heat Wave","10":"Hot Day","11":"Warm Night","12":"Cold Wave","121":"Severe Cold Wave","13":"Cold Day","131":"Severe Cold Day","14":"Ground Frost","15":"Fog","151":"Dense Fog","152":"Very Dense Fog","16":"Very Heavy Rain","17":"Extremely Heavy Rain","18":"Hot and Humid","41":"Thunderstorm & Lightning","42":"Thunderstorm & Lightning","43":"Thunderstorm & Lightning","44":"Thunderstorm & Lightning","45":"Thunderstorm & Lightning","46":"Thunderstorm & Lightning"};
+          var warnings_arr = nc.split(",");
+          var warning = "";
+          for(i=0; i < warnings_arr.length; i++) {
+            if(warnings_arr[i]){
+              if(warnings_arr[i] > 1){
+                warning += '<img src="img/warning_images/'+ (warnings_arr[i]-1).toString().padStart(2, '0') +'.png" style="width:25px;height:25px;" /> ' + category[warnings_arr[i]] + '<br>';
+              } 
+            }
+          }
+          if(warning == ""){
+            warning = category[1] + '<br>';
+          }
+          
+          return warning;
+        }
+
+        function addPopup(feature, layer) {
+            popupOptions = {autoPan: false,keepInView: true};
+            var weather_warning = getWarning(feature.properties['Day_' + day]);
+            var d = new Date(feature.properties.Date);
+            updated_at = d.getDate().toString().padStart(2, '0') + '-' + (d.getMonth()+1).toString().padStart(2, '0') + '-' + d.getFullYear();
+            warning_date = '14-06-2026';//(d.getDate() - 1 + day).toString().padStart(2, '0') + '-' + (d.getMonth()+1).toString().padStart(2, '0') + '-' + d.getFullYear();
+            layer.bindPopup("<div class='popupMessage'><h6 style='margin: 0; padding-top: 3px;'>"+feature.properties.SUBDIV+"</h6><b>Date </b>:"+warning_date+"<div>"+weather_warning+"</div><b>Updated at</b>:"+updated_at+"</div>"
+                ,popupOptions);
+            layer.on('mousemove', function (e) {
+                this.openPopup(e.latlng);
+            });
+            layer.on('mouseout', function (e) {
+                this.closePopup();
+            });
+        }
+        
+        $.ajax('https://reactjs.imd.gov.in/geoserver/wfs',{
+          type: 'GET',
+          data: {
+            service: 'WFS',
+            version: '1.1.0',
+            request: 'GetFeature',
+            typename: 'imd:subdiv_warnings_now',
+            srsname: 'EPSG:4326',
+            format_options : 'callback:getJson',
+            outputFormat: 'text/javascript',
+            },
+          dataType: 'jsonp',
+          jsonpCallback:'getJson',
+          success : function (response) {
+            wfsLayer = L.geoJson(response, {
+                style: function (feature) {
+                    return {
+                        stroke: false,
+                        fillColor: 'FFFFFF',
+                        fillOpacity: 0
+                    };
+                },
+                onEachFeature: function (feature, layer) {
+                  addPopup(feature, layer);
+                  var warnings_arr = feature.properties['Day_' + day].split(",");
+                  var icon_index = "";
+                  for(var i=0; i < warnings_arr.length; i++) {
+                    if(warnings_arr[i] && warnings_arr[i] > 1){
+                      icon_index = (i != 0 ? i : "");
+                      var marker = L.marker([feature.properties['lat'+icon_index], feature.properties['lon'+icon_index]], {icon: new LeafIcon({iconUrl: 'https://mausam.imd.gov.in/responsive/img/warning_images/'+ (warnings_arr[i]-1).toString().padStart(2, '0') +'.png'})}).bindPopup("<div class='popupMessage'><h6 style='margin: 0; padding-top: 3px;'>"+feature.properties.SUBDIV+"</h6><div>"+getWarning(warnings_arr[i])+"</div></div>",{autoPan: false,keepInView: true}).on('mousemove', function (e) { this.openPopup(e.latlng);}).addTo(map);
+                    }
+                  }
+                }
+            });
+            wfsLayer.addTo(map);
+            gisLyr.bringToFront();
+        }, 
+        error: function (error) {
+          console.log(error);
+        }
+        });
+
+        var zoomHome = L.Control.zoomHome();
+        zoomHome.addTo(map);
+        gisLyr.addTo(map);
+        var layer = L.tileLayer('');
+        var baseMaps = {
+        };
+        var overlayMaps = {
+            "Google Map": googleLyr,
+            "MapMyIndia": mapMyIndiaLyr,
+            "Openstreet": osm,
+            "Sub-Div Warnings": gisLyr
+        };
+        var c_layers = L.control.layers(baseMaps, overlayMaps, {position:'topright',collapsed:true}).addTo(map);
+      })
+
+      window.addEventListener('resize', function(event){
+        // get the width of the screen after the resize event
+        width = document.documentElement.clientWidth;
+        height = document.documentElement.clientHeight;
+        if (width > 922) {
+          // set the zoom level to 4
+          if (height > 800) {
+            zoomLevel = 4.9;
+          } else if (height > 590) {
+            zoomLevel = 4.3;
+          } else {
+            zoomLevel = 4.1;
+          }
+        } else if (width > 558) {
+          // set the zoom level to 4
+          if (height > 800) {
+            zoomLevel = 4.9;
+          } else {
+            zoomLevel = 4.7;
+          }
+        } else {
+          // set the zoom level to 6
+          if (height > 654) {
+            zoomLevel = 3.8;
+          } else {
+            zoomLevel = 3.6;
+          }
+        }
+        map.setZoom(zoomLevel);
+      });
+    </script>
+		<script src="js/shareSocialmedia.js"></script>
+  
+
+</body></html>

@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-4",
+  "scheme_name": "Fund of Funds for Startups (FFS)",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "ministry_or_category": "Startup & Industry (DPIIT)",
+  "overview": "Fund of Funds for Startups (FFS) is a Government of India initiative launched under the Startup India Action Plan in 2016, managed by SIDBI, with a total corpus of INR 10,000 crore. It does not invest directly in startups but contributes to SEBI-registered Alternative Investment Funds (AIFs) that in turn invest in equity and equity-linked instruments of DPIIT-recognised startups. The scheme aims to catalyse venture capital availability, support innovation-driven manufacturing, nurture early-stage startups, and promote ecosystem development by earmarking up to 5% of returns for capacity building activities.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide funding support for development and growth of innovation driven enterprises",
+    "Enable access to venture capital for startups across stages and sectors",
+    "Provide thrust to innovation-driven manufacturing and development of long gestation technologies",
+    "Support development of smaller Venture Capital funds with focus on investments in early growth stage startups",
+    "Nurture innovative ideas",
+    "Position the Scheme as an umbrella framework for co-investment or contribution of additional corpus for specific domains by Ministries/Departments and institutional investors",
+    "Promote ecosystem development by earmarking up to 5% of returns for activities such as sensitization, workshops, capacity building, plug and play shared facilities, mentorship, and regulatory support"
+  ],
+  "eligibility": "SEBI-registered Alternative Investment Funds (AIFs) are eligible to receive contributions from the Fund of Funds for Startups. AIFs must raise the balance 50% or more of the stated fund size from other investors to be eligible for contribution. The Scheme supports AIFs across four segments: Segment 1 (Deep Tech), Segment 2 (Micro VCs), Segment 3 (Tech-driven innovative manufacturing), and Segment 4 (Sector/stage agnostic). Startups must be recognised by DPIIT as per Gazette Notifications to be eligible for investment by AIFs supported under the Scheme.",
+  "benefits": "Indirect financial support to startups through SEBI-registered AIFs that invest in equity and equity-linked instruments. The Scheme enables access to venture capital, supports innovation-driven manufacturing, nurtures early-stage startups, and promotes ecosystem development. Returns (capital redeemed and returns earned) net of up to 5% utilisation for capacity building are deposited back to the Consolidated Fund of India (CFI).",
+  "financial_support": "The Fund of Funds for Startups (FFS) has a total corpus of INR 10,000 crore. It does not invest directly in startups but contributes to the corpus of SEBI-registered Alternative Investment Funds (AIFs) for investing in equity and equity-linked instruments of DPIIT-recognised startups. The contribution is made in tranches after AIFs raise the balance 50% or more of the stated fund size from other investors. The Scheme has an expanded scope with segmented approach to target key segments (Deep Tech, Micro VCs, Tech-driven innovative manufacturing, Sector/stage agnostic) and includes operational flexibilities such as supporting AIFs with larger corpuses for capital-intensive segments, longer duration AIFs for startups with longer R&D cycles, higher contribution for specific segments where private capital is limited, and moderation of investment multiplier to encourage larger number of AIFs to benefit from the Scheme.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. AIFs submit proposals to the Implementation Agency (IA). 2. IAs conduct due diligence on the proposals. 3. A Venture Capital Investment Committee (VCIC) constituted by DPIIT, including representation from industry, subject matter experts, and IAs, evaluates the proposals. 4. VCIC considers AIFs managed by experienced professionals with proven track records for funding under the Scheme. 5. Post approval, AIFs raise funds from other investors/contributors to meet the target corpus amount including from Startup India FoF 2.0. 6. AIFs evaluate startups for investments in tranches over a period. 7. Supported AIFs mentor and nurture their investee startups before exit/sale of investments.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "",
+  "caveats": [
+    "The Fund of Funds does not invest directly in startups but contributes to SEBI-registered AIFs",
+    "AIFs must raise the balance 50% or more of the stated fund size from other investors to be eligible for contribution",
+    "Up to 5% of returns from the Scheme are earmarked for capacity building of the startup ecosystem",
+    "The Scheme comes into force from date of notification (13 April 2026), with commitments to AIFs spread over the 16th and 17th Finance Commission Cycles"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action__Plan.pdf",
+    "https://startupindia.gov.in/content/dam/startupindia/Startup-India-Fund-of-Funds-2.0-Scheme.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T11:41:04.281813+00:00"
+}

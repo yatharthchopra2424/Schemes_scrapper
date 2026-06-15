@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-5",
+  "scheme_name": "Startup India Fund of Funds 2.0",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "ministry_or_category": "Startup & Industry (DPIIT)",
+  "overview": "Startup India Fund of Funds 2.0 is a government initiative approved on April 13, 2026, with a total corpus of INR 10,000 crore to mobilize venture capital for the startup ecosystem. It builds upon the original Fund of Funds for Startups (FFS) launched in 2016, aiming to provide access to venture capital across startup stages and sectors, with a special focus on innovation-driven manufacturing, deep tech, and early growth stage startups. The scheme operates through SEBI-registered Alternative Investment Funds (AIFs) that invest in equity and equity-linked instruments of DPIIT-recognized startups.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable access to venture capital for startups across stages and sectors",
+    "Provide thrust to innovation-driven manufacturing and development of long gestation technologies",
+    "Support development of smaller Venture Capital funds with focus on investments in early growth stage startups",
+    "Nurture innovative ideas",
+    "Position the scheme as an umbrella framework for co-investment or contribution of additional corpus by Ministries/Departments and institutional investors",
+    "Promote ecosystem development by earmarking up to 5% of returns for activities such as sensitization, workshops, capacity building, plug and play shared facilities, mentorship, and regulatory support"
+  ],
+  "eligibility": "The eligibility criteria for AIFs and startups are covered in the operational guidelines issued by DPIIT, which include segment-wise provisions, selection and monitoring processes, and reporting and assessment requirements. AIFs must be SEBI-registered Alternative Investment Funds, and startups must be recognised as 'startups' by the Central Government under DPIIT criteria.",
+  "benefits": "The scheme provides access to venture capital for startups through SEBI-registered AIFs investing in equity and equity-linked instruments. It supports capital availability for deep tech, manufacturing, early growth stage, and sector/stage agnostic startups. Returns from the scheme (net of up to 5% utilisation for ecosystem capacity building) are deposited back to the Consolidated Fund of India. The scheme also enables mentorship and nurturing of investee startups by supported AIFs before exit/sale of investments.",
+  "financial_support": "Startup India Fund of Funds 2.0 operates as a Fund of Funds, contributing to the corpus of SEBI-registered Alternative Investment Funds (AIFs) that in turn invest in equity and equity-linked instruments of DPIIT-recognized startups. The scheme does not provide direct funding to startups but mobilizes venture capital through AIFs. Funds are disbursed to AIFs in tranches based on commitments over the 16th and 17th Finance Commission Cycles, with AIFs raising additional funds from other investors to meet target corpus amounts.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process involves AIFs submitting proposals to Implementation Agencies (IAs), which conduct due diligence. A Venture Capital Investment Committee (VCIC) constituted by DPIIT evaluates the proposals for recommendation. VCIC includes representation from industry, subject matter experts, and IAs, and considers AIFs managed by experienced professionals with proven track records for funding under the Scheme. Post-investment, supported AIFs mentor and nurture their investee startups before exit/sale of investments.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Commitments to AIFs spread over the 16th and 17th Finance Commission Cycles",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), with Small Industries Development Bank of India (SIDBI) as the Implementation Agency (IA) for FFS 1.0 and also for Startup India FoF 2.0, along with other domestic IA(s) selected to implement the proposed Scheme",
+  "contact_details": "",
+  "caveats": [
+    "The scheme will come into force from the date of notification (April 13, 2026), with commitments to AIFs spread over the 16th and 17th Finance Commission Cycles",
+    "Distributions (both capital redeemed and returns earned) from Startup India FoF 2.0, net-off utilisation of up to 5% of the returns for purpose of capacity building of startup ecosystem, will be deposited back to the Consolidated Fund of India (CFI)",
+    "The Scheme will have an expanded scope with segmented approach to target key segments for real innovation and operational flexibilities to address unique requirements of the segments"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Startup-India-Fund-of-Funds-2.0-Scheme.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T11:39:47.821880+00:00"
+}

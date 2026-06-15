@@ -1,0 +1,44 @@
+{
+  "scheme_id": "row-21",
+  "scheme_name": "IndiaAI Mission – National Program on Artificial Intelligence",
+  "scheme_url": "https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/",
+  "ministry_or_category": "AI & Digital",
+  "overview": "The IndiaAI Mission – National Program on Artificial Intelligence is an umbrella initiative by the Ministry of Electronics and Information Technology (MeitY) to leverage transformative AI technologies for social impact, inclusion, innovation, and adoption. It encompasses key pillars such as the National Center on AI, Data Management Office, Skilling in AI, and Responsible AI. The program aims to create a comprehensive framework for AI development and deployment across sectors in India.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "researchers",
+    "students",
+    "government agencies",
+    "industry"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote inclusion, innovation, and adoption of AI for social impact",
+    "Establish a National Center on AI as a hub for AI research and development",
+    "Build a Data Management Office to support AI data infrastructure",
+    "Implement Skilling in AI programs to develop AI talent",
+    "Advance Responsible AI practices and governance frameworks"
+  ],
+  "eligibility": "The evidence does not specify explicit eligibility criteria for entities or individuals to benefit from the IndiaAI Mission. The program is structured as a national initiative with defined pillars, but no application-based eligibility is detailed in the provided text.",
+  "benefits": "The program provides access to AI research and development through the National Center on AI, data infrastructure via the Data Management Office, skill development initiatives in AI, and frameworks for responsible AI governance. These benefits support innovation, inclusion, and adoption of AI technologies across sectors.",
+  "financial_support": "The evidence does not detail direct financial support mechanisms (e.g., grants, subsidies) to individual beneficiaries under the IndiaAI Mission. Financial aspects are discussed in the context of overall Digital India Programme budget allocations, which include provisions for the IndiaAI Mission following separate Cabinet approval.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The evidence does not describe a numbered step-by-step application process for availing benefits under the IndiaAI Mission. The program is presented as a strategic initiative with defined pillars rather than a scheme with individual applications.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "The evidence does not mention any application deadlines, windows, or rolling basis for the IndiaAI Mission. It is structured as an ongoing national program.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "The IndiaAI Mission is implemented as an umbrella initiative with specific pillars; direct beneficiary access mechanisms are not detailed in the evidence.",
+    "Financial provisions for the IndiaAI Mission are included under the Digital India Programme budget but require separate Cabinet approval."
+  ],
+  "source_cited_notes": [
+    "https://digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:53:53.412786+00:00"
+}

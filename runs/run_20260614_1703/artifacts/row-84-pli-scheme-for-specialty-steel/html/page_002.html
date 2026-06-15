@@ -1,0 +1,612 @@
+<html lang="en"><head>
+<meta http-equiv="x-ua-compatible" content="IE=edge">
+<title>Login Page</title>
+<base href="/ords/">
+<link rel="stylesheet" href="/i/app_ui/css/Core.min.css?v=21.2.0" type="text/css">
+<link rel="stylesheet" href="/i/app_ui/css/Theme-Standard.min.css?v=21.2.0" type="text/css">
+
+<link rel="stylesheet" href="/i/legacy_ui/css/5.0.min.css?v=21.2.0" type="text/css">
+
+
+
+<link rel="stylesheet" href="plimos/r/102/files/static/v227/app-icon.css?version=Release%201.0" type="text/css">
+
+
+
+<script>
+var apex_img_dir = "\u002Fi\u002F";
+var apex = {env: {APP_USER: "nobody",APP_ID: "102",APP_PAGE_ID: "2",APP_SESSION: "24778282832112",APP_FILES: "plimos\u002Fr\u002F102\u002Ffiles\u002Fstatic\u002Fv227\u002F",WORKSPACE_FILES: "plimos\u002Fr\u002Ffiles\u002Fstatic\u002Fv4\u002F",APEX_VERSION: "21.2.0"}};
+</script>
+<script src="/i/libraries/apex/minified/desktop_all.min.js?v=21.2.0"></script>
+<script src="wwv_flow.js_messages?p_app_id=102&amp;p_lang=en&amp;p_version=21.2.0-181844639"></script>
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta http-equiv="Pragma" content="no-cache"><meta http-equiv="Expires" content="-1"><meta http-equiv="Cache-Control" content="no-cache">
+<link rel="stylesheet" href="/i/themes/theme_10/theme_V2.css" type="text/css">
+<style type="text/css">
+
+*{font-size:12px;}
+body {margin:0px; padding:0px 0px 0px 0px; font-family: Arial, Helvetica, Geneva, sans-serif;}
+a{color:#000000;}
+
+ul.dhtmlTree {list-style:none;}
+ul.dhtmlTree li{padding:2px 0;vertical-align:middle;}
+ul.dhtmlTree li img{margin:0 4px;vertical-align:middle;}
+
+.dhtmlMenuLG2 li a{float:left;}
+
+.dhtmlMenuLG2{list-style-type:none;padding:0;margin:0;vertical-align:middle;white-space:nowrap;}
+.dhtmlMenuLG2 *{float:left;text-decoration:none;display:block;line-height:25px;height:25px;vertical-align:middle;white-space:nowrap;}
+.dhtmlMenuLG2 li{border:1px solid #999;}
+.dhtmlMenuLG2 li.dhtmlMenuItem{margin:0 4px 0 0;} 
+.dhtmlMenuLG2 li.dhtmlMenuItem a{padding:0 4px;}
+
+.dhtmlMenuLG2 li.dhtmlMenuItem1{margin:0 4px 0 0;}  
+.dhtmlMenuLG2 li.dhtmlMenuItem1 a{padding:0 4px;margin:0 4px 0 0;}
+.dhtmlMenuLG2 li.dhtmlMenuItem1 img{margin:0 2px 0 0;}
+
+.dhtmlSubMenu2 {background-color: #eee;font-size: 11px;width: 200px;border:1px solid #b7b7b7;list-style-type : none;margin:0em;padding-left:0em;}
+.dhtmlSubMenu2 li{margin:0em;padding-left:0em;}
+.dhtmlMenuSep2{text-align:center;}
+img.dhtmlMenuSep2{display:block; margin:auto; width:80%;border:1px solid #efefef; height:1px; background-color:#ccc; }
+.dhtmlSubMenu2 img.dhtmlSep {width:180px;height:1px;}
+.dhtmlSubMenu2 .t13MIMG {vertical-align:middle;float:right}
+.dhtmlSubMenu2 .dhtmlSubMenuP {background-color:#ddd;text-align:center;color: #808080;border-bottom:#ccc 1px solid;padding:3px 8px;text-decoration: none;white-space: nowrap;font-weight:bold;}
+.dhtmlSubMenu2 a.dhtmlSubMenuN:link,.dhtmlSubMenu2 a.dhtmlSubMenuN:visited {color:#808080;display:block;font-weight:normal;padding:3px 8px;text-decoration:none;white-space:nowrap;height:1%;overflow:hidden;}
+.dhtmlSubMenu2 a.dhtmlSubMenuN:hover {background-color:#ddd;color:#000;}
+.dhtmlSubMenu2 a.dhtmlSubMenuS:link,.dhtmlSubMenu2 a.dhtmlSubMenuS:visited {color:#808080;display:block;font-weight:normal;padding:3px 8px;text-decoration:none;white-space:nowrap;height:1%;overflow:hidden;}
+.dhtmlSubMenu2 a.dhtmlSubMenuS:hover {background-color:#ddd;color: #000;}
+
+</style>
+<script src="plimos/r/102/files/static/v227/core.js" type="text/javascript"></script>
+<script src="plimos/r/102/files/static/v227/aes.js" type="text/javascript"></script>
+<script src="plimos/r/102/files/static/v227/sha256.js" type="text/javascript"></script>
+</head>
+<body><form action="wwv_flow.accept?p_context=102/login/24778282832112" method="post" name="wwv_flow" id="wwvFlowForm" data-oj-binding-provider="none" novalidate="" autocomplete="off">
+<input type="hidden" name="p_flow_id" value="102" id="pFlowId"><input type="hidden" name="p_flow_step_id" value="2" id="pFlowStepId"><input type="hidden" name="p_instance" value="24778282832112" id="pInstance"><input type="hidden" name="p_page_submission_id" value="54911886211688003904052342050444693338" id="pPageSubmissionId"><input type="hidden" name="p_request" value="" id="pRequest"><input type="hidden" name="p_reload_on_submit" value="S" id="pReloadOnSubmit"><input type="hidden" value="102/login/24778282832112" id="pContext"><input type="hidden" value="54911886211688003904052342050444693338" id="pSalt"><table summary="" cellpadding="0" width="100%" cellspacing="0" border="0">
+<tbody><tr>
+<td valign="top"></td>
+<td width="100%" valign="top"></td>
+<td valign="top"></td>
+</tr></tbody></table>
+<table summary="" cellpadding="0" width="100%" cellspacing="0" border="0">
+<tbody><tr>
+<td width="100%" valign="top">
+<div style="border:1px solid black;"><span id="APEX_SUCCESS_MESSAGE" data-template-id="195367450085098193_S" class="apex-page-success u-hidden"></span><span id="APEX_ERROR_MESSAGE" data-template-id="195367450085098193_E" class="apex-page-error u-hidden"></span></div>
+<table class="t10BracketedRegion" id="R159585819391309609" border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td width="7"><img src="/i/themes/theme_10/region_left_top2.gif" alt=""></td>
+<td class="t10RegionHeader"><table border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td><img src="/i/themes/theme_10/region_title_left2.gif" alt=""></td>
+<td class="t10RegionTitle">PLI Scheme for Specialty Steel in India - Application Portal</td>
+<td><img src="/i/themes/theme_10/region_title_right2.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td width="7"><img src="/i/themes/theme_10/region_right_top2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10ButtonHolder" align="right">&nbsp;&nbsp;&nbsp;</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10RegionBody"><!-- ======= Top Bar ======= -->
+     <!-- ======= Header ======= -->
+ <div class="container">
+  <header id="page-header" class="d-flex align-items-center justify-content-between">
+      <table width="100%">
+      <tbody><tr>
+      <td>
+  <a href="https://steel.gov.in/" target="_blank"><img src="plimos/r/102/files/static/v227/ministry-logo.png" class="logoB"></a>
+      </td>
+      <!--
+      <td>
+  <a href="https://amritmahotsav.nic.in/" target="_blank"><img src="plimos/r/102/files/static/v227/Azadi-ka-Amrit-Mahotsav.gif" class="logoA"/></a>
+      </td>
+      -->
+      <td>
+      <a href="f?p=138:1:24778282832112" target="_blank"><img src="plimos/r/102/files/static/v227/pli-logo.png" class="logoB"></a>
+        </td>
+      <td>
+  <a href="http://meconlimited.co.in/" target="_blank"><img src=" plimos/r/102/files/static/v227/mecon.jpg" class="logoB"></a>
+      </td>
+      </tr>
+      </tbody></table>
+  </header>
+  </div>
+      <header id="header" class="d-flex align-items-center">
+   
+  </header><!-- End Header --> 
+      <div class="container">
+    <table width="100%"><tbody><tr>
+      <td width="10%" style="border: 1px solid black; border-collapse:collapse;background-color:#f5f5f0;color:red;font-weight:bold"><a href="f?p=138:1:24778282832112"><font color="blue"><center>Home</center></font></a></td>
+      <td width="70%" style="border: 1px solid black; border-collapse:collapse;background-color:#f5f5f0;color:red;font-weight:bold">
+     <center><font color="blue"><div style="color:blue;font-size:15px; font-weight:bold"><font color="blue"><b><center>Welcome to the Online Application Portal for PLI Scheme for Specialty Steel in India</center></b></font></div></font></center></td>
+      <!--
+      <td width="10%" style="border: 1px solid black; border-collapse:collapse;background-color:#f5f5f0;color:blue;font-weight:bold"><a href="f?p=138:7"><center><font color=red>Register as New Applicant</font></center></a></td>
+       
+      <td width="10%" style="border: 1px solid black; border-collapse:collapse;background-color:#f5f5f0;color:blue;font-weight:bold"><center><font color=red>Register as New Applicant</font></center></td>
+       -->
+      <!--<td width="50%"><hr style="display: inline-block; width: 90%"></td>-->
+      </tr>
+      </tbody></table>
+      
+    </div>
+<table class="regionlayout" width="100%" cellpadding="0" cellspacing="0" summary="" role="presentation"><tbody><tr><td valign="top"><table class="t10BracketedRegion js-apex-region" id="R322519255009658486" border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td width="7"><img src="/i/themes/theme_10/region_left_top2.gif" alt=""></td>
+<td class="t10RegionHeader"><table border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td><img src="/i/themes/theme_10/region_title_left2.gif" alt=""></td>
+<td class="t10RegionTitle">Target Segments for PLI 1.2:-</td>
+<td><img src="/i/themes/theme_10/region_title_right2.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td width="7"><img src="/i/themes/theme_10/region_right_top2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10ButtonHolder" align="right">&nbsp;&nbsp;&nbsp;</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10RegionBody"><div id="R322519255009658486_tree" aria-label="Target Segments for PLI 1.2:-" class="a-TreeView" role="tree"><ul role="group"><li id="R322519255009658486_tree_0" role="none" class="a-TreeView-node is-expandable a-TreeView-node--topLevel"><div role="none" class="a-TreeView-row"></div><span class="a-TreeView-toggle"></span><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="0" role="treeitem" class="a-TreeView-label" aria-level="1" aria-selected="false" aria-expanded="false">[F] Steel Grades for Strategic Sector</span></div><ul role="group" style="display: none;"><li id="R322519255009658486_tree_4" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">SG1 - Super Alloys</span></div></li><li id="R322519255009658486_tree_5" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">SG2 - Alloy steel including Stainless Steel Rolled - Coil/Sheet/Plate</span></div></li><li id="R322519255009658486_tree_6" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">SG3 - Alloy steel including Stainless Steel Rolled - Long Products</span></div></li><li id="R322519255009658486_tree_7" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">SG4 - Alloy steel including Stainless Steel Forged Products</span></div></li><li id="R322519255009658486_tree_8" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">SG5 - Titanium Alloys</span></div></li></ul></li><li id="R322519255009658486_tree_1" role="none" class="a-TreeView-node is-expandable a-TreeView-node--topLevel"><div role="none" class="a-TreeView-row"></div><span class="a-TreeView-toggle"></span><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="1" aria-selected="false" aria-expanded="false">[G] Commercial Grades - Category- I</span></div><ul role="group" style="display: none;"><li id="R322519255009658486_tree_9" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG1 - CRGO (HiB &amp; Conventional)</span></div></li><li id="R322519255009658486_tree_10" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG2 - Amorphous Steel</span></div></li><li id="R322519255009658486_tree_11" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG3 - Cast/ Forged Alloy Steel Mill Rolls</span></div></li><li id="R322519255009658486_tree_12" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG4 - Cladded Steel</span></div></li></ul></li><li id="R322519255009658486_tree_2" role="none" class="a-TreeView-node is-expandable a-TreeView-node--topLevel"><div role="none" class="a-TreeView-row"></div><span class="a-TreeView-toggle"></span><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="1" aria-selected="false" aria-expanded="false">[H] Commercial Grades - Category- II</span></div><ul role="group" style="display: none;"><li id="R322519255009658486_tree_13" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG5 - Thin Precision Gauge SS Sheet (0.18 - 0.4 mm thickness)</span></div></li><li id="R322519255009658486_tree_14" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG6 - Hose Wire</span></div></li><li id="R322519255009658486_tree_15" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG7 - Stainless Steel Wire</span></div></li><li id="R322519255009658486_tree_16" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CG8 - ECCS Tape</span></div></li></ul></li><li id="R322519255009658486_tree_3" role="none" class="a-TreeView-node is-expandable a-TreeView-node--topLevel"><div role="none" class="a-TreeView-row"></div><span class="a-TreeView-toggle"></span><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="1" aria-selected="false" aria-expanded="false">[I] Coated &amp; Wire Products</span></div><ul role="group" style="display: none;"><li id="R322519255009658486_tree_17" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW1 - Rubber Coated Steel</span></div></li><li id="R322519255009658486_tree_18" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW2 - Al-Si Coated Steel Sheet</span></div></li><li id="R322519255009658486_tree_19" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW3 - Prime Hybrid Resin Coated Electrogalvanized Steel Strips in Coils</span></div></li><li id="R322519255009658486_tree_20" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW4 - Tyre Cord (Brass Coated)</span></div></li><li id="R322519255009658486_tree_21" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW5 - Electrolytic Zinc-Nickel Alloy Coated Steel</span></div></li><li id="R322519255009658486_tree_22" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW6 - Vinyl Coated Steel Coil and Sheet</span></div></li><li id="R322519255009658486_tree_23" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW7 - Zinc - Aluminium Coated Wire</span></div></li><li id="R322519255009658486_tree_24" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW8 - C' Class Zinc Coated Wire</span></div></li><li id="R322519255009658486_tree_25" role="none" class="a-TreeView-node a-TreeView-node--leaf"><div role="none" class="a-TreeView-row"></div><div role="none" class="a-TreeView-content"><span class=" icon-tree-folder"></span><span tabindex="-1" role="treeitem" class="a-TreeView-label" aria-level="2" aria-selected="false">CW9 - Nickel Coated Steel</span></div></li></ul></li></ul></div>
+<script type="text/javascript">
+var gTree322519255009658486Data = 
+{
+"showRoot":false
+,"navigation":false
+,"hasIdentity":true
+,"data":{
+"id":"root0"
+,"label":"root"
+,"children":[
+{
+"id":"[F] Steel Grades for Strategic Sector"
+,"label":"[F] Steel Grades for Strategic Sector"
+,"children":[
+{
+"id":"SG1 - Super Alloys"
+,"label":"SG1 - Super Alloys"
+}
+,{
+"id":"SG2 - Alloy steel including Stainless Steel Rolled - Coil\/Sheet\/Plate"
+,"label":"SG2 - Alloy steel including Stainless Steel Rolled - Coil\/Sheet\/Plate"
+}
+,{
+"id":"SG3 - Alloy steel including Stainless Steel Rolled - Long Products"
+,"label":"SG3 - Alloy steel including Stainless Steel Rolled - Long Products"
+}
+,{
+"id":"SG4 - Alloy steel including Stainless Steel Forged Products"
+,"label":"SG4 - Alloy steel including Stainless Steel Forged Products"
+}
+,{
+"id":"SG5 - Titanium Alloys"
+,"label":"SG5 - Titanium Alloys"
+}
+]
+}
+,{
+"id":"[G] Commercial Grades - Category- I"
+,"label":"[G] Commercial Grades - Category- I"
+,"children":[
+{
+"id":"CG1 - CRGO (HiB \u0026 Conventional)"
+,"label":"CG1 - CRGO (HiB \u0026 Conventional)"
+}
+,{
+"id":"CG2 - Amorphous Steel"
+,"label":"CG2 - Amorphous Steel"
+}
+,{
+"id":"CG3 - Cast\/ Forged Alloy Steel Mill Rolls"
+,"label":"CG3 - Cast\/ Forged Alloy Steel Mill Rolls"
+}
+,{
+"id":"CG4 - Cladded Steel"
+,"label":"CG4 - Cladded Steel"
+}
+]
+}
+,{
+"id":"[H] Commercial Grades - Category- II"
+,"label":"[H] Commercial Grades - Category- II"
+,"children":[
+{
+"id":"CG5 - Thin Precision Gauge SS Sheet (0.18 - 0.4 mm thickness)"
+,"label":"CG5 - Thin Precision Gauge SS Sheet (0.18 - 0.4 mm thickness)"
+}
+,{
+"id":"CG6 - Hose Wire"
+,"label":"CG6 - Hose Wire"
+}
+,{
+"id":"CG7 - Stainless Steel Wire"
+,"label":"CG7 - Stainless Steel Wire"
+}
+,{
+"id":"CG8 - ECCS Tape"
+,"label":"CG8 - ECCS Tape"
+}
+]
+}
+,{
+"id":"[I] Coated \u0026 Wire Products"
+,"label":"[I] Coated \u0026 Wire Products"
+,"children":[
+{
+"id":"CW1 - Rubber Coated Steel"
+,"label":"CW1 - Rubber Coated Steel"
+}
+,{
+"id":"CW2 - Al-Si Coated Steel Sheet"
+,"label":"CW2 - Al-Si Coated Steel Sheet"
+}
+,{
+"id":"CW3 - Prime Hybrid Resin Coated Electrogalvanized Steel Strips in Coils"
+,"label":"CW3 - Prime Hybrid Resin Coated Electrogalvanized Steel Strips in Coils"
+}
+,{
+"id":"CW4 - Tyre Cord (Brass Coated)"
+,"label":"CW4 - Tyre Cord (Brass Coated)"
+}
+,{
+"id":"CW5 - Electrolytic Zinc-Nickel Alloy Coated Steel"
+,"label":"CW5 - Electrolytic Zinc-Nickel Alloy Coated Steel"
+}
+,{
+"id":"CW6 - Vinyl Coated Steel Coil and Sheet"
+,"label":"CW6 - Vinyl Coated Steel Coil and Sheet"
+}
+,{
+"id":"CW7 - Zinc - Aluminium Coated Wire"
+,"label":"CW7 - Zinc - Aluminium Coated Wire"
+}
+,{
+"id":"CW8 - C\u0027 Class Zinc Coated Wire"
+,"label":"CW8 - C\u0027 Class Zinc Coated Wire"
+}
+,{
+"id":"CW9 - Nickel Coated Steel"
+,"label":"CW9 - Nickel Coated Steel"
+}
+]
+}
+]
+}
+}
+;
+</script>
+ <hr>
+<b><font color="blue">Help Desk:</font></b><br><br>
+
+
+
+<style>
+div {
+  text-align: justify;
+  text-justify: inter-word;
+}
+</style>
+
+
+<div>The CGM (Met. Wing) &amp; <br>
+Chief Tech. Officer,MECON Ltd. and<br> Nodal Officer,PLI Scheme for Specialty steel,
+<br>4th floor, Lab. Building, MECON Limited,<br>
+Vivekanand Path, Doranda, Ranchi-834002<br>
+e-mail: <a href="mailto:plischeme@meconlimited.co.in"><font color="blue">plischeme@meconlimited.co.in</font></a></div>
+
+
+</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td><img src="/i/themes/theme_10/region_left_bottom2.gif" alt=""></td>
+<td class="t10RegionFooter"><img src="/i/themes/theme_10/region_middle_bottom2.gif" alt=""></td>
+<td><img src="/i/themes/theme_10/region_right_bottom2.gif" alt=""></td>
+</tr>
+</tbody></table></td><td valign="top"><table class="t10BracketedRegion" id="R168727431770141410" border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td width="7"><img src="/i/themes/theme_10/region_left_top2.gif" alt=""></td>
+<td class="t10RegionHeader"><table border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td><img src="/i/themes/theme_10/region_title_left2.gif" alt=""></td>
+<td class="t10RegionTitle">PLI Scheme for Specialty Steel in India - Key Objectives</td>
+<td><img src="/i/themes/theme_10/region_title_right2.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td width="7"><img src="/i/themes/theme_10/region_right_top2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10ButtonHolder" align="right">&nbsp;&nbsp;&nbsp;</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10RegionBody">
+
+
+
+
+<img src="plimos/r/102/files/static/v227/pliobj.jpg" alt="Smiley face" width="100%" height="300px">
+
+
+</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td><img src="/i/themes/theme_10/region_left_bottom2.gif" alt=""></td>
+<td class="t10RegionFooter"><img src="/i/themes/theme_10/region_middle_bottom2.gif" alt=""></td>
+<td><img src="/i/themes/theme_10/region_right_bottom2.gif" alt=""></td>
+</tr>
+</tbody></table></td><td valign="top"><table class="t10BracketedRegion" id="R229700275897125688" border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td width="7"><img src="/i/themes/theme_10/region_left_top2.gif" alt=""></td>
+<td class="t10RegionHeader"><table border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td><img src="/i/themes/theme_10/region_title_left2.gif" alt=""></td>
+<td class="t10RegionTitle"><font color="blue"><b>Applicant Company Login</b></font></td>
+<td><img src="/i/themes/theme_10/region_title_right2.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td width="7"><img src="/i/themes/theme_10/region_right_top2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10ButtonHolder" align="right">&nbsp;&nbsp;&nbsp;</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle2.gif" alt=""></td>
+<td class="t10RegionBody"><table id="apex_layout_229700275897125688" border="0" class="formlayout" role="presentation"><tbody><tr><td align="right" valign="middle"><label for="P2_LPV" id="P2_LPV_LABEL"><span class="t10OptionalLabel">Scheme :</span></label></td><td align="left" valign="middle"><input type="hidden" name="P2_LPV" id="P2_LPV" value="1.2"><input type="hidden" data-for="P2_LPV" value="pdEn58bNSE6igw_9Y5BBNfDSZqqyKJ2tXXixN1TwvC1q9y0S3drBHkMoXPXNVvuSiI1nkBE3XL39BQaXJaa3mw"><span id="P2_LPV_DISPLAY" class="display_only apex-item-display-only" data-escape="true">PLI 1.2</span></td></tr><tr><td align="left" valign="middle"><b>Username</b></td><td align="left"><br><input type="text" id="P2_USERNAME" name="P2_USERNAME" placeholder="enter 21 character CIN" class="text_field apex-item-text" style="text-transform: uppercase;" onkeyup="this.value=this.value.toUpperCase();" value="" size="40" maxlength="21" data-trim-spaces="NONE"><br><br></td></tr><tr><td align="left" valign="middle"><b>Password</b></td><td align="left"><input type="password" name="P2_PASSWORD" size="25" maxlength="25" value="" id="P2_PASSWORD" class="password apex-item-text" onkeypress="return apex.submit({request:'P2_PASSWORD',submitIfEnter:event})"><br></td></tr><tr><td align="left"><label for="P2_CT" id="P2_CT_LABEL"><span class="t10OptionalLabel"></span></label></td><td align="left"><input type="text" id="P2_CT" name="P2_CT" placeholder="enter Captcha" class="text_field apex-item-text" value="" size="10">&nbsp;&nbsp;<b><font color="blue">3UUGZA</font></b><br><input type="hidden" name="P2_CHECKPWD" id="P2_CHECKPWD" value=""><input type="hidden" data-for="P2_CHECKPWD" value="XKHD0rEZpE88VPpwdutXzU2BnTL2DRyXOTX0-26f-f5ILvqNIqoCBFPC6c2w3mtg0Ptc5xBl0ZAwqmN7Ye4llg"><input type="hidden" name="P2_LUNAME" id="P2_LUNAME" value=""><input type="hidden" data-for="P2_LUNAME" value="ZpeWHLZozEGO3G6exy0cMuoAeadLerWpxM4ryfi4YhebzijaH-wDhsNKfLwe030tv-x2qB0Cpv51nxYWbaeK7A"><input type="hidden" name="P2_LVIF_SLNO" id="P2_LVIF_SLNO" value=""><input type="hidden" data-for="P2_LVIF_SLNO" value="Vo_vCqaBqrjyz0fnNadlx7n_QA3ku8h7-YE-ISDD1WooqVy12Aga6rtN3xnWsasp6iUATYuBQ7HvPM2NqavcEQ"><input type="hidden" name="P2_RT" id="P2_RT" value="3UUGZA"><input type="hidden" data-for="P2_RT" value="8oeCK2xvW21BND5vm5mdEDNyTumuLrbwG3BASVSKOcRylHqQnMVC3WWRCM3iFWqcCjCeQwVI0S6JWBSn8nBeDA"><input type="hidden" name="P2_LOGINAS" id="P2_LOGINAS" value="APPLICANT"><input type="hidden" data-for="P2_LOGINAS" value="EG__ZD4y7CKZ3HooD2mwhXPNePUd31TBFZVWD_p9qSIWae2ErW02ETvGkiHMnNEgGSV4zPqj0nJzCWQpWj8F3w"><input type="hidden" name="P2_LPNO" id="P2_LPNO" value="80781"><input type="hidden" data-for="P2_LPNO" value="zH2apL5Zcr9ct-5lSZ8gUbPMV1j2CAU7uA0EodkXOa9kekxSVs68zf1inaW3a58kOCTsW2JGCAe_qcryKoGHkA"></td></tr><tr><td align="right" valign="middle"><label for="P2_NEW" id="P2_NEW_LABEL"><a class="t10OptionalLabelwithHelp" href="javascript:popupFieldHelp('133954874725814434','24778282832112')" tabindex="999"></a></label></td><td align="left" valign="middle"><input type="hidden" name="P2_NEW" id="P2_NEW" value=""><input type="hidden" data-for="P2_NEW" value="7rrUVbmXb2611guPUOA_EP5jEApYHNmSs5Pu9HGFSi1L-Mxdf1M5wLDeVaTsdkHqnSZOdLYJeXWclb1_vEIweQ"><span id="P2_NEW_DISPLAY" class="display_only apex-item-display-only" data-escape="true"></span></td></tr></tbody></table><table id="apex_layout_229700275897125688" border="0" class="formlayout" role="presentation"><tbody><tr><td align="right" valign="middle"><table class="t10Button" cellspacing="0" cellpadding="0" border="0" summary="">
+<tbody><tr>
+<td class="t10L"><a href="javascript:void(0);"><img src="/i/themes/theme_10/button_left.gif" alt="" width="4" height="24"></a></td>
+<td class="t10C"><a href="javascript:void(0);" id="B159367251983659681">Sign In as Applicant</a></td>
+<td class="t10R"><a href="javascript:void(0);"><img src="/i/themes/theme_10/button_right.gif" width="4" height="24" alt=""></a></td>
+</tr>
+</tbody></table></td><td align="right" valign="middle"><table class="t10Button" cellspacing="0" cellpadding="0" border="0" summary="">
+<tbody><tr>
+<td class="t10L"><a href="javascript:apex.navigation.redirect('%5Cu002Fords%5Cu002Fplimos%5Cu002Fr%5Cu002F102%5Cu002F3?clear=RP%5Cu0026session=24778282832112%5Cu0026cs=3Jaq_FUgOEk68czjhq66CCS_W9c3f3Bun8-yISiB5cP-CSAOp5Kzj5CG9FRG98j-WJCl3DPucp_nm8HJSOvjBgA');"><img src="/i/themes/theme_10/button_left.gif" alt="" width="4" height="24"></a></td>
+<td class="t10C"><a href="javascript:apex.navigation.redirect('%5Cu002Fords%5Cu002Fplimos%5Cu002Fr%5Cu002F102%5Cu002F3?clear=RP%5Cu0026session=24778282832112%5Cu0026cs=3Jaq_FUgOEk68czjhq66CCS_W9c3f3Bun8-yISiB5cP-CSAOp5Kzj5CG9FRG98j-WJCl3DPucp_nm8HJSOvjBgA');">Forgot Password?</a></td>
+<td class="t10R"><a href="javascript:apex.navigation.redirect('%5Cu002Fords%5Cu002Fplimos%5Cu002Fr%5Cu002F102%5Cu002F3?clear=RP%5Cu0026session=24778282832112%5Cu0026cs=3Jaq_FUgOEk68czjhq66CCS_W9c3f3Bun8-yISiB5cP-CSAOp5Kzj5CG9FRG98j-WJCl3DPucp_nm8HJSOvjBgA');"><img src="/i/themes/theme_10/button_right.gif" width="4" height="24" alt=""></a></td>
+</tr>
+</tbody></table></td></tr></tbody></table><table role="presentation" cellspacing="0" cellpadding="0" border="0" width="100%"><tbody><tr><td align="left"></td><td align="right"></td></tr></tbody></table><br><hr>
+<style type="text/css">
+
+ #marqueecontainer{
+ position: relative;
+ width: 350px; /*marquee width */
+ height: 80px; /*marquee height */
+ background-color: white;
+ overflow: hidden;
+ 
+ padding: 2px;
+ padding-left: 4px;
+ }
+
+ </style>
+
+ <script type="text/javascript">
+
+ var delayb4scroll=2000 //Specify initial delay before marquee starts to scroll on page (5000=5 seconds)
+ var marqueespeed=1 //Specify marquee scroll speed (larger is faster 1-10)
+ var pauseit=1 //Pause marquee onMousever (0=no. 1=yes)?
+
+ ////NO NEED TO EDIT BELOW THIS LINE////////////
+
+ var copyspeed=marqueespeed
+ var pausespeed=(pauseit==0)? copyspeed: 0
+ var actualheight=''
+
+ function scrollmarquee(){
+ if (parseInt(cross_marquee.style.top)>(actualheight*(-1)+8)) //if scroller hasn't reached the end of its height
+ cross_marquee.style.top=parseInt(cross_marquee.style.top)-copyspeed+"px" //move scroller upwards
+ else //else, reset to original position
+ cross_marquee.style.top=parseInt(marqueeheight)+8+"px"
+ }
+
+ function initializemarquee(){
+ cross_marquee=document.getElementById("vmarquee")
+ cross_marquee.style.top=0
+ marqueeheight=document.getElementById("marqueecontainer").offsetHeight
+ actualheight=cross_marquee.offsetHeight //height of marquee content (much of which is hidden from view)
+ if (window.opera || navigator.userAgent.indexOf("Netscape/7")!=-1){ //if Opera or Netscape 7x, add scrollbars to scroll and exit
+ cross_marquee.style.height=marqueeheight+"px"
+ cross_marquee.style.overflow="scroll"
+ return
+ }
+ setTimeout('lefttime=setInterval("scrollmarquee()",30)', delayb4scroll)
+ }
+
+ if (window.addEventListener)
+ window.addEventListener("load", initializemarquee, false)
+ else if (window.attachEvent)
+ window.attachEvent("onload", initializemarquee)
+ else if (document.getElementById)
+ window.onload=initializemarquee
+
+ </script>
+<h4><font color="black"><b><u>Notice Board</u></b></font> :</h4>
+<div id="marqueecontainer" onmouseover="copyspeed=pausespeed" onmouseout="copyspeed=marqueespeed">
+ <div id="vmarquee" style="position: absolute; width: 98%; top: 42px;">
+    <h4>Online Registration and Application Filling for PLI Scheme 1.2 is open till <font color="red">31<sup>st</sup> Dec, 2025</font>.</h4>
+<!--
+<h4>
+    1. <font color=red>Registration and submission of applications to participate in the scheme is open now upto 15-Sep-2022.</font>...
+    
+    1.<font color=black>Online Registration and Application Submission under PLI Scheme for Specialty Steel : - <br>
+	 <font color=red>Start Date:- 29-Dec-2021<br>End Date :-  31-JuL-2022</font> </font></b></font>
+     
+</h4> 
+<h4>
+    <font color=blue>MoU Signing ceremony with Approved applicants is scheduled on <font color=red>Friday, March 17, 2023</font> <br><br> Venue: Vigyan Bhavan New Delhi <br><br> Timing: 11am to 12.30pm ...</font>...
+             
+</h4>
+-->
+ <!--YOUR SCROLL CONTENT HERE-->
+
+ </div>
+ </div></td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td><img src="/i/themes/theme_10/region_left_bottom2.gif" alt=""></td>
+<td class="t10RegionFooter"><img src="/i/themes/theme_10/region_middle_bottom2.gif" alt=""></td>
+<td><img src="/i/themes/theme_10/region_right_bottom2.gif" alt=""></td>
+</tr>
+</tbody></table></td></tr></tbody></table><table class="t10ReportsRegion100Width" id="R204069393087559614" border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td width="7"><img src="/i/themes/theme_10/region_left_top.gif" alt=""></td>
+<td class="t10RegionHeader"><table border="0" cellpadding="0" cellspacing="0" summary="">
+<tbody><tr>
+<td><img src="/i/themes/theme_10/region_title_left.gif" alt=""></td>
+<td class="t10RegionTitle"><font color="red">Important Dates </font>- PLI Scheme 1.2</td>
+<td><img src="/i/themes/theme_10/region_title_right.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td width="7"><img src="/i/themes/theme_10/region_right_top.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle.gif" alt=""></td>
+<td class="t10ButtonHolder" align="right">&nbsp;&nbsp;&nbsp;</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle.gif" alt=""></td>
+</tr>
+<tr>
+<td class="t10RegionLeft"><img src="/i/themes/theme_10/region_left_middle.gif" alt=""></td>
+<td class="t10RegionBody">
+
+
+
+
+
+<table style="font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;">
+  <tbody><tr>
+      <th style="border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;">Activity</th>
+      <th style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">Start Date</th>
+      <th style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">End Date</th>
+
+  </tr><tr>
+    <td style="border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;">Online Registration under PLI Scheme 1.2</td>
+    <td style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">04-NOV-25</td>
+    <td style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">31-DEC-25</td>
+  </tr>
+
+  <tr>
+    <td style="border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;">Online Application filling and Submission under PLI 1.2</td>
+    <td style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">04-NOV-25</td>
+    <td style="border: 1px solid #dddddd;
+  text-align: center;
+  padding: 8px;">31-DEC-25</td>
+  </tr>
+</tbody></table>
+
+
+
+</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle.gif" alt=""></td>
+</tr>
+<tr>
+<td><img src="/i/themes/theme_10/region_left_bottom.gif" alt=""></td>
+<td class="t10RegionFooter"><img src="/i/themes/theme_10/region_middle_bottom.gif" alt=""></td>
+<td><img src="/i/themes/theme_10/region_right_bottom.gif" alt=""></td>
+</tr>
+</tbody></table>
+
+</td>
+<td class="t10RegionRight"><img src="/i/themes/theme_10/region_right_middle2.gif" alt=""></td>
+</tr>
+<tr>
+<td><img src="/i/themes/theme_10/region_left_bottom2.gif" alt=""></td>
+<td class="t10RegionFooter"><img src="/i/themes/theme_10/region_middle_bottom2.gif" alt=""></td>
+<td><img src="/i/themes/theme_10/region_right_bottom2.gif" alt=""></td>
+</tr>
+</tbody></table></td>
+<td valign="top"><br></td>
+</tr>
+</tbody></table>
+<input type="hidden" id="pPageFormRegionChecksums" value="[]">
+<input type="hidden" id="pPageItemsRowVersion" value=""><input type="hidden" id="pPageItemsProtected" value="UDJfTFBWOlAyX0NIRUNLUFdEOlAyX0xVTkFNRTpQMl9MVklGX1NMTk86UDJfUlQ6.,UDJfTE9HSU5BUzpQMl9MUE5POlAyX05FVw/z1Y12QQr51tO5gzaIxbaH7cx89j2M_aZpunbo5egfC0jFkFT7O6_QH3E5fS8B5h6IWzOcX0Tzcxl7IGTb28N-w"></form>
+<script type="text/javascript">
+apex.da.initDaEventList = function(){
+apex.da.gEventList = [
+{"triggeringElementType":"BUTTON","triggeringButtonId":"B159367251983659681","bindType":"bind","bindEventType":"click","anyActionsFireOnInit":false,actionList:[{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:function (){ var pass = document.getElementById("P2_PASSWORD").value;
+var passhash = CryptoJS.SHA256(pass);
+apex.item("P2_PASSWORD").setValue (passhash);
+},"action":"NATIVE_JAVASCRIPT_CODE"},{"eventResult":true,"executeOnPageInit":false,"stopExecutionOnError":true,javascriptFunction:apex.da.submitPage,"attribute01":"LOGIN","attribute02":"Y","action":"NATIVE_SUBMIT_PAGE"}]}];
+}
+</script>
+
+
+
+<script src="/i/libraries/apex/minified/widget.treeView.min.js?v=21.2.0"></script>
+<script type="text/javascript">
+apex.jQuery( function() {
+apex.page.init( this, function() {
+try {
+(function(){
+var lTimeoutField = document.getElementById("apex_login_throttle_sec"),
+    lTimeout      = lTimeoutField ? +lTimeoutField.innerHTML : 0;
+if (lTimeout) {
+    var lTimer = window.setInterval (
+        function() {
+            if (lTimeout > 0) {
+                lTimeoutField.innerHTML = lTimeout;
+                lTimeout--;
+            } else {
+                window.clearInterval(lTimer);
+                var lDiv = document.getElementById("apex_login_throttle_div");
+                if (lDiv) {
+                    lDiv.parentNode.removeChild(lDiv);
+                    return true;
+                }
+            }
+        },
+        1000 );
+}})();
+(function(){apex.widget.tree.init('R322519255009658486_tree',gTree322519255009658486Data.data,true,{"showRoot":false,"iconType":"","navigation":false,"defaultIcon":"icon-tree-folder","regionStaticId":"R322519255009658486","nodeHasTooltip":false,"ajaxIdentifier":"UkVHSU9OIFRZUEV-fjMyMjUxOTI1NTAwOTY1ODQ4Ng\u002FBZ8kAmB4lrC08K-I4brKTLg08KySYGhVpC39qVLxWwdecvT_tm7H4Q6LSCnTnib7LaeL3fJuLZBm9CPS0w6d0g","lazyLoading":false});})();
+} catch(e) {apex.debug.error(e)};
+apex.jQuery.when.apply( apex.jQuery, apex.page.loadingDeferreds ).done(function() {
+try {
+(function(){apex.da.initDaEventList();
+apex.da.init();})();
+
+
+apex.item( 'P2_USERNAME' ).setFocus();
+} finally {
+apex.event.trigger(apex.gPageContext$,'apexreadyend');
+};
+});
+});
+});apex.pwa.cleanup();
+</script>
+
+
+<input id="apexCBMDummySelection" style="display:none;" value="x"></body></html>

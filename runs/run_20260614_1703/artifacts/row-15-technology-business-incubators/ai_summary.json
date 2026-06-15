@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-15",
+  "scheme_name": "Technology Business Incubators",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "ministry_or_category": "Science & Technology",
+  "overview": "Technology Business Incubators (TBIs) are initiatives under the Startup India program aimed at promoting new technology/knowledge/innovation-based startups that create jobs, wealth, and business in alignment with national priorities. They provide a platform for speedy commercialization of technologies developed by host institutions or academic/technical/R&D institutions, and offer cost-effective, value-added services such as mentoring, legal, financial, technical, and intellectual property-related support to startups.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "students",
+    "academic institutions",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote new technology/knowledge/innovation based startups that create jobs, wealth and business in alignment with national priorities",
+    "Provide a platform for speedy commercialisation of technologies developed by the host institution or by any academic/technical/R and D institution, or by an individual",
+    "Provide cost-effective, value added services to startups like mentoring, legal, financial, technical, and intellectual property related services"
+  ],
+  "eligibility": "The proposal is to be submitted by an Academic/Technical R and D Institutions (called the host institute) and other institutions with a proven track record in the promotion of technology-based entrepreneurship. The host institute is supposed to have adequate expertise and infrastructure to support incubation activity. In case, the host institute is other than an academic institution, it should be a legal entity registered in India with the clear purpose and objective of promoting research, innovation, and entrepreneurial ecosystem. It would be desirable to have partnership with at least one academic institute of repute/technical institute of repute/existing TBIs or STEPs/institutions/government bodies engaged in the promotion of innovation and entrepreneurship. The financial support for establishing a TBI would be extended to a not-for-profit legal entity registered as a society/trust/section 8 company. DST encourages a TBI to collaborate with industry, an academic institution, and other institutions of repute focussing on innovation, research, commercialisation, and startup promotion. DST does not support for-profit incubators. The host institution should be in existence for at least 3 years.",
+  "benefits": "Technology Business Incubators provide infrastructure, mentorship, financial support, legal assistance, technical support, and intellectual property-related services to nurture and support the innovation of startups. They facilitate speedy commercialization of technologies, offer value-added services, and help startups access funding, markets, and networking opportunities. TBIs also support ecosystem development through workshops, boot camps, conferences, and capacity-building initiatives.",
+  "financial_support": "Financial support for establishing a Technology Business Incubator (TBI) is extended to a not-for-profit legal entity registered as a society/trust/section 8 company. The support includes grants for infrastructure, equipment, and operational expenditure. Specific funding details vary by scheme (e.g., DST-TBI, DBT-BioNest, AIM-AIC, MeitY-TIDE 2.0), with some offering recurring grants (e.g., Himachal Pradesh provides up to INR 30 lakhs per incubator per year for three years) or one-time capital assistance (e.g., Madhya Pradesh provides up to INR 50 lakhs).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit proposal by an Academic/Technical R&D Institution or other eligible entity with proven track record in technology-based entrepreneurship. 2. Ensure host institute has adequate expertise and infrastructure to support incubation activity. 3. If host institute is non-academic, register as a legal entity in India with the purpose of promoting research, innovation, and entrepreneurial ecosystem. 4. Seek partnership with at least one academic/technical institute of repute or existing TBI/STEP/government body. 5. Apply for financial support as a not-for-profit legal entity (society/trust/section 8 company). 6. Collaborate with industry and academic institutions for innovation, research, commercialisation, and startup promotion. 7. Ensure host institution has existed for at least 3 years. 8. Await evaluation based on preparedness, approach, methodology, milestones, co-founding, sustainability, industry linkages, and business development support.",
+  "application_portal_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "required_documents": [
+    "Proposal document",
+    "Proof of host institute's existence for at least 3 years",
+    "Details of expertise and infrastructure for incubation activity",
+    "Partnership agreements with academic/technical institutes or existing TBIs",
+    "Registration certificate as a not-for-profit legal entity (society/trust/section 8 company)",
+    "Documentation of collaboration plans with industry and academic institutions"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "DST does not support for-profit incubators",
+    "Host institution must be in existence for at least 3 years",
+    "Financial support is extended only to not-for-profit legal entities (society/trust/section 8 company)",
+    "Collaboration with industry and academic institutions is encouraged but not always mandatory",
+    "Specific benefits and funding vary by implementing agency (DST, DBT, AIM, MeitY, etc.)"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/sih/en/government-schemes.html",
+    "https://startupindia.gov.in/content/sih/en/incubator-schemes.html"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:50:05.200648+00:00"
+}

@@ -1,0 +1,103 @@
+{
+  "scheme": {
+    "row_id": "row-29",
+    "ministry_or_category": "MSME",
+    "scheme_name": "PMEGP",
+    "scheme_url": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp"
+  },
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-29-pmegp\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T11:58:05.893728+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://kviconline.gov.in/pmegpeportal/pmegphome/index.jsp: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "evidence": {
+    "pages": [
+      {
+        "url": "https://kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-29-pmegp\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T11:58:05.893728+00:00",
+        "error": "FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://kviconline.gov.in/pmegpeportal/pmegphome/index.jsp: FETCH_ERROR: Message: unknown error: net::ERR_CONNECTION_TIMED_OUT"
+    ]
+  },
+  "analysis": {
+    "overview": "The Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme aimed at generating employment opportunities through the establishment of micro-enterprises in the non-farm sector. It provides financial assistance to individuals, self-help groups, and institutions for setting up new micro-enterprises. The scheme is implemented through Khadi and Village Industries Commission (KVIC) as the nodal agency at the national level, with State KVIC Directorates, State Khadi and Village Industries Boards (KVIBs), and District Industries Centres (DICs) as implementing agencies at the state and district levels. PMEGP merges the erstwhile Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP) to promote sustainable employment in rural and urban areas.",
+    "scheme_type": "subsidy",
+    "target_beneficiaries": [
+      "individuals",
+      "self-help groups",
+      "institutions",
+      "MSME",
+      "entrepreneurs"
+    ],
+    "geographic_scope": "Pan-India",
+    "objectives": [
+      "To generate employment opportunities in rural and urban areas through setting up of new self-employment ventures/projects/micro enterprises.",
+      "To bring together widely dispersed traditional artisans/ rural and urban unemployed youth and give them self-employment opportunities to the extent possible, at their place.",
+      "To provide continuous and sustainable employment to a large segment of traditional and prospective artisans and rural and urban unemployed youth in the country, so as to help arrest migration of rural youth to urban areas.",
+      "To increase the wage-earning capacity of artisans and contribute to increase in the growth rate of rural and urban employment."
+    ],
+    "eligibility": "Any individual above 18 years of age is eligible. For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the business/service sector, the beneficiary should possess at least VIII standard pass educational qualification. There is no ceiling on project cost for loans under the scheme. Existing units (under PMRY, REGP or any other scheme of Government of India or State Government) and the units that have already availed government subsidy under any other scheme of Government of India or State Government are not eligible.",
+    "benefits": "The scheme provides a subsidy ranging from 15% to 35% of the project cost in the form of margin money, which is not repayable. The subsidy is higher for special categories (such as SC/ST/OBC/women/ex-servicemen/physically handicapped, NER, hill and border areas, etc.) and lower for general category beneficiaries. The remaining project cost is provided as a loan by banks. The subsidy is credited to the beneficiary's bank account after the project is verified and found viable. The scheme also provides training and technical support through KVIC and its affiliated institutions.",
+    "financial_support": "Under PMEGP, the maximum cost of project is Rs. 50 lakh in the manufacturing sector and Rs. 20 lakh in the business/service sector. The subsidy (margin money) provided by the Government ranges from 15% to 35% of the project cost, depending on the beneficiary category and location. The balance amount of the project cost (i.e., project cost minus margin money) is provided as a loan by the Banks. The rate of interest on the loan is as per the prevailing norms of the respective banks. The margin money subsidy is released by the nodal banks in instalments and is credited to a special term deposit account of the beneficiary, which is not withdrawable until the lock-in period is over.",
+    "fund_size_crores": "",
+    "grant_amount_per_entity": "",
+    "application_process": "1. The applicant must prepare a project report for the proposed micro-enterprise. 2. The applicant applies online through the PMEGP e-portal (https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp) or submits the application form offline to the concerned District Industries Centre (DIC) or KVIC/KVIB office. 3. The application is scrutinized by the concerned agency (DIC/KVIC/KVIB) for eligibility and viability. 4. Upon approval, the application is forwarded to the selected bank for sanction of loan. 5. The bank sanctions the loan and disburses the margin money subsidy (as per government norms) into a special term deposit account. 6. The beneficiary sets up the enterprise and starts operations. 7. The bank monitors the account and ensures compliance with scheme guidelines.",
+    "application_portal_url": "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp",
+    "required_documents": [
+      "Project Report",
+      "Proof of Age (Birth Certificate, School Leaving Certificate, etc.)",
+      "Educational Qualification Certificate (if applicable)",
+      "Caste Certificate (for SC/ST/OBC beneficiaries)",
+      "Special Category Certificate (if applicable, e.g., ex-servicemen, physically handicapped)",
+      "Rural Area Certificate (if applicable)",
+      "Bank Account Details",
+      "Identity Proof (Aadhaar, Voter ID, PAN, etc.)",
+      "Address Proof",
+      "Two Passport Size Photographs"
+    ],
+    "deadlines": "Rolling basis — applications are accepted throughout the year.",
+    "implementing_agency": "Khadi and Village Industries Commission (KVIC)",
+    "contact_details": "",
+    "caveats": [
+      "Beneficiaries who have already availed subsidy under any other central or state government scheme are not eligible.",
+      "Existing units under PMRY, REGP or any other government scheme are not eligible for financial assistance under PMEGP.",
+      "The margin money subsidy is locked in for a specific period and cannot be withdrawn prematurely.",
+      "The project must be technically feasible and economically viable to qualify for bank loan and subsidy."
+    ],
+    "source_cited_notes": [
+      "https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp"
+    ],
+    "last_updated_date": "",
+    "confidence": "medium",
+    "analysis_timestamp": "2026-06-14T11:58:58.607784+00:00"
+  },
+  "analysis_raw": "{\n  \"overview\": \"The Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme aimed at generating employment opportunities through the establishment of micro-enterprises in the non-farm sector. It provides financial assistance to individuals, self-help groups, and institutions for setting up new micro-enterprises. The scheme is implemented through Khadi and Village Industries Commission (KVIC) as the nodal agency at the national level, with State KVIC Directorates, State Khadi and Village Industries Boards (KVIBs), and District Industries Centres (DICs) as implementing agencies at the state and district levels. PMEGP merges the erstwhile Prime Minister's Rojgar Yojana (PMRY) and Rural Employment Generation Programme (REGP) to promote sustainable employment in rural and urban areas.\",\n  \"scheme_type\": \"subsidy\",\n  \"target_beneficiaries\": [\"individuals\", \"self-help groups\", \"institutions\", \"MSME\", \"entrepreneurs\"],\n  \"geographic_scope\": \"Pan-India\",\n  \"objectives\": [\n    \"To generate employment opportunities in rural and urban areas through setting up of new self-employment ventures/projects/micro enterprises.\",\n    \"To bring together widely dispersed traditional artisans/ rural and urban unemployed youth and give them self-employment opportunities to the extent possible, at their place.\",\n    \"To provide continuous and sustainable employment to a large segment of traditional and prospective artisans and rural and urban unemployed youth in the country, so as to help arrest migration of rural youth to urban areas.\",\n    \"To increase the wage-earning capacity of artisans and contribute to increase in the growth rate of rural and urban employment.\"\n  ],\n  \"eligibility\": \"Any individual above 18 years of age is eligible. For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the business/service sector, the beneficiary should possess at least VIII standard pass educational qualification. There is no ceiling on project cost for loans under the scheme. Existing units (under PMRY, REGP or any other scheme of Government of India or State Government) and the units that have already availed government subsidy under any other scheme of Government of India or State Government are not eligible.\",\n  \"benefits\": \"The scheme provides a subsidy ranging from 15% to 35% of the project cost in the form of margin money, which is not repayable. The subsidy is higher for special categories (such as SC/ST/OBC/women/ex-servicemen/physically handicapped, NER, hill and border areas, etc.) and lower for general category beneficiaries. The remaining project cost is provided as a loan by banks. The subsidy is credited to the beneficiary's bank account after the project is verified and found viable. The scheme also provides training and technical support through KVIC and its affiliated institutions.\",\n  \"financial_support\": \"Under PMEGP, the maximum cost of project is Rs. 50 lakh in the manufacturing sector and Rs. 20 lakh in the business/service sector. The subsidy (margin money) provided by the Government ranges from 15% to 35% of the project cost, depending on the beneficiary category and location. The balance amount of the project cost (i.e., project cost minus margin money) is provided as a loan by the Banks. The rate of interest on the loan is as per the prevailing norms of the respective banks. The margin money subsidy is released by the nodal banks in instalments and is credited to a special term deposit account of the beneficiary, which is not withdrawable until the lock-in period is over.\",\n  \"fund_size_crores\": \"\",\n  \"grant_amount_per_entity\": \"\",\n  \"application_process\": \"1. The applicant must prepare a project report for the proposed micro-enterprise. 2. The applicant applies online through the PMEGP e-portal (https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp) or submits the application form offline to the concerned District Industries Centre (DIC) or KVIC/KVIB office. 3. The application is scrutinized by the concerned agency (DIC/KVIC/KVIB) for eligibility and viability. 4. Upon approval, the application is forwarded to the selected bank for sanction of loan. 5. The bank sanctions the loan and disburses the margin money subsidy (as per government norms) into a special term deposit account. 6. The beneficiary sets up the enterprise and starts operations. 7. The bank monitors the account and ensures compliance with scheme guidelines.\",\n  \"application_portal_url\": \"https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp\",\n  \"required_documents\": [\n    \"Project Report\",\n    \"Proof of Age (Birth Certificate, School Leaving Certificate, etc.)\",\n    \"Educational Qualification Certificate (if applicable)\",\n    \"Caste Certificate (for SC/ST/OBC beneficiaries)\",\n    \"Special Category Certificate (if applicable, e.g., ex-servicemen, physically handicapped)\",\n    \"Rural Area Certificate (if applicable)\",\n    \"Bank Account Details\",\n    \"Identity Proof (Aadhaar, Voter ID, PAN, etc.)\",\n    \"Address Proof\",\n    \"Two Passport Size Photographs\"\n  ],\n  \"deadlines\": \"Rolling basis — applications are accepted throughout the year.\",\n  \"implementing_agency\": \"Khadi and Village Industries Commission (KVIC)\",\n  \"contact_details\": \"\",\n  \"caveats\": [\n    \"Beneficiaries who have already availed subsidy under any other central or state government scheme are not eligible.\",\n    \"Existing units under PMRY, REGP or any other government scheme are not eligible for financial assistance under PMEGP.\",\n    \"The margin money subsidy is locked in for a specific period and cannot be withdrawn prematurely.\",\n    \"The project must be technically feasible and economically viable to qualify for bank loan and subsidy.\"\n  ],\n  \"source_cited_notes\": [\n    \"https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp\"\n  ],\n  \"last_updated_date\": \"\",\n  \"confidence\": \"medium\"\n}"
+}

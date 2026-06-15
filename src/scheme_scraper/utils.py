@@ -53,12 +53,25 @@ def detect_delimiter(sample: str) -> str:
 
 def load_scheme_inputs(csv_path: Path) -> list[SchemeInput]:
     import logging
-    # Use utf-8-sig to automatically handle any BOM mark from Excel
-    text = csv_path.read_text(encoding="utf-8-sig")
+    
+    encodings_to_try = ["utf-8-sig", "windows-1252", "latin-1"]
+    used_encoding = "utf-8-sig"
+    
+    for enc in encodings_to_try:
+        try:
+            text = csv_path.read_text(encoding=enc)
+            used_encoding = enc
+            break
+        except UnicodeDecodeError:
+            continue
+    else:
+        text = csv_path.read_text(encoding="utf-8-sig", errors="replace")
+        used_encoding = "utf-8-sig"
+
     delimiter = detect_delimiter(text[:2048])
 
     rows: list[SchemeInput] = []
-    with csv_path.open("r", encoding="utf-8-sig", newline="") as fh:
+    with csv_path.open("r", encoding=used_encoding, errors="replace", newline="") as fh:
         reader = csv.DictReader(fh, delimiter=delimiter)
         
         if not reader.fieldnames:

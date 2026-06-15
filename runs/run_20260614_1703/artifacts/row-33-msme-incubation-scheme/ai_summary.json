@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-33",
+  "scheme_name": "MSME Incubation Scheme",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The MSME Incubation Scheme is designed to support early-stage startups and entrepreneurs by providing financial assistance, mentorship, and infrastructure to nurture innovative business ideas into viable enterprises. It aims to foster innovation, reduce the risk of failure for new ventures, and promote entrepreneurship among MSMEs by offering incubation support through approved incubators. The scheme focuses on technology-driven and high-potential ideas that can contribute to economic growth and job creation.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To support innovative business ideas through incubation",
+    "To provide financial and infrastructural support to early-stage ventures",
+    "To promote entrepreneurship and innovation in the MSME sector",
+    "To reduce the gestation period of startups through mentorship and guidance",
+    "To enhance the success rate of new enterprises by offering handholding support",
+    "To create employment opportunities through nurturing of MSMEs"
+  ],
+  "eligibility": "The scheme is open to individuals, startups, and MSMEs with innovative business ideas that are technology-driven and have potential for scalability. Applicants must be registered as MSMEs or in the process of registration. The idea should be novel, feasible, and capable of generating employment and economic value. Preference may be given to ideas from SC/ST, women, differently-abled, and aspirational districts.",
+  "benefits": "Financial support in the form of grant-in-aid for approved projects, access to incubation infrastructure, mentorship from industry experts, networking opportunities, assistance in IPR filing, market linkage support, and guidance on business planning and fundraising. The scheme also provides support for prototype development, technology validation, and commercialization readiness.",
+  "financial_support": "Under the MSME Incubation Scheme, financial assistance is provided as a grant-in-aid to approved incubators, who in turn support the incubatees. The grant covers costs related to mentorship, infrastructure usage, prototype development, and other pre-incubation and incubation activities. The quantum of support is determined based on the project proposal and stage of the idea, with a focus on early validation and proof-of-concept.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify an approved incubator under the MSME Incubation Scheme. 2. Submit a detailed project proposal including business idea, innovation quotient, market potential, and financial plan. 3. The incubator evaluates the proposal based on novelty, feasibility, and scalability. 4. Shortlisted applicants are invited for a pitch or interview. 5. Upon selection, a memorandum of understanding is signed between the incubator and the incubatee. 6. Financial support is disbursed in stages based on milestones achieved. 7. Progress is monitored through regular reporting and review by the incubator and MSME authorities.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal document",
+    "Proof of identity of applicant(s)",
+    "MSME registration or application proof",
+    "Details of the innovative idea or technology",
+    "Financial plan and budget estimate",
+    "Background/qualification of promoters",
+    "Any existing IP or prior work related to the idea"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Support is subject to the availability of funds and approval by the designated incubator",
+    "The incubatee must comply with monitoring and reporting requirements",
+    "Funds must be utilized strictly for the approved project activities",
+    "Misuse of funds may lead to recovery and blacklisting",
+    "The scheme does not support pure trading or service-only ideas without innovation"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in",
+    "https://msme.gov.in/central-schemes",
+    "https://msme.gov.in/sites/default/files/Scheme-booklet-Eng.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:03:45.795730+00:00"
+}

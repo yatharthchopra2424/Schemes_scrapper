@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-28",
+  "scheme_name": "Seed Fund for Bio Startups",
+  "scheme_url": "https://www.birac.nic.in/seedFundNew.php",
+  "ministry_or_category": "Biotechnology",
+  "overview": "The Seed Fund for Bio Startups (SEED Fund) is an equity-based funding scheme by BIRAC aimed at post-proof-of-concept (PoC) biotech startups to bridge the 'Valley of Death' and enable angel investment readiness. It provides capital assistance through selected BioNEST incubators, with funding deployed as equity or equity-linked instruments up to INR 30 lakhs per startup. The scheme supports early-stage validation and scaling by covering costs such as equipment, supplies, and hiring, and is implemented via a structured incubator partnership model.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "biotech startups",
+    "post-PoC startups",
+    "early-stage life sciences startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide capital assistance to post-PoC startups with new and meritorious ideas, innovations, and technologies",
+    "Act as a bridge between promoter’s investment and angel/venture investment",
+    "Enable startups to reach a stage where they can raise angel/VC funding or seek bank loans",
+    "Support startups in covering early-stage costs such as equipment, supplies, and hiring",
+    "Strengthen the incubator ecosystem by granting funds to BioNEST incubators for deployment",
+    "Ensure structured monitoring and reporting through half-yearly progress and utilization reports",
+    "Facilitate exit mechanisms where incubators retain 50% of returns and return the other 50% to BIRAC"
+  ],
+  "eligibility": "Incubator should have been supported through BIRAC’s BioNEST programme. Incubator should be operational for the last three years. Incubator should have in-house capacity in incubating & mentoring early stage Biotech/Life Sciences startups. Incubator should have established IP&TT facilitation services for startups. Incubator must have prior experience in management of early-stage funding schemes or other grants. Startups must be registered under Companies Act, 2013 and have at least 51% shareholders as Indian citizens (excluding OCI/PIO).",
+  "benefits": "Equity or equity-linked funding up to INR 30 lakhs per startup; no management fees for incubators; structured investment and exit framework with 50% return retention by incubator and 50% restitution to BIRAC; access to incubator infrastructure, mentoring, and IP&TT support; monitoring and hand-holding support from incubators; half-yearly reporting to BIRAC for transparency and accountability.",
+  "financial_support": "BIRAC provides grant-in-aid of INR 100–200 lakhs per cycle to selected BioNEST incubators for deployment in biotech startups. Each incubator can invest up to INR 30 lakhs per startup as equity or equity-linked instruments. The grant is parked in the incubator’s savings account under a separate account head and must be utilized within 36 months from the date of signing the SEED Fund Implementation Agreement (SIFA).",
+  "fund_size_crores": "300",
+  "grant_amount_per_entity": "Up to INR 30 lakhs per startup",
+  "application_process": "1. BIRAC identifies and selects eligible BioNEST incubators through the BIRAC Incubator SEED Fund Committee (BISF Committee). 2. Selected incubators sign a SEED Fund Implementation Agreement (SIFA) with BIRAC. 3. BIRAC disburses grant-in-aid (INR 100–200 lakhs) to the incubator’s savings account under a separate head. 4. Incubator designs a selection mechanism to screen startups based on vesting requirements. 5. Incubator identifies Indian startups (registered under Companies Act, 2013, with ≥51% Indian citizen shareholders). 6. Incubator provides funding as equity/equity-linked instruments up to INR 30 lakhs per startup. 7. A legally binding agreement is signed between incubator and startup with terms for funding and investment. 8. Incubator monitors milestones and provides hand-holding support. 9. Incubator submits half-yearly implementation reports to BIRAC including Utilization Certificates (UC), Statement of Accounts (SOA), and project progress. 10. On exit, incubator retains 50% of gross return and restitutes 50% to BIRAC within 60 days.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Shareholding pattern certified by CA/CS (minimum 51% Indian citizen holding)",
+    "Business description or pitch deck",
+    "Details of funding received (if any)",
+    "Authorization letter from authorized signatory",
+    "Project progress reports and utilization certificates (for half-yearly reporting)",
+    "Exit report with disinvestment summary (at exit)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round through selected incubators.",
+  "implementing_agency": "Biotechnology Industry Research Assistance Council (BIRAC), a Public Sector Enterprise set up by Department of Biotechnology (DBT), Government of India",
+  "contact_details": "Email: dkumar[at]birac[dot]nic[dot]in, tech03[at]birac[dot]nic[dot]in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "No startup will receive BIRAC Seed Funding support more than once",
+    "SEED and LEAP fund support to any startup should be non-concurrent",
+    "Incubator must have prior experience in management of early-stage funding schemes or other grants",
+    "Grant must be utilized within 36 months from date of signing SEED Fund Implementation Agreement (SIFA)",
+    "Equity and equity-linked instruments shall be held in the name of the incubator",
+    "Incubator shall have a BIRAC nominee as integral part of the SEED Fund Governance Committee"
+  ],
+  "source_cited_notes": [
+    "https://birac.nic.in/seedFundNew.php",
+    "https://birac.nic.in/webcontent/1616486925_seed_fund_Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:05:00.575127+00:00"
+}

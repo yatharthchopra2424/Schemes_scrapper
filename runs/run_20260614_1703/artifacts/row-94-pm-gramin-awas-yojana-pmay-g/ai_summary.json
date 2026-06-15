@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-94",
+  "scheme_name": "PM Gramin Awas Yojana (PMAY-G)",
+  "scheme_url": "https://pmayg.nic.in/",
+  "ministry_or_category": "Housing",
+  "overview": "Pradhan Mantri Gramin Awas Yojana (PMAY-G) is a flagship rural housing scheme launched by the Government of India to provide pucca houses with basic amenities to all houseless and households living in kutcha and dilapidated houses in rural areas by 2024. The scheme aims to achieve 'Housing for All' in rural areas by providing financial assistance for the construction of durable houses. It focuses on improving the quality of life and ensuring dignity through pucca housing for the rural poor.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "houseless households",
+    "households living in kutcha and dilapidated houses",
+    "rural poor"
+  ],
+  "geographic_scope": "Rural areas across India",
+  "objectives": [
+    "Provide pucca houses with basic amenities to all houseless and households living in kutcha and dilapidated houses in rural areas",
+    "Achieve 'Housing for All' in rural areas by 2024",
+    "Ensure inclusion of marginalized sections including SCs/STs, minorities, and persons with disabilities",
+    "Promote use of locally available, eco-friendly, and disaster-resistant construction technologies",
+    "Converge with other schemes for provision of drinking water, sanitation, electricity, and LPG connection",
+    "Empower women by ensuring house ownership in the name of women or joint ownership"
+  ],
+  "eligibility": "Beneficiaries are identified based on housing deprivation parameters and socio-economic criteria as per Socio Economic and Caste Census (SECC) 2011. The scheme covers houseless households and households living in zero, one, or two-room kutcha houses (walls and roof made of grass, thatch, bamboo, wood, mud, unburnt brick, etc.). Priority is given to SCs/STs, freed bonded labourers, non-tribal forest dwellers, manual scavengers, legally released bonded labourers, and persons with disabilities.",
+  "benefits": "Financial assistance for construction of a pucca house; provision of basic amenities such as electricity connection, LPG connection, toilet, and drinking water through convergence with other government schemes (Swachh Bharat Mission-Gramin, Saubhagya, Ujjwala, Jal Jeevan Mission); technical support for construction; and facilitation of institutional finance through banks.",
+  "financial_support": "Unit assistance of INR 1.20 lakh in plain areas and INR 1.30 lakh in hilly states, difficult areas, and IAP (Integrated Action Plan) districts. The financial assistance is provided in three instalments via Direct Benefit Transfer (DBT) to the beneficiary's bank/Post Office account linked with Aadhaar, based on construction progress verified through geo-tagged photographs.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 1.20 lakh in plain areas and INR 1.30 lakh in hilly states, difficult areas, and IAP districts",
+  "application_process": "1. Beneficiary identification is done through SECC 2011 data and Gram Sabha verification. 2. Eligible beneficiaries are intimated and their consent is obtained. 3. The beneficiary selects a house design from the rural housing technology menu. 4. The beneficiary opens a bank/Post Office account linked with Aadhaar for DBT. 5. Construction begins after the first instalment is released. 6. Second and third instalments are released upon verification of construction stages via geo-tagged photographs. 7. Upon completion, the house is verified and the beneficiary is facilitated for convergence benefits.",
+  "application_portal_url": "https://pmayg.nic.in/",
+  "required_documents": [
+    "Aadhaar number",
+    "Bank/Post Office account details linked with Aadhaar",
+    "Consent form from the beneficiary",
+    "Geo-tagged photographs at different construction stages"
+  ],
+  "deadlines": "The scheme was originally targeted for completion by March 2022, later extended to 2024. Beneficiary identification and sanctioning are done periodically based on fund availability and SECC data.",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Assistance is provided only for new construction; upgradation of existing kutcha houses is not covered",
+    "Beneficiary must not own a pucca house anywhere in India",
+    "Funds are released in instalments strictly linked to construction progress verified through geo-tagged images",
+    "Convergence benefits like toilet, electricity, LPG, and water supply are dependent on the status of respective schemes"
+  ],
+  "source_cited_notes": [
+    "https://pmayg.nic.in/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:35:20.909173+00:00"
+}

@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-11",
+  "scheme_name": "GENESIS Program (MeitY)",
+  "scheme_url": "https://msh.meity.gov.in/schemes/genesis",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The GENESIS Program (Gen-Next Support for Innovative Startups) is a Ministry of Electronics and Information Technology (MeitY) initiative aimed at boosting the startup ecosystem in Tier-II and Tier-III cities across India. With a budgetary outlay of Rs. 490 Crore over 5 years, the scheme supports approximately 1600 tech startups by providing funding and support across pilot, early-stage, deep-tech, and investment stages. It focuses on consolidating MeitY's startup-related schemes and assets for greater efficiency and enhanced support.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "tech startups"
+  ],
+  "geographic_scope": "Tier-II & Tier-III cities in India",
+  "objectives": [
+    "Consolidation of startup related schemes and assets of MeitY for greater efficiency, asset utilization and enhanced support for startups.",
+    "Provide Tier-II/ III cities focused funding to critically support Pilot/ Investment, Early-stage and deep-tech startups.",
+    "Strengthening Incubators, building stronger startup ecosystem via capacity building initiatives in Tier II/ III cities.",
+    "Support approx. 1600 tech start-ups over the course of next 5 years",
+    "Discover, grow and nurture technology startups in Tier-II and Tier-III cities"
+  ],
+  "eligibility": "The scheme is designed for technology startups in Tier-II and Tier-III cities; specific eligibility criteria for individual components (EiR, Pilot Funding, Investment Support, Deep-Tech Funding) are not detailed in the provided evidence.",
+  "benefits": "Support includes Entrepreneur in Residence (EiR) for idea validation, Pilot Funding for product piloting, Investment Support for market fundraising, and Deep-Tech Funding for high-impact solutions; non-financial benefits include mentorship, capacity building, and ecosystem strengthening in Tier-II/III cities.",
+  "financial_support": "The scheme provides financial support through four components: Entrepreneur in Residence (EiR) Support, Pilot Funding Support, Investment Support, and Deep-Tech Funding Support, targeting startups at various stages from idea validation to scaling deep-tech solutions.",
+  "fund_size_crores": "490",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process is not explicitly detailed in the provided evidence; interested startups are advised to refer to the Implementing Agencies list and official links such as the Administrative Approval and Scheme Brochure (attached PDFs) for application procedures.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY), Government of India",
+  "contact_details": "meity-sthub@gov.in | +91-11-24301244",
+  "caveats": [
+    "The scheme is focused on Tier-II and Tier-III cities; startups outside these regions may not be eligible.",
+    "Support is limited to approximately 1600 tech startups over 5 years.",
+    "The scheme duration is 5 years from approval."
+  ],
+  "source_cited_notes": [
+    "https://msh.meity.gov.in/schemes/genesis"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:47:18.421999+00:00"
+}

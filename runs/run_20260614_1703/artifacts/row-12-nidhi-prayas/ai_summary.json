@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-12",
+  "scheme_name": "NIDHI Prayas",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "ministry_or_category": "Science & Technology",
+  "overview": "NIDHI Prayas is a sub-scheme under the NIDHI (National Initiative for Developing and Harnessing Innovations) programme by the Department of Science and Technology (DST). It provides financial support in the form of grants to innovators for converting their ideas into prototypes. The scheme aims to promote innovation and entrepreneurship by supporting early-stage prototyping and proof-of-concept development.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "innovators",
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enable translation of innovative ideas to prototypes",
+    "To provide a platform for faster experimentation and modify approaches in the journey to market",
+    "To generate innovative solutions relevant to local and global problems",
+    "To attract youngsters to demonstrate their problem solving skills and abilities",
+    "To enhance the pipeline in terms of quality and quantity of innovative startups"
+  ],
+  "eligibility": "Individual innovators, startups, or entrepreneurs with a proof-of-concept or idea that requires prototyping support. The applicant must be an Indian citizen and the innovation should have potential for commercialization or social impact.",
+  "benefits": "Financial support for prototyping, access to fabrication labs, mentorship, technical guidance, and networking opportunities with experts and investors.",
+  "financial_support": "Grant-in-aid support up to INR 10 lakhs per innovator for prototyping and proof-of-concept development. The grant is disbursed in milestones based on progress review.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 lakhs",
+  "application_process": "1. Apply online through the NIDHI Prayas portal. 2. Submit idea/innovation details along with prototype development plan. 3. Undergo screening and evaluation by experts. 4. Shortlisted applicants present their idea before a selection committee. 5. Selected innovators receive grant approval and sign agreement. 6. Develop prototype with periodic reviews. 7. Submit final prototype and report for closure.",
+  "application_portal_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Detailed project proposal",
+    "Innovation/idea description",
+    "Prototype development plan and budget",
+    "CV/resume of the innovator",
+    "Any prior work or IP details (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Science and Technology (DST)",
+  "contact_details": "",
+  "caveats": [
+    "Grant is only for prototyping and not for scaling or commercialization",
+    "Intellectual property generated remains with the innovator/institution",
+    "Funding is contingent on satisfactory progress reviews",
+    "Cannot be combined with other similar government grants for the same purpose"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/content/sih/en/government-schemes.html"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:46:46.750909+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-22",
+  "scheme_name": "STPI + C-DOT Samarth Incubation Program",
+  "scheme_url": "https://stpi.in/",
+  "ministry_or_category": "Incubation & Acceleration",
+  "overview": "The STPI + C-DOT Samarth Incubation Program is an initiative by Software Technology Parks of India (STPI) in collaboration with C-DOT to support startups through incubation services. It provides infrastructure, mentorship, funding access, and networking opportunities to foster innovation and entrepreneurship in emerging technologies. The program is part of STPI's broader mission to strengthen India's software product ecosystem and promote startup growth across Tier-2 and Tier-3 cities.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster innovation and entrepreneurship in emerging technologies",
+    "Provide incubation support to startups through infrastructure and mentorship",
+    "Strengthen the technology ecosystem by developing a skilled talent pool",
+    "Promote balanced regional growth in the IT sector beyond metros",
+    "Enable startups to create world-class IT/EDSM products indigenously",
+    "Generate direct and indirect employment through startup support",
+    "Facilitate access to funding, investors, and financial institutions for startups",
+    "Encourage collaboration between industry, academia, and government for startup growth"
+  ],
+  "eligibility": "Startups and entrepreneurs working in emerging technologies such as AI, IoT, Blockchain, FinTech, MedTech, AgriTech, Cybersecurity, AR/VR, and other domain-specific areas are eligible to apply. The program is open to innovators from Tier-2 and Tier-3 cities to promote inclusive growth. Applicants must be engaged in technology-driven product development and demonstrate potential for scalability and market impact.",
+  "benefits": "Selected startups receive access to STPI's incubation facilities, mentorship from industry experts, networking opportunities with investors and financial institutions, infrastructure support (hardware/software labs), guidance on IPR and product development, and assistance in market access and go-to-market strategies. The program also provides exposure to government schemes and policies supporting innovation and entrepreneurship.",
+  "financial_support": "The program provides seed funding support to startups, with financial assistance facilitated through linkages with venture capitalists, angel investors, and government funding schemes. Specific quantum and disbursement mechanisms are determined based on startup evaluation and available funding partners. STPI helps startups access financial support but does not directly grant funds in all cases.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant Centre of Entrepreneurship (CoE) based on your technology domain and location. 2. Visit the STPI website or contact the respective CoE for program details and application guidelines. 3. Submit an online application through the STPI portal or designated application channel. 4. Provide necessary documents including business plan, team details, and proof of innovation. 5. Undergo screening and evaluation by the selection committee. 6. If shortlisted, participate in interviews or pitch sessions. 7. Receive selection notification and complete onboarding formalities. 8. Begin incubation with access to infrastructure, mentorship, and support services.",
+  "application_portal_url": "https://stpi.in/",
+  "required_documents": [
+    "Business plan or project proposal",
+    "Team details and resumes",
+    "Proof of concept or prototype (if available)",
+    "Certificate of Incorporation or registration (for registered entities)",
+    "PAN card of the entity or promoters",
+    "Bank account details",
+    "Any existing funding or investment details",
+    "Intellectual property details (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on cohort availability and program cycles.",
+  "implementing_agency": "Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology",
+  "contact_details": "Email: dg[at]stpi[dot]in | Phone: +91-1124628081/24346600",
+  "caveats": [
+    "Admission is subject to availability of seats and evaluation by the selection committee",
+    "Financial support is not guaranteed and depends on investor interest and funding availability",
+    "Startups must comply with reporting and progress monitoring requirements during incubation",
+    "Program benefits may vary across different Centres of Entrepreneurship (CoEs)",
+    "Continued support is contingent on meeting milestones and performance benchmarks"
+  ],
+  "source_cited_notes": [
+    "https://stpi.in/",
+    "https://stpi.in/en",
+    "https://stpi.in/hi",
+    "https://stpi.in/index.php/hi/centre-of-entrepreneurship",
+    "https://stpi.in/index.php/hi/about-stpi"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:55:02.600619+00:00"
+}

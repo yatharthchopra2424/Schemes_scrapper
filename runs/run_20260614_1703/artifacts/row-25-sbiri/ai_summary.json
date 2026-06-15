@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-25",
+  "scheme_name": "SBIRI",
+  "scheme_url": "https://www.dbtindia.gov.in/",
+  "ministry_or_category": "Biotechnology",
+  "overview": "SBIRI (Small Business Innovation Research Initiative) is a flagship program of the Department of Biotechnology (DBT), Government of India, aimed at promoting innovation and entrepreneurship in the biotechnology sector by providing financial support to startups and MSMEs for proof-of-concept, prototype development, and technology validation. The scheme encourages industry-academia collaboration and supports early-stage biotech ventures with high growth potential.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "biotech entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation and entrepreneurship in the biotechnology sector",
+    "Support proof-of-concept and prototype development for biotech startups and MSMEs",
+    "Facilitate industry-academia collaboration for technology translation",
+    "Provide financial assistance for early-stage validation of biotech ideas",
+    "Encourage development of commercially viable biotech products and processes",
+    "Strengthen the biotech startup ecosystem in India"
+  ],
+  "eligibility": "Indian startups and MSMEs registered under the Companies Act, 2013 or LLP Act, 2008, working in the biotechnology sector, with innovative ideas requiring proof-of-concept or prototype development. The applicant must be a legal entity registered in India, and the technology should have potential for commercialization. Preference is given to ventures with strong technical feasibility and market potential.",
+  "benefits": "Financial support for proof-of-concept and prototype development, mentorship and technical guidance from DBT and BIRAC, access to DBT’s network of laboratories and research institutions, assistance in IP filing and technology transfer, and support for scaling up successful prototypes to market-ready products.",
+  "financial_support": "SBIRI provides grant-based financial support of up to INR 50 lakhs per project for proof-of-concept and prototype development. The funding is disbursed in milestones based on project progress and is managed through the Biotechnology Industry Research Assistance Council (BIRAC). The grant does not require equity dilution and is intended for early-stage validation activities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakhs",
+  "application_process": "1. Register on the BIRAC website (www.birac.nic.in) 2. Log in to the SBIRI application portal 3. Fill in the online application form with project details 4. Upload required documents including project proposal, CVs of team members, and incorporation certificate 5. Submit the application for review 6. Await evaluation by the expert committee 7. If shortlisted, attend interview/presentation 8. Receive award letter upon selection 9. Sign agreement with BIRAC 10. Receive first tranche of funds upon compliance",
+  "application_portal_url": "https://www.birac.nic.in/",
+  "required_documents": [
+    "Project proposal detailing objectives, methodology, and expected outcomes",
+    "Incorporation/registration certificate of the startup/MSME",
+    "CVs of key team members",
+    "Proof of concept note or preliminary data (if available)",
+    "Bank account details",
+    "Authorization letter from the signatory",
+    "Declaration of no duplicate funding"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year with periodic review cycles.",
+  "implementing_agency": "Department of Biotechnology (DBT), Ministry of Science & Technology, Government of India",
+  "contact_details": "Email: sbiri@birac.nic.in | Phone: 011-24363012",
+  "caveats": [
+    "Funding is strictly for proof-of-concept and prototype development only",
+    "Projects must be completed within 18 months from date of sanction",
+    "Grantees must submit periodic progress reports and utilization certificates",
+    "Intellectual property generated must be disclosed to DBT/BIRAC",
+    "Funding cannot be used for salaries, infrastructure, or working capital"
+  ],
+  "source_cited_notes": [
+    "https://www.birac.nic.in/",
+    "https://dbtindia.gov.in/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:56:16.813386+00:00"
+}

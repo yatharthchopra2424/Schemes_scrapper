@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-55",
+  "scheme_name": "PMKVY",
+  "scheme_url": "https://pmkvyofficial.org/",
+  "ministry_or_category": "Skill Development",
+  "overview": "Pradhan Mantri Kaushal Vikas Yojana (PMKVY) is a flagship skill development scheme of the Government of India implemented by the Ministry of Skill Development and Entrepreneurship (MSDE). It aims to enable a large number of Indian youth to take up industry-relevant skill training that will help them in securing a better livelihood. The scheme focuses on Recognition of Prior Learning (RPL), short-term training, and special projects to address skill gaps across various sectors.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "youth",
+    "unemployed",
+    "school/college dropouts",
+    "women",
+    "SC/ST",
+    "persons with disability"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable and mobilize a large number of Indian youth to take up outcome-based skill training",
+    "Increase productivity of the existing workforce and align training with the actual needs of the industry",
+    "Encourage standardization in the certification process and initiate a process of creating a registry of skills",
+    "Provide monetary awards for skill certification to boost employability and productivity of youth",
+    "Focus on underprivileged and marginalized sections of society to promote inclusive growth",
+    "Leverage existing infrastructure available in government institutions, colleges, and schools",
+    "Encourage public-private partnerships (PPP) for greater reach and effectiveness of skill training programs"
+  ],
+  "eligibility": "Indian nationals who are unemployed, school/college dropouts, or seeking to upgrade their skills are eligible. There is no minimum or maximum age limit, though preference is given to youth between 15-45 years. Candidates must possess valid identity proof such as Aadhaar, Voter ID, or PAN. For Recognition of Prior Learning (RPL), individuals with prior work experience or informal learning in a specific skill area can apply for assessment and certification.",
+  "benefits": "Free skill training in various job roles aligned with industry standards; monetary reward upon successful completion and certification; placement assistance through Rozgar Melas and industry linkages; Recognition of Prior Learning (RPL) to certify existing skills; access to entrepreneurship development modules; post-placement tracking and support; training delivered through accredited training centers (TCs) and training providers (TPs).",
+  "financial_support": "The scheme provides 100% funding for training and assessment costs directly to the training providers. Upon successful completion of training and assessment, candidates receive a monetary reward (average INR 8,000–10,000 per candidate) which is transferred directly to their bank accounts. There is no loan component; the entire cost is borne by the Government of India as a subsidy.",
+  "fund_size_crores": "12000",
+  "grant_amount_per_entity": "Average monetary reward of INR 8,000–10,000 per successfully certified candidate",
+  "application_process": "1. Visit the official PMKVY website or contact a nearby PMKVY-affiliated training center. 2. Select a job role from the available list of Qualification Packs (QPs) under the National Skills Qualification Framework (NSQF). 3. Enroll in the training program by submitting required documents. 4. Attend the training sessions as per the schedule. 5. Undergo assessment by an affiliated assessment agency. 6. Upon passing, receive certification and monetary reward directly into the bank account.",
+  "application_portal_url": "https://pmkvyofficial.org/",
+  "required_documents": [
+    "Aadhaar Card",
+    "Bank account details (for monetary reward transfer)",
+    "Educational qualification certificates (if any)",
+    "Passport-sized photographs",
+    "Domicile certificate (if required by the training center)",
+    "Category certificate (SC/ST/OBC, if applicable)",
+    "Disability certificate (if applicable)"
+  ],
+  "deadlines": "Rolling basis — admissions and training batches are conducted throughout the year based on training center availability.",
+  "implementing_agency": "Ministry of Skill Development and Entrepreneurship (MSDE), Government of India",
+  "contact_details": "Helpline: 088000-55555 | Email: info@pmkvyofficial.org",
+  "caveats": [
+    "Monetary reward is disbursed only after successful completion of training and passing the assessment",
+    "Training must be conducted through PMKVY-affiliated and NSDC-approved training partners only",
+    "Placement is not guaranteed; it is facilitated based on industry demand and candidate performance",
+    "The scheme is subject to periodic revisions and updates based on mid-term evaluations",
+    "Funds are allocated annually and subject to availability under the budgetary provisions"
+  ],
+  "source_cited_notes": [
+    "https://pmkvyofficial.org/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:12:16.221193+00:00"
+}

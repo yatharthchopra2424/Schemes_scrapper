@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-79",
+  "scheme_name": "National Bio Energy Programme - Biomass",
+  "scheme_url": "https://mnre.gov.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "The National Bio Energy Programme - Biomass is a scheme under the Ministry of New and Renewable Energy (MNRE) aimed at promoting biomass-based energy projects in India. It provides Central Financial Assistance (CFA) for setting up bioenergy projects such as Waste to Energy (WTE), Biomass, and Biogas programmes. The scheme supports project developers through online applications on designated portals and offers CFA based on benchmark costs, with additional service charges for implementing agencies.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "individuals",
+    "farmers",
+    "industries",
+    "co-operatives",
+    "organizations",
+    "government/semi-government agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote biomass-based energy projects in the country",
+    "Support Waste to Energy (WTE) programme through CFA",
+    "Support Biomass programme through CFA",
+    "Support Biogas programme through CFA",
+    "Encourage project developers to submit online applications via Biourja portal",
+    "Provide CFA for setting up bioenergy projects including biogas, biomass, and WTE",
+    "Strengthen the country’s renewable energy mix through biomass utilization",
+    "Promote pellet and briquette manufacturing plants via updated CFA rates"
+  ],
+  "eligibility": "Any individual, organization, industry, or government/semi-government agency can apply. For WTE and Biomass programmes, project developers must submit online applications on the Biourja portal. For Biogas programme, applicants must submit online applications on the Biogas portal and physical applications to the Programme Implementing Agency under the Biourja portal.",
+  "benefits": "Central Financial Assistance (CFA) for setting up bioenergy projects, updated CFA rates for pellet and briquette manufacturing plants, support for biomass utilization to strengthen renewable energy mix, and facilitation through online portals (Biourja, Biogas, WTE) for application submission.",
+  "financial_support": "CFA is provided for setting up bioenergy projects under the National Bio Energy Programme (NBP). For WTE and Biomass programmes, CFA is based on benchmark costs. For Biogas programme, CFA is available as per the scheme guidelines. State Implementing Agencies (SIAs) are also eligible for service charges of 1.33% of the eligible CFA. The exact quantum and mechanism are detailed in the scheme guidelines and related office memoranda.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the respective portal: WTE (https://mnre.gov.in/en/waste-to-energy/), Biomass (https://mnre.gov.in/en/bio-mass/), or Biogas (https://mnre.gov.in/en/bio-gas/). 2. Submit online application on the Biourja portal for WTE and Biomass programmes. 3. For Biogas programme, submit online application on the Biogas portal and physical application to the Programme Implementing Agency under the Biourja portal. 4. Await in-principle approval of CFA within 100 days.",
+  "application_portal_url": "https://biourja.mnre.gov.in",
+  "required_documents": [],
+  "deadlines": "100 days for in-principle approval of CFA for WTE and Biomass projects",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE)",
+  "contact_details": "",
+  "caveats": [
+    "CFA shall be exclusively earmarked for the project and must not be diverted for any other purpose",
+    "Selected applicants must submit a Performance Bank Guarantee of 5% of the approved CFA along with project acceptance",
+    "Final instalment of CFA released after comparison of approved and actual cost, with the lower amount considered for re-calculation",
+    "Signage must be prominently displayed on the front of the project stating: 'Project is funded under National Bio Energy Programme'",
+    "All documents submitted for CFA release must be signed by the applicant or authorized representative"
+  ],
+  "source_cited_notes": [
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/03/202603242072753567.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2025/11/202511061627678782.pdf",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2024/10/20241029512325464.pdf"
+  ],
+  "last_updated_date": "2024-25",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:26:23.676434+00:00"
+}

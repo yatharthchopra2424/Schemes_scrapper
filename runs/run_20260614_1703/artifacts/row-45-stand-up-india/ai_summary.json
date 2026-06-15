@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-45",
+  "scheme_name": "Stand-Up India",
+  "scheme_url": "https://www.standupmitra.in/",
+  "ministry_or_category": "Women & Social",
+  "overview": "Stand-Up India Scheme facilitates bank loans between ₹10 lakh and ₹1 Crore to at least one Scheduled Caste (SC) or Scheduled Tribe (ST) borrower and at least one woman borrower per bank branch for setting up a greenfield enterprise. The enterprise may be in manufacturing, services, agri-allied activities, or trading sector. For non-individual enterprises, at least 51% shareholding and controlling stake must be held by an SC/ST or woman entrepreneur. The scheme aims to promote entrepreneurship among underrepresented groups by providing financial support and handholding through designated agencies.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "SC/ST",
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate bank loans between ₹10 lakh and ₹1 Crore to SC/ST and women entrepreneurs",
+    "Support setting up of greenfield enterprises in manufacturing, services, agri-allied, or trading sectors",
+    "Ensure at least one SC/ST and one woman borrower per bank branch receives support under the scheme",
+    "Promote entrepreneurship among socially disadvantaged groups through financial inclusion",
+    "Provide composite loans inclusive of term loan and working capital",
+    "Offer security cover under Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL)",
+    "Encourage handholding and support through designated Handholding Agencies (HHAs)",
+    "Monitor and report on sanctioned applications and disbursed amounts for transparency"
+  ],
+  "eligibility": "Borrowers must be SC/ST and/or women entrepreneurs above 18 years of age. Loans are for setting up greenfield enterprises. For non-individual enterprises, at least 51% of shareholding and controlling stake must be held by either an SC/ST or woman entrepreneur. The enterprise can be in manufacturing, services, agri-allied activities, or trading sector.",
+  "benefits": "Access to bank loans between ₹10 lakh and ₹1 Crore, composite loan inclusive of term loan and working capital, promoter contribution of 15% margin money, security cover under Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL), handholding support through designated agencies, and facilitation of greenfield enterprise setup in manufacturing, services, agri-allied, or trading sectors.",
+  "financial_support": "The scheme facilitates bank loans ranging from ₹10 lakh to ₹1 Crore per borrower. The loan is a composite loan inclusive of term loan and working capital. Promoters are required to contribute 15% as margin money. Security for the loan is provided under the Credit Guarantee Fund Scheme for Stand-Up India Loans (CGFSIL).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Stand-Up India portal at https://standupmitra.in/. 2. Click on 'Apply Here' to begin the application process. 3. Approach a participating bank branch with your business proposal. 4. Ensure eligibility criteria are met (SC/ST/woman entrepreneur above 18 years, greenfield enterprise). 5. Submit required documents including identity proof, business plan, and project details. 6. Bank processes the loan application under the Stand-Up India Scheme. 7. Upon approval, loan is sanctioned and disbursed. 8. Utilize handholding support from designated Handholding Agencies (HHAs) if needed.",
+  "application_portal_url": "https://standupmitra.in/",
+  "required_documents": [
+    "Identity proof",
+    "Business plan or project report",
+    "Details of the greenfield enterprise",
+    "Proof of SC/ST or woman entrepreneur status (if applicable)",
+    "Bank account details",
+    "Any additional documents as required by the lending bank"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "Loans are only for greenfield enterprises (new ventures)",
+    "At least 51% shareholding and control must be held by SC/ST/woman entrepreneur in non-individual enterprises",
+    "Promoter must contribute 15% margin money",
+    "Security is covered under CGFSIL, but terms are subject to bank and guarantee scheme guidelines",
+    "Loan amount is capped at ₹1 Crore per borrower"
+  ],
+  "source_cited_notes": [
+    "https://standupmitra.in/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:06:07.619710+00:00"
+}

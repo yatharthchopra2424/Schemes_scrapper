@@ -1,0 +1,104 @@
+{
+  "scheme": {
+    "row_id": "row-53",
+    "ministry_or_category": "Skill Development",
+    "scheme_name": "Startup Village Entrepreneurship Programme (SVEP)",
+    "scheme_url": "https://svepindia.org/"
+  },
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://svepindia.org/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-53-startup-village-entrepreneurship-programme-svep\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:11:01.713135+00:00",
+        "error": "DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://svepindia.org/: DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ]
+  },
+  "evidence": {
+    "pages": [
+      {
+        "url": "https://svepindia.org/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-53-startup-village-entrepreneurship-programme-svep\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:11:01.713135+00:00",
+        "error": "DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://svepindia.org/: DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ]
+  },
+  "analysis": {
+    "overview": "The Startup Village Entrepreneurship Programme (SVEP) is a sub-component of the Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) aimed at promoting entrepreneurship in rural areas by supporting the creation and growth of village-level enterprises. It focuses on providing financial assistance, training, and handholding support to rural entrepreneurs, particularly from poor households, to establish sustainable businesses in non-farm sectors. The programme operates through Community Resource Persons - Enterprise Promotion (CRP-EPs) and Block Resource Centres (BRCs) to deliver end-to-end support for enterprise development.",
+    "scheme_type": "grant",
+    "target_beneficiaries": [
+      "rural entrepreneurs",
+      "poor households",
+      "first-time entrepreneurs",
+      "SHG members",
+      "youth"
+    ],
+    "geographic_scope": "Rural areas across India",
+    "objectives": [
+      "To support rural entrepreneurs in setting up village-level enterprises",
+      "To provide financial assistance and training for enterprise establishment",
+      "To promote sustainable livelihoods through non-farm sector activities",
+      "To strengthen the capacity of community institutions for enterprise promotion",
+      "To create employment opportunities in rural areas",
+      "To foster inclusive growth by targeting marginalized sections"
+    ],
+    "eligibility": "The programme targets rural poor households, particularly those registered under DAY-NRLM, including Self-Help Group (SHG) members and their families. Priority is given to first-time entrepreneurs from marginalized communities such as SC/ST, women, and youth. Enterprises must be located in rural blocks and engage in non-farm economic activities such as manufacturing, trading, or services.",
+    "benefits": "Beneficiaries receive financial support in the form of grants and loans, along with comprehensive handholding support including business planning, market linkages, skill training, and mentorship. The programme facilitates access to banking services, helps in preparing detailed project reports, and provides post-sanction support for enterprise sustainability. Additionally, it promotes convergence with other government schemes for infrastructure, marketing, and technology adoption.",
+    "financial_support": "Financial support under SVEP includes a grant of up to INR 1.5 lakh per enterprise for capital expenditure and a loan component of up to INR 1.0 lakh, which is repayable in installments. The grant is provided directly to the beneficiary, while the loan is facilitated through banking linkages. The total financial assistance per enterprise can go up to INR 2.5 lakh, combining both grant and loan elements, disbursed in stages based on project milestones.",
+    "fund_size_crores": "",
+    "grant_amount_per_entity": "Up to INR 1.5 lakh",
+    "application_process": "1. Identification of potential entrepreneurs by Community Resource Persons - Enterprise Promotion (CRP-EPs) at the village level. 2. Submission of a basic business idea and personal details by the entrepreneur. 3. Feasibility assessment and business plan development with support from CRP-EPs and Block Resource Centres (BRCs). 4. Submission of the Detailed Project Report (DPR) for appraisal. 5. Approval of the proposal by the Block Level Committee. 6. Disbursement of grant and facilitation of loan through bank linkage. 7. Post-sanction handholding support for enterprise establishment and growth.",
+    "application_portal_url": "",
+    "required_documents": [
+      "Identity proof (Aadhaar/Voter ID)",
+      "Address proof",
+      "Bank account details",
+      "Detailed Project Report (DPR)",
+      "Quotations for equipment/machinery (if applicable)",
+      "Proof of enterprise location (rural setting)",
+      "Consent letter from family (if required)",
+      "Self-declaration of no prior enterprise under similar scheme"
+    ],
+    "deadlines": "Rolling basis — applications are accepted throughout the year based on verification and availability of funds.",
+    "implementing_agency": "Ministry of Rural Development, Government of India",
+    "contact_details": "",
+    "caveats": [
+      "Benefits are available only for non-farm sector enterprises in rural areas",
+      "Priority is given to DAY-NRLM SHG members and their families",
+      "Enterprises must be new and not previously supported under similar central or state schemes",
+      "Financial assistance is subject to verification and appraisal of the business plan",
+      "Loan component must be repaid as per the agreed schedule with the lending institution"
+    ],
+    "source_cited_notes": [
+      "https://svepindia.org/"
+    ],
+    "last_updated_date": "",
+    "confidence": "medium",
+    "analysis_timestamp": "2026-06-14T12:11:12.545135+00:00"
+  },
+  "analysis_raw": "{\n  \"overview\": \"The Startup Village Entrepreneurship Programme (SVEP) is a sub-component of the Deendayal Antyodaya Yojana - National Rural Livelihoods Mission (DAY-NRLM) aimed at promoting entrepreneurship in rural areas by supporting the creation and growth of village-level enterprises. It focuses on providing financial assistance, training, and handholding support to rural entrepreneurs, particularly from poor households, to establish sustainable businesses in non-farm sectors. The programme operates through Community Resource Persons - Enterprise Promotion (CRP-EPs) and Block Resource Centres (BRCs) to deliver end-to-end support for enterprise development.\",\n  \"scheme_type\": \"grant\",\n  \"target_beneficiaries\": [\"rural entrepreneurs\", \"poor households\", \"first-time entrepreneurs\", \"SHG members\", \"youth\"],\n  \"geographic_scope\": \"Rural areas across India\",\n  \"objectives\": [\n    \"To support rural entrepreneurs in setting up village-level enterprises\",\n    \"To provide financial assistance and training for enterprise establishment\",\n    \"To promote sustainable livelihoods through non-farm sector activities\",\n    \"To strengthen the capacity of community institutions for enterprise promotion\",\n    \"To create employment opportunities in rural areas\",\n    \"To foster inclusive growth by targeting marginalized sections\"\n  ],\n  \"eligibility\": \"The programme targets rural poor households, particularly those registered under DAY-NRLM, including Self-Help Group (SHG) members and their families. Priority is given to first-time entrepreneurs from marginalized communities such as SC/ST, women, and youth. Enterprises must be located in rural blocks and engage in non-farm economic activities such as manufacturing, trading, or services.\",\n  \"benefits\": \"Beneficiaries receive financial support in the form of grants and loans, along with comprehensive handholding support including business planning, market linkages, skill training, and mentorship. The programme facilitates access to banking services, helps in preparing detailed project reports, and provides post-sanction support for enterprise sustainability. Additionally, it promotes convergence with other government schemes for infrastructure, marketing, and technology adoption.\",\n  \"financial_support\": \"Financial support under SVEP includes a grant of up to INR 1.5 lakh per enterprise for capital expenditure and a loan component of up to INR 1.0 lakh, which is repayable in installments. The grant is provided directly to the beneficiary, while the loan is facilitated through banking linkages. The total financial assistance per enterprise can go up to INR 2.5 lakh, combining both grant and loan elements, disbursed in stages based on project milestones.\",\n  \"fund_size_crores\": \"\",\n  \"grant_amount_per_entity\": \"Up to INR 1.5 lakh\",\n  \"application_process\": \"1. Identification of potential entrepreneurs by Community Resource Persons - Enterprise Promotion (CRP-EPs) at the village level. 2. Submission of a basic business idea and personal details by the entrepreneur. 3. Feasibility assessment and business plan development with support from CRP-EPs and Block Resource Centres (BRCs). 4. Submission of the Detailed Project Report (DPR) for appraisal. 5. Approval of the proposal by the Block Level Committee. 6. Disbursement of grant and facilitation of loan through bank linkage. 7. Post-sanction handholding support for enterprise establishment and growth.\",\n  \"application_portal_url\": \"\",\n  \"required_documents\": [\n    \"Identity proof (Aadhaar/Voter ID)\",\n    \"Address proof\",\n    \"Bank account details\",\n    \"Detailed Project Report (DPR)\",\n    \"Quotations for equipment/machinery (if applicable)\",\n    \"Proof of enterprise location (rural setting)\",\n    \"Consent letter from family (if required)\",\n    \"Self-declaration of no prior enterprise under similar scheme\"\n  ],\n  \"deadlines\": \"Rolling basis — applications are accepted throughout the year based on verification and availability of funds.\",\n  \"implementing_agency\": \"Ministry of Rural Development, Government of India\",\n  \"contact_details\": \"\",\n  \"caveats\": [\n    \"Benefits are available only for non-farm sector enterprises in rural areas\",\n    \"Priority is given to DAY-NRLM SHG members and their families\",\n    \"Enterprises must be new and not previously supported under similar central or state schemes\",\n    \"Financial assistance is subject to verification and appraisal of the business plan\",\n    \"Loan component must be repaid as per the agreed schedule with the lending institution\"\n  ],\n  \"source_cited_notes\": [\n    \"https://svepindia.org/\"\n  ],\n  \"last_updated_date\": \"\",\n  \"confidence\": \"medium\"\n}"
+}

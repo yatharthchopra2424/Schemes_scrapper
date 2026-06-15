@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-13",
+  "scheme_name": "NIDHI EIR",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+  "ministry_or_category": "Science & Technology",
+  "overview": "NIDHI EIR (Entrepreneur-in-Residence) is a component of the National Initiative for Developing and Harnessing Innovations (NIDHI) programme under the Department of Science & Technology (DST). It aims to support aspiring entrepreneurs by providing a fellowship to pursue innovative business ideas without risk, encouraging them to take up entrepreneurship as a career option. The scheme offers financial support and mentorship to help convert ideas into viable startups.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "aspiring entrepreneurs",
+    "innovators",
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To inspire and support aspiring entrepreneurs to pursue innovative business ideas",
+    "To provide a safety net for individuals to take the entrepreneurial plunge without fear of financial instability",
+    "To foster the creation of technology-based startups from innovative ideas",
+    "To encourage entrepreneurship as a viable career option",
+    "To support the early-stage development of startups through mentorship and guidance"
+  ],
+  "eligibility": "Individuals with innovative business ideas who are committed to pursuing entrepreneurship as a career. Applicants must be Indian nationals, preferably with a background in science, technology, or engineering, and should not be currently employed or engaged in any other full-time activity that would hinder full-time dedication to the entrepreneurial venture. The idea should be at the ideation or early prototype stage and have potential for scalability and innovation.",
+  "benefits": "Selected Entrepreneurs-in-Residence receive a monthly fellowship grant, access to mentorship and guidance from experts, networking opportunities, and support in refining their business ideas. The program also provides access to incubation facilities, technical support, and assistance in preparing for further funding or incubation programs.",
+  "financial_support": "The scheme provides a monthly fellowship of INR 30,000 for a period of up to 12 months to support the Entrepreneur-in-Residence in developing their innovative idea into a viable startup. The financial support is disbursed through the implementing NIDHI TBI (Technology Business Incubator) or other approved host institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 30,000 per month for up to 12 months",
+  "application_process": "1. Identify a NIDHI TBI or approved host institution offering the NIDHI EIR fellowship. 2. Prepare a detailed proposal outlining the innovative idea, its novelty, potential impact, and execution plan. 3. Submit the application along with required documents to the host institution. 4. Undergo evaluation by a selection committee based on innovation, feasibility, and entrepreneurial commitment. 5. Selected candidates are awarded the fellowship and begin the 12-month residency period.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed project proposal",
+    "Proof of educational qualifications",
+    "Identity proof (Aadhaar, PAN, etc.)",
+    "Curriculum Vitae (CV)",
+    "Any supporting documents for the innovative idea (e.g., preliminary sketches, research)"
+  ],
+  "deadlines": "Varies by host institution; typically announced periodically",
+  "implementing_agency": "Department of Science & Technology (DST), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "The fellowship is non-transferable and cannot be combined with other full-time employment or academic pursuits",
+    "Continued disbursement is subject to satisfactory progress review",
+    "The host institution may have additional eligibility or selection criteria",
+    "Intellectual Property (IP) generated during the fellowship may be subject to host institution policies"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/content/sih/en/government-schemes.html",
+    "https://startupindia.gov.in/content/sih/en/incubator-schemes.html"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T11:47:17.772180+00:00"
+}

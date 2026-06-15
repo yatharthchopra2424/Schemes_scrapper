@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-47",
+  "scheme_name": "DAY-NRLM Startup Grants",
+  "scheme_url": "https://svep.nrlm.gov.in/landing",
+  "ministry_or_category": "Women & Social",
+  "overview": "The Start-up Village Entrepreneurship Program (SVEP) is a sub-scheme under the Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM), approved in May 2015 and implemented since June 2011. It aims to help the rural poor come out of poverty by supporting them to set up and stabilize enterprises through financial assistance, training in business management and soft skills, and access to banking systems. The programme focuses on creating sustainable livelihoods and self-employment opportunities, particularly for youth and women, by building a local community cadre for enterprise promotion and integrating with other government schemes. SVEP operates through an IT-based workflow management system with web and mobile platforms to manage day-to-day support efficiently.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "rural poor",
+    "youth",
+    "women",
+    "self-help groups",
+    "community-based organisations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide sustainable livelihoods and self-employment opportunities with financial assistance and training in business management and soft skills",
+    "Create local community cadre for promotion of enterprises",
+    "Build and support early-stage rural enterprises by providing business development support, mentoring, finance, and access to the banking system",
+    "Guide convergence and integration with other government schemes",
+    "Democratise entrepreneurship by putting funding decisions into the hands of community-based organisations",
+    "Promote non-farm livelihoods, especially skill-based work and small enterprises, to create jobs and stimulate long-term economic growth",
+    "Produce social benefits through inclusive entrepreneurship"
+  ],
+  "eligibility": "The scheme targets the rural poor, particularly youth and women, who are part of self-help groups (SHGs) and village organizations (VOs) under DAY-NRLM. Beneficiaries are identified through community-based organisations and must be interested in setting up or stabilizing early-stage enterprises in rural areas. There is no explicit mention of income or educational criteria in the evidence, but the focus is on those lacking access to formal financial systems and dignified work opportunities.",
+  "benefits": "Beneficiaries receive financial assistance for enterprise setup, training in business management and soft skills, mentoring through Community Resource Persons–Enterprise Promotion (CRP-EP), access to banking systems, and guidance for convergence with other government schemes. The programme also supports the creation of a local community cadre for enterprise promotion and provides hand-holding support until enterprises stabilize. Non-financial benefits include business development support, mentoring, and access to the Community Enterprise Fund (CEF) for credit linkage.",
+  "financial_support": "Financial support is provided through the Community Enterprise Fund (CEF), which offers loans to rural enterprises for setup and stabilization. The fund is managed at the community level by community-based organisations, with disbursement decisions made locally. The mid-term report mentions tracking of CEF loan disbursement and repayment, indicating a revolving fund mechanism. However, specific quantum, interest rates, or repayment terms are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify rural poor individuals through self-help groups (SHGs) and village organizations (VOs) under DAY-NRLM. 2. Community Resource Persons–Enterprise Promotion (CRP-EP) conduct entrepreneur registration and profile creation in six stages (general information, education/work, family, income, credit, expenditure profiles, and SVEP training details). 3. CRP-EP supports beneficiaries in preparing business plans and activity reports. 4. Business plans are reviewed and approved at the Block Resource Centre (BRC) level with input from mentors and functional experts. 5. Approved enterprises receive financial assistance via the Community Enterprise Fund (CEF) for setup and stabilization. 6. CRP-EP and BRC monitor enterprise performance through the Performance Tracking System (PTS) and provide hand-holding support for at least six months post-setup.",
+  "application_portal_url": "https://svep.nrlm.gov.in/landing",
+  "required_documents": [
+    "General information of entrepreneur",
+    "Education and work profile",
+    "Family profile",
+    "Income profile",
+    "Credit profile",
+    "Expenditure profile",
+    "SVEP training details",
+    "Business plan",
+    "Activity report",
+    "Consultancy slip",
+    "Loan repayment data",
+    "PTS data"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Deendayal Antyodaya Yojana-National Rural Livelihoods Mission (DAY-NRLM), Ministry of Rural Development",
+  "contact_details": "Email: svepnic[at]gmail[dot]com",
+  "caveats": [
+    "Funding decisions are made by community-based organisations, not central authorities",
+    "Enterprises must be in the early stage or new to qualify for support",
+    "Support is contingent on enterprise stabilization and performance tracking via PTS",
+    "Beneficiaries must be part of SHGs/VOs under DAY-NRLM",
+    "The programme focuses on non-farm livelihoods and skill-based work"
+  ],
+  "source_cited_notes": [
+    "https://svep.nrlm.gov.in/landing",
+    "https://svep.nrlm.gov.in/pdf/FAQ_SVEP.pdf",
+    "https://svep.nrlm.gov.in/pdf/Final_Mid_Term_Report.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:07:08.305375+00:00"
+}

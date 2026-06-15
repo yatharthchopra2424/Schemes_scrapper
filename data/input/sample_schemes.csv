@@ -1,11 +1,101 @@
 ministry_or_category,scheme_name,scheme_url
 Startup & Industry (DPIIT),Startup India Initiative,https://www.startupindia.gov.in/
-Skill Development,PM-SETU,https://dgt.gov.in/en/scheme-guidelines-of-pmsetu
 Startup & Industry (DPIIT),Startup India Seed Fund Scheme (SISFS),https://seedfund.startupindia.gov.in/
-Electronics & IT,Digital India Bhashini,https://www.digitalindia.gov.in/
-Electronics & IT,TIDE 2.0,https://msh.meity.gov.in/schemes/tide
 Startup & Industry (DPIIT),Credit Guarantee Scheme for Startups (CGSS),https://www.startupindia.gov.in/content/sih/en/government-schemes.html
-Science & Technology,NIDHI Prayas,https://www.startupindia.gov.in/content/sih/en/government-schemes.html
 Startup & Industry (DPIIT),Fund of Funds for Startups (FFS),https://www.startupindia.gov.in/content/sih/en/government-schemes.html
-Compliance & Registration,Udyam Registration Portal,https://udyamregistration.gov.in
-Women Entrepreneurship,Annapurna Scheme,https://www.sbi.co.in/web/agri-rural/agriculture-banking/annapurna-scheme
+Startup & Industry (DPIIT),Startup India Fund of Funds 2.0,https://www.startupindia.gov.in/content/sih/en/government-schemes.html
+Electronics & IT,TIDE 2.0,https://msh.meity.gov.in/schemes/tide
+Electronics & IT,SAMRIDH Startup Accelerator,https://msh.meity.gov.in/schemes/samridh
+Electronics & IT,Digital India Bhashini,https://www.digitalindia.gov.in/
+Electronics & IT,Future Skills PRIME,https://www.digitalindia.gov.in/
+Electronics & IT,Chips to Startup (C2S),https://msh.meity.gov.in/
+Electronics & IT,GENESIS Program (MeitY),https://msh.meity.gov.in/schemes/genesis
+Science & Technology,NIDHI Prayas,https://www.startupindia.gov.in/content/sih/en/government-schemes.html
+Science & Technology,NIDHI EIR,https://www.startupindia.gov.in/content/sih/en/government-schemes.html
+Science & Technology,NIDHI Seed Support,https://nidhi.dst.gov.in/nidhissp/
+Science & Technology,Technology Business Incubators,https://www.startupindia.gov.in/content/sih/en/government-schemes.html
+Science & Technology,SERB Grants,https://dst.gov.in/
+Science & Technology,SAIF Facilities,https://dst.gov.in/
+Science & Technology,Research Development & Innovation (RDI) Scheme,https://rdifund.anrf.gov.in/
+Science & Technology,DST Multiplier & Collaborative R&D Grants,https://www.indiascienceandtechnology.gov.in/funding-opportunities/startups/multiplier-grants-scheme-mgs
+Deep Tech & R&D,National Deep Tech Startup Policy (NDTSP),https://www.psa.gov.in/deep-tech-policy
+AI & Digital,IndiaAI Mission – National Program on Artificial Intelligence,https://www.digitalindia.gov.in/initiative/national-program-on-artificial-intelligence/
+Incubation & Acceleration,STPI + C-DOT Samarth Incubation Program,https://stpi.in/
+Innovation Ecosystem,Atal Innovation Mission (AIM),https://aim.gov.in/
+Biotechnology,BIG Grant,https://birac.nic.in/big.php
+Biotechnology,SBIRI,https://www.dbtindia.gov.in/
+Biotechnology,PACE,https://www.birac.nic.in/desc_new.php?id=286
+Biotechnology,BioNEST Incubation,https://birac.nic.in/bionest.php
+Biotechnology,Seed Fund for Bio Startups,https://www.birac.nic.in/seedFundNew.php
+MSME,PMEGP,https://www.kviconline.gov.in/pmegpeportal/pmegphome/index.jsp
+MSME,CLCSS,https://www.nimsme.gov.in/about-scheme/credit-linked-capital-subsidy-scheme-for-technology-upgradation
+MSME,ZED Certification,https://zed.msme.gov.in/
+MSME,MSME Champions Scheme,https://msme.gov.in
+MSME,MSME Incubation Scheme,https://msme.gov.in
+MSME,SFURTI,https://sfurti.msme.gov.in
+MSME,TREAD for Women,https://msme.gov.in/tread
+Agriculture & Rural,RKVY-RAFTAAR,https://rkvy.nic.in/
+Agriculture & Rural,Agri Clinics & Agribusiness Centres,https://agricoop.nic.in/
+Agriculture & Rural,NABARD Startup & Innovation Fund,https://nabard.org/
+Agriculture & Rural,Digital Agriculture Mission,https://agriwelfare.gov.in/en/DigiAgriDiv
+Agriculture & Rural,PM-PRANAM,https://agricoop.nic.in
+Agriculture & Rural,Pradhan Mantri Matsya Sampada Yojana (PMMSY),https://pmmsy.dof.gov.in/
+Defence & Space,iDEX,https://www.isp.gov.in/
+Defence & Space,DRDO Technology Development Fund,https://www.drdo.gov.in/
+Defence & Space,IN-SPACe Seed Fund,https://www.inspaceindia.org/
+Women & Social,Stand-Up India,https://www.standupmitra.in/
+Women & Social,Mahila E-Haat,https://www.mahilahaat.gov.in/
+Women & Social,DAY-NRLM Startup Grants,https://svep.nrlm.gov.in/landing
+PSU Support,ONGC Startup Fund,https://www.ongcindia.com
+PSU Support,BHEL Innovation Challenge,https://www.bhel.com
+PSU Support,IOCL Startup Scheme,https://iocl.com
+PSU Support,BPCL Ankur Fund,https://www.bharatpetroleum.com
+PSU Support,NTPC Startup Incubation,https://www.ntpc.co.in
+Skill Development,Startup Village Entrepreneurship Programme (SVEP),https://svepindia.org/
+Skill Development,Skill India Digital,https://www.skillindia.gov.in/
+Skill Development,PMKVY,https://pmkvyofficial.org/
+Skill Development,PM-SETU,https://dgt.gov.in/en/scheme-guidelines-of-pmsetu
+Skill Development,PM-DAKSH,https://pmdaksh.dosje.gov.in
+Heavy Industries,FAME I & II,https://fame.gov.in/
+Heavy Industries,PLI for Auto & EV,https://dhi.nic.in/
+Heavy Industries,ACC Battery Scheme,https://dhi.nic.in/
+Heavy Industries,PM E-DRIVE,https://pmedrive.heavyindustries.gov.in/
+Commerce & Industry,Export Promotion Capital Goods (EPCG),https://www.dgft.gov.in/CP/?opt=epcg
+Commerce & Industry,Market Access Initiative (MAI),https://www.commerce.gov.in/international-trade/trade-promotion-programmes-and-schemes/trade-promotion-programme-focus-cis/market-access-initiative-mai-scheme/
+Commerce & Industry,Trade Infrastructure for Export Scheme (TIES),https://www.commerce.gov.in/ties
+Commerce & Industry,Remission of Duties and Taxes on Exported Products (RoDTEP),https://dgft.gov.in/rodtep
+Social Justice & Empowerment,PM-AJAY,https://pmajay.dosje.gov.in/
+Social Justice & Empowerment,SMILE Scheme,https://smile-b.dosje.gov.in/
+Social Justice & Empowerment,Atal Vayo Abhyuday Yojana (AVYAY),https://grants-msje.gov.in
+Social Justice & Economic Dev,Credit Enhancement Guarantee Scheme for SCs,https://www.ifcicegssc.in/
+Social Justice & Economic Dev,NSKFDC,https://nskfdc.nic.in
+Social Justice & Economic Dev,NSFDC,https://www.nsfdc.nic.in
+Social Justice & Economic Dev,SEED Scheme for DNTs,https://dwbdnc.dosje.gov.in
+Sanitation & Labor Welfare,NAMASTE,https://namastescheme.com/
+Urban Infrastructure,Urban Challenge Fund (UCF),https://mohua.gov.in
+Rural Development,Gramin Rozgar Mission (GARIMA),https://rural.nic.in
+Renewable Energy,PM Surya Ghar: Muft Bijli Yojana,https://pmsuryaghar.gov.in/
+Renewable Energy,PM-KUSUM,https://pmkusum.mnre.gov.in/
+Renewable Energy,National Bio Energy Programme - Biogas,https://mnre.gov.in
+Renewable Energy,National Bio Energy Programme - Biomass,https://mnre.gov.in
+Renewable Energy,Grid Connected Rooftop Solar Programme Phase-II,https://solarrooftop.gov.in
+Environment & Energy,Carbon Credit Trading Scheme 2023,https://powermin.gov.in/
+Electronics & IT (PLI),PLI Scheme for IT Hardware 2.0,https://pliithw.com/
+Textiles (PLI),PLI Scheme for Textiles,https://pli.texmin.gov.in/
+Steel & Heavy Industries (PLI),PLI Scheme for Specialty Steel,https://plimos.mecon.co.in/
+Pharmaceuticals (PLI),PLI Scheme for Pharmaceuticals,https://pharma-dept.gov.in/schemes
+Pharmaceuticals (PLI),PLI for Domestic Manufacturing of KSMs/APIs,https://pharma-dept.gov.in/schemes
+Pharmaceuticals (PLI),PLI for Medical Devices,https://pharma-dept.gov.in/schemes
+Food Processing (PLI),PLISFPI,https://www.mofpi.gov.in
+Pharmaceuticals,Scheme for Strengthening of Pharmaceuticals Industry (SPI),https://pharma-dept.gov.in/schemes
+Pharmaceuticals,PRIP Scheme,https://pharma-dept.gov.in/schemes
+Healthcare & Insurance,Ayushman Bharat PM-JAY,https://nha.gov.in/
+Healthcare & Social Welfare,National Action Plan for Drug Demand Reduction,https://grants-msje.gov.in
+Housing,PM Awaas Yojana - Urban (PMAY-U),https://pmay-urban.gov.in/
+Housing,PM Gramin Awas Yojana (PMAY-G),https://pmayg.nic.in/
+Earth Sciences,Mission Mausam,https://mausam.imd.gov.in/
+Earth Sciences,Deep Ocean Mission,https://www.moes.gov.in/schemes/dom
+Tribal Welfare,PM-JANMAN,https://tribal.nic.in/PM-JANMAN.aspx
+Culture,Gyan Bharatam Mission,https://gyanbharatam.com/
+Civil Aviation,Modified UDAN Scheme,https://www.aai.aero/en/rcs-udan
+Research & Development,Anusandhan National Research Foundation (ANRF),https://anrfonline.in/

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-68",
+  "scheme_name": "Atal Vayo Abhyuday Yojana (AVYAY)",
+  "scheme_url": "https://grants-msje.gov.in",
+  "ministry_or_category": "Social Justice & Empowerment",
+  "overview": "Atal Vayo Abhyuday Yojana (AVYAY) is a centrally sponsored scheme under the Ministry of Social Justice and Empowerment aimed at supporting senior citizens through various sub-schemes including the Integrated Programme for Senior Citizens (IPSrC), which provides financial assistance to NGOs for setting up and running Senior Citizen Homes and Continuous Care Homes. The scheme focuses on improving the quality of life of elderly persons, especially in underserved areas, by supporting residential care, healthcare, and recreational facilities. AVYAY also includes components like the National Action Plan for Senior Citizens (NAPSrC) and supports projects in Gap districts across India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "senior citizens",
+    "NGOs",
+    "Trusts",
+    "Charitable institutions"
+  ],
+  "geographic_scope": "Pan-India (with focus on Gap districts)",
+  "objectives": [
+    "To improve the quality of life of senior citizens by providing basic amenities like shelter, food, medical care and entertainment opportunities",
+    "To support NGOs in establishing and maintaining Senior Citizen Homes and Continuous Care Homes",
+    "To promote productive ageing through capacity building and skill development of senior citizens",
+    "To provide care and protection to vulnerable elderly persons, including those suffering from Alzheimer's and dementia",
+    "To encourage voluntary action for the welfare of senior citizens",
+    "To strengthen the outreach and effectiveness of senior citizen welfare programs through Regional Resource and Training Centres (RRTCs)"
+  ],
+  "eligibility": "The Organisation / Implementing agency should have been registered for at least two years, and should have had at least two years' experience in the social sector at the time of applying for grant under the scheme. Applicant organisations must apply through the e-Anudaan portal only (https://grants-msje.gov.in/ngo-login). For IPSrC projects in Gap districts, organisations must verify with District Administration whether the proposed district is a GAP district.",
+  "benefits": "Financial assistance in the form of Grant-in-Aid for setting up and running Senior Citizen Homes (SrCH-25, SrCH-50) and Continuous Care Homes (CCH) for Alzheimer's/Dementia patients. Support includes funding for infrastructure, staffing, operational costs, and program implementation. RRTCs receive funding for infrastructure, training facilities, outreach, stakeholder management, and financial sustainability to support senior citizen programs across states.",
+  "financial_support": "Financial assistance is provided as Grant-in-Aid through the e-Anudaan portal. The quantum and conditions of assistance are detailed in the AVYAY scheme guidelines. Cost norms for projects are specified on pages 45 to 47 of the Scheme Guideline. Assistance covers both recurring and non-recurring expenses for setting up and running senior citizen care facilities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the e-Anudaan portal at https://grants-msje.gov.in/ngo-login 2. Ensure NGO is registered for at least two years with two years' experience in the social sector 3. Verify if the district is a GAP district (for IPSrC projects) with District Administration 4. Login to the portal and submit the online application 5. Upload required documents including NGO Unique ID, PAN, and project details 6. Submit application before the deadline 7. Await verification, inspection, scrutiny, recommendation, financial approval, and GIA sanction through the portal workflow",
+  "application_portal_url": "https://grants-msje.gov.in/ngo-login",
+  "required_documents": [
+    "NGO Unique ID from NGO-DARPAN portal",
+    "PAN of the organisation",
+    "Certificate of Registration",
+    "Project proposal as per prescribed proforma",
+    "Details of infrastructure and facilities",
+    "Bank account details",
+    "Audit reports of previous years",
+    "UDID number or UDID enrollment ID with disability certificate (if applicable under related schemes)"
+  ],
+  "deadlines": "Applications for new projects under IPSrC/AVYAY for 2024-25 were accepted from 01st July 2024 till 15th August, 2024 (as per notice dated 01st July, 2024). Deadlines vary by sub-scheme and year; applicants must check current notices on the portal.",
+  "implementing_agency": "Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, Government of India",
+  "contact_details": "Email: bharati.gusain@nic.in",
+  "caveats": [
+    "Applications must be submitted exclusively through the e-Anudaan portal; no other means of application shall be entertained",
+    "For IPSrC projects in Gap districts, organisations must confirm GAP status with District Administration before applying",
+    "The Ministry reserves the right to cancel the notice or invite fresh proposals without liability or obligation",
+    "No grants will be released without UDID number/UDID enrollment number with Disability Certificate for DDRS scheme (applicable where relevant)",
+    "NGOs must register first at NGO-DARPAN portal (https://ngodarpan.gov.in) before registering on e-Anudaan"
+  ],
+  "source_cited_notes": [
+    "https://grants-msje.gov.in/",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/14471719837115.pdf",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/33281719834645.pdf",
+    "https://socialjustice.gov.in/writereaddata/UploadFile/85831719577891.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:19:44.806129+00:00"
+}

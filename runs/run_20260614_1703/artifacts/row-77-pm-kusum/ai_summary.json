@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-77",
+  "scheme_name": "PM-KUSUM",
+  "scheme_url": "https://pmkusum.mnre.gov.in/",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "Pradhan Mantri Kisan Urja Suraksha evam Utthan Mahabhiyan (PM-KUSUM) is a Government of India scheme aimed at de-dieselising the farm sector and enhancing farmers' income by promoting solar energy. It provides central government subsidy for installation of standalone solar pumps, solarization of grid-connected agricultural pumps, and installation of grid-connected solar power plants up to 2MW on barren/fallow land. Farmers can sell electricity generated to local DISCOM at tariffs determined by state regulators. The scheme is implemented by designated departments of State Governments.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "De-dieselisation of the farm sector",
+    "Enhancing income of farmers",
+    "Promoting installation of standalone solar pumps",
+    "Promoting solarization of existing grid-connected agricultural pumps",
+    "Enabling installation of grid-connected solar power plants up to 2MW on barren/fallow land",
+    "Facilitating sale of solar power to local DISCOM at state-determined tariffs"
+  ],
+  "eligibility": "Farmers seeking to install standalone solar pumps, solarize existing grid-connected agricultural pumps, or install grid-connected solar power plants up to 2MW on their barren/fallow land are eligible under the scheme, as implemented by designated departments of State Governments.",
+  "benefits": "Central government subsidy up to 30% or 50% of total cost for installation of standalone solar pumps and solarization of grid-connected agricultural pumps; opportunity to install grid-connected solar power plants up to 2MW on barren/fallow land and sell electricity to local DISCOM at tariff determined by state regulator; enhanced income for farmers; reduction in diesel dependence in agriculture.",
+  "financial_support": "Under the Scheme, central government subsidy upto 30% or 50% of the total cost is given for the installation of standalone solar pumps and also for the solarization of existing grid-connected agricultural pumps. Further, farmers can also install grid-connected solar power plants up to 2MW under the Scheme on their barren/fallow land and sell electricity to local DISCOM at a tariff determined by state regulator.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official PM-KUSUM portal or MNRE website for information. 2. Beware of fraudulent websites and mobile applications impersonating PM-KUSUM. 3. Apply through designated departments of the State Government. 4. Submit required documents as per state-level guidelines. 5. Await approval and installation of solar pumps or power plants. 6. For grid-connected systems, sell electricity to local DISCOM at state-determined tariff.",
+  "application_portal_url": "https://pmkusum.mnre.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Designated departments of the State Government",
+  "contact_details": "Email: Not explicitly provided | Helpline: 1800-180-3333",
+  "caveats": [
+    "Beware of fraudulent websites and mobile applications impersonating PM-KUSUM, some registered with domain names *.org, *.in, *.com such as www.kusumyojanaonline.in.net, www.pmkisankusumyojana.co.in, www.onlinekusamyojana.org.in, www.pmkisankusumyojana.com",
+    "Do not make any payments to fraudulent websites",
+    "Scheme is implemented by State Government departments; applicants must approach designated state-level authorities"
+  ],
+  "source_cited_notes": [
+    "https://pmkusum.mnre.gov.in/",
+    "https://pmkusum.mnre.gov.in/mobile-app"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:23:58.863393+00:00"
+}

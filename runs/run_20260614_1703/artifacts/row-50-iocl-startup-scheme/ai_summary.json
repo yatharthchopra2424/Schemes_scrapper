@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-50",
+  "scheme_name": "IOCL Startup Scheme",
+  "scheme_url": "https://iocl.com",
+  "ministry_or_category": "PSU Support",
+  "overview": "The IOCL Startup Scheme is a PSU Support initiative by Indian Oil Corporation Limited (IOCL) aimed at fostering innovation and supporting startups in the energy and allied sectors. The scheme provides a platform for startups to collaborate with IOCL on technology development, pilot projects, and commercialization of innovative solutions. It focuses on areas such as green energy, sustainable fuels, digital transformation, and operational efficiency. Startups are encouraged to engage with IOCL through defined channels for potential partnerships, funding, and market access.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To identify and nurture innovative startups in the energy and allied sectors",
+    "To collaborate with startups on pilot projects and technology validation",
+    "To support the development of sustainable and green energy solutions",
+    "To enhance operational efficiency through digital and technological innovation",
+    "To provide startups with access to IOCL’s infrastructure, expertise, and market reach",
+    "To promote Atmanirbhar Bharat by encouraging indigenous innovation",
+    "To create a pipeline of scalable solutions for integration into IOCL’s value chain"
+  ],
+  "eligibility": "Startups must be registered entities under the Companies Act, 2013, LLP Act, 2008, or as a partnership firm. They should be working on innovative products, services, or processes in domains such as renewable energy, green hydrogen, biofuels, carbon capture, AI/ML for energy optimization, or sustainable mobility. Preference is given to startups with a working prototype or minimum viable product (MVP). The startup should not be more than 10 years old from the date of incorporation.",
+  "benefits": "Selected startups gain access to IOCL’s technical expertise, testing facilities, and pilot plant infrastructure. Opportunities for proof-of-concept (PoC) development, joint development projects, and potential commercialization or procurement of solutions. Startups may receive mentorship from IOCL’s R&D and business teams, visibility through IOCL’s platforms, and support in scaling solutions. Financial support may be extended based on project milestones and mutual agreement.",
+  "financial_support": "Financial support under the IOCL Startup Scheme is provided on a case-to-case basis, typically as grant funding, seed investment, or milestone-based disbursements for joint development projects. The quantum of support depends on the scope, technology readiness level, and commercial potential of the proposed solution. IOCL may also facilitate access to other funding mechanisms or connect startups with investors. Exact financial terms are negotiated post-selection based on the project proposal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official IOCL website and navigate to the Startup Scheme section. 2. Review the eligibility criteria and focus areas. 3. Prepare a detailed proposal including problem statement, solution, technology readiness, team details, and potential impact. 4. Submit the application via the designated online portal or email address as specified. 5. Applications are screened by IOCL’s innovation and R&D team. 6. Shortlisted startups are invited for presentations or discussions. 7. Final selection is made based on innovation, feasibility, and alignment with IOCL’s strategic goals. 8. Selected startups enter into a memorandum of understanding (MoU) or project agreement with IOCL.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Audited financial statements (if available)",
+    "Detailed project proposal",
+    "Proof of concept or prototype details (if any)",
+    "Team resumes and background",
+    "Intellectual property details (if applicable)",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Indian Oil Corporation Limited (IOCL)",
+  "contact_details": "",
+  "caveats": [
+    "Selection does not guarantee funding or commercialization",
+    "IOCL retains intellectual property rights as per negotiated agreements",
+    "Startups must comply with IOCL’s safety, security, and confidentiality protocols",
+    "Projects are subject to technical feasibility and strategic fit review",
+    "No assurance of long-term engagement beyond the initial project phase"
+  ],
+  "source_cited_notes": [
+    "https://iocl.com",
+    "https://iocl.com/about-indianoil",
+    "https://iocl.com/our-vision-with-values",
+    "https://iocl.com/pages/our-business-overview"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:11:29.664148+00:00"
+}

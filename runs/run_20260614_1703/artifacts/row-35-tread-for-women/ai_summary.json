@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-35",
+  "scheme_name": "TREAD for Women",
+  "scheme_url": "https://msme.gov.in/tread",
+  "ministry_or_category": "MSME",
+  "overview": "TREAD for Women is a scheme aimed at empowering women entrepreneurs by providing financial assistance, training, and support for setting up and expanding their enterprises. It focuses on promoting entrepreneurship among women, enhancing their skills, and facilitating access to credit and market linkages. The scheme is implemented through various channels including NGOs and government bodies to ensure reach and effectiveness.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote entrepreneurship among women",
+    "To provide financial assistance for setting up and expanding women-led enterprises",
+    "To enhance skills and capabilities of women entrepreneurs through training",
+    "To facilitate access to credit and market linkages",
+    "To support women in non-farm sectors",
+    "To encourage innovation and technology adoption by women entrepreneurs"
+  ],
+  "eligibility": "Women entrepreneurs above 18 years of age, engaged in or planning to set up micro and small enterprises in the non-farm sector, with preference given to those from SC/ST, OBC, minority, and differently abled communities.",
+  "benefits": "Financial assistance in the form of grant up to 30% of project cost (maximum Rs. 10 lakhs), training and skill development support, market linkage assistance, and handholding for enterprise setup and expansion.",
+  "financial_support": "The scheme provides a grant of up to 30% of the project cost, with a maximum ceiling of Rs. 10 lakhs per enterprise. The remaining 70% of the project cost is to be borne by the beneficiary or arranged through other means such as loans from financial institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs",
+  "application_process": "1. Identify a viable business idea and prepare a project report. 2. Approach the designated implementing agency (such as KVIC, Coir Board, or MSME-DFO). 3. Submit the application form along with project report and required documents. 4. Undergo evaluation and screening by the agency. 5. Upon approval, receive sanction letter and disbursement of grant in installments. 6. Utilize funds for setting up/expanding the enterprise as per the approved project plan. 7. Submit utilization reports and progress updates as required.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project report",
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Address proof",
+    "Bank account details",
+    "Educational qualification certificates (if applicable)",
+    "Caste certificate (for SC/ST/OBC beneficiaries)",
+    "Disability certificate (if applicable)",
+    "Quotations for machinery and equipment",
+    "Land/building ownership or lease documents",
+    "No objection certificate from pollution control board (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Grant is disbursed in installments based on project progress and utilization",
+    "Beneficiary must contribute at least 70% of the project cost from own sources or loan",
+    "Scheme is applicable only for non-farm sector activities",
+    "Preference is given to women from SC/ST, OBC, minority, and differently abled communities",
+    "Grant cannot be used for land acquisition or working capital"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/tread"
+  ],
+  "last_updated_date": "",
+  "confidence": "low",
+  "analysis_timestamp": "2026-06-14T12:04:16.219686+00:00"
+}

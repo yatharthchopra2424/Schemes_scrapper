@@ -1,0 +1,1336 @@
+<html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths js flexbox canvas canvastext webgl no-touch geolocation postmessage no-websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers no-applicationcache svg inlinesvg smil svgclippaths" style=""><!--
+<![endif]--><head>
+    <script type="text/javascript">  
+  		var token_key = "SERB_TOKEN_KEY";
+             window.history.forward();
+             function noBack() { 
+                  window.history.forward(); 
+             }
+        </script>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>
+      The Electronic Project Proposal Management System, For ANRF
+    </title>
+					  
+    <link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/jquery-ui.css">
+	<link type="text/css" rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/font-awesome.min.css">
+    <link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/chosen.css"><!--css for select box  -->
+   
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/libs/modernizr-2.6.2.min.js">
+    </script>
+    <script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery-3.7.1.min.js"></script>
+    <script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/plugins/jquery-responsiveText.js">
+    </script>
+     <script src="/ANRF/resources/app_srv/serb/gl/jssrc/ValidationFunctions.js"></script>
+     <script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery-ui-1.13.3.min.js"></script>
+
+  <!--Modernizr is a JavaScript library that detects HTML5 and CSS3 features in the user�s browser. -->
+  <script type="text/javascript">
+    // extend Modernizr to have datauri test
+    (function(){
+      var datauri = new Image();
+      datauri.onerror = function() {
+        Modernizr.addTest('datauri', function () {
+          return false;
+        }
+                         );
+      }
+        ;
+      datauri.onload = function() {
+        Modernizr.addTest('datauri', function () {
+          return (datauri.width == 1 && datauri.height == 1);
+        }
+                         );
+        Modernizr.load({
+          test: Modernizr.datauri,
+          nope: '/ANRF/resources/app_srv/serb/gl/theme/no-datauri.css'
+        }
+                      );
+      }
+        ;
+      datauri.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+    }
+    )();
+    // fallback if SVG unsupported
+    Modernizr.load({
+      test: Modernizr.inlinesvg,
+      nope: [
+        '/ANRF/resources/app_srv/serb/gl/theme/no-svg.css'
+      ]
+    }
+                  );
+    // polyfill for HTML5 placeholders
+    Modernizr.load({
+      test: Modernizr.input.placeholder,
+      nope: [
+        '/ANRF/resources/app_srv/serb/gl/theme/placeholder_polyfill.css',
+        '/ANRF/resources/app_srv/serb/gl/jssrc/libs/placeholder_polyfill.jquery.js'
+      ]
+    }
+                  );
+    
+  </script>
+																							  
+    <script>
+    $(document).ready(function() {
+        /*  $("#strDob").datepicker();  */
+						 
+        $("[name='btn1']").change(function (e) {
+            var array = $(this).val().split(",");
+
+            $("#s1").empty();
+
+            $.each(array, function (index, value) {
+                $("<option />").appendTo("#s1").text(value).val(value);
+            });
+        });
+    });
+
+    </script>
+    
+    <!-- end of date time picker script-->
+    
+																												
+       <script>
+       $(window).on('load', function(){
+          $(function () {
+                    $('#Submit').click(function () {
+                        //  var result = $( "#keywords" ).empty();     //Variable to store the Process Names
+                          var n = $("#keywordSelect option:selected").map(function(){return $(this).val() }).get().join(",");
+                               
+                          var keyids =  n;
+                         // alert(keyids);
+                          $("#keywords").val(keyids);
+                          //alert($("#keywords").val());
+                        // callkey(n);			
+					 
+                          
+                    });
+                    
+          });
+  });  
+       </script>
+ 
+</head>
+<body onload="setonload()">
+<div class="whole">
+
+</div>
+
+<section class="whole">
+
+	  
+	
+	
+<!-- added by Parmita -->
+ 
+ 
+ 
+  
+<!-- end -->
+
+
+
+
+
+
+
+
+
+
+
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>User Registration</title>
+
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+<meta name="viewport" content="width=device-width, initial-scale=0.5">
+<title>The Electronic Project Proposal Management System, For ANRF</title>
+
+
+<link rel="apple-touch-icon" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-precomposed.png">
+<link rel="apple-touch-icon" sizes="57x57" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-57x57-precomposed.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-72x72-precomposed.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-114x114-precomposed.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+<meta name="msapplication-TileImage" content="/ANRF/resources/app_srv/serb/gl/images/apple-icons/apple-touch-icon-144x144-precomposed.png">
+<meta name="msapplication-TileColor" content="#ffffff">
+<link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/chosen.css"><!--css for select box  -->
+	
+<!-- for ios style switch -->
+	<link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/switchery.css">         
+	<!-- <link rel="stylesheet" href="dist/switchery.css" /> -->
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/switchery.js"></script>
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/mycaptcha.js" type="text/javascript"></script>
+
+<!-- Modernizr -->
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/libs/modernizr-2.6.2.min.js"></script>
+
+<!-- jQuery -->
+	<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/jquery-3.7.1.min.js"></script>
+	<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/plugins/jquery-responsiveText.js"></script>
+<!-- This js is included for reponsive text-->
+
+	<link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/jquery-labelauty.css" type="text/css" media="screen" charset="utf-8">         
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/jquery-labelauty.js"></script>
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/bootstrap.min.css" rel="stylesheet">
+	<link href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/animate.css" rel="stylesheet">
+	<link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/pickadate/default.css" id="theme_base">
+	<link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/pickadate/default.date.css" id="theme_date">
+    <link rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/pickadate/default.time.css" id="theme_time"> 
+    <link rel="stylesheet" type="text/css" href="/ANRF/resources/app_srv/serb/gl/theme/validateBox.css"> 
+	<link type="text/css" rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/homepage_new/css/registration.css">
+	<script src="/ANRF/resources/app_srv/serb/gl/homepage_new/js/bootstrap.bundle.min.js"></script>
+	
+<link type="text/css" rel="stylesheet" href="/ANRF/resources/app_srv/serb/gl/theme/font-awesome-ie7.min.css">
+
+<style>
+
+.chzn-container-single .chzn-single {
+    height: 37px;
+    line-height: 37px;
+}
+
+.chzn-container-single .chzn-single div b{
+	margin-top: 5px;
+}
+div#globalError {
+    padding: 0;
+    margin: 0 10px 5px 10px;
+    background: none;
+    border: none;
+}
+input#Submit, .reset_btn, .back_btn {
+    background: #125a65;
+    color: white;
+}
+
+</style>
+<style>
+.fa-inverse {
+    color: #fff;
+}
+.fa-stack-1x {
+    line-height: inherit;
+}
+fa-stack-1x, .fa-stack-2x {
+    position: absolute;
+    left: 0;
+    width: 100%;
+    text-align: center;
+}
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+.picker__select--month, .picker__select--year{
+	padding: 0;
+}
+</style>
+
+<style>
+.password-verdict {
+	color: #000;
+}
+.pad_19{
+padding-left: 19%;
+}
+
+.progress-bar-success {
+  background-color: #5cb85c;
+}
+.progress-striped .progress-bar-success {
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+.progress-bar-info {
+  background-color: #5bc0de;
+}
+.progress-striped .progress-bar-info {
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+.progress-bar-warning {
+  background-color: #f0ad4e;
+}
+.progress-striped .progress-bar-warning {
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+.progress-bar-danger {
+  background-color: #d9534f;
+}
+.progress-striped .progress-bar-danger {
+  background-image: -webkit-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:      -o-linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+  background-image:         linear-gradient(45deg, rgba(255, 255, 255, .15) 25%, transparent 25%, transparent 50%, rgba(255, 255, 255, .15) 50%, rgba(255, 255, 255, .15) 75%, transparent 75%, transparent);
+}
+
+</style>
+
+<script type="text/javascript">
+	// extend Modernizr to have datauri test
+	(function() {
+		var datauri = new Image();
+		datauri.onerror = function() {
+			Modernizr.addTest('datauri', function() {
+				return false;
+			});
+		};
+		datauri.onload = function() {
+			Modernizr.addTest('datauri', function() {
+				return (datauri.width == 1 && datauri.height == 1);
+			});
+			Modernizr.load({
+				test : Modernizr.datauri,
+				nope : '/ANRF/resources/app_srv/serb/gl/theme/no-datauri.css'
+			});
+		};
+		datauri.src = "data:image/gif;base64,R0lGODlhAQABAIAAAAAAAP///ywAAAAAAQABAAACAUwAOw==";
+	})();
+	// fallback if SVG unsupported
+	Modernizr.load({
+		test : Modernizr.inlinesvg,
+		nope : [ '/ANRF/resources/app_srv/serb/gl/theme/no-svg.css' ]
+	});
+	// polyfill for HTML5 placeholders
+	Modernizr
+			.load({
+				test : Modernizr.input.placeholder,
+				nope : [
+						'/ANRF/resources/app_srv/serb/gl/theme/placeholder_polyfill.css',
+						'/ANRF/resources/app_srv/serb/gl/jssrc/libs/placeholder_polyfill.jquery.js' ]
+			});
+</script>
+<script src="/ANRF/resources/app_srv/serb/gl/jssrc/jquery.easyui.js"></script>
+<script src="/ANRF/resources/app_srv/serb/gl/jssrc/libs/sha256.js"></script>
+
+
+<style>
+.text-orange-font{
+	color:#f19205; 
+	font-size:15px;
+}
+</style>
+
+<!-- js for pickadate -->
+
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/pickadate/picker-3.6.4.js"></script>
+    <script src="/ANRF/resources/app_srv/serb/gl/jssrc/pickadate/picker.date-3.6.4.js"></script>
+    <script src="/ANRF/resources/app_srv/serb/gl/jssrc/pickadate/picker.time-3.6.4.js"></script>
+    <script src="/ANRF/resources/app_srv/serb/gl/jssrc/pickadate/legacy-3.6.4.js"></script>
+  <!--   <script src="/ANRF/resources/app_srv/serb/gl/jssrc/pickadate/main.js"></script>  -->
+
+<!-- script added for main menu  -->
+
+<script>
+	/* $(document).ready(function() {
+		
+		
+		$("main-menu").css("box-sizing", "content-box !important");
+		$(".checkBoxStyle").labelauty({ label: false });
+		$(".radiostyle").labelauty();
+				
+	}); */
+</script>
+
+<!-- SmartMenus core CSS (required) -->
+<link href="/ANRF/resources/app_srv/serb/gl/theme/sm-core-css.css" rel="stylesheet" type="text/css">
+
+<!-- "sm-blue" menu theme (optional, you can use your own CSS, too) -->
+<link href="/ANRF/resources/app_srv/serb/gl/theme/sm-blue.css" rel="stylesheet" type="text/css">
+
+<!-- #main-menu config - instance specific stuff not covered in the theme -->
+<style type="text/css">
+#main-menu {
+	position: relative;
+	top: 0;
+	left: 0;
+	z-index: 9999;
+	width: auto;
+}
+
+#main-menu ul {
+	width: 12em;
+	/* fixed width only please - you can use the "subMenusMinWidth"/"subMenusMaxWidth" script options to override this if you like */
+}
+</style>
+
+<!--end of script for main menu  -->
+
+
+
+
+
+<script>
+
+function setonload(){	 
+	  $('#existuserid').hide();
+}
+
+function setBlankValues()
+{
+	$('#numMobileNo').val("");
+	}
+function checkExistUser(){
+
+	//alert("inside check exist user");
+	
+	var selectVal=$('#strUsername').val(); 
+    var rolecode=$('#strRoleCode').val(); 
+    
+	//alert("before");
+	
+	
+	if(selectVal!="" && selectVal!=null){		
+	  	$.ajax(
+		        {	        	
+			        type: "POST",
+			        url: "/ANRF/CheckExistUser",
+			        data: {"username":selectVal,"rolecode":rolecode},
+			        success: function(response){   	
+			        	$('#existuserid').text("");
+			        	if(response.documents_list=="YES"){
+			        		$('#existuserid').show();
+ 	        				$('#existuserid').append("<b><span class = red >You are already registered  as "+response.role_name+" . <span class='responsive metro-navig-block button-tooltip asphalt'role='tooltip' data-title='This will redirect you to the Home Page'><a href='/ANRF/HomePage' target='new' > Click here  </a> </span>to login .In case of Forgot Password  <span class='responsive metro-navig-block button-tooltip asphalt'role='tooltip' data-title='This will send a password reset link to your registered email id'> <a href=javascript:pswd();> click here</a></span> to  retrieve password </span> </b>");
+ 	        						
+			        		flag=false;
+			        	}
+			        	else if(response.documents_list=="YESBLOCKED"){
+			        		$('#existuserid').show();
+			        		$('#existuserid').append("<label style='color:red;'>Blocked User Name. Please Contact to Administrator </label>");
+			        		flag=false;
+			        	}
+			        	else if(response.documents_list=="YESOTHER"){
+			        		$('#existuserid').show();
+			        		$('#existuserid').append("<b><span class =red >You are already registered with another role "+response.role_name+" . <span class='responsive metro-navig-block button-tooltip asphalt'role='tooltip' data-title='This will redirect you to the Home Page'><a href='/ANRF/HomePage' target='new'> Click here </a></span> to login . In case of Forgot Password <span class='responsive metro-navig-block button-tooltip asphalt'role='tooltip' data-title='This will send a password reset link to your registered email id'><a href=javascript:pswd(); > click here </a></span> to retrieve password </span></b>");
+			        		flag=false;
+			        	}
+			        	else if(response.documents_list=="InvalidDomain"){
+			        		$('#existuserid').show();
+ 	        				$('#existuserid').append("<b><span class = red >This domain is not allowed.</b>");
+ 	        				flag=false;
+			        	}
+			        	else{
+
+			        		$('#existuserid').hide();
+			        		
+			        	}		        	
+			        },
+			        			        
+			        error: function(e){
+			        	alert('Error: ' + e);
+		        	}
+		        
+		        });  	
+		}
+	else {
+		$('#existuserid').text("");
+		$('#existuserid').hide();
+	}  
+}
+</script>
+
+<script type="text/javascript">
+
+function pswd(){
+//alert("in pwd");
+	
+	var email=$('#strUsername').val();
+	
+
+	$.ajax({
+	type: "POST",
+	url: "/ANRF/GetEmailId",
+	data: {"strUsername": email},
+	success: function(response) {	
+	var r = response+"";	
+		 if(r=="false"){
+		 alert("Email Id is not registered");
+	 }else{	
+		fun2(email);
+	}		
+}
+
+});
+}
+function fun2(email){
+
+		$.ajax({
+					type:"POST",
+					url:"/ANRF/EmailSendTest",
+					data:{"strUsername":email},
+					success:function(res){
+					var value = $.trim(res)+"";					
+					if(value=="true"){		
+						$("#userinfo-msg").show();
+						$("#userinfo-msg").html("Password reset link has been sent to your registered Email Id");						
+						$('#userinfo-msg').delay(3000).fadeOut();
+					}					
+					},
+
+					 error: function(e){
+				        	alert('Error: ' + e);
+					 }
+			});	
+	}
+	
+</script>
+
+
+
+<header>
+    	<div class="">
+    	  <h4 class="header-content text-center">
+    	    <a href="#" title="Anusandhan National Research Foundation">
+    	      <span class="hindi">अनुसंधान नेशनल रिसर्च फाउंडेशन</span><br>
+     	     <span class="english">Anusandhan National Research Foundation</span>
+     	   </a>
+     	 </h4>
+    	</div>
+ 	 </header>
+ 	 
+
+	<form id="frm" name="frm" action="Registration" method="post">
+
+
+ <div id="userinfo-msg" class="msg msgbg centered" style="display:none"></div>
+
+		         
+	<div class="pt-5">
+    <div class="row d-flex justify-content-center align-items-center">
+        <div class="col-lg-10 col-xl-10">
+            <div class="card-wrapper">
+                <div class="card">
+                    <div class="card-heading">
+                        <div class="row">
+                            <div class="col-lg-3"><img class="user-img" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/reg-images/reg-image.png" alt="Sample photo"></div>
+                            <div class="col-lg-9">
+                                <h5 class="animate__animated animate__slideInRight text-center">Registration Form</h5>
+                            </div>
+                        </div>
+                    </div>
+
+                    <div class="card-body p-4 p-md-5">
+                        <div class="row px-md-2">
+                            <!-- row starts here-->
+                            <input id="strRoleCode" name="strRoleCode" type="hidden" value="PI">
+                            <div align="right" class="mb-3">
+                                <span class="red">
+                                    <font size="3">*</font>
+                                </span> Mandatory
+                                Fields&nbsp;&nbsp;&nbsp;
+                            </div>                          
+
+                        
+
+                        
+                        <br>
+
+                        <div class="form-outline mb-3 row">
+                            
+                                <label for="strUsername" class="col-lg-3 form-label"> User Name (Email):<span class="red">
+                                        <font size="3">*</font>
+                                    </span> </label>
+                         
+                            <div class="col-lg-9">
+                                <input id="strUsername" name="strUsername" placeholder="E-Mail ID" class="form-control w-100 validatebox-text" onblur="checkExistUser()" type="text" value="" maxlength="50" autocomplete="off">
+                            </div>
+                        </div>
+
+                        <div id="existuserid" class="my-3" style="display: none;">
+                        </div>
+
+
+                        <!-- end of first row-->
+
+                        <div class="form-outline mb-3 row">
+                            <!-- second row starts here-->
+                        
+                                <label for="strPassword" class="form-label col-lg-3"> Password:<span class="red">
+                                        <font size="3">*</font>
+                                    </span> </label>
+                            
+                            <div class="col-lg-9">
+                                <input id="strPassword" name="strPassword" placeholder="Password" class="form-control w-100 validatebox-text" type="password" value="" maxlength="20" autocomplete="off"><div class="progress"><div class="progress-bar"><span class="password-verdict"></span></div></div><ul class="error-list"></ul>
+                                <input id="strHashPassword" name="strHashPassword" maxlength="20" placeholder="Password" type="hidden" value="">
+                                <input id="base64pass" name="base64pass" maxlength="20" placeholder="Password" type="hidden" value="">
+                                <input id="enStrData" name="enStrData" placeholder="Password" type="hidden" value="">
+                            </div>
+                        </div>
+                        <!-- end of second row-->
+
+                        <div class="form-outline mb-3 row">
+                            <!-- Third row starts here-->
+                         
+                                <label for="strConfirmPassword" class="form-label col-lg-3"> Confirm Password:<span class="red">
+                                        <font size="3">*</font>
+                                    </span> </label>
+                           
+                            <div class="col-lg-9">
+                                <input id="strConfirmPassword" name="strConfirmPassword" placeholder="Confirm Password" class="form-control w-100 validatebox-text" type="password" value="" maxlength="20" autocomplete="off">
+                            </div>
+                        </div>
+                        <!-- end of third row-->
+
+                        <div id="globalError" class="alert alert-danger col-sm-12" style="display: none">error</div>
+
+                      <div class="form-outline mb-3 row">
+
+                                    <label for="strFirstName" class="form-label col-lg-3"> Name:<span class="red">
+                                            <font size="3">*</font>
+                                        </span> </label>
+
+                                <div class="col-lg-9">
+
+                                    <div class="row">
+                                    <div class="col-lg-3">
+                                        <select id="strSalutation" name="strSalutation" style="width: 90%; display: none;" class="chzn-select w-100 form-select chzn-done">
+
+                                            
+                                                <option value="Dr.">Dr.</option>
+                                                <option value="Prof.">Prof.</option>
+                                                <option value="Mr.">Mr.</option>
+                                                <option value="Ms.">Ms.</option>
+
+                                        </select><div id="strSalutation_chzn" class="chzn-container chzn-container-single" style="width: 607px;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>Dr.</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off" aria-label="Search options"></div><ul class="chzn-results" tabindex="0"><li id="strSalutation_chzn_o_0" class="active-result result-selected" style="">Dr.</li><li id="strSalutation_chzn_o_1" class="active-result" style="">Prof.</li><li id="strSalutation_chzn_o_2" class="active-result" style="">Mr.</li><li id="strSalutation_chzn_o_3" class="active-result" style="">Ms.</li></ul></div></div>
+                                   
+									</div>
+
+
+                                    <div class="col-lg-3">
+                                        <input id="strFirstName" name="strFirstName" placeholder="First Name" class="form-control w-100 validatebox-text" type="text" value="" maxlength="25">
+                                    </div>
+
+                                    <div class="pad-left col-lg-3">
+                                        <input id="strMIddleName" name="strMIddleName" placeholder="Middle Name" class="form-control w-100 validatebox-text" type="text" value="" maxlength="25">
+                                    </div>
+
+                                    <div class="pad-left col-lg-3">
+                                        <input id="strLastName" name="strLastName" placeholder="Last Name" class="form-control w-100 validatebox-text" type="text" value="" maxlength="25">
+                                    </div>
+
+           	                     </div>
+  								</div>
+                            </div>
+
+                            <div class="form-outline mb-3 row">
+
+                                    <label for="strDob" class="form-label col-lg-3"> Date of Birth:<span class="red">
+                                            <font size="3">*</font>
+                                        </span> </label>
+                                
+                                <div class="col-lg-3">
+                                   
+                                        <input id="strDtBirth" name="strDob" placeholder="dd month,yyyy" class="form-control w-100 validatebox-text picker__input" type="text" value="" maxlength="25" readonly="" aria-haspopup="true" aria-readonly="false" aria-owns="strDtBirth_root"><div class="picker" id="strDtBirth_root" aria-hidden="true"><div class="picker__holder" tabindex="-1"><div class="picker__frame"><div class="picker__wrap"><div class="picker__box"><div class="picker__header"><select class="picker__select--year" disabled="" aria-controls="strDtBirth_table" title="Select a year"><option value="1926">1926</option><option value="1927">1927</option><option value="1928">1928</option><option value="1929">1929</option><option value="1930">1930</option><option value="1931">1931</option><option value="1932">1932</option><option value="1933">1933</option><option value="1934">1934</option><option value="1935">1935</option><option value="1936">1936</option><option value="1937">1937</option><option value="1938">1938</option><option value="1939">1939</option><option value="1940">1940</option><option value="1941">1941</option><option value="1942">1942</option><option value="1943">1943</option><option value="1944">1944</option><option value="1945">1945</option><option value="1946">1946</option><option value="1947">1947</option><option value="1948">1948</option><option value="1949">1949</option><option value="1950">1950</option><option value="1951">1951</option><option value="1952">1952</option><option value="1953">1953</option><option value="1954">1954</option><option value="1955">1955</option><option value="1956">1956</option><option value="1957">1957</option><option value="1958">1958</option><option value="1959">1959</option><option value="1960">1960</option><option value="1961">1961</option><option value="1962">1962</option><option value="1963">1963</option><option value="1964">1964</option><option value="1965">1965</option><option value="1966">1966</option><option value="1967">1967</option><option value="1968">1968</option><option value="1969">1969</option><option value="1970">1970</option><option value="1971">1971</option><option value="1972">1972</option><option value="1973">1973</option><option value="1974">1974</option><option value="1975">1975</option><option value="1976">1976</option><option value="1977">1977</option><option value="1978">1978</option><option value="1979">1979</option><option value="1980">1980</option><option value="1981">1981</option><option value="1982">1982</option><option value="1983">1983</option><option value="1984">1984</option><option value="1985">1985</option><option value="1986">1986</option><option value="1987">1987</option><option value="1988">1988</option><option value="1989">1989</option><option value="1990">1990</option><option value="1991">1991</option><option value="1992">1992</option><option value="1993">1993</option><option value="1994">1994</option><option value="1995">1995</option><option value="1996">1996</option><option value="1997">1997</option><option value="1998">1998</option><option value="1999">1999</option><option value="2000">2000</option><option value="2001">2001</option><option value="2002">2002</option><option value="2003">2003</option><option value="2004">2004</option><option value="2005">2005</option><option value="2006">2006</option><option value="2007">2007</option><option value="2008">2008</option><option value="2009">2009</option><option value="2010">2010</option><option value="2011" selected="">2011</option></select><select class="picker__select--month" disabled="" aria-controls="strDtBirth_table" title="Select a month"><option value="0">January</option><option value="1">February</option><option value="2">March</option><option value="3">April</option><option value="4">May</option><option value="5" selected="">June</option><option value="6" disabled="">July</option><option value="7" disabled="">August</option><option value="8" disabled="">September</option><option value="9" disabled="">October</option><option value="10" disabled="">November</option><option value="11" disabled="">December</option></select><div class="picker__nav--prev" data-nav="-1" tabindex="0" role="button" aria-controls="strDtBirth_table" title="Previous month"> </div><div class="picker__nav--next picker__nav--disabled" data-nav="1" tabindex="0" role="button" aria-controls="strDtBirth_table" title="Next month"> </div></div><table class="picker__table" id="strDtBirth_table" role="grid" aria-controls="strDtBirth" aria-readonly="true"><thead><tr><th class="picker__weekday" scope="col" title="Sunday">Sun</th><th class="picker__weekday" scope="col" title="Monday">Mon</th><th class="picker__weekday" scope="col" title="Tuesday">Tue</th><th class="picker__weekday" scope="col" title="Wednesday">Wed</th><th class="picker__weekday" scope="col" title="Thursday">Thu</th><th class="picker__weekday" scope="col" title="Friday">Fri</th><th class="picker__weekday" scope="col" title="Saturday">Sat</th></tr></thead><tbody><tr><td><div class="picker__day picker__day--outfocus" data-pick="1306607400000" id="strDtBirth_1306607400000" tabindex="0" role="gridcell" aria-label="29 May, 2011">29</div></td><td><div class="picker__day picker__day--outfocus" data-pick="1306693800000" id="strDtBirth_1306693800000" tabindex="0" role="gridcell" aria-label="30 May, 2011">30</div></td><td><div class="picker__day picker__day--outfocus" data-pick="1306780200000" id="strDtBirth_1306780200000" tabindex="0" role="gridcell" aria-label="31 May, 2011">31</div></td><td><div class="picker__day picker__day--infocus" data-pick="1306866600000" id="strDtBirth_1306866600000" tabindex="0" role="gridcell" aria-label="1 June, 2011">1</div></td><td><div class="picker__day picker__day--infocus" data-pick="1306953000000" id="strDtBirth_1306953000000" tabindex="0" role="gridcell" aria-label="2 June, 2011">2</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307039400000" id="strDtBirth_1307039400000" tabindex="0" role="gridcell" aria-label="3 June, 2011">3</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307125800000" id="strDtBirth_1307125800000" tabindex="0" role="gridcell" aria-label="4 June, 2011">4</div></td></tr><tr><td><div class="picker__day picker__day--infocus" data-pick="1307212200000" id="strDtBirth_1307212200000" tabindex="0" role="gridcell" aria-label="5 June, 2011">5</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307298600000" id="strDtBirth_1307298600000" tabindex="0" role="gridcell" aria-label="6 June, 2011">6</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307385000000" id="strDtBirth_1307385000000" tabindex="0" role="gridcell" aria-label="7 June, 2011">7</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307471400000" id="strDtBirth_1307471400000" tabindex="0" role="gridcell" aria-label="8 June, 2011">8</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307557800000" id="strDtBirth_1307557800000" tabindex="0" role="gridcell" aria-label="9 June, 2011">9</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307644200000" id="strDtBirth_1307644200000" tabindex="0" role="gridcell" aria-label="10 June, 2011">10</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307730600000" id="strDtBirth_1307730600000" tabindex="0" role="gridcell" aria-label="11 June, 2011">11</div></td></tr><tr><td><div class="picker__day picker__day--infocus" data-pick="1307817000000" id="strDtBirth_1307817000000" tabindex="0" role="gridcell" aria-label="12 June, 2011">12</div></td><td><div class="picker__day picker__day--infocus" data-pick="1307903400000" id="strDtBirth_1307903400000" tabindex="0" role="gridcell" aria-label="13 June, 2011">13</div></td><td><div class="picker__day picker__day--infocus picker__day--highlighted" data-pick="1307989800000" id="strDtBirth_1307989800000" tabindex="0" role="gridcell" aria-label="14 June, 2011" aria-activedescendant="1307989800000">14</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308076200000" id="strDtBirth_1308076200000" tabindex="0" role="gridcell" aria-label="15 June, 2011" aria-disabled="true">15</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308162600000" id="strDtBirth_1308162600000" tabindex="0" role="gridcell" aria-label="16 June, 2011" aria-disabled="true">16</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308249000000" id="strDtBirth_1308249000000" tabindex="0" role="gridcell" aria-label="17 June, 2011" aria-disabled="true">17</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308335400000" id="strDtBirth_1308335400000" tabindex="0" role="gridcell" aria-label="18 June, 2011" aria-disabled="true">18</div></td></tr><tr><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308421800000" id="strDtBirth_1308421800000" tabindex="0" role="gridcell" aria-label="19 June, 2011" aria-disabled="true">19</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308508200000" id="strDtBirth_1308508200000" tabindex="0" role="gridcell" aria-label="20 June, 2011" aria-disabled="true">20</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308594600000" id="strDtBirth_1308594600000" tabindex="0" role="gridcell" aria-label="21 June, 2011" aria-disabled="true">21</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308681000000" id="strDtBirth_1308681000000" tabindex="0" role="gridcell" aria-label="22 June, 2011" aria-disabled="true">22</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308767400000" id="strDtBirth_1308767400000" tabindex="0" role="gridcell" aria-label="23 June, 2011" aria-disabled="true">23</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308853800000" id="strDtBirth_1308853800000" tabindex="0" role="gridcell" aria-label="24 June, 2011" aria-disabled="true">24</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1308940200000" id="strDtBirth_1308940200000" tabindex="0" role="gridcell" aria-label="25 June, 2011" aria-disabled="true">25</div></td></tr><tr><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1309026600000" id="strDtBirth_1309026600000" tabindex="0" role="gridcell" aria-label="26 June, 2011" aria-disabled="true">26</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1309113000000" id="strDtBirth_1309113000000" tabindex="0" role="gridcell" aria-label="27 June, 2011" aria-disabled="true">27</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1309199400000" id="strDtBirth_1309199400000" tabindex="0" role="gridcell" aria-label="28 June, 2011" aria-disabled="true">28</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1309285800000" id="strDtBirth_1309285800000" tabindex="0" role="gridcell" aria-label="29 June, 2011" aria-disabled="true">29</div></td><td><div class="picker__day picker__day--infocus picker__day--disabled" data-pick="1309372200000" id="strDtBirth_1309372200000" tabindex="0" role="gridcell" aria-label="30 June, 2011" aria-disabled="true">30</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309458600000" id="strDtBirth_1309458600000" tabindex="0" role="gridcell" aria-label="1 July, 2011" aria-disabled="true">1</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309545000000" id="strDtBirth_1309545000000" tabindex="0" role="gridcell" aria-label="2 July, 2011" aria-disabled="true">2</div></td></tr><tr><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309631400000" id="strDtBirth_1309631400000" tabindex="0" role="gridcell" aria-label="3 July, 2011" aria-disabled="true">3</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309717800000" id="strDtBirth_1309717800000" tabindex="0" role="gridcell" aria-label="4 July, 2011" aria-disabled="true">4</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309804200000" id="strDtBirth_1309804200000" tabindex="0" role="gridcell" aria-label="5 July, 2011" aria-disabled="true">5</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309890600000" id="strDtBirth_1309890600000" tabindex="0" role="gridcell" aria-label="6 July, 2011" aria-disabled="true">6</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1309977000000" id="strDtBirth_1309977000000" tabindex="0" role="gridcell" aria-label="7 July, 2011" aria-disabled="true">7</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1310063400000" id="strDtBirth_1310063400000" tabindex="0" role="gridcell" aria-label="8 July, 2011" aria-disabled="true">8</div></td><td><div class="picker__day picker__day--outfocus picker__day--disabled" data-pick="1310149800000" id="strDtBirth_1310149800000" tabindex="0" role="gridcell" aria-label="9 July, 2011" aria-disabled="true">9</div></td></tr></tbody></table><div class="picker__footer"><button class="picker__button--today" type="button" data-pick="1781375400000" disabled="" aria-controls="strDtBirth">Today</button><button class="picker__button--clear" type="button" data-clear="1" disabled="" aria-controls="strDtBirth">Clear</button><button class="picker__button--close" type="button" data-close="true" disabled="" aria-controls="strDtBirth">Close</button></div></div></div></div></div></div>
+                                        <input id="strDob" name="strDob" type="hidden" value="">
+                                  
+                                </div>
+                                <label for="numMobileNo" class=" form-label col-lg-3"> Mobile No:<span class="red">
+                                            <font size="3">*</font>
+                                        </span> </label>
+                                      <div class="m-number col-lg-3">
+                                    <label for="numMobileNo" class="inline form-label">+</label>
+                                    <input id="numMobileNo" name="numMobileNo" title="Country code followed by 10 digits mobile no (e.g CCXXXXXXXXXX)" placeholder="91XXXXXXXXXX" class="form-control w-100 validatebox-text" type="text" value="0" maxlength="15">
+
+                                </div>
+                            </div>
+ 
+                            <div class="form-outline mb-3 row">
+                         
+                                    <label for="strGender" class="form-label col-lg-3"> Gender:<span class="red">
+                                            <font size="3">*</font>
+                                        </span></label>
+                           
+                                <div class="col-lg-3">
+
+                                        <select id="strGender" name="strGender" checked="checked" class="chzn-select w-100 form-select chzn-done" style="display: none;">
+                                            	<option value="0">Select One</option>
+                                            	<option value="M">Male</option>
+                                                <option value="F">Female</option>
+                                                <option value="T">Transgender</option>
+   										</select><div id="strGender_chzn" class="chzn-container chzn-container-single" style="width: 607px;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>Select One</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off" aria-label="Search options"></div><ul class="chzn-results" tabindex="0"><li id="strGender_chzn_o_0" class="active-result result-selected" style="">Select One</li><li id="strGender_chzn_o_1" class="active-result" style="">Male</li><li id="strGender_chzn_o_2" class="active-result" style="">Female</li><li id="strGender_chzn_o_3" class="active-result" style="">Transgender</li></ul></div></div>                              
+                                </div>
+								<label for="numCategoryId" class="form-label col-lg-3">Category:<span class="red">
+                                            <font size="3">*</font>
+                                        </span> </label>
+                                        <div class="col-lg-3">
+                                        
+                                            <select id="numCategoryId" name="numCategoryId" class="chzn-select w-100 form-select chzn-done" style="display: none;">
+                                                    <option value="0" selected="selected">Select One</option>
+                                                    <option value="5">EWS</option>
+                                                    <option value="1">GEN</option>
+                                                    <option value="2">OBC</option>
+                                                    <option value="3">SC</option>
+                                                    <option value="4">ST</option>
+
+                                            </select><div id="numCategoryId_chzn" class="chzn-container chzn-container-single" style="width: 607px;" title=""><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>Select One</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off" aria-label="Search options"></div><ul class="chzn-results" tabindex="0"><li id="numCategoryId_chzn_o_0" class="active-result result-selected" style="">Select One</li><li id="numCategoryId_chzn_o_1" class="active-result" style="">EWS</li><li id="numCategoryId_chzn_o_2" class="active-result" style="">GEN</li><li id="numCategoryId_chzn_o_3" class="active-result" style="">OBC</li><li id="numCategoryId_chzn_o_4" class="active-result" style="">SC</li><li id="numCategoryId_chzn_o_5" class="active-result" style="">ST</li></ul></div></div>
+                                        
+                                    </div>
+
+                            </div>
+
+<div class="form-outline mb-3 row">
+  <label for="numNationalityId" class="form-label col-lg-3">Nationality:<span class="red">
+      <font size="3">*</font>
+    </span>
+  </label>
+
+  <div class="col-lg-3">
+    <select id="strIsIndian" name="strIsIndian" class="form-control inline" onchange="handleNationalityChange()">
+      <option value="Indian">Indian</option>
+      <option value="Other">Other</option>
+    </select>
+    <input id="strOtherCountry" name="strOtherCountry" style="display:none" placeholder="Other Nationality" class="form-control mt-2 validatebox-text" type="text" value="">
+  </div>
+  <div class="col-lg-3">
+    <label for="strIsdisabled" class="inline">Is differently abled</label>
+    </div> 
+     <div class="col-lg-3">
+    <select id="strIsdisabled" name="strIsdisabled" class="form-control inline">
+      <option value="N">No</option>
+      <option value="Y">Yes</option>
+    </select>
+ </div>
+</div>
+
+                            <div class="form-outline mb-3 row">
+                                <div class="col-lg-3">
+                                    <label id="identity-proof">Identity Proof Details:<span class="red">
+                                            <font size="3">*</font>
+                                        </span>
+                                    </label>
+                                </div>
+ 
+                                    <div class="col-lg-3">
+
+                                        <select id="strIDProofFlag" name="strIDProofFlag" style="display: none;" title="Enter any one of your identity proof details" class="chzn-select form-select w-100 chzn-done">
+                                            <option value="0">Select One</option>
+                                            <option value="Pancard">Pan Card Number</option>
+                                            <option value="Passport">Passport Number</option>
+                                            <option value="DrivingLicence">Driving Licence Number</option>
+                                        </select><div id="strIDProofFlag_chzn" class="chzn-container chzn-container-single" style="width: 607px;" title="Enter any one of your identity proof details"><a href="javascript:void(0)" class="chzn-single" tabindex="-1"><span>Select One</span><div><b></b></div></a><div class="chzn-drop"><div class="chzn-search"><input type="text" autocomplete="off" aria-label="Search options"></div><ul class="chzn-results" tabindex="0"><li id="strIDProofFlag_chzn_o_0" class="active-result result-selected" style="">Select One</li><li id="strIDProofFlag_chzn_o_1" class="active-result" style="">Pan Card Number</li><li id="strIDProofFlag_chzn_o_2" class="active-result" style="">Passport Number</li><li id="strIDProofFlag_chzn_o_3" class="active-result" style="">Driving Licence Number</li></ul></div></div>
+
+                                    </div>
+                                    <div class="col-lg-6">
+                                        <input id="strIdProof" name="strIdProof" placeholder="Identity proof details" class="form-control validatebox-text" type="text" value="" maxlength="20">
+
+                                    </div>
+                            </div>
+
+ 							<div class="mb-3">
+                                <span class="inline ">
+                                    <input id="agreementCheckBox" class="checkBoxStyle" type="checkbox" value=""><input type="hidden" name="_" value="on">
+                                </span>
+                                <span class="inline" style="vertical-align:top;">
+                                    I agree to the <a id="TermsView" target="_blank" href="/ANRF/resources/app_srv/serb/gl/html/Terms_and_conditions.html">ANRF terms
+                                        of service and privacy policy</a>
+                                </span>
+                            </div>
+ 
+                            <script>setBlankValues();</script>
+                            <script type="text/javascript">
+                                var RecaptchaOptions = {
+                                    theme: 'clean'
+                                };
+                            </script>
+                            
+							<div class="row mb-4 justify-content-center">
+							    <div class="col-auto">
+
+							        <input type="hidden" id="csrf" name="csrf" value="u5q5xd">
+
+							        
+							        <input type="hidden" id="captchaMode" name="captchaMode" value="LEGACY">
+
+							        
+							        <div id="turnstileContainer" class="text-center mb-2" style="display: none;">
+							            <div id="cf-turnstile-widget"><div><input type="hidden" name="cf-turnstile-response" id="cf-chl-widget-mrwev_response"></div></div>
+							        </div>
+
+							        
+							        <div id="legacyCaptchaContainer" style="">
+							            <div class="align-left">
+							                <div id="captchaText" class="inline align-left"><img width="260px" alt="captcha-img" src="data:image/png;base64,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
+"></div>
+							            </div>
+							            <div class="captcha-input">
+							                <input id="captcha" name="strCaptcha" placeholder="Enter the above text" class="form-control" type="text" value="" autocomplete="off">
+							                <div id="refreshHandler" class="no-padding inline align-right pull-right">
+							                    <a href="#" id="reloadCaptcha" alt="Reload Image">
+							                        <img src="/ANRF/resources/app_srv/serb/gl/images/referesh.png" width="30px">
+							                    </a>
+							                </div>
+							            </div>
+							        </div>
+
+							        
+							        
+							        
+							            <div id="errMessageDiv" style="display:none;"></div>
+							        
+
+							    </div>
+							</div>
+                            
+                                                                                
+
+                            <div class="text-center">
+                                <input type="button" value="Submit" id="Submit" name="Submit" class="btn mb-1">
+                                <input type="reset" value="Reset" class="btn reset_btn mb-1">
+                                <a type="button" class="btn back_btn mb-1" href="/ANRF/HomePage">Go Back</a>
+                            </div>
+                </div>
+
+            </div>
+        </div>
+    </div>
+</div>
+
+
+		<!-- scripts-->
+		<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/groundwork.all.js"></script>
+<link rel="stylesheet" type="text/css" href="/ANRF/resources/app_srv/serb/gl/theme/validateBox.css">
+
+
+	
+	
+	<footer class="mt-5">
+    <div class="container">
+      <div class="p-3 footer">
+        <div class="cdac-logo">
+          <div class="mb-1 logo-content"> Designed, Developed and Maintained by </div>
+          <img class="pad-bottom" src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/img/cadc.png" alt="C-DAC">
+        </div>
+
+        <div class="pt-3 project-logo" style="margin-top:-10px">
+          <img src="/ANRF/resources/app_srv/serb/gl/homepage_new/images/homepage/reg-images/project_logo2.png" alt="e-PPMS">
+        </div>
+      </div>
+    </div>
+  </footer>
+  
+   <div href="#" class="back-to-top d-flex align-items-center justify-content-center active"><i class="fa fa-arrow-up"></i></div>
+
+<script src="/ANRF/resources/app_srv/serb/gl/jssrc/pwstrength.js"></script>	
+	   
+<script>
+$(document)
+				.ready(
+						function() {
+
+							$('#userinfo-message').delay(4000).fadeOut();	
+							$(":password")
+									.keyup(
+											function() {
+												if ($("#strPassword").val() != $(
+														"#strConfirmPassword").val()) {
+													$("#globalError")
+															.show()
+															.html(
+																	'Password does not match!');
+												} else {
+													$("#globalError").html("")
+															.hide();
+												}
+											});
+
+							options = {
+								common : {
+									minChar : 8
+								},
+								ui : {
+									showVerdictsInsideProgressBar : true,
+									showErrors : true,
+									errorMessages : {
+										wordLength : 'Your password is too short (Atleast 8 characters)',
+										wordNotEmail : 'Do not use your email as your password',
+										wordSequences : 'Your password contains sequences',
+										wordLowercase : 'Use lower case characters',
+										wordUppercase : 'Use upper case characters',
+										wordOneNumber : 'Use numbers',
+										wordOneSpecialChar : 'Use special characters'
+									}
+								}
+							};
+							$('#strPassword').pwstrength(options);
+						});
+
+
+	</script>
+	
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/ValidationFunctions.js"></script>
+	
+	<script type="text/javascript">
+		function hidecountry(val) {
+			if (val == "O") {
+				document.getElementById('strOtherCountry').style.visibility = "visible";
+				document.getElementById('strIsIndian').value = 'N';
+			} else {
+				document.getElementById('strOtherCountry').style.visibility = "hidden";
+				document.getElementById('strIsIndian').value = 'Y';
+			}
+		}
+	</script>
+	<script type="text/javascript">
+		$('#strUsername').validatebox({
+			required : true,
+			validType : [ 'minLength[6]', 'maxLength[50]', 'email' ]
+		});
+
+		$('#strPassword').validatebox({
+			required : true,
+			validType : [ 'minLength[8]', 'maxLength[20]','PasswordCheck']
+		});
+		$('#strConfirmPassword').validatebox(
+				{
+					required : true,
+					validType : ['equals[\"#strPassword\"]', 'minLength[8]',
+							'maxLength[20]']
+				}); 
+
+		$('#strFirstName').validatebox({
+			required : true,
+			validType : [ 'AlphaWithOutAposAndSpace', 'minLength[1]', 'maxLength[20]' ]
+		}); 
+		$('#strMIddleName').validatebox({
+			required : false,
+			validType : [ 'AlphaWithOutApos', 'minLength[1]', 'maxLength[20]' ]
+		});
+		$('#strLastName').validatebox({
+			required : false,
+			validType : [ 'AlphaWithOutApos', 'minLength[1]', 'maxLength[20]' ]
+		});
+		$('#strDtBirth').validatebox({
+			required : true
+		});
+		$('#numMobileNo').validatebox({
+			required : true,
+			validType : [ 'maxLength[15]' ,'Mobile']
+		});
+     
+		$('#strIdProof').validatebox({
+			required : true,
+			validType : [ 'AlphaNumeric', 'minLength[1]']
+		}); 
+				
+		$('#strOtherCountry').validatebox({
+			validType : [ 'maxLength[200]']
+		});
+
+		$('#Submit').click(function() {
+		    var reg_password = $('#strPassword').val();
+		    var letters = /^(?=.*[a-z,A-Z])(?=.*[0-9])/;
+		    var captcha_Text = $('#recaptcha_response_field').val();
+		    var strIdProof = "";
+		    if ($('#strIDProofFlag').val() == "Pancard") {
+		        strIdProof = $('#strIdProof').val();
+		    } else if ($('#strIDProofFlag').val() == 'Passport') {
+		        strIdProof = $('#strIdProof').val();
+		    } else if ($('#strIDProofFlag').val() == 'DrivingLicence') {
+		        strIdProof = $('#strIdProof').val();
+		    }
+
+		    var result = letters.test(reg_password);
+		    if ($('#frm').form('validate')) {
+		        var strdob = $('#strDtBirth').val();
+		        var arrdob = strdob.split("/");
+		        var dtdob = arrdob[1] + "/" + arrdob[0] + "/" + arrdob[2];
+
+		        var gender = $('#strGender').val();
+		        if (gender == "0") {
+		            alert("Select Gender Details");
+		            return false;
+		        }
+
+		        var gender = $('#numCategoryId').val();
+		        if (gender == "0") {
+		            alert("Select Category");
+		            return false;
+		        }
+		        
+		        var nationality = $('#strIsIndian').val();
+		        if (nationality == "Other" && $.trim($('#strOtherCountry').val()) == "") {
+		            alert("Enter Other Nationality Details");
+		            return false;
+		        }
+
+		        if ($('#strIDProofFlag').val() == "0") {
+		            alert("Select ID Proof");
+		            return false;
+		        } else if (!$('#agreementCheckBox').is(":checked")) {
+		            alert("Kindly accept the ANRF terms and conditions to proceed");
+		            return false;
+		        } else if ($('#existuserid').text() != '') {
+		            $('#strUsername').select();
+		            return false;
+		        } else if ($(".error-list").html() != "") {
+		            alert("Please enter your password correctly!");
+		            return false;
+		        } else if ($('#strIDProofFlag').val() == "Pancard" && (strIdProof.trim().length > 10 || strIdProof.trim().length < 10)) {
+		            if (strIdProof.trim().length > 10) {
+		                alert("Enter at Most 10 characters in ID Proof details");
+		                return false;
+		            } else {
+		                alert("Enter at least 10 characters in ID Proof details");
+		                return false;
+		            }
+		        } else if ($('#strIDProofFlag').val() == "Passport" && (strIdProof.trim().length > 8 || strIdProof.trim().length < 8)) {
+		            if (strIdProof.trim().length > 10) {
+		                alert("Enter at Most 8 characters in ID Proof details");
+		                return false;
+		            } else if($.trim($('#strOtherCountry').val()) == ""){
+		                alert("Enter at least 8 characters in ID Proof details");
+		                return false;
+		            }else if(!$.trim($('#strOtherCountry').val()) == "" && strIdProof.trim().length > 9){
+		                alert("Enter at most 9 characters in ID Proof details");
+		                return false;
+		            }
+		        } else if ($('#strIDProofFlag').val() == "DrivingLicence" && (strIdProof.trim().length > 16 || strIdProof.trim().length < 12)) {
+		            if (strIdProof.trim().length > 10) {
+		                alert("Enter at Most 16 characters in ID Proof details");
+		                return false;
+		            } else {
+		                alert("Enter at least 12 characters in ID Proof details");
+		                return false;
+		            }
+		        }
+		        submit_form();
+		    }
+		});
+		function submit_form() {
+
+		    var captchaMode = $("#captchaMode").val();
+
+		    if (captchaMode === "TURNSTILE") {
+
+		        // Turnstile already verified on frontend
+		        // Backend filter handles actual validation on form submit
+		        if (!turnstileRendered) {
+		            alert("Please complete the security verification.");
+		            return false;
+		        }
+		        // Proceed directly to form submit
+		        submitRegistrationForm();
+
+		    } else {
+
+		        // Legacy captcha flow — existing validation unchanged
+		        if ($('#captcha').val() == '') {
+		            alert("Please enter above text in the given field.");
+		            return false;
+		        }
+
+		        var encodedCaptcha = hex_md5($('#captcha').val());
+		        $.ajax({
+		            type: "POST",
+		            url: "/ANRF/isCaptchaValidate",
+		            data: {"captcha": $('#captcha').val()},
+		            success: function (responsedt) {
+		                if (responsedt[1] != encodedCaptcha) {
+		                    alert("You have entered wrong captcha text");
+		                    $("#reloadCaptcha").click();
+		                    $('#captcha').val('');
+		                    return false;
+		                } else {
+		                    if (responsedt[0] == "Yes") {
+		                        submitRegistrationForm();
+		                    } else {
+		                        alert("You have entered wrong captcha text");
+		                        $("#reloadCaptcha").click();
+		                        $('#captcha').val('');
+		                        return false;
+		                    }
+		                }
+		            }
+		        });
+		    }
+		}
+
+		// Extract actual form submission into separate function
+		function submitRegistrationForm() {
+		    var gender = $('#strGender').val();
+		    var nationality = $('#strIsIndian').val();
+		    var Message = $('#strPassword').val();
+		    var valueofHash = "5d94fe6e3f0580180afa11c779423ae5aryk10hal14ksr";
+		    var hash = CryptoJS.SHA256(Message);
+		    $('#strHashPassword').val(window.btoa(valueofHash + hash));
+		    $('#strPassword').val(0);
+		    $('#strConfirmPassword').val(0);
+		    $('#enStrData').val(0);
+		    document.getElementById("frm").submit();
+		}
+		</script>
+   
+   
+	<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/libs/jquery.smartmenus.js"></script>
+
+	<!-- SmartMenus jQuery init -->
+	<script type="text/javascript">
+		$(function() {
+			$('#main-menu').smartmenus({
+				subMenusSubOffsetX : 1,
+				subMenusSubOffsetY : -8
+			});
+		});
+	</script>
+	
+	<script src="/ANRF/resources/app_srv/serb/gl/jssrc/chosen.jquery.js" type="text/javascript"></script>
+
+  <script type="text/javascript"> 
+    var config = {
+      '.chzn-select'           : {},
+      '.chzn-select-deselect'  : {allow_single_deselect:true},
+      '.chzn-select-no-single' : {disable_search_threshold:10},
+      '.chzn-select-no-results': {no_results_text:'Oops, nothing found!'},
+      '.chzn-select-width'     : {width:"95%"}
+    };
+    for (var selector in config) {
+      $(selector).chosen(config[selector]);
+    }
+  </script>
+ <script>
+  function handleNationalityChange() {
+    var nationalitySelect = document.getElementById('strIsIndian');
+    var otherCountryInput = document.getElementById('strOtherCountry');
+    if (nationalitySelect.value === 'Other') {
+      otherCountryInput.style.display = 'block';
+    } else {
+      otherCountryInput.style.display = 'none';
+      otherCountryInput.value = '';
+    }
+  }
+</script>
+
+<script>
+    document.addEventListener('DOMContentLoaded', function () {
+      var backToTopButton = document.querySelector('.back-to-top');
+
+      window.addEventListener('scroll', function () {
+        if (window.scrollY > 100) {
+          backToTopButton.classList.add('active');
+        } else {
+          backToTopButton.classList.remove('active');
+        }
+      });
+
+      backToTopButton.addEventListener('click', function (e) {
+        e.preventDefault();
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      });
+    });
+
+  </script>
+  
+   <script>
+	var current = new Date();
+	$(function() {
+		
+		// $(":checkbox").labelauty();
+		$('#report').hide();   
+		$("#strDtBirth").pickadate({
+		    selectYears: true,
+    	    selectMonths: true,
+    	    selectYears: 100,
+    	    min:new Date(current.getFullYear()-100, current.getMonth(), current.getDate()),
+    	    max:new Date(current.getFullYear()-15, current.getMonth(), current.getDate())
+		});
+	});
+</script> 
+
+<!-- end of date time picker script-->
+
+  <script src="/ANRF/resources/app_srv/serb/gl/jssrc/md5.js"></script>
+  <script src="/ANRF/resources/app_srv/serb/gl/jssrc/ajaxHPP.js"></script>
+  <script src="/ANRF/resources/app_srv/serb/gl/jssrc/CSRF.js?v=1781440897"></script> 
+  
+  <script src="https://challenges.cloudflare.com/turnstile/v0/api.js?onload=onloadTurnstileCallback&amp;render=explicit" async="" defer="" onerror="enableLegacyCaptcha()">
+  </script>
+
+  <script>
+      var turnstileRendered   = false;
+      var turnstileLoaded     = false;
+      var fallbackTimer       = null;
+      var legacyModeActive    = false;
+      var legacyCaptchaLoaded = false;
+
+      window.onloadTurnstileCallback = function () {
+          if (legacyModeActive) {
+              console.warn("Legacy already active. Skipping Turnstile render.");
+              return;
+          }
+          turnstileLoaded = true;
+          clearTimeout(fallbackTimer);
+
+          turnstile.render('#cf-turnstile-widget', {
+              sitekey: '0x4AAAAAADRl7qHVAgRrgM-F',
+              callback:           turnstileSuccess,
+              'error-callback':   turnstileError,
+              'expired-callback': turnstileExpired
+          });
+
+          fallbackTimer = setTimeout(function () {
+              if (!turnstileRendered) {
+                  console.warn("Turnstile widget timed out.");
+                  enableLegacyCaptcha();
+              }
+          }, 5000);
+      };
+
+      function turnstileSuccess(token) {
+          if (legacyModeActive) return;
+          turnstileRendered = true;
+          clearTimeout(fallbackTimer);
+          $("#captchaMode").val("TURNSTILE");
+      }
+
+      function turnstileError() {
+          console.warn("Turnstile widget error.");
+          enableLegacyCaptcha();
+      }
+
+      function turnstileExpired() {
+          if (legacyModeActive) return;
+          turnstileRendered = false;
+          $("#captchaMode").val("LEGACY");
+      }
+
+      function enableLegacyCaptcha() {
+          if (legacyModeActive) return;
+          legacyModeActive    = true;
+          legacyCaptchaLoaded = false;
+          clearTimeout(fallbackTimer);
+          turnstileRendered = false;
+          $("#captchaMode").val("LEGACY");
+          $("#turnstileContainer").hide();
+          $("#legacyCaptchaContainer").show();
+          $("#captcha").val("");
+          reloadLegacyCaptchaImage();
+      }
+
+      function reloadLegacyCaptchaImage() {
+          if (legacyCaptchaLoaded) return;
+          legacyCaptchaLoaded = true;
+          $.ajax({
+              type: "POST",
+              url: "/ANRF/reloadCaptcha",
+              success: function (response) {
+                  $("#captchaText").html(
+                      "<img width='260px' alt='captcha-img' " +
+                      "src='data:image/png;base64," + response + "' />"
+                  );
+              },
+              error: function () {
+                  legacyCaptchaLoaded = false;
+              }
+          });
+      }
+
+      $(document).ready(function () {
+
+          // Reload button
+          $("#reloadCaptcha").off("click").on("click", function (e) {
+              e.preventDefault();
+              legacyCaptchaLoaded = false;
+              reloadLegacyCaptchaImage();
+          });
+
+          // Detect backend unavailability error
+          var errMsg = $("#errMessageDiv").text();
+          if (errMsg.indexOf("Security verification service is temporarily unavailable") !== -1) {
+              legacyModeActive = true;
+              enableLegacyCaptcha();
+          }
+
+      });
+
+      fallbackTimer = setTimeout(function () {
+          if (!turnstileLoaded) {
+              console.warn("Turnstile script timed out.");
+              enableLegacyCaptcha();
+          }
+      }, 5000);
+  </script>
+
+
+
+</div></div></form></section>
+<div class="whole">
+
+</div>
+<script type="text/javascript" src="/ANRF/resources/app_srv/serb/gl/jssrc/groundwork.all.js">
+</script>
+
+</body></html>

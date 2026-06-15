@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-88",
+  "scheme_name": "PLISFPI",
+  "scheme_url": "https://www.mofpi.gov.in",
+  "ministry_or_category": "Food Processing (PLI)",
+  "overview": "The Production Linked Incentive Scheme for Food Processing Industry (PLISFPI) is a central sector scheme under the Ministry of Food Processing Industries aimed at boosting domestic manufacturing and exports in the food processing sector. It provides financial incentives based on incremental sales and investments made by eligible entities over a five-year period. The scheme focuses on promoting value addition, brand development, and innovation in food processing, particularly for SMEs and innovative/organic products.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "SME",
+    "innovative/organic products",
+    "food processing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance domestic manufacturing and exports in the food processing sector",
+    "Provide incentives on incremental sales and investments over five years",
+    "Support SMEs in the food processing industry",
+    "Promote innovative and organic food products",
+    "Encourage branding and marketing initiatives",
+    "Strengthen the value chain from farm to retail",
+    "Increase processing levels and reduce agricultural wastage",
+    "Boost farmer income and rural employment"
+  ],
+  "eligibility": "Eligible entities include food processing units engaged in manufacturing, with a focus on SMEs, innovative/organic products, and those undertaking branding and marketing activities. Specific eligibility criteria are defined under the scheme guidelines for each incentive category.",
+  "benefits": "Financial incentives based on incremental sales and investment; support for branding and marketing; incentives for innovative and organic products; assistance in scaling up operations and market access.",
+  "financial_support": "Incentives are provided as a percentage of incremental sales over base year sales, and as a percentage of investment in plant, machinery, and related infrastructure, disbursed annually over five years based on verified claims.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PLISFPI portal via the Ministry of Food Processing Industries website. 2. Register as an applicant on the portal. 3. Submit application with required documents including business registration, product details, investment proof, and sales data. 4. Application is reviewed by the Ministry or its appointed Programme Management Agency. 5. Upon approval, enter into an agreement for incentive disbursement. 6. Submit periodic claims for incentives based on verified incremental sales and investment. 7. Incentives are released after validation.",
+  "application_portal_url": "https://mofpi.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration",
+    "Details of plant and machinery investment",
+    "Sales turnover details (base year and incremental)",
+    "Product list and manufacturing process",
+    "Branding and marketing expenditure proof (if applicable)",
+    "Bank account details",
+    "Authorization letter from signatory",
+    "Undertaking as per scheme guidelines"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per scheme guidelines.",
+  "implementing_agency": "Ministry of Food Processing Industries",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are contingent on achieving minimum threshold of incremental sales or investment",
+    "Claims must be verified and audited as per scheme norms",
+    "Incentives are disbursed over five years based on annual performance",
+    "Only incremental sales over base year are considered for incentive calculation",
+    "Entities must maintain proper records and submit periodic reports"
+  ],
+  "source_cited_notes": [
+    "https://mofpi.gov.in",
+    "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-06-14T12:34:59.383178+00:00"
+}

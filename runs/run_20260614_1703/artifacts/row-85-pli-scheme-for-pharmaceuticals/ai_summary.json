@@ -1,0 +1,73 @@
+{
+  "scheme_id": "row-85",
+  "scheme_name": "PLI Scheme for Pharmaceuticals",
+  "scheme_url": "https://pharma-dept.gov.in/schemes",
+  "ministry_or_category": "Pharmaceuticals (PLI)",
+  "overview": "The Production Linked Incentive (PLI) Scheme for Pharmaceuticals aims to enhance India's manufacturing capabilities by increasing investment and production in the sector, contributing to product diversification to high-value goods, and creating global champions out of India who can penetrate global value chains using cutting-edge technology. The scheme targets pharmaceutical manufacturers grouped by Global Manufacturing Revenue (GMR) and provides financial incentives based on incremental sales over a base year (FY 2019-20). It covers three categories of pharmaceutical goods and operates over a tenure from FY 2020-21 to FY 2028-29, including a gestation period and six years of incentive disbursement.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "pharmaceutical manufacturers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance India’s manufacturing capabilities by increasing investment and production in the pharmaceutical sector",
+    "Contribute to product diversification to high-value goods in the pharmaceutical sector",
+    "Create global champions out of India with potential to grow in size and scale using cutting-edge technology",
+    "Penetrate global value chains through enhanced manufacturing and innovation",
+    "Incentivize global and domestic players to enhance investment and production in high-value product categories",
+    "Ensure higher resilience of the Indian pharmaceutical industry to external shocks via domestic production capability in APIs/KSMs",
+    "Contribute to achieving higher objective of affordable healthcare in the country and globally on a sustained basis"
+  ],
+  "eligibility": "Applicants are grouped into three categories based on Global Manufacturing Revenue (GMR) from pharmaceutical goods and/or in vitro diagnostic medical devices in FY 2019-20: Group A (GMR ≥ Rs 5,000 crore), Group B (GMR between Rs 500 crore and Rs 5,000 crore), and Group C (GMR < Rs 500 crore, with a sub-group for MSME). Eligibility for incentive requires minimum cumulative investment over five years (Group A: Rs 1,000 crore, Group B: Rs 250 crore, Group C: Rs 50 crore) and minimum year-on-year percentage growth in sales (Group A/B/C: 200/50/10 in FY 2021-22, increasing to 1000/250/50 by FY 2025-26). For first year of production, participants must achieve threshold sales specified in guidelines; for subsequent years, a minimum 7% year-on-year growth is required. MSME participants in Group C may commit investment as per application form.",
+  "benefits": "Financial incentive on incremental sales over base year (FY 2019-20) at rates of 10% for FY 2022-23 to FY 2025-26, 8% for 2026-27, and 6% for 2027-28 for Category 1 & 2 goods; 5% for FY 2022-23 to FY 2025-26, 4% for 2026-27, and 3% for 2027-28 for Category 3 goods. Incentive is disbursed for a maximum of six years, based on verified incremental sales, and is subject to eligibility criteria including minimum cumulative investment and sales growth. The scheme also supports product diversification, technological upgradation, and integration into global value chains.",
+  "financial_support": "The scheme provides financial incentives based on incremental sales of eligible pharmaceutical goods over the base year (FY 2019-20). Incentive rates are 10% for FY 2022-23 to FY 2025-26, 8% for 2026-27, and 6% for 2027-28 for Category 1 & 2 goods; and 5% for FY 2022-23 to FY 2025-26, 4% for 2026-27, and 3% for 2027-28 for Category 3 goods. Incentives are disbursed for a maximum of six years, contingent on achieving minimum cumulative investment and year-on-year sales growth thresholds. The total financial outlay is Rs. 15,000 crore, allocated as Rs. 11,000 crore for Group A, Rs. 2,250 crore for Group B, and Rs. 1,750 crore for Group C. Disbursement is managed by the Project Management Agency (PMA) after verification of eligibility and sales claims.",
+  "fund_size_crores": "15000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Applicants must submit applications during the designated Application Window (60 days starting from 2nd June, 2021 to 31st July, 2021, as per initial guidelines; subsequent windows may be notified). 2. Applications are submitted via the online portal maintained by the Project Management Agency (PMA) at https://pli-pharma.udyamimitra.in. 3. Applicants must provide requisite information, supporting documents, and pay a non-refundable application fee electronically. 4. PMA conducts an examination of the application within 15 working days of receipt, checking completeness via a checklist. 5. If incomplete, PMA notifies the applicant to complete within 15 days; otherwise, the application is closed. 6. Upon completion, PMA issues an acknowledgement of receipt (not approval). 7. Eligible applicants are ranked based on evaluation criteria: Gross manufacturing investment (30%), number of ANDA/NDA approvals (30%), and R&D expenditure as % of GMR or GMR itself (40%), depending on group and product type. 8. Selection is made in order of rank, with limits: Group A (11 participants, max 4 foreign MNCs), Group B (9 participants, max 3 foreign MNCs), Group C (35 participants, min 20 MSMEs, min 5 in vitro diagnostic medical devices manufacturers). 9. Selected applicants must establish manufacturing facilities and commence production, with FY 2021-22 as the gestation period. 10. Incentive claims are submitted periodically based on incremental sales, verified by PMA and SSC, and disbursed after scrutiny.",
+  "application_portal_url": "https://pli-pharma.udyamimitra.in",
+  "required_documents": [
+    "Application form as per Appendix K",
+    "Undertaking in format given in Appendix E",
+    "Undertaking in format given in Appendix G consenting audit of manufacturing site/offices",
+    "Supporting documents as per application form",
+    "Application fee payment receipt",
+    "Documents evidencing financial closure (for benefit-share cases)",
+    "Duly signed funding agreement",
+    "Share allotment agreement (if benefit-share via share allotment)",
+    "Report validating product/technology at claimed TRL (if required)",
+    "Project plan based on sequential milestones",
+    "Valuation report of IP proposed to be in-licensed from Academia (if applicable)",
+    "Academic intent letter (if applicable)",
+    "Certificate of Incorporation/Registration",
+    "PAN of the entity",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Application Window: 60 days starting from 2nd June, 2021 to 31st July, 2021 (both dates inclusive). Subsequent windows may be notified; refer to latest notices for current status.",
+  "implementing_agency": "Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers",
+  "contact_details": "Email: Head-PharmaPolicy[at]pharma-dept[dot]gov[dot]in | Tel: 011 23385131",
+  "caveats": [
+    "Incentive is only on incremental sales over base year (FY 2019-20)",
+    "Applicants must not have been declared bankrupt, wilful defaulter, or reported as fraud by any bank/financial institution",
+    "Second-hand/used/refurbished plant, machinery, equipment, utilities, or R&D equipment is not eligible for investment consideration",
+    "Expenditure on consumables and raw material used for manufacturing is not considered as eligible investment",
+    "Investment made under other PLI schemes (e.g., PLI for Bulk Drugs) cannot be double-counted for eligibility under this scheme",
+    "Minimum repayment period of loan (if applicable) shall not be less than 3 years",
+    "At least 50% of total sanctioned loan amount must be on components eligible under the scheme for interest subvention or capital subsidy",
+    "Loan proposals availing benefit under this scheme cannot avail benefits under any other technology up-gradation scheme of Government or State Government or autonomous institutions/PSUs",
+    "Technological upgradation must be completed within 30 months of first disbursement of loans for interest subvention (as per RPTUAS corrigendum)",
+    "Beneficiary must submit bank guarantee amounting to 5% of eligible loan component at time of first interest subvention claim",
+    "Incentive disbursement is subject to verification of records, documents, and statutory auditor certificate by PMA",
+    "Expenditure incurred after approval by SSC will only be considered for incentive",
+    "The scheme tenure is from FY 2020-21 to FY 2028-29, with incentive disbursement for sales of FY 2027-28 in FY 2028-29",
+    "For MSME participants in Group C, threshold minimum cumulative investment is as committed in application form"
+  ],
+  "source_cited_notes": [
+    "https://pharma-dept.gov.in/sites/default/files/Gazette%20Notification%20of%20PLI%20scheme%20for%20Pharmaceuticals_0_0.pdf",
+    "https://pharma-dept.gov.in/sites/default/files/Operational%20Guidelines%20of%20PLI%20scheme%20for%20Pharmaceuticals_0.pdf",
+    "https://pharma-dept.gov.in/schemes"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:30:25.116730+00:00"
+}

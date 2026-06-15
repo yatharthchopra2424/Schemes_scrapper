@@ -1,0 +1,1036 @@
+<html><head><style>
+.responsive-table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        .responsive-table th,
+        .responsive-table td {
+            padding: 8px;
+            text-align: left;
+            border: 1px solid #ddd;
+        }
+
+        @media (max-width: 600px) {
+            .responsive-table thead {
+                display: none;
+            }
+
+            .responsive-table tr {
+                display: block;
+                margin-bottom: 15px;
+            }
+
+            .responsive-table td {
+                display: block;
+                text-align: left;
+                padding-left: 50%;
+                position: relative;
+            }
+
+            .responsive-table td::before {
+                content: attr(data-label);
+                position: absolute;
+                left: 0;
+                width: 50%;
+                padding-left: 15px;
+                font-weight: bold;
+                text-align: left;
+            }
+        }
+</style>
+
+
+
+
+
+
+	<meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	  <title>State Schemes</title>
+    <link rel="icon" href="/public/images/fevicon.png" type="image/gif" sizes="18x18">
+    <meta name="csrf-token" content="KzP6fa0UvBXokaZpUrAkXBAXS2StjKFzxhXYB3wR">
+	<link rel="stylesheet" href="/public/css/css2.css">
+    <link href="/public/css/font-awesome.min.css" rel="stylesheet">
+    <link href="/public/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/public/css/jquery-confirm.min.css" rel="stylesheet">
+    <link href="/public/css/select2.min.css" rel="stylesheet">
+	<link rel="stylesheet" href="/public/css/owl.carousel.min.css">
+    <link href="/public/css/style.css" rel="stylesheet">
+	
+	<link href="/public/css/jquery.dataTables.min.css" rel="stylesheet">
+	<!--<link rel="stylesheet" href="/public/css/all.min.css" />-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.0/css/all.min.css">
+	
+	
+	<style type="text/css">
+    .select2-container .select2-selection--single{
+      height:34px !important;
+    }
+    .select2-container--default .select2-selection--single{
+      border: 1px solid #ccc !important; 
+      border-radius: 0px !important; 
+    }
+	.dt-buttons
+	{
+		float: left;
+		margin-right: 20px;
+	}
+	.sticky-top
+	{
+		position:static !important;
+	}
+    </style>
+	
+</head>
+
+<body>
+	<style type="text/css">
+.navbar .dropdown .dropend:hover>ul {
+  left: 100%;
+}
+.navbar .dropdown ul a.dropdown-item.active, .navbar .dropdown ul a.dropdown-item:active, .navbar .dropdown ul a.dropdown-item.active:hover{
+  color: #fff;
+}
+.navbar a1{
+  padding: 10px;
+  font-size: 15px;
+}
+.navbar .dropdown ul{
+ /* left: 0; */
+}
+#more {display: none;}
+
+.dropdown-menu.show {
+    display: block !important;
+    opacity: 1 !important;
+    visibility: visible !important;
+}
+
+.topbar {
+      background-color: #004080;
+      color: white;
+      padding: 8px 0;
+      text-align: center;
+      font-size: 14px;
+    }
+	
+.container-fluid {
+    max-width: 1800px;	
+	}
+.reg_btn
+{
+	border: 1px solid #ff9812;
+    border-radius: 10px;
+    background: #004080;
+    color: #fff !important;
+}
+.login_btn
+{
+	border: 1px solid #ff9812;
+    border-radius: 10px;
+    background: #fff;
+    color: #ff9812 !important;
+	padding: 10px !important;
+    margin-left: 10px;
+}
+</style>
+
+<nav class="sticky-top">
+	<nav class="navbar navbar-top py-1 pe-2 topbar" id="top">
+		<div class="container-fluid d-flex align-items-center justify-content-between flex-wrap py-2">
+		  <div class="d-none d-lg-flex align-items-center">
+						<img src="/public/assets/img/Inidan-flag.png" alt="Flag">
+						<a href="javascript:void(0);" onclick="safeOpen('https://socialjustice.gov.in')" class="fw-bold text-white ps-2 text-decoration-none">
+							<h4>Government of India</h4>
+						</a>
+					</div>
+		  <div class="d-lg-inline-block d-flex align-items-center justify-content-between md-width100">
+			<div class="d-block">
+			  <a href="#main-content" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Skip to Main Content" aria-label="Skip to Main Content" style="padding: 9px;">
+				<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="18" height="18" fill="000" viewBox="0 0 53 38">
+				  <path id="Shape_3_copy" data-name="Shape 3 copy" class="cls-1" d="M0,26.125V23.749L28.123,0,53,23.749v2.375L28.363,2.375ZM0,38V35.624L28.123,11.875,53,35.624V38L28.363,14.25Z"></path>
+				</svg>
+			  </a>
+			  <a href="https://dwbdnc.dosje.gov.in/content/screen-reader-access" class="float-start me-2 bg-white rounded-circle border d-flex justify-content-center align-items-center opacity-75 skip-icon" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="this.blur();" data-bs-original-title="Screen Reader Access" style="padding: 9px;">
+			  <img src="/public/assets/img/screen-icon.png" alt="black and white" width="23" height="21">
+			  </a>   
+			  <a href="#" class="float-start opacity-75 black-white border rounded-circle p-0" data-bs-toggle="tooltip" data-bs-placement="left" title="" onclick="retheme();this.blur()" data-bs-original-title="Page Black &amp; White">
+			  <img src="/public/assets/img/black-white.png" alt="black and white" width="37px" height="37px">
+			  </a>
+			  <!--<div class="btn-group float-start mx-2" role="group" aria-label="Button group with nested dropdown">
+				<div class="btn-group" role="group" data-bs-toggle="tooltip" data-bs-placement="left" title="" data-bs-original-title="Social Media Links">
+				  <button id="btnGroupDrop1" type="button" class="form-select rounded-pill" data-bs-toggle="dropdown" aria-expanded="false" onclick="">
+				  <img src="/public/assets/img/fb-icon.png" alt="facebook" width="15">
+				  <img src="/public/assets/img/twitter-icon.png" alt="facebook" width="15">
+				  <img src="/public/assets/img/twitter-icon.png" alt="facebook" width="15">
+				  </button>
+				  <ul class="dropdown-menu border-0 bg-transparent" aria-labelledby="btnGroupDrop1">
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://www.facebook.com/DWBDNC')" class="p-0 me-1"><img src="/public/images/fb-icon.png" alt="facebook" class="bg-white rounded-circle" width="40"></a></li>
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://www.instagram.com/dwbdnc.msje/')" class="p-0"><img src="/public/images/twitter-icon.png" alt="instagram" class="bg-white rounded-circle" width="40"></a></li>
+					<li class="d-inline-block"><a href="javascript:void(0);" onclick="safeOpen('https://x.com/DwbdncG33045')" class="p-0"><img src="/public/images/twitter-icon.png" alt="X" class="bg-white rounded-circle" width="40"></a></li>
+				  </ul>
+				</div>
+			  </div>-->
+				<div id="dnn_languageChange" class="languagechange" style="float: left; margin-right: 0.5rem !important;">
+				    <label for="changeLang" class="visually-hidden">Select Language</label>
+					<select class="form-select changeLang">
+						<option value="en">English</option>
+						<option value="hi">हिंदी</option>
+					</select>
+				</div>
+			  
+			  
+			  <div class="d-flex">
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2" id="plusBtn" onclick="plus()">A+</a>
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2 mx-2" id="defaultBtn">A</a>
+			  <a href="#" class="rounded-circle bg-light border p-0 d-flex justify-content-center align-items-center font-sizer p-2" id="minusBtn" onclick="minus()">A-</a>
+			  <input type="hidden" id="clicks" value="0">
+			  <input type="hidden" id="clicks1" value="0">
+			  </div>
+			</div>
+		  </div>
+		</div>
+	</nav>
+<!-- ========Top Nav End ======= -->
+	
+
+<!-- ======= Header ======= -->
+	
+	<nav id="navbar" class="navbar navbar-expand-lg navbar-dark order-last order-lg-0 pb-3 pt-3" style="background: #f4f4f4;">
+	<a class="navbar-brand d-flex align-items-center" href="https://dwbdnc.dosje.gov.in">
+        <img src="https://dwbdnc.dosje.gov.in/public/assets/img/logo.png" alt="DWBDNC Logo">
+    </a>
+  <button class="navbar-toggler border me-1 d-lg-none d-flex align-items-center py-2" type="button" data-bs-toggle="collapse" data-bs-target="#navbarScroll">
+  <span class="material-symbols-outlined text-dark">menu</span>
+  </button>
+   <form action="" class="navbar-collapse collapse mb-0" id="navbarScroll">
+    <div class="w-100">
+      <ul class="header-design py-2 px-4 d-lg-flex">
+        <div class="navIn flex-grow-1">
+          <ul class="navlist" id="main-menu">
+            <li class="nav-item">
+              <a class="nav-link" href="https://dwbdnc.dosje.gov.in">Home</a>
+            </li>
+                        <li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">About Us</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/about-us">Brief History</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/sector-overview">Sector Overview</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/organisational-setup">Organisational Setup</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/whos-who">Whos Who</a></li>
+                              </ul>
+            </li>
+			
+				
+			<li class="nav-item dropdown">
+				<a class="nav-link d-inline-block dropdown-toggle show  active" "="" href="#" id="navbar-scheme" role="button" data-bs-toggle="dropdown" aria-expanded="false">Schemes</a>
+				<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-scheme">
+									<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/central">Central Schemes</a></li>
+									<li><a class="dropdown-item  active" href="https://dwbdnc.dosje.gov.in/state">State Schemes</a></li>
+									<!--<li class="dropdown dropend">
+						<a class="dropdown-item dropdown-toggle" href="#" id="navbar-central-schemes" role="button" data-bs-toggle="dropdown" aria-expanded="false">Central Schemes</a>
+						<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-central-schemes">
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="https://dwbdnc.dosje.gov.in/central/education" id="navbar-education" data-bs-toggle="dropdown" aria-expanded="false">Education</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/education/free_coaching">Seed Free Coaching</a></li>
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/content/seed-scheme">PM Yasasvi</a></li>
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/central/content/seed-scheme">Overshae Scholership</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Healthcare</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="#">Seed Health Insurance</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Livelihood</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/livelihood/seed_livelihood">Seed Livelihood</a></li>
+									<li><a class="dropdown-item" href="#">PM Daksh</a></li>
+								</ul>
+							</li>
+							<li class="dropdown dropend">
+								<a class="dropdown-item dropdown-toggle" href="#" id="navbar-education" role="button" data-bs-toggle="dropdown" aria-expanded="false">Housing</a>
+								<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-education">
+									<li><a class="dropdown-item" href="#">Seed Housing</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>-->
+					<!--<li class="dropdown dropend">
+						<a class="dropdown-item dropdown-toggle" href="#" id="navbar-state-schemes" role="button" data-bs-toggle="dropdown" aria-expanded="false">State Schemes</a>
+						<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-state-schemes">
+							<li><a class="dropdown-item" href="#">Seed Free Coaching</a></li>
+							<li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/content/seed-scheme">SEED Scheme</a></li>
+						</ul>
+					</li>-->
+				</ul>
+			</li>
+				
+                        <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show" href="#" id="navbar-scheme" role="button" data-bs-toggle="dropdown" aria-expanded="true">Scheme</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-scheme" data-bs-popper="none">
+                <li><a class="dropdown-item" href="https://dwbdnc.dosje.gov.in/content/seed-scheme">SEED Scheme</a></li>
+                                <li class="dropdown dropend">
+                  <a class="dropdown-item dropdown-toggle show" href="#" id="navbar-components" role="button" data-bs-toggle="dropdown" aria-expanded="true">Components</a>
+                  <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-components" data-bs-popper="none">
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/free-coaching">Free Coaching</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/health-insurance">Health Insurance</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/livelihood">Livelihood</a></li>
+                    					<li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/housing">Housing</a></li>
+                                      </ul>
+                </li>
+                              </ul>
+            </li>-->
+                                    <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Convergence</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-free-coaching">Free Coaching</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-health-insurance">Health Insurance</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-livelihood">Livelihood</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/convergence-housing">Housing</a></li>
+                              </ul>
+            </li>-->
+                                                <!--<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Government Entitlements</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/central-government-schemes-for-denotified-and-nomadic-tribes">Central Government Schemes for DNCs</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/content/state-government-schemes-for-denotified-and-nomadic-tribes">State Government Schemes for DNCs</a></li>
+                              </ul>
+            </li>-->
+                        <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/publication">Publication</a></li>-->
+            <!--
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/activities">Activities</a></li>
+            
+            
+			 
+			<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Activities</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/livelihood" >Livelihood</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/free-coaching" >Free Coaching</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/health-insurance" >Health Insurance</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/housing" >Housing</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/downloads/others" >Others</a></li>
+                              </ul>
+            </li>
+			-->
+			<!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>-->
+            
+			 
+			<li class="nav-item dropdown">
+              <a class="nav-link d-inline-block dropdown-toggle show " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">Glimpse</a>
+              <ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/Image-Gallery">Gallery</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/success-story">Success Story</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/News-Coverage">Newsletter</a></li>
+                                <li><a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/glimpse/video">Video</a></li>
+                              </ul>
+            </li>
+			
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/resources">Resources</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/tenders-vacancies">Tenders/Vacancies</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/downloads/orders-circular">Orders/Circular</a></li>
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/faq">FAQs</a></li>
+            <!--<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/content/state-wise-dnt-board">State Wise DNT Office</a></li>-->
+            <li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/contact-us">Contact Us </a></li>
+			<li class="nav-item"><a class="nav-link" href="https://dwbdnc.dosje.gov.in/report/dashboard">Dashboard </a></li>
+		  </ul>
+        </div>
+        		
+		<ul>
+			
+				<li class="nav-item dropdown">
+					<a class="reg_btn nav-link dropdown-toggle " href="#" id="navbar-about" role="button" data-bs-toggle="dropdown" aria-expanded="true">
+						REGISTER
+					</a>
+					<ul class="dropdown-menu mt-0 d-block" aria-labelledby="navbar-about" data-bs-popper="none">
+							<!--<li>
+								<a class="dropdown-item" href="https://www.buddy4study.com/page/free-coaching-for-dnt-students-under-seed-scheme" target="_blank" rel="noopener noreferrer" >Free Coaching</a>
+							</li>-->
+							<li>
+								<a class="dropdown-item livelihood ? 'active' : '' }}" href="https://dwbdnc.dosje.gov.in/register_new/livelihood">Livelihood	</a>
+							</li>
+							
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/livelihood">Livelihood</a>
+							</li>-->
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/housing">Housing</a>
+							</li>-->
+													<!--<li>
+								<a class="dropdown-item " href="https://dwbdnc.dosje.gov.in/register_new/health">Health</a>
+							</li>-->
+											</ul>
+				</li>
+				<li class="nav-item">
+					<a class="login_btn nav-link " href="https://dwbdnc.dosje.gov.in/login">
+						LOGIN
+					</a>
+				</li>
+		</ul>
+		      </ul>
+    </div>
+  </form>
+  
+  <i class="bi mobile-nav-toggle bi-list"></i>
+</nav>
+
+</nav>
+
+
+
+
+<div class="toast position-absolute top-0 start-50 translate-middle-x mt-1" role="alert" aria-live="assertive" aria-atomic="true">
+  <div class="toast-body py-3 d-flex align-items-center justify-content-between bg-danger rounded">
+    <p class="m-0 fs-7 text-white d-flex align-items-center">
+      <span class="toast-content">Hello, world! This is a toast message.</span>
+    </p>
+    <button type="button" class="btn-close" data-bs-dismiss="toast" aria-label="Close"></button>
+  </div>
+</div>
+
+  <div id="main-content"></div>
+  	<div class="container mb-5">
+  <h2 class="text-center contact-heading dashboard_text w-100 fw-bolder mb-5">State Schemes</h2>
+  
+  <ul class="nav nav-tabs" id="myTab" role="tablist">
+        <li class="nav-item">
+            <a class="nav-link active" id="tab1-tab" data-toggle="tab" href="#gujarat" role="tab" aria-controls="tab1" aria-selected="true">Gujarat</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="tab2-tab" data-toggle="tab" href="#haryana" role="tab" aria-controls="tab2" aria-selected="false">Haryana</a>
+        </li>
+        <li class="nav-item">
+            <a class="nav-link" id="tab3-tab" data-toggle="tab" href="#karnataka" role="tab" aria-controls="tab3" aria-selected="false">Karnataka</a>
+        </li>
+		<li class="nav-item">
+            <a class="nav-link" id="tab4-tab" data-toggle="tab" href="#madhya_pradesh" role="tab" aria-controls="tab4" aria-selected="false">Madhya Pradesh</a>
+        </li>
+		<li class="nav-item">
+            <a class="nav-link" id="tab5-tab" data-toggle="tab" href="#maharashtra" role="tab" aria-controls="tab5" aria-selected="false">Maharashtra</a>
+        </li>
+		<li class="nav-item">
+            <a class="nav-link" id="tab6-tab" data-toggle="tab" href="#rajasthan" role="tab" aria-controls="tab6" aria-selected="false">Rajasthan</a>
+        </li>
+		<li class="nav-item">
+            <a class="nav-link" id="tab7-tab" data-toggle="tab" href="#tamilnadu" role="tab" aria-controls="tab7" aria-selected="false">Tamil Nadu</a>
+        </li>
+    </ul>
+    <div class="tab-content" id="myTabContent">
+        <div class="tab-pane fade show active" id="gujarat" role="tabpanel" aria-labelledby="tab1-tab">
+			<p class="mt-3"><b>Gujarat:</b> Total No. of Schemes- 9, <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in')"> Website Link</a></p>
+			<hr>
+			<p><b>Schemes:</b> 1. Pre SSC Scholarship</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students of Classes 5th to 19th</p>
+			<p><b>Eligbility:</b> For Students of 1st to 8th: No Income Limit, For Students of 9th and 10th, Income must be less than 47,000Rs for rural areas and 68,000 for urban areas</p>
+			<p><b>Benefit:</b> Students of Std. 5 to 8	Rs. 500/-</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/2520?lang=english')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 2. Assistance to Students of DNTs studying in Self Financed Institutes</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students</p>
+			<p><b>Eligbility:</b> Student must be from Nomadic / De-notified Tribes</p>
+			<p><b>Benefit:</b> Scholarship of Upto 50,000 Rs which will cover exam fees and college admission fees.</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/2226?lang=english')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 3. Talent Pool Scheme for DNTs</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students</p>
+			<p><b>Eligbility:</b> Family Income less than 3 Lakh Rs. For Students of Class 5th and 10th. Students must have scored atleast 60% in Semester 1 or Semester 2 of their exams.</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/2512?lang=english')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 4. Uniform Assistance Scheme</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students</p>
+			<p><b>Eligbility:</b> Must be in school. No Income Limit</p>
+			<p><b>Benefit:</b> Rs. 300 for 2 pairs of uniforms</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/1498?lang=English')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 5. Pandit Din Dayal Upadhyay Awas Yojana (Housing Scheme)</p>
+			<p><b>Sector:</b> Housing</p>
+			<p><b>Beneficiaries:</b> Rs. 1,50,000/- Annual income in Urban area. B.P.L. Beneficiaries given preference.</p>
+			<p><b>Eligbility:</b> Assistance upto 1,20,000/- in urban housing scheme</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/Pandit-Din-Dayal-Upadhyay-Awas-Yojana-Housing-Scheme?lang=english')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 6. Ashram shalas</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in Class 1-12th</p>
+			<p><b>Eligbility:</b> Upon creation, 15 boys and 15 girls should be registered. 10boys and 10 girls have to be enrolled until class 7th each year.</p>
+			<p><b>Benefit:</b> 100% Grant to NGOs for starting Schools. Free Education, hostels, books, food and items of daily need. Grant of 1500rs per month is given to the NGO per child.</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://tribal.gujarat.gov.in/assets/downloads/Ashramshala-in-state_15122020.pdf')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 7. Post SSC Scholarship to Girls</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students from Class 11th upto Undergraduate college students such as Btech, Medical, Bsc. students etc.</p>
+			<p><b>Eligbility:</b> Girl Students from Class 11th to undergraduate level</p>
+			<p><b>Benefit:</b> Course Hosteller Day-scholar</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/1478?lang=English')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 8. Post SSC Scholarship for Boys</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> College Students</p>
+			<p><b>Eligbility:</b> Annual income limit is Rs. 47,000/- for rural area</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/1484?lang=english')">Clik Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 9. Scholarship for Technical and Professional Courses</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students enrolled in Technical and Professional Courses</p>
+			<p><b>Eligbility:</b> Income for Rural areas must not be 47,000 and 68,000 for urban areas.</p>
+			<p><b>Benefit:</b> 400 for Government ITI</p>
+			<p><b>Important Links:</b> <a href="javascript:void(0);" onclick="safeOpen('https://sje.gujarat.gov.in/ddcw/schemes/1494?lang=English')">Clik Here</a></p>
+			<hr>
+			
+			 
+		</div>
+        <div class="tab-pane fade" id="haryana" role="tabpanel" aria-labelledby="tab2-tab">
+			<p class="mt-3"><b>Haryana:</b> Total No. of Schemes-2, <a href="javascript:void(0);" onclick="safeOpen('https://haryanascbc.gov.in')">Website Link</a></p>
+			<hr>
+			<p><b>Schemes:</b> 1. Legal Aid to the Scheduled Castes and Vimukta Jatis</p>
+			<p><b>Sector:</b> Aid</p>
+			<p><b>Beneficiaries:</b> DNTs looking for Legal Help</p>
+			<hr>
+			<p><b>Schemes:</b> 2. Housing Scheme for Scheduled Castes and DNTs</p>
+			<p><b>Sector:</b> Housing</p>
+			<p><b>Beneficiaries:</b> Aspiring Homeowners</p>
+			<hr>
+			 
+		</div>
+        <div class="tab-pane fade" id="karnataka" role="tabpanel" aria-labelledby="tab3-tab">
+			<p class="mt-3"><b>Karnataka:</b> Total No. of Schemes-7, <a href="javascript:void(0);" onclick="safeOpen('https://bcwd.karnataka.gov.in/info-2/Nomadic+Tribes+And+Semi+Nomadic+Tribes/en')">Website Link</a></p>
+			<hr>
+			<p><b>Schemes:</b> 1. 	Special Incentives for Pre-Matric Students</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in Class 1 to 10th</p>
+			<hr>
+			<p><b>Schemes:</b> 2. Scholarships for Post Matric Students</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in PUC, Diploma Courses, Bachelor's and Master's courses, Technical and Professional Exams, Medical Exams</p>
+			<hr>
+			<p><b>Schemes:</b> 3. Commencement &amp; Managment of Ashram Schools</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in Classes 1st to 5th</p>
+			<hr>
+			<p><b>Schemes:</b> 4. Infrastructure for Nomadic/Semi Nomadic Tribes- Concrete Roads and Drainage</p>
+			<p><b>Sector:</b> Infrastructure</p>
+			<p><b>Beneficiaries:</b> DNT Settlements,DNT Villages, Bastis</p>
+			<hr>
+			<p><b>Schemes:</b> 5. Purchase of Land to Provide Accomodation for the Homeless</p>
+			<p><b>Sector:</b> Infrastructure</p>
+			<p><b>Beneficiaries:</b> DNT Aspiring Home Owners</p>
+			<hr>
+			<p><b>Schemes:</b> 6. Housing Plan</p>
+			<p><b>Sector:</b> Housing</p>
+			<p><b>Beneficiaries:</b> DNT Aspiring Home Owners</p>
+			<hr>
+			<p><b>Schemes:</b> 7. Awareness Program and Grant</p>
+			<p><b>Sector:</b> Grant</p>
+			<p><b>Beneficiaries:</b> NGOs working for DNTs</p>
+			<hr>
+			
+			
+			 
+		</div>
+        <div class="tab-pane fade" id="madhya_pradesh" role="tabpanel" aria-labelledby="tab3-tab">
+			<p class="mt-3"><b>Madhya Pradesh:</b> Total No. of Schemes-13, <a href="javascript:void(0);" onclick="safeOpen('https://samarth.mp.gov.in/Default')">Website Link</a></p>
+			
+			<hr>
+			<p><b>Schemes:</b> 1. Primary Education</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Primary School Students</p>
+			<p><b>Eligbility:</b> 1. Students belonging to De-Notified, nomadic and semi- nomadic Communites. 2. Attested photocopy of Permanent Caste Certificate of Sub-Divisional Officer (Revenue). 3. There is eligibility for scholarship even if one year is failed. 4. There is no need to apply again for renewal for classes of same rates (eg for class 1 to 5). 5. Income certificate not necessary.</p>
+			<p><b>Benefit:</b> State Scholarship: A scholarship of Rs 150/- is provided for 10 months at the rate of Rs 15/- per month to the students of De-Notified, Nomadic and Semi-nomadic communities studying in classes 1 to 5. Consolidated scholarship .The distribution of scholarship under the scheme is done through the Directorate of Public Education.</p>
+			<hr>
+			<p><b>Schemes:</b> 2. State Scholarship Class 6th to 10th</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in Class 6th to 10th</p>
+			<p><b>Eligbility:</b> 1. Students belonging to De-notified, nomadic and semi-nomadic communities in Classes 6th to 10th. 2. There is eligibility for scholarship even if one year is failed.</p>
+			<p><b>Benefit:</b> Annual scholarship (for 10 months) is given to the students of classes 6 to 10 as follows:- Class Boys Girls 6 to 8 Rs 200/- Rs 600/- 9 to 10 Rs 600/- Rs 1200/- The distribution of scholarship under the Integrated Scholarship Scheme is done through the Directorate of Public Instruction.</p>
+			<p><b>Required Documents:</b> Attested photocopy of Permanent Caste Certificate of Sub-Divisional Officer (Revenue)</p>
+			<hr>
+			<p><b>Schemes:</b> 3. Post Matric Scholarship</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Students in Classes 11-12th, College Studentsh</p>
+			<p><b>Eligbility:</b> 1. Students belonging to De-notified, nomadic and semi-nomadic communities. 2. Students must belong to class 11th to college classes in the following courses: medical, engineering and science groups, Ayurveda, Unani, homeopathy, agriculture, science, commerce,etc. 3. There is no eligibility for scholarship if one year is failed. 4. Institution must be a Government Institute.</p>
+			<p><b>Benefit:</b> 1) Residence Allowance 2) Tuition Fees Paid 3) Examination Fees Paid</p>
+			<p><b>Required Documents:</b> 1. Attested photocopy of Permanent Caste Certificate of Sub-Divisional Officer (Revenue). 2 . Self-declaration certificate by the parent regarding income on unstamped paper. 3. For the renewal of the declaration of the foster "The income of the previous year has not increased</p>
+			<p><b>Application Process:</b> He maximum limit of fee reimbursement for class 11th and 12th is Rs. 210/- and Rs. 1110/- (210/- Department of Education $ 900/- Board of Secondary Education Examination Fee will be there). The sanctioning authority will determine faculty-wise full/half fee for reimbursement as per eligibility within the maximum limit.</p>
+			<hr>
+			<p><b>Schemes:</b> 4. Girls Literacy Promotion Scheme Class 11th</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Girl Students in Class 11th</p>
+			<p><b>Eligbility:</b> 1. Girls of De-Notified, Nomadic and Semi-nomadic communities for education. 2. In Class 11th 3.Continuously Educated</p>
+			<p><b>Benefit:</b> For the first time taking admission in class 11th, an incentive amount of Rs.3000/- is provided. The distribution of scholarship under the Integrated Scholarship Scheme is done through the Directorate of Public Instruction.</p>
+			<p><b>Required Documents:</b> 1. Attested photocopy of Permanent Caste Certificate of Sub-Divisional Officer (Revenue). 2. Self-declaration certificate by the parent regarding income on unstamped paper.</p>
+			<hr>
+			<p><b>Schemes:</b> 5. Civil Service Incentive Scheme</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> MP State Civil Service Applicants</p>
+			<p><b>Eligbility:</b> Qualified educated candidates of De-Notified, Nomadic and Semi-nomadic communities are given incentive amount as follows for success in various levels of civil service examination of Madhya Pradesh Public Service Commission and Union Public Service</p>
+			<p><b>Benefit:</b> 1. On passing the preliminary examination 20,000/-(M.P. Public Service Commission) 40,000/- (Public Service Commission) 2. On passing the main examination 30,000/- (M.P. Public Service Commission) 60,000/- (Public Service Commission) 3. On passing the interview 25,000/- (M.P. Public Service Commission) 50,000/- (Public Service Commission)</p>
+			<hr>
+			<p><b>Schemes:</b> 6. Tution Fee Reimbusrment Scheme of Sainik School/ Public Schools</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Sainik School and Government School Students</p>
+			<hr>
+			<p><b>Schemes:</b> 7. Vimukt Jati Hostel Scheme</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT Students who require hostel/ashram/other living facilities</p>
+			<p><b>Eligbility:</b> 1. Students of de-notified, nomadic and semi-nomadic tribes studying in local educational institutions will only be eligible for admission in hostels, ashrams and community welfare centers. 2. For admission in these institutions, before the start of the new academic session, new students will have to apply on the prescribed form. 3. Renewal will be done for the already resident students, but application will not be taken for this. 4. New students will be able to enter only on vacant seats in Hostel Ashram and Community Welfare Center. Selection of new students will be done on the basis of marks in last year's passed examination, that means student with higher percentage of marks will be given admission first on vacant seat.</p>
+			<p><b>Benefit:</b> De-Notified communities’ hostels/ashrams/community welfare centers are being operated to provide residential facilities to the students of De-Notified, nomadic and semi-nomadic communities coming from remote places for studies. Under the scheme Rs.1230/- for boys and Rs.1270/- for girls per month (for 10 months) scholarship was provided</p>
+			<hr>
+			<p><b>Schemes:</b> 8. CM Housing Rent Scheme</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> CM Housing Rent Scheme</p>
+			<p><b>Eligbility:</b> 1. Belong to DNT Communities 2. College students in government/private colleges. 3. Students taking admission till the prescribed last dates of admission and applying 'Appendix-B' will be eligible for the scheme. 4. Income limit given in the Post Metric Scholarship Scheme will be applied to students who are applying</p>
+			<p><b>Benefit:</b> Rs.2000/- per student in Bhopal, Indore, Jabalpur, Gwalior and Ujjain cities, Rs.1250/- per student at district headquarters and Rs.1000/- per student per month in tehsil/development block headquarters and other cities House rent allowance will be payable from Rs.</p>
+			<hr>
+			<p><b>Schemes:</b> 9. ITIs Improvement of Education, Arts</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Natives of MP who seek Skilling and Upskilling</p>
+			<p><b>Eligbility:</b> 1. Under this scheme, the people of De-notified, Nomedic and Semi-nomadic communities coming in the list of Nomadic and De-notified Communities by Madhya Pradesh will be eligible. 2. Must be a native of Madhya Pradesh. 3. He has been issued a certificate of free, nomadic and semi-nomadic caste by the competent authority. 4. Annual Income Less than Rs. 3 Lakhs \5. Educational Qualification - As per the requirement of the course.</p>
+			<p><b>Benefit:</b> 1. Free Employment-oriented short-term training through ITI under which it is targeted to train 250 students.2. After training, there is a provision for employment or self-employment under the self-employment scheme.</p>
+			<hr>
+			<p><b>Schemes:</b> 10. DNT Employment Scheme</p>
+			<p><b>Sector:</b> Livelihoods</p>
+			<p><b>Beneficiaries:</b> Unemployed members of Below Poverty Line (BPL) holding families.</p>
+			<p><b>Eligbility:</b> To be part of a Below Poverty Line Family</p>
+			<hr>
+			<p><b>Schemes:</b> 11. Vimukt Jaati Basti Development Scheme</p>
+			<p><b>Sector:</b> Infrastructure</p>
+			<p><b>Beneficiaries:</b> DNTs Staying in Bastis, Settlements, Villages</p>
+			<p><b>Eligbility:</b> None</p>
+			<p><b>Benefit:</b> The scheme is being implemented for the development of infrastructure in De-notified, nomadic and semi-nomadic settlements, villages, wards, mohallas, majres, tolls and camps. Under this, community construction works are done for basic needs like CC road, drain, public toilet, drinking water system, etc.</p>
+			<hr>
+			<p><b>Schemes:</b> 12. Excellent Award Scheme for Social Workers</p>
+			<p><b>Sector:</b> Social Development</p>
+			<p><b>Beneficiaries:</b> DNT origin, MP residents who are Social Workers</p>
+			<p><b>Eligbility:</b> 1. A person belonging to the DE-Notified, nomadic and semi-nomadic communities will be eligible for this award. 2. The social worker who works for the all-round development and educational development, social service, economic development and removal of social evils of the De-Notified, nomadic and semi-nomadic tribes will be eligible for the award. 3. Only the original residents of Madhya Pradesh will be eligible for the award.</p>
+			<p><b>Benefit:</b> Under the scheme, there is a provision for award of Rs 1.00 lakh to social worker of De-notified Nomadic &amp; Semi-Nomadic, who has done excellent work for the social and economic upliftment of the De-notified, nomadic and semi-nomadic communities.</p>
+			<hr>
+			<p><b>Schemes:</b> 13. Mukhyamantri Vimukt, Ghumantu and Ardhghumantu Swarozgar Yojana (CM Self-Employment Scheme)</p>
+			<p><b>Sector:</b> Livelihoods</p>
+			<p><b>Beneficiaries:</b> DNT Natives of MP of Age 18 to 35 Years</p>
+			<p><b>Eligbility:</b> 1. Under this scheme, the people of De-notified, Nomadic and Semi-nomadic communities coming in the list of Nomadic and De-notified Communities by Madhya Pradesh State's Memorandum No. /6109/XXY/GNK/IK/63, dated 21 September 1963, will be eligible. 2. Natives of Madhya Pradesh whose age is between 18 to 35 years. 3. He should have been issued a certificate of free, nomadic and semi-nomadic caste by the competent authority. 4. Don't be an income tax payer! 5. If the benefits of this scheme are received by the unemployed as a group, then they belong to the same caste group. 6. Educational Qualification – There will be no restriction in Part I (conducted by the department). Part II (conducted by the agency) Trained by minimum ITI and personal case proposed by the selection committee.</p>
+			<p><b>Benefit:</b> With a view to removing the economic distress of the said communities and adding them to the main stream of the society, the Mukhyamantri Vimukt, Ghumantu and Ardhghumantu Swarozgar Yojana will be approved and implemented through all the portals for self-employment like the self-employment scheme of other departments, in which the beneficiaries will be given Maximum amount 1 lakh and I.T.I. Provision has been made for loan of 2 lakh to trained beneficiaries and 10 lakh to self-help groups for setting up their own enterprise and 25 percent and maximum amount of 20 thousand and grant-in-aid of Rs. 2 lakh and 6 percent interest subsidy for self-help groups. . In this financial year, a target has been set for providing loans to 1500 individual and 20 self-help groups for self-employment.</p>
+			<hr>
+			
+			
+		</div>
+        <div class="tab-pane fade" id="maharashtra" role="tabpanel" aria-labelledby="tab3-tab">
+			<p class="mt-3"><b>Maharashtra:</b> Total No. Of Schemes- 10, <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit')">Website Link</a></p>
+			
+			<hr>
+			<p><b>Schemes:</b> 1. Training of Motor Driving to VJNT, SBC &amp; OBCs</p>
+			<p><b>Sector:</b> Livelihoods</p>
+			<p><b>Beneficiaries:</b> Eligible DNT/SBC/OBC community members who are eligble to drive as per Motor Vehicle Act</p>
+			<p><b>Benefit:</b> The scheme provides light and heavy motor driving, conductor training to the needy VJNT, OBC &amp; SBC candidates. The training is given through private motor driving schools. The selected candidates are provided training with free lodging and boarding facility, License Fees etc. </p>
+			<p><b>Application Process:</b> Application to be Submitted to the Motor Driving School approved under the Scheme by the Government of Mahrashtra </p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=1')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 2. Savitribai Phule Scholarship for VJNT and SBC Girl Students</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Girl Students in Class 5th to 7th and 8th to 10th</p>
+			<p><b>Eligbility:</b> Girl Students in Class 5th to 7th of SC and DNT communities and 8th to 10th. No Income limit</p>
+			<p><b>Benefit:</b> Classes 5th to 7th: Scholarship of Rs. 60 per month for 10 Months | Classes 8th to 10th: Scholarship @100rs per month for 10 months </p>
+			<p><b>Required Documents:</b> Paperless Scheme</p>
+			<p><b>Application Process:</b> Headmaster of the School will submit list of VJNT and SBC Girl Students to the District Social Welfare Office of the relevantr Zilla Parishad</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=2')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 3. Basti Development Scheme</p>
+			<p><b>Sector:</b> Social Remedies</p>
+			<p><b>Beneficiaries:</b> DNT community</p>
+			<p><b>Eligbility:</b> All DNT members living in Tandas and Basties with a minimum population of 50.</p>
+			<p><b>Benefit:</b> Provision of Drinking water, Electrification, Construction of latrines, drainages and approach roads. Based On Population, the benefits provided are : 1) For 51-100 persons: 4 Lakhs 2) 101-150: 6 Lakhs 3) Above 151: 10 Lakhs of support</p>
+			<p><b>Application Process:</b> Submission of Proposal and Resolution of Gram Panchayat to be submitted to Block Development Officer through Gram Panchayat.</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=1')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 4. Meritorious Scholarships to VJNT and SBC Students Studying in Secondary Schools</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT and SBC students studying in Classes 5th to 10th</p>
+			<p><b>Eligbility:</b> 1) Belong to DNT/SBC Community 2) Students with more than 50% marks in previous year's annual exam and stood first or second in class. 3) Studying in Classes 5th to 10th .</p>
+			<p><b>Benefit:</b> Rs. 200 for 5th to 7th Standard and Rs.400 for 8th to 10th Standard per annum. </p>
+			<p><b>Required Documents:</b> Proposal Submission by Head Master</p>
+			<p><b>Application Process:</b> Proposal must be submitted by the Head Master to the concerned block education officer to the district social welfare officer</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://mahadbt.maharashtra.gov.in/SchemeData/SchemeData?str=E9DDFA703C38E51A8FE969DA87030502')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 5. Tuition Fees and Examination Fees for VJNT/SBC Students studying in High Schools</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT and SBC Students studying in classes 9-12</p>
+			<p><b>Eligbility:</b> Student should belong to VJNT/SBC Category. He should be a student of a recognised High School. No limit of age or income. Students getting benefit of other scholarships are not eligible. One's failure is eligible. Twice failure is not eligible.</p>
+			<p><b>Benefit:</b> Tuition Fees, Examination Fees, Lab Fees, Library Fees are paid for. </p>
+			<p><b>Required Documents:</b> Proposal Submission by the Headmaster</p>
+			<p><b>Application Process:</b> Proposal to be submitted by the Headmaster to the concerned block education officer to the district social welfare officer</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=2')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 6. Award of stipend to VJNT and SBC students studying in ITI</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT and SBC students studying in Industrial Training Institutes</p>
+			<p><b>Eligbility:</b> 1) Student should belong to V.J.N.T. or S.B.C category. 2) Student should be trainee of approved I.T.I. 3) Parent/Guardian's income should be up to 65290/- per year</p>
+			<p><b>Benefit:</b> Maintenance Allowance from Rs.40/- to Rs.100/- per month for 10 months is provided through concerned I.T.I. </p>
+			<p><b>Application Process:</b> Application to be submitted to individual ITIs of students</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=2')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 7. Vocational Training for VJNT and SBC candidates studying in Government Industrial Training Institute.</p>
+			<p><b>Sector:</b> Livelihoods</p>
+			<p><b>Beneficiaries:</b> DNT and SBC students studying in Industrial Training Institutes</p>
+			<p><b>Eligbility:</b> 1) Student should belong to VJNT or SBC Category. 2) Selection of students for training under this scheme is made by Principal of concerned Govt. I.T.I. &amp; concerned Asstt. Commissioner of Social Welfare.</p>
+			<p><b>Benefit:</b> The training fees Rs.400/- to Rs.2400/- (as per course) is paid to concerned I.T.I. After completion of training, one Tool Kit of Rs.1000/- is provided to trainee through concerned Govt. I.T. </p>
+			<p><b>Application Process:</b> Student should apply for short Training to concerned Govt. I.T.I. Selection of students is made by Principal of concerned Govt. I.T.I.</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=2')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 8. Rajarshi Chhatrapati Shahu Maharaj Merit Scholarship</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> SNT or SBC students in Classes 11 and 12</p>
+			<p><b>Eligbility:</b> Students should belong to Vimukta Jatis, Nomadic Tribes or Special Backward Class. Student should be studying in 11th and 12th standard. Student should secure 75% and above marks in 10th standard Examination.</p>
+			<p><b>Benefit:</b> Scholarship of Rs.300/- p.m. for 10 months i.e.Rs.3000/- per year for the standard 2nd &amp; 12th is provided. </p>
+			<p><b>Application Process:</b> Online Application on this link where the Chhatrapati Shahu Maharaj Scholarship form needs to be filled and submitted to the necessary college.</p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https:\\mahaeschol.maharashtra.gov.in')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 9. Payment of maintenance allowance to VJNT and SBC students studying in professional courses and living in hostel attached to professional colleges.</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT and SBC students in professional courses</p>
+			<p><b>Eligbility:</b> Student should belong to VJNT or SBC category.</p>
+			<p><b>Benefit:</b> Professional courses are divided into A,B,C category and accordingly maintenance allowance is given to the students through the concerned Principal of the college. For 4 to 5 years course (Medical, Engineering, Agriculture etc.) Rs. 700/- per month, for 2 to 3 years course (Engineering Dip., M.B.A, M.S.W etc.) Rs. 500/- and for 2 years and lesser duration courses (B.Ed., D.Ed.) Rs. 500/- per month for 10 months as maintenance allowance in addition to other Government Scholarships. </p>
+			<p><b>Important Link: </b> <a href="javascript:void(0);" onclick="safeOpen('https://sjsa.maharashtra.gov.in/en/schemes-page?scheme_nature=All&amp;Submit=Submit&amp;page=2')">Click Here</a></p>
+			<hr>
+			<p><b>Schemes:</b> 10. Maintenance allowance to Backward Class students under training in Sainik Schools.</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> DNT and SBC students hoping to enroll into Sainik Schools and NDA</p>
+			<p><b>Eligbility:</b> 1) Students should belong to Vimukta Jatis, Nomadic Tribes or Special Backward Class. 2) Student should be studying in 5th to 12th standard in Sainik School.</p>
+			<p><b>Benefit:</b> Free lodging, boarding, clothing, uniform, horse riding, pocket money, tuition fees and examination fees is reimbursed to the students admitted in old three Sainik Schools e.g. Satara, Pune and Nashik. For the remaining Sainik Schools maintenance allowance of Rs.15,000/- is reimbursed to per student for a year. </p>
+			<hr>
+			
+			
+			
+
+		</div>
+        <div class="tab-pane fade" id="rajasthan" role="tabpanel" aria-labelledby="tab3-tab">
+			<p class="mt-3"><b>Rajasthan:</b> Total No. of Schemes- 1</p>
+			<hr>
+			<p><b>Schemes:</b> 1. Gadia Lohar Scheme</p>
+			<p><b>Sector:</b> Housing</p>
+			<p><b>Important Link: </b><a href="javascript:void(0);" onclick="safeOpen('https://sje.rajasthan.gov.in/Default.aspx?PageID=175')">Click Here</a></p>
+			<hr>
+			
+		</div>
+        <div class="tab-pane fade" id="tamilnadu" role="tabpanel" aria-labelledby="tab3-tab">
+			<p class="mt-3"><b>Tamil Nadu:</b> Total No. Of Schemes- 5</p>
+			
+			<hr>
+			<p><b>Schemes:</b> 1. District Level Prizes for Public Examination: 10th and 12th</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> 10th Standard District level Level Toppers</p>
+			<p><b>Eligbility:</b> 1. Students must be of BC/MBC/DNT community. 2. Students should have studied Tamil as their first language 3. State toppers are not eligible for this.</p>
+			<p><b>Benefit:</b> 6 Prize Awards are given in total to DNT Community students. 1 Boy and 1 Girl get a 1st Prize, 1 boy and 1 girl get a 2nd Prize and 1 boy and 1 girl get a 3rd Prize</p>
+			<hr>
+			<p><b>Schemes:</b> 2. Free Education in Undergraduate Colleges</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Undergraduate College Students in Government Colleges</p>
+			<p><b>Eligbility:</b> Must be of OBC/MBC/DNT background</p>
+			<p><b>Benefit:</b> Fully-paid scholarship for 3 year undergraduate degrees such as BA, Bsc, BCom for DNTs,OBCc,MBCs who are studying in government and government aided Arts and Science colleges.</p>
+			<hr>
+			<p><b>Schemes:</b> 3. Free education in Professional Courses</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> First generation undergraduate students in professional colleges</p>
+			<p><b>Eligbility:</b> 1) Must of OBC/MBC/DNT Background 2) The Income of parents should not exceed 1,00,000Rs. 3) There should be no graduate in the family.</p>
+			<p><b>Benefit:</b> Tuition Fees, Special Fee and Other Non-refundable compulsory fees are paid in full.</p>
+			<hr>
+			<p><b>Schemes:</b> 4. Free Education for 3 year polytechnic courses</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> Polytechnic Courses</p>
+			<hr>
+			<p><b>Schemes:</b> 5. Financial Assistance to the Students who Studied 10th Standard in Government Schools and Pursuing HSC in the Best Private Schools</p>
+			<p><b>Sector:</b> Education</p>
+			<p><b>Beneficiaries:</b> School Students who have scored the highest marks in class 10th</p>
+			<p><b>Eligbility:</b> In total 10 students are selected from each district. Out of which 2 Boys and 2 Girls can be of BC/MBC/DNT communities. The annual income of the applicant should be below 1 Lakh per annum. School students should have the highest marks in class 10th  in their district.</p>
+			<p><b>Benefit:</b> Financial Assistance to 10 Students in each district to study in the besr private schools of their choice in Tamil Nadu.</p>
+			<hr>
+			
+		</div>
+    </div>
+</div>
+
+
+	<style type="text/css">
+   .small li{line-height: 1.8em;;}
+</style>
+
+
+<footer id="footer" class="">
+<div class="bg-primary text-white pt-3" style="background-color:#024D97 !important;">
+    <div class="container">
+      <div class="row align-items-start">
+        <div class="col-md-4">
+          <img src="/public/assets/img/nicwhitelogo.png" alt="NIC logo">
+          <p class="small" style="text-align: justify; padding-left: 25px;">
+            This Site Is Designed, Developed, Hosted And Maintained By National Informatics Centre, Department Of Social Justice And Empowerment, Ministry Of Social Justice And Empowerment, Government Of India.
+          </p>
+        </div>
+		<div class="col-md-1"></div>
+        <div class="col-md-3 mt-4">
+         <strong>Useful Links</strong>
+          <ul class="list-unstyled small">
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/feedback">Feedback</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/faqs">FAQs</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/downloads/archive">Archive</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/terms-conditions">Terms &amp; Conditions</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/privacy-policy">Privacy Policy</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/copyright-policy">Copyright Policy</a></li>
+            <li><a class="text-white text-decoration-none" href="https://dwbdnc.dosje.gov.in/content/hyperlinking-policy">Hyperlinking Policy</a></li>
+          </ul>
+        </div>
+        <div class="col-md-4 mt-4">
+          <strong>Contact Us</strong>
+          <ul class="list-unstyled small">
+            <li><i class="fa fa-phone"></i> +91-11-20867719</li>
+            <li><i class="fa fa-envelope"></i> dwbdnc-msje[at]gov[dot]in</li>
+            <li><i class="fa fa-map-marker"></i> 2nd Floor, Wing 2, West Block-8, <br>Sector-1, R.K. Puram, <br>New Delhi - 110066</li>
+          </ul>
+          <div class="mt-2">
+            <strong>Follow Us</strong><br>
+            <a href="https://www.facebook.com/DWBDNC" aria-label="facebook" target="_blank" rel="noopener noreferrer" class="text-white me-2 "><i class="fa-brands fa-square-facebook" style="font-size:25px"></i></a>
+            <a href="https://www.instagram.com/dwbdnc.msje/" aria-label="instagram" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fa-brands fa-square-instagram" style="font-size:25px"></i></a>
+            <a href="https://x.com/DwbdncG33045" aria-label="twitter" target="_blank" rel="noopener noreferrer" class="text-white me-2"><i class="fa-brands fa-square-x-twitter" style="font-size:25px"></i></a>
+            <a href="https://youtube.com/@DWBDNCMSJE" aria-label="youtube" rel="noopener noreferrer" target="_blank" class="text-white"><i class="fa-brands fa-square-youtube" style="font-size:25px"></i></a>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div class="text-white bg-info py-2 small" style="background-color:#2483C5 !important;">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-6 mt-2">
+				<div>Platform is Owned by: <strong>Government of India</strong></div>
+			</div>
+			<div class="col-md-6" style="text-align: right;">
+				<div class="mt-1">Last Modified: Monday, 8 June 2026 | Visitor Count: 356,275</div>
+				<div class="mt-1">© Copyright 2026 - All Rights Reserved</div>
+			</div>
+		</div>
+	</div>
+  </div>
+</footer>
+
+
+<footer id="footer" class="d-none">
+    <div class="footer-top">
+       <div class="container">
+          <div class="row">
+             <div class="col-lg-12 col-md-12 footer-contacts">
+                <ul class="footermenu">
+                   <li><a href="#">Feedback</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/faqs">FAQs</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/downloads/archive">Archive</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/rti">RTI</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/terms-conditions">Terms &amp; Conditions</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/privacy-policy">Privacy Policy</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/copyright-policy">Copyright Policy</a></li>
+                   <li><a href="https://dwbdnc.dosje.gov.in/content/hyperlinking-policy">Hyperlinking Policy</a></li>
+                   <!-- <li><a href="#">Sitemap</a></li> -->
+                                        
+                </ul>
+             </div>
+          </div>
+       </div>
+    </div>
+    <div class="footer-top-middle border-bottom">
+       <div class="container">
+          <div class="row">
+              <div class="col-lg-3 col-md-3 footer-contacts">
+                <p>
+                <a href="https://www.nic.in/" target="_blank" rel="noopener noreferrer" style="padding: 0;" onclick="return confirm('This link will take you to an external web site. \n यह लिंक आपको एक बाहरी वेब साइट पर ले जाएगा।'); ">
+                  <img src="/public/assets/img/nic_logo.png" class="img-responsive" style="max-width:100%;"></a>
+                </p>
+             </div>
+             <div class="col-lg-9 col-md-9 footer-contacts mt-5">
+              <p style="font-size:14px">This site is designed, developed, hosted and maintained by National Informatics Centre,Department of Social Justice and Empowerment, Ministry of Social Justice and Empowerment, Government of India.</p>   
+             </div>
+          </div>
+       </div>
+    </div>
+    <div class="footer-top-down">
+       <div class="container py-4s">
+          <div class="copyright"> No. Of Visitors<strong><span class="red-captcha">356,275</span></strong>
+          </div>
+          <div class="credits">Last updated on : <b>8 June 2026</b></div>
+       </div>
+    </div>
+ </footer>  <!-- The Modal -->
+  <div class="modal" id="trgtOtherModal">
+    <div class="modal-dialog modal-lg">
+    <div class="modal-content">
+      <div class="modal-header py-1">
+        <h4 class="modal-title">File View</h4>
+        <a type="button" class="fs-3 text-danger pointer-events" data-bs-dismiss="modal"><i class="fa fa-times-circle-o"></i></a>
+      </div>
+      <div class="modal-body p-1"></div>
+      <div class="modal-footer p-1">
+        <button type="button" class="btn btn-danger btn-sm btn-bold" data-bs-dismiss="modal">Close</button>
+      </div>
+    </div>
+  </div>
+  </div>
+
+	<a href="#" class="back-to-top d-flex align-items-center justify-content-center"><i class="bi bi-arrow-up-short"></i></a>
+
+  <script src="/public/js/jquery.min.js"></script>  
+  
+  <script>
+	/*$(document).ready(function() {
+		$('a[target="_blank"]').attr('rel', 'noopener noreferrer');
+	});
+	*/
+	function safeOpen(url)
+	{ 
+		if(confirm("You are being redirected to a third party site. Continue?"))
+		{
+		let win = window.open(url,"_blank","noopener noreferrer");
+		if (win) win.opener = null;
+		}
+	}
+	</script>
+	
+  <script src="/public/js/validate/jquery.validate.js"></script>
+  <script src="/public/js/validate/additional-methods.js"></script>
+  <script src="/public/js/popper.min.js"></script>
+  <script src="/public/js/bootstrap.bundle.min.js"></script>
+  <script src="/public/js/jquery-confirm.min.js"></script>  
+  <script src="/public/js/owl.carousel.min.js"></script>
+  <script src="/public/js/select2.min.js"></script>
+  
+  
+  
+<script type="text/javascript" language="javascript" src="/public/js/bootstrap.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/jquery.dataTables.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/dataTables.buttons.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.flash.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/jszip.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/vfs_fonts.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/pdfmake.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.html5.min.js"></script>
+<script type="text/javascript" language="javascript" src="/public/js/buttons.print.min.js"></script>
+  
+
+  <script src="/public/js/custom.js"></script>
+  
+  <script type="text/javascript">
+  
+  
+   
+  function showmessage(message){
+    swal(message);
+  }
+  $(document).ready(function(){
+    $(".font-size-dropdown").click(function(e){
+      e.stopPropagation();
+    });
+    
+    $(".inptEdt, .form-control[type=file]").parent().addClass("position-relative");
+    $("select.form-control").addClass("form-select");
+
+    $('.select2').select2();
+
+    $('.select2').one('select2:open', function(e) {
+      $('input.select2-search__field').prop('placeholder', ' Search...');
+    });
+    
+  });
+
+  function validateForm() {
+    var result=confirm("Are you sure you want to reject this form?");
+    if(result) {
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+  }
+  function validateApprove() {
+    var result=confirm("Are you sure you want to approve this form?");
+    if(result) {
+      return true;
+    }
+    else
+    {
+      return false;
+    }
+  }
+  </script>
+  
+<script type="text/javascript">
+    
+    var url = "https://dwbdnc.dosje.gov.in/lang/change";
+    
+    $(".changeLang").change(function(){ 
+        window.location.href = url + "?lang="+ $(this).val();
+    });
+    
+</script>
+
+<script>
+function myFunction(event) {
+        var btn = event.target; // The button that was clicked
+        var moreTextId = btn.getAttribute("data-more-id"); // Get the ID of the related more-content section
+        var moreText = document.getElementById(moreTextId); // The related more-content section
+
+        if (moreText.style.display === "block") {
+            btn.innerHTML = "Read more";
+            moreText.style.display = "none";
+        } else {
+            btn.innerHTML = "Read less";
+            moreText.style.display = "block";
+        }
+    }
+	
+	
+	function showState(event) {
+        var area = event.target;
+        var stateName = area.getAttribute('data-state');
+        var stateInfo = document.getElementById('state-info');
+
+        stateInfo.innerHTML = stateName;
+        stateInfo.style.display = 'block';
+        stateInfo.style.left = event.pageX + 'px';
+        stateInfo.style.top = event.pageY + 'px';
+
+        area.classList.add('highlight');
+    }
+
+    function hideState(event) {
+        var area = event.target;
+        var stateInfo = document.getElementById('state-info');
+
+        stateInfo.style.display = 'none';
+        area.classList.remove('highlight');
+    }
+		
+</script>
+
+<script>
+    $(document).ready(function() {
+        // Get the URL fragment
+        var hash = window.location.hash;
+
+        // If there's a hash, activate the corresponding tab
+        if (hash) {
+            $('.nav-tabs a[href="' + hash + '"]').tab('show');
+        }
+
+        // Update the URL when a tab is shown
+        $('a[data-toggle="tab"]').on('shown.bs.tab', function(e) {
+            window.location.hash = e.target.hash;
+        });
+    });
+</script>
+
+</body></html>

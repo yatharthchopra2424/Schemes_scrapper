@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-24",
+  "scheme_name": "BIG Grant",
+  "scheme_url": "https://birac.nic.in/big.php",
+  "ministry_or_category": "Biotechnology",
+  "overview": "Biotechnology Ignition Grant (BIG) scheme is the flagship programme of BIRAC which supports young startups. It provides early-stage funding support of INR 50 Lakhs as grant-in-aid for a period of 18 months to translate innovative ideas into Proof of Concept. The purpose of the BIG Scheme is to foster generation of ideas with commercialisation potential, upscale and validate proof of concept, encourage researchers to take technology closer to market through a startup, and stimulate enterprise formation.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster generation of ideas with commercialisation potential",
+    "Upscale and validate proof of concept",
+    "Encourage researchers to take technology closer to market through a startup",
+    "Stimulate enterprise formation"
+  ],
+  "eligibility": "The Company/LLP should be registered under the Indian Companies Act, 1956/2013. The incorporation date of the Company/LLP should not be earlier than 5 years from the date of launch of a particular BIG call. A company is considered as 'owned' by resident Indian citizen(s) if minimum 51% of the capital is beneficially owned by resident Indian citizen(s) and/or Indian companies, which are ultimately owned and controlled by resident Indian citizens. Company/LLP’s application should be represented by a Project Leader. The Company/LLP must have its own in-house R&D facility that is functional and adequate to execute the project. If the Company/LLP does not have a functional and adequate laboratory of its own then it should be incubated at an incubator. If an applicant company, in which any promoter holding more than or equal to 20% of the shares, is a co-promoter of another ineligible company or a partner in another ineligible LLP, then the applicant will not be eligible. The only exception to this shall be a situation wherein the latter ineligible company/LLP is operating in a non-biotech domain. Companies that are in default of loan repayment to BIRAC, as well as their promoters, shall be deemed ineligible to apply under the scheme.",
+  "benefits": "BIG provides early-stage funding support of INR 50 Lakhs as grant-in-aid for a period of 18 months. Successful BIG Innovators receive up to INR 50 lakh for research projects with commercialization potential with duration of up to 18 months. As part of the scheme, successful BIG Innovators receive mentoring, monitoring, networking and other business development related activities through 8 BIG Partners across the country.",
+  "financial_support": "The funding support under BIG is in the form of a grant-in-aid. Extent of funding is up to INR 50 lakhs. The fund allocation under BIG is milestone based and released in 3-4 installments: 1. INR 20.00 lakhs upon signing of the Grant Agreement. 2. One to two instalments, each of up to INR 20.00 lakhs to be released based on satisfactory progress of project milestones and funding requirement. 3. Up to INR 5.00 lakhs upon successful completion of the project and submission of the Final Technical Report. Note: The final tranche shall be released as reimbursement upon submission and acceptance of the final Utilization Certificate (UC), Statement of Expenditure (SoE), and the Project Completion Report. Total fund not exceeding INR 50 lakhs. The funding is provided for a period of up to 18 months. The project is implemented in a milestone-based manner.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakhs",
+  "application_process": "1. BIRAC issues a national call inviting applications under BIG at least twice a year (typically on 1st of January & 1st of July). 2. The Call for Proposals is advertised through one or more means that may include BIRAC website, newspapers, journals and magazines. 3. The Call for Proposals is typically open for a period of 30 days. 4. The BIG Scheme is implemented across the country through BIRAC’s BIG Partners. The Call will mention the names of BIG Partners for the particular call. 5. Application for BIG needs to be submitted online ONLY through BIRAC website www.birac.nic.in. 6. Applicants are advised to fill-up and submit their applications early without waiting for the last date in order to avoid last-minute rush. Please note that the online system will stop accepting applications automatically at the specific date and time mentioned in the Call details. 7. Applicants are advised to provide sufficient details in their applications to allow for an informed and fair evaluation/review. 8. Requests for changes in a proposal once submitted will not be entertained. 9. Providing incorrect information intentionally is viewed adversely and may lead to disqualification.",
+  "application_portal_url": "https://birac.nic.in/big.php",
+  "required_documents": [
+    "Registration Certificate Of Company",
+    "Company’s PAN Card",
+    "Memorandum of Association of company",
+    "Article of Association Company",
+    "Undertaking from Scientific Advisors/ Mentors to serve as honorary advisors",
+    "Undertaking from the key members of the technical team",
+    "Letter of interest/intent from the incubator",
+    "Evidence of access to unique facility(ies) needed to execute a project",
+    "Evidence of access to key samples needed to execute the project (eg: bio-fluids)",
+    "Letter of acceptance or MoU with incubator",
+    "Formal agreements/ MoUs with other key facility(ies) providers/ suppliers",
+    "Declaration document on ethical/legal/safety/regulatory issues",
+    "Presentation",
+    "Additional Relevant Document",
+    "Details of Equipment Accessories",
+    "Human Resources to be Involved",
+    "Budget Details"
+  ],
+  "deadlines": "Call announcement calendar: The call for proposal is announced twice a year, i.e. on 1st January and 1st July. Call for proposals typically remains open for about 45 days.",
+  "implementing_agency": "Biotechnology Industry Research Assistance Council (BIRAC), a Public Sector Enterprise, set up by Department of Biotechnology (DBT), Government of India",
+  "contact_details": "Email: dkumar[at]birac[dot]nic[dot]in | Email: tech03[at]birac[dot]nic[dot]in",
+  "caveats": [
+    "BIG grant is not a research fellowship and cannot be used to support PhD or any other academic research.",
+    "Projects having a low element of novelty are not supported.",
+    "Projects lacking a significant biotech component or robust scientific foundation are not supported.",
+    "Late stage projects involving systematic clinical trials, field trials or late-stage validation/ certification of the technology are not supported.",
+    "BIG support can be provided only once to any startup.",
+    "Applicants must show documentary evidence for verification by BIG Partners.",
+    "The proposed objectives and deliverables should not have received funding support from any other agency.",
+    "Undertaking by the applicant that the project with same objectives and deliverables has not received funding from any other agency."
+  ],
+  "source_cited_notes": [
+    "https://birac.nic.in/big.php",
+    "https://birac.nic.in/webcontent/1761936564_big_new_guidelines_nov_2025.pdf",
+    "https://birac.nic.in/webcontent/big_user_guide_nov_25.docx",
+    "https://birac.nic.in/webcontent/big_user_registration_guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T11:55:39.316147+00:00"
+}

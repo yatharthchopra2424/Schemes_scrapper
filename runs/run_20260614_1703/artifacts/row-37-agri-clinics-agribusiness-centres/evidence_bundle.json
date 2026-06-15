@@ -1,0 +1,76 @@
+{
+  "scheme": {
+    "row_id": "row-37",
+    "ministry_or_category": "Agriculture & Rural",
+    "scheme_name": "Agri Clinics & Agribusiness Centres",
+    "scheme_url": "https://agricoop.nic.in/"
+  },
+  "crawl": {
+    "pages": [
+      {
+        "url": "https://agricoop.nic.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-37-agri-clinics-agribusiness-centres\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:02:47.206320+00:00",
+        "error": "DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://agricoop.nic.in/: DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ]
+  },
+  "evidence": {
+    "pages": [
+      {
+        "url": "https://agricoop.nic.in/",
+        "depth": 0,
+        "title": "",
+        "text": "",
+        "html_path": "runs\\run_20260614_1703\\artifacts\\row-37-agri-clinics-agribusiness-centres\\html\\page_001.html",
+        "discovered_links": [],
+        "discovered_documents": [],
+        "referrer": null,
+        "fetched_at": "2026-06-14T12:02:47.206320+00:00",
+        "error": "DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+      }
+    ],
+    "documents": [],
+    "skipped_urls": [],
+    "crawl_errors": [
+      "https://agricoop.nic.in/: DNS_FAIL: Message: unknown error: net::ERR_NAME_NOT_RESOLVED"
+    ]
+  },
+  "analysis": {
+    "overview": "[Extraction failed] LLM output validation failed: 1 validation error for SchemeInsight\nscheme_type\n  Input should be 'grant', 'loan', 'subsidy', 'recognition', 'incubation', 'tax_benefit' or 'other' [type=literal_error, input_value='', input_type=str]\n    For further information visit https://errors.pydantic.dev/2.13/v/literal_error",
+    "scheme_type": "other",
+    "target_beneficiaries": [],
+    "geographic_scope": "",
+    "objectives": [],
+    "eligibility": "",
+    "benefits": "",
+    "financial_support": "",
+    "fund_size_crores": "",
+    "grant_amount_per_entity": "",
+    "application_process": "",
+    "application_portal_url": "",
+    "required_documents": [],
+    "deadlines": "",
+    "implementing_agency": "",
+    "contact_details": "",
+    "caveats": [],
+    "source_cited_notes": [
+      "No validated LLM output available."
+    ],
+    "last_updated_date": "",
+    "confidence": "low",
+    "analysis_timestamp": "2026-06-14T12:03:20.750986+00:00"
+  },
+  "analysis_raw": "{\n  \"overview\": \"\",\n  \"scheme_type\": \"\",\n  \"target_beneficiaries\": [],\n  \"geographic_scope\": \"\",\n  \"objectives\": [],\n  \"eligibility\": \"\",\n  \"benefits\": \"\",\n  \"financial_support\": \"\",\n  \"fund_size_crores\": \"\",\n  \"grant_amount_per_entity\": \"\",\n  \"application_process\": \"\",\n  \"application_portal_url\": \"\",\n  \"required_documents\": [],\n  \"deadlines\": \"\",\n  \"implementing_agency\": \"\",\n  \"contact_details\": \"\",\n  \"caveats\": [],\n  \"source_cited_notes\": [],\n  \"last_updated_date\": \"\",\n  \"confidence\": \"low\"\n}"
+}

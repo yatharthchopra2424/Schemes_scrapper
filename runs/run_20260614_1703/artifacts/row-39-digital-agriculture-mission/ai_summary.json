@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-39",
+  "scheme_name": "Digital Agriculture Mission",
+  "scheme_url": "https://agriwelfare.gov.in/en/DigiAgriDiv",
+  "ministry_or_category": "Agriculture & Rural",
+  "overview": "Digital Agriculture Mission aims to establish a comprehensive farmer-centric digital and space-tech ecosystem to enhance transparency and efficiency in the execution of government programs while providing crucial support for evidence-based policy making for farmers’ welfare. It seeks to create a robust and holistic farmer-centric digital ecosystem in the country, improve transparency and efficiency in the implementation of government initiatives, support the government in making informed policy decisions, and promote public and private innovation and partnerships, encouraging Agri techs in India’s digital economy. The mission includes key components such as Digital Public Infrastructure (DPI) for Agriculture (Agristack, Krishi Decision Support System, Comprehensive Soil Fertility, and Profile Maps), Digital General Crop Estimation Survey (DGCES), support to Mahalanobis National Crop Forecasting Centre (MNCFC), and activities under the erstwhile NeGP-A scheme.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "agri-startups",
+    "research institutions",
+    "state governments",
+    "UT administrations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create a robust and holistic farmer-centric digital ecosystem in the country",
+    "To improve transparency and efficiency in the implementation of government initiatives",
+    "To support the government in making informed policy decisions",
+    "To promote public and private innovation and partnerships, encouraging Agri techs in India’s digital economy"
+  ],
+  "eligibility": "States/UTs are eligible to submit proposals under the Digital Agriculture Mission, particularly for projects involving Digital Public Infrastructure (DPI) for Agriculture, Digital General Crop Estimation Survey (DGCES), support to Mahalanobis National Crop Forecasting Centre (MNCFC), and IT initiatives for States, Academic & Research Institutions under the Mission. Proposals must include DPR, financial implications, clear timelines, and technology involved, and should preferably be submitted in the first quarter but not later than the second quarter of the Financial Year.",
+  "benefits": "The mission provides support for evidence-based policy making, enhances transparency and efficiency in government program execution, promotes public-private partnerships in the agri-tech sector, enables real-time crop survey data collection through Digital Crop Survey (DCS), supports soil resource mapping at 1:10,000 scale, facilitates automated General Crop Estimation Survey (GCES) processes, and strengthens crop forecasting and yield estimation through integration with MNCFC. It also supports IT initiatives for states and academic institutions to develop scalable digital solutions using emerging technologies.",
+  "financial_support": "Funds under the Digital Agriculture Mission are released to States/UTs in 4 equal tranches as per the latest guidelines of the Department of Expenditure (DoE), subject to submission of satisfactory status reports via PFMS. The mission provides financial assistance for Digital Crop Survey (DCS) pilots, manpower deployment for DCS/Help Desk/PMU, procurement of DCS-related infrastructure, and utilization of existing state funds for DCS activities. Academic and research institutes may receive 100% funds for building scalable digital solutions using advanced technologies aligned with Digital Public Infrastructure (DPI) in Agriculture, subject to recommendation by a High-level Evaluation Committee.",
+  "fund_size_crores": "2817",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs should submit proposals under NeGP-A preferably in the first quarter but not later than the second quarter of the Financial Year. 2. The proposal must contain DPR, financial implication, clear timelines, and technology involved. 3. Proposals are examined based on use of latest technology, innovation, scalability, success, and viability of the proposed solution before proposing for pilot. 4. The States/UTs are advised to come up with proposals whose life-cycle from conception to implementation is preferably for one year with clear timelines of implementation. 5. Funds to the States/UTs are released in 4 equal tranches as per DoE guidelines, subject to submission of satisfactory status reports via PFMS. 6. Next installment is released after receipt of satisfactory status report from the States/UTs. 7. Pilot projects requiring basic infrastructure (hardware & manpower) have such costs borne by the concerned state. 8. The Centre has co-ownership of intellectual property created during the pilot, requiring States/UTs to share details and outcomes with the Centre. 9. States/UTs are required to share Cost-Benefit analysis with the Central Government as part of feedback project monitoring. 10. The sanctioned project must be completed within the stipulated time, extendable by up to one year at a time with prior approval, up to a maximum of two years; unspent amount must be surrendered if not completed in the extended year.",
+  "application_portal_url": "",
+  "required_documents": [
+    "DPR (Detailed Project Report)",
+    "Financial implication details",
+    "Clear timelines",
+    "Technology involved",
+    "Cost-Benefit analysis (for feedback and monitoring)"
+  ],
+  "deadlines": "Proposals should be submitted preferably in the first quarter but not later than the second quarter of the Financial Year.",
+  "implementing_agency": "Department of Agriculture & Farmers Welfare (DA&FW), Ministry of Agriculture & Farmers Welfare",
+  "contact_details": "Email: us-it@nic.in | Phone: 011-23382926 (Under Secretary, IT Division)",
+  "caveats": [
+    "Pilot projects requiring basic infrastructure (hardware & manpower) have such costs borne by the concerned state.",
+    "The Centre has co-ownership of intellectual property created during the pilot; States/UTs must share details and outcomes with the Centre.",
+    "States/UTs must share Cost-Benefit analysis with the Central Government for feedback and project monitoring.",
+    "The project must be completed within the stipulated time; extension up to one year at a time is allowed with prior approval, up to a maximum of two years.",
+    "If the project is not completed in the extended year, the State/UT must surrender the unspent amount.",
+    "New proposals are considered only after confirmation from PAO on receipt of refund amount from previous unspent funds."
+  ],
+  "source_cited_notes": [
+    "https://agriwelfare.gov.in/en/DigiAgriDiv",
+    "https://agriwelfare.gov.in/Documents/LatestrevisedNeGPAguidelines_2023.pdf",
+    "https://agriwelfare.gov.in/Documents/Digital Agriculture Mission Guidelines. Download (31.50 MB) Publish Date: 26-09-2024"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-06-14T12:09:17.027624+00:00"
+}
