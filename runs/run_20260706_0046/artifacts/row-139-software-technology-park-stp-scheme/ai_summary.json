@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-139",
+  "scheme_name": "Software Technology Park (STP) Scheme",
+  "scheme_url": "https://www.stpi.in/en-in/about-stpi/stp-scheme",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "The Software Technology Park (STP) Scheme is a 100% export-oriented scheme for the development and export of computer software, including export of professional services using communication links or physical media. It integrates the government concept of 100% Export Oriented Units (EOU) and Export Processing Zones (EPZ) with the concept of Science Parks/Technology Parks. The scheme provides single-point contact services for member units to conduct export operations at a pace commensurate with international practices.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "software exporters",
+    "IT/ITES companies",
+    "computer software developers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote the development and export of computer software",
+    "To provide single-window clearance and statutory services to exporters",
+    "To enable duty-free import of hardware and software for STP units",
+    "To allow 100% foreign equity and free repatriation of capital and profits",
+    "To support re-export of capital goods and donation of computers after two years",
+    "To provide 100% depreciation on computers and peripherals over five years",
+    "To permit sales in Domestic Tariff Area (DTA) with GST refund on capital goods",
+    "To simplify export performance norms to 'Positive Net Foreign Exchange Earnings'"
+  ],
+  "eligibility": "Any entity engaged in the development and export of computer software, including professional services via communication links or physical media, can set up an STP unit anywhere in India. Jurisdictional STPI authorities can clear projects costing less than Rs.100 million with Indian Investment. 100% foreign equity is permitted.",
+  "benefits": "Single window clearance system; permission to set up STP units anywhere in India; duty-free import of hardware and software; permission to import second-hand capital goods; re-export of capital goods allowed; simplified minimum export performance norms (Positive Net Foreign Exchange Earnings); use of computer systems for commercial training permissible if no terminals outside STP premises; sales in Domestic Tariff Area (DTA) allowed with GST refund on capital goods purchased from DTA; free repatriation of capital invested by foreign entrepreneurs, know-how fees, royalty, dividend after payment of Income Taxes; donation of computers and peripherals to recognized non-commercial educational institutions, charitable hospitals, public libraries, funded R&D establishments, or Govt. of India/State/UT after two years without duty payment; 100% depreciation on computers and computer peripherals over five years.",
+  "financial_support": "The STP Scheme does not provide direct financial support such as grants, loans, or subsidies. Instead, it offers fiscal benefits including duty-free imports, GST refunds on capital goods purchased from DTA, and 100% depreciation on computers and peripherals over five years. There is no mention of a fund corpus, grant amount per entity, or direct financial disbursement to beneficiaries.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply for registration under the STP Scheme through STPI. 2. Obtain Letter of Permission from jurisdictional STPI authorities (within 10 days). 3. Submit Legal Undertaking-cum-endorsement of Capital Goods (CG) (within 3 days). 4. Receive Green Card (within 2 days). 5. For online registration, click 'For Online Registration Click Here' on the STP Scheme page.",
+  "application_portal_url": "https://stpi.in/en/stp-scheme",
+  "required_documents": [
+    "Letter of Permission application",
+    "Legal Undertaking-cum-endorsement of Capital Goods (CG)",
+    "Green Card application",
+    "Project details for clearance (if cost < Rs.100 million with Indian Investment)",
+    "Details of foreign equity (if applicable)",
+    "Import/export documentation for hardware and software",
+    "Proof of donation eligibility for computers after two years (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: sachin[at]stpi[dot]in (Chief Finance Officer, STPI HQ) | Phone: +91-11-24628081",
+  "caveats": [
+    "Units must maintain 100% export orientation for software and professional services",
+    "Benefits like duty-free import and GST refund are contingent on compliance with export performance norms",
+    "Donation of computers and peripherals is permitted only after two years of import",
+    "100% depreciation benefit is spread over five years",
+    "Sales in Domestic Tariff Area (DTA) are permitted but capital goods purchased from DTA are eligible for GST refund only",
+    "Re-export of capital goods is permitted under specified conditions"
+  ],
+  "source_cited_notes": [
+    "https://stpi.in/en/stp-scheme",
+    "https://stpi.in/en/statutory-services",
+    "https://stpi.in/en/citizens-charter"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:41:08.238859+00:00"
+}

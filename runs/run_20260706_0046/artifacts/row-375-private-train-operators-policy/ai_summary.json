@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-375",
+  "scheme_name": "Private Train Operators Policy",
+  "scheme_url": "https://indianrailways.gov.in",
+  "ministry_or_category": "Railways",
+  "overview": "The Private Train Operators Policy is a scheme under the Ministry of Railways that allows private entities to operate passenger trains on Indian Railways network. It aims to introduce competition, improve service quality, and enhance passenger experience through private sector participation in train operations. The policy enables private operators to run trains under specified terms and conditions, contributing to modernization and efficiency in rail services.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private train operators",
+    "railway passengers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Introduce private sector participation in passenger train operations",
+    "Enhance service quality and passenger experience",
+    "Increase competition and efficiency in rail services",
+    "Modernize rolling stock and infrastructure through private investment",
+    "Expand train connectivity and frequency on existing routes",
+    "Generate employment and stimulate economic activity",
+    "Leverage private expertise for innovation in rail services",
+    "Optimize utilization of railway infrastructure"
+  ],
+  "eligibility": "Private entities meeting the criteria set by the Ministry of Railways, including financial capability, technical expertise, and compliance with safety and operational standards, are eligible to apply for operating private trains under the policy. Specific eligibility conditions are defined in the policy documents and tender notices issued by the Railway Board.",
+  "benefits": "Private train operators benefit from the opportunity to operate trains on Indian Railways network, access to railway infrastructure, potential for revenue generation, and contribution to improved passenger services. Passengers benefit from enhanced service quality, modern amenities, increased train frequency, and competitive fares resulting from private participation.",
+  "financial_support": "The policy does not involve direct financial support from the government to private operators. Instead, private operators are expected to bear the capital and operational costs of train operations, including procurement of rolling stock, maintenance, and staffing, while paying applicable charges to Indian Railways for use of infrastructure and services as per the agreed terms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Monitor tender notices issued by the Railway Board for private train operations. 2. Check eligibility criteria and requirements specified in the tender documents. 3. Prepare and submit the bid as per the instructions in the tender notice. 4. Submit required documents including financial statements, technical proposals, and compliance certificates. 5. Await evaluation and selection process by the Railway Board. 6. Sign the concession agreement upon selection. 7. Fulfill pre-operational requirements such as rolling stock procurement and safety certifications. 8. Commence operations as per the agreed schedule and terms.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Bid proposal as per tender notice",
+    "Financial statements and proof of funding",
+    "Technical details of proposed rolling stock and operations",
+    "Safety and compliance certificates",
+    "Legal entity registration documents",
+    "Tax compliance records",
+    "Project report and implementation plan",
+    "Any other documents specified in the tender"
+  ],
+  "deadlines": "As per tender notices issued by the Railway Board",
+  "implementing_agency": "Ministry of Railways, Railway Board",
+  "contact_details": "",
+  "caveats": [
+    "Operations are subject to the terms and conditions of the concession agreement",
+    "Private operators must comply with all safety, operational, and regulatory standards of Indian Railways",
+    "The policy does not guarantee exclusivity on routes",
+    "Charges for use of railway infrastructure and services apply as per agreement",
+    "Performance is subject to periodic review and penalties for non-compliance"
+  ],
+  "source_cited_notes": [
+    "https://indianrailways.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:01:22.681999+00:00"
+}

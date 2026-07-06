@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-233",
+  "scheme_name": "Beti Bachao Beti Padhao (BBBP)",
+  "scheme_url": "https://wcd.nic.in/bbbp-schemes",
+  "ministry_or_category": "Social Welfare",
+  "overview": "Beti Bachao Beti Padhao (BBBP) is a joint initiative of the Ministry of Women and Child Development, Ministry of Health and Family Welfare, and Ministry of Education, launched to address the declining child sex ratio and promote the education and empowerment of the girl child. The scheme focuses on preventing gender-biased sex-selective elimination, ensuring survival and protection of the girl child, and promoting her education and participation. It operates through a multi-sectoral approach involving awareness campaigns, enforcement of PC&PNDT Act, and incentivizing girl child education.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "girl child",
+    "families with girl child",
+    "communities in low child sex ratio districts"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Prevent gender-biased sex-selective elimination",
+    "Ensure survival and protection of the girl child",
+    "Ensure education and participation of the girl child"
+  ],
+  "eligibility": "The scheme targets families and communities in districts identified with low Child Sex Ratio (CSR) as per Census data. There is no individual beneficiary registration; benefits are delivered through district-level interventions and awareness campaigns. Eligibility for specific incentives under BBBP-linked schemes (like Sukanya Samriddhi Yojana) is governed by those respective schemes.",
+  "benefits": "Non-financial benefits include awareness campaigns, community mobilization, training of functionaries, and monitoring of CSR. Financial benefits are delivered through linked schemes such as Sukanya Samriddhi Yojana (SSY), which offers tax-free interest and tax deduction under Section 80C. BBBP also facilitates convergence with other schemes for scholarships, bicycles, toilets, and financial incentives for girl child education.",
+  "financial_support": "BBBP itself does not provide direct financial transfers to beneficiaries. Financial support is channeled through convergent schemes like Sukanya Samriddhi Yojana (SSY), where guardians can open accounts for girl children with a minimum deposit of INR 250 and maximum of INR 1.5 lakh per financial year, earning interest rate fixed by the government (currently 8.2% per annum, compounded annually). The scheme also supports state-level incentives for girl child education under the BBBP framework.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the district-level BBBP implementation unit (usually under District Magistrate or Women and Child Development Officer). 2. Awareness and mobilization activities are conducted at the community level through Anganwadi workers, ASHA, and school teachers. 3. For financial benefits under linked schemes (e.g., Sukanya Samriddhi Yojana), visit a authorized bank or post office with the girl child’s birth certificate and parent/guardian ID proof. 4. Open SSY account and deposit funds as per rules. 5. Monitor progress through district-level BBBP task force meetings and periodic reviews.",
+  "application_portal_url": "https://wcd.nic.in/bbbp-schemes",
+  "required_documents": [
+    "Birth certificate of the girl child",
+    "Identity proof of parent/guardian (Aadhaar, Voter ID, etc.)",
+    "Address proof",
+    "Photographs of parent/guardian and girl child"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline for account opening under linked schemes like Sukanya Samriddhi Yojana. BBBP activities are ongoing throughout the year.",
+  "implementing_agency": "Ministry of Women and Child Development, Government of India",
+  "contact_details": "Email: bbBP-mwcd@gov.in | Helpline: 1800-11-7777 (Women Helpline)",
+  "caveats": [
+    "Direct financial benefits are not provided under BBBP; they are accessed through convergent schemes like Sukanya Samriddhi Yojana",
+    "The scheme focuses on advocacy and behavioral change; fund utilization is monitored for awareness and training components",
+    "Impact is assessed through improvements in Child Sex Ratio at birth and girl child enrollment rates"
+  ],
+  "source_cited_notes": [
+    "https://wcd.nic.in/bbbp-schemes"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:24:45.226552+00:00"
+}

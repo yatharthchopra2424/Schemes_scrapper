@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-521",
+  "scheme_name": "Bar Coding / Quality Certification Reimbursement Scheme",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "MSME Clusters",
+  "overview": "The Bar Coding / Quality Certification Reimbursement Scheme provides financial assistance to micro enterprises for adopting bar codes and quality certification. It offers reimbursement of 80% of one-time registration fees and annual recurring fees for the first three years for bar code adoption, and financial assistance on annual membership or subscription fees for selling products via e-commerce platforms. The scheme aims to enhance market access and competitiveness of micro enterprises through standardized product identification and quality assurance.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Micro enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of Bar Code among micro enterprises",
+    "Provide financial assistance for bar code registration and renewal",
+    "Support micro enterprises in selling products via e-commerce platforms",
+    "Enhance market access and product visibility",
+    "Encourage use of modern packaging techniques",
+    "Facilitate participation in trade fairs and exhibitions",
+    "Support vendor development programs",
+    "Conduct national workshops and seminars on business development"
+  ],
+  "eligibility": "Manufacturing / Service sector MSEs having valid Udyam Registration (UR) Certificate. Micro enterprises which have UDYAM Registration and also have registration with GS1 India for use of Bar Codes.",
+  "benefits": "Financial assistance of 80% of one-time registration fee and annual recurring fee (for first three years) for adoption of Bar Code (Micro enterprises). Financial assistance on annual membership fee/subscription fee/contingency expenses (photography, cataloguing, advertising, etc.) for selling their products or services by Micro Enterprises. 80% subsidy on built up space rent paid for General & 100% for SC/ST/Women/PH/Aspirational District and 100% contingency expenditure for Trade fairs (Micro & Small Enterprises).",
+  "financial_support": "The scheme provides financial assistance of 80% of one-time registration fee and annual recurring fee (for first three years) for adoption of Bar Code by micro enterprises, subject to a maximum of Rs. 50,650/-. For e-commerce platform adoption, financial assistance of 75% of paid amount by Micro Enterprises is provided, subject to a maximum of Rs. 25,000/- per financial year. For trade fairs, 80% subsidy on built up space rent is provided for General category and 100% for SC/ST/Women/PH/Aspirational District, along with 100% contingency expenditure (subject to maximum Rs. 25,000/-).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to Rs. 50,650/- for Bar Code registration (one-time and annual recurring fees for first three years)",
+  "application_process": "1. Confirm eligibility as a micro enterprise with valid Udyam Registration and GS1 India registration for Bar Code. 2. Obtain application form from the Director/HOO of the respective MSME Development Institute (MSME-DI). 3. Fill in the application form with details of the micro enterprise, amount paid for one-time and annual recurring fees to GS1 India. 4. Attach required documents: attested copy of cash receipt, license from GS1 India, pre-receipted bills in triplicate, copy of UDYAM Registration, affidavit, and undertaking. 5. Submit the application to the Director/HOO of the MSME-DI. 6. Await verification and reimbursement processing.",
+  "application_portal_url": "https://my.msme.gov.in/MyMsme/Reg/COM_ViewEvent.aspx",
+  "required_documents": [
+    "Attested copy of Cash Receipt for total amount (one-time registration fee &/or annual recurring fee) paid to GS1 India for use of Bar Codes",
+    "Attested copy of license received from GS1 India for use of Bar Code",
+    "Pre-receipted bill (in original) in triplicate for amount to be reimbursed for one-time registration fees",
+    "Pre-receipted bill (in original) in triplicate for amount to be reimbursed for annual recurring fee for 1st three years",
+    "Copy of UDYAM Registration of the micro enterprise",
+    "Affidavit as per Annexure - III regarding current status of the enterprise",
+    "Undertaking as per Annexure-IV (concerning non-receipt of similar financial assistance from any other organization and/or from Office of the DC (MSME))"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Office of the Development Commissioner (MSME)",
+  "contact_details": "Head Quarters: Joint Director, O/o DC(MSME), Nirman Bhawan, New Delhi. Tel: 011-23061198 Email: pms[dot]division[at]dcmsme[dot]gov[dot]in",
+  "caveats": [
+    "Only micro enterprises with valid Udyam Registration and GS1 India registration for Bar Code are eligible",
+    "Reimbursement is limited to 80% of one-time registration fee and annual recurring fee for the first three years",
+    "Maximum reimbursement for Bar Code is capped at Rs. 50,650/-",
+    "For e-commerce platform, assistance is limited to 75% of paid amount, subject to maximum Rs. 25,000/- per financial year",
+    "An MSE is allowed reimbursement for a maximum of 2 events in a year under the scheme's trade fair component"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-1-QzMzETMtQWa",
+    "https://msme.gov.in/static/uploads/2025/06/89c36d04131a60b200a88177b91317c8.pdf"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:12:25.653392+00:00"
+}

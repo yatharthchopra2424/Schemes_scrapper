@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-715",
+  "scheme_name": "Common Facility Centre for Gems & Jewellery Clusters",
+  "scheme_url": "https://www.gjepc.org",
+  "ministry_or_category": "Gems & Jewellery",
+  "overview": "The Common Facility Centre for Gems & Jewellery Clusters is a scheme under the Micro & Small Enterprises Cluster Development Programme (MSE-CDP) of the Ministry of MSME, Government of India. It aims to support the sustainability and growth of micro and small enterprises by addressing common issues such as improvement of technology, skills, quality, and market access. The scheme facilitates the creation of Common Facility Centres (CFCs) that provide shared infrastructure like production/processing centres, design centres, testing facilities, effluent treatment, and raw material depots to clusters of MSMEs in the gems and jewellery sector.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To support the sustainability and growth of MSEs by addressing common issues such as improvement of technology, skills & quality, market access, etc.",
+    "To create/upgrade infrastructural facilities in the new/existing Industrial Areas/Clusters of MSEs.",
+    "To set up Common Facility Centres (for testing, training, raw material depot, effluent treatment, complementing production processes, etc).",
+    "To promote green & sustainable manufacturing technology for the clusters.",
+    "To create Common Facility Centers including Plug & Play Facilities.",
+    "To support for Infrastructure Development Projects including Flatted Factory Complexes."
+  ],
+  "eligibility": "Existing Entrepreneurs [in form of a Special Purpose Vehicles (SPVs)].",
+  "benefits": "Creation of Common Facility Centres providing shared infrastructure such as Common Production / Processing Centre, Design Centers, Testing Facilities including Plug & Play Facilities. GoI Assistance: up to 80% of the maximum Project cost of Rs. 30 crores.",
+  "financial_support": "GoI Assistance: up to 80% of the maximum Project cost of Rs. 30 crores. The balance amount of the total project cost is to be contributed by the SPV/cluster members and/or financial institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the cluster and form a Special Purpose Vehicle (SPV) of existing entrepreneurs. 2. Prepare a Detailed Project Report (DPR) for the Common Facility Centre. 3. Submit the application through the MSME Cluster Development Programme portal. 4. Application is appraised by the Technical Agency and forwarded to the Ministry of MSME. 5. Upon approval, GoI releases funds in installments based on project milestones. 6. The SPV implements the project and utilizes the CFC for shared services.",
+  "application_portal_url": "https://cluster.dcmsme.gov.in",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of incorporation of SPV",
+    "PAN of SPV",
+    "Bank account details of SPV",
+    "Land documents for CFC site",
+    "Undertaking from SPV members",
+    "Quotations for plant and machinery",
+    "Approval from local authorities (if required)"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises (M/o MSME), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "GoI Assistance is limited to 80% of the maximum Project cost of Rs. 30 crores.",
+    "The SPV must contribute the remaining 20% of the project cost.",
+    "The CFC must be used for common services by the cluster members.",
+    "The project must be completed within the stipulated timeline.",
+    "Utilization certificate and audit report must be submitted after completion."
+  ],
+  "source_cited_notes": [
+    "https://gjepc.org/pdf/MSME/Central-Government-Scheme.pdf"
+  ],
+  "last_updated_date": "2025-26",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:12:52.705120+00:00"
+}

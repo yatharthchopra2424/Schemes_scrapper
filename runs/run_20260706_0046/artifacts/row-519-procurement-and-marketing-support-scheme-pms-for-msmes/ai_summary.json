@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-519",
+  "scheme_name": "Procurement and Marketing Support Scheme (PMS) for MSMEs",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "MSME Clusters",
+  "overview": "The Procurement and Marketing Support Scheme (PMS) for MSMEs aims to enhance the marketability of products and services by supporting market access initiatives such as participation in national and international trade fairs, exhibitions, and buyer-seller meets. It provides financial assistance for adopting modern packaging techniques, bar codes, e-commerce platforms, and developing retail outlets. The scheme also includes capacity building, vendor development programs, and national workshops/seminars to educate MSMEs on business development, packaging, and export readiness.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote new market access initiatives like organizing/participation in National/International Trade Fairs/Exhibitions/MSME Expo",
+    "Create awareness and educate MSMEs about importance/methods/process of packaging in marketing, latest packaging technology, import-export policy and procedure, GeM portal, MSME Conclave, latest developments in international/national trade",
+    "Support adoption of modern packaging techniques, bar codes, and e-commerce platforms",
+    "Facilitate market linkages through Vendor Development Programs (VDP) for effective implementation of Public Procurement Policy",
+    "Provide capacity building through cluster-based interventions for specific packaging and branding requirements",
+    "Develop retail outlets for promoting Geographical Indication (GI) products",
+    "Conduct national workshops/seminars on business development, technology, EXIM policy, and market research"
+  ],
+  "eligibility": "Manufacturing/Service sector MSEs having valid Udyam Registration (UR) Certificate.",
+  "benefits": "Financial assistance includes: 80% subsidy on built-up space rent for General category and 100% for SC/ST/Women/PH/Aspirational District units for trade fairs (Micro & Small Enterprises); 100% contingency expenditure for trade fairs; 80% financial assistance on one-time registration fee and annual recurring fee (first three years) for Bar Code adoption (Micro enterprises); financial assistance on annual membership/subscription fee/contingency expenses (photography, cataloguing, advertising) for selling products/services via e-commerce platform 'MSME Global Mart'; and support for developing retail outlets with infrastructure development up to Rs. 30 lakh max per outlet in Metro & A class cities and Rs. 20 lakh for other cities, subject to 50% contribution from the retailer.",
+  "financial_support": "The scheme provides financial assistance in the form of subsidies: 80% subsidy on built-up space rent for General category and 100% for SC/ST/Women/PH/Aspirational District units for trade fairs, with 100% contingency expenditure (subject to max Rs. 25,000 or actual, whichever is less). For Bar Code adoption, 80% of one-time registration fee and annual recurring fee (first three years) is provided, subject to a maximum of Rs. 50,650. For e-commerce platform adoption via 'MSME Global Mart', financial assistance of 75% of paid amount is provided, subject to a maximum of Rs. 25,000 per financial year. For retail outlet development, infrastructure support is up to Rs. 30 lakh max per outlet in Metro & A class cities and Rs. 20 lakh for other cities, with a limit of GIA (Grant-in-Aid) at Rs. 15.0 lakh for Class A & Metro cities and Rs. 10.0 lakh for other cities, subject to matching contribution from the retailer.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply online through the URL: https://my.msme.gov.in/MyMsme/Reg/COM_ViewEvent.aspx 2. Submit claims for reimbursement to the respective Implementing Agency (MSME Development Institutes, NSIC, etc.) 3. For Bar Code reimbursement, apply to the Director/HOO of the regional MSME Development Institute with prescribed application form (Annexure - A) 4. For e-commerce platform claims, submit to NSIC for reimbursement 5. For retail outlet proposals, submit to MSME-Development Institutes (MSME-DIs) 6. Submit claims online or through system in place within 30 days from the date of conclusion of the event 7. Ensure submission of required documents including attested copies of payment receipts, licenses, UDYAM Registration, affidavit, and undertaking",
+  "application_portal_url": "https://my.msme.gov.in/MyMsme/Reg/COM_ViewEvent.aspx",
+  "required_documents": [
+    "Attested copy of Cash Receipt for total amount (one-time registration fee &/or annual recurring fee) paid to GS1 India for use of Bar Codes",
+    "Attested copy of license received from GS1 India for use of Bar Code",
+    "Pre-receipted bill (in original) in triplicate for amount to be reimbursed for one-time registration fees and/or annual recurring fee for 1st three years",
+    "Copy of UDYAM Registration of the micro enterprise",
+    "Affidavit as per Annexure - III regarding current status of the enterprise",
+    "Undertaking as per Annexure-IV concerning non-receipt of similar financial assistance from any other organization and/or from Office of the DC (MSME)"
+  ],
+  "deadlines": "Applicant units shall have to submit their claim online (or system in place) in the prescribed format within 30 days from date of conclusion of the event.",
+  "implementing_agency": "Office of the Development Commissioner (MSME)",
+  "contact_details": "Head Quarters: Joint Director, O/o DC(MSME), Nirman Bhawan, New Delhi. Tel: 011-23061198 Email: pms[dot]division[at]dcmsme[dot]gov[dot]in Field office: MSME-Development & Facilitation office (MSME-DFO) in the respective states.",
+  "caveats": [
+    "An MSE would be allowed reimbursement for a maximum of 2 (two) events in a year",
+    "The budgetary support for participation of implementing agency will be max. 10% of total allocation to the event or actual whichever is less",
+    "The Implementing Agency will take the approval of the competent authority for detailed publicity proposal",
+    "For Bar Code: Eligible only for Micro enterprises which have UDYAM Registration and also have registration with GS1 India for use of Bar Codes",
+    "For e-commerce platform: Eligible for Micro Enterprises with valid Udyam Registration, financial assistance for selling up to 10 new products",
+    "For retail outlets: Only products with valid Geographical Indications (GI) would be sold, seller must have MoU/agreement with GI holder"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-1-QzMzETMtQWa",
+    "https://msme.gov.in/static/uploads/2025/06/89c36d04131a60b200a88177b91317c8.pdf",
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-2-YjNzETMtQWa"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:09:59.922452+00:00"
+}

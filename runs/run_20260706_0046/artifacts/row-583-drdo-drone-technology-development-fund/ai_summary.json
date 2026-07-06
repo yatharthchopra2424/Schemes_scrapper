@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-583",
+  "scheme_name": "DRDO – Drone Technology Development Fund",
+  "scheme_url": "https://www.drdo.gov.in",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The DRDO – Drone Technology Development Fund, referred to as the Technology Development Fund (TDF) Scheme, supports the development of defence and dual-use systems, subsystems, components, or technologies for products that are Indian Designed, Developed and Manufactured (IDDM). It aims to promote Micro, Small, Medium Enterprises (MSMEs) including start-ups to develop innovative products for the armed forces under the 'Make in India' initiative. The scheme is implemented by DRDO to foster indigenous technological capabilities and self-reliance in defence technologies.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote development of defence and dual-use systems, subsystems, components, or technologies",
+    "Support Indian Designed, Developed and Manufactured (IDDM) products",
+    "Encourage innovation among MSMEs and start-ups for defence applications",
+    "Strengthen indigenous defence technological capabilities",
+    "Advance the 'Make in India' initiative in the defence sector"
+  ],
+  "eligibility": "Indian industries, specially MSMEs, including start-ups, are eligible for the Technology Development Fund (TDF) Scheme to undertake indigenisation of defence products, subsystems and components, or to develop new technologies as required by DRDO, Services and DPSUs.",
+  "benefits": "Financial support for project development, access to DRDO's technological expertise, infrastructure, testing facilities, and support for technology transfer and commercialisation of defence technologies developed under the scheme.",
+  "financial_support": "Under the Technology Development Fund (TDF) Scheme, a corpus fund of Rs. 100 Cr has been created to enable Indian industries, specially MSMEs, for indigenisation of defence products, subsystems and components. The fund may also be utilised for developing new technologies as required by DRDO, Services and DPSUs. The cost of each project under TDF can be up to Rs 10 Cr. The industry can get funding up to 90% of the project cost.",
+  "fund_size_crores": "100",
+  "grant_amount_per_entity": "Up to Rs 10 Cr per project (90% of project cost)",
+  "application_process": "1. Identify a defence technology requirement aligned with TDF objectives. 2. Prepare a project proposal detailing innovation, objectives, budget, and timeline. 3. Submit the proposal through the designated DRDO channel. 4. Proposal undergoes technical and financial evaluation by DRDO experts. 5. Upon approval, enter into a formal agreement with DRDO. 6. Receive funds in tranches based on project milestones. 7. Submit periodic progress reports and utilization certificates. 8. Complete project and submit final report and financial statement.",
+  "application_portal_url": "https://tdf.drdo.gov.in",
+  "required_documents": [
+    "Project proposal",
+    "Company registration documents",
+    "Audited financial statements",
+    "Technical details of innovation",
+    "Budget and expenditure plan",
+    "Undertaking for fund utilization",
+    "Intellectual property details (if any)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Defence Research and Development Organisation (DRDO), Ministry of Defence, Government of India",
+  "contact_details": "Email: diitm.hqr@gov.in | Phone: 011-23007446",
+  "caveats": [
+    "Funding is limited to 90% of project cost; beneficiary must contribute 10%",
+    "Maximum project cost under TDF is capped at Rs 10 Cr",
+    "Funds must be utilized strictly for the approved project objectives",
+    "Beneficiary must comply with reporting and audit requirements",
+    "Technology developed may have dual-use applications but must align with defence requirements"
+  ],
+  "source_cited_notes": [
+    "https://drdo.gov.in/drdo/sites/default/files/schemes_services/Support-to-Indian-Industry_1_1.pdf",
+    "https://drdo.gov.in/drdo/hi/offerings/schemes-and-services/sataarataapa-sapaorata",
+    "https://drdo.gov.in/drdo/en/offerings/schemes-and-services/startups-support"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:49:38.220953+00:00"
+}

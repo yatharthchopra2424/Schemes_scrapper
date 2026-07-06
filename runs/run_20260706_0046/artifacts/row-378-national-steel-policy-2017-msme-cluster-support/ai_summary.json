@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-378",
+  "scheme_name": "National Steel Policy 2017 – MSME Cluster Support",
+  "scheme_url": "https://steel.gov.in",
+  "ministry_or_category": "Steel",
+  "overview": "The National Steel Policy 2017 – MSME Cluster Support is a policy initiative under the Ministry of Steel aimed at boosting domestic steel production and supporting MSMEs in the steel sector. It focuses on enhancing production capacity, improving product quality, and meeting domestic demand to make India self-reliant in steel. The policy targets a crude steel production capacity of 300 million tonnes by 2030-31 and includes measures for raw material security, technological advancement, and sustainability.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Fulfil domestic demand for steel including high-grade automotive steel, electrical steel, special steel, and alloys for strategic purposes by 2030-31",
+    "Increase domestic availability of coking coal and reduce import dependency from 85% to 65% by 2030-31",
+    "Achieve global standards in industrial safety and health",
+    "Substantially reduce the carbon footprint of the steel industry",
+    "Establish the Indian Steel Research and Technology Mission (SRTMI) to promote R&D in the sector",
+    "Project overall estimates for domestic crude steel capacity, production, and per capita finished steel consumption by 2030-31"
+  ],
+  "eligibility": "The policy provides policy support and guidance to private manufacturers, MSME steel producers, CPSEs, and encourages adequate capacity additions. Specific eligibility criteria for MSME cluster support under the National Steel Policy 2017 are not detailed in the provided evidence.",
+  "benefits": "The policy supports self-sufficiency in steel production, development of globally competitive manufacturing capabilities, cost-efficient production and domestic availability of raw materials, facilitation of overseas raw material asset acquisition, and enhancement of domestic steel demand. It also promotes technological advancements, enhances steel quality, and contributes to economic growth.",
+  "financial_support": "The National Steel Policy 2017 does not specify direct financial support mechanisms such as grants or loans for MSMEs. Financial assistance for R&D in the steel sector is provided under the 'Promotion of Research & Development in Iron & Steel Sector' scheme, which offers up to 50% funding for industrial/commercial organisations, 70% for academic institutions, and up to 40% for pilot/demonstration scale projects, with the budget allocated at around Rs 5-10 Crore per year.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process for MSME cluster support under the National Steel Policy 2017 is not detailed in the provided evidence. For the R&D scheme, applicants must submit proposals via the online portal (https://research.steel.gov.in/Applicant) or email (mosteel-rd@gov.in) in PDF format, following guidelines and formats provided in annexures.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed date for submission of R&D proposals under the Promotion of Research & Development in Iron & Steel Sector scheme.",
+  "implementing_agency": "Ministry of Steel",
+  "contact_details": "Email: mosteel-rd@gov.in | Tel: 011-26773364 (for R&D scheme queries)",
+  "caveats": [
+    "Financial assistance under the R&D scheme is subject to terms including overheads cap of 10-15% of total project cost (max ₹25 lakhs), requirement for industrial partnership for commercial organisations, and prohibition on diverting grants for other purposes",
+    "The scheme requires grantee institutions to supply a skill development plan for training M.Tech./B.Tech./Ph.D. students in metallurgy",
+    "R&D projects must have a heavy bias towards commercialisation and technology development; basic research is not encouraged under this scheme"
+  ],
+  "source_cited_notes": [
+    "https://steel.gov.in/national-steel-policy-nsp-2017",
+    "https://steel.gov.in/sites/default/files/2025-12/R%20D%20Scheme%20%28circulated%29.pdf",
+    "https://steel.gov.in/sites/default/files/2025-12/Invitation%20for%20RD%20Proposals%2021.12.2025.pdf",
+    "https://steel.gov.in/sites/default/files/2025-04/Amount%20disbursed%20under%20R%26D%20Scheme_1.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:01:42.562429+00:00"
+}

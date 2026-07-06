@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-391",
+  "scheme_name": "National Urban Innovation Stack (NUIS)",
+  "scheme_url": "https://nuisnet.gov.in",
+  "ministry_or_category": "Urban Development",
+  "overview": "The National Urban Innovation Stack (NUIS) is a digital infrastructure initiative designed to support urban innovation by providing a unified platform for data, services, and applications across Indian cities. It aims to enable seamless integration of urban systems, foster innovation in smart city solutions, and improve governance through technology-driven approaches. NUIS serves as a foundational layer for urban stakeholders including startups, municipal bodies, and technology developers to build and deploy scalable urban applications.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "technology developers",
+    "municipal corporations",
+    "urban local bodies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Create a unified digital infrastructure for urban innovation across Indian cities",
+    "Enable interoperability of urban data and services through standardized APIs",
+    "Support startups and innovators in developing scalable smart city solutions",
+    "Improve urban governance and service delivery via technology integration",
+    "Foster collaboration between government, academia, and private sector in urban development"
+  ],
+  "eligibility": "Eligible beneficiaries include startups, technology companies, urban local bodies, municipal corporations, and academic institutions working on urban innovation solutions that can integrate with the NUIS platform. Entities must demonstrate alignment with national urban development goals and possess the technical capability to build or deploy applications on the stack.",
+  "benefits": "Access to standardized urban data sets and APIs, technical support for integration with NUIS, opportunities for pilot projects in smart cities, visibility through government urban innovation networks, and potential for scaling solutions across multiple cities. Financial support may be available through linked innovation funds or challenge grants administered via partner agencies.",
+  "financial_support": "While NUIS primarily provides technical and platform-based support, financial assistance for eligible innovators may be accessed through associated urban innovation funds, challenge grants, or incubator programs linked to the Ministry of Housing and Urban Affairs or Smart Cities Mission, subject to separate eligibility and application processes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the NUIS portal at nuisnet.gov.in to understand platform capabilities and documentation. 2. Register your entity or solution on the portal if required for access. 3. Review API documentation, data sets, and integration guidelines available on the platform. 4. Develop or adapt your urban solution to be compatible with NUIS standards. 5. Submit your solution for validation or listing through the portal’s innovation submission interface. 6. Await review by the NUIS governance team for approval and potential inclusion in the urban innovation registry.",
+  "application_portal_url": "https://nuisnet.gov.in",
+  "required_documents": [
+    "Entity incorporation or registration certificate",
+    "PAN of the organization",
+    "Description of the urban innovation solution",
+    "Technical architecture or API integration plan",
+    "Proof of concept or pilot results (if available)",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs",
+  "contact_details": "",
+  "caveats": [
+    "Access to certain datasets or APIs may be subject to data sharing agreements and security clearances",
+    "Financial support is not directly provided by NUIS and depends on linked government programs",
+    "Solutions must comply with national data privacy and cybersecurity standards",
+    "Continued access may depend on adherence to NUIS technical and governance guidelines"
+  ],
+  "source_cited_notes": [
+    "https://nuisnet.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:06:57.352586+00:00"
+}

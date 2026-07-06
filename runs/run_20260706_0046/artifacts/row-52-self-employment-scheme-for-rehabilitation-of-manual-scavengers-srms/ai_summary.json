@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-52",
+  "scheme_name": "Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS)",
+  "scheme_url": "https://nskfdc.nic.in",
+  "ministry_or_category": "Social Justice",
+  "overview": "The Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) is a Central Sector Scheme launched in January 2007 by the Ministry of Social Justice and Empowerment, Government of India, aimed at rehabilitating manual scavengers and their dependents by providing them with alternative livelihood opportunities through skill development and financial assistance for self-employment ventures. The scheme focuses on identifying and surveying manual scavengers, providing them with training, and facilitating access to loans and subsidies for setting up sustainable self-employment units. It operates through a network of State Channelising Agencies (SCAs) of the National Safai Karamcharis Finance and Development Corporation (NSKFDC), which is the nodal agency for implementation. The scheme has been revised and strengthened over time, with the latest revision effective from 2021-22 to enhance outreach and effectiveness.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "manual scavengers",
+    "dependents of manual scavengers",
+    "safai karamcharis"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To rehabilitate manual scavengers and their dependents by providing alternative livelihoods",
+    "To eliminate the practice of manual scavenging through skill development and training",
+    "To provide financial assistance in the form of loans and subsidies for setting up self-employment units",
+    "To strengthen the institutional mechanism for identification, survey, and rehabilitation of manual scavengers",
+    "To ensure convergence with other social welfare schemes for holistic rehabilitation",
+    "To monitor and track the progress of beneficiaries post-rehabilitation"
+  ],
+  "eligibility": "The scheme covers manual scavengers as defined under the Prohibition of Employment as Manual Scavengers and their Rehabilitation Act, 2013, and their dependents. Eligible individuals include those who have been engaged in manual scavenging, identified through surveys conducted by State Governments or ULBs, and are willing to undergo training and take up self-employment ventures. Beneficiaries must be Indian citizens and preferably belong to Scheduled Castes, Scheduled Tribes, or Other Backward Classes, though the primary criterion is engagement in manual scavenging.",
+  "benefits": "Beneficiaries receive skill development training in various trades suitable for self-employment, financial assistance in the form of loans from NSKFDC through State Channelising Agencies (SCAs) at concessional interest rates, and a subsidy component to reduce the financial burden. The scheme also provides backward and forward linkages, including marketing support and handholding during the initial phase of enterprise setup. Additional support may include assistance for raw materials, machinery, and working capital, depending on the project cost and viability.",
+  "financial_support": "Under SRMS, financial assistance is provided as a term loan up to a maximum of INR 15 lakhs per beneficiary for setting up self-employment units. The loan is extended at a concessional interest rate of 4% per annum. A subsidy of up to 50% of the project cost, subject to a maximum of INR 5 lakhs, is provided based on the beneficiary's category and project viability. The remaining amount is to be financed through the loan. The funds are disbursed through the State Channelising Agencies (SCAs) of NSKFDC after appraisal and approval of the project proposal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identification of manual scavengers through surveys conducted by State Governments or Urban Local Bodies (ULBs). 2. Motivation and counseling of identified beneficiaries to opt for rehabilitation under SRMS. 3. Selection of suitable self-employment venture based on skills, local market demand, and training undergone. 4. Submission of project proposal to the concerned State Channelising Agency (SCA) of NSKFDC. 5. Appraisal of the project by the SCA for technical feasibility, financial viability, and beneficiary capacity. 6. Sanction of loan and subsidy components by the SCA upon approval. 7. Disbursement of funds in stages as per project progress. 8. Monitoring and handholding support provided by SCA/NSKFDC during implementation and initial operation.",
+  "application_portal_url": "https://nskfdc.nic.in",
+  "required_documents": [
+    "Proof of identity (Aadhaar card, Voter ID, etc.)",
+    "Proof of residence",
+    "Caste certificate (if applicable)",
+    "Documentary proof of engagement in manual scavenging (as per survey records)",
+    "Project report / business plan",
+    "Cost estimates for the proposed unit",
+    "Quotations for machinery/equipment (if applicable)",
+    "Bank account details",
+    "Passport-sized photographs",
+    "Any other document as required by the State Channelising Agency (SCA)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and identification of beneficiaries.",
+  "implementing_agency": "National Safai Karamcharis Finance and Development Corporation (NSKFDC), under the Ministry of Social Justice and Empowerment, Government of India",
+  "contact_details": "Email: nskfdc@nskfdc.nic.in | Phone: 011-24364646, 24361038 | Helpline: 1800-11-7777",
+  "caveats": [
+    "Financial assistance is subject to the availability of funds under the scheme",
+    "Beneficiaries must not have availed benefits under any other central/state government self-employment scheme for the same activity",
+    "The subsidy component is contingent upon timely repayment of the loan amount as per schedule",
+    "Projects must be economically viable and technically feasible to qualify for assistance",
+    "Beneficiaries are required to undergo mandatory skill training before fund disbursement"
+  ],
+  "source_cited_notes": [
+    "https://nskfdc.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:49:47.506943+00:00"
+}

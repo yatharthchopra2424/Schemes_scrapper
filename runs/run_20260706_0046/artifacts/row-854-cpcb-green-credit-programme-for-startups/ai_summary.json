@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-854",
+  "scheme_name": "CPCB Green Credit Programme for Startups",
+  "scheme_url": "https://cpcb.nic.in/green-credit",
+  "ministry_or_category": "Waste Management",
+  "overview": "The CPCB Green Credit Programme for Startups is an initiative by the Central Pollution Control Board (CPCB) to promote environmental sustainability by encouraging startups to engage in green activities that generate verifiable green credits. The programme aims to incentivize eco-friendly innovations and support the development of a market-based mechanism for environmental performance. Startups participating in the programme can earn green credits for measurable environmental benefits, which can be traded or used for compliance purposes.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote environmental sustainability through market-based mechanisms",
+    "Encourage startups to adopt green technologies and practices",
+    "Generate verifiable green credits for measurable environmental benefits",
+    "Support the development of a domestic green credit trading system",
+    "Align with national climate goals and pollution control objectives"
+  ],
+  "eligibility": "Startups registered under the Startup India initiative or recognized by DPIIT, engaged in activities that result in measurable environmental improvement such as waste management, pollution control, renewable energy, or resource efficiency, and capable of monitoring, reporting, and verifying green credit generation as per CPCB guidelines.",
+  "benefits": "Recognition under the CPCB Green Credit Programme, eligibility to generate and trade green credits, technical guidance on monitoring and verification methodologies, potential revenue from credit sales, and enhanced credibility for environmental compliance and ESG reporting.",
+  "financial_support": "The programme does not provide direct financial grants or subsidies; instead, it enables startups to earn financial returns through the sale of generated green credits in the developing green credit market, subject to market demand and price discovery.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official CPCB Green Credit Programme portal at https://cpcb.nic.in/green-credit 2. Review the eligibility criteria and guidelines for green credit generation 3. Register the startup on the portal with required details 4. Submit project proposal detailing the green activity and expected environmental impact 5. Await validation and approval from CPCB 6. Implement the project and monitor environmental outcomes 7. Submit verification report for green credit issuance 8. Receive certified green credits upon successful verification.",
+  "application_portal_url": "https://cpcb.nic.in/green-credit",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "DPIIT Startup Recognition Certificate",
+    "PAN of the startup",
+    "Project proposal detailing green activity and environmental impact",
+    "Monitoring and verification plan as per CPCB guidelines",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Central Pollution Control Board (CPCB), Ministry of Environment, Forest and Climate Change",
+  "contact_details": "",
+  "caveats": [
+    "Green credits are issued only after third-party verification and CPCB validation",
+    "The monetary value of green credits depends on market dynamics and is not guaranteed",
+    "Only activities with measurable, additional, and verifiable environmental benefits qualify",
+    "The programme is subject to updates in guidelines and verification protocols by CPCB"
+  ],
+  "source_cited_notes": [
+    "https://cpcb.nic.in/green-credit"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:24:36.277141+00:00"
+}

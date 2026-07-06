@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-687",
+  "scheme_name": "ESIC Health Insurance Scheme for MSME Workers",
+  "scheme_url": "https://www.esic.gov.in",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "The Employees' State Insurance Corporation (ESIC) Health Insurance Scheme for MSME Workers provides comprehensive social security benefits to insured persons and their families under the ESI Act, 1948. It offers medical, sickness, maternity, disablement, dependents, and other benefits including funeral expenses and vocational rehabilitation. The scheme is a self-financing health insurance program funded by contributions from employees and employers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "workers",
+    "employees",
+    "insured persons"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide full medical care to insured persons and their families from the day of entering insurable employment",
+    "Offer cash compensation during sickness at 70% of wages for up to 91 days per year",
+    "Provide maternity benefit for 26 weeks extendable by one month on medical advice at full wage rate",
+    "Grant temporary disablement benefit at 90% of wage from day one of insurable employment",
+    "Pay dependents benefit at 90% of wage to dependents of deceased insured persons in cases of employment injury",
+    "Provide funeral expenses of Rs.15,000/- to dependents or person performing last rites",
+    "Offer vocational and physical rehabilitation for permanently disabled insured persons",
+    "Provide unemployment allowance under Rajiv Gandhi Shramik Kalyan Yojana and Atal Beemit Vyakti Kalyan Yojana"
+  ],
+  "eligibility": "The ESI Act is applicable to all non-seasonal factories employing 10 or more persons. State Governments have extended coverage to shops, hotels, restaurants, cinemas, road-motor transport, newspaper establishments, private medical institutions, educational institutions, and contract/casual employees of Municipal Corporations employing 10 or more persons. The Central Government has extended coverage to shops, hotels, restaurants, road motor transport, cinemas, newspaper establishments, insurance business establishments, non-banking financial companies, port trust, airport authorities, and warehousing establishments employing 20 or more persons. The existing wage limit for coverage under the Act, effective from 01.01.2017, is Rs.21,000/- per month (Rs.25,000/- per month for persons with disability). Employees earning up to Rs.176/- per day are exempted from payment of their share of contribution.",
+  "benefits": "Medical Benefit: Full medical care with no ceiling on expenditure. Sickness Benefit: Cash compensation at 70% of wages for up to 91 days/year (extendable to two years for 34 malignant diseases at 80% wages). Enhanced Sickness Benefit: Full wage for sterilization (7 days vasectomy, 14 days tubectomy). Maternity Benefit: Full wage for 26 weeks extendable by one month. Temporary Disablement Benefit: 90% of wage during disability. Permanent Disablement Benefit: 90% of wage as monthly payment. Dependants Benefit: 90% of wage as monthly payment. Funeral Expenses: Rs.15,000/-. Confinement Expenses: For insured women or IP's wife when medical facilities unavailable. Vocational Rehabilitation: For permanently disabled insured persons. Physical Rehabilitation: For physical disablement due to employment injury. Rajiv Gandhi Shramik Kalyan Yojana: Unemployment allowance at 50% of wage for up to two years, medical care, vocational training. Atal Beemit Vyakti Kalyan Yojana: Relief payment up to 90 days, once in a lifetime, enhanced to 50% of wages with one-year insurable employment and 78 days contribution in 12 months prior to unemployment, claim after 30 days of unemployment.",
+  "financial_support": "ESI Scheme is a self-financing health insurance scheme. Contributions are raised from covered employees and employers as a fixed percentage of wages. Employees contribute 0.75% of wages, employers contribute 3.25% of wages. Employees earning up to Rs.176/- per day are exempted from employee contribution, but employers still contribute their share. State Governments contribute 1/8th of medical benefit expenditure within a per capita ceiling of Rs.1500/- per insured person per annum. Additional expenditure by State Governments over the ceiling is borne by them.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Employer registers online via ESIC portal without physical documents. 2. Employer submits information in online screens; code number generated automatically. 3. Registration letter (C-11) sent to employer's email along with user credentials. 4. Employer logs in to ESIC website using credentials. 5. For manpower suppliers, security agencies, contractors: pay advance contribution for six months calculated as (number of employees earning up to Rs.21000/month) × minimum wages × 6 × 6.5%. 6. Advance contribution paid online; registration documents sent after bank confirmation (1 day for SBI, 2 days for other banks).",
+  "application_portal_url": "https://www.esic.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Employees' State Insurance Corporation, Ministry of Labour & Employment, Government of India",
+  "contact_details": "Email: ITCare[at]esic[dot]nic[dot]in or help-shramsuvidha[at]gov[dot]in | Phone: 011-27552237 (IT), 011-23354722 (Shram Suvidha), 1800113839 (Medical), 1800112526 (General) | Grievances: pg-hqrs[at]esic[dot]nic[dot]in",
+  "caveats": [
+    "Employees earning up to Rs.176/- per day are exempted from employee contribution",
+    "State Government contribution to medical benefit is capped at Rs.1500/- per insured person per annum",
+    "Additional medical expenditure by State Governments over ceiling is borne by them",
+    "Scheme applicability varies by state/UT for shops, hotels, restaurants, etc.",
+    "Wage limit for coverage is Rs.21,000/- per month (Rs.25,000/- for persons with disability)"
+  ],
+  "source_cited_notes": [
+    "https://esic.gov.in/",
+    "https://esic.gov.in/information-benefits",
+    "https://esic.gov.in/coverage",
+    "https://esic.gov.in/finance",
+    "https://esic.gov.in/contribution",
+    "https://esic.gov.in/about-us",
+    "https://esic.gov.in/administration",
+    "https://esic.gov.in/employer-employee-registration-through-esic-portal.pdf"
+  ],
+  "last_updated_date": "2026-07-06",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:56:54.076166+00:00"
+}

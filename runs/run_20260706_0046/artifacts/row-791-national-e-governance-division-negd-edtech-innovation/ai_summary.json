@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-791",
+  "scheme_name": "National e-Governance Division (NeGD) EdTech Innovation",
+  "scheme_url": "https://www.negd.gov.in",
+  "ministry_or_category": "EduTech Startups",
+  "overview": "The National e-Governance Division (NeGD) EdTech Innovation scheme is a government initiative under the Ministry of Electronics & Information Technology (MeitY) aimed at fostering innovation in educational technology through the development and deployment of digital platforms and services. NeGD, established in 2009 as an independent business division under the Digital India Corporation, supports MeitY in programme management and implementation of e-Governance projects, providing technical and advisory support to central and state governments. The scheme focuses on building national public digital platforms such as DigiLocker, UMANG, API Setu, myScheme, and others to enable seamless, secure, and scalable digital service delivery across government silos. It promotes innovation, interoperability, and citizen-centric digital governance through initiatives like API Setu, OpenForge, and AI-driven solutions for government platforms.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "government departments",
+    "citizens"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support MeitY in programme management and implementation of e-Governance projects",
+    "Provide technical and advisory support to central and state governments for e-Governance initiatives",
+    "Develop and manage National Public Digital Platforms such as DigiLocker, UMANG, API Setu, myScheme, and India Stack Global",
+    "Promote open and interoperable digital platforms for seamless service delivery across government silos",
+    "Enable secure, scalable, and robust data exchange through API Setu and API onboarding initiatives",
+    "Foster innovation through emerging technologies like AI, blockchain, IoT, and cloud computing in e-Governance",
+    "Promote paperless governance through digital document management systems like DigiLocker and Entity Locker",
+    "Enhance citizen engagement and service delivery through unified platforms like UMANG and myScheme"
+  ],
+  "eligibility": "NeGD invites applications for onboarding of API Solution/Service providers, including private API providers, on API Setu. The Service Provider must be an Indian Company/LLP/Partnership firm registered under the applicable Act in India and should have existed continuously for at least the last 3 completed fiscal years as of the date of Onboarding request. The Service Provider must have an average turnover of a minimum of Rs. 10 crores during the last 03 fiscal years (FY 2021-22, FY2022-23, FY 2023-24). The Service Provider should be a profitable organization on the basis of profit before tax (PBT) for the last 03 fiscal years. The Service Provider should have experience of minimum 3 years in providing solutions/services which includes development, implementation and operation/maintenance of API technologies, including RESTful APIs, and API management platforms for a period of at least the last three completed financial years. MSME agencies registered with the Government are exempted from turnover criteria.",
+  "benefits": "Onboarded API service providers gain access to government projects and can offer seamless API integrations, promote interoperability, enable secure and scalable data exchange, provide value-added services such as API analytics, monitoring, lifecycle management, and versioning, support microservices architecture and emerging API frameworks, and ensure consistent API management for government back-end services. They contribute to a robust API ecosystem that enhances service delivery across Government-to-Citizen (G2C), Government-to-Business (G2B), and Government-to-Government (G2G) interfaces. The platform records approximately 80 million transactions monthly and hosts over 2000 partners with more than 6400 published APIs. Providers also benefit from standardized API onboarding processes, sandbox testing, compliance validation, and integration with NeGD’s reporting dashboards for automated KPI tracking.",
+  "financial_support": "The API Setu onboarding initiative does not provide direct financial support, grants, or subsidies to service providers. Instead, it offers a platform for API providers to publish, manage, and monetize their APIs through secure, scalable, and interoperable data exchange with government entities. Revenue generation is based on mutual agreements between API providers and government consumers, with API Setu enabling transparent billing, token consumption tracking, and usage analytics. There is no mention of fund size, grants, loans, or subsidies in the evidence. The initiative focuses on enabling business opportunities through platform access rather than direct financial assistance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Review the Guidelines for Onboarding on API Setu document available at https://negd-media.digitalindiacorporation.in/wp-content/uploads/2025/06/Guidelines-for-Onboarding-for-API-as-a-service-provider-v15-Rev-1-1.pdf\n2. Ensure eligibility as per Annexure VII (Service Provider’s Eligibility Criteria) including company registration, minimum 3 years existence, Rs. 10 crore average turnover (exempt for MSMEs), profitability, quality certifications, compliance, experience, and non-blacklisting\n3. Prepare required documents: Certificate of Incorporation, PAN, GST registration, audited balance sheets, CA certificates, quality certifications, undertaking on litigations, undertaking on blacklisting, technical capability statement, work orders/completion certificates\n4. Submit Request for Onboarding via email to partners.apisetu@digitalindia.gov.in\n5. Await technical presentation notification (to be notified)\n6. Undergo evaluation based on eligibility, technical capability, and business purpose alignment\n7. Upon approval, sign contract and legal agreements\n8. Complete registration, submit API documentation, undergo compliance, security, and privacy review\n9. Undergo technical review and sandbox testing\n10. Sign contract and receive approval for API publication\n11. Maintain performance as per Annexure VII and integrate with NeGD’s reporting dashboards for KPI tracking\n12. Ensure resolution time of 4 hours for any issue in the solution or individual APIs",
+  "application_portal_url": "https://apisetu.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Memorandum and Articles of Association",
+    "PAN Card",
+    "GST Registration Certificate",
+    "Audited Balance Sheets and CA certified details for the last 3 financial years",
+    "Quality Certifications (any three: ISO 9001:2015 or above, ISO/IEC 27001:2022, ISO/IEC 20000-1:2018, ISO 22301:2019, SOC 2 Type II Attestation)",
+    "Undertaking on litigations",
+    "Undertaking on non-blacklisting",
+    "Detailed technical capability statement highlighting experience",
+    "Work orders or completion certificates mentioning use of API technologies"
+  ],
+  "deadlines": "The Request for Onboarding process is ongoing. The date of commencement was 13th May 2025. The last date for receiving comments (via email to partners.apisetu@digitalindia.gov.in) was 25th May, 2025. The last date and time for Request for Onboarding Submission (Round 1) was 30th May, 2025. Submissions remain open and are evaluated on an ongoing basis.",
+  "implementing_agency": "National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY), Government of India",
+  "contact_details": "Email: partners.apisetu@digitalindia.gov.in",
+  "caveats": [
+    "MSME agencies registered with the Government are exempted from the turnover criteria of Rs. 10 crores average over last 3 financial years",
+    "The validity of empanelment is for 36 months, further extendable for another 24 months based on mutual consent and fulfilment of performance criteria",
+    "The empanelled firm must ensure resource availability until completion of assigned projects",
+    "The Service Provider must comply with technical criteria in Annexure VI at the time of onboarding and maintain performance as per Annexure VII",
+    "Service providers must ensure a resolution time of 4 hours for any issue in the solution, individual APIs, etc.",
+    "The Service Provider must make provisions for integration with NeGD’s reporting dashboards for automated fetching of KPI data for error-free reporting and measurement of performance score on a rolling basis"
+  ],
+  "source_cited_notes": [
+    "https://negd.gov.in/",
+    "https://negd.gov.in/our_projects/myscheme/",
+    "https://negd-media.digitalindiacorporation.in/wp-content/uploads/2025/06/Guidelines-for-Onboarding-for-API-as-a-service-provider-v15-Rev-1-1.pdf",
+    "https://apisetu.gov.in"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:56:50.812772+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "scheme_id": "row-862",
+  "scheme_name": "Smart Metering National Programme Startup Empanelment",
+  "scheme_url": "https://powermin.gov.in",
+  "ministry_or_category": "Smart Infrastructure",
+  "overview": "The Smart Metering National Programme Startup Empanelment is a subsumed under the Revamped Distribution Sector Scheme (as a Reforms-based and Results-linked Scheme with an outlay of Rs.3,03,758 crore over a period of five years from FY 2021-22 to FY 2025-26 with the objective to Empanel Startups is an initiative under the Revamped Distribution Sector Scheme (RDSS) that aims to empanel startups to provide smart metering solutions for distribution utilities. The scheme is part of the Ministry of Power's broader effort to modernize India's power distribution infrastructure through smart metering, leveraging startup innovation for deployment and integration of smart meters across the country. It supports the national goal of reducing AT&C losses and improving the financial sustainability of DISCOMs by enabling prepaid smart metering and data-driven energy accounting.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Empanel startups to provide smart metering solutions under the Revamped Distribution Sector Scheme",
+    "Enable deployment of prepaid smart metering in Public-Private-Partnership (PPP) mode",
+    "Leverage AI to analyze data from IT/OT devices including system meters and prepaid smart meters",
+    "Prepare system-generated energy accounting reports monthly for DISCOMs",
+    "Support loss reduction, demand forecasting, Time of Day (ToD) tariff, and Renewable Energy (RE) integration",
+    "Improve electricity supply for farmers through separation of agriculture feeders and convergence with PM-KUSUM",
+    "Ensure consumer empowerment via informed decision-making on energy usage and billing"
+  ],
+  "eligibility": "Startups must be empaneled under the Smart Metering National Programme as part of the Revamped Distribution Sector Scheme. Eligibility is determined by the implementing agency based on technical capability, financial viability, and compliance with the scheme's guidelines for smart metering deployment and integration with DISCOM operations.",
+  "benefits": "Empanelled startups gain recognition to participate in smart metering projects under RDSS, access to deployment opportunities across DISCOMs, involvement in PPP-based prepaid smart metering implementation, and the ability to leverage AI for data analytics from smart meters. They contribute to loss reduction, demand forecasting, ToD tariff implementation, RE integration, and improved consumer services through monthly energy accounting reports.",
+  "financial_support": "Financial support is provided under the Revamped Distribution Sector Scheme, which has an outlay of Rs.3,03,758 crore over five years (FY 2021-22 to FY 2025-26). The scheme provides financial assistance for prepaid smart metering, system metering, and distribution infrastructure works, subject to meeting pre-qualifying criteria and achieving basic minimum benchmarks by DISCOMs. Funds are disbursed based on action plans and performance against agreed trajectories including AT&C losses, ACS-ARR gaps, and infrastructure upgrades.",
+  "fund_size_crores": "303758",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Startups must apply for empanelment under the Smart Metering National Programme as part of the Revamped Distribution Sector Scheme. 2. Applications are evaluated based on technical and financial qualifications. 3. Empanelled startups are eligible to bid for smart metering projects through competitive bidding processes conducted by DISCOMs or designated agencies. 4. Selected startups enter into agreements to deploy smart metering systems in PPP mode. 5. Implementation includes installation of smart meters, integration with IT/OT systems, and monthly energy accounting reporting. 6. Performance is monitored against predefined trajectories for funding eligibility.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance under the Scheme is subject to meeting pre-qualifying criteria and achieving basic minimum benchmarks by the DISCOM",
+    "DISCOMs must score a minimum of 60% of marks and clear a minimum bar in respect to certain parameters to be eligible for funding",
+    "The Scheme excludes Private Sector DISCOMs from funding for distribution infrastructure works",
+    "All North-Eastern States including Sikkim and States/Union Territories of Jammu & Kashmir, Ladakh, Himachal Pradesh, Uttarakhand, Andaman & Nicobar Islands, and Lakshadweep are treated as Special Category States"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/offerings/schemes-and-services/details/revamped-distribution-scheme-IDO4MTMtQWa"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:32:43.698258+00:00"
+}

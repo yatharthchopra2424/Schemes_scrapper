@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-429",
+  "scheme_name": "National Project on Organic Farming (NPOF)",
+  "scheme_url": "https://ncof.dacnet.nic.in",
+  "ministry_or_category": "Agriculture & AgriTech",
+  "overview": "The National Project on Organic Farming (NPOF) is a central sector scheme implemented by the Department of Agriculture & Farmers Welfare under the Ministry of Agriculture and Farmers Welfare, Government of India. It aims to promote organic farming through financial assistance, capacity building, market development, and quality control mechanisms. The scheme supports the adoption of organic practices across the country by providing subsidies for inputs, certification, and infrastructure development.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "self-help groups",
+    "farmer producer organizations",
+    "state governments",
+    "agri-entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote organic farming in the country through financial and technical support",
+    "Strengthen the supply chain of organic inputs including bio-fertilizers and bio-pesticides",
+    "Support organic certification and residue testing to ensure quality and traceability",
+    "Develop market infrastructure and facilitate market linkages for organic produce",
+    "Create awareness and provide training to farmers and stakeholders on organic farming practices",
+    "Encourage public-private partnership in the organic farming sector",
+    "Monitor and evaluate the impact of organic farming initiatives",
+    "Support research and development in organic agriculture"
+  ],
+  "eligibility": "Eligible beneficiaries include individual farmers, groups of farmers, self-help groups (SHGs), farmer producer organizations (FPOs), state governments, and other entities engaged in organic farming or related activities, subject to guidelines issued by the Department of Agriculture & Farmers Welfare.",
+  "benefits": "Financial assistance for setting up organic input production units, organic certification, residue testing, market development, training and capacity building, and support for organic farming clusters. The scheme also provides support for vermicompost units, bio-fertilizer and bio-pesticide production, and post-harvest management infrastructure.",
+  "financial_support": "Financial support is provided as back-ended subsidies, typically ranging from 25% to 33% of the project cost, with upper limits varying by component. For example, assistance for setting up bio-fertilizer units is up to INR 40 lakhs, for vermicompost units up to INR 5 lakhs per unit, and for organic certification and residue testing up to INR 5 lakhs. The subsidy is released in installments based on verification of progress and utilization of funds.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component under NPOF for which assistance is sought. 2. Prepare a detailed project report (DPR) as per the guidelines. 3. Submit the application along with required documents to the State Nodal Officer or the designated agency. 4. The application is scrutinized by the State Level Sanctioning Committee (SLSC). 5. Upon approval, the sanction is issued and funds are released in installments. 6. Beneficiaries must utilize the funds for the approved purpose and submit utilization certificates and progress reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of Incorporation / Registration (for SHGs, FPOs, etc.)",
+    "Land ownership or lease documents",
+    "Bank account details",
+    "PAN of the applicant",
+    "Affidavit regarding non-availing of subsidy from other sources for the same purpose",
+    "Undertaking to follow organic farming standards",
+    "Quotations for equipment and civil works",
+    "Environmental clearance (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and approval by the State Level Sanctioning Committee.",
+  "implementing_agency": "Department of Agriculture & Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is available only for new projects and not for expansion of existing units",
+    "Beneficiaries must not have availed subsidy for the same purpose from any other Central or State Government scheme",
+    "Projects must be completed within the stipulated time frame, usually 18 months from the date of sanction",
+    "Utilization certificates and audited statements of expenditure must be submitted for subsequent installments",
+    "The scheme is subject to periodic review and modification by the Department of Agriculture & Farmers Welfare"
+  ],
+  "source_cited_notes": [
+    "https://ncof.dacnet.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:25:27.566805+00:00"
+}

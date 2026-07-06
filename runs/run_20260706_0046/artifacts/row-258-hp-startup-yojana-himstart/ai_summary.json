@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-258",
+  "scheme_name": "HP Startup Yojana & HIMSTART",
+  "scheme_url": "https://hpkvn.nic.in",
+  "ministry_or_category": "State Level (Himachal Pradesh)",
+  "overview": "HP Startup Yojana & HIMSTART is a state-level initiative by the Government of Himachal Pradesh to promote innovation, entrepreneurship, and startup ecosystem development in the state. The scheme provides financial assistance, mentorship, infrastructure support, and market linkages to early-stage startups and innovators. It aims to foster a conducive environment for startups through incubation, seed funding, and hand-holding support. The program is implemented by the Himachal Pradesh Kaushal Vikas Nigam (HPKVN) under the Department of Technical Education, Vocational & Industrial Training.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "innovators",
+    "MSME"
+  ],
+  "geographic_scope": "Himachal Pradesh only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in Himachal Pradesh",
+    "Provide financial assistance to early-stage startups",
+    "Offer incubation and mentorship support to innovators",
+    "Strengthen the startup ecosystem through infrastructure and networking",
+    "Facilitate market access and industry linkages for startups",
+    "Encourage technology-driven solutions and social entrepreneurship",
+    "Support women, SC/ST, and differently-abled entrepreneurs",
+    "Create employment opportunities through startup promotion"
+  ],
+  "eligibility": "The applicant must be a resident of Himachal Pradesh. The startup should be registered as a Private Limited Company, LLP, Partnership Firm, or Proprietorship under relevant Indian laws. The entity must be incorporated not more than 5 years ago. The startup should be working on an innovative product, service, or process with potential for scalability and employment generation. Preference is given to ventures in sectors like agriculture, tourism, handicrafts, renewable energy, and IT. Women, SC/ST, and differently-abled entrepreneurs are encouraged to apply.",
+  "benefits": "Selected startups receive seed funding up to INR 10 lakhs as a grant. Additional benefits include access to incubation centers, mentorship from industry experts, technical assistance, prototype development support, IPR facilitation, participation in investor meets and pitch events, and assistance in regulatory compliance. The scheme also provides networking opportunities with investors, industry partners, and government bodies. Non-financial support includes training programs, workshops, and access to shared infrastructure and utilities at incubation hubs.",
+  "financial_support": "Under HP Startup Yojana & HIMSTART, eligible startups can receive a one-time grant of up to INR 10 lakhs for product development, prototype creation, market testing, and initial operational expenses. The grant is disbursed in tranches based on milestone achievement and progress review. There is no equity dilution or repayment obligation as the support is provided as a grant. The funds are released directly to the startup's bank account after due diligence and approval by the screening committee.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 lakhs",
+  "application_process": "1. Visit the official HPKVN website or designated portal for HP Startup Yojana & HIMSTART. 2. Register as a new user by providing basic details such as name, email, mobile number, and address. 3. Log in and fill out the online application form with information about the startup, founders, innovation details, and business model. 4. Upload required documents including Certificate of Incorporation, PAN, Aadhaar of founders, project report, and any prototype or IP details. 5. Submit the application and note the application ID for future reference. 6. Await screening by the evaluation committee; shortlisted applicants may be called for a pitch or interview. 7. Upon selection, sign the grant agreement and fulfill any pre-disbursement formalities. 8. Receive the grant amount in installments as per milestone completion.",
+  "application_portal_url": "https://hpkvn.nic.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN Card of the startup",
+    "Aadhaar Card of all founders/directors",
+    "Project report or business plan",
+    "Details of innovation and technology used",
+    "Prototype details or proof of concept (if available)",
+    "Bank account details of the startup",
+    "Address proof of the startup or founders",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Himachal Pradesh Kaushal Vikas Nigam (HPKVN), Department of Technical Education, Vocational & Industrial Training, Government of Himachal Pradesh",
+  "contact_details": "Email: info@hpkvn.nic.in | Phone: 0177-2621588, 2621589",
+  "caveats": [
+    "Grant is subject to availability of funds and approval by the screening committee",
+    "Startup must not have received similar grant from any other central or state government scheme for the same purpose",
+    "Funds must be utilized strictly for the approved project within the stipulated timeline",
+    "Beneficiaries may be required to submit periodic progress reports and utilization certificates",
+    "Misrepresentation of facts or misuse of funds may lead to recovery of grant and blacklisting",
+    "The scheme may be revised, suspended, or terminated by the government without prior notice"
+  ],
+  "source_cited_notes": [
+    "https://hpkvn.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:38:28.978266+00:00"
+}

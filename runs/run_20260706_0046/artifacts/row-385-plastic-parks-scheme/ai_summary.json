@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-385",
+  "scheme_name": "Plastic Parks Scheme",
+  "scheme_url": "https://chemicals.nic.in/plastic-parks",
+  "ministry_or_category": "Chemicals & Petrochemicals",
+  "overview": "The Plastic Parks Scheme aims to set up need-based Plastic Parks with common infrastructure facilities to promote investment, boost domestic manufacturing, and enhance competitiveness in the plastic industry. It provides financial assistance for developing common infrastructure in Plastic Parks, including internal roads, drainage, water supply, power distribution, and effluent treatment plants. The scheme supports the establishment of plastic processing units and ancillary industries within these parks to create employment and promote sustainable growth in the sector.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "MSME",
+    "industries",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To set up need-based Plastic Parks with common infrastructure facilities",
+    "To promote investment in the plastic processing sector",
+    "To enhance competitiveness and domestic manufacturing in the plastics industry",
+    "To create employment opportunities through cluster-based development",
+    "To ensure sustainable and environmentally responsible growth of plastic parks"
+  ],
+  "eligibility": "State Governments or their agencies (including State Industrial Development Corporations) are eligible to apply for setting up Plastic Parks under the scheme. The implementing agency must be a Government of India undertaking or a State Government entity.",
+  "benefits": "Financial assistance for development of common infrastructure facilities such as internal roads, drainage, water supply, power distribution, street lighting, and effluent treatment plants. The scheme enables plug-and-play facilities for plastic processing units, promotes cluster-based development, and supports sustainable industrial growth with shared infrastructure.",
+  "financial_support": "The scheme provides grant-in-aid up to 50% of the project cost for setting up common infrastructure facilities in Plastic Parks, with a maximum ceiling of INR 40 Crore per Plastic Park. The remaining 50% of the project cost is to be contributed by the State Government or the implementing agency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 40 Crore per Plastic Park",
+  "application_process": "1. State Government or its agency identifies a suitable location for the Plastic Park. 2. Prepares a Detailed Project Report (DPR) including land details, infrastructure plan, and financials. 3. Submits the proposal to the Department of Chemicals and Petrochemicals, Ministry of Chemicals and Fertilizers. 4. The proposal is appraised by a Technical Committee. 5. Upon approval, financial assistance is sanctioned and released in installments based on progress. 6. The implementing agency executes the project and utilizes the grant for common infrastructure development.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Infrastructure development plan",
+    "Financial viability and funding plan",
+    "Clearances from relevant authorities (if applicable)",
+    "Undertaking from State Government regarding 50% contribution"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year as per the scheme guidelines.",
+  "implementing_agency": "Department of Chemicals and Petrochemicals, Ministry of Chemicals and Fertilizers",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is limited to common infrastructure only; individual unit setup is not covered",
+    "State Government must contribute at least 50% of the project cost",
+    "The Plastic Park must be dedicated primarily to plastic processing and allied industries",
+    "Projects must comply with environmental and safety regulations"
+  ],
+  "source_cited_notes": [
+    "https://chemicals.nic.in/plastic-parks"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:03:46.135143+00:00"
+}

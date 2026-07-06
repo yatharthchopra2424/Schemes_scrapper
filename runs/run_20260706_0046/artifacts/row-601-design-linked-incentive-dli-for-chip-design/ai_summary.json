@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-601",
+  "scheme_name": "Design Linked Incentive (DLI) for Chip Design",
+  "scheme_url": "https://semicon.gov.in/dli",
+  "ministry_or_category": "Semiconductors",
+  "overview": "The Design Linked Incentive (DLI) Scheme for Chip Design is a government initiative under the India Semiconductor Mission to provide financial incentives and infrastructure support to domestic companies, startups, and MSMEs engaged in the design of integrated circuits (ICs), chipsets, system on chips (SoCs), and related IP cores. The scheme aims to reduce dependency on imports, strengthen the domestic semiconductor design ecosystem, and promote innovation in chip design through fiscal support linked to sales turnover and deployment of semiconductor products.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "domestic companies",
+    "startups",
+    "MSMEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide fiscal support to domestic companies, startups, and MSMEs engaged in semiconductor design",
+    "Encourage innovation and development of indigenous IP in integrated circuits, chipsets, SoCs, and related designs",
+    "Reduce import dependence on semiconductor chips by promoting domestic design and deployment",
+    "Strengthen the semiconductor design ecosystem in India through linkage of incentives to sales and deployment",
+    "Support the growth of fabless semiconductor companies and design houses in India",
+    "Facilitate access to Electronic Design Automation (EDA) tools and infrastructure for eligible applicants"
+  ],
+  "eligibility": "The applicant must be a company incorporated in India under the Companies Act, 2013 or earlier, or a Limited Liability Partnership (LLP) registered under the LLP Act, 2008. The entity must be engaged in the design of integrated circuits (ICs), chipsets, system on chips (SoCs), semiconductor IP cores, or related designs. Startups and MSMEs are eligible provided they meet the design activity criteria. The design must be for deployment in electronic products, and the applicant must have a clear plan for fabrication and/or deployment of the designed semiconductor product.",
+  "benefits": "Financial incentive of up to 50% of eligible expenditure on semiconductor design, including EDA tools, software licenses, IP procurement, manpower costs, and tape-out costs. Support for deployment-linked incentive of 4% to 6% of net sales turnover over 5 years for deployed semiconductor products. Access to government-approved EDA tools and design infrastructure through approved partners. Fiscal support is disbursed in stages linked to milestones such as design completion, tape-out, and product deployment.",
+  "financial_support": "The scheme provides two components: (1) Product Design Linked Incentive (PDLI) of up to 50% of eligible design expenditure, capped at INR 15 Crore per applicant; and (2) Deployment Linked Incentive (DLI) of 4% to 6% of net sales turnover of the deployed semiconductor product over a period of 5 years from the date of deployment. The total financial support per applicant is subject to a ceiling of INR 30 Crore. Incentives are disbursed in stages based on achievement of pre-defined milestones verified by the Programme Management Agency (PMA).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 30 Crore per applicant (combined PDLI and DLI)",
+  "application_process": "1. Eligible applicants must register on the India Semiconductor Mission portal. 2. Submit a detailed application including company profile, design proposal, bill of materials, fabrication plan, and deployment strategy. 3. Upload required documents such as Certificate of Incorporation, PAN, GST details, design specifications, and financial statements. 4. Application is reviewed by the Programme Management Agency (PMA) for technical and financial feasibility. 5. Upon approval, sign an agreement with the India Semiconductor Mission. 6. Incur eligible expenses and submit claims for reimbursement. 7. Claims are verified and incentives are disbursed in stages linked to milestones.",
+  "application_portal_url": "https://semicon.gov.in/dli",
+  "required_documents": [
+    "Certificate of Incorporation / LLP Registration",
+    "PAN of the entity",
+    "GST Registration Certificate",
+    "Audited financial statements (for last 2 years, if applicable)",
+    "Detailed project report including design specifications, scope, and objectives",
+    "Bill of Materials (BOM) for design and tape-out",
+    "Fabrication plan (if applicable) or foundry engagement details",
+    "Deployment plan for the semiconductor product",
+    "Details of EDA tools and software to be used",
+    "IP ownership or licensing agreements (if third-party IP is used)",
+    "Undertaking regarding indigenous content and value addition"
+  ],
+  "deadlines": "Applications are accepted periodically as per notifications issued by the India Semiconductor Mission. Specific windows are announced on the portal; currently, there is no fixed rolling deadline but subject to periodic calls.",
+  "implementing_agency": "India Semiconductor Mission, under the Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: info@indiasemicondutor.com | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Incentives are subject to availability of funds and approval by the empowered committee",
+    "Applicants must achieve pre-defined milestones to claim incentives in stages",
+    "Net sales turnover for DLI is calculated only for semiconductor products designed under the scheme and deployed in electronic products",
+    "The scheme is subject to periodic review and may be modified or terminated by the government",
+    "Double dipping with other government subsidies for the same expenditure is not permitted"
+  ],
+  "source_cited_notes": [
+    "https://semicon.gov.in/dli"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:59:44.870514+00:00"
+}

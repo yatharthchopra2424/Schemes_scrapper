@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-211",
+  "scheme_name": "Pradhan Mantri Research Fellows (PMRF) Scheme",
+  "scheme_url": "https://www.pmrf.in",
+  "ministry_or_category": "Education",
+  "overview": "The Pradhan Mantri Research Fellows (PMRF) Scheme is a flagship initiative by the Ministry of Education (MoE) to support PhD scholars in Science and Engineering with attractive fellowships and research grants. It aims to attract top talent into doctoral research, build outstanding research ecosystems, and focus on innovative and challenging research problems. The scheme was announced in the Budget 2018-19 and is implemented through the National Coordinating Institute (NCI) and National Coordination Committee (NCC).",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "PhD scholars in Science and Engineering"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support the very best talents in doctoral research in India with attractive fellowships",
+    "Build and nurture outstanding research ecosystems in the country",
+    "Focus on extremely challenging and innovative research problems",
+    "Attract the best talent into research to realize the vision of development through innovation",
+    "Improve the quality of research in various higher educational institutions"
+  ],
+  "eligibility": "Candidates can apply through Direct Entry or Lateral Entry channels. For Direct Entry: (a) completed or pursuing final year of 4/5-year undergraduate or 5-year integrated M.Tech./2-year M.Sc./5-year UG-PG dual degree in Science and Technology from IISc/IITs/NITs/IISERs/IIEST and centrally funded IIITs with CGPA/CPI ≥ 8.0, OR (b) same from any other recognized Institute/University with CGPA ≥ 8 and GATE score ≥ 650 or UGC/CSIR JRF rank ≤ 100 or NBHM fellowship, OR (c) qualified GATE and pursuing/completed M.Tech./MS by research at a PMRF granting institute with CGPA/CPI ≥ 8.0 and minimum four courses at time of application. Further, must be selected for Ph.D. at a PMRF granting institute. For Lateral Entry: currently pursuing Ph.D. at a PMRF granting institute, completed at most 12 months (if joined with Master’s) or 24 months (if joined with Bachelor’s) in PhD programme, completed at least four full-semester courses with aggregate CGPA ≥ 8.5, and strong recommendation from the host institute.",
+  "benefits": "Attractive monthly fellowship (Year 1: ₹70,000; Year 2: ₹70,000; Year 3: ₹75,000; Year 4: ₹80,000; Year 5: ₹80,000), annual research grant of ₹2 lakhs per year (up to ₹10 lakhs for five years), mandatory TAship duty (teaching ~1 hour/week in non-PMRF institutes), annual review process, and certification upon completion.",
+  "financial_support": "Fellowship is paid monthly as per the pay matrix: ₹70,000 in Year 1, ₹70,000 in Year 2, ₹75,000 in Year 3, ₹80,000 in Year 4, and ₹80,000 in Year 5. Each fellow is eligible for a research grant of ₹2 lakhs per year, totaling up to ₹10 lakhs over five years. The research grant can be carried forward but must be spent before thesis submission or PMRF tenure end, whichever is earlier, and any unspent amount must be refunded. Fellowship and research grant are paid until the date of Final Viva Voce or end of PMRF tenure, whichever is earlier, with no retrospective payments for thesis submissions on or after November 1, 2022.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "₹10 lakhs (total research grant over five years)",
+  "application_process": "1. Get nominated by the PMRF granting institute after meeting eligibility criteria. 2. Receive a link to the PMRF portal to submit application. 3. Submit academic background, transcripts, research experience/internship, CV, research proposal/statement of purpose, list of publications, and details of recommenders. 4. Await evaluation by a National Panel for each broad area. 5. Final selection by the National Coordination Committee (NCC) based on ranks and seat allocation.",
+  "application_portal_url": "https://www.pmrf.in/",
+  "required_documents": [
+    "Official grade sheet/transcript",
+    "GATE scorecard (if applicable)",
+    "Academic background details",
+    "Transcripts",
+    "Details of research experience or internship",
+    "CV",
+    "Research proposal / statement of purpose",
+    "List of publications",
+    "Details of recommenders willing to write strong letters of recommendation"
+  ],
+  "deadlines": "Application windows vary: for December 2024 annual review, submission was 01st Nov 2024 to 07th Nov 2024; for May 2025 review, submission was 08-May-2025 to 14-May-2025 (with extension to 20-May-2025 for 1 scholar). Specific cycles have defined timelines; otherwise, admissions occur twice a year (May and December cycles).",
+  "implementing_agency": "Ministry of Education (MoE)",
+  "contact_details": "Phone: 044-2257 8079 | Email: pmrfsupport@smail.iitm.ac.in | Address: Tvasta - India’s First 3D Printed House, Department of Engineering Design, Alumni Ave, Near Chemplast, Indian Institute of Technology, Chennai, Tamil Nadu - 600036",
+  "caveats": [
+    "Scholars who upgrade from M.S./M.Tech. to Ph.D. are not eligible for Direct Entry",
+    "Integrated PhD students are not eligible for Direct Entry at the time of completion of Masters requirement",
+    "A candidate who defers admission in a PhD programme cannot be considered for Direct Entry at the time of joining",
+    "Research grant amount must be refunded if unspent",
+    "Guideline ceases to apply after 31st Dec 2028",
+    "No retrospective payments for thesis submissions on or after November 1, 2022",
+    "TAship duty is mandatory; failure to complete may lead to fellowship reduction or discontinuation",
+    "Can apply for Lateral Entry at most twice"
+  ],
+  "source_cited_notes": [
+    "https://pmrf.in/",
+    "https://pmrf.in/guidelines.html",
+    "https://pmrf.in/fellowship.html",
+    "https://pmrf.in/documents/Overall-Guidelines.pdf",
+    "https://pmrf.in/documents/16_01_2026_Guidelines for PMRF 1.0 (1).pdf",
+    "https://pmrf.in/documents/14_01_2025_Guidelines-for-PMRF.pdf",
+    "https://pmrf.in/documents/Pay-Matrix.pdf",
+    "https://pmrf.in/documents/TAship-Guidelines.pdf",
+    "https://pmrf.in/documents/Review_Process-Instructions-to-Fellows.pdf",
+    "https://pmrf.in/documents/Dec-24_Slides_Published.pdf",
+    "https://pmrf.in/documents/May25-review_Website.pdf",
+    "https://pmrf.in/documents/Statistics-PDF-Dec-2025.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:18:04.156735+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-494",
+  "scheme_name": "Recognition of Prior Learning (RPL) Scheme",
+  "scheme_url": "https://pmkvyofficial.org/rpl",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "The Recognition of Prior Learning (RPL) Scheme under the Pradhan Mantri Kaushal Vikas Yojana (PMKVY) aims to certify and upskill individuals with existing skills acquired through informal or non-formal learning. It provides formal recognition to such competencies, enhancing employability and livelihood opportunities. The scheme aligns with the National Skills Qualification Framework (NSQF) and is implemented nationwide through accredited training partners and assessment agencies.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "individuals with prior learning",
+    "informal sector workers",
+    "youth",
+    "unskilled and semi-skilled workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To align the competencies of the unregulated workforce with the National Skills Qualification Framework (NSQF)",
+    "To enhance the employability and livelihood opportunities of individuals",
+    "To provide certification and monetary reward to candidates on successful assessment",
+    "To reduce inequalities by giving due value to informal learning",
+    "To create a skilled workforce ready for industry requirements"
+  ],
+  "eligibility": "Any individual possessing skills acquired through informal or non-formal learning channels, such as work experience, self-learning, or traditional training, is eligible to apply under the RPL component of PMKVY. There is no minimum educational qualification required, and the scheme is open to all Indian citizens.",
+  "benefits": "Successful candidates receive a government-recognized certificate aligned with NSQF levels, a monetary reward of INR 500 upon assessment and certification, and improved access to job opportunities, wage progression, and formal skill upgrading pathways.",
+  "financial_support": "Under the RPL scheme, a fixed monetary reward of INR 500 is disbursed to each candidate who successfully completes the assessment and certification process. This amount is transferred directly to the beneficiary's bank account via Direct Benefit Transfer (DBT).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 500",
+  "application_process": "1. Mobilization and counseling of potential candidates by training partners or implementing agencies. 2. Enrollment of eligible candidates at designated RPL centers. 3. Conduct of pre-assessment bridge training (if required) to address skill gaps. 4. Final assessment by empaneled assessment agencies as per NSQF-aligned qualification packs. 5. Certification and disbursement of reward money upon successful completion.",
+  "application_portal_url": "https://pmkvyofficial.org/rpl",
+  "required_documents": [
+    "Aadhaar Card",
+    "Bank account details (for DBT)",
+    "Passport-sized photographs",
+    "Any existing skill certificates or experience letters (if available)"
+  ],
+  "deadlines": "Rolling basis — admissions and assessments are conducted throughout the year based on training partner schedules.",
+  "implementing_agency": "Ministry of Skill Development and Entrepreneurship (MSDE)",
+  "contact_details": "Helpline: 1800-123-9626",
+  "caveats": [
+    "Monetary reward of INR 500 is applicable only upon successful assessment and certification",
+    "Training and assessment must be conducted through PMKVY-accredited centers and agencies",
+    "Beneficiaries must possess a valid Aadhaar number linked to a bank account for DBT",
+    "The scheme is subject to the availability of funds and annual targets under PMKVY"
+  ],
+  "source_cited_notes": [
+    "https://pmkvyofficial.org/rpl"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:54:43.738395+00:00"
+}

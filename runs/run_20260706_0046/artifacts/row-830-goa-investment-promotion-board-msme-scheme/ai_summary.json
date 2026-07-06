@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-830",
+  "scheme_name": "Goa Investment Promotion Board MSME Scheme",
+  "scheme_url": "https://goaiipb.com",
+  "ministry_or_category": "State Level (Goa)",
+  "overview": "The Goa Investment Promotion Board (GIPB) MSME Scheme is a state-level initiative aimed at promoting micro, small, and medium enterprises in Goa by providing financial incentives and support for investment in eligible sectors. The scheme focuses on encouraging new investments, technology upgradation, and employment generation within the state. It offers subsidies on capital expenditure and interest to qualifying MSME units.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Goa only",
+  "objectives": [
+    "Promote investment in micro, small, and medium enterprises in Goa",
+    "Encourage technology upgradation and modernization of MSME units",
+    "Generate employment opportunities within the state",
+    "Support industrial development in identified thrust sectors",
+    "Enhance competitiveness of Goan MSMEs through financial assistance"
+  ],
+  "eligibility": "MSME units registered with the Directorate of Industries, Trade and Commerce, Government of Goa, engaged in manufacturing or service activities, having made eligible investments in plant and machinery or equipment, and complying with environmental and other regulatory norms as applicable.",
+  "benefits": "Eligible MSME units receive capital investment subsidy on plant and machinery, interest subsidy on term loans, and reimbursement of expenses for ISO certification, patent registration, and barcode acquisition. Additional support includes assistance for quality improvement, technology adoption, and market development.",
+  "financial_support": "The scheme provides a capital investment subsidy of up to 30% on eligible investment in plant and machinery, subject to a ceiling of INR 20 lakhs per unit. Interest subsidy is offered at 5% per annum on term loans for a period of 5 years. Reimbursement for ISO certification, patent registration, and barcode is available up to 50% of actual costs, capped at INR 50,000 per activity.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 20 lakhs for capital investment subsidy",
+  "application_process": "1. Submit application form along with required documents to the Directorate of Industries, Trade and Commerce, Goa. 2. Application is scrutinized for eligibility and completeness. 3. Site verification may be conducted by officials. 4. Approved applications are forwarded to the Goa Investment Promotion Board for sanction. 5. Upon approval, subsidy amount is disbursed after verification of investment and operational commencement.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form in prescribed format",
+    "Certificate of MSME registration (Udyam)",
+    "Project report detailing investment and employment",
+    "Proof of land ownership or lease agreement",
+    "Quotations and invoices for plant and machinery",
+    "Bank sanction letter for term loan (if applicable)",
+    "Environmental clearance certificate (if required)",
+    "Partnership deed or Memorandum and Articles of Association",
+    "PAN and GST registration certificate",
+    "Cancelled cheque or bank account details"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Directorate of Industries, Trade and Commerce, Government of Goa",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is disbursed only after commencement of commercial production",
+    "Units must remain operational for a minimum period of 3 years after availing benefits",
+    "Claims must be submitted within 12 months of investment or commercial production",
+    "Expenses incurred before application submission are not eligible for subsidy"
+  ],
+  "source_cited_notes": [
+    "https://goaiipb.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:08:57.436292+00:00"
+}

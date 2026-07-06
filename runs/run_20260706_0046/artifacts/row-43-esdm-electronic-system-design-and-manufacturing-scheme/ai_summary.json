@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-43",
+  "scheme_name": "ESDM – Electronic System Design and Manufacturing Scheme",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Electronics",
+  "overview": "The ESDM – Electronic System Design and Manufacturing Scheme is a Government of India initiative under the Ministry of Electronics and Information Technology (MeitY) aimed at promoting domestic manufacturing and value addition in the electronics system design and manufacturing sector. The scheme aims to enhance India's capabilities in electronics manufacturing, reduce import dependence, and promote innovation and investment in the ESDM sector. It supports the development of electronic systems and components through incentives, infrastructure support, and policy interventions to strengthen the domestic electronics manufacturing ecosystem.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "manufacturing units",
+    "electronics manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote domestic manufacturing and value addition in the electronics system design and manufacturing sector",
+    "Reduce dependence on imports of electronic goods and components",
+    "Promote innovation, research, and development in electronics design and manufacturing",
+    "Attract investment in the electronics manufacturing sector through financial and fiscal incentives",
+    "Develop skilled manpower and infrastructure for electronics manufacturing",
+    "Promote export competitiveness of Indian electronics products",
+    "Support the development of semiconductor and electronic component manufacturing ecosystem"
+  ],
+  "eligibility": "The scheme is open to Indian companies, including MSMEs, startups, and large enterprises, engaged in or planning to engage in electronic system design and manufacturing activities. Applicants must be registered entities in India with a valid GSTIN and must propose projects involving value addition in electronics manufacturing, such as design, development, prototyping, testing, and manufacturing of electronic systems and components. Preference may be given to projects involving semiconductor design, semiconductor fabrication, electronic components, and high-value electronics manufacturing.",
+  "benefits": "The scheme provides financial incentives in the form of subsidies or incentives on capital expenditure, interest subsidies on loans, reimbursement of certain expenses related to technology acquisition, skill development, and quality certification. It also offers support for setting up manufacturing units, access to common facility centers, assistance in obtaining certifications, and facilitation of technology transfer and collaboration with R&D institutions. Additionally, it supports market development, export promotion, and participation in international exhibitions and trade fairs.",
+  "financial_support": "Financial support under the ESDM scheme includes capital subsidies, interest subsidies, and reimbursement of certain expenses. The exact quantum and mechanism of support vary based on the specific component of the scheme and the nature of the project. Support is typically provided as a percentage of eligible project cost, subject to upper limits, and is disbursed through designated nodal agencies upon verification of milestones and expenditure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official MeitY website or the designated portal for the ESDM scheme.\n2. Register and create an account on the portal.\n3. Fill out the online application form with details of the proposed project, including project report, financials, and implementation plan.\n4. Upload required documents such as company registration, GSTIN, project report, bank details, and other relevant certificates.\n5. Submit the application and await scrutiny by the nodal agency.\n6. Upon preliminary approval, submit detailed project report and financial closure documents.\n7. Upon final approval, enter into an agreement with the implementing agency and fulfill compliance requirements.\n8. Submit periodic progress reports and utilization certificates for disbursement of funds in installments.",
+  "application_portal_url": "https://meity.gov.in/offerings",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "GST Registration Certificate",
+    "PAN Card of the entity",
+    "Project Report detailing the project scope, technology, and implementation plan",
+    "Bank details and audited financial statements",
+    "Details of promoters and directors",
+    "Land ownership or lease documents",
+    "Quotations for plant and machinery",
+    "Environmental and safety clearances (if applicable)",
+    "Undertaking and declaration as per scheme guidelines"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in | Phone: +91-11-24361756",
+  "caveats": [
+    "Incentives are subject to availability of funds and approval by the empowered committee",
+    "Benefits are contingent upon achieving predefined milestones and submission of utilization certificates",
+    "Funds must be utilized only for the approved project components and within the stipulated timeframe",
+    "Any deviation from the approved project scope may lead to rejection or withdrawal of benefits",
+    "Beneficiaries must maintain proper books of accounts and allow audit by designated agencies"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/",
+    "https://meity.gov.in/offerings",
+    "https://meity.gov.in/connect"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:44:20.237853+00:00"
+}

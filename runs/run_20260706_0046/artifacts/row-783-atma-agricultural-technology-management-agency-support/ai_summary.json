@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-783",
+  "scheme_name": "ATMA (Agricultural Technology Management Agency) Support",
+  "scheme_url": "https://agricoop.nic.in/atma",
+  "ministry_or_category": "AgriTech Startups",
+  "overview": "ATMA (Agricultural Technology Management Agency) Support is a centrally sponsored scheme aimed at promoting agricultural extension reforms and technology dissemination through decentralized, farmer-driven institutions. It supports the establishment and functioning of ATMAs at the district level to integrate research and extension activities, strengthen linkages between farmers, scientists, and market actors, and promote location-specific, demand-driven agricultural technologies. The scheme focuses on capacity building, farmer mobilization, and public-private partnerships to improve farm productivity and income.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "farmer groups",
+    "agri-entrepreneurs",
+    "startups in agri-tech",
+    "MSMEs in agriculture"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To decentralize agricultural extension management through district-level ATMAs",
+    "To strengthen research-extension-farmer-market linkages",
+    "To promote farmer-led planning and execution of agricultural activities",
+    "To support capacity building of extension personnel and farmers",
+    "To encourage public-private partnerships in agricultural technology dissemination",
+    "To promote location-specific, demand-driven, and sustainable farming practices",
+    "To facilitate access to credit, inputs, and markets for farmers",
+    "To monitor and evaluate technology adoption and impact on farm productivity"
+  ],
+  "eligibility": "Eligible beneficiaries include farmers, farmer interest groups (FIGs), farmer producer organizations (FPOs), self-help groups (SHGs), agri-entrepreneurs, and startups engaged in agricultural technology and innovation. Implementation is carried out through State Agricultural Management and Extension Training Institutes (SAMETIs) and district-level ATMAs, with funding shared between the Central and State Governments in a 90:10 ratio for Northeastern and Himalayan states, and 60:40 for other states.",
+  "benefits": "Benefits include financial support for farmer mobilization, training and exposure visits, on-farm trials, demonstration of technologies, farmer-scientist interactions, market linkage initiatives, and support for innovative agri-tech solutions. The scheme also supports infrastructure development at the district level, capacity building of extension functionaries, and promotion of farmer-led institutions such as FIGs and FPOs. Non-financial benefits include technical guidance, access to expert advice, and networking opportunities with researchers and market actors.",
+  "financial_support": "Financial support is provided as a subsidy for various activities under the scheme, including farmer training, exposure visits, on-farm trials, demonstrations, and innovation funds. The central share of funding is released to State Governments based on approved Annual Action Plans (AAPs). The subsidy structure varies by activity and beneficiary category, with provisions, with specific norms defined in the scheme guidelines. Funds are disbursed through SAMETIs to district ATMAs for implementation at the grassroots level.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Farmers or agri-entrepreneurs interested in ATMA support must approach their district-level Agricultural Technology Management Agency (ATMA). 2. The ATMA identifies beneficiary needs through participatory rural appraisal and prepares block-level action plans. 3. Proposals for specific activities (e.g., training, demonstrations, market linkages) are submitted by farmer groups or individuals. 4. The ATMA reviews and approves proposals based on technical feasibility and alignment with district agricultural goals. 5. Approved activities are implemented with financial and technical support from ATMA. 6. Progress is monitored and reported by the ATMA to SAMETI and State authorities.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of identity (Aadhaar, Voter ID, etc.)",
+    "Proof of residence",
+    "Land ownership or lease documents (if applicable)",
+    "Bank account details",
+    "Details of proposed activity or innovation",
+    "Recommendation from local agricultural officer (if required)",
+    "Certificate of incorporation (for startups/FPOs)",
+    "PAN and GST details (for enterprises)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year based on district ATMA calendars and availability of funds under the Annual Action Plan (AAP).",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of central and state shares under the scheme",
+    "Activities must align with the district-level Strategic Research and Extension Plan (SREP)",
+    "Beneficiaries must contribute a share of cost for certain activities as per norms",
+    "Duplicate funding for the same activity from other government schemes is not permitted",
+    "ATMA support is implemented through state societies; central release depends on state compliance and utilization"
+  ],
+  "source_cited_notes": [
+    "https://agricoop.nic.in/atma"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:47:04.115376+00:00"
+}

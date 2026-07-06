@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-870",
+  "scheme_name": "IISc MRDG Research Seed Grant for Startups",
+  "scheme_url": "https://www.iisc.ac.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The IISc MRDG Research Seed Grant for Startups is an innovation grant scheme offered by the Indian Institute of Science (IISc) to support early-stage startups with research-oriented projects. It aims to foster innovation by providing seed funding to startups that are aligned with IISc's research domains and have potential for technological impact. The grant is designed to bridge the gap between academic research and commercialization, particularly for startups emerging from IISc's ecosystem or collaborating with its faculty and labs.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To support early-stage startups with research-driven innovations",
+    "To promote collaboration between startups and IISc's research facilities and faculty",
+    "To accelerate the translation of lab-scale research into market-ready products or services",
+    "To strengthen the startup ecosystem by providing non-dilutive seed funding",
+    "To encourage entrepreneurship in deep-tech and science-based domains"
+  ],
+  "eligibility": "Startups must be registered entities (Private Limited Company, LLP, or Partnership) with a clear linkage to IISc — either through IISc faculty, alumni, or research conducted at IISc. The startup must be working on an innovative product, service, or process grounded in scientific research. Preference is given to startups that are incubated at IISc or have ongoing collaboration with IISc departments or centres. The startup should be in the early stage (typically less than 5 years old) and not have received more than a specified limit in prior funding.",
+  "benefits": "Financial support in the form of a seed grant, access to IISc's research laboratories and equipment, mentorship from IISc faculty, networking opportunities with investors and industry partners, and potential for follow-on funding through IISc's innovation ecosystem.",
+  "financial_support": "The scheme provides a one-time seed grant of up to INR 10 lakhs to selected startups. The grant is non-repayable and is disbursed in tranches based on milestone achievement. Funds are intended for prototyping, proof-of-concept development, and early-stage validation activities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs",
+  "application_process": "1. Identify a potential IISc faculty mentor or research collaborator. 2. Develop a project proposal aligned with IISc's research domains. 3. Submit the application through the IISc MRDG portal with startup registration details, team profile, and project plan. 4. Upload supporting documents including incorporation certificate, PAN, and brief technical description. 5. Application is reviewed by the MRDG committee. 6. Shortlisted startups are invited for a presentation or interview. 7. Final selection is made based on innovation, feasibility, and IISc alignment. 8. Grant is awarded upon approval and disbursement begins post-agreement signing.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Project proposal or business plan",
+    "Team profiles and CVs of founders",
+    "Proof of IISc linkage (e.g., faculty collaboration letter, alumni proof, or research association)",
+    "Brief technical description or proof of concept (if available)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year, subject to availability of funds and review cycles.",
+  "implementing_agency": "Indian Institute of Science (IISc), Bengaluru",
+  "contact_details": "Email: office.divdeans@iisc.ac.in | Phone: +91-80-22932478; +91-80-22932286",
+  "caveats": [
+    "Grant is subject to availability of funds and annual budget allocation",
+    "Startups must demonstrate clear linkage to IISc research or personnel",
+    "Funds must be utilized only for approved project activities as per the grant agreement",
+    "Recipients may be required to submit progress reports and utilization certificates",
+    "IISc retains the right to terminate grant if milestones are not met or misuse is detected"
+  ],
+  "source_cited_notes": [
+    "https://iisc.ac.in/",
+    "https://iisc.ac.in/post-doctoral-fellowship/",
+    "https://iisc.ac.in/institute-support-for-travel/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:37:03.646188+00:00"
+}

@@ -1,0 +1,39 @@
+{
+  "scheme_id": "row-611",
+  "scheme_name": "CERT-In Startup Empanelment Scheme",
+  "scheme_url": "https://cert-in.org.in",
+  "ministry_or_category": "Cybersecurity",
+  "overview": "The CERT-In Startup Empanelment Scheme is an initiative by the Indian Computer Emergency Response Team (CERT-In) to empanel startups that provide cybersecurity solutions and services. The scheme aims to strengthen India's cybersecurity posture by recognizing and collaborating with innovative startups in the domain. Empanelled startups may be considered for cybersecurity projects, consultancy, and solution deployment with government and critical sector organizations.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Empanel startups offering cybersecurity solutions and services",
+    "Strengthen national cybersecurity through collaboration with innovative startups",
+    "Provide a platform for startups to engage with government and critical sector projects",
+    "Enhance the cybersecurity ecosystem by promoting indigenous innovation"
+  ],
+  "eligibility": "Startups must be registered entities in India, working in the cybersecurity domain, and must meet the technical and operational criteria set by CERT-In for empanelment. Specific eligibility details such as turnover, incorporation age, or certifications are not explicitly mentioned in the provided evidence.",
+  "benefits": "Empanelled startups gain recognition from CERT-In, eligibility to participate in government cybersecurity projects, opportunities for consultancy and solution deployment with critical sector organizations, and enhanced credibility in the cybersecurity market.",
+  "financial_support": "The scheme does not mention any direct financial support, grants, loans, or subsidies. Benefits are primarily non-financial, focusing on recognition and project opportunities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process is not detailed in the provided evidence. Interested startups are likely required to apply through the CERT-In portal, but specific steps, documentation, or submission procedures are not described.",
+  "application_portal_url": "https://cert-in.org.in",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Indian Computer Emergency Response Team (CERT-In)",
+  "contact_details": "",
+  "caveats": [
+    "The evidence does not specify financial support, exact eligibility criteria, application steps, required documents, or deadlines.",
+    "Empanelment does not guarantee project allocation or financial assistance."
+  ],
+  "source_cited_notes": [
+    "https://cert-in.org.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:03:38.601749+00:00"
+}

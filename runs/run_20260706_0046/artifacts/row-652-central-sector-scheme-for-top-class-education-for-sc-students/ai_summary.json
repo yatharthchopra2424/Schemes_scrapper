@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-652",
+  "scheme_name": "Central Sector Scheme for Top Class Education for SC Students",
+  "scheme_url": "https://scholarships.gov.in",
+  "ministry_or_category": "OBC Development",
+  "overview": "The Central Sector Scheme for Top Class Education for SC Students is a merit-based scholarship scheme implemented by the Department of Social Justice & Empowerment to support SC students pursuing higher education in top-class institutions. The scheme provides financial assistance for tuition fees, living expenses, books, and computers to eligible students. It aims to promote educational empowerment and reduce dropout rates among SC students in professional and technical courses.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "SC/ST"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote quality education amongst SC students",
+    "To provide financial assistance for pursuing studies in notified institutes",
+    "To reduce the dropout rate of SC students from professional and technical courses",
+    "To encourage SC students to attain top-class education",
+    "To support SC students in achieving academic excellence"
+  ],
+  "eligibility": "The student must belong to a Scheduled Caste (SC) community. The annual family income should not exceed Rs. 4.5 lakh. The student must have secured admission in a notified institute for pursuing a full-time course. The student must not be in receipt of any other scholarship or stipend. The student must be pursuing a course at the graduate or postgraduate level in engineering, medicine, law, management, or other notified professional courses.",
+  "benefits": "The scheme provides full tuition fee reimbursement, living expenses of Rs. 2,200 per month, annual book grant of Rs. 3,000, and a one-time computer grant of Rs. 45,000. The benefits are disbursed through Direct Benefit Transfer (DBT) to the student's Aadhaar-seeded bank account. The scholarship is renewable annually subject to satisfactory academic performance and promotion to the next year of study.",
+  "financial_support": "Financial support includes reimbursement of actual tuition fees (subject to a ceiling), monthly living allowance of Rs. 2,200, annual book allowance of Rs. 3,000, and a one-time computer allowance of Rs. 45,000. The total financial support varies based on the course and institution but is designed to cover major educational expenses. Disbursement is made through DBT via PFMS to the beneficiary's Aadhaar-linked bank account.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the National Scholarship Portal (NSP) at https://scholarships.gov.in. 2. Register and generate a One-Time Registration (OTR) number. 3. Log in using OTR credentials. 4. Select the 'Central Sector Scheme for Top Class Education for SC Students' from the list of available schemes. 5. Fill in the online application form with personal, academic, and bank details. 6. Upload required documents including caste certificate, income certificate, admission proof, and bank details. 7. Submit the application before the deadline. 8. Await verification by the institute and nodal officer. 9. Upon approval, the scholarship amount will be disbursed via DBT.",
+  "application_portal_url": "https://scholarships.gov.in",
+  "required_documents": [
+    "Caste Certificate (SC)",
+    "Income Certificate",
+    "Admission Letter from the Institute",
+    "Previous Year's Mark Sheet",
+    "Bank Account Details (Aadhaar-seeded)",
+    "Bonafide Certificate from the Institute",
+    "Passport-sized Photograph",
+    "OTR Number"
+  ],
+  "deadlines": "Student Application Open till: 31-10-2026",
+  "implementing_agency": "Department of Social Justice & Empowerment",
+  "contact_details": "Email: helpdesk[at]nsp[dot]gov[dot]in | Helpline: 0120 - 6619540",
+  "caveats": [
+    "The scholarship is not available for students pursuing distance learning or part-time courses",
+    "Students receiving any other scholarship or stipend are ineligible",
+    "The scholarship is discontinued if the student fails to get promoted to the next year of study",
+    "The institute must be notified and recognized under the scheme",
+    "Aadhaar number is mandatory for application and disbursement"
+  ],
+  "source_cited_notes": [
+    "https://scholarships.gov.in/All-Scholarships",
+    "https://scholarships.gov.in/home",
+    "https://scholarships.gov.in/Students",
+    "https://scholarships.gov.in/student-announcements",
+    "https://scholarships.gov.in/ViewMoreAnnouncement"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:36:41.919482+00:00"
+}

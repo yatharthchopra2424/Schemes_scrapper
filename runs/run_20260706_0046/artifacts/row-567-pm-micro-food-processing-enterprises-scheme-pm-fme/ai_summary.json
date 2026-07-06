@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-567",
+  "scheme_name": "PM Micro Food Processing Enterprises Scheme (PM-FME)",
+  "scheme_url": "https://pmfme.mofpi.gov.in",
+  "ministry_or_category": "Food Processing",
+  "overview": "PM Micro Food Processing Enterprises Scheme (PM-FME) is a centrally sponsored scheme launched by the Ministry of Food Processing Industries to provide financial, technical and business support for upgradation of existing micro food processing enterprises. The scheme aims to enhance the competitiveness of existing individual micro enterprises and support FPOs/SHGs/cooperatives through credit-linked subsidy, seed capital, and capacity building. It adopts the One District One Product (ODOP) approach to leverage economies of scale in procurement, services and marketing.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Individual Micro Enterprises",
+    "FPOs/SHGs/Cooperatives",
+    "Food Processing Units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide credit-linked capital subsidy @35% of eligible project cost with a maximum of Rs. 10.0 lakhs per unit for upgradation or setting up of new units",
+    "Provide credit-linked capital subsidy @35% of eligible project cost with a maximum of Rs. 3.00 Crore for groups (FPOs/FPCs/Cooperatives/SHG and its federation/Govt. Agencies) establishing food processing line with common infrastructure/value chain/incubation centers",
+    "Provide seed capital @ Rs. 40,000/- per member of SHG for working capital and purchase of small tools, maximum upto Rs. 4 Lakhs per SHG",
+    "Provide 50% financial grant for Branding and Marketing Support to groups of FPOs/SHGs/Cooperatives or a SPV of micro food processing enterprises",
+    "Provide training on Food Processing Entrepreneurship Development Programme to PMFME beneficiaries under the Capacity Building component"
+  ],
+  "eligibility": "Individual Micro Enterprises: Individuals / Proprietorship / Partnership/ FPOs/ NGOs/ Cooperatives/ SHGs/ Pvt. Ltd. Co. would be provided credit-linked capital subsidy @35% of the eligible project cost - maximum of Rs. 10.0 lakhs per unit for upgradation or setting up of new units. Groups: The Groups - FPOs/ FPCs/ Cooperatives/ SHG and its federation/ Govt. Agencies - established or propose to establish food processing line along with common infrastructure/ Value chain/ incubation centers would be provided credit linked capital subsidy @35% of the eligible project cost with a maximum of Rs. 3.00 Crore. Seed Capital for SHGs: Seed capital @ Rs. 40,000/- per member of SHG for working capital and purchase of small tools maximum upto 4 Lakhs per SHG. Seed Capital given as grant to the SHG Federation by SRLM/SULM through SNA for loan to the members of SHGs.",
+  "benefits": "Credit-linked capital subsidy @35% of eligible project cost (max Rs. 10.0 lakhs per unit for individuals, max Rs. 3.00 Crore for groups), Seed capital @ Rs. 40,000/- per SHG member (max Rs. 4 Lakhs per SHG), 50% financial grant for Branding and Marketing Support, Training on Food Processing Entrepreneurship Development Programme, Support for value chain development and alignment of support infrastructure through ODOP approach.",
+  "financial_support": "The scheme provides credit-linked capital subsidy @35% of eligible project cost. For individual micro enterprises, the maximum subsidy is Rs. 10.0 lakhs per unit. For groups (FPOs/FPCs/Cooperatives/SHG federation/Govt. Agencies) establishing common infrastructure, the maximum subsidy is Rs. 3.00 Crore. Seed capital is provided as grant to SHG Federation @ Rs. 40,000 per member (max Rs. 4 Lakhs per SHG) for working capital and small tools. Marketing and branding support is provided as 50% financial grant to groups of FPOs/SHGs/Cooperatives or SPV of micro food processing enterprises.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs. 10.0 lakhs per unit for individual micro enterprises; Rs. 3.00 Crore for groups (FPOs/FPCs/Cooperatives/SHG federation/Govt. Agencies); Rs. 40,000 per SHG member (max Rs. 4 Lakhs per SHG); 50% grant for branding and marketing support to groups",
+  "application_process": "1. Visit the official PMFME portal at https://pmfme.mofpi.gov.in 2. Check eligibility under Individual Micro Enterprises or Group category (FPOs/SHGs/Cooperatives) 3. Prepare project report with details of proposed food processing unit 4. Submit application through the portal with required documents 5. Application is scrutinized by State/Nodal Agency 6. Upon approval, subsidy is disbursed through linked bank loan 7. Implement project as per approved plan 8. Submit utilization reports and completion certificate",
+  "application_portal_url": "https://pmfme.mofpi.gov.in",
+  "required_documents": [
+    "Project Report",
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Bank loan sanction letter",
+    "Land documents (ownership/lease)",
+    "Quotations for machinery and equipment",
+    "Details of promoter's contribution",
+    "ODOP product details (if applicable)",
+    "SHG federation details (for seed capital)",
+    "Branding and marketing plan (for marketing grant)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Food Processing Industries",
+  "contact_details": "Phone: +91-9254997101 / 7102 / 7103 / 7104 / 7105 | Email: support-pmfme[at]mofpi[dot]gov.in",
+  "caveats": [
+    "Subsidy is credit-linked and requires term loan from bank",
+    "Individual unit subsidy capped at Rs. 10.0 lakhs (35% of project cost)",
+    "Group subsidy capped at Rs. 3.00 Crore (35% of project cost)",
+    "Seed capital for SHGs limited to Rs. 40,000 per member (max Rs. 4 Lakhs per SHG)",
+    "Marketing grant limited to 50% of approved cost for groups",
+    "Land and building cost not eligible for subsidy under individual unit component",
+    "Beneficiary must contribute minimum 10% of project cost as promoter's contribution"
+  ],
+  "source_cited_notes": [
+    "https://pmfme.mofpi.gov.in",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/fishprocessingdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/frozenfishdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/driedprawndpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/musselsdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/cakedpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/cookiesdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/cuminbiscuitdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/ruskdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/Cheese-DPR.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/curddpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/flavouredmilkdpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/08/gheedpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/khoadpr.pdf",
+    "https://niftem.ac.in/newsite/pmfme/wp-content/uploads/2022/07/liquidmilkdpr.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:46:12.695502+00:00"
+}

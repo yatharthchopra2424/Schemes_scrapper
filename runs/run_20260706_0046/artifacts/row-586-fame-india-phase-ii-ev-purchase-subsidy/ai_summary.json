@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-586",
+  "scheme_name": "FAME India Phase II – EV Purchase Subsidy",
+  "scheme_url": "https://fame2.heavyindustries.gov.in",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "FAME India Phase II is a Government of India scheme launched to promote faster adoption and manufacturing of electric vehicles by providing upfront purchase incentives to consumers and supporting the development of charging infrastructure. The scheme focuses on incentivizing electric two-wheelers, three-wheelers, four-wheelers, and buses through demand-side subsidies. It aims to reduce vehicular emissions and dependence on fossil fuels by making EVs more affordable.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "individual consumers",
+    "fleet operators",
+    "institutional buyers",
+    "public transport undertakings"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Incentivize the purchase of electric vehicles to increase their adoption",
+    "Support the development of charging infrastructure across the country",
+    "Reduce dependence on fossil fuels and vehicular emissions",
+    "Promote domestic manufacturing of electric vehicles and components",
+    "Encourage the use of electric vehicles in public and shared transport"
+  ],
+  "eligibility": "Electric vehicles that meet the technical specifications and localization criteria as defined under FAME India Phase II are eligible for incentives. The vehicle must be registered in India and purchased from an OEM that has been approved under the scheme. Incentives are available only for vehicles that are not used for commercial transport of goods or passengers unless specifically permitted under the scheme guidelines.",
+  "benefits": "Upfront reduction in the purchase price of electric vehicles through direct subsidies to buyers. The incentive is claimed by the OEM and passed on to the consumer at the point of sale. The scheme also supports the installation of charging stations and promotes indigenization of EV components.",
+  "financial_support": "Financial support is provided as a demand incentive directly proportional to the battery capacity of the electric vehicle, with higher subsidies for vehicles having greater kWh capacity. The subsidy amount is deducted from the ex-showroom price and reimbursed to the OEM by the government after verification of sales.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. OEMs must register on the FAME India portal and get their vehicle models approved under the scheme. 2. Consumers purchase eligible EV models from registered OEMs. 3. OEMs upload sales data and claim incentives on the FAME portal. 4. The Heavy Industries Ministry verifies the claims and disburses the subsidy amount to the OEMs. 5. The benefit is reflected as a reduced price for the end consumer.",
+  "application_portal_url": "https://fame2.heavyindustries.gov.in",
+  "required_documents": [
+    "Vehicle invoice",
+    "Registration certificate",
+    "Battery specification sheet",
+    "OEM approval certificate under FAME II",
+    "Customer and vehicle details for subsidy claim"
+  ],
+  "deadlines": "The scheme was valid until March 31, 2024, or until the exhaustion of funds, whichever occurred earlier.",
+  "implementing_agency": "Department of Heavy Industry, Ministry of Heavy Industries and Public Enterprises",
+  "contact_details": "Email: fame2@heavyindustries.gov.in | Helpline: 1800-11-2233",
+  "caveats": [
+    "Incentives are available only for vehicles that meet minimum localization requirements",
+    "Subsidy is subject to availability of funds and may be withdrawn without notice",
+    "The scheme does not cover vehicles used for inter-state transport or goods carriage unless exempted",
+    "Claims must be filed within the stipulated time frame after sale"
+  ],
+  "source_cited_notes": [
+    "https://fame2.heavyindustries.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:51:21.016784+00:00"
+}

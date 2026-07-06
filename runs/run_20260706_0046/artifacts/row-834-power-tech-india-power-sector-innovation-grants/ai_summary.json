@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-834",
+  "scheme_name": "POWER-Tech India – Power Sector Innovation Grants",
+  "scheme_url": "https://powermin.gov.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "POWER-Tech India – Power Sector Innovation Grants is a scheme under the Ministry of Power aimed at fostering innovation in the power sector through financial grants. The scheme supports deep tech innovations in power generation, transmission, distribution, and energy efficiency. It targets startups, MSMEs, and research entities working on innovative power sector solutions. The initiative aligns with national goals of energy transition, self-reliance, and ease of doing business in the power sector.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "research institutions",
+    "startups in power sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation in power sector technologies including generation, transmission, distribution, and energy efficiency",
+    "Support deep tech startups and MSMEs in developing scalable power sector solutions",
+    "Facilitate technology adoption and commercialization in the power sector",
+    "Encourage public-private partnerships for power sector innovation",
+    "Support Atmanirbhar Bharat and Make in India initiatives in power technology",
+    "Enhance grid resilience and renewable energy integration through innovation",
+    "Promote energy efficiency and demand-side management innovations",
+    "Facilitate access to funding and mentorship for power sector innovators"
+  ],
+  "eligibility": "Startups, MSMEs, research institutions, and entities registered in India working on innovative power sector technologies in generation, transmission, distribution, or energy efficiency are eligible. Entities must be registered under the Companies Act, LLP Act, or as a recognized startup by DPIIT. Preference is given to entities working on grid modernization, renewable integration, energy storage, and energy efficiency solutions.",
+  "benefits": "Financial grants for prototype development, pilot projects, and technology validation. Access to Ministry of Power’s network of CPSUs, utilities, and technical experts for pilot testing and validation. Mentorship and technical guidance from domain experts in the power sector. Assistance in regulatory approvals and standards compliance. Opportunities for pilot projects with state utilities and CPSUs. Visibility through Ministry of Power platforms and events.",
+  "financial_support": "Financial support is provided as grants for prototype development, pilot projects, and technology validation. The grant amount is determined based on project scope and stage of innovation, with disbursement linked to project milestones. Funds are disbursed in tranches upon achievement of predefined milestones and submission of utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Ministry of Power’s offerings page at https://powermin.gov.in/offerings. 2. Navigate to the POWER-Tech India – Power Sector Innovation Grants scheme details. 3. Review eligibility criteria and guidelines. 4. Prepare project proposal including problem statement, innovation description, methodology, budget, and milestones. 5. Submit application via the designated portal or email as specified in the scheme guidelines. 6. Applications are screened by a technical committee for eligibility and innovation quotient. 7. Shortlisted applicants are invited for presentation or interview. 8. Final selection is made by the selection committee. 9. Selected applicants receive grant approval and are onboarded for project execution.",
+  "application_portal_url": "https://powermin.gov.in/offerings",
+  "required_documents": [
+    "Project proposal detailing innovation, objectives, methodology, and expected outcomes",
+    "Budget breakdown and financial plan",
+    "Milestone-based work plan",
+    "Certificate of Incorporation or registration",
+    "PAN of the entity",
+    "GST registration (if applicable)",
+    "Bank account details",
+    "Team credentials and CVs of key personnel",
+    "Any existing IPR or patent details (if applicable)",
+    "Letters of support or intent from potential users or partners (if available)"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "Email: jsthermal-mop@gov.in (based on contact us page for Ministry of Power)",
+  "caveats": [
+    "Grants are disbursed in tranches based on milestone achievement and submission of utilization certificates",
+    "Intellectual Property Rights (IPR) generated from the project may be subject to government use rights as per prevailing guidelines",
+    "Recipients may be required to collaborate with CPSUs or state utilities for pilot testing",
+    "Funding is subject to availability of funds and approval of the competent authority",
+    "Projects must align with national power sector priorities and policies"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/offerings",
+    "https://powermin.gov.in/",
+    "https://powermin.gov.in/connect"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:14:01.150158+00:00"
+}

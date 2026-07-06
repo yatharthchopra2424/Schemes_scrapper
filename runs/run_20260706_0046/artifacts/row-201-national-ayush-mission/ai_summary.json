@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-201",
+  "scheme_name": "National AYUSH Mission",
+  "scheme_url": "https://ayush.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "The National Ayush Mission (NAM) is a centrally sponsored scheme launched by the Ministry of Ayush to promote AYUSH systems of healthcare through cost-effective services, strengthen educational systems, ensure availability of quality raw materials, and sustainably manage medicinal plants. It aims to improve access to AYUSH services, particularly in vulnerable and underserved areas, by upgrading AYUSH hospitals and dispensaries, co-locating AYUSH facilities at primary health centres, and supporting cultivation and conservation of medicinal plants.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "ayush institutions",
+    "farmers",
+    "medicinal plant growers",
+    "ayush practitioners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide cost-effective AYUSH services with universal access through upgrading AYUSH hospitals and dispensaries",
+    "Strengthen institutional capacity at the state level through upgrading AYUSH educational institutions",
+    "Ensure availability of quality raw materials for AYUSH systems by supporting cultivation and conservation of medicinal plants",
+    "Promote sustainable management of medicinal plants resources",
+    "Support setting up of up to 50-bedded integrated AYUSH hospitals",
+    "Co-locate AYUSH facilities at Primary Health Centres (PHCs), Community Health Centres (CHCs), and District Hospitals (DHs)",
+    "Support AYUSH wellness centres including yoga and naturopathy centres",
+    "Develop and promote AYUSH education and research"
+  ],
+  "eligibility": "State Governments and Union Territories are eligible to avail financial assistance under the National Ayush Mission. The scheme supports AYUSH institutions, farmers engaged in medicinal plant cultivation, and organizations involved in the conservation and sustainable management of medicinal plants. Eligibility is based on state-specific project proposals submitted through State Annual Action Plans (SAAPs) approved by the Ministry of Ayush.",
+  "benefits": "Financial assistance for upgrading AYUSH hospitals and dispensaries, setting up integrated AYUSH hospitals, co-locating AYUSH facilities at PHCs/CHCs/DHs, establishing AYUSH wellness centres, supporting cultivation and conservation of medicinal plants, strengthening AYUSH educational institutions, and promoting AYUSH research and development. Non-financial benefits include technical guidance, quality standards for AYUSH drugs, and support for insurance coverage of AYUSH treatments through benchmark rates.",
+  "financial_support": "The National Ayush Mission provides grant-in-aid to State Governments and Union Territories based on approved State Annual Action Plans (SAAPs). Funding covers infrastructure development, procurement of equipment, supply of medicines, human resource engagement, and program management. The financial support is released in installments subject to utilization certificates and progress reports. The scheme operates as a centrally sponsored scheme with cost-sharing between the Centre and States (typically 60:40 for most states and 90:10 for Northeastern and Himalayan states).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Governments/UTs prepare State Annual Action Plans (SAAPs) based on local needs and scheme guidelines. 2. SAAPs are submitted to the Ministry of Ayush for appraisal and approval. 3. Upon approval, funds are released in installments to the State Nodal Agency. 4. States implement projects through designated implementing agencies. 5. Progress is monitored through quarterly reports, utilization certificates, and field visits. 6. Subsequent releases are contingent on satisfactory utilization of previous installments.",
+  "application_portal_url": "",
+  "required_documents": [
+    "State Annual Action Plan (SAAP)",
+    "Utilization Certificates (UCs)",
+    "Progress Reports (Physical and Financial)",
+    "Audit Reports",
+    "Details of land availability and ownership",
+    "Architectural and structural plans for infrastructure projects",
+    "List of equipment and medicines to be procured",
+    "Human resource deployment plan"
+  ],
+  "deadlines": "Annual cycle — SAAPs are typically submitted before the start of each financial year for approval.",
+  "implementing_agency": "Ministry of Ayush, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is contingent on submission of utilization certificates and progress reports",
+    "Cost-sharing ratio varies: 60:40 (Centre:State) for most states, 90:10 for Northeastern and Himalayan states",
+    "Projects must align with scheme guidelines and national AYUSH priorities",
+    "Land for infrastructure must be free from encumbrances and available for government use"
+  ],
+  "source_cited_notes": [
+    "https://ayush.gov.in",
+    "https://ayush.gov.in/",
+    "https://ayush.gov.in/index.html"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:14:00.401855+00:00"
+}

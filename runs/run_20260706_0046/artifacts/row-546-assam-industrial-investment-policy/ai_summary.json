@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-546",
+  "scheme_name": "Assam Industrial & Investment Policy",
+  "scheme_url": "https://industrycommerce.assam.gov.in",
+  "ministry_or_category": "State Level (Assam)",
+  "overview": "The Assam Industrial & Investment Policy is a state-level initiative aimed at promoting industrial growth, attracting investment, and fostering entrepreneurship across Assam. It provides a comprehensive framework for incentives, infrastructure development, and ease of doing business to support MSMEs, startups, and large industries. The policy emphasizes sector-specific thrust areas, skill development, and sustainable industrialization to boost the state's economic competitiveness.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "large industries",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Assam only",
+  "objectives": [
+    "Promote industrial development and attract domestic and foreign investment",
+    "Generate employment opportunities through promotion of MSMEs and large-scale industries",
+    "Develop infrastructure and logistics support for industrial clusters",
+    "Encourage innovation, technology adoption, and skill development",
+    "Ensure sustainable and eco-friendly industrial growth",
+    "Simplify regulatory procedures and improve ease of doing business",
+    "Support sector-specific growth in areas like food processing, textiles, bamboo, and tourism"
+  ],
+  "eligibility": "Eligibility varies based on the type of enterprise and sector. Generally, MSMEs, startups, and industrial units registered in Assam under the relevant acts (such as MSMED Act, Companies Act, etc.) are eligible. Specific incentives may have additional criteria related to investment threshold, employment generation, location (e.g., backward districts), and sectoral focus.",
+  "benefits": "Benefits include capital investment subsidies, interest subsidies on term loans, power tariff concessions, stamp duty and registration fee exemptions, employment generation incentives, quality certification reimbursement, patent registration support, and assistance for technology upgradation. Special packages are available for thrust sectors and units located in notified backward areas.",
+  "financial_support": "Financial support is provided through various subsidies and incentives such as capital investment subsidy (up to a certain percentage of fixed asset investment), interest subsidy on loans for plant and machinery, and reimbursement of expenses for quality certifications and patents. The exact quantum and mechanism depend on the enterprise category, location, and sector, with higher benefits for units in backward districts and thrust sectors.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant incentive or scheme under the Assam Industrial & Investment Policy based on enterprise type and sector.\n2. Ensure compliance with eligibility criteria including registration, investment, and location requirements.\n3. Prepare the required documents such as project report, registration certificates, financial statements, and proof of investment.\n4. Submit the application to the Directorate of Industries and Commerce, Assam or through the designated online portal.\n5. Application is processed by the implementing agency.\n6. Upon verification and approval, incentives are disbursed as per the policy provisions.",
+  "application_portal_url": "https://industrycommerce.assam.gov.in",
+  "required_documents": [
+    "Project report",
+    "Certificate of incorporation/registration",
+    "Memorandum and Articles of Association / Partnership deed",
+    "Proof of land ownership or lease agreement",
+    "Bank appraisal note or loan sanction letter",
+    "Financial statements and income tax returns",
+    "Details of plant and machinery investment",
+    "Employment generation details",
+    "Quality certification documents (if applicable)",
+    "Patent registration details (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to budget availability and policy validity.",
+  "implementing_agency": "Directorate of Industries and Commerce, Government of Assam",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are subject to availability of funds and approval of the competent authority",
+    "Units must remain in commercial production for a minimum period to retain benefits",
+    "Misrepresentation of facts may lead to rejection of application and recovery of benefits",
+    "Certain incentives may have sunset clauses or be revised based on policy updates"
+  ],
+  "source_cited_notes": [
+    "https://industrycommerce.assam.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:22:30.730333+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-97",
+  "scheme_name": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)",
+  "scheme_url": "https://jansuraksha.gov.in",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY) is a government-backed life insurance scheme offering a renewable one-year cover for death due to any reason. It is administered through LIC and other life insurance companies in partnership with participating banks and post offices. The scheme provides a life cover of Rs. 2 lakh on the death of the insured member, with an annual premium of Rs. 436/- deducted via auto-debit from the account holder's bank or post office account.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "individuals",
+    "bank account holders",
+    "post office account holders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide life insurance cover for death due to any reason",
+    "Offer renewable one-year coverage extendable year to year",
+    "Enable enrollment through participating banks and post offices via auto-debit",
+    "Ensure financial security to families in case of untimely death of the earning member",
+    "Promote financial inclusion by linking insurance with bank/post office accounts",
+    "Provide affordable life insurance at a low premium of Rs. 436/- per annum",
+    "Administer the scheme through LIC and other insurance companies with bank/post office as master policy holders",
+    "Allow re-enrollment after exit, subject to conditions"
+  ],
+  "eligibility": "Individual bank/post office account holders of participating banks/post office aged between 18 years (completed) and 50 years (age nearer birthday) who give their consent to join/enable auto-debit are eligible. Aadhaar is the primary KYC for the bank/post office account. In case of multiple accounts, enrollment is allowed through one account only.",
+  "benefits": "Life insurance cover of Rs. 2 lakh payable on the death of the member due to any cause. The scheme also allows re-enrollment after exit, and the premium paid is eligible for tax benefits under Section 80C of the Income Tax Act (as per general provisions, though not explicitly stated in evidence). The commission paid to Business Correspondents/agents for new enrollments may be passed on as a benefit to the subscriber in case of voluntary electronic enrollment.",
+  "financial_support": "The scheme provides a fixed life insurance benefit of Rs. 2 lakh upon death of the insured. The annual premium is Rs. 436/- per member, collected via auto-debit from the bank/post office account. The premium is apportioned as: Rs. 395/- to the insurance company, Rs. 30/- as commission to Business Correspondents/agents (for new enrollments only), and Rs. 11/- as administrative expenses to the participating bank/post office. For delayed enrollment, pro-rata premiums apply: Rs. 342/- (Q2), Rs. 228/- (Q3), Rs. 114/- (Q4).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure you have an active bank or post office account with a participating institution. 2. Link your Aadhaar to the account as KYC. 3. Visit your bank/post office branch or use their digital platform to obtain the PMJJBY enrollment form. 4. Fill the enrollment form with personal details and consent for auto-debit. 5. Submit the form and authorize auto-debit of the annual premium (Rs. 436/-) from your account. 6. The premium will be deducted in one instalment via auto-debit. 7. Upon successful deduction, you will receive an acknowledgement slip-cum-certificate of insurance. 8. Renewal is required annually by 31st May via auto-debit for continued coverage.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Aadhaar card",
+    "Bank/post office passbook or statement",
+    "Duly filled PMJJBY enrollment form",
+    "Auto-debit authorization form",
+    "Consent cum declaration form"
+  ],
+  "deadlines": "Enrollment / auto-debit authorization must be submitted by 31st May each year for coverage from 1st June to 31st May. Delayed enrollment is possible with pro-rata premium payment, after which cover starts from the date of auto-debit.",
+  "implementing_agency": "Department of Financial Services, Ministry of Finance, Government of India",
+  "contact_details": "Email: usins2-dfs@nic.in | Helpline: 1800-180-1111 (toll-free numbers vary by state; refer to STATEWISETOLLFREE.pdf for state-wise toll-free numbers)",
+  "caveats": [
+    "Coverage is restricted to one bank/post office account per individual, even if multiple accounts are held",
+    "No claim is admissible for death (other than accident) occurring within the first 30 days from enrollment (lien period)",
+    "Coverage terminates upon attaining age 55 years (age nearer birthday), renewal not possible beyond age 50 for new entry",
+    "Coverage ceases if bank/post office account is closed or has insufficient balance to maintain the policy",
+    "Duplicate coverage across multiple accounts results in benefit capped at Rs. 2 lakh, with excess premium liable to forfeiture",
+    "Reinstatement after lapse requires payment of appropriate premium and is treated as fresh enrollment with 30-day lien period applicable"
+  ],
+  "source_cited_notes": [
+    "https://jansuraksha.gov.in/Files/PMJJBY/ENGLISH/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Hindi/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Marathi/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Tamil/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Telugu/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Kannada/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Malayalam/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Gujarati/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Odia/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/Bengali/Rules.pdf",
+    "https://jansuraksha.gov.in/files/STATEWISETOLLFREE.pdf",
+    "https://jansuraksha.gov.in/Files/PMJJBY/English/Amendment of rules PMJJBY.pdf"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:14:11.417479+00:00"
+}

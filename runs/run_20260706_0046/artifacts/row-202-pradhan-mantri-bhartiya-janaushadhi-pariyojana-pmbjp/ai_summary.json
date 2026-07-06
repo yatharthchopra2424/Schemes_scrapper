@@ -1,0 +1,69 @@
+{
+  "scheme_id": "row-202",
+  "scheme_name": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)",
+  "scheme_url": "https://janaushadhi.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP) is a campaign launched by the Department of Pharmaceuticals in association with Central Pharma Public Sector Undertakings to provide quality generic medicines at affordable prices through dedicated outlets called Pradhan Mantri Bhartiya Janaushadhi Kendras. The scheme aims to reduce healthcare expenditure, popularize generic medicines, ensure menstrual health accessibility, and generate self-employment opportunities. As of March 2026, more than 19,000 Kendras are functional across India, offering a product basket of 2100 drugs and 300 surgical items.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "individual entrepreneurs",
+    "proprietors",
+    "partnerships",
+    "charitable institutes/hospitals",
+    "NGOs/trusts/societies",
+    "government/nominated agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To make available quality medicines, consumables, and surgical items at affordable prices for all and reduce out-of-pocket expenditure of consumers/patients",
+    "To popularize generic medicines among the masses and dispel the notion that low-priced generic medicines are inferior or less effective",
+    "To ensure easy availability of menstrual health services to all women across India",
+    "To generate employment by engaging individual entrepreneurs in opening Jan Aushadhi Kendras"
+  ],
+  "eligibility": "Individual applicants must hold a D. Pharma / B. Pharma degree or employ degree holders and provide proof at application or final approval. Entrepreneurs, pharmacists, trusts, societies, and charitable organizations must employ B.Pharma/D.Pharma degree holders and provide proof. In government hospital premises, reputed NGOs/charitable organizations are preferred, though individuals are also eligible. Applicants must own or hire space (minimum 120 sq. ft.) with proper lease agreement, secure a registered pharmacist, submit financial capacity documents (ITR, bank statements, PAN/Aadhar), obtain a drug license in the Kendra's name, and adhere to distance policy (minimum 1 km between Kendras, no restriction within 500m of hospitals with 100+ beds or medical college-associated hospitals).",
+  "benefits": "Operating margin of 20% on MRP (excluding taxes) of each drug; normal incentive of 20% of monthly purchases from PMBI, capped at Rs. 20,000 per month (disbursed 50:50 based on purchase and stocking mandate); special one-time incentive of Rs. 2.00 lakhs (Rs. 1.50 lakh for furniture/fixtures, Rs. 0.50 lakh for computer/internet/printer/scanner) for women entrepreneurs, Divyang, SC/ST, ex-servicemen, and those in aspirational districts (NITI Aayog-notified), Himalayan, Island, or North-Eastern territories; exemption from Rs. 5,000 application fee for eligible categories; access to PMBI's supply chain for WHO-GMP certified, NABL-tested generic medicines; authorization to sell allied medical products not supplied by PMBI; use of PMBI's software for billing and inventory; training and support via POS system and helpline.",
+  "financial_support": "Financial support includes a 20% operating margin on MRP (excluding taxes) of each drug sold. Normal incentive is 20% of monthly purchases from PMBI, subject to a monthly ceiling of Rs. 20,000, disbursed on a 50:50 basis: 50% based on actual purchase (up to Rs. 10,000) and 50% based on stocking mandate (maintaining 180-200 medicines for full payment). Special one-time incentive of Rs. 2.00 lakhs is provided for eligible categories (women entrepreneurs, Divyang, SC/ST, ex-servicemen, aspirational districts, Himalayan, Island, North-Eastern states), comprising Rs. 1.50 lakh for furniture/fixtures and Rs. 0.50 lakh for computer/internet/printer/scanner, reimbursed against original bills within 90 days of opening, restricted to actual expenditure. A non-refundable application fee of Rs. 5,000 is required, except for exempted categories upon proof of eligibility.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs. 2.00 lakhs (one-time special incentive for eligible categories)",
+  "application_process": "1. Visit https://janaushadhi.gov.in and click on 'APPLY FOR KENDRA' tab. 2. Click 'REGISTER NOW' and fill applicant details including mobile number and email ID. 3. Upon successful registration, receive email with unique USER ID and PASSWORD for portal login. 4. Login using USER ID/PASSWORD or via registered mobile/email using 'Get OTP' option. 5. Fill application form: enter basic and proposed Kendra details, adhere to distance policy, upload required documents in PDF (each <5 MB). 6. For location tagging, drag and drop location icon within blue circle to exact address/shop/building. 7. Pay application fee of Rs. 5,000/- via online payment gateway (exempt for eligible categories with category proof). 8. After submission, confirmation sent to registered email; check status online via portal or call helpline 18001808080.",
+  "application_portal_url": "https://janaushadhi.gov.in",
+  "required_documents": [
+    "Aadhaar Card",
+    "PAN Card",
+    "Certificate of SC/ST or Divyang (PWD) or General category Registration certificate",
+    "Pharmacist Registration Certification",
+    "ITR for last two years",
+    "Bank statement for last 6 months",
+    "Declaration for GST registration once threshold limit is achieved",
+    "Undertaking of distance policy as per guideline",
+    "Self-Undertaking of PMBJP Kendra for availing one-time special incentive (if applicable under woman entrepreneur/divyaang/SC/ST/ex-serviceman/aspirational district/Himalayan/Island Territories/North-Eastern States)",
+    "Three cheques from Indian Nationalized Banks in favor of PMBI",
+    "One cancelled cheque from Indian Nationalized Banks to PMBI",
+    "Proof of space ownership or lease agreement (minimum 120 sq. ft.)",
+    "Proof of securing a pharmacist (name, State Council registration)",
+    "Drug License in the name of 'Pradhan Mantri Janaushadhi Kendra'"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Pharmaceuticals & Medical Devices Bureau of India (PMBI)",
+  "contact_details": "Tollfree: 1800-180-8080 | Email: complaints[at]janaushadhi[dot]gov[dot]in | Phone: 011-49431800 | Email for technical queries: it[at]janaushadhi[dot]gov[dot]in",
+  "caveats": [
+    "Special incentive is granted only once per eligible owner under 'One Family – One Grant' formula; no other family member/relative can claim it thereafter",
+    "Application fee of Rs. 5,000 is non-refundable and not exempted unless proof of eligible category (women entrepreneur, Divyang, SC/ST, ex-serviceman, aspirational district, Himalayan, Island, North-Eastern state) is submitted",
+    "Incentive disbursement is subject to stocking mandate: 100% payment for 180-200 medicines, 80% for 150-179, 50% for 100-149, no payment for <100 medicines",
+    "Distance policy requires minimum 1 km between Kendras; no restriction within 500m of district/government hospitals with 100+ beds or medical college-associated hospitals",
+    "Applicant must not transfer or sublet premises; must use PMBI's software for all billings; must obtain drug license in Kendra's name",
+    "Special incentive reimbursement requires submission of original bills, bank details, Form GFR 19A, undertakings, and documents within 90 days of Kendra opening; false information leads to rejection, recovery, and legal action"
+  ],
+  "source_cited_notes": [
+    "https://janaushadhi.gov.in/faq",
+    "https://janaushadhi.gov.in/about-pmbjb",
+    "https://janaushadhi.gov.in/pdf/Guidelines_for_PMBJK_Opening.pdf",
+    "https://janaushadhi.gov.in/pdf/Procedure_for_PACS_Application.pdf",
+    "https://janaushadhi.gov.in/pdf/Procedure_for_Reimbursement_of_Special_Incentive.pdf",
+    "https://janaushadhi.gov.in/pdf/Copy_of_Agreement_for_PMBJK_Opening.pdf",
+    "https://janaushadhi.gov.in/pdf/Copy_of_Tripartite_Agreement_for_PMBJK_Opening.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:14:47.548474+00:00"
+}

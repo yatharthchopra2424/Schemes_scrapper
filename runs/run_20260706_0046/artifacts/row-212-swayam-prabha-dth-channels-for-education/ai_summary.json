@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-212",
+  "scheme_name": "SWAYAM PRABHA DTH Channels for Education",
+  "scheme_url": "https://swayamprabha.gov.in",
+  "ministry_or_category": "Education",
+  "overview": "SWAYAM PRABHA is a group of 40 DTH channels devoted to telecasting high-quality educational programmes on a 24x7 basis using the GSAT-15 satellite. It aims to reach the unreached segment of India, particularly in rural, tribal, and remote locations, by providing free educational content from leading institutions like IITs, UGC, CEC, IGNOU, and others. The content is repeated multiple times a day to allow flexible viewing, and the service is available through DD Free Dish and Dish TV.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "learners",
+    "rural populations",
+    "tribal populations",
+    "remote area residents"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To reach the unreached segment of India with quality education",
+    "To provide free 24x7 educational DTH channels",
+    "To telecast high-quality educational programmes using GSAT-15 satellite",
+    "To offer content from IITs, UGC, CEC, IGNOU, and other reputed institutions",
+    "To allow students to choose viewing time as per convenience through repeated content",
+    "To support education in rural, tribal, and remote areas via DTH presence under PM e-Vidya",
+    "To provide curriculum-based content for school education and competitive exams",
+    "To facilitate multi-mode access to digital/online teaching-learning contents"
+  ],
+  "eligibility": "There are no eligibility criteria for viewing SWAYAM PRABHA channels; the service is free and open to all students, learners, and the general public across India.",
+  "benefits": "Free access to 24x7 educational DTH channels with high-quality content from premier institutions; flexible viewing schedule with fresh content repeated 5 times daily; availability on DD Free Dish and Dish TV; accessibility via JIO TV mobile application; no fees for viewing; support for school education, higher education, and competitive exam preparation; content available in Hindi, English, and regional languages.",
+  "financial_support": "The SWAYAM PRABHA scheme does not provide direct financial support to beneficiaries; it is a free educational broadcasting service funded by the Government of India.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "No application is required to access SWAYAM PRABHA channels. Users can view the channels by installing DD Free Dish and configuring the set-top box with the specified parameters, or through the JIO TV application.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Not applicable — service is available continuously on a 24x7 basis.",
+  "implementing_agency": "Ministry of Education, Government of India",
+  "contact_details": "Email: swayamprabha@inflibnet.ac.in | Helpline: +91 79-23268279 (Available Monday to Friday from 10:00 AM to 05:30 PM)",
+  "caveats": [
+    "MPEG2 set-top boxes must be replaced with MPEG4-compatible boxes to receive channels after June 7, 2023",
+    "Separate STB (Set-Top-Box) is required for each TV set to receive DD Free Dish",
+    "Service is available only via DD Free Dish and Dish TV; not available on TataSky, Airtel, or Videocon",
+    "No certification or credit transfer is provided for viewing the channels"
+  ],
+  "source_cited_notes": [
+    "https://swayamprabha.gov.in/",
+    "https://swayamprabha.gov.in/about",
+    "https://swayamprabha.gov.in/faq",
+    "https://swayamprabha.gov.in/contact_us",
+    "https://swayamprabha.gov.in/asset/downloads/swayamprabha_brochure.pdf",
+    "https://swayamprabha.gov.in/asset/downloads/SP_HELP_MANUAL.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:18:14.136501+00:00"
+}

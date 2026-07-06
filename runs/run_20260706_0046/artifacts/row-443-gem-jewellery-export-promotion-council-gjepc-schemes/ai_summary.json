@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-443",
+  "scheme_name": "Gem & Jewellery Export Promotion Council (GJEPC) Schemes",
+  "scheme_url": "https://www.gjepc.org",
+  "ministry_or_category": "Gems & Jewellery",
+  "overview": "The Gem & Jewellery Export Promotion Council (GJEPC) is the apex body driving India's export-led growth in the gem and jewellery sector since 1966. It promotes Brand India, organizes major trade shows, facilitates government interaction, and supports MSMEs through various initiatives including Common Facility Centres and Jewellery Parks. GJEPC also runs CSR programs like Jewellers for Hope and health schemes such as Swasthya Ratna and Swasthya Kosh for industry workers.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "artisans",
+    "exporters",
+    "manufacturers",
+    "traders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote Brand India through international advertisements and publications",
+    "Organize India's biggest trade shows: IIJS Premiere and IIJS Signature",
+    "Facilitate better interaction between industry and Government of India on trade-related issues",
+    "Undertake image-building exercises through international advertisements and audio-visuals",
+    "Represent trade-friendly policies for inclusion in the EXIM Policy",
+    "Uphold Diamond Integrity by executing the Kimberly Process Certification Scheme as the Nodal Agency",
+    "Spread Education by running training institutes in six cities",
+    "Provide MSMEs with affordable modern machines and tools at Common Facility Centres",
+    "Provide health insurance for employees of member companies through Swasthya Ratna",
+    "Pay back to society through Jewellers for Hope and Gem & Jewellery National Relief Foundation"
+  ],
+  "eligibility": "Any individual, partnership, company, trust, society, or HUF engaged in the gems and jewellery sector can apply for membership. Eligibility is based on declaring turnover of products (diamonds, gold jewellery, etc.) and having a valid Import Export Code (IEC). For Associate Micro Membership, domestic turnover must be up to Rs. 40 lakhs. For other categories, eligibility is based on export performance during the preceding financial year.",
+  "benefits": "Membership provides access to exhibitions and buyer-seller meets, health insurance (Swasthya Ratna), mediclaim scheme (Swasthya Kosh), social security identity (Parichay Card), certification services (Kimberly Process, RCMC), market intelligence (Solitaire International, IIJS Newsletter), training services (IIGJ, IDI, GTL), government liaison, and dedicated MSME zones at trade shows at concessional rates. Members also receive MDA/MAI assistance for international exhibitions, free access to business insights, and support for export documentation and compliance.",
+  "financial_support": "GJEPC does not provide direct financial support such as grants or loans. Financial benefits are indirect through access to government schemes, market intelligence, and facilitation of export opportunities. The council helps members avail benefits from central and state government MSME schemes via its empanelled consultant ASPIRE, which provides credit facilitation, subsidy identification, and application support.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Login to www.gjepc.org and click on Registration 2. Fill New Registration form and submit 3. Once user registration is completed, user will receive an email with credentials 4. Login to www.gjepc.org 5. Start filling forms starting from Application form for Associate Membership 6. Payment of fees will be initiated through challan form via net banking/Debit card/Credit Card/NEFT 7. Print all forms from - Print Application/Challan form 8. Submit the following documents to Head office or respective regional office: Application form for Associate Membership, Application form for RCMC, challan form duly signed, Signature Slip, Self-attested IEC, Self-attested PAN and Partnership Deed/MoA & AoA, Self-attested MSME(UAN)/SSI/IM if applicable, Self-attested GST certificate (if applicable), Self-attested copy of PAN, Passport and Aadhar",
+  "application_portal_url": "https://www.gjepc.org/registration.php",
+  "required_documents": [
+    "Application form for Associate Membership",
+    "Application form for (RCMC)",
+    "Challan form duly signed by Proprietor/Partner/Director",
+    "Signature Slip (Online form) signed by Proprietor/Partner/Director and attested by banker",
+    "Self-attested copy of Import Export Code (IEC) issued by O/o Director General of Foreign Trade",
+    "Self-attested copy of PAN and Partnership Deed / Memorandum & Articles of Association",
+    "Self-attested copy of MSME(UAN)/SSI/IM, if applied under Manufacturer category",
+    "Self-attested copy of GST certificate (for all states if office/branches situated in different states)",
+    "Self-attested copy of PAN, Passport and Aadhar of Proprietor/Partner/Director"
+  ],
+  "deadlines": "Rolling basis — applications are accepted year-round.",
+  "implementing_agency": "Gem & Jewellery Export Promotion Council (GJEPC), sponsored by Ministry of Commerce & Industry, Government of India",
+  "contact_details": "Email: ed@gjepcindia.com | Helpline: 1800-103-4353 | Phone: +91-22-42263600",
+  "caveats": [
+    "Membership fees vary based on export performance and are subject to GST at 18%",
+    "One time admission fees of Rs. 7500/- plus GST is payable for new membership (not applicable for Associate Micro Membership)",
+    "Associate Micro Membership is only for those with domestic turnover up to Rs. 40 lakhs and does not require GST certificate",
+    "Documents must be self-attested and submitted to Head office or respective regional office",
+    "Payment must be made via challan form through net banking, debit card, credit card, or NEFT"
+  ],
+  "source_cited_notes": [
+    "https://gjepc.org/the-organisation.php",
+    "https://gjepc.org/benefits.php",
+    "https://gjepc.org/process-&-documentation-of-new-membership.php",
+    "https://gjepc.org/registration.php",
+    "https://gjepc.org/process-of-renewal-membership.php"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:31:14.936090+00:00"
+}

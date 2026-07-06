@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-767",
+  "scheme_name": "PMFBY – Crop Insurance for Agri Startups",
+  "scheme_url": "https://pmfby.gov.in",
+  "ministry_or_category": "Insurance",
+  "overview": "Pradhan Mantri Fasal Bima Yojana (PMFBY) is a flagship crop insurance scheme launched by the Government of India in Kharif 2016 to provide affordable and comprehensive crop insurance to farmers against non-preventable natural risks from pre-sowing to post-harvest stage. The scheme aims to stabilize farmers' income, encourage adoption of innovative agricultural practices, ensure credit flow to the agriculture sector, and protect farmers from production risks. It operates on an 'Area Approach' basis and is implemented through a multi-agency framework involving insurance companies, financial institutions, and government agencies under the guidance of the Ministry of Agriculture and Farmers Welfare.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "loanee farmers",
+    "non-loanee farmers",
+    "agri-startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial support to farmers suffering crop loss/damage arising out of unforeseen events",
+    "Stabilize the income of farmers to ensure their continuance in farming",
+    "Encourage farmers to adopt innovative and modern agricultural practices",
+    "Ensure flow of credit to the agriculture sector",
+    "Promote innovation & research of insurance and allied products to offer expanded choice to farmers and State Governments/UT Administrations"
+  ],
+  "eligibility": "All farmers including sharecroppers and tenant farmers growing the notified crops in the notified areas are eligible for coverage. Compulsory coverage applies to loanee farmers (those availing Crop Loan/KCC account for notified crops during the crop season). Voluntary coverage is available for other farmers not covered under compulsory component who have insurable interest in the crop. Farmers must possess insurable interest in the cultivation of the notified crop in the notified area.",
+  "benefits": "Financial support for crop loss due to non-preventable risks (natural fire, lightning, storm, hailstorm, cyclone, typhoon, tempest, hurricane, tornado, flood, inundation, landslide, drought, dry spells, pests/diseases), prevented sowing (up to 25% of sum-insured), post-harvest losses (up to 14 days from harvesting for cut & spread crops), localized calamities (hailstorm, landslide, inundation, farm basis of indemnity levels of 80%, 90%) based on threshold, premium subsidy shared equally by Centre and State, technology-enabled claim settlement via mobile apps, remote sensing, YES-TECH, WINDS, and electronic credit to insured bank account.",
+  "financial_support": "The Actuarial Premium Rate (APR) is charged by the Implementing Agency (IA). The rate of Insurance Charges payable by the farmer is: 2.0% of Sum Insured or Actuarial rate (whichever is less) for Kharif foodgrain and oilseeds crops; 1.5% of Sum Insured or Actuarial rate (whichever is less) for Rabi foodgrain and oilseeds crops; 5% of Sum Insured or Actuarial rate (whichever is less) for Kharif and Rabi annual commercial/horticultural crops. The difference between the actuarial premium rate and the farmer's charge is treated as Normal Premium Subsidy, shared equally by the Centre and State. Premium subsidy is paid by the Government to provide full insured amount to farmers against crop loss on account of natural calamities, with no upper limit on Government subsidy.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PMFBY portal (https://pmfby.gov.in) or use the Farmer App, WhatsApp Chatbot, or Krishi Rakshak Portal & Helpline (KRPH). 2. Select 'Farmer Corner' and click 'Enroll Now' to apply for crop insurance. 3. Choose stakeholder category (farmer) and user category. 4. Provide required details including mobile number for OTP verification. 5. Upload necessary documents (land records, sowing details, etc.). 6. Pay the applicable premium (2% for Kharif, 1.5% for Rabi, 5% for commercial/horticultural). 7. Submit application and receive acknowledgment. 8. Track application status via 'Application Status' tab using policy ID. 9. For grievances or crop loss reporting, contact KRPH Helpline at 14447 or use WhatsApp Chatbot at 7065514447.",
+  "application_portal_url": "https://pmfby.gov.in/selfRegistration",
+  "required_documents": [
+    "Land records",
+    "Sowing details",
+    "Crop details",
+    "Area under cultivation (in hectare)",
+    "Mobile number for OTP verification",
+    "Bank account details for premium payment and claim credit"
+  ],
+  "deadlines": "Cut-off date for receipt of proposals: 31st July for Kharif season, 31st December for Rabi season. Cut-off date for receipt of declarations of loanee farmers: within 15 working days after cut-off date. Cut-off date for receipt of declarations of non-loanee farmers: within seven working days after cut-off date. Cut-off date for receipt of declarations from designated insurance agents: within two working days after receiving declaration/premium.",
+  "implementing_agency": "Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+  "contact_details": "Email: muktanand[dot]ias08[at]nic[dot]in | Telephone / landline: 23382444 | EPBAX: 4925 | Room No: 227 | WhatsApp ChatBot: 7065514447 | Krishi Rakshak Portal & Helpline (KRPH): 14447",
+  "caveats": [
+    "Compulsory only for loanee farmers availing Crop Loan/KCC account for notified crops",
+    "Sum insured for individual farmer is equal to Scale of Finance per hectare multiplied by area of the notified crop proposed for insurance",
+    "'Area under cultivation' must always be expressed in 'hectare'",
+    "Claims for localized perils (hailstorm, landslide, inundation) and post-harvest losses (cyclone/cyclonic rain, unseasonal rains) are assessed at the individual insured farmer's field level",
+    "Three levels of indemnity (70%, 80%, 90%) available based on crop risk in the area",
+    "Threshold yield is based on moving average of yield of last seven years excluding up to two notified calamity years multiplied by indemnity level",
+    "No protocol to revise or change actual weather data recorded by Reference Weather Station (RWS)",
+    "All claims settled based on actual data recorded by the Reference Weather Station (RWS)",
+    "Premium rates for annual commercial/horticultural crops capped at 5% of sum insured or actuarial rate, whichever is less"
+  ],
+  "source_cited_notes": [
+    "https://pmfby.gov.in/",
+    "https://pmfby.gov.in/selfRegistration",
+    "https://pmfby.gov.in/aboutUs",
+    "https://pmfby.gov.in/webInformationManager",
+    "https://pmfby.gov.in/faq",
+    "https://pmfby.gov.in/pdf/PMFBY_Features.pdf",
+    "https://pmfby.gov.in/pdf/PRESS_Bhima.pdf",
+    "https://pmfby.gov.in/pdf/New Schemes-english_.pdf",
+    "https://pmfby.gov.in/pdf/Revamped Operational Guidelines_17th August 2020.pdf",
+    "https://pmfby.amnex.co.in/pmfby/pdf/operational_guidelines_pmfby.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:44:47.970246+00:00"
+}

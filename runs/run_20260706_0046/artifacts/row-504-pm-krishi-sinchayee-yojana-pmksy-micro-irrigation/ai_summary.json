@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-504",
+  "scheme_name": "PM Krishi Sinchayee Yojana (PMKSY) – Micro Irrigation",
+  "scheme_url": "https://pmksy.gov.in",
+  "ministry_or_category": "Water Technology",
+  "overview": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) – Micro Irrigation is a component of PMKSY focused on enhancing water use efficiency at farm level through micro irrigation technologies like drip and sprinkler systems. It aims to increase the area under micro irrigation, improve crop productivity and farmer income, and promote precision water management. The scheme is implemented by the Department of Agriculture, Cooperation & Farmers Welfare under the Ministry of Agriculture & Farmers Welfare.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "small and marginal farmers",
+    "other farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase the area under micro irrigation technologies to enhance water use efficiency in the country",
+    "Increase productivity of crops and income of farmers through precision water management",
+    "Promote micro irrigation technologies in water intensive/consuming crops like sugarcane, banana, cotton etc and give adequate focus to extend coverage of field crops under micro irrigation technologies",
+    "Make potential use of micro irrigation systems for promoting fertigation",
+    "Promote micro irrigation technologies in water scarce, water stressed and critical ground water blocks/districts",
+    "Link tube-well / river-lift irrigation projects with micro irrigation"
+  ],
+  "eligibility": "Farmers can apply for the scheme either in MIS system (online) or in offline mode. Aadhaar details of the beneficiary are required to access the benefit of the programme. Aadhaar details need to be linked through a web based registration process. The subsidy payable to the beneficiary will be limited to an overall ceiling of 5 hectare per beneficiary. The subsidy payment will be limited to the unit costs specified in the scheme guidelines. 25% higher amounts have been taken into calculation of subsidy for the North Eastern and Himalayan states and 15% higher for states with low penetration of MI namely Bihar, Chhattisgarh, Jharkhand, Odisha, Uttar Pradesh, West Bengal and Union Territories.",
+  "benefits": "The pattern of assistance payable under the micro irrigation scheme will be 55% for small and marginal farmers and 45% for other farmers which will be met by both Central Government and State Government in the ratio of 60:40 for all states except the North Eastern and Himalayan states. In the case of these states, ratio of sharing is 90:10. For the Union Territories, funding pattern is 100% grant by the Central Government. Subsidy is released to the beneficiary electronically through the mechanism of Direct Benefit Transfer (DBT). Micro irrigation techniques not only help in water saving, but also in reducing fertilizer usage, labour expenses, and other inputs and input costs, besides sustaining soil health. Micro-irrigation systems deliver water savings of upto 40 per cent over conventional flood irrigation methods, along with appreciable crop productivity and income enhancement.",
+  "financial_support": "The pattern of assistance payable under the micro irrigation scheme will be 55% for small and marginal farmers and 45% for other farmers which will be met by both Central Government and State Government in the ratio of 60:40 for all states except the North Eastern and Himalayan states. In the case of these states, ratio of sharing is 90:10. For the Union Territories, funding pattern is 100% grant by the Central Government. Subsidy is released to the beneficiary electronically through the mechanism of Direct Benefit Transfer (DBT). The subsidy payable to the beneficiary will be limited to an overall ceiling of 5 hectare per beneficiary. The subsidy payment will be limited to the unit costs specified in the scheme guidelines. 25% higher amounts have been taken into calculation of subsidy for the North Eastern and Himalayan states and 15% higher for states with low penetration of MI namely Bihar, Chhattisgarh, Jharkhand, Odisha, Uttar Pradesh, West Bengal and Union Territories.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Farmers may contact to nearest Office of Agricultural Department or District Agriculture Officer/ District Horticulture Officer for more information and obtaining benefits under PMKSY. Farmers can apply for the scheme either in MIS system (online) or in offline mode. Subsidy is released to the beneficiary electronically through the mechanism of Direct Benefit Transfer (DBT). Aadhaar details of the beneficiary are required to access the benefit of the programme. Aadhaar details need to be linked through a web based registration process.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Aadhaar details"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture & Farmers Welfare",
+  "contact_details": "support.pmksy-dac@gov.in",
+  "caveats": [
+    "The subsidy payable to the beneficiary will be limited to an overall ceiling of 5 hectare per beneficiary",
+    "The subsidy payment will be limited to the unit costs specified in the scheme guidelines",
+    "25% higher amounts have been taken into calculation of subsidy for the North Eastern and Himalayan states and 15% higher for states with low penetration of MI namely Bihar, Chhattisgarh, Jharkhand, Odisha, Uttar Pradesh, West Bengal and Union Territories"
+  ],
+  "source_cited_notes": [
+    "https://pmksy.gov.in/pdfLinks/FAQ.pdf",
+    "https://pmksy.gov.in/pdfLinks/FAQ-Hindi.pdf",
+    "https://pmksy.gov.in/pdflinks/Guidelines_English.pdf",
+    "https://pmksy.gov.in/pdflinks/Guidelines_Hindi.pdf",
+    "https://pmksy.gov.in/pdfLinks/PMKSY_UserManual.pdf",
+    "https://pmksy.gov.in/pdfLinks/PMKSYMI_UserManual.pdf"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:02:46.780847+00:00"
+}

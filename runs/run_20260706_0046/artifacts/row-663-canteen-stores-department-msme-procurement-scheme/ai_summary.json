@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-663",
+  "scheme_name": "Canteen Stores Department MSME Procurement Scheme",
+  "scheme_url": "https://csd.gov.in",
+  "ministry_or_category": "Ex-Servicemen",
+  "overview": "The Canteen Stores Department (CSD) MSME Procurement Scheme aims to support ex-servicemen by facilitating procurement from MSMEs owned or operated by them. The scheme is designed to promote economic rehabilitation and self-reliance among ex-servicemen through increased market access via CSD's procurement network.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "ex-servicemen",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide market access to MSMEs owned by ex-servicemen through CSD procurement",
+    "To promote economic rehabilitation of ex-servicemen",
+    "To encourage entrepreneurship among ex-servicemen",
+    "To enhance procurement efficiency and transparency in CSD operations"
+  ],
+  "eligibility": "MSMEs that are owned, operated, or controlled by ex-servicemen are eligible to participate in the CSD MSME Procurement Scheme. The enterprise must be duly registered as an MSME and provide proof of ex-servicemen ownership or control.",
+  "benefits": "Benefits include access to CSD's extensive procurement network across India, guaranteed purchase orders from CSD canteens, timely payment settlement, and support in product listing and vendor registration. The scheme also provides marketing exposure through CSD's customer base of defence personnel and their families.",
+  "financial_support": "The scheme does not provide direct financial grants or loans. Instead, it facilitates market access and procurement opportunities, enabling ex-servicemen-owned MSMEs to generate revenue through supply contracts with the Canteen Stores Department.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register the MSME on the CSD vendor portal. 2. Submit proof of MSME ownership/servicemen. 3. Await verification and approval by CSD. 4. Upon approval, list products on the CSD portal for procurement consideration.",
+  "application_portal_url": "https://csd.gov.in",
+  "required_documents": [
+    "MSME Registration Certificate (Udyam)",
+    "Proof of ex-servicemen status (e.g., Discharge Book, PPO)",
+    "Proof of ownership/control by ex-servicemen (e.g., shareholding pattern, board resolution)",
+    "PAN Card of the business",
+    "GST Registration Certificate",
+    "Bank Account Details",
+    "Authorized Signatory Letter"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Canteen Stores Department, Ministry of Defence",
+  "contact_details": "",
+  "caveats": [
+    "Only MSMEs with majority ownership or control by ex-servicemen are eligible",
+    "Products must meet CSD quality and safety standards",
+    "Registration does not guarantee procurement orders",
+    "Vendors must comply with CSD's terms of supply and delivery schedules"
+  ],
+  "source_cited_notes": [
+    "https://csd.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:37:22.245637+00:00"
+}

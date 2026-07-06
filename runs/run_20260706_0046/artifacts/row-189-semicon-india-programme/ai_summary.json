@@ -1,0 +1,68 @@
+{
+  "scheme_id": "row-189",
+  "scheme_name": "Semicon India Programme",
+  "scheme_url": "https://semicon.gov.in",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The Semicon India Programme is a comprehensive initiative launched by the Government of India to develop a sustainable semiconductor and display manufacturing ecosystem in the country. It aims to position India as a global hub for electronics manufacturing and design through financial incentives, infrastructure development, and capacity building across the semiconductor value chain. The programme encompasses multiple schemes including the Scheme for Setting up of Semiconductor Fabs in India, Scheme for Setting up of Display Fabs in India, Scheme for Setting up of Compound Semiconductors/Silicon Photonics/Sensors Fab (including ATMP/OSAT) in India, and the Design Linked Incentive (DLI) Scheme.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "semiconductor manufacturers",
+    "display manufacturers",
+    "compound semiconductor/silicon photonics/sensors manufacturers",
+    "ATMP/OSAT units",
+    "design companies",
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial support to companies investing in semiconductor, display and design ecosystem",
+    "To reduce reliance on imports and enhance domestic value addition in electronics manufacturing",
+    "To create employment opportunities and develop skilled manpower in advanced technology sectors",
+    "To encourage innovation and R&D in semiconductor technologies and applications",
+    "To attract significant investments in semiconductor manufacturing and related facilities",
+    "To strengthen India's position in the global semiconductor supply chain",
+    "To develop a complete ecosystem supporting semiconductor manufacturing from design to fabrication and testing"
+  ],
+  "eligibility": "Eligibility varies by specific scheme under Semicon India Programme. For semiconductor fabs: companies must propose to set up semiconductor wafer fabrication facilities in India. For display fabs: companies must propose to set up display panel fabrication facilities. For compound semiconductors/silicon photonics/sensors/ATMP/OSAT: entities must propose to set up respective facilities. For Design Linked Incentive (DLI) Scheme: domestic companies, startups and MSMEs engaged in semiconductor design (including ICs, chipsets, SoCs, systems & IP cores) and semiconductor design linked deployment (including semiconductor design for use in IoT devices, automotive, aerospace, defense, communication, industrial automation, medical devices, etc.) are eligible. Applicants must be registered under Companies Act 2013 or earlier, or as a partnership firm or LLP, and must have necessary technical and financial capability to implement the project.",
+  "benefits": "Financial incentives include fiscal support of up to 50% of project cost for setting up semiconductor and display fabs, and up to 30% of capital expenditure for compound semiconductors/silicon photonics/sensors and ATMP/OSAT facilities. Under the Design Linked Incentive (DLI) Scheme, incentives include: Product Design Linked Incentive (up to 50% of eligible expenditure, capped at ₹15 Crore per application), Deployment Linked Incentive (up to 6% of net sales turnover over 5 years), and Facility Linked Incentive (up to 30% of capital expenditure for design infrastructure). Additional benefits include infrastructure support, technology collaboration opportunities, access to semiconductor fab facilities for prototyping, and facilitation of partnerships with global semiconductor companies.",
+  "financial_support": "Financial support is provided as fiscal incentives in the form of capital expenditure support. For semiconductor fabs and display fabs: up to 50% of the project cost. For compound semiconductors, silicon photonics, sensors, and ATMP/OSAT facilities: up to 30% of capital expenditure. Under the Design Linked Incentive (DLI) Scheme: Product Design Linked Incentive provides up to 50% of eligible expenditure (capped at ₹15 Crore per application), Deployment Linked Incentive provides up to 6% of net sales turnover over 5 years, and Facility Linked Incentive provides up to 30% of capital expenditure for setting up design infrastructure. The incentives are disbursed as reimbursement against verified expenditure or as periodic payouts based on achievement of milestones.",
+  "fund_size_crores": "76000",
+  "grant_amount_per_entity": "Up to 50% of project cost for semiconductor/display fabs (capped based on approval); up to ₹15 Crore per application under Product Design Linked Incentive (DLI Scheme)",
+  "application_process": "1. Identify the relevant scheme under Semicon India Programme based on the proposed activity (semiconductor fab, display fab, compound semiconductor/silicon photonics/sensor/ATMP/OSAT facility, or semiconductor design). 2. Prepare detailed project report including technical feasibility, financial viability, land acquisition plan, water and power requirements, environmental clearance status, and employment generation details. 3. Submit application online through the designated portal of the India Semiconductor Mission (ISM). 4. Application undergoes preliminary scrutiny for completeness and eligibility. 5. Technical evaluation by expert committee constituted by ISM. 6. Financial appraisal and due diligence. 7. Recommendation for approval by Inter-Ministerial Committee. 8. Final approval by the Union Cabinet or designated authority. 9. Signing of Memorandum of Understanding (MoU) or agreement with India Semiconductor Mission. 10. Disbursement of incentives in tranches based on achievement of project milestones and verification of expenditure.",
+  "application_portal_url": "https://semicon.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association/Partnership Deed/LLP Agreement",
+    "Board Resolution authorizing the application",
+    "Detailed Project Report (DPR)",
+    "Land documents (title deed, lease agreement, or allotment letter)",
+    "Projected financial statements for 5-10 years",
+    "Details of promoters and directors/partners",
+    "Technical details of proposed technology/process",
+    "Environmental clearance documents (if applicable)",
+    "Clearances from relevant authorities (pollution control, fire safety, etc.)",
+    "Bank appraisal report or letter of sanction for debt portion",
+    "Undertaking regarding compliance with scheme guidelines",
+    "For DLI Scheme: details of semiconductor design IP, proposed products, and deployment plans"
+  ],
+  "deadlines": "Applications are accepted periodically as per notification windows announced by India Semiconductor Mission; specific opening and closing dates are notified for each scheme under Semicon India Programme",
+  "implementing_agency": "India Semiconductor Mission (ISM) under the Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: info@indiasemicondmission.in | Phone: +91-11-24301386",
+  "caveats": [
+    "Incentives are subject to approval based on technical and financial evaluation",
+    "Projects must achieve committed milestones for continued disbursement of incentives",
+    "Land for the project must be acquired or possessed within specified timelines",
+    "Environmental and other statutory clearances must be obtained as per regulations",
+    "Incentives may be clawed back if project is not implemented as per approved plan",
+    "Foreign investment proposals are subject to extant FDI policy and security clearance",
+    "Benefits under Design Linked Incentive Scheme are capped at ₹15 Crore per application for Product Design Linked Incentive",
+    "Deployment Linked Incentive under DLI Scheme is limited to 5 years from approval date"
+  ],
+  "source_cited_notes": [
+    "https://semicon.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:02:24.574428+00:00"
+}

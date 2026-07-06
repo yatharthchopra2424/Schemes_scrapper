@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-877",
+  "scheme_name": "Grievance Against Payment Delay (MSME SAMADHAAN Plus)",
+  "scheme_url": "https://samadhaan.msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "MSME SAMADHAAN Plus is a grievance redressal mechanism designed to address delayed payments to Micro, Small, and Medium Enterprises (MSMEs). It enables MSMEs to file complaints against buyers who fail to make payments within the stipulated time as per the MSMED Act, 2006. The system facilitates monitoring, reconciliation, and resolution of payment disputes through an online portal. It aims to ensure timely realization of dues for MSMEs and strengthen their financial sustainability.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide a platform for MSMEs to file grievances regarding delayed payments",
+    "Ensure timely settlement of dues as per the MSMED Act, 2006",
+    "Monitor and track pending payment cases across India",
+    "Facilitate reconciliation between MSMEs and their buyers",
+    "Reduce financial stress on MSMEs due to payment delays",
+    "Promote compliance with payment timelines by central and state government departments, CPSEs, and private buyers"
+  ],
+  "eligibility": "Any Micro, Small, or Medium Enterprise registered under the MSMED Act, 2006, having a valid Udyam Registration Number, can file a grievance against any buyer (including government departments, CPSEs, or private entities) for delayed payment of goods or services supplied, where the payment is due beyond 45 days from the date of acceptance or deemed acceptance of goods/services.",
+  "benefits": "Online filing and tracking of payment delay grievances; automatic generation of acknowledgment and case ID; facilitation of conciliation through the Micro and Small Enterprises Facilitation Council (MSEFC); legal backing under Section 18 of the MSMED Act, 2006; potential recovery of compound interest at three times the bank rate on delayed amounts; access to status updates and reports on pending cases; multilingual support for wider accessibility.",
+  "financial_support": "The scheme does not provide direct financial assistance or grants. However, it enables MSMEs to claim the delayed payment amount along with compound interest (at three times the bank rate notified by the Reserve Bank of India) as per Section 15 of the MSMED Act, 2006, upon successful resolution of the grievance through the facilitation council.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official MSME SAMADHAAN portal at https://samadhaan.msme.gov.in. 2. Click on 'File Grievance' or 'Register Complaint' option. 3. Enter Udyam Registration Number and validate the enterprise details. 4. Fill in the grievance form with details of the buyer, invoice particulars, amount due, and date of supply. 5. Upload supporting documents such as invoices, delivery challans, and communication records. 6. Submit the grievance and note the generated Case ID for future reference. 7. Track the status of the complaint through the portal using the Case ID. 8. Await action by the concerned Micro and Small Enterprises Facilitation Council (MSEFC) for conciliation and resolution.",
+  "application_portal_url": "https://samadhaan.msme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Copy of invoice(s) or bill(s) raised",
+    "Delivery challan or proof of receipt of goods/services by buyer",
+    "Communication records (emails, letters) regarding payment follow-up",
+    "Any contract or agreement with the buyer",
+    "Bank details of the MSME for potential settlement"
+  ],
+  "deadlines": "Rolling basis — grievances can be filed at any time; there is no fixed deadline for submission.",
+  "implementing_agency": "Office of the Development Commissioner (MSME), Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Grievances can only be filed for payments due beyond 45 days from the date of acceptance or deemed acceptance of goods/services",
+    "The MSME must have a valid Udyam Registration to access the portal",
+    "The scheme does not guarantee recovery; it facilitates conciliation and legal recourse",
+    "Interest claims are subject to verification and order by the MSEFC",
+    "The portal does not handle disputes related to quality, quantity, or contractual terms beyond payment delay"
+  ],
+  "source_cited_notes": [
+    "https://samadhaan.msme.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:41:33.366752+00:00"
+}

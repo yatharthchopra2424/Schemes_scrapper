@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-697",
+  "scheme_name": "TReDS – Trade Receivables Discounting System",
+  "scheme_url": "https://rxil.in",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "TReDS (Trade Receivables Discounting System) is an RBI-regulated digital platform that enables MSMEs to unlock working capital by converting their approved receivables into immediate cash through competitive bidding by financiers. RXIL (Receivables Exchange of India Limited), established in December 2014 as a joint venture of SIDBI and NSE, is India's first TReDS platform. It facilitates invoice discounting without collateral or debt, providing funds within 24 hours of invoice approval, and supports MSME liquidity by bridging the payment gap between buyers and sellers.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate MSMEs to unlock working capital by converting receivables into cash",
+    "Provide capital access to credit-starved small businesses in India",
+    "Enable competitive discount rates through auction mechanism among multiple financiers",
+    "Ensure end-to-end digital, paperless, and transparent processes",
+    "Facilitate seamless data flow between participants and the platform",
+    "Support priority sector lending benefits for funds disbursed through the platform",
+    "Minimize risk of default by anchoring credit calls on buyer repayment ability",
+    "Provide access to quality customers for financiers at minimal cost"
+  ],
+  "eligibility": "MSMEs engaged for at least 1 year since registration can register on TReDS. Eligibility factors include: GST compliance history, business turnover, buyer credit profile, invoice age, payment history, financial stability. A strong buyer profile often improves financing approval chances. MSMEs must be classified as per the Micro, Small, and Medium Enterprises Development Act, 2006 (MSMED Act).",
+  "benefits": "Faster access to working capital (funds within 24 hours), reduced payment delays, lower borrowing costs compared to loans, no added debt on books, competitive bidding in auction models, seamless digital experience, ERP integration, enhanced procurement terms, strengthened supplier relationships, quicker payments, access to multiple financiers, without recourse borrowing, lower cost of funds, priority sector lending benefits, low risk of default, access to quality customers, automated reconciliation.",
+  "financial_support": "Funds are disbursed through competitive bidding by multiple authorised banks and NBFCs on approved invoices. MSMEs receive early payment based on the best bid, often within 24 hours, while repayment responsibility rests with the corporate buyer on the invoice due date. The mechanism allows MSMEs to convert receivables into working capital without taking on traditional short-term debt or providing collateral. RXIL has facilitated invoice financing exceeding ₹2 lakh crore, with over 51,500 MSMEs registered across 1,160+ cities and participation from 70+ banks and NBFCs.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "01 Registration: 01 Online registration 02 Letter of Authorisation/Board Resolution/Declaration 03 Master agreement and general terms and conditions 02 Entity KYC: 01 PAN card 02 Address proof 03 CoI, CA, MSME Certificate 04 MOA and AoA 03 KYC Individuals: 01 Identity proof, Signature verification from banker 02 Address proof 04 Statutory and Financials: 01 Annual report (2 years), ITR, Account statement 02 Shareholding pattern 03 GST registration number, Udyog Aadhaar, NoA 05 Bank Details: 01 Bank mandate 02 Cancelled cheque leaf",
+  "application_portal_url": "https://rxil.in/treds/",
+  "required_documents": [
+    "PAN card",
+    "Address proof",
+    "CoI, CA, MSME Certificate",
+    "MOA and AoA",
+    "Identity proof",
+    "Signature verification from banker",
+    "Annual report (2 years)",
+    "ITR",
+    "Account statement",
+    "Shareholding pattern",
+    "GST registration number",
+    "Udyog Aadhaar",
+    "NoA",
+    "Bank mandate",
+    "Cancelled cheque leaf",
+    "Letter of Authorisation/Board Resolution/Declaration",
+    "Master agreement and general terms and conditions"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Reserve Bank of India (RBI)",
+  "contact_details": "Email: support@rxil.in | Phone: 022 6903 3000 | Nodal Officer, Receivables Exchange of India Limited, 701-702,7th Floor, Supremus, E Wing, I-Think Techno Campus, Kanjurmarg East, Mumbai 400042",
+  "caveats": [
+    "MSMEs must be engaged in business for at least 1 year since registration",
+    "Only tax invoices are accepted as valid instruments for financing",
+    "The counterparty (buyer/seller) must provide acceptance of the invoice on the TReDS platform",
+    "Financing of factoring units is not guaranteed and depends on financier bids and cost bearer acceptance",
+    "If no bids are received from financiers, the invoice is settled outside the TReDS platform",
+    "A Factoring Unit may be withdrawn from the TReDS portal only if the bid is not accepted by the cost bearer",
+    "Transaction charges (incl. applicable service tax) are to be paid by the charge bearer to RXIL for factoring"
+  ],
+  "source_cited_notes": [
+    "https://rxil.in/",
+    "https://rxil.in/treds/",
+    "https://rxil.in/what-is-invoice-trading-how-it-works-benefits/",
+    "https://rxil.in/working-capital-financing-what-it-is-and-how-to-get-it/",
+    "https://rxil.in/faqs/",
+    "https://rxil.in/contact-us/",
+    "https://rxil.in/wp-content/uploads/2026/06/RBI-TReDS-Guidelines-2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:03:55.196989+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-331",
+  "scheme_name": "ICMR Research Grants for Health Startups",
+  "scheme_url": "https://www.icmr.gov.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The ICMR Research Grants for Health Startups is a funding initiative by the Indian Council of Medical Research (ICMR) aimed at supporting health-related startups through financial assistance for research and innovation in biomedical and public health domains. The scheme operates under ICMR's extramural and intramural research programmes, providing grants to eligible entities for conducting research aligned with national health priorities. It encourages innovation in areas such as diagnostics, therapeutics, vaccines, and health technologies, with a focus on translating research into practical healthcare solutions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "health startups",
+    "biomedical startups",
+    "MSME",
+    "research institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation in biomedical research and health technologies",
+    "Support startups in developing solutions for national health priorities",
+    "Strengthen the ecosystem for translational research in medicine and public health",
+    "Encourage collaboration between startups and ICMR institutes",
+    "Facilitate early-stage validation and scaling of health innovations",
+    "Enhance capacity for research in diagnostics, treatment, and preventive healthcare"
+  ],
+  "eligibility": "Indian research institutes or organisations can submit the EoI, provided they fulfil the following criteria: a research team of an institute with cutting-edge biomedical research experience, led by a senior PI; excellent track record in health research in terms of impactful publications; demonstrated collaboration with or contribution to ICMR; willingness to contribute to ICMR’s objectives and activities on an honorary basis (e.g., adjunct faculty for capacity development, assisting with proposal development workshops); willingness to work with ICMR on national priorities related to public health; categories of research teams: basic research, translational research, clinical research, laboratory-based research, population-based research.",
+  "benefits": "Recognition as ICMR Collaborating Centre of Excellence (ICMR-CCoE), access to ICMR's research infrastructure, mentorship from ICMR scientists, opportunities for collaboration on national health projects, visibility in national research networks, and support for proposal development and technical guidance through ICMR's portals and helpdesks such as MedTech Mitra, Patent Mitra, and Biostatistics Helpline.",
+  "financial_support": "No Financial Support: Recognition as ICMR-CCoE is independent of any financial support being given to the institution by ICMR. No special financial support will be provided to ICMR -CCoE.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submission portal will open from 1st July 2026. 2. Visit https://epms.icmr.org.in. The user manual (under Guidelines → e-PMS manual) is available on the portal. 3. The proposal submission process has three steps: o Step 1: PI registration/login https://epms.icmr.org.in/userLogin o Step 2: Verify email ID and complete/update PI profile o Step 3: Proposal submission 4. After completing the mandatory sections of the PI profile: o Go to Proposal Submission o Click on Apply Proposal o Select ‘Request for Expression of Interest for ICMR Collaborating Centre of Excellence (ICMR-CCoE) – 2026’ from the dropdown – Apply New Proposal o Fill the form step by step. 5. For queries, contact: po.epms@icmr.gov.in",
+  "application_portal_url": "https://epms.icmr.org.in",
+  "required_documents": [
+    "Two-page CV: Name, academic/ professional qualifications and affiliation of PI and the other members of the team (PI + maximum of 3 other investigators)",
+    "Experience in undertaking large projects on child growth/ body composition in community settings (experience of the PI and a maximum of 3 other investigators should be included)",
+    "Research experience and publications of the team as a whole summarized within one page, including: a) Upto five most relevant previous research grants with the main objectives of the research studies b) Upto five most relevant previous publications with brief summary of each paper",
+    "Two-page EoI Document: The EoI should explicitly state: a) The choice of the sites (states , districts, pre-schools/ schools) where the study will be implemented and the well-founded rationale for the selection. b) The implementation strategy (one page) including selection of sample population, enrolment strategy, agreement with the existing criteria/ suggestions for additional inclusion/ exclusion criteria, quality assurance for anthropometric measurements, blood sampling, laboratory procedures, other data collection procedure, expected challenges and mitigations"
+  ],
+  "deadlines": "Release of Call July 01, 2026; Last date of Submission of proposal July 31, 2026 (17:00 hrs); Declaration of Result September 15, 2026",
+  "implementing_agency": "Indian Council of Medical Research (ICMR)",
+  "contact_details": "Email: po.epms@icmr.gov.in | Phone No: 011-2658988",
+  "caveats": [
+    "No special financial support will be provided to ICMR-CCoE",
+    "Recognition is honorary and does not include funding",
+    "Applicants must contribute to ICMR’s objectives on an honorary basis",
+    "Selection is based on excellence in research and collaboration potential",
+    "The EoI can be submitted through ONLINE MODE ONLY"
+  ],
+  "source_cited_notes": [
+    "https://icmr.gov.in/icmrobject/uploads/Call/1782902334_requestforexpressionofinterestforicmrcollaboratingcentreofexcellence_2026_01072026.pdf",
+    "https://icmr.gov.in/icmr-research-support-portals",
+    "https://icmr.gov.in/grants-funding-overview",
+    "https://icmr.gov.in/extramural-grants",
+    "https://icmr.gov.in/intramural-grants"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:38:09.962440+00:00"
+}

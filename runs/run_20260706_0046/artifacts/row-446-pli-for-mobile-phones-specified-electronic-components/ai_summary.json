@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-446",
+  "scheme_name": "PLI for Mobile Phones & Specified Electronic Components",
+  "scheme_url": "https://www.meity.gov.in/pli",
+  "ministry_or_category": "Electronics Manufacturing",
+  "overview": "The Production Linked Incentive (PLI) Scheme for Mobile Phones & Specified Electronic Components is a government initiative aimed at boosting domestic manufacturing in the electronics sector. It provides financial incentives to eligible companies based on incremental sales of goods manufactured in India over a period of five years. The scheme seeks to attract large investments, enhance value addition, and generate employment in the electronics manufacturing value chain.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "large enterprises",
+    "electronics manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance India's manufacturing capabilities in mobile phones and specified electronic components",
+    "To attract significant investment in the electronics manufacturing sector",
+    "To increase domestic value addition and reduce import dependence",
+    "To generate employment opportunities in the electronics manufacturing ecosystem",
+    "To strengthen the electronics supply chain within the country",
+    "To position India as a global hub for electronics manufacturing"
+  ],
+  "eligibility": "Eligible applicants include companies engaged in the manufacturing of mobile phones and specified electronic components in India, with a minimum threshold of investment and incremental sales as defined in the scheme guidelines. Both domestic and foreign companies setting up new manufacturing units or expanding existing ones in India are eligible to apply.",
+  "benefits": "Financial incentives in the form of production-linked incentives based on incremental sales over the base year; support for setting up manufacturing units; encouragement for technological upgradation; access to a growing domestic market; and potential for export promotion.",
+  "financial_support": "The scheme provides incentives ranging from 4% to 6% on incremental sales of goods manufactured in India over a period of five years, depending on the product category and achievement of threshold investment and sales targets. The incentive is disbursed annually based on verified sales and investment claims.",
+  "fund_size_crores": "10760",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Review the scheme guidelines and eligibility criteria available on the MeitY website. 2. Prepare the required documentation including investment details, sales data, and manufacturing plans. 3. Submit the application through the designated online portal or as specified in the guidelines. 4. Application is evaluated by the Project Management Agency (PMA). 5. Upon approval, enter into an agreement with the government. 6. Commence production and submit periodic claims for incentives based on incremental sales. 7. Claims are verified and incentives are disbursed after validation.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Details of investment made in plant and machinery",
+    "Audited financial statements",
+    "Details of incremental sales over base year",
+    "Manufacturing unit details and location",
+    "Undertaking and declarations as per scheme guidelines",
+    "Any other documents specified in the guidelines"
+  ],
+  "deadlines": "Applications were invited within a specified window as per the scheme notification; currently, the scheme is under implementation with disbursement ongoing for approved applicants.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are contingent upon achieving minimum threshold investment and incremental sales",
+    "Claims are subject to verification and audit by authorized agencies",
+    "The scheme is operational for a fixed period of five years from the date of approval",
+    "Only incremental sales over the base year are eligible for incentive calculation",
+    "Failure to meet performance criteria may result in withdrawal of benefits"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/pli",
+    "https://meity.gov.in/documents/guidelines",
+    "https://meity.gov.in/documents/gazettes-notifications"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:33:27.806668+00:00"
+}

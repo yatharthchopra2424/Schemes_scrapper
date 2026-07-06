@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-650",
+  "scheme_name": "OBC Pre-Matric & Post-Matric Scholarship Scheme",
+  "scheme_url": "https://scholarships.gov.in",
+  "ministry_or_category": "OBC Development",
+  "overview": "The OBC Pre-Matric & Post-Matric Scholarship Scheme is designed to provide financial assistance to students belonging to Other Backward Classes (OBC) for their education at pre-matric and post-matric levels. The scheme aims to reduce dropout rates and promote educational attainment among OBC students by covering expenses such as tuition fees, maintenance allowances, and other incidental costs. It is implemented through the National Scholarship Portal (NSP) and is part of the broader welfare initiatives for socially and educationally backward classes.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "OBC"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial support to OBC students for pursuing education at pre-matric and post-matric levels",
+    "To reduce dropout rates among OBC students and promote continuation of education",
+    "To ensure equitable access to quality education for socially and educationally backward classes",
+    "To support students in meeting educational expenses such as tuition, books, and maintenance",
+    "To empower OBC communities through educational upliftment and skill development"
+  ],
+  "eligibility": "Students belonging to Other Backward Classes (OBC) as per the central list of OBCs, studying in classes I to X (pre-matric) or XI to PhD level (post-matric) in recognized institutions, with family income not exceeding a specified threshold (as per scheme guidelines), and not receiving any other central government scholarship.",
+  "benefits": "Financial assistance includes reimbursement of tuition fees, maintenance allowance, and other incidental charges such as books, stationery, and equipment. For pre-matric students, benefits may include admission fees, tuition fees, and maintenance allowance. For post-matric students, benefits cover course fees, maintenance allowance, and other non-refundable charges. The scholarship is disbursed via Direct Benefit Transfer (DBT) to Aadhaar-seeded bank accounts.",
+  "financial_support": "The scheme provides financial support in the form of grants covering tuition fees, maintenance allowance, and other incidental expenses. The exact quantum varies by course level and institution type, with payments made annually through DBT. The maintenance allowance is disbursed in monthly or annual installments as per the level of study.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the National Scholarship Portal (NSP) at https://scholarships.gov.in. 2. Register or log in using your credentials. 3. Complete One-Time Registration (OTR) if not already done. 4. Fill in the application form for the OBC Pre-Matric & Post-Matric Scholarship Scheme. 5. Upload required documents such as income certificate, caste certificate, bonafide certificate, and previous year's mark sheet. 6. Submit the application before the deadline. 7. Track application status via the NSP dashboard.",
+  "application_portal_url": "https://scholarships.gov.in/",
+  "required_documents": [
+    "Caste certificate (OBC) issued by competent authority",
+    "Income certificate issued by State/UT Government",
+    "Bonafide certificate from the educational institution",
+    "Previous year's mark sheet or passing certificate",
+    "Aadhaar card or Aadhaar Enrolment ID",
+    "Bank account details (Aadhaar-seeded)",
+    "Passport-sized photograph",
+    "Domicile certificate (if required)"
+  ],
+  "deadlines": "Application window typically opens in June and closes in October for the academic year, subject to annual notification. For Academic Year 2026-27, the portal is open from 1st June 2026 onwards, with student application closing on 31-10-2026.",
+  "implementing_agency": "Ministry of Social Justice and Empowerment, Department of Social Justice & Empowerment (Backward Classes)",
+  "contact_details": "Email: helpdesk@nsp.gov.in | Helpline: 0120-6619540 (8:00 AM to 8:00 PM on all days, except government holidays) | Toll Free: 1800 118 111",
+  "caveats": [
+    "Students receiving any other central government scholarship are not eligible",
+    "Scholarship is subject to annual renewal based on promotion and attendance",
+    "Incomplete or false information leads to rejection and possible recovery of funds",
+    "Benefits are disbursed only to Aadhaar-seeded bank accounts",
+    "Institution must be recognized and registered on NSP for verification"
+  ],
+  "source_cited_notes": [
+    "https://scholarships.gov.in/",
+    "https://scholarships.gov.in/All-Scholarships",
+    "https://scholarships.gov.in/home",
+    "https://scholarships.gov.in/Students",
+    "https://scholarships.gov.in/nsphelpdesk",
+    "https://scholarships.gov.in/pfmshelpdesk"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:33:41.225220+00:00"
+}

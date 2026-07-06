@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-517",
+  "scheme_name": "Technology Centre Systems Programme (TCSP)",
+  "scheme_url": "https://tcsp.gov.in",
+  "ministry_or_category": "MSME Clusters",
+  "overview": "The Technology Centre Systems Programme (TCSP) is a central sector scheme under the Ministry of Micro, Small and Medium Enterprises (MSME) aimed at establishing and upgrading Technology Centres (TCs) across India to provide technological support to MSMEs. The programme focuses on enhancing the competitiveness of MSMEs through access to advanced manufacturing technologies, skill development, testing, calibration, and advisory services. TCSP seeks to bridge the technology gap for MSMEs by creating world-class infrastructure and fostering innovation in manufacturing clusters.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "manufacturing units",
+    "startups in manufacturing",
+    "technical institutes"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish new Technology Centres and upgrade existing ones to provide advanced technological support",
+    "Enhance the competitiveness of MSMEs through access to high-end manufacturing technologies",
+    "Provide skill development training to youth and technicians in relevant trades",
+    "Offer testing, calibration, and certification services to ensure quality compliance",
+    "Promote innovation and R&D collaboration between TCs, MSMEs, and academic institutions",
+    "Support cluster-based development by locating TCs in key manufacturing hubs",
+    "Ensure sustainable operations of Technology Centres through revenue-generating activities"
+  ],
+  "eligibility": "MSMEs, manufacturing units, startups, technical institutions, and industry clusters located in proximity to Technology Centres can avail services. Eligibility for availing subsidized services is based on MSME classification as per MSMED Act, 2006, and specific service offerings of individual Technology Centres.",
+  "benefits": "Access to advanced manufacturing technologies and machinery at subsidized rates, skill development training programs, testing and calibration facilities, technical consultancy, design and prototyping support, assistance in adopting Industry 4.0 technologies, and support for product development and process optimization.",
+  "financial_support": "The scheme provides capital subsidy for setting up and upgrading Technology Centres. Financial support is extended to the implementing agencies (primarily Central and State Government PSUs) for creation of infrastructure and procurement of plant & machinery. MSMEs benefit through user charges for services rendered at TCs, which are offered at subsidized rates compared to market prices.",
+  "fund_size_crores": "2200",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the nearest Technology Centre offering the required service. 2. Contact the TC to discuss service requirements and obtain a quotation. 3. Submit service request along with necessary documentation. 4. Avail the service upon approval and payment of subsidized user charges. 5. For long-term collaboration can be explored through MoUs or service agreements.",
+  "application_portal_url": "https://tcsp.gov.in",
+  "required_documents": [
+    "MSME Registration Certificate (Udyam)",
+    "PAN Card of the entity",
+    "GST Registration Certificate",
+    "Service Request Form (as per TC)",
+    "Technical specifications or drawings (if applicable)",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — services are available throughout the year based on TC schedules and capacity.",
+  "implementing_agency": "Office of the Development Commissioner (MSME), Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "Email: tcsp@dcmsme.gov.in | Phone: 011-23063265",
+  "caveats": [
+    "Subsidized rates are applicable only for services availed directly from Technology Centres under TCSP",
+    "Priority may be given to MSMEs from the host state or region where the TC is located",
+    "Availability of advanced machinery and training slots is subject to utilization and maintenance schedules",
+    "Certain high-end services may have limited slots and require advance booking"
+  ],
+  "source_cited_notes": [
+    "https://tcsp.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:06:16.885107+00:00"
+}

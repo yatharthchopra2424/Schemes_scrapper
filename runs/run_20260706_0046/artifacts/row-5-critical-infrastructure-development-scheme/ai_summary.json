@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-5",
+  "scheme_name": "Critical Infrastructure Development Scheme",
+  "scheme_url": "https://haryanaindustries.gov.in",
+  "ministry_or_category": "State Level (Haryana)",
+  "overview": "The Critical Infrastructure Development Scheme under the Enterprises Promotion Policy 2015 aims to support the development of essential industrial infrastructure such as roads, water supply, drainage, and power supply in industrial areas to facilitate industrial growth and attract investment in Haryana. It is designed to improve the basic infrastructure in industrial estates and parks to make them investment-ready and support the establishment and expansion of industries.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "industries",
+    "MSME",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Haryana only",
+  "objectives": [
+    "Develop critical infrastructure in industrial areas",
+    "Improve road connectivity, water supply, drainage, and power supply in industrial estates",
+    "Facilitate balanced regional development by improving infrastructure in backward areas",
+    "Attract investment by making industrial plots investment-ready",
+    "Support the establishment and expansion of industries through infrastructure support",
+    "Enhance ease of doing business by providing basic infrastructure facilities",
+    "Promote industrial growth in Haryana through infrastructure development"
+  ],
+  "eligibility": "Industries and enterprises setting up or expanding in Haryana State Industrial and Infrastructure Development Corporation (HSIIDC) developed industrial estates, parks, and areas are eligible for the scheme. The scheme applies to units in industrially backward blocks (Category D) as per block categorization under HEEP 2020, where special incentives are provided to hasten industrial development.",
+  "benefits": "The scheme provides financial assistance for the development of critical infrastructure including internal roads, water supply, sewerage/drainage, and power supply in industrial areas. It supports the creation of investment-ready industrial plots by ensuring basic infrastructure is in place, thereby reducing the initial setup cost for industries and promoting industrial dispersal across the state.",
+  "financial_support": "Under the Enterprises Promotion Policy 2015, the Critical Infrastructure Development Scheme offers capital subsidy for infrastructure development in industrial estates. The financial support is provided as a subsidy to cover a portion of the cost of developing internal infrastructure such as roads, water supply, drainage, and power supply in HSIIDC-developed areas, with specific quantum and rates defined in the scheme guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the industrial estate or area where the unit is to be set up or expanded. 2. Verify eligibility based on location in HSIIDC-developed area and block categorization (especially Category D for backward areas). 3. Submit application through the HSIIDC or Department of Industries & Commerce, Haryana. 4. Provide project details including land allotment, infrastructure requirements, and cost estimates. 5. Await verification and approval by the competent authority. 6. Upon approval, receive subsidy disbursement as per scheme guidelines after infrastructure development is completed and verified.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Land allotment letter or possession certificate",
+    "Project report detailing infrastructure requirements",
+    "Cost estimates for internal infrastructure development",
+    "Layout plan of the industrial plot",
+    "No Objection Certificate (NOC) from relevant authorities (if applicable)",
+    "Proof of identity and address of the applicant",
+    "Bank details for subsidy disbursement",
+    "Any other document as specified by HSIIDC or Department of Industries & Commerce"
+  ],
+  "deadlines": "As per scheme notifications and HSIIDC circulars; typically tied to industrial plot allotment schedules or annual budget cycles",
+  "implementing_agency": "Haryana State Industrial and Infrastructure Development Corporation Limited (HSIIDC)",
+  "contact_details": "0172-2590481-483, contactus[at]hsiidc[dot]org[dot]in",
+  "caveats": [
+    "Subsidy is available only for infrastructure development in HSIIDC-developed industrial estates and parks",
+    "Benefits are subject to verification of actual infrastructure development and completion",
+    "Scheme benefits may be withdrawn or revised based on policy updates or fund availability",
+    "Units must comply with all statutory norms and obtain necessary clearances before availing benefits",
+    "Subsidy is typically reimbursement-based after infrastructure is developed and verified"
+  ],
+  "source_cited_notes": [
+    "https://haryanaindustries.gov.in/enterprises-promotion-policy-2015",
+    "https://haryanaindustries.gov.in/",
+    "https://haryanaindustries.gov.in/about-us"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:19:11.226925+00:00"
+}

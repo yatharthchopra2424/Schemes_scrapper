@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-678",
+  "scheme_name": "Pradhan Mantri Awas Yojana Credit Linked Subsidy Scheme (CLSS-MIG)",
+  "scheme_url": "https://pmay-urban.gov.in",
+  "ministry_or_category": "Housing Finance",
+  "overview": "The Pradhan Mantri Awas Yojana Credit Linked Subsidy Scheme (CLSS-MIG) is a component of the PMAY-Urban mission aimed at providing interest subsidies on home loans to Middle Income Group (MIG) beneficiaries for the acquisition or construction of houses. It targets MIG-I and MIG-II categories with annual household incomes between ₹6 lakh and ₹18 lakh. The scheme offers an interest subsidy on home loans taken from banks, housing finance companies, and other such institutions. The subsidy is credited upfront to the loan account, reducing the effective loan burden and EMI outflow for the beneficiary.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Middle Income Group (MIG)",
+    "MIG-I",
+    "MIG-II"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide affordable housing to the urban poor including MIG categories",
+    "To offer interest subsidy on home loans for house acquisition or construction",
+    "To reduce the effective cost of housing through upfront subsidy credit to loan accounts",
+    "To promote inclusive urban development by enabling home ownership among MIG households",
+    "To leverage institutional credit flow to the housing sector for MIG beneficiaries"
+  ],
+  "eligibility": "Beneficiaries belonging to Middle Income Group (MIG) with annual household income between ₹6,00,001 and ₹12,00,000 (MIG-I) or between ₹12,00,001 and ₹18,00,000 (MIG-II). The beneficiary family should not own a pucca house (an all-weather dwelling unit) in any part of India. The scheme applies to first-time homebuyers. The house being purchased or constructed must be located in a statutory town as per Census 2011 or in a planning area notified with respect to such towns.",
+  "benefits": "Interest subsidy on home loans at the rate of 4% for MIG-I (loan amount up to ₹9 lakh) and 3% for MIG-II (loan amount up to ₹12 lakh). The subsidy is calculated on the net present value (NPV) basis and credited upfront to the loan account. Maximum subsidy amount is ₹2.35 lakh for MIG-I and ₹2.30 lakh for MIG-II. The benefit reduces the effective loan amount and EMI burden. The scheme is implemented through nodal agencies and primary lending institutions (PLIs) such as banks and HFCs.",
+  "financial_support": "The scheme provides an interest subsidy rather than a direct loan or grant. For MIG-I, 4% interest subsidy on loan amounts up to ₹9 lakh; for MIG-II, 3% interest subsidy on loan amounts up to ₹12 lakh. The subsidy is computed as the net present value (NPV) of future interest payments discounted at 9% and credited upfront to the loan account. The maximum subsidy amount is capped at ₹2.35 lakh for MIG-I and ₹2.30 lakh for MIG-II. The actual loan amount can exceed these limits, but subsidy is calculated only on the specified cap. The subsidy is released to the primary lending institution (PLI) which then credits it to the beneficiary’s loan account.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a primary lending institution (PLI) such as a bank or housing finance company participating in CLSS under PMAY-U. 2. Apply for a home loan with the PLI for the purchase or construction of a house. 3. Submit required documents including income proof, identity proof, address proof, and property details. 4. The PLI checks eligibility under CLSS-MIG based on income and other criteria. 5. If eligible, the PLI includes the subsidy claim in the loan application and forwards it to the nodal agency (e.g., HUDCO, NHB). 6. Upon approval, the nodal agency releases the subsidy amount to the PLI. 7. The PLI credits the subsidy upfront to the beneficiary’s loan account, reducing the outstanding principal. 8. The beneficiary repays the loan based on the reduced principal amount.",
+  "application_portal_url": "https://pmay-urban.gov.in",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, Voter ID, etc.)",
+    "Proof of address (utility bill, passport, etc.)",
+    "Proof of income (salary slips, Form 16, ITR, etc.)",
+    "Bank account details",
+    "Property documents (sale agreement, title deed, etc.)",
+    "Undertaking/self-declaration of not owning a pucca house",
+    "Loan application form from the primary lending institution (PLI)"
+  ],
+  "deadlines": "The scheme was operational till March 31, 2021, for MIG-I and MIG-II categories under PMAY-U. No further extensions have been announced in the provided evidence. Applications are no longer being accepted under this vertical as of the cutoff date.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "The CLSS-MIG component for MIG-I and MIG-II was valid only till March 31, 2021",
+    "Subsidy is available only for loan amounts up to ₹9 lakh (MIG-I) and ₹12 lakh (MIG-II); higher loan amounts do not attract additional subsidy",
+    "The beneficiary family must not own a pucca house anywhere in India",
+    "The house must be located in a statutory town as per Census 2011 or in a notified planning area",
+    "The benefit is available only for first-time homebuyers",
+    "Subsidy is calculated at a discount rate of 9% for net present value (NPV) computation"
+  ],
+  "source_cited_notes": [
+    "https://pmay-urban.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:47:42.577819+00:00"
+}

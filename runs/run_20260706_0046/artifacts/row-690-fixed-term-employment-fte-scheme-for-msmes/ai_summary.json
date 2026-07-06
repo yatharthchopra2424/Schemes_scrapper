@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-690",
+  "scheme_name": "Fixed Term Employment (FTE) Scheme for MSMEs",
+  "scheme_url": "https://labour.gov.in",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "The Fixed Term Employment (FTE) Scheme for MSMEs is a policy initiative under the Ministry of Labour & Employment aimed at providing flexibility in hiring for micro, small, and medium enterprises by allowing them to employ workers on a fixed-term basis without the obligation of permanent employment. The scheme seeks to enhance employment opportunities while ensuring certain protections for fixed-term workers, including parity in wages, working conditions, and statutory benefits with regular employees performing similar work. It is designed to support MSMEs in managing fluctuating demand and seasonal operations while promoting formalization of labor contracts.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide flexibility in hiring for MSMEs to meet seasonal or fluctuating demand",
+    "To promote formal employment contracts for fixed-term workers",
+    "To ensure parity in wages, working conditions, and statutory benefits between fixed-term and regular employees",
+    "To reduce litigation and disputes arising from informal or ambiguous employment arrangements",
+    "To support ease of doing business for MSMEs by simplifying labor compliance",
+    "To encourage job creation in the MSME sector through flexible labor policies"
+  ],
+  "eligibility": "The scheme applies to all MSMEs as defined under the MSMED Act, 2006, engaged in manufacturing or service activities. Fixed-term employees under this scheme must be engaged for a specific duration or project, and their employment terms must not be less favorable than those of regular employees performing similar work in terms of wages, working hours, allowances, and statutory benefits such as EPFO, ESIC, and gratuity eligibility.",
+  "benefits": "Fixed-term employees under the scheme are entitled to equal pay for equal work, same working hours, allowances, and statutory benefits including Employees' Provident Fund (EPFO), Employees' State Insurance Corporation (ESIC), and eligibility for gratuity after five years of continuous service. Employers benefit from reduced long-term liability, flexibility in workforce management, and compliance with labor laws through formal contracts. The scheme also promotes social security coverage for workers who might otherwise be in informal arrangements.",
+  "financial_support": "The Fixed Term Employment Scheme does not involve direct financial subsidies or grants to employers or employees. Instead, it provides regulatory flexibility by allowing fixed-term contracts under labor laws, thereby reducing indirect costs associated with permanent hiring, such as long-term liabilities and complex termination procedures. Financial obligations such as wages, EPFO, and ESIC contributions remain the responsibility of the employer as per standard labor regulations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. MSMEs must identify the need for fixed-term employment based on project or seasonal requirements. 2. Employers must draft a fixed-term employment contract specifying duration, role, remuneration, and benefits in compliance with the scheme guidelines. 3. The contract must ensure parity in wages and benefits with regular employees performing similar work. 4. Employers must register the fixed-term employee with EPFO and ESIC as applicable. 5. Maintain records of employment, wages, and contributions for inspection. 6. Ensure compliance with labor inspections and audits under the Ministry of Labour & Employment.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Fixed-term employment contract",
+    "Proof of MSME registration (Udyam Registration)",
+    "Employee identification and address proof",
+    "EPFO and ESIC registration details of the employer",
+    "Wage and attendance records",
+    "Proof of parity in benefits with regular employees"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications or contract registrations can be made throughout the year as per business needs.",
+  "implementing_agency": "Ministry of Labour and Employment",
+  "contact_details": "Email: sv[dot]ramana[at]nic[dot]in | Phone: 011-23711354",
+  "caveats": [
+    "Fixed-term employment does not confer permanent employee status",
+    "The scheme does not exempt employers from statutory labor obligations",
+    "Parity in wages and benefits with regular employees is mandatory",
+    "Misuse of fixed-term contracts to avoid permanent employment obligations may attract penalties",
+    "The scheme is subject to review and amendment based on labor code implementations"
+  ],
+  "source_cited_notes": [
+    "https://labour.gov.in/",
+    "https://labour.gov.in/offerings",
+    "https://labour.gov.in/connect"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:58:02.636786+00:00"
+}

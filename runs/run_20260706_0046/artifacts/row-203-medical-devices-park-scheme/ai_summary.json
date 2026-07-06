@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-203",
+  "scheme_name": "Medical Devices Park Scheme",
+  "scheme_url": "https://pharmaceuticals.gov.in/medical-device-park",
+  "ministry_or_category": "Healthcare",
+  "overview": "The Medical Devices Park Scheme aims to provide world-class infrastructure and common facilities for the manufacturing of medical devices in India. It seeks to reduce import dependence, promote domestic manufacturing, and create an ecosystem for innovation and export in the medical devices sector. The scheme supports the development of medical device parks with plug-and-play facilities, testing labs, and other shared infrastructure to attract investment and boost the industry.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturers",
+    "MSME",
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide world-class infrastructure and common facilities for medical device manufacturing",
+    "To reduce import dependence on medical devices and promote domestic manufacturing",
+    "To create an ecosystem that supports innovation, research, and development in medical devices",
+    "To enhance export competitiveness of Indian medical devices",
+    "To attract investment in the medical devices sector through plug-and-play facilities",
+    "To generate employment and support the growth of MSMEs and startups in the healthcare domain"
+  ],
+  "eligibility": "Eligible entities include companies, consortiums, or special purpose vehicles (SPVs) registered under the Companies Act, 2013 or any other relevant law, engaged in or planning to engage in the manufacturing of medical devices. The implementing agency will evaluate proposals based on technical feasibility, financial viability, and potential for employment generation and export promotion.",
+  "benefits": "Financial support in the form of grant-in-aid for creation of common infrastructure facilities such as roads, water supply, power distribution, effluent treatment, and testing labs. Non-financial benefits include facilitation of clearances, single-window approval, and access to shared testing and certification facilities. The scheme also provides plug-and-play infrastructure to reduce setup time and cost for manufacturers.",
+  "financial_support": "The scheme provides grant-in-aid up to 70% of the project cost for setting up common infrastructure facilities in medical device parks, with a maximum ceiling of INR 100 crore per park. The remaining 30% of the project cost is to be borne by the implementing entity. Funds are disbursed in installments based on achievement of predefined milestones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 100 crore per medical device park",
+  "application_process": "1. Submit a detailed project report (DPR) along with the application form to the implementing agency. 2. The DPR must include details on land availability, project layout, proposed facilities, financial plan, and employment generation. 3. Applications are evaluated by a technical committee appointed by the Department of Pharmaceuticals Department of Pharmaceuticals. 4. Shortlisted proposals undergo site verification and due diligence. 5. Upon approval, a formal sanction letter is issued. 6. Funds are released in stages based on milestone completion verified by the agency.",
+  "application_portal_url": "https://pharmaceuticals.gov.in/medical-device-park",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of Incorporation / Registration of the entity",
+    "Land ownership or lease documents",
+    "Project layout and site plan",
+    "Financial viability report including means of financing",
+    "Employment generation projections",
+    "Undertaking regarding compliance with environmental and safety norms",
+    "Board resolution authorizing the application"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers",
+  "contact_details": "",
+  "caveats": [
+    "The grant is limited to common infrastructure facilities only; individual factory sheds or plant machinery are not covered",
+    "Beneficiaries must ensure that the park is used exclusively for medical device manufacturing activities",
+    "Failure to utilize the grant for the approved purpose may lead to recovery of funds with interest",
+    "The scheme is subject to availability of budgetary allocations and may be revised or discontinued by the government"
+  ],
+  "source_cited_notes": [
+    "https://pharmaceuticals.gov.in/medical-device-park"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:13:06.518293+00:00"
+}

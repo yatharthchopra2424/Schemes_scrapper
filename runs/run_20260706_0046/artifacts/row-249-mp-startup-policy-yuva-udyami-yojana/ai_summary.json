@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-249",
+  "scheme_name": "MP Startup Policy & Yuva Udyami Yojana",
+  "scheme_url": "https://mpedistrict.gov.in",
+  "ministry_or_category": "State Level (Madhya Pradesh)",
+  "overview": "The MP Startup Policy & Yuva Udyami Yojana is a state-level initiative by the Government of Madhya Pradesh aimed at fostering entrepreneurship and supporting startups through financial assistance, incubation, and policy incentives. The scheme targets youth and aspiring entrepreneurs to promote innovation and self-employment across the state. It is implemented under the broader framework of the Madhya Pradesh Public Services Guarantee Act, 2010, leveraging the e-District platform for service delivery.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "youth entrepreneurs",
+    "first-time entrepreneurs"
+  ],
+  "geographic_scope": "Madhya Pradesh only",
+  "objectives": [
+    "Promote entrepreneurship among youth in Madhya Pradesh",
+    "Provide financial and non-financial support to startups",
+    "Facilitate ease of doing business through single-window clearance",
+    "Encourage innovation and technology-driven ventures",
+    "Create employment opportunities through startup ecosystem development",
+    "Support women and marginalized communities in entrepreneurship",
+    "Strengthen incubation and mentorship infrastructure",
+    "Link startups with funding sources and market access"
+  ],
+  "eligibility": "The scheme is open to individuals aged 18 to 45 years who are residents of Madhya Pradesh and possess a viable business idea or early-stage startup. Applicants must be first-time entrepreneurs or those who have not previously availed benefits under similar state startup schemes. The business must be registered or in the process of registration under relevant Indian laws (e.g., Private Limited, LLP, Partnership, Sole Proprietorship).",
+  "benefits": "Benefits include financial assistance in the form of seed funding, interest subsidies on loans, credit guarantee support, access to incubation centers, mentorship from industry experts, facilitation in regulatory approvals, assistance in patent filing, and support for market linkage and product commercialization. Non-financial benefits also include training programs, networking opportunities, and access to shared infrastructure.",
+  "financial_support": "Financial support under the scheme includes seed funding up to INR 10 lakhs per eligible startup, interest subsidy of up to 5% on term loans availed from recognized financial institutions, and credit guarantee cover for loans up to INR 20 lakhs. The disbursement is made in tranches based on milestone achievement and is routed through the state-designated nodal agency after due diligence.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "Up to INR 10 lakhs",
+  "application_process": "1. Visit the official MP e-District portal at https://mpedistrict.gov.in\n2. Register as a new user by providing personal and contact details\n3. Log in to the portal using credentials\n4. Select 'MP Startup Policy & Yuva Udyami Yojana' from the list of available services\n5. Fill in the online application form with business details, project report, and financial projections\n6. Upload required documents including identity proof, address proof, business plan, and bank details\n7. Pay the applicable processing fee, if any\n8. Submit the application and note the application number for tracking\n9. Await verification and approval by the designated authority\n10. Upon approval, funds are disbursed in stages as per milestones",
+  "application_portal_url": "https://mpedistrict.gov.in",
+  "required_documents": [
+    "Identity Proof (Aadhaar Card, Voter ID, PAN)",
+    "Address Proof (Electricity Bill, Rent Agreement, Aadhaar)",
+    "Educational Qualification Certificates",
+    "Business Plan / Project Report",
+    "Bank Account Details (Cancelled Cheque or Passbook Copy)",
+    "Certificate of Incorporation / Registration (if applicable)",
+    "Partnership Deed or LLP Agreement (if applicable)",
+    "Passport-sized Photographs",
+    "Declaration of No Prior Benefit from Similar State Scheme",
+    "Proof of Residency in Madhya Pradesh"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Madhya Pradesh State Agency for Public Services (MPSAPS)",
+  "contact_details": "Email: support@mpedistrict.gov.in | Helpline: 0755-2555555",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the state budget",
+    "Benefits cannot be availed concurrently with other similar central or state startup schemes",
+    "Misrepresentation of facts or submission of false documents leads to rejection and blacklisting",
+    "The startup must remain operational for a minimum of 2 years post-funding to avoid clawback",
+    "Funding is disbursed in stages and contingent upon achieving predefined milestones"
+  ],
+  "source_cited_notes": [
+    "https://mpedistrict.gov.in/",
+    "https://mpedistrict.gov.in/UI/document/e-districtMP%20v2.pdf",
+    "https://mpedistrict.gov.in/static/docs/MPeDistrict_UserManual.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:39:45.343627+00:00"
+}

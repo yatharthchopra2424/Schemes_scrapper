@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-291",
+  "scheme_name": "Digital Communications Innovation Square (DCIS)",
+  "scheme_url": "https://dot.gov.in/dcis",
+  "ministry_or_category": "Telecom",
+  "overview": "The Digital Communications Innovation Square (DCIS) is a scheme under the Department of Telecommunications, Ministry of Communications, aimed at fostering innovation and development in the telecom sector. It serves as a platform for startups, MSMEs, and innovators to test, validate, and scale their digital communication solutions. The initiative supports the broader goals of Atmanirbhar Bharat and India's 6G ambitions by promoting indigenous telecom technologies and reducing import dependency.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote indigenous telecom innovation and standardisation",
+    "Support the vision of Atmanirbhar Bharat and National Digital Communications Policy (NDCP) 2018",
+    "Advance India's 6G ambitions through research and development",
+    "Provide a platform for testing and validation of telecom innovations",
+    "Encourage collaboration between industry, academia, and government",
+    "Reduce import dependency in telecom equipment and services"
+  ],
+  "eligibility": "Startups, MSMEs, innovators, and entities engaged in telecom innovation, standardisation, or development of digital communication solutions are eligible to participate in DCIS. Preference may be given to entities working on 5G/6G technologies, indigenous solutions, and those aligned with national telecom priorities.",
+  "benefits": "Access to testing infrastructure, mentorship from industry experts, networking opportunities with investors and telecom operators, visibility through government platforms, and support for scaling innovations. Financial support may be available through linked schemes such as TDIP or PLI, though DCIS primarily focuses on non-financial incubation and validation support.",
+  "financial_support": "DCIS does not provide direct financial grants or loans. Financial support, if any, is channeled through allied schemes like the Technology Development & Investment Promotion (TDIP) Scheme or Production Linked Incentive (PLI) scheme for telecom and networking products, which offer subsidies or incentives based on investment and sales performance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the DCIS portal at https://dot.gov.in/dcis 2. Register as an innovator or startup 3. Submit a proposal detailing the telecom innovation, its objectives, and expected outcomes 4. Undergo technical evaluation by DoT experts 5. If selected, gain access to DCIS infrastructure for testing and validation 6. Receive mentorship and guidance for scaling the solution 7. Submit progress reports and outcomes for review",
+  "application_portal_url": "https://dot.gov.in/dcis",
+  "required_documents": [
+    "Proposal document detailing the innovation",
+    "Certificate of Incorporation or Registration",
+    "PAN of the entity",
+    "Technical specifications and diagrams",
+    "Proof of concept or prototype details",
+    "Team details and qualifications"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "DCIS does not provide direct funding; financial support must be sought through other schemes",
+    "Access to infrastructure is subject to availability and technical evaluation",
+    "Continued participation depends on progress and outcomes",
+    "Intellectual property rights remain with the innovator, but DoT may retain rights to use results for policy purposes"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/dcis",
+    "https://dot.gov.in/offerings",
+    "https://dot.gov.in/documents/guidelines"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:59:16.723801+00:00"
+}

@@ -1,0 +1,68 @@
+{
+  "scheme_id": "row-684",
+  "scheme_name": "Copyright Societies Support Scheme",
+  "scheme_url": "https://copyright.gov.in",
+  "ministry_or_category": "Legal & IP",
+  "overview": "The Copyright Societies Support Scheme is a framework under the Copyright Act, 1957 for the registration, regulation, and support of copyright societies in India. It enables collective administration of copyright by societies formed by authors and other owners of rights to manage licensing, fee collection, and royalty distribution. The scheme ensures transparency, accountability, and fair distribution of royalties while promoting the interests of creators and users of copyrighted works.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "authors",
+    "other owners of rights",
+    "copyright societies",
+    "right holders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable collective administration of copyright through registered societies",
+    "Ensure better vigil over the use of works and collection of due royalties",
+    "Facilitate reciprocal agreements with international societies for royalty collection",
+    "Provide legal framework for licensing and fee distribution",
+    "Ensure transparency and accountability in society operations",
+    "Protect the interests of copyright owners and users",
+    "Enable renewal and regulation of copyright societies",
+    "Maintain records and returns for regulatory oversight"
+  ],
+  "eligibility": "A copyright society is formed by authors and other owners of rights. The minimum membership required for registration of a society is seven. Ordinarily, only one society is registered to do business in respect of the same class of work. The registration is granted for a period of five years and may be renewed subject to continued collective control by authors and owners of rights.",
+  "benefits": "Copyright societies can issue or grant licences, collect fees, and distribute royalties after deducting administrative expenses (not exceeding 15%). They can enter into agreements with foreign societies for cross-border royalty collection. Members receive regular, full, and detailed information about activities. Royalties are distributed in proportion to actual use of works. Societies are subject to collective control by authors and owners of rights regarding fee collection, distribution, and utilisation.",
+  "financial_support": "The scheme does not provide direct financial support or grants to copyright societies. Financial operations are self-sustained through licensing fees and royalty collections. Administrative expenses are capped at 15% of collections. No government fund size or per-entity grant amount is specified in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Form a society with authors and other owners of rights (minimum seven members). 2. Prepare application for registration under Section 33 of the Copyright Act, 1957. 3. Submit application to the Registrar of Copyrights. 4. Await examination and potential objections from the Copyright Office. 5. If approved, receive registration certificate valid for five years. 6. For renewal, submit application before expiry with report from Registrar of Copyrights. 7. Maintain required registers and file annual returns. 8. Adhere to tariff and distribution schemes as per Copyright Rules, 2013.",
+  "application_portal_url": "https://copyright.gov.in/Fresh_Applications.aspx",
+  "required_documents": [
+    "Certificate of incorporation or registration",
+    "Memorandum and Articles of Association",
+    "List of authors and other owners of rights with addresses",
+    "Details of rights authorised to be administered",
+    "Scheme of Tariff",
+    "Distribution Scheme",
+    "Audited accounts (for renewal)",
+    "Annual report",
+    "Budget estimates and programme of action",
+    "Agreements with foreign copyright societies",
+    "Instrument of registration (if changed)",
+    "Undertaking for compliance with Code of Conduct"
+  ],
+  "deadlines": "Registration is valid for five years and must be renewed before expiry. Renewal applications must be submitted in prescribed form before the end of every five-year period. Annual returns must be filed within one month from the date of conclusion of each annual General Body meeting.",
+  "implementing_agency": "Copyright Office, Department for Promotion of Industry and Internal Trade, Ministry of Commerce and Industry",
+  "contact_details": "Email: copyright@nic.in | Telephone No.: 011-28032496",
+  "caveats": [
+    "Registration is granted for five years and subject to renewal",
+    "Renewal requires continued collective control by authors and owners of rights",
+    "Administrative expenses cannot exceed 15% of collections",
+    "Licences can only be issued for works authorised in writing by rights holders",
+    "No discrimination permitted in licence terms or royalty distribution between Indian and other right holders",
+    "Societies must maintain specific registers and file annual returns",
+    "Distribution of royalties must be at least once in a quarter",
+    "No minimum guarantee payments can be made to members against royalty shares"
+  ],
+  "source_cited_notes": [
+    "https://copyright.gov.in/Documents/Copyright_Societies.pdf",
+    "https://copyright.gov.in/Documents/RTI-CPIOs.pdf",
+    "https://copyright.gov.in/Fresh_Applications.aspx",
+    "https://copyright.gov.in/ERegister.aspx"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:55:16.512087+00:00"
+}

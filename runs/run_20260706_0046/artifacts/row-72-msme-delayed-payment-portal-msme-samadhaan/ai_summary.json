@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-72",
+  "scheme_name": "MSME Delayed Payment Portal (MSME SAMADHAAN)",
+  "scheme_url": "https://samadhaan.msme.gov.in",
+  "ministry_or_category": "Tax Incentives",
+  "overview": "MSME SAMADHAAN (MSME Delayed Payment Portal) is an online platform launched by the Ministry of Micro, Small and Medium Enterprises to facilitate the resolution of delayed payment disputes faced by micro and small enterprises (MSEs) when dealing with central ministries, departments, central public sector enterprises (CPSEs), and state governments. The portal enables MSEs to file applications for the recovery of delayed payments along with applicable compound interest under the MSMED Act, 2006. It serves as a monitoring and redressal mechanism to ensure timely payments to MSEs as mandated by law.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide a facilitative mechanism for settlement of delayed payment disputes involving micro and small enterprises",
+    "Enable MSEs to file online applications for recovery of delayed payments and compound interest",
+    "Monitor and track the status of delayed payment cases across central and state government entities",
+    "Ensure compliance with the provisions of the MSMED Act, 2006 regarding timely payments to MSEs",
+    "Reduce litigation and promote amicable settlement of payment disputes through a structured online process"
+  ],
+  "eligibility": "Any micro or small enterprise (MSE) that has supplied goods or services to a central ministry, department, central public sector enterprise (CPSE), or state government and is facing delayed payment beyond the agreed period or 45 days (as per MSMED Act, 2006) can file an application on the portal. The enterprise must have a valid Udyam Registration Number.",
+  "benefits": "The portal provides a structured online mechanism for filing delayed payment claims, facilitates the possibility of receiving compound interest on delayed amounts due date Act, 2006, and enables tracking of the case status. It reduces the need for litigation by providing a government-backed facilitative forum for dispute resolution.",
+  "financial_support": "The portal does not provide direct financial support but facilitates the recovery of the principal amount due along with compound interest as mandated under Section 15 of the MSMED Act, 2006. The interest is calculated at three times the bank rate notified by the Reserve Bank of India.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the MSME SAMADHAAN portal at https://samadhaan.msme.gov.in 2. Click on 'File Application' or 'Register Grievance' 3. Enter Udyam Registration Number and validate the enterprise 4. Fill in the details of the buyer (central ministry/department/CPSE/state government), invoice details, amount due, and date of supply 5. Upload supporting documents such as invoices, delivery challans, and correspondence 6. Submit the application and note the application number for tracking 7. Monitor the status of the application through the portal using the application number",
+  "application_portal_url": "https://samadhaan.msme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Copy of invoice(s) for goods/services supplied",
+    "Delivery challan or proof of completion of service",
+    "Correspondence related to payment reminder or dispute",
+    "Any contract or purchase order reference"
+  ],
+  "deadlines": "Rolling basis — applications can be filed at any time as delayed payment issues arise",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Only micro and small enterprises (not medium enterprises) are eligible to file applications",
+    "The portal covers delayed payments from central government entities, CPSEs, and state governments — private sector buyers are not included",
+    "The claim must be for goods/services already supplied; advance payments or future dues are not eligible",
+    "The remedy is facilitative in nature; final payment depends on the respondent entity's action"
+  ],
+  "source_cited_notes": [
+    "https://samadhaan.msme.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:00:26.946483+00:00"
+}

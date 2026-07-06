@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-353",
+  "scheme_name": "UP Textile Park Scheme",
+  "scheme_url": "https://upica.org",
+  "ministry_or_category": "State Level (UP)",
+  "overview": "The UP Textile Park Scheme is a state-level initiative by the Uttar Pradesh government to promote textile industry development by establishing integrated textile parks with modern infrastructure and facilities. The scheme aims to attract investment, generate employment, and enhance the competitiveness of the textile sector in Uttar Pradesh through cluster-based development.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "textile manufacturers",
+    "entrepreneurs",
+    "industrial units"
+  ],
+  "geographic_scope": "Uttar Pradesh only",
+  "objectives": [
+    "Develop world-class infrastructure for textile units in designated parks",
+    "Attract domestic and foreign investment in the textile sector",
+    "Generate employment opportunities in textile manufacturing",
+    "Enhance productivity and value addition in textile processing",
+    "Promote cluster-based growth for economies of scale",
+    "Provide plug-and-play facilities to reduce setup time for textile units"
+  ],
+  "eligibility": "Textile manufacturing units, MSMEs, and entrepreneurs engaged in spinning, weaving, processing, garmenting, or technical textiles who wish to set up operations in UP Textile Parks. Applicants must comply with land use norms, environmental regulations, and possess necessary statutory clearances as per Uttar Pradesh industrial policies.",
+  "benefits": "Allotment of developed land or built-up space in textile parks at concessional rates, access to plug-and-play infrastructure (power, water, drainage, effluent treatment), common facilities like testing labs, design centers, logistics support, and skill development centers. Financial incentives including capital subsidy, interest subsidy, and power tariff concessions as per UP Textile Policy 2017-2022.",
+  "financial_support": "Financial support includes capital subsidy up to 30% of fixed capital investment (max INR 5 Crore), interest subsidy of 5% on term loans for 5 years, and power tariff concession of INR 1 per unit for 5 years. Assistance is disbursed through nodal agencies after verification of investment and employment generation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 5 Crore",
+  "application_process": "1. Identify suitable textile park and plot/unit requirement 2. Submit application to Uttar Pradesh State Industrial Development Corporation (UPSIDC) or concerned development authority 3. Provide project report, land use details, and financial appraisal 4. Obtain in-principle approval from the committee 5. Execute lease agreement and pay initial deposit 6. Commence construction/installation as per approved plan 7. Apply for financial incentives post-commencement of production",
+  "application_portal_url": "https://upica.org",
+  "required_documents": [
+    "Project report detailing investment, employment, and production capacity",
+    "Certificate of Incorporation/Registration of the entity",
+    "PAN and GST registration documents",
+    "Land allotment letter or lease agreement from UPSIDC/development authority",
+    "Bank appraisal note on term loan (if seeking interest subsidy)",
+    "Environmental clearance and NOC from pollution control board",
+    "Details of promoters and their background",
+    "Undertaking regarding compliance with labor and safety norms"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year subject to plot availability",
+  "implementing_agency": "Uttar Pradesh State Industrial Development Corporation (UPSIDC)",
+  "contact_details": "Email: info@upsidc.in | Phone: 0522-2206282",
+  "caveats": [
+    "Benefits are subject to availability of funds under the state budget",
+    "Land allotment is contingent upon meeting investment and employment commitments",
+    "Failure to commence production within stipulated period may lead to cancellation of allotment",
+    "Subsidy claims must be submitted within 12 months of commercial production",
+    "Units must operate for minimum 7 years to retain subsidy benefits"
+  ],
+  "source_cited_notes": [
+    "https://upica.org"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:40:18.188787+00:00"
+}

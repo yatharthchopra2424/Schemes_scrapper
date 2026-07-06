@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-16",
+  "scheme_name": "Equipment Finance for MSMEs (SIDBI)",
+  "scheme_url": "https://www.sidbi.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "Equipment Finance for MSMEs (SIDBI) is a loan scheme designed to support micro, small, and medium enterprises in acquiring machinery and equipment for business expansion, modernization, or technology upgradation. It provides financial assistance for the purchase of plant and machinery, fixed assets, and other capital goods essential for operational efficiency and growth. The scheme targets existing MSME units with a proven track record and aims to enhance productivity and competitiveness through accessible credit.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate access to affordable credit for MSMEs to procure machinery and equipment",
+    "Support technology upgradation and modernization of existing enterprises",
+    "Enhance productivity and operational efficiency of MSMEs",
+    "Promote business expansion and scalability through capital investment",
+    "Strengthen the manufacturing and service capabilities of MSMEs"
+  ],
+  "eligibility": "MSME units in operation for at least three years. Mandatory Udyam & GST registration. No defaults to Bank/FIs. Cash profit in last audited financial results.",
+  "benefits": "Quick sanction of machinery loan through automated platform using GST returns, ITRs, Bank Statement and CIBIL score. Loan amount up to Rs. 3 Crore with immediate in-principle offer. Upto 100% financing with 25% security in the form of fixed deposit. Processing fees of 0.50% plus applicable GST. MCLR Linked attractive rate of Interest. Repayment upto 60 months.",
+  "financial_support": "Loan amount up to Rs. 3 Crore with immediate in-principle offer. Upto 100% financing with 25% security in the form of fixed deposit. Processing fees of 0.50% plus applicable GST. MCLR Linked attractive rate of Interest. Repayment upto 60 months.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply Now through the SIDBI portal 2. Submit GST returns, ITRs, Bank Statement and CIBIL score 3. Complete registration and KYC 4. Receive sanction and acceptance of loan limit 5. Execute digital documents and NACH mandate 6. Receive disbursement",
+  "application_portal_url": "https://sidbi.in/machinery-loan",
+  "required_documents": [
+    "GST returns",
+    "ITRs",
+    "Bank Statement",
+    "CIBIL score"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "Toll Free Number: 180-022-6753",
+  "caveats": [
+    "Mandatory Udyam & GST registration required",
+    "No defaults to Bank/FIs allowed",
+    "Minimum three years of operations required",
+    "25% security in the form of fixed deposit required for upto 100% financing"
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/machinery-loan"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:25:49.105641+00:00"
+}

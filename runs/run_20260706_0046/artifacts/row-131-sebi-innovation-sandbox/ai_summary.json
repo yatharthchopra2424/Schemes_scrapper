@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-131",
+  "scheme_name": "SEBI Innovation Sandbox",
+  "scheme_url": "https://www.sebi.gov.in/innovation-sandbox",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "The SEBI Innovation Sandbox is a regulatory framework designed to allow fintech startups and innovators to test new products, services, or business models in a controlled environment under SEBI supervision. It aims to foster innovation in the securities market while ensuring investor protection and market integrity. Participants can experiment with relaxed regulatory requirements for a limited period, subject to oversight and reporting obligations.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "fintech companies",
+    "innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation in the securities market",
+    "Enable testing of new financial products and services in a live environment",
+    "Ensure investor protection during experimentation",
+    "Provide regulatory flexibility for emerging technologies",
+    "Gather insights to inform future policy and regulation",
+    "Facilitate collaboration between regulators and innovators"
+  ],
+  "eligibility": "Entities must be incorporated in India, have a minimum net worth as specified by SEBI, and propose an innovative product, service, or business model related to securities markets. The innovation must address a genuine market need and include safeguards for investor protection and risk management.",
+  "benefits": "Access to a regulated testing environment with relaxed compliance requirements, guidance from SEBI officials, potential pathway to full regulatory authorization, and enhanced credibility through SEBI association. Non-financial benefits include regulatory mentorship and market access opportunities.",
+  "financial_support": "The SEBI Innovation Sandbox does not provide direct financial support, grants, or funding to participants. It offers regulatory relief and facilitation rather than monetary assistance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an application detailing the innovative product, service, or business model to be tested. 2. Include information on the technology, target users, risk mitigation measures, and investor protection mechanisms. 3. SEBI reviews the application for eligibility and potential risks. 4. If approved, enter into a sandbox agreement outlining the scope, duration, and conditions of testing. 5. Conduct the test under SEBI supervision with periodic reporting. 6. Submit a final report on outcomes and lessons learned.",
+  "application_portal_url": "https://www.sebi.gov.in/innovation-sandbox",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Detailed description of the innovative product/service/model",
+    "Business plan and financial projections",
+    "Risk assessment and mitigation plan",
+    "Investor protection measures",
+    "Details of promoters and key personnel",
+    "Any existing regulatory approvals or licenses"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Securities and Exchange Board of India (SEBI)",
+  "contact_details": "",
+  "caveats": [
+    "Participation is time-limited and subject to SEBI approval",
+    "Relaxed regulations apply only to the approved scope of testing",
+    "SEBI may terminate participation if risks to investors or market integrity are identified",
+    "Successful testing does not guarantee future regulatory approval",
+    "Participants bear all costs associated with the innovation and testing"
+  ],
+  "source_cited_notes": [
+    "https://www.sebi.gov.in/innovation-sandbox"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:33:01.001025+00:00"
+}

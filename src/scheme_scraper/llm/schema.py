@@ -54,6 +54,16 @@ class SchemeInsight(BaseModel):
     )
 
     # ── Robust LLM Coercion ───────────────────────────────────────────────────
+
+    @field_validator("scheme_type", mode="before")
+    @classmethod
+    def coerce_scheme_type(cls, v: Any) -> str:
+        """Map empty/None/unrecognised values to 'other' instead of crashing."""
+        _VALID = {"grant", "loan", "subsidy", "recognition", "incubation", "tax_benefit", "other"}
+        if not v or str(v).strip().lower() not in _VALID:
+            return "other"
+        return str(v).strip().lower()
+
     @field_validator(
         "overview", "geographic_scope", "eligibility", "benefits",
         "financial_support", "fund_size_crores", "grant_amount_per_entity",

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-505",
+  "scheme_name": "National Hydrology Project (NHP) Data Access for Startups",
+  "scheme_url": "https://nhp.gov.in",
+  "ministry_or_category": "Water Technology",
+  "overview": "The National Hydrology Project (NHP) Data Access for Startups initiative provides access to hydrological data and resources to support innovation in water technology. It aims to enable startups to leverage NHP's data infrastructure for developing solutions in water management, forecasting, and related domains. The program is part of the broader National Hydrology Project implemented by the Department of Water Resources, River Development and Ganga Rejuvenation under the Ministry of Jal Shakti.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide startups with access to hydrological data generated under the National Hydrology Project",
+    "Support innovation in water technology through data-driven solutions",
+    "Facilitate the use of NHP's data systems for applications in water resource management",
+    "Promote entrepreneurship in the water sector by lowering barriers to data access"
+  ],
+  "eligibility": "Startups registered in India working on water technology, hydrology, or related domains are eligible to access data under the National Hydrology Project. Specific eligibility criteria may include validation of the startup's focus on water-related innovation and compliance with data usage policies.",
+  "benefits": "Access to hydrological datasets, hydro-meteorological data, water resources information systems, and related tools developed under the National Hydrology Project. Startups can utilize this data for research, product development, and validation of water technology solutions.",
+  "financial_support": "The scheme does not provide direct financial support such as grants, loans, or subsidies. Support is primarily in the form of data access and technical resources.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the National Hydrology Project official website at https://nhp.gov.in 2. Navigate to the data access or startup engagement section 3. Review the data access policy and terms of use 4. Submit a request for data access detailing the startup's purpose and intended use 5. Await review and approval from the NHP data access committee 6. Upon approval, receive credentials or access links to the requested datasets",
+  "application_portal_url": "https://nhp.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration of the startup",
+    "PAN card of the entity",
+    "Description of the startup's work in water technology or hydrology",
+    "Details of intended use of the requested data",
+    "Authorization letter from the authorized signatory"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications for data access are accepted throughout the year.",
+  "implementing_agency": "Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti",
+  "contact_details": "",
+  "caveats": [
+    "Data access is subject to the terms and conditions of the National Hydrology Project data policy",
+    "Use of data is restricted to the purpose specified in the application and must not be shared with third parties without permission",
+    "Certain sensitive or classified datasets may not be available for public or startup access",
+    "The NHP reserves the right to review, modify, or withdraw data access based on compliance"
+  ],
+  "source_cited_notes": [
+    "https://nhp.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:02:27.193589+00:00"
+}

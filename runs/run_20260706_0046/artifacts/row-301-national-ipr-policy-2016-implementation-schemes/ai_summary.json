@@ -1,0 +1,71 @@
+{
+  "scheme_id": "row-301",
+  "scheme_name": "National IPR Policy 2016 Implementation Schemes",
+  "scheme_url": "https://ipindia.gov.in",
+  "ministry_or_category": "Intellectual Property",
+  "overview": "The National IPR Policy 2016 Implementation Schemes, administered by the Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM) under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, aim to strengthen India's intellectual property ecosystem through awareness, facilitation, and protection mechanisms. These schemes support innovators, startups, MSMEs, and creators across various IP domains including patents, designs, trademarks, geographical indications, and copyrights by providing procedural guidance, fee structures, examination facilities, and recognition frameworks.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "individual inventors",
+    "educational institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote IPR awareness and creation across sectors",
+    "Facilitate filing and prosecution of IP applications",
+    "Provide procedural and fee-related guidance for IP protection",
+    "Support innovation through IP asset creation and commercialization",
+    "Strengthen institutional capacity for IP administration"
+  ],
+  "eligibility": "Eligibility varies by IP type but generally includes natural persons, startups, small entities, educational institutions, and other legal entities applying for patents, designs, trademarks, geographical indications, or copyrights under the respective Acts and Rules, with specific fee concessions available for startups and small entities as per the First Schedule of the Patents Rules 2003 and analogous provisions in other IP statutes.",
+  "benefits": "Benefits include legal protection of intellectual property, exclusive rights to exploit creations, facilitation through e-filing systems, access to examination and publication facilities, fee concessions for startups and small entities, certificate issuance, journal publication, and support for international applications via PCT and Madrid Protocol, along with awareness programs and training workshops conducted by RGNIIPM and other units under CGPDTM.",
+  "financial_support": "Financial support is primarily through fee concessions rather than direct grants or loans. Startups and small entities receive reduced official fees for patent filings (e.g., 800 INR for natural persons/startups/small entities vs. 4000 INR for others under Form 1), with similar concessions across other IP types. No direct fund disbursement or loan mechanism is described in the evidence; support is procedural and cost-reduction based.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine the type of IP protection required (patent, design, trademark, GI, copyright). 2. Confirm eligibility and applicable fee structure based on applicant category (natural person, startup, small entity, etc.). 3. Prepare required documents including forms, specifications, representations, and affidavits as per guidelines. 4. File application via the e-filing portal or physical submission with prescribed fees. 5. Track application status through the online portal. 6. Respond to examination reports or objections within stipulated time. 7. Attend hearings if scheduled. 8. Upon compliance, receive registration certificate and publication in the respective journal.",
+  "application_portal_url": "https://ipindia.gov.in",
+  "required_documents": [
+    "Form 1 (Application for Grant of Patent)",
+    "Form 2 (Provisional/Complete Specification)",
+    "Form 3 (Statement and Undertaking under Section 8)",
+    "Form 5 (Declaration of Inventorship)",
+    "Power of Attorney (if applicable)",
+    "Priority documents (if claiming priority)",
+    "Sequence listing (if applicable)",
+    "Drawings (for patents and designs)",
+    "Statement of Case (for Geographical Indications)",
+    "Affidavit (for Geographical Indications)",
+    "Geographical maps (for Geographical Indications)",
+    "Trademark representation (for trademarks)",
+    "Description of goods/services (for trademarks)",
+    "User affidavit (for trademarks, if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: rgniipm.ipo@nic.in | Helpline: 0712-2540916 (RGNIIPM Nagpur) | Email for workshops: rgniipm.ipo@nic.in, pborkar.ipo@nic.in | Postal: Head, RGNIIPM, Hislop College Road, Civil lines, Nagpur, Maharashtra – 440001",
+  "caveats": [
+    "Fee concessions for startups and small entities require proper declaration and eligibility verification",
+    "Applications may be rejected for incomplete forms, insufficient fees, or lack of novelty/originality",
+    "Geographical Indication applications require detailed documentation including maps, affidavits, and producer details",
+    "Trademark opposition can be filed by third parties within 4 months of publication in the Trade Marks Journal",
+    "Patent renewal fees increase over time and must be paid to maintain protection",
+    "The information provided on workflow pages is for guidance only and does not constitute legal advice"
+  ],
+  "source_cited_notes": [
+    "https://ipindia.gov.in/",
+    "https://ipindia.gov.in/page-content/application-filing-guidelines-1",
+    "https://ipindia.gov.in/application-workflow/design-application-workflow",
+    "https://ipindia.gov.in/trademark-application-workflow",
+    "https://ipindia.gov.in/application-workflow/trademark-filing-process",
+    "https://ipindia.gov.in/patents-before-you-apply-forms-official-fees",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/bf10437e-a59f-4cfe-bc09-e1ee3e15602d.pdf",
+    "https://ipindia.gov.in/uploads/Online_Joint_Workshops_on_IPR.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/ac7d8a15-1ca1-42cb-8ea2-316eb3103172.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:09:04.032060+00:00"
+}

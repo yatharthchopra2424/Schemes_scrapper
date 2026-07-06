@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-160",
+  "scheme_name": "Aquaculture Development Scheme (MPEDA)",
+  "scheme_url": "https://mpeda.gov.in",
+  "ministry_or_category": "Fisheries",
+  "overview": "The Aquaculture Development Scheme (MPEDA) is a central sector scheme aimed at promoting sustainable aquaculture practices, supporting value addition, and enhancing export competitiveness of marine products. It provides financial and technical assistance to aquaculture farmers and exporters for infrastructure development, technology adoption, and capacity building. The scheme focuses on species diversification, better management practices, and market promotion to increase India's share in global seafood trade.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "aquaculture farmers",
+    "exporters",
+    "MSME",
+    "fisheries cooperatives"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote sustainable aquaculture practices and species diversification",
+    "Support value addition and export-oriented aquaculture technology incubation",
+    "Enhance market promotion and participation in international seafood fairs",
+    "Provide financial assistance for infrastructure development and quality assurance",
+    "Strengthen training and capacity building for farmers and technicians",
+    "Facilitate certification for export traceability of wild caught and farmed products",
+    "Encourage adoption of Better Management Practices (BMPs) in aquaculture",
+    "Augment revenue through fee-based data and research support"
+  ],
+  "eligibility": "Eligible beneficiaries include aquaculture farmers, exporters, fisheries cooperatives, and MSMEs engaged in marine products sector. Applicants must be registered with MPEDA or its affiliated societies like NaCSA and RGCA. Priority is given to small-scale and marginal farmers, particularly those adopting cluster-based farming and Better Management Practices (BMPs). Exporters seeking support for value addition, cold storage, or processing infrastructure must demonstrate export potential and compliance with quality standards.",
+  "benefits": "Financial support for infrastructure development, technology upgradation, and value addition units. Technical assistance through training programs, capacity building, and access to Better Management Practices (BMPs). Support for species diversification via RGCA and NaCSA. Assistance in obtaining export facilitation certificates and quality certifications. Access to institutional finance and insurance linkages. Market promotion through participation in international fairs and buyer-seller meets. Subsidized testing and certification services through MPEDA laboratories.",
+  "financial_support": "Financial assistance is provided as a subsidy for eligible components such as cold storage, processing machinery, hatchery development, and farm infrastructure. The support is disbursed through NaCSA and RGCA after verification of project proposals and utilization certificates. The scheme operates on a demand-driven basis with budgetary support allocated annually. Assistance is provided based on the scope of the project, with higher support for value addition and technology adoption initiatives.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component of the scheme (value addition, infrastructure, training, etc.). 2. Prepare a detailed project proposal including objectives, budget, and expected outcomes. 3. Submit the proposal through the respective Regional/Sub-Regional Office of MPEDA or via NaCSA/RGCA for aquaculture-specific interventions. 4. Upload required documents such as registration certificates, project reports, and financial statements. 5. Await technical and financial appraisal by MPEDA officials. 6. Upon approval, receive sanction letter and proceed with implementation. 7. Submit utilization certificates and progress reports for fund release.",
+  "application_portal_url": "https://e-mpeda.nic.in/registration/Reg_login.aspx",
+  "required_documents": [
+    "Registration certificate with MPEDA or affiliated societies (NaCSA/RGCA)",
+    "Project report detailing objectives, methodology, and budget",
+    "Proof of land ownership or lease agreement for farm/infrastructure",
+    "Bank statement or financial solvency certificate",
+    "Quotations for machinery/equipment to be procured",
+    "Environmental and pollution clearance certificates (if applicable)",
+    "Training completion certificates (for capacity building components)",
+    "Utilization certificates and progress reports (for subsequent installments)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to budget availability.",
+  "implementing_agency": "Marine Products Export Development Authority (MPEDA), Ministry of Commerce & Industry, Government of India",
+  "contact_details": "Email: ho[at]mpeda[dot]gov[dot]in | Phone: +91 484 2311901, +91 484 2311854, +91 484 2311803, +91 484 2313415, +91 484 2314468, +91 484 2315065",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the annual budget outlay",
+    "Beneficiaries must maintain proper records and submit utilization certificates for audit",
+    "Support for value addition is prioritized for export-oriented units with proven market linkage",
+    "Training and capacity building support is limited to registered farmers and technicians",
+    "Subsidy claims must be supported by valid invoices and payment proofs"
+  ],
+  "source_cited_notes": [
+    "https://mpeda.gov.in/wp-content/uploads/2025/02/Evaluation_Impact_Assessment_Final_Report_05-Oct-2023.pdf",
+    "https://mpeda.gov.in/",
+    "https://mpeda.gov.in/?page_id=546",
+    "https://mpeda.gov.in/?page_id=526",
+    "https://mpeda.gov.in/?page_id=1000",
+    "https://mpeda.gov.in/?page_id=638",
+    "https://mpeda.gov.in/wp-content/uploads/2026/06/Syllabus_1906.pdf",
+    "https://mpeda.gov.in/wp-content/uploads/2025/03/REVISED_TESTING_FEE_14March2025.pdf",
+    "https://mpeda.gov.in/wp-content/uploads/2026/05/HACCP_training_calendar_2026-27.pdf",
+    "https://mpeda.gov.in/wp-content/uploads/2025/05/Post-Budget-report.pdf"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:00.157646+00:00"
+}

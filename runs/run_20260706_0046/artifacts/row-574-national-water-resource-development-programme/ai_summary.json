@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-574",
+  "scheme_name": "National Water Resource Development Programme",
+  "scheme_url": "https://jalshakti-dowr.gov.in",
+  "ministry_or_category": "Jal Shakti",
+  "overview": "The National Water Resource Development Programme is a comprehensive initiative under the Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti, aimed at enhancing water security through infrastructure development, conservation, and management across river basins. It encompasses activities such as hydropower and irrigation project investigations, flood control, river management, and ground water regulation. The programme supports national water security goals by integrating technical, financial, and community-based interventions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "local communities",
+    "farmers",
+    "NGOs",
+    "research institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance physical access to water for irrigation and expand cultivable area under assured irrigation",
+    "Improve on-farm water use efficiency and introduce sustainable water conservation practices",
+    "Abate pollution and rejuvenate river systems, particularly the Ganga, through integrated conservation missions",
+    "Provide financial assistance for flood control and river management projects to state governments",
+    "Conduct aquifer mapping, rejuvenation, and regulation of ground water extraction",
+    "Promote awareness about optimal water resource development and water conservation through IEC activities",
+    "Manage shared river systems with neighbouring countries for hydrological observations and flood forecasting",
+    "Support investigation and development of water resource projects across river basins for hydropower and irrigation"
+  ],
+  "eligibility": "State governments, union territories, local bodies, NGOs, research institutions, and central agencies involved in water resource development, irrigation, flood control, ground water management, and river basin planning are eligible to participate in the programme based on project proposals and technical feasibility.",
+  "benefits": "Financial assistance for project implementation, technical support for planning and execution, capacity building through training and workshops, improved irrigation efficiency, enhanced ground water sustainability, flood mitigation, pollution abatement in rivers, increased water availability for drinking and agriculture, and promotion of community participation in water conservation initiatives.",
+  "financial_support": "The programme provides financial assistance to state governments for flood management projects based on project categories, with funding patterns determined by spill-over works and committed liabilities. Central assistance is released for ground water exploration, development, augmentation, and management activities. Investment clearance is accorded for major irrigation projects like Polavaram, with central government providing 100% of the remaining cost of the irrigation component from 01.04.2014 onwards.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify project need and prepare detailed project report (DPR) 2. Submit proposal to the concerned wing of the Department of Water Resources (e.g., Flood Management Wing, Ground Water Wing, River Basin Management Wing) 3. Undergo technical appraisal by Central Water Commission or relevant technical body 4. Obtain investment clearance from Planning Commission or Ministry of Water Resources 5. Receive sanction order and release of funds in installments 6. Implement project under monitoring and evaluation framework 7. Submit utilization certificates and completion reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land acquisition documents",
+    "Environmental clearance certificate",
+    "Techno-economic clearance",
+    "Undertaking from state government",
+    "Utilization certificates (for ongoing projects)",
+    "Completion certificate",
+    "Audit reports",
+    "Photographs of work done",
+    "Geo-tagging of assets"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year based on budget availability and project readiness.",
+  "implementing_agency": "Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti",
+  "contact_details": "Email: secy-mowr@nic.in | Phone: 011-23715919 | Address: Room no. - 412, Shram Shakti Bhawan, Rafi Marg, New Delhi – 110001",
+  "caveats": [
+    "Funds are released subject to utilization certificates and progress reports",
+    "Projects must comply with environmental and forest clearance norms",
+    "Land acquisition and rehabilitation & resettlement must be completed before fund release",
+    "Central assistance is contingent on state government sharing costs as per funding pattern",
+    "Schemes may be revised or withdrawn based on policy changes or budget allocations"
+  ],
+  "source_cited_notes": [
+    "https://jalshakti-dowr.gov.in/offerings",
+    "https://jalshakti-dowr.gov.in/static/uploads/2024/05/POLAVARAM-IRRIGATION-PROJECT-ANDHRA-PRADESH.pdf",
+    "https://jalshakti-dowr.gov.in/static/uploads/2024/07/4accc1330391f0c4eb7e5ab2ca94b66c.pdf",
+    "https://jalshakti-dowr.gov.in/connect"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:45:42.849161+00:00"
+}

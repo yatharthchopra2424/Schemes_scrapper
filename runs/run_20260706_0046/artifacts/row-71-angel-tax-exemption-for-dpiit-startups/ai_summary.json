@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-71",
+  "scheme_name": "Angel Tax Exemption for DPIIT Startups",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/government-schemes/angel-tax-exemption.html",
+  "ministry_or_category": "Tax Incentives",
+  "overview": "The Angel Tax Exemption for DPIIT Startups provides income tax exemption under Section 80-IAC of the Income Tax Act for eligible startups recognized by DPIIT. It allows startups to avail a tax holiday for three consecutive financial years out of their first ten years since incorporation. The scheme aims to reduce early-stage financial pressure on startups and encourage investment by exempting profits and gains from taxation.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To reduce the regulatory burden on Startups, thereby allowing them to focus on their core business and keep compliance costs low",
+    "To provide tax incentives to eligible startups for 3 years",
+    "To promote investments into Startups by mobilizing the capital gains arising from sale of capital assets",
+    "To ease early-stage financial pressure on startups through tax holiday benefits"
+  ],
+  "eligibility": "The entity should be a DPIIT recognised startup. Only Private Limited Companies or Limited Liability Partnerships are eligible for tax exemption under Section 80IAC. The startup should have been incorporated after 1st April, 2016. The startup must be engaged in innovation, development, or improvement of products, processes, or services or a scalable business model with high potential for employment generation or wealth creation. The turnover should not exceed INR 200 crore in any financial year since incorporation (INR 300 crore for DeepTech startups). The entity should not have been formed by splitting up or reconstructing an existing business.",
+  "benefits": "DPIIT recognised startups can avail 100% tax exemption on profits and gains for three consecutive financial years out of the first ten years since incorporation. Additional benefits include self-certification under labour and environmental laws, fast-track patent examination with 80% rebate on filing fees, easier public procurement norms, and easy winding up of company under Insolvency and Bankruptcy Code.",
+  "financial_support": "The scheme provides tax exemption on profits and gains from eligible businesses. There is no direct financial disbursement; the benefit is in the form of tax savings on eligible income. The exemption is available for any 3 consecutive tax years within the first 10 years from incorporation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal. 2. Apply for DPIIT recognition via the National Single Window System (NSWS). 3. After obtaining DPIIT recognition, access the Section 80 IAC exemption application form on the Startup India portal. 4. Fill in all required details and upload the necessary documents. 5. Submit the application form for review. 6. Track application status via the dashboard on the Startup India Portal.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Memorandum of Association for Pvt. Ltd. / LLP Deed",
+    "Board Resolution (If Any)",
+    "Annual Accounts of the startup for the last three financial years",
+    "Income Tax returns for the last three financial years"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Tax benefits under 80-IAC require separate Inter-Ministerial Board (IMB) approval",
+    "Startup status expires when turnover exceeds INR 200 Cr (INR 300 Cr for DeepTech) or after 10 years (20 years for DeepTech)",
+    "Only Private Limited Companies or Limited Liability Partnerships are eligible",
+    "The startup must be incorporated after 1st April, 2016"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+    "https://startupindia.gov.in/content/sih/en/startupgov/imb.html",
+    "https://startupindia.gov.in/content/sih/en/about-startup-india-initiative.html",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action%20Plan.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:03:18.913578+00:00"
+}

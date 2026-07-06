@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-182",
+  "scheme_name": "IndiaAI Compute Initiative",
+  "scheme_url": "https://indiaai.gov.in",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The IndiaAI Compute Initiative is a pillar of the IndiaAI Mission focused on building a scalable AI ecosystem with 10,000+ GPUs via public-private partnerships, offering AI services and resources to democratize computing access and support AI innovation across sectors.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "researchers",
+    "enterprises",
+    "academic institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Build a scalable AI ecosystem with 10,000+ GPUs via public-private partnerships",
+    "Offer AI services and resources to democratize computing access",
+    "Support AI innovation and research across sectors",
+    "Enable development of indigenous AI capabilities",
+    "Attract top AI talent and foster industry collaboration",
+    "Ensure socially impactful AI projects and promote ethical AI"
+  ],
+  "eligibility": "Eligibility criteria are not explicitly detailed in the provided evidence for the IndiaAI Compute Initiative.",
+  "benefits": "Benefits include access to scalable AI computing infrastructure (10,000+ GPUs), AI services and resources, support for indigenous AI model development, and facilitation of industry collaboration and innovation in the AI ecosystem.",
+  "financial_support": "Financial support mechanisms are not explicitly detailed in the provided evidence for the IndiaAI Compute Initiative.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Application process details are not explicitly provided in the evidence for the IndiaAI Compute Initiative.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "IndiaAI Mission under the Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://indiaai.gov.in/",
+    "https://indiaai.gov.in/indiaaiportal"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:59:46.854243+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-377",
+  "scheme_name": "Steel Scrap Recycling Policy",
+  "scheme_url": "https://steel.gov.in",
+  "ministry_or_category": "Steel",
+  "overview": "The Steel Scrap Recycling Policy is a government initiative aimed at promoting the recycling of steel scrap to enhance resource efficiency, reduce dependence on raw material imports, and support sustainable steel production in India. It provides a framework for the collection, processing, and utilization of steel scrap in the steelmaking process, encouraging the use of secondary raw materials in electric arc furnaces and induction furnaces. The policy aligns with national goals of circular economy, waste utilization, and decarbonization of the steel sector by reducing carbon emissions associated with primary steel production.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "steel producers",
+    "MSME",
+    "recycling units",
+    "steel scrap processors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the use of steel scrap as a raw material in steelmaking to reduce reliance on virgin iron ore and coking coal",
+    "Enhance resource efficiency and support circular economy in the steel sector",
+    "Reduce carbon footprint and energy consumption in steel production through scrap-based routes",
+    "Develop organized steel scrap collection, segregation, and processing infrastructure",
+    "Encourage technological upgradation in scrap processing and quality improvement",
+    "Support MSMEs and small-scale units engaged in steel scrap recycling",
+    "Ensure availability of quality steel scrap for secondary steel producers",
+    "Integrate scrap recycling into national steel policy goals for self-reliance and sustainability"
+  ],
+  "eligibility": "Eligible beneficiaries include steel producers, MSMEs, recycling units, and scrap processors engaged in the collection, segregation, processing, and supply of steel scrap for use in electric arc furnaces, induction furnaces, and other steelmaking routes, as per guidelines issued by the Ministry of Steel under the Steel Scrap Recycling Policy.",
+  "benefits": "The policy facilitates access to raw material security by promoting domestic steel scrap utilization, reduces production costs and energy consumption in steelmaking, supports compliance with environmental standards through waste utilization, encourages investment in scrap processing infrastructure, and enables participation in government procurement preferences for domestically produced steel with value addition. It also supports the Green Steel Initiative by lowering carbon emissions via scrap-based steel production routes.",
+  "financial_support": "The Steel Scrap Recycling Policy does not provide direct financial subsidies or grants. Instead, it enables indirect financial benefits through cost savings in raw material procurement, energy efficiency in electric arc furnace operations, and eligibility under related schemes such as the Production Linked Incentive (PLI) Scheme for Specialty Steel and DMI&SP policy for government procurement preference. Financial support for related activities may be accessed through the Ministry of Steel’s R&D Scheme or PLI Scheme, which offer grants, incentives, or tax benefits as per their respective guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility under the Steel Scrap Recycling Policy guidelines issued by the Ministry of Steel. 2. Ensure compliance with quality standards and processing norms for steel scrap as per Bureau of Indian Standards (BIS) and Ministry notifications. 3. Register steel scrap processing or recycling units with relevant state pollution control boards and obtain necessary environmental clearances. 4. Maintain records of scrap collection, processing, and supply to steel plants for audit and verification. 5. Apply for recognition or benefits under linked schemes such as PLI, DMI&SP, or R&D Scheme via the respective portals (e.g., https://research.steel.gov.in/Applicant for R&D, https://www.pli.gov.in for PLI). 6. Submit required documents including mill test certificates, consignment details, and process descriptions. 7. Await verification and approval from the Ministry of Steel or designated agencies.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Mill Test Certificate",
+    "Packing list",
+    "Bill of lading",
+    "Bill of entry",
+    "Details of consignment",
+    "Process description of scrap processing",
+    "Environmental clearance certificates",
+    "Registration certificate of recycling unit",
+    "Quality compliance report as per BIS standards"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications and compliance are accepted year-round as per ongoing policy implementation.",
+  "implementing_agency": "Ministry of Steel, Government of India",
+  "contact_details": "Email: g.sarathyraja@gov.in | Tele No.: 23061064 (Shri G. Sarathy Raja, Deputy Secretary, Technical Division)",
+  "caveats": [
+    "The policy does not provide direct financial assistance; benefits are indirect through cost savings and scheme linkages",
+    "Eligibility for linked schemes (e.g., PLI, R&D) depends on separate approval and compliance with their specific guidelines",
+    "Steel scrap must meet quality standards as per Bureau of Indian Standards (BIS) and Ministry notifications",
+    "Policy implementation is subject to periodic review and updates by the Ministry of Steel",
+    "Benefits under government procurement (DMI&SP) require minimum 15%-50% value addition and applicability to procurements of INR 25 Crores or more"
+  ],
+  "source_cited_notes": [
+    "https://steel.gov.in/steel-scrap-recycling-policy",
+    "https://steel.gov.in/sites/default/files/2025-12/Citizens-Charter-2025.pdf",
+    "https://steel.gov.in/research-development-scheme-of-ministry-of-steel",
+    "https://steel.gov.in/pli",
+    "https://steel.gov.in/policy-providing-preference-domestically"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:01:10.532467+00:00"
+}

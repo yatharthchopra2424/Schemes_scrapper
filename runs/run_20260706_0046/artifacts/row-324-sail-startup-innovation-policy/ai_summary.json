@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-324",
+  "scheme_name": "SAIL Startup & Innovation Policy",
+  "scheme_url": "https://www.sail.co.in",
+  "ministry_or_category": "PSU Support",
+  "overview": "The SAIL Startup & Innovation Policy is a PSU Support scheme by Steel Authority of India Limited (SAIL) aimed at fostering innovation and supporting startups. The scheme provides a platform for startups to collaborate with SAIL on technological solutions, pilot projects, and innovation challenges. It focuses on areas such as steel manufacturing, sustainability, digital transformation, and operational efficiency. Selected startups may receive mentorship, access to SAIL's infrastructure, and opportunities for proof-of-concept trials.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To identify and nurture innovative startups working in areas relevant to SAIL's operations",
+    "To provide startups with access to SAIL's plants, infrastructure, and technical expertise for pilot projects",
+    "To foster collaboration between SAIL and startups for developing sustainable and technologically advanced solutions",
+    "To support innovation in steel manufacturing, digitalization, energy efficiency, and environmental sustainability",
+    "To create a structured pathway for startups to scale their solutions through potential integration into SAIL's value chain"
+  ],
+  "eligibility": "Startups registered in India with a valid DPIIT recognition certificate, working on innovative products, services, or technologies in domains such as steel processing, automation, AI/IoT, sustainability, waste management, or related industrial applications. The startup must have a prototype or minimum viable product (MVP) ready for pilot testing.",
+  "benefits": "Selected startups gain access to SAIL's manufacturing units for pilot testing, technical mentorship from SAIL experts, opportunities to present solutions to SAIL's leadership, potential for long-term collaboration or integration into SAIL's operations, and visibility through SAIL's innovation network. Financial support may be considered on a case-by-case basis for proof-of-concept validation.",
+  "financial_support": "Financial support, if provided, is determined on a case-by-case basis for proof-of-concept validation and pilot projects. The quantum, type, and mechanism of support are not standardized and depend on the nature of the collaboration and mutual agreement between SAIL and the startup.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the SAIL official website and navigate to the Startup & Innovation Policy section. 2. Review the eligibility criteria and focus areas. 3. Prepare a detailed proposal including startup profile, problem statement, solution description, stage of development, and expected outcomes. 4. Submit the application via the designated portal or email address provided on the SAIL website. 5. Applications are reviewed by SAIL's innovation committee. 6. Shortlisted startups are invited for presentations or discussions. 7. Final selection is made based on innovation, feasibility, and alignment with SAIL's objectives. 8. Selected startups are notified and guided through the next steps for collaboration.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "DPIIT Startup Recognition Certificate",
+    "PAN of the entity",
+    "Audited financial statements (if available)",
+    "Detailed project proposal or pitch deck",
+    "Proof of concept or prototype details",
+    "Team details and resumes of key founders",
+    "Any existing partnerships or pilot project reports"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Steel Authority of India Limited (SAIL)",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is not guaranteed and is subject to mutual agreement and availability of funds",
+    "Intellectual property rights must be clearly defined in any collaboration agreement",
+    "SAIL reserves the right to discontinue engagement if milestones are not met",
+    "The scheme does not provide equity funding or debt financing as a standard offering"
+  ],
+  "source_cited_notes": [
+    "https://www.sail.co.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:24:43.048672+00:00"
+}

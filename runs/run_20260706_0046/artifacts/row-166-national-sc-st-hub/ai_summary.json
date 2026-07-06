@@ -1,0 +1,73 @@
+{
+  "scheme_id": "row-166",
+  "scheme_name": "National SC/ST Hub",
+  "scheme_url": "https://scsthub.in",
+  "ministry_or_category": "MSME",
+  "overview": "The National SC/ST Hub (NSSH) is a central sector scheme launched by the Ministry of MSME, Government of India in October 2016, aimed at enhancing the capacity of SC/ST entrepreneurs and promoting an 'entrepreneurship culture' among the SC/ST population. It empowers SC/ST entrepreneurs to participate in public procurement and fulfill the mandated target of 4% procurement from SC/ST enterprises under the Public Procurement Policy. The scheme is implemented by the National Small Industries Corporation (NSIC) and includes various sub-schemes such as Special Credit Linked Capital Subsidy Scheme (SCLCSS), Capacity Building Training Programs, Special Marketing Assistance Scheme (SMAS), and multiple reimbursement schemes for bank loan processing, testing fees, export promotion council membership, and more.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "SC/ST",
+    "MSME",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Capacity enhancement of SC/ST entrepreneurs",
+    "Promoting 'entrepreneurship culture' amongst the SC/ST population",
+    "Empowering SC/ST population to participate in the public procurement process",
+    "Fulfilling the mandated target of 4% procurement from SC/ST enterprises under Public Procurement Policy",
+    "Facilitating credit linkages for SC/ST entrepreneurs",
+    "Providing handholding and mentoring support",
+    "Sharing of SC/ST MSEs data with CPSEs to enhance procurement from SC/ST entrepreneurs",
+    "Undertaking outreach activities for the promotion of the scheme among SC/ST population"
+  ],
+  "eligibility": "Sole Proprietorships, Partnerships, Co-operative societies, Private and Public limited companies owned by SC/ST Entrepreneurs of MSE sector engaged in the manufacturing and service activities are eligible for seeking assistance. It is mandatory to have a valid Udyam Registration for availing the subsidy under SCLCSS. For capacity building training programs, candidates belonging to SC/ST community and above 18 years of age on the date of commencement of training are eligible. For reimbursement schemes, SC/ST MSEs must have availed the relevant service (e.g., bank loan processing fee, testing fee, etc.) and submit required documents including Udyam Registration, PAN card, caste certificate, and proof of payment.",
+  "benefits": "Benefits include reimbursement of bank loan processing charges (80% or up to Rs. 1,00,000, whichever is less), reimbursement of bank guarantee charges (80% or up to Rs. 1,00,000, whichever is less), reimbursement of testing fees (80% or up to Rs. 1,00,000, whichever is lower), reimbursement of export promotion council membership fees (80% or up to Rs. 20,000, whichever is less), reimbursement of course fees from top 50 NIRF-rated management institutions (90% or up to Rs. 1,00,000, whichever is lower), reimbursement of membership fees in government promoted e-commerce portals (80% or up to Rs. 25,000, whichever is less), reimbursement under Single Point Registration Scheme (100% subsidy with nominal fee of Rs. 100), capacity building training programs, special marketing assistance for domestic and international exhibitions, vendor development programs, and workshops/seminars/awareness campaigns with specified financial limits.",
+  "financial_support": "Financial support is provided through various reimbursement schemes and subsidies. Under SCLCSS, a 25% subsidy is provided for procurement of plant and machinery/equipment through institutional credit, with an overall ceiling of Rs. 25 lakhs. Reimbursement schemes offer 80% or up to specified limits (e.g., Rs. 1,00,000 for bank loan processing, testing fees, bank guarantee charges; Rs. 20,000 for export promotion council membership; Rs. 25,000 for e-commerce portal membership; 90% or up to Rs. 1,00,000 for training course fees). Funds are released through the PFMS portal to the beneficiary's bank account after submission of claims and required documentation.",
+  "fund_size_crores": "438",
+  "grant_amount_per_entity": "Rs. 25 Lakh",
+  "application_process": "1. Identify the relevant sub-scheme (e.g., SCLCSS, reimbursement schemes, capacity building). 2. Ensure eligibility (SC/ST ownership, Udyam Registration, etc.). 3. Gather required documents (Udyam Registration, PAN card, caste certificate, proof of payment, bank statements, etc.). 4. Submit application either online via the NSSH website or through the concerned nodal agency (e.g., bank for SCLCSS, NSIC/NSSH office for reimbursements). 5. For reimbursement schemes, submit claim with supporting documents to the implementing agency (NSIC/NSSH) through PFMS. 6. Await verification and disbursement of funds to the beneficiary's bank account.",
+  "application_portal_url": "https://scsthub.in",
+  "required_documents": [
+    "Self-certified copy of Udyam Registration (UR) & GST (if applicable)",
+    "Self-certified copy of PAN card (for proprietorship, PAN card of SC/ST proprietor)",
+    "Copy of Caste Certificate of proprietor/all partners/directors",
+    "Details of shareholding (for partnership/Pvt. Ltd/LLP to ascertain SC/ST status >51%)",
+    "Copy of Partnership Deed for Partnership Firm / Memorandum and Article of Association (for LLP/Private Limited Company)",
+    "Bank attested debit statement with fee charges mentioning transaction details",
+    "Proof of payment (original receipt, GST invoice, etc.)",
+    "Business loan availment/disbursement certificate or bank statement",
+    "Bank attested copy of loan sanction letter",
+    "Cancelled cheque of the current account",
+    "Proof of transferred amount as reimbursement by NSSHO/NSIC through PFMS (if previously availed)",
+    "Attested copy of valid Registration Cum Membership Certificate (RCMC) for export promotion council",
+    "Attested copy of membership/registration certificate from e-commerce portal",
+    "Test report duly attested for testing fee reimbursement",
+    "Enrollment number, certificate of successful completion, fee receipt for training programs",
+    "Application form duly filled and signed"
+  ],
+  "deadlines": "Rolling basis — claims can be submitted throughout the year; for SCLCSS, timeline for acceptance is one year from the reference date (date of release/disbursement of last installment of term loan).",
+  "implementing_agency": "National Small Industries Corporation (NSIC), a public-sector undertaking under the administrative control of the Ministry of MSME",
+  "contact_details": "Phone No: 011-26926275 (Extn. 259, 533) | Toll Free Number: 1800-11-1954 | Email ID: nsshsupport@nsic.co.in",
+  "caveats": [
+    "Units availing subsidy under SCLCSS shall not be allowed to avail any other subsidy for procurement of the same plant & machinery and equipment from any other scheme of Central/State Government and vice-versa",
+    "Financial assistance will not be admissible for candidates with less than 75% attendance in capacity building training programs",
+    "The SC/ST entrepreneur and their ward will be eligible for a maximum of 2 courses in total in a financial year under the training fee reimbursement scheme",
+    "Clubbing these components with any other scheme is not permitted; any SC-ST MSE availing reimbursement under all the above-mentioned components cannot avail reimbursement from any other government or private agency",
+    "Industries covered under the RED category as per Classification of industries for consent management are not eligible for subsidy under SCLCSS",
+    "Fabricated and second-hand plant and machinery shall not be eligible for consideration for subsidy under SCLCSS"
+  ],
+  "source_cited_notes": [
+    "https://scsthub.in/",
+    "https://scsthub.in/content/special-credit-linked-capital-subsidy-scheme",
+    "https://scsthub.in/sites/default/files/NSSH-Guidelines.pdf",
+    "https://scsthub.in/sites/default/files/schemes/NSSH_Guidelines_Sub_scheme__0.pdf",
+    "https://scsthub.in/sites/default/files/NSSH-Achievement-Report-FY_2023-24_Final.pdf",
+    "https://scsthub.in/sites/default/files/training/Expression_of_Interest_for_Capacity_Building_Training_Program_2025-26_0.pdf",
+    "https://scsthub.in/sites/default/files/training/Contact%20details%20of%20NSSHOs%20May%202026.pdf",
+    "https://scsthub.in/support"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:56:09.187936+00:00"
+}

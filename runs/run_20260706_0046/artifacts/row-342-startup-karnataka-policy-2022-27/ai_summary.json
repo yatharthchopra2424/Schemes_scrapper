@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-342",
+  "scheme_name": "Startup Karnataka Policy 2022-27",
+  "scheme_url": "https://startup.karnataka.gov.in",
+  "ministry_or_category": "State Level (Karnataka)",
+  "overview": "Startup Karnataka Policy 2022-27 is a state-level initiative by the Government of Karnataka to foster a vibrant startup ecosystem by providing financial support, infrastructure, mentorship, and regulatory facilitation to startups across various sectors. The policy aims to position Karnataka as a global innovation hub by supporting early-stage and growth-stage startups through grants, incubation, and access to funding networks.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "SC/ST entrepreneurs",
+    "differently abled entrepreneurs",
+    "rural startups",
+    "agri-startups"
+  ],
+  "geographic_scope": "Karnataka only",
+  "objectives": [
+    "To promote innovation and entrepreneurship across all sectors in Karnataka",
+    "To provide financial assistance and infrastructure support to startups",
+    "To encourage participation of underrepresented groups including women, SC/ST, and differently abled entrepreneurs",
+    "To strengthen incubation and mentorship networks across the state",
+    "To facilitate market access and industry linkages for startups",
+    "To create a conducive regulatory environment for startup growth",
+    "To establish Karnataka as a preferred destination for domestic and global investment in startups"
+  ],
+  "eligibility": "Startups incorporated in Karnataka as a Private Limited Company, LLP, or Partnership Firm under the Companies Act, 2013 or LLP Act, 2008, with operations primarily in Karnataka, working on innovative products, services, or processes, and recognized by the Department for Promotion of Industry and Internal Trade (DPIIT) or recommended by a recognized incubator in Karnataka.",
+  "benefits": "Financial support in the form of grants, seed funding, and reimbursement of costs for patent filing, ISO certification, and participation in national/international events; access to incubation centers, mentorship, networking events, and investor connect programs; facilitation in obtaining regulatory approvals and clearances; priority in government procurement; and support for international market expansion through trade shows and delegations.",
+  "financial_support": "The policy provides financial assistance through various mechanisms including grants up to INR 50 lakhs for product development, reimbursement of up to INR 2 lakhs for patent filing, INR 1 lakh for ISO certification, and INR 1 lakh for participation in national/international events. Seed funding is also provided through the Karnataka Startup Seed Fund (KSSF) managed by KATS, with investments up to INR 50 lakhs per startup.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "Up to INR 50 lakhs per startup for product development and innovation support",
+  "application_process": "1. Register on the Startup Karnataka portal (startup.karnataka.gov.in) 2. Create a profile and provide details about the startup 3. Apply for specific schemes under the policy such as innovation grant, patent reimbursement, or seed fund 4. Upload required documents including incorporation certificate, DPIIT recognition, project report, and bank details 5. Submit the application for review by the Karnataka Innovation and Technology Society (KATS) 6. Await evaluation and approval, post which funds are disbursed in stages based on milestones",
+  "application_portal_url": "https://startup.karnataka.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "DPIIT recognition certificate or incubator recommendation letter",
+    "Project report or business plan",
+    "Bank account details of the startup",
+    "Quotations or invoices for expenses claimed (if applicable)",
+    "Pitch deck or prototype details"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds",
+  "implementing_agency": "Karnataka Innovation and Technology Society (KATS), under the Department of Electronics, IT, BT and S&T, Government of Karnataka",
+  "contact_details": "Email: katssupport@karnataka.gov.in | Phone: 080-2235 3355",
+  "caveats": [
+    "Financial support is subject to availability of funds under the policy",
+    "Startups must maintain primary operations in Karnataka to avail benefits",
+    "Funds disbursed under grants must be utilized for the approved purpose only",
+    "Benefits under the policy are subject to audit and may be recovered if misused",
+    "Startups receiving support must submit periodic progress reports and utilization certificates"
+  ],
+  "source_cited_notes": [
+    "https://startup.karnataka.gov.in"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:34:18.475583+00:00"
+}

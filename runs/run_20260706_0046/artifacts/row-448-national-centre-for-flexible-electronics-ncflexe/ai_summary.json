@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-448",
+  "scheme_name": "National Centre for Flexible Electronics (NCFlexE)",
+  "scheme_url": "https://ncflexe.iitk.ac.in",
+  "ministry_or_category": "Electronics Manufacturing",
+  "overview": "The National Centre for Flexible Electronics (NCFlexE) is a specialized research and development centre established at IIT Kanpur to advance flexible electronics technology in India. It focuses on innovation, prototyping, and commercialization of flexible electronic systems, supporting startups, MSMEs, and academic researchers in the electronics manufacturing sector. The centre provides infrastructure, technical expertise, and collaborative platforms to foster indigenous development and reduce import dependence in flexible electronics.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic researchers",
+    "electronics manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop indigenous capabilities in flexible electronics design and manufacturing",
+    "Provide prototyping and testing facilities for flexible electronic devices",
+    "Support technology transfer and commercialization of research outcomes",
+    "Foster collaboration between academia, industry, and startups",
+    "Skill development and training in flexible electronics technologies",
+    "Reduce import dependence through domestic innovation and production"
+  ],
+  "eligibility": "Startups, MSMEs, academic institutions, and research organizations working in the field of flexible electronics, wearable technology, bendable sensors, and related domains are eligible to collaborate with NCFlexE. Entities must demonstrate innovative potential and alignment with the centre’s technological focus areas.",
+  "benefits": "Access to state-of-the-art flexible electronics fabrication and characterization facilities, technical mentorship from IIT Kanpur experts, collaborative R&D opportunities, prototyping support, testing and validation services, training programs, and assistance in scaling lab-scale innovations to pilot production.",
+  "financial_support": "NCFlexE provides subsidized access to its infrastructure and facilities on a cost-recovery basis. Financial support is primarily in the form of reduced user charges for equipment and lab usage, with potential for joint funding in collaborative projects. Specific grant or loan amounts are not detailed in the available evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify collaboration opportunity aligned with NCFlexE’s focus areas. 2. Submit a collaboration proposal detailing objectives, expected outcomes, and resource requirements. 3. Proposal reviewed by NCFlexE technical committee. 4. Upon approval, sign MoU or collaboration agreement. 5. Commence joint work with access to facilities and technical support as per agreement.",
+  "application_portal_url": "https://ncflexe.iitk.ac.in",
+  "required_documents": [
+    "Collaboration proposal document",
+    "Certificate of Incorporation / Registration (for startups/MSMEs)",
+    "PAN and GST details of the entity",
+    "Technical profile and past work in flexible electronics",
+    "Clearance from institutional authority (for academic applicants)"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year subject to availability of resources and alignment with centre’s priorities.",
+  "implementing_agency": "Indian Institute of Technology Kanpur (IIT Kanpur)",
+  "contact_details": "Email: info@ncflexe.iitk.ac.in | Phone: +91-512-259-XXXX (as per website contact section)",
+  "caveats": [
+    "Facility access is subject to availability and prior scheduling",
+    "Collaboration requires alignment with NCFlexE’s research roadmap",
+    "Intellectual property terms are governed by mutual agreement",
+    "No guaranteed financial grant; support is primarily infrastructural and technical"
+  ],
+  "source_cited_notes": [
+    "https://ncflexe.iitk.ac.in — Main website, providing overview, objectives, facilities, and contact details"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:31:34.587512+00:00"
+}

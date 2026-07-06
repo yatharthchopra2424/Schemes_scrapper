@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-878",
+  "scheme_name": "PM Garib Kalyan Rozgar Abhiyan",
+  "scheme_url": "https://rural.nic.in/pgkra",
+  "ministry_or_category": "Social Welfare",
+  "overview": "PM Garib Kalyan Rozgar Abhiyan (PMGKRA) is a rural public works scheme launched to provide employment and livelihood opportunities to migrant workers and rural citizens affected by the COVID-19 pandemic. It focuses on creating durable rural infrastructure through 25 types of works across sectors like water conservation, plantation, and rural housing. The scheme was implemented in a mission mode for 125 days across 116 districts in six states.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "migrant workers",
+    "rural citizens",
+    "returning migrants"
+  ],
+  "geographic_scope": "116 districts across six states (Bihar, Jharkhand, Madhya Pradesh, Odisha, Rajasthan, Uttar Pradesh)",
+  "objectives": [
+    "Provide immediate employment opportunities to migrant workers and rural citizens",
+    "Create durable rural infrastructure and assets",
+    "Enhance livelihood security through wage employment",
+    "Strengthen rural economic activities via public works",
+    "Support inclusive development in identified districts",
+    "Facilitate skill development through on-the-job training"
+  ],
+  "eligibility": "The scheme targeted returning migrant workers and rural citizens in the identified 116 districts across six states who were in need of wage employment opportunities during the post-lockdown period.",
+  "benefits": "Wage employment under the scheme, creation of durable rural assets such as water conservation structures, plantation, rural housing, and rural connectivity works, skill development through engagement in various works, and livelihood support for vulnerable households.",
+  "financial_support": "The scheme provided wage employment at prevailing MGNREGA rates. Financial support was channeled through the convergence of various central and state schemes, with funds released to states for implementation of the 25 types of works. The total financial outlay was INR 50,000 crore.",
+  "fund_size_crores": "50000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible beneficiaries (returning migrant workers and rural citizens) in the 116 identified districts. 2. Verify eligibility through local authorities and Gram Panchayats. 3. Allocate work under the 25 permissible categories based on local needs and infrastructure gaps. 4. Deploy workers to worksites with adherence to social distancing and safety norms. 5. Monitor work progress and ensure timely wage payment through Direct Benefit Transfer (DBT). 6. Conduct periodic reviews and asset verification.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Aadhaar card",
+    "Job card (if applicable under MGNREGA)",
+    "Bank account details for DBT",
+    "Proof of residence in the identified district",
+    "Returning migrant worker certification (if applicable)"
+  ],
+  "deadlines": "The scheme was implemented for a fixed duration of 125 days from launch, after which it concluded.",
+  "implementing_agency": "Department of Rural Development, Ministry of Rural Development",
+  "contact_details": "",
+  "caveats": [
+    "Limited to 116 identified districts in six states",
+    "Implemented for a fixed duration of 125 days",
+    "Focused on returning migrant workers and rural citizens in specific districts",
+    "Convergence-based implementation relying on existing scheme funds"
+  ],
+  "source_cited_notes": [
+    "https://rural.nic.in/pgkra"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:37:21.462895+00:00"
+}

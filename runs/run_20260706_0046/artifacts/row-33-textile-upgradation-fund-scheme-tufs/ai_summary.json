@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-33",
+  "scheme_name": "Textile Upgradation Fund Scheme (TUFS)",
+  "scheme_url": "https://tufs.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Textile Upgradation Fund Scheme (TUFS) is a Government of India initiative launched in 1999 to facilitate technological upgradation of the textile industry by providing financial assistance for modernization and expansion of textile units. It aims to enhance productivity, quality, and competitiveness of the Indian textile sector through capital investment in machinery and equipment. The scheme supports both new and existing units across various segments of the textile value chain, including spinning, weaving, processing, and garmenting.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "textile units",
+    "existing textile units",
+    "new textile units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To facilitate technological upgradation of the textile industry",
+    "To enhance productivity, quality, and competitiveness of textile units",
+    "To promote investment in modernization and expansion of textile machinery",
+    "To support the textile value chain from fibre to garment",
+    "To reduce energy consumption and improve environmental performance",
+    "To encourage adoption of state-of-the-art technology in textile processing"
+  ],
+  "eligibility": "Existing and new textile units engaged in activities such as spinning, weaving, processing, knitting, garmenting, made-ups, technical textiles, and jute are eligible for assistance under TUFS. The unit must be registered as a proprietorship, partnership, private limited company, public limited company, cooperative society, or any other legal entity engaged in textile manufacturing. The machinery proposed for upgradation must be new and indigenous or imported, and must not have been used previously.",
+  "benefits": "Financial assistance in the form of interest reimbursement or capital subsidy on eligible machinery for technological upgradation. The scheme provides reimbursement of interest paid on term loans availed from banks/financial institutions for procurement of eligible machinery. Additionally, capital subsidy is available for specific segments like processing, weaving, and garmenting under modified versions of the scheme. Non-financial benefits include improved productivity, product quality, energy efficiency, and market competitiveness.",
+  "financial_support": "Under TUFS, eligible textile units can avail interest reimbursement of up to 5% on term loans for a period of 5 to 7 years, depending on the segment and type of machinery. For certain high-priority segments like processing, weaving, and garmenting, a capital subsidy of up to 10% (with a ceiling of INR 30 lakhs) is provided under the Modified TUFS. The financial support is disbursed through nodal agencies after verification of loan documents and installation of machinery. The loan must be availed from scheduled commercial banks or financial institutions approved by the Ministry of Textiles.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible machinery for upgradation and obtain quotations from suppliers. 2. Apply for a term loan from a scheduled commercial bank or financial institution for the procurement of machinery. 3. Submit the loan sanction letter and machinery details to the nodal agency (Office of the Textile Commissioner) for registration under TUFS. 4. Install the machinery and submit installation certificate along with invoices and bank statements. 5. Submit quarterly interest payment certificates to claim interest reimbursement. 6. The nodal agency verifies the documents and disburses the interest reimbursement or capital subsidy as applicable.",
+  "application_portal_url": "https://tufs.nic.in",
+  "required_documents": [
+    "Loan sanction letter from bank/financial institution",
+    "Certificate of Incorporation/Registration of the unit",
+    "Machinery quotations and proforma invoices",
+    "Installation certificate of machinery",
+    "Machinery invoices and payment proof",
+    "Bank statements showing loan disbursement and interest payments",
+    "Quarterly interest payment certificates",
+    "Undertaking regarding newness of machinery",
+    "Details of existing and proposed machinery"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Office of the Textile Commissioner, Ministry of Textiles, Government of India",
+  "contact_details": "Email: tufsoffice@texmin.nic.in | Helpline: 022-22016382",
+  "caveats": [
+    "Only new machinery (indigenous or imported) is eligible; second-hand or used machinery is not covered",
+    "The scheme is subject to availability of funds and may be discontinued or modified without prior notice",
+    "Interest reimbursement is capped at 5% per annum and limited to the loan tenure or 5-7 years, whichever is less",
+    "Capital subsidy under Modified TUFS is available only for specific segments like processing, weaving, and garmenting",
+    "Benefits are disbursed only after successful installation and verification of machinery"
+  ],
+  "source_cited_notes": [
+    "https://tufs.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:35:00.124143+00:00"
+}

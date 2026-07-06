@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-128",
+  "scheme_name": "Emergency Credit Line Guarantee Scheme (ECLGS)",
+  "scheme_url": "https://www.ncgtc.in/eclgs",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "The Emergency Credit Line Guarantee Scheme (ECLGS) is a Government of India initiative launched to provide liquidity support to businesses adversely impacted by the COVID-19 pandemic and other crises such as the West Asia conflict. It offers 100% guarantee coverage to Banks and NBFCs on credit extended to Business Enterprises/MSMEs based on their loan outstanding as of February 29, 2020, subject to defined criteria, to meet additional term loan or working capital requirements. The scheme has evolved through multiple versions, with ECLGS 5.0 launched in May 2026 as a targeted response to the West Asia crisis. It is administered by the National Credit Guarantee Trustee Company Ltd (NCGTC), a wholly owned entity of the Department of Financial Services, Ministry of Finance.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME",
+    "Business Enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide liquidity support to businesses adversely impacted by lockdown due to COVID-19 pandemic",
+    "Enable Banks & NBFCs to extend collateral-free loans to Business Enterprises/MSMEs",
+    "Meet additional term loan or additional working capital requirements of eligible borrowers",
+    "Support borrowers by encouraging MLIs to provide additional working capital term loans for business continuity and stability",
+    "Address exceptional circumstances caused by the West Asia crisis through ECLGS 5.0"
+  ],
+  "eligibility": "The scheme provides 100% guarantee coverage to Banks & NBFCs on credit extended to Business Enterprises/MSMEs on their loan outstanding as on February 29, 2020, subject to defined criteria. Eligible borrowers include Business Enterprises and MSMEs seeking additional term loan or working capital support. Member Lending Institutions (MLIs) must register with NCGTC by submitting an undertaking on stamp paper and a board resolution to avail guarantee cover under the scheme.",
+  "benefits": "100% guarantee coverage on eligible loans extended by Member Lending Institutions (MLIs) to eligible borrowers; collateral-free lending facilitated for businesses; support for business continuity and stability during periods of distress; access to working capital and term loans without requiring additional collateral; backstop for lenders to extend credit to stressed sectors with reduced risk perception.",
+  "financial_support": "The scheme provides 100% guarantee coverage to Banks and NBFCs on credit extended to eligible borrowers (Business Enterprises/MSMEs) based on their loan outstanding as of February 29, 2020. The guarantee covers additional term loans or working capital loans extended by MLIs to meet liquidity needs arising from pandemic-induced distress or other crises like the West Asia situation. The financial support is channeled through banks and NBFCs, with NCGTC bearing the default risk up to the guaranteed amount.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Eligible Lending Institutions (ELIs) must register with NCGTC as a Member Lending Institution (MLI) by submitting a signed and stamped undertaking on stamp paper of requisite value (to be stamped as an Agreement under the local Stamp Act) along with a copy of Board Resolution. 2. Submit the undertaking and documents to the Registered Office of NCGTC in Mumbai. 3. Upon successful registration, login credentials are created for the MLI on the NCGTC portal. 4. The MLI can then apply for guarantee cover on loans extended by it to eligible borrowers through the NCGTC portal. 5. After disbursement of the loan to the borrower, the MLI must submit a claim for guarantee cover to NCGTC. 6. Guarantee fee is payable by the MLI to the Trust by the 7th day of each month for the outstanding loan amount on the closing day of the previous month.",
+  "application_portal_url": "https://www.ncgtc.in/",
+  "required_documents": [
+    "Signed and stamped undertaking on stamp paper of requisite value",
+    "Copy of Board Resolution",
+    "Loan agreement with borrower",
+    "Documents evidencing loan outstanding as of February 29, 2020",
+    "Proof of borrower eligibility (Business Enterprise/MSME status)"
+  ],
+  "deadlines": "ECLGS 5.0 was launched in May 2026; specific end date not mentioned in evidence. Earlier versions had end dates (e.g., ECLGS 1.0-4.0 loans to be sanctioned by 30.09.2021 and disbursed by 31.12.2021). Current operational status should be verified via official channels.",
+  "implementing_agency": "National Credit Guarantee Trustee Company Ltd (NCGTC)",
+  "contact_details": "Email: Not explicitly stated in evidence; Helpline: Not explicitly stated in evidence; Registered Office: 1410, 14th floor, Parinee Crescenzo, Plot No. C-38 & C-39, G-Block, Bandra Kurla Complex (BKC), Bandra East, Mumbai, Maharashtra – 400051",
+  "caveats": [
+    "Guarantee coverage is subject to defined criteria and loan outstanding as of February 29, 2020",
+    "Scheme is administered through Member Lending Institutions (MLIs); direct borrower application is not permitted",
+    "Guarantee fee must be paid monthly by MLIs to NCGTC Trust",
+    "Loans must be extended for additional term loan or working capital purposes only",
+    "ECLGS versions have varying end dates; e.g., ECLGS 1.0-4.0 had sanction deadline of 30.09.2021"
+  ],
+  "source_cited_notes": [
+    "https://ncgtc.in/en",
+    "https://ncgtc.in/en/Background",
+    "https://ncgtc.in/en/product-details/CGSNPF/Credit-Guarantee-Scheme-for-e-NWR-based-Pledge-Financing(CGS-NPF)",
+    "https://ncgtc.in/en/Circulars"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:27:35.410785+00:00"
+}

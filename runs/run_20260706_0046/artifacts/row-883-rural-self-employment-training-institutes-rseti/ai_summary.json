@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-883",
+  "scheme_name": "Rural Self Employment Training Institutes (RSETI)",
+  "scheme_url": "https://www.rseti.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "Rural Self Employment Training Institutes (RSETI) is an initiative of the Ministry of Rural Development (MoRD) to provide dedicated infrastructure in each district for training and skill upgradation of rural youth geared towards entrepreneurship development. RSETIs are managed by banks with active cooperation from the Government of India and State Governments. The program targets unemployed youth aged 18 to 45 years, offering free residential training with free food and accommodation, along with hand-holding support for credit linkage and enterprise sustainability for at least two years.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "rural youth",
+    "unemployed youth",
+    "BPL youth",
+    "women",
+    "men"
+  ],
+  "geographic_scope": "Pan-India (each district)",
+  "objectives": [
+    "Identify and train rural BPL youth for self-employment",
+    "Provide demand-driven training based on candidate aptitude",
+    "Offer intensive short-term residential self-employment training programmes",
+    "Provide hand-holding support for assured credit linkage with banks",
+    "Offer escort services for at least two years to ensure sustainability of micro enterprises",
+    "Impart training in various courses tailored to individual interests",
+    "Enable trainees to earn income through self-employment ventures"
+  ],
+  "eligibility": "Unemployed youth aged 18 to 45 years from rural areas, including both men and women, with priority given to BPL (Below Poverty Line) youth. Training is provided based on individual aptitude and interest in various self-employment courses.",
+  "benefits": "Free training, free food, free accommodation, free tool kits, free uniforms, hand-holding support for bank credit linkage, escort services for at least two years to ensure enterprise sustainability, practical and theory-based training, industrial visits, activity-based EDP training, personalized teaching, and performance monitoring.",
+  "financial_support": "While the training itself is free, RSETIs facilitate credit linkage with banks for trainees to establish micro enterprises. The program does not provide direct grants or subsidies but supports access to bank loans through assured credit linkage and hand-holding support during the initial phase of enterprise setup.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the RSETI website or contact the nearest RSETI institute. 2. Provide personal details through the online application or contact form. 3. A representative from the institute will contact the applicant via phone to provide further information. 4. Attend selection and counselling based on aptitude and interest. 5. Enroll in the chosen training course. 6. Complete the residential training programme with free food and accommodation. 7. Receive post-training support for credit linkage and enterprise setup.",
+  "application_portal_url": "https://rseti.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Ministry of Rural Development (MoRD)",
+  "contact_details": "Phone: 8500 8550 63, 83338 14433 | Email: contact@rseti.in, rsetiapts@gmail.com",
+  "caveats": [
+    "Training is offered only at the district level — candidates must apply to the RSETI in their respective district",
+    "Course offerings vary by location and are based on local demand and infrastructure",
+    "Selection is based on aptitude assessment and interest alignment with available courses"
+  ],
+  "source_cited_notes": [
+    "https://rseti.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:40:35.113711+00:00"
+}

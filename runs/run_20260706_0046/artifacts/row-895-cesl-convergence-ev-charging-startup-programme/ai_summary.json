@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-895",
+  "scheme_name": "CESL Convergence EV Charging Startup Programme",
+  "scheme_url": "https://cesl.co.in",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "The CESL Convergence EV Charging Startup Programme is an initiative by Convergence Energy Services Limited (CESL) to support startups in the electric vehicle (EV) charging ecosystem. It aims to foster innovation, provide technical and business mentorship, and facilitate market access for early-stage ventures working on EV charging solutions, including hardware, software, and service models. The programme focuses on accelerating the deployment of EV charging infrastructure across India by nurturing startups that can contribute to scalable, interoperable, and user-friendly charging networks.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support startups developing innovative EV charging technologies and business models",
+    "Provide mentorship and technical guidance to early-stage ventures in the EV mobility space",
+    "Facilitate pilot projects and real-world testing of charging solutions",
+    "Enable market access and industry connections for participating startups",
+    "Promote standardization and interoperability in EV charging infrastructure",
+    "Contribute to national goals of electric mobility adoption and reduced carbon emissions"
+  ],
+  "eligibility": "Startups incorporated in India working on EV charging solutions, including hardware, software, network management, payment systems, or related services. Preference is given to early-stage startups with a working prototype or minimum viable product (MVP).",
+  "benefits": "Access to CESL’s network and pilot opportunities, technical mentorship from industry experts, guidance on business model validation, support in securing funding and partnerships, exposure to potential clients and stakeholders in the EV ecosystem, and assistance with regulatory compliance and standards alignment.",
+  "financial_support": "The programme does not provide direct financial grants or funding. Support is primarily non-financial, focusing on incubation, mentorship, and facilitation of pilots and collaborations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the CESL website or designated programme portal. 2. Review the programme details and eligibility criteria. 3. Prepare a startup profile including team details, technology description, and current stage of development. 4. Submit the application form with required documents. 5. Await screening by the CESL selection committee. 6. Shortlisted startups may be invited for interviews or presentations. 7. Selected startups enter the incubation phase with defined milestones and support.",
+  "application_portal_url": "https://cesl.co.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the startup",
+    "Profile of founders and key team members",
+    "Description of the EV charging technology or solution (including diagrams, if applicable)",
+    "Stage of development (prototype, MVP, pilot, etc.)",
+    "Any existing partnerships or client traction",
+    "Pitch deck or business plan"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Convergence Energy Services Limited (CESL)",
+  "contact_details": "",
+  "caveats": [
+    "Participation does not guarantee funding or commercial contracts",
+    "Startups must comply with relevant safety, technical, and regulatory standards",
+    "CESL reserves the right to modify or terminate the programme at its discretion",
+    "Intellectual property remains with the startup; CESL does not claim equity"
+  ],
+  "source_cited_notes": [
+    "https://cesl.co.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:49:13.580257+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-381",
+  "scheme_name": "Petroleum, Chemicals and Petrochemicals Investment Region (PCPIR)",
+  "scheme_url": "https://dpiit.gov.in/pcpir",
+  "ministry_or_category": "Chemicals & Petrochemicals",
+  "overview": "The Petroleum, Chemicals and Petrochemicals Investment Region (PCPIR) is a government initiative aimed at promoting investment in the chemicals and petrochemicals sector by developing integrated investment regions with world-class infrastructure. It seeks to create a conducive environment for manufacturing and export-oriented units through policy support, infrastructure development, and fiscal incentives. The scheme encourages public-private partnerships and aims to boost domestic value addition and employment generation in the sector.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "manufacturing units",
+    "investors",
+    "MSME",
+    "large industries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote investment in chemicals and petrochemicals sector",
+    "Develop integrated investment regions with infrastructure",
+    "Enhance export competitiveness of domestic industries",
+    "Generate employment in the manufacturing sector",
+    "Encourage public-private partnerships for infrastructure development",
+    "Support technology upgradation and innovation in the sector"
+  ],
+  "eligibility": "Eligible entities include companies, consortia, or special purpose vehicles (SPVs) proposing to set up units in the chemicals, petrochemicals, and petroleum sectors within the designated PCPIR areas. The project must involve substantial investment and contribute to value addition and employment generation.",
+  "benefits": "Benefits include fiscal incentives such as tax exemptions, customs duty concessions, and reimbursement of state taxes; infrastructure support like road, rail, port, and utility linkages; single-window clearance for approvals; and facilitation of land acquisition and statutory clearances through the SPV mechanism.",
+  "financial_support": "Financial support is provided through viability gap funding (VGF) for infrastructure development, central government grants for master planning, and facilitation of access to loans from financial institutions. The scheme does not provide direct subsidies to units but enables cost reduction through infrastructure and policy support.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State government submits an in-principle application to DPIIT in the prescribed format. 2. DPIIT examines the application and forwards it to the Commerce & Industry Minister for in-principle approval. 3. Upon in-principle approval, the state government submits a detailed application for final approval along with required documents. 4. The application is reviewed by a High-level Committee chaired by the Secretary, DPIIT. 5. Final approval is granted by the Commerce & Industry Minister. 6. The NIMZ is notified in the official gazette by DPIIT.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application for in-principle approval (Annexure-I)",
+    "Application for final approval (Annexure-II)",
+    "Techno-economic feasibility report cum Development Plan",
+    "Maps showing administrative, land use, and linkages",
+    "Status of land acquisition",
+    "Details of physical infrastructure and utility linkages",
+    "Draft Agreement of Implementation (AOI)",
+    "Proposed management structure of SPV"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "Land for manufacturing units must not fall below the minimum stipulated area once approved",
+    "The SPV must ensure land allotted for permissible use is utilized within the specified period",
+    "Exemptions under state laws are subject to fulfillment of conditions as per the respective statutes"
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in/pcpir"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:06:25.156746+00:00"
+}

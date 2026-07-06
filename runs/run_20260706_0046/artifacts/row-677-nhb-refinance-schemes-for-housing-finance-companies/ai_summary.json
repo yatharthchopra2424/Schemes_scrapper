@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-677",
+  "scheme_name": "NHB Refinance Schemes for Housing Finance Companies",
+  "scheme_url": "https://nhb.org.in",
+  "ministry_or_category": "Housing Finance",
+  "overview": "The NHB Refinance Schemes for Housing Finance Companies provide financial support to primary lending institutions (PLIs) by extending refinance against eligible housing loans extended to individual borrowers. The scheme aims to augment resources for the housing finance sector and make housing credit more affordable. It operates under various sub-schemes including the Affordable Housing Fund (AHF), Special Refinance Facility (SRF), and Regular Refinance facilities. The Bank also provides direct finance to public housing agencies for large-scale integrated housing projects.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "Housing Finance Companies (HFCs)",
+    "Primary Lending Institutions (PLIs)",
+    "Public housing agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote a sound, healthy, viable and cost effective housing finance system",
+    "To promote a network of dedicated housing finance institutions to adequately serve various regions and different income groups",
+    "To augment resources for the sector and channelise them for housing",
+    "To make housing credit more affordable",
+    "To supervise the activities of housing finance companies based on supervisory power derived under the Act",
+    "To encourage augmentation of supply of buildable land and also building materials for housing and to upgrade the housing stock in the country",
+    "To encourage public agencies to emerge as facilitators and suppliers of serviced land, for housing"
+  ],
+  "eligibility": "Primary lending institutions (PLIs) in respect of eligible housing loans extended by them to individual borrowers. Public housing agencies such as State Level Housing Boards and Area Development Authorities for large scale integrated housing. The scheme operates under various sub-schemes with specific eligibility criteria for each.",
+  "benefits": "Provides refinance and direct finance to lending institutions. Augments resources for the housing finance sector. Makes housing credit more affordable. Supports promotion of a sound and viable housing finance system. Enables supervision of HFCs. Facilitates public agency participation in housing finance.",
+  "financial_support": "NHB extends financial support through refinance and direct finance to a large set of lending institutions. Refinance is provided under various schemes including Affordable Housing Fund (AHF), Special Refinance Facility (SRF), and Regular Refinance facilities. During FY 2024-25, under AHF scheme, refinance assistance of ₹5,790.90 crore was extended to PLIs for individual housing loans to 36,300 households. During FY 2024-25, ₹2,055 crore was disbursed under Fixed Rate Refinance. As of June 2025, the outstanding refinance portfolio stood at ₹1,07,913 crore.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Primary lending institutions (PLIs) extend eligible housing loans to individual borrowers. 2. PLIs approach NHB for refinance against these eligible housing loans. 3. NHB verifies the eligibility of loans and the lending institution. 4. NHB sanctions refinance amount based on the scheme guidelines. 5. Disbursement of refinance funds to the PLI's account. 6. PLI utilizes the funds for further lending to individual borrowers.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Housing Bank (NHB)",
+  "contact_details": "Phone No. +91-011-3918 7000, e-mail : ho@nhb.org.in",
+  "caveats": [
+    "Refinance is provided only against eligible housing loans extended by PLIs to individual borrowers",
+    "The scheme operates under various sub-schemes each with specific terms and conditions",
+    "NHB does not make any loans or advances against its own bonds and debentures",
+    "Power to inspect and collect credit information from housing finance institutions"
+  ],
+  "source_cited_notes": [
+    "https://nhb.org.in/financing/",
+    "https://nhb.org.in/about-us/",
+    "https://nhb.org.in/milestones/",
+    "https://nhb.org.in/supervision/master-circulars/",
+    "https://nhb.org.in/financing/equity-support/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:52:12.444301+00:00"
+}

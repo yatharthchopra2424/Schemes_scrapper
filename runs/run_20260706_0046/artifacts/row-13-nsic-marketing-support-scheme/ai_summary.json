@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-13",
+  "scheme_name": "NSIC Marketing Support Scheme",
+  "scheme_url": "https://www.nsic.co.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The NSIC Marketing Support Scheme, known as the Marketing Facilitation Scheme (MFS), supports Micro and Small Enterprises (MSEs) in marketing their goods and services through consortium-based tender participation and facilitation services. It enables MSEs to participate in government procurement by acting as a facilitator between buyers and suppliers, recommending the L1 bidder and charging a facilitation fee. The scheme is designed to enhance market access and competitiveness for MSEs, particularly those registered under the Single Point Registration Scheme (SPRS).",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "Micro & Small Enterprises (MSEs)",
+    "units registered under SPRS"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the products of Micro and Small Entrepreneurs",
+    "Facilitate MSEs to market goods/services individually or collectively through consortium",
+    "Review and update the scheme to enhance effectiveness (last reviewed in 2024)",
+    "Facilitate tender participation for MSEs with government and PSU buyers",
+    "Ensure streamlined and transparent procurement process for buyers",
+    "Support MSEs in accessing government supply chains without acting as an intermediary",
+    "Enable MSEs to supply up to 25% of requirement by matching L1 price under price band policy",
+    "Reserve 358 items for exclusive purchase from MSE sector"
+  ],
+  "eligibility": "The scheme covers only Micro & Small Enterprises registered with NSIC under its Single Point Registration Scheme (SPRS). It also covers MSEs who apply for SPRS registration along with all required documents and whose factory is inspected before empanelment under MFS. Units engaging in trading activities without value addition, packing, or branding are not eligible.",
+  "benefits": "NSIC offers facilitation services to Central Governments & their Departments, PSUs, State/UT Governments & their Departments, Local bodies, and Public/reputed Private Sector Companies. NSIC’s role is limited to recommending the L1 bidder (lowest bidder) to the buyer, who then awards the contract. NSIC receives facilitation charges in phases: 50% upon first milestone (acceptance of award), 25% at second milestone (total execution), and 25% upon final milestone (receipt of payment). NSIC charges 5% (inclusive of GST) of the award value as facilitation fee/commission. Units owned by SC/ST entrepreneurs are exempted from the enlistment fee. There is no fee for formation or renewal of consortia, but enlistment fee applies during participation in any enquiry by consortia members.",
+  "financial_support": "The scheme does not provide direct financial support such as grants, loans, or subsidies. Instead, it offers non-financial facilitation services including tender marketing, consortium formation, and recommendation of L1 bidders. Financial transactions occur between the buyer and the MSE supplier, with NSIC charging a facilitation fee of 5% of the award value, payable in milestones. No credit, loan, or subsidy is extended by NSIC under this scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application form in prescribed format (Annexures – A) duly signed by authorized signatory (Proprietor/Partner(s)/Director(s)). 2. Include required documents as mentioned in the application form. 3. Apply for enlistment under the Tender Marketing Scheme. 4. Ensure factory inspection is completed before empanelment. 5. Pay applicable annual fee based on SPRS monetary limit: Rs. 1000+GST (up to Rs.100 lacs), Rs. 2500+GST (Rs.100-500 lacs), Rs. 5000+GST (above Rs.500 lacs). 6. SC/ST-owned units are exempt from enlistment fee. 7. Await empanelment approval from NSIC. 8. Upon empanelment, participate in tender facilitation process as per scheme guidelines.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form in prescribed format (Annexures – A)",
+    "Duly signed by authorized signatory (Proprietor/Partner(s)/Director(s))",
+    "Documents mentioned in the application form"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "National Small Industries Corporation Ltd. (NSIC)",
+  "contact_details": "",
+  "caveats": [
+    "Scheme does not cover units engaging in trading activities without value addition, packing, or branding",
+    "NSIC’s role is strictly facilitative — limited to recommending L1 bidder, not involved in invoicing or payment",
+    "Facilitation fee of 5% (inclusive of GST) is charged on the award value",
+    "SC/ST-owned units are exempt from enlistment fee",
+    "No fee for formation/renewal of consortia, but enlistment fee applies during participation",
+    "Annual fee structure based on SPRS monetary limit",
+    "Units must be registered or applying for SPRS with factory inspection completed"
+  ],
+  "source_cited_notes": [
+    "https://nsic.co.in/Schemes/MarketingFacilitation"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:24:57.376188+00:00"
+}

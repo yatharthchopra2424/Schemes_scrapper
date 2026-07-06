@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-531",
+  "scheme_name": "Delhi Industrial Policy 2021",
+  "scheme_url": "https://dsidc.in",
+  "ministry_or_category": "State Level (Delhi)",
+  "overview": "The Delhi Industrial Policy 2021 is a state-level initiative aimed at promoting industrial development, attracting investment, and enhancing the competitiveness of industries in Delhi. It focuses on creating a conducive environment for manufacturing and service sectors through infrastructure development, skill enhancement, and policy support. The policy emphasizes sustainable and inclusive industrial growth aligned with national objectives like Make in India and Atmanirbhar Bharat.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "manufacturing units",
+    "MSMEs",
+    "service sector enterprises"
+  ],
+  "geographic_scope": "Delhi only",
+  "objectives": [
+    "Promote sustainable and inclusive industrial development in Delhi",
+    "Enhance infrastructure and logistics support for industries",
+    "Encourage adoption of advanced technologies and innovation",
+    "Generate employment opportunities through industrial growth",
+    "Attract domestic and foreign investment into Delhi",
+    "Support MSMEs and cluster-based development",
+    "Ensure compliance with environmental and safety standards",
+    "Integrate Delhi’s industrial policy with national initiatives like Make in India"
+  ],
+  "eligibility": "Industrial units engaged in manufacturing or service activities within the National Capital Territory of Delhi, including MSMEs, large industries, and service enterprises, subject to compliance with zoning regulations, environmental norms, and other statutory requirements as per Delhi government policies.",
+  "benefits": "Financial incentives such as capital subsidy, interest subsidy, and reimbursement of taxes; infrastructure support including land allocation and common facility centers; skill development and training programs; technology upgradation assistance; marketing and export promotion support; and facilitation of single-window clearance for approvals.",
+  "financial_support": "The policy provides financial support in the form of capital subsidy (up to 30% of fixed capital investment), interest subsidy on term loans, reimbursement of SGST, and subsidies for technology adoption, quality certification, and patent registration, subject to ceilings and conditions specified under the policy.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility under the Delhi Industrial Policy 2021. 2. Prepare project report and required documents. 3. Apply through the single-window clearance system of the Delhi government. 4. Submit application to the concerned department (e.g., DSIIDC or Industries Department). 5. Application undergoes scrutiny and site verification. 6. Approval is granted based on eligibility and availability of funds. 7. Disbursement of incentives follows post-implementation verification.",
+  "application_portal_url": "https://dsidc.in",
+  "required_documents": [
+    "Project report",
+    "Certificate of incorporation/registration",
+    "PAN and GST details",
+    "Land ownership or lease documents",
+    "Details of plant and machinery",
+    "Bank appraisal note (if loan is involved)",
+    "Environmental clearance (if applicable)",
+    "Consent to establish/operate from DPCC",
+    "Affidavit of compliance with policy norms"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability and policy validity.",
+  "implementing_agency": "Delhi State Industrial and Infrastructure Development Corporation (DSIIDC)",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are subject to availability of funds and budgetary allocations",
+    "Units must remain operational for a minimum period post-incentive disbursement (as specified)",
+    "Benefits may be withdrawn for non-compliance with environmental, labor, or safety norms",
+    "Policy benefits are applicable only for new investments or substantial expansion",
+    "Units located in non-conforming or prohibited zones may not be eligible"
+  ],
+  "source_cited_notes": [
+    "https://dsidc.in"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:13:42.560326+00:00"
+}

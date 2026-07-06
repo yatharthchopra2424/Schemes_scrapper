@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-693",
+  "scheme_name": "GST Composition Scheme for Small Businesses",
+  "scheme_url": "https://www.gst.gov.in/composition",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "The GST Composition Scheme is a simplified tax scheme under the Goods and Services Tax (GST) regime designed for small businesses to reduce compliance burden. It allows eligible taxpayers to pay GST at a fixed rate on their turnover instead of the normal GST rates, with simplified return filing and record-keeping requirements. The scheme aims to support small traders, manufacturers, and service providers by lowering their tax liability and procedural complexities.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "small businesses",
+    "traders",
+    "manufacturers",
+    "service providers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce compliance burden for small taxpayers",
+    "Simplify tax calculation and payment process",
+    "Lower tax liability through fixed percentage rates",
+    "Minimize record-keeping and return filing frequency",
+    "Encourage formalization of small businesses under GST"
+  ],
+  "eligibility": "Taxpayers whose aggregate annual turnover in the preceding financial year did not exceed Rs. 1.5 crore (Rs. 75 lakh for special category states) are eligible. The scheme is available to manufacturers, traders, and restaurants (not serving alcohol). Service providers (except restaurant services) are not eligible unless their service component is part of mixed supply and does not exceed specified limits. Taxpayers must not be engaged in inter-state supply, e-commerce operations, or supply of non-taxable goods.",
+  "benefits": "Lower tax rates (1% for manufacturers and traders, 5% for restaurants, 6% for service providers under special provisions), quarterly return filing (GSTR-4) instead of monthly, simplified compliance, reduced need for detailed invoicing and input tax credit tracking, and exemption from maintaining elaborate records. Tax is paid at a fixed rate on turnover without the complexity of input tax credit reversal.",
+  "financial_support": "The scheme does not provide direct financial support but offers indirect financial benefit through reduced tax outflow. Tax is calculated as a fixed percentage of turnover (1% for traders and manufacturers, 5% for restaurants, 6% for certain service providers), which is generally lower than the effective GST rate under normal scheme, resulting in cash flow improvement for small businesses.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Log in to the GST portal (https://www.gst.gov.in). 2. Navigate to Services > Registration > Application for Composition Scheme. 3. Fill in Form CMP-02 to opt for the composition scheme. 4. Provide details such as business type, turnover, and bank account information. 5. Submit the application electronically. 6. Upon approval, the taxpayer can start paying tax under the composition scheme from the beginning of the next quarter.",
+  "application_portal_url": "https://www.gst.gov.in",
+  "required_documents": [
+    "PAN of the business entity",
+    "Proof of business registration (Certificate of Incorporation, Partnership deed, etc.)",
+    "Bank account details",
+    "Details of authorized signatory",
+    "Address proof of principal place of business"
+  ],
+  "deadlines": "Applications can be filed at the beginning of each financial year or within 30 days of obtaining GST registration. Once opted, the scheme continues until voluntarily withdrawn or until eligibility criteria are violated.",
+  "implementing_agency": "Goods and Services Tax Network (GSTN) under the guidance of the GST Council and Central Board of Indirect Taxes and Customs (CBIC)",
+  "contact_details": "Help Desk Number: 1800-103-4786",
+  "caveats": [
+    "Taxpayers under composition scheme cannot collect tax from customers or issue tax invoices",
+    "No input tax credit can be claimed on purchases",
+    "Not eligible for inter-state supply or e-commerce transactions",
+    "Must pay tax under reverse charge mechanism on applicable purchases",
+    "Scheme option must be withdrawn if turnover exceeds threshold limit"
+  ],
+  "source_cited_notes": [
+    "https://www.gst.gov.in/",
+    "https://gst.gov.in/composition"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:59:09.381589+00:00"
+}

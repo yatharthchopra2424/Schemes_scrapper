@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-302",
+  "scheme_name": "MSME Pre-Pack Insolvency Resolution Process (PPIRP)",
+  "scheme_url": "https://ibbi.gov.in",
+  "ministry_or_category": "Legal & Regulatory",
+  "overview": "The MSME Pre-Pack Insolvency Resolution Process (PPIRP) is a streamlined insolvency resolution mechanism under the Insolvency and Bankruptcy Code, 2016, designed specifically for Micro, Small, and Medium Enterprises (MSMEs) to facilitate faster and cost-effective resolution of financial distress. It allows the corporate debtor to initiate a resolution plan with the consent of its creditors, bypassing the need for a public invitation of resolution plans, thereby reducing time and cost. The process is governed by the IBBI (Pre-packaged Insolvency Resolution Process) Regulations, 2021, and subsequent amendments, aiming to preserve business continuity and maximize value for stakeholders in the MSME sector.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate faster resolution of insolvency for MSMEs",
+    "Reduce the cost and time associated with the Corporate Insolvency Resolution Process (CIRP)",
+    "Enable the corporate debtor to initiate resolution with creditor consent",
+    "Preserve business continuity and maximize value for stakeholders",
+    "Provide a mechanism for early identification and exclusion of non-viable projects",
+    "Strengthen project-wise ring-fencing of funds and accounts in real estate insolvency (as part of broader IBC framework)",
+    "Ensure timely handover of possession to allottees in real estate projects",
+    "Enhance transparency and accountability of insolvency professionals"
+  ],
+  "eligibility": "The corporate debtor must be classified as a Micro, Small, or Medium Enterprise as per the Micro, Small and Medium Enterprises Development Act, 2006. The initiation of PPIRP requires the consent of not less than sixty-six percent of the financial creditors by value. The process is available only if there is no pending application for insolvency resolution under section 7, 9 or 10 of the Insolvency and Bankruptcy Code, 2016, and no order for liquidation has been passed. The corporate debtor must not have undergone a PPIRP in the last three years.",
+  "benefits": "PPIRP offers a faster resolution timeline (typically within 90 days) compared to regular CIRP (180 days, extendable to 330 days). It reduces procedural costs by avoiding public invitation of resolution plans and e-auctions. The process allows the existing management to retain control if the resolution plan is approved, promoting business continuity. It provides flexibility in structuring the resolution plan, including merger, amalgamation, or takeover. Creditors benefit from higher realization due to reduced delays and preservation of going concern value. The process also minimizes disruption to ongoing operations and preserves employment.",
+  "financial_support": "PPIRP does not involve direct financial support from the government. Instead, it facilitates resolution through private infusion of funds by the resolution applicant, which may include fresh equity, quasi-equity, or internal accruals. The financial support is structured as part of the resolution plan, where the successful resolution applicant infuses funds to settle claims of operational and financial creditors, pay CIRP costs, and provide performance guarantees (typically 10% of the resolution plan value). The quantum of financial support varies case-by-case based on the resolution plan approved by the Committee of Creditors and the Adjudicating Authority.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. The corporate debtor, in consultation with its financial creditors, prepares a resolution plan. 2. The resolution plan is approved by the Committee of Creditors (CoC) with a vote of not less than sixty-six percent of financial creditors by value. 3. The corporate debtor files an application for initiation of PPIRP before the Adjudicating Authority (National Company Law Tribunal) under section 30(6) of the Insolvency and Bankruptcy Code, 2016. 4. The application is accompanied by the resolution plan, information memorandum, evaluation matrix, and a declaration under section 29A of the Code. 5. The Adjudicating Authority examines the application for compliance with section 30(2) and 29A of the Code. 6. If satisfied, the Adjudicating Authority approves the resolution plan, making it binding on all stakeholders. 7. The successful resolution applicant then implements the plan, including infusion of funds and payment of performance guarantee.",
+  "application_portal_url": "https://ibbi.gov.in/intimation-applications/apply-iaaa",
+  "required_documents": [
+    "Resolution Plan",
+    "Information Memorandum",
+    "Evaluation Matrix",
+    "Declaration under Section 29A of the Insolvency and Bankruptcy Code, 2016",
+    "Proof of consent of financial creditors (not less than 66% by value)",
+    "Certificate of incorporation of the corporate debtor",
+    "Latest audited financial statements",
+    "Details of claims of financial and operational creditors",
+    "Valuation reports (if any)",
+    "Performance guarantee (as per regulation 36B(4A) of CIRP Regulations)"
+  ],
+  "deadlines": "The application for initiation of PPIRP must be filed before the Adjudicating Authority after the resolution plan is approved by the Committee of Creditors. There is no fixed window; the process can be initiated at any time subject to eligibility. However, once initiated, the resolution process must be completed within 90 days from the date of application, extendable by the Adjudicating Authority for a further 60 days in exceptional circumstances, making a maximum of 150 days.",
+  "implementing_agency": "Insolvency and Bankruptcy Board of India",
+  "contact_details": "Email: research@ibbi.gov.in | Phone: 011-23462950 / 011-23462977",
+  "caveats": [
+    "PPIRP is not available if a corporate insolvency resolution process has already been initiated under section 7, 9, or 10 of the Code",
+    "The process cannot be used if an order for liquidation has been passed",
+    "A corporate debtor cannot undergo PPIRP more than once in a period of three years",
+    "The resolution plan must comply with section 30(2) of the Code, including payment of CIRP costs and operational creditor dues in priority",
+    "The successful resolution applicant must be eligible under section 29A of the Code",
+    "The process does not apply to personal guarantors to corporate debtors",
+    "The Adjudicating Authority may reject the application if the resolution plan is not feasible or viable"
+  ],
+  "source_cited_notes": [
+    "https://ibbi.gov.in",
+    "https://ibbi.gov.in/intimation-applications/apply-iaaa",
+    "https://ibbi.gov.in/uploads/whatsnew/f25dea596c4daa58ae8eff7d3ab701eb.pdf",
+    "https://ibbi.gov.in/uploads/whatsnew/81700dc80ec2b6c873809b3a747eb932.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:09:04.344601+00:00"
+}

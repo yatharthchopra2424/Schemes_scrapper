@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-696",
+  "scheme_name": "Vivad Se Vishwas Scheme (Tax Dispute Resolution)",
+  "scheme_url": "https://www.incometaxindia.gov.in/vsv",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "The Vivad Se Vishwas Scheme (Tax Dispute Resolution) was launched to reduce litigation and provide a mechanism for settlement of pending tax disputes. It allows taxpayers to settle disputed tax, It allows taxpayers to settle disputed tax, settle disputed tax, interest, and penalty by paying a specified amount, thereby avoiding prolonged litigation. The scheme aims to provide certainty and reduce the burden on the tax administration and taxpayers.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "taxpayers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce pending tax litigation",
+    "Provide certainty in tax matters",
+    "Reduce burden on tax administration",
+    "Enable faster resolution of tax disputes",
+    "Encourage voluntary compliance"
+  ],
+  "eligibility": "Taxpayers having pending tax demands before any appellate forum as on a specified cutoff date are eligible to opt for the scheme.",
+  "benefits": "Waiver of interest and penalty on payment of disputed tax amount; immunity from prosecution and penalty under certain provisions; withdrawal of pending appeals, revisions, references; no further proceedings under the Income-tax Act after settlement.",
+  "financial_support": "Taxpayers pay a percentage of the disputed tax amount as settlement amount, with reduced rates if paid without interest; no interest or penalty is charged on the settlement amount if paid within the specified time.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Eligible taxpayer identifies pending tax disputes as on cutoff date. 2. Computes settlement amount as per scheme provisions. 3. Files declaration in prescribed form online. 4. Pays the settlement amount. 5. Receives certificate of settlement and withdrawal of pending proceedings.",
+  "application_portal_url": "https://www.incometaxindia.gov.in/vsv",
+  "required_documents": [
+    "Details of pending tax disputes",
+    "Calculation of settlement amount",
+    "Proof of payment",
+    "Declaration form"
+  ],
+  "deadlines": "The scheme was open for a limited window; currently closed as per evidence.",
+  "implementing_agency": "Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Scheme window has closed; no further applications accepted",
+    "Settlement amount is final and cannot be refunded",
+    "Does not cover disputes related to prosecution already launched"
+  ],
+  "source_cited_notes": [
+    "https://incometaxindia.gov.in/history-of-direct-taxation"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:02:25.173483+00:00"
+}

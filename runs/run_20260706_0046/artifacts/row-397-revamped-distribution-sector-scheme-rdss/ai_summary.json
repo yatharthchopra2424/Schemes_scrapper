@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-397",
+  "scheme_name": "Revamped Distribution Sector Scheme (RDSS)",
+  "scheme_url": "https://reforms.descom.in",
+  "ministry_or_category": "Power & Electricity",
+  "overview": "The Revamped Distribution Sector Scheme (RDSS) is a reform-based and results-linked scheme launched by the Government of India to improve the operational efficiencies and financial sustainability of power distribution companies (DISCOMs) across the country. It aims to reduce Aggregate Technical and Commercial (AT&C) losses to pan-India levels of 12-15% by 2024-25 and eliminate the gap between average cost of supply and average revenue realized (ACS-ARR) by 2024-25. The scheme provides financial assistance to DISCOMs for prepaid smart metering, distribution infrastructure upgradation, and system strengthening works. It is implemented through a central sector scheme with funding support from the Government of India and participation from state governments and DISCOMs.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "power distribution companies (DISCOMs)",
+    "state power departments",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce Aggregate Technical and Commercial (AT&C) losses to pan-India levels of 12-15% by 2024-25",
+    "Eliminate the gap between average cost of supply and average revenue realized (ACS-ARR) by 2024-25",
+    "Modernize and strengthen distribution infrastructure through upgradation and automation",
+    "Install 250 million prepaid smart meters across the country",
+    "Improve the quality, reliability, and affordability of power supply to consumers",
+    "Enhance the financial viability and operational efficiency of DISCOMs",
+    "Promote renewable energy integration and demand-side management",
+    "Ensure 24x7 power supply to all households, agricultural, commercial, and industrial consumers"
+  ],
+  "eligibility": "All power distribution companies (DISCOMs) and power departments owned by state governments or union territories are eligible to participate in the Revamped Distribution Sector Scheme (RDSS). Participation is contingent upon signing a Memorandum of Understanding (MoU) with the Ministry of Power, Government of India, and agreeing to the scheme's reform milestones, financial discipline parameters, and performance benchmarks. State governments must provide necessary guarantees and commitments for loan repayment and subsidy disbursement as per the scheme guidelines.",
+  "benefits": "Financial assistance in the form of grants and loans for prepaid smart metering, distribution infrastructure upgradation, loss reduction works, and system strengthening. Support for installation of smart meters, feeder segregation, underground cabling, and IT/OT systems. Technical guidance and monitoring through a centralized project management framework. Incentives for achieving pre-defined performance targets related to loss reduction, billing efficiency, and revenue collection. Facilitation of convergence with other central and state government schemes for holistic development of the power distribution sector.",
+  "financial_support": "The scheme provides financial support through a combination of grant and loan components. For prepaid smart metering, a grant of up to 60% of the cost is provided, with the remaining 40% arranged by the DISCOM through loans or own funds. For distribution infrastructure works, including feeder segregation, system strengthening, and loss reduction, a grant of up to 50% of the project cost is available, with the balance to be arranged by the DISCOM. The financial assistance is disbursed in tranches linked to the achievement of project milestones and performance indicators verified by independent agencies. The overall funding pattern includes central government grant, state government contribution, and DISCOM's own equity or loan component.",
+  "fund_size_crores": "303759",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State government or DISCOM prepares a Detailed Project Report (DPR) for smart metering and distribution infrastructure works as per RDSS guidelines. 2. The DPR is submitted to the nodal agency designated by the Ministry of Power for technical appraisal. 3. Upon approval, a Memorandum of Understanding (MoU) is signed between the Ministry of Power, state government, and the DISCOM. 4. The project is sanctioned by the Inter-Ministerial Monitoring Committee (IMMC) based on the appraised DPR. 5. Funds are released in installments linked to physical progress and achievement of pre-defined milestones. 6. Third-party inspection agencies verify the quality and quantity of works before subsequent fund releases. 7. Performance is monitored against key indicators such as AT&C loss reduction, ACS-ARR gap, and metering coverage.",
+  "application_portal_url": "https://reforms.descom.in",
+  "required_documents": [
+    "Detailed Project Report (DPR) for smart metering and distribution infrastructure works",
+    "Memorandum of Understanding (MoU) draft between state government, DISCOM, and Ministry of Power",
+    "Board resolution or government order authorizing participation in RDSS",
+    "Technical specifications and cost estimates for proposed works",
+    "Undertaking on financial discipline and compliance with reform milestones",
+    "Details of existing infrastructure and baseline data for AT&C losses and billing efficiency",
+    "No Objection Certificate (NOC) from relevant authorities for land and right of way",
+    "Environmental and social impact assessment reports, if applicable"
+  ],
+  "deadlines": "Projects under RDSS are to be completed within a stipulated timeline, generally 24-30 months from the date of sanction, with the overall scheme target to achieve objectives by 2024-25. Fund utilization and performance assessment are subject to annual review and mid-term evaluation.",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is contingent upon achieving pre-defined performance targets related to loss reduction and revenue collection",
+    "Funds are released in tranches linked to milestone achievement and third-party verification",
+    "State governments must provide guarantees for loan repayment and subsidy utilization",
+    "The scheme is subject to mid-term review and possible modification based on performance evaluation",
+    "Non-performing DISCOMs may face suspension or termination of financial assistance",
+    "Convergence with other central and state schemes is encouraged but must avoid duplication of funding"
+  ],
+  "source_cited_notes": [
+    "https://reforms.descom.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:11:28.845545+00:00"
+}

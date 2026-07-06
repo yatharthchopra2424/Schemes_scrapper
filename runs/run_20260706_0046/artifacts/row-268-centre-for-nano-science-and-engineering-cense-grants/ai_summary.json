@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-268",
+  "scheme_name": "Centre for Nano Science and Engineering (CeNSE) Grants",
+  "scheme_url": "https://cense.iisc.ac.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The Centre for Nano Science and Engineering (CeNSE) at the Indian Institute of Science (IISc) was established in 2010 to pursue interdisciplinary research in nanoscale systems, including nanoelectronics, MEMS/NEMS, microfluidics, nanomaterials, photonics, nano-biotechnology, solar cells, quantum and neuromorphic computing, sensors, and optoelectronics. It offers M.Tech and PhD programs, hosts state-of-the-art nanofabrication and characterization facilities, and runs the in-house technology business incubator INCeNSE, which currently incubates 6 start-ups with access to infrastructure, labs, and mentoring support. CeNSE maintains close industry interactions and supports national initiatives like the India Semiconductor Mission through specialized training programs and industry collaborations.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "students",
+    "researchers",
+    "industry partners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Pursue interdisciplinary research across nanoscale systems",
+    "Offer M.Tech and PhD programs in nanoscience and engineering",
+    "Provide access to state-of-the-art nanofabrication and characterization facilities",
+    "Support industry collaboration and technology transfer",
+    "Incubate deep-tech startups through INCeNSE with infrastructure and mentoring",
+    "Align with national missions such as the India Semiconductor Mission",
+    "Deliver training programs in semiconductor technology for students and tribal communities",
+    "Foster innovation in deep-tech domains including quantum technologies, neuromorphic computing, and nanorobotics"
+  ],
+  "eligibility": "For M.Tech in Semiconductor Technology: BE/BTech or equivalent in any discipline with GATE paper in EC, EE, ME, IN, XE-C, MT OR MSc or equivalent in Electronics or Physics with GATE paper in PH, IN, EC. For PhD: ME/MTech or equivalent in any discipline OR BE/BTech in Engineering with valid GATE score OR MSc in Science with valid GATE score OR qualification in national exams like INSPIRE, CSIR UGC NET for JRF, DBT JRF, UGC NET for JRF, or JEST. Selection is based on 100% GATE/CAM score for regular programs and interview performance post-shortlisting.",
+  "benefits": "Access to 14,000 sq. ft. state-of-the-art nanofabrication and clean room facility (NNFC), comprehensive micro nano characterization facility (MNCF), Systems and Packaging Facility (S&PF), and in-house technology business incubator INCeNSE which incubates 6 start-ups with infrastructure, labs, and mentoring support. Students benefit from industrial interactions, cutting-edge R&D facilities, industry fellowships, internships, and placements. Faculty and researchers gain access to advanced equipment, collaborative projects, and national facility networks. Industry partners receive facility usage, consultancy, research projects, training, talent access, networking, and distinguished lectures via the Industry Affiliate Program.",
+  "financial_support": "The MTech Fellowship Program for 2nd Year MTech students provides an enhanced fellowship of INR 24,800 per month for 12 months, support for attending conferences, and engagement with sponsors including opportunities for internships, placement, and career guidance. Eligibility is restricted to all 2nd Year MTech students of CeNSE. Applications are sent via email in July and selection completed before the first week of August by a CeNSE faculty committee with inputs from industry sponsors.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 24,800 per month for 12 months (under MTech Fellowship Program)",
+  "application_process": "1. Visit the CeNSE website and navigate to the 'For Students' or 'How to apply' section. 2. Check eligibility for the desired program (M.Tech, PhD, M.Engg, Joint M.Tech, or Fellowship). 3. For M.Tech/PhD: Apply through the IISc admissions website during the July session (limited January session for PhD). 4. Candidates are shortlisted based on national exam scores (GATE/CAM) or qualification. 5. Shortlisted candidates must appear for an interview at CeNSE. 6. Final selection is based on interview performance and exam results, announced 2-3 weeks post-interview. 7. For Fellowships: Wait for the annual call (typically July), submit application via email, and undergo review by CeNSE faculty committee with industry sponsor inputs. 8. Selected candidates receive formal admission or fellowship offer.",
+  "application_portal_url": "https://cense.iisc.ac.in/for-students/",
+  "required_documents": [
+    "BE/BTech or equivalent degree certificate",
+    "MSc or equivalent degree certificate (if applicable)",
+    "GATE scorecard (with valid paper as per eligibility)",
+    "CAM scorecard (for CFTI mode of entry)",
+    "Proof of qualification in national exams (INSPIRE, CSIR UGC NET, DBT JRF, UGC NET, JEST) if applicable",
+    "Updated CV/resume",
+    "Statement of purpose",
+    "Letters of recommendation",
+    "Academic transcripts/mark sheets"
+  ],
+  "deadlines": "Admissions to M.Tech and PhD programs are typically offered for the July session, with a limited number of topic/field-specific admissions possible in the January session for PhD. The MTech Fellowship Program call is sent via email in July, with selection completed before the first week of August.",
+  "implementing_agency": "Indian Institute of Science (IISc), Bangalore",
+  "contact_details": "Email: iap.cense@iisc.ac.in (for Industry Affiliate Program), industry.cense@iisc.ac.in (for industry engagements), summerinterncense@gmail.com (for internship queries), workshop.cense@iisc.ac.in (for workshop queries)",
+  "caveats": [
+    "Admission to M.Tech program is offered only for the July session",
+    "PhD admissions are typically for July session, with limited January session for topic/field-specific admissions",
+    "MTech Fellowship is exclusively for 2nd Year MTech students of CeNSE",
+    "Selection for fellowships is based on application review and inputs from industry sponsors",
+    "Internship stipend is ₹5,000 per month (as per Summer Internship Program), with no accommodation provided",
+    "Interns must join before 31st May and complete at least 8 weeks",
+    "Getting a Minor in M.Tech program is optional; degree will not mention any Minor if not pursued"
+  ],
+  "source_cited_notes": [
+    "https://cense.iisc.ac.in/",
+    "https://cense.iisc.ac.in/for-students/",
+    "http://cense.iisc.ac.in/adlruparcense/for-students/",
+    "https://cense.iisc.ac.in/adlruparcense/wp-content/uploads/2024/09/MTech_Semiconductor_Technology_CeNSE_course_details.pdf",
+    "https://cense.iisc.ac.in/adlruparcense/wp-content/uploads/2024/10/Student_Brochure_CeNSE.pdf",
+    "https://cense.iisc.ac.in/adlruparcense/industry-relations",
+    "https://cense.iisc.ac.in/adlruparcense/outreach"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:46:58.422204+00:00"
+}

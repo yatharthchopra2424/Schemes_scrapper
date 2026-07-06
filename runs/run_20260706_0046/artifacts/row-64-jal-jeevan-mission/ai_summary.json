@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-64",
+  "scheme_name": "Jal Jeevan Mission",
+  "scheme_url": "https://jaljeevanmission.gov.in",
+  "ministry_or_category": "Water & Sanitation",
+  "overview": "Jal Jeevan Mission (JJM) is a flagship program of the Government of India aimed at providing safe and adequate drinking water through individual household tap connections to all rural households by 2024, with an extension approved up to December 2028 under JJM 2.0. The mission emphasizes community participation, source sustainability, greywater management, and information, education, and communication (IEC) as key components. It aims to create a 'Jan Andolan' for water, making it everyone's priority, and ensures functionality of tap connections through regular monitoring and community ownership.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "rural households",
+    "schools",
+    "anganwadi centres",
+    "gram panchayat buildings",
+    "health centres",
+    "wellness centres",
+    "community buildings"
+  ],
+  "geographic_scope": "Pan-India (rural India)",
+  "objectives": [
+    "Provide Functional Tap Connection (FHTC) to every rural household",
+    "Prioritize FHTC provision in quality-affected, drought-prone, desert areas, and Sansad Adarsh Gram Yojana (SAGY) villages",
+    "Provide functional tap connections to schools, Anganwadi centres, GP buildings, health centres, wellness centres, and community buildings",
+    "Monitor functionality of tap connections",
+    "Promote voluntary ownership through community contribution in cash, kind, labour, or shramdaan",
+    "Ensure sustainability of water supply systems (source, infrastructure, funds for O&M)",
+    "Empower and develop human resources in the water sector for construction, plumbing, electrical, water quality management, treatment, catchment protection, O&M, etc.",
+    "Create awareness on safe drinking water and stakeholder involvement to make water everyone's business"
+  ],
+  "eligibility": "States and Union Territories (UTs) are eligible to receive financial assistance under Jal Jeevan Mission for planning, implementing, and managing rural water supply schemes. The mission supports States/UTs in creating water supply infrastructure so that every rural household has a Functional Tap Connection (FHTC) by 2024 (extended to 2028 under JJM 2.0) and in developing robust institutions focused on service delivery and financial sustainability.",
+  "benefits": "Benefits include provision of safe and adequate drinking water at the household level, improvement in living standards, reduction in water-borne diseases, empowerment of communities (especially women) through participation in planning and management, creation of sustainable water supply infrastructure, promotion of water conservation and greywater management, capacity building of stakeholders, and digital monitoring of water service delivery. The mission also facilitates convergence with other programs and financial assistance to States/UTs for implementation.",
+  "financial_support": "Financial assistance is provided to States/UTs as grants-in-aid based on fund allocation criteria including rural population (30% weight), rural SC and ST population (10%), special category states (30%), habitations affected by chemical contaminants (10%), and balance household connections to be provided (20%). Up to 2% of annual allocation is earmarked for National Mission-level activities (including NCDWSQ, PMU, IEC, capacity building, M&E, R&D), 0.5% for JE-AES states, 10% for NE States, and funds for NWQSM as per state requirements. The balance is allocated to non-NE states/UTs. Fund sharing follows the pattern of erstwhile NRDWP components subsumed under JJM.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "States/UTs must submit proposals through the Institutional Mechanism involving State Water and Sanitation Mission (SWSM) and District Water and Sanitation Mission (DWSM). Proposals are appraised and approved by the National Jal Jeevan Mission (NJJM) under the Department of Drinking Water and Sanitation. Funds are released in installments based on utilization certificates and progress reports. The process includes preparation of Detailed Project Reports (DPRs), community contribution planning, and convergence with other schemes. Implementation is monitored via the JJM-Management Information System (MIS).",
+  "application_portal_url": "https://jaljeevanmission.gov.in",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Utilization Certificates",
+    "Progress Reports",
+    "Community Contribution Plan",
+    "Convergence Plan with other schemes",
+    "Institutional Mechanism details (SWSM/DWSM)",
+    "Water Quality Monitoring & Surveillance Plan",
+    "Operation and Maintenance (O&M) Plan"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted and processed throughout the year based on fund availability and approval cycles.",
+  "implementing_agency": "Department of Drinking Water & Sanitation, Ministry of Jal Shakti",
+  "contact_details": "Phone: 011-24361245 (Secretary), 011-24361670 (Additional Secretary & Mission Director), 011-24361065 (Joint Secretary) | Email: secydws[at]nic[dot]in, as[dot]jjm[at]gov[dot]in, js-jjm[at]gov[dot]in",
+  "caveats": [
+    "Funds are released subject to utilization of previous installments and submission of required documents",
+    "Community contribution is mandatory for sustainability",
+    "Extension of JJM up to December 2028 is under JJM 2.0 with structural reforms",
+    "Focus has shifted from infrastructure creation to citizen-centric service delivery and functionality",
+    "Digital monitoring and local governance are critical for success"
+  ],
+  "source_cited_notes": [
+    "https://jaljeevanmission.gov.in",
+    "https://jaljeevanmission.gov.in/about_jjm",
+    "https://jaljeevanmission.gov.in/Financial-Planning",
+    "https://jaljeevanmission.gov.in/national_jal_jeevan_mission",
+    "https://jaljeevanmission.gov.in/sites/default/files/2026-05/Jal-Jeevan-Samvad-march-2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:54:59.859425+00:00"
+}

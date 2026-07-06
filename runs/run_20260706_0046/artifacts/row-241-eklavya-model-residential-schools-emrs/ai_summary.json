@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-241",
+  "scheme_name": "Eklavya Model Residential Schools (EMRS)",
+  "scheme_url": "https://emrs.tribal.gov.in",
+  "ministry_or_category": "Tribal Welfare",
+  "overview": "Eklavya Model Residential Schools (EMRS) is a central sector scheme aimed at providing quality education to Scheduled Tribe (ST) students in remote areas through the establishment and management of residential schools from Class VI to XII. The scheme focuses on holistic development, including academic excellence, preservation of tribal culture and heritage, and overall personality development of tribal children. EMRS schools are designed to be at par with Navodaya Vidyalayas in terms of infrastructure and academic standards.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Scheduled Tribe (ST) students"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide quality upper primary, secondary and senior secondary level education to ST students",
+    "To ensure access to education in remote tribal areas",
+    "To promote holistic development including academic, physical and cultural growth",
+    "To preserve and promote tribal art, culture, language and heritage",
+    "To bridge the educational gap between tribal and non-tribal populations",
+    "To provide free education including lodging, boarding, uniforms, and textbooks",
+    "To ensure student-teacher ratio conducive to effective learning",
+    "To prepare students for higher education and professional careers"
+  ],
+  "eligibility": "The scheme targets Scheduled Tribe students studying in classes VI to XII. Admission is primarily based on merit and availability of seats, with priority given to students from Particularly Vulnerable Tribal Groups (PVTGs), displaced families, and those affected by left-wing extremism. Schools are set up in blocks with 50% or more ST population and at least 20,000 tribal persons.",
+  "benefits": "Free education, lodging, boarding, school uniforms, textbooks, stationery, and medical care. Students receive holistic development through co-curricular activities, sports, life skills training, and exposure to tribal culture and traditions. The schools follow CBSE curriculum and aim for all-round development of tribal children.",
+  "financial_support": "The scheme provides 100% financial assistance from the Government of India for both recurring and non-recurring expenses. The central government bears the full cost of setting up and operating EMRS, including infrastructure development, staff salaries, student maintenance, and educational resources. Funding is released directly to the implementing agency, the National Education Society for Tribal Students (NESTS), which manages the schools.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State governments or UT administrations identify suitable locations for EMRS based on tribal population density. 2. Proposals for new schools are submitted to the Ministry of Tribal Affairs through the state government. 3. 3. The Ministry appraises the proposal based on norms and availability of funds. 4. Upon approval, funds are sanctioned to NESTS for construction and operation. 5. Admissions are conducted annually through a selection process based on merit and eligibility criteria. 6. Selected students are enrolled in the respective EMRS for classes VI to XII.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of Scheduled Tribe status",
+    "Birth certificate or age proof",
+    "Previous academic records",
+    "Domicile certificate",
+    "Income certificate (if applicable)",
+    "Passport-sized photographs",
+    "Medical fitness certificate"
+  ],
+  "deadlines": "Admissions are conducted annually, typically before the start of the academic session. Exact dates vary by state and are notified by the respective EMRS or state tribal welfare department.",
+  "implementing_agency": "National Education Society for Tribal Students (NESTS), under the Ministry of Tribal Affairs, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Admission is subject to availability of seats and fulfillment of eligibility criteria",
+    "Continuation in the school is subject to satisfactory academic performance and conduct",
+    "The scheme is subject to periodic review and modification by the Ministry of Tribal Affairs",
+    "EMRS are established only in identified tribal blocks meeting population norms"
+  ],
+  "source_cited_notes": [
+    "https://emrs.tribal.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:27:43.678264+00:00"
+}

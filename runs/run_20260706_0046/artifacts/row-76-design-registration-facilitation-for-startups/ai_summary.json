@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-76",
+  "scheme_name": "Design Registration Facilitation for Startups",
+  "scheme_url": "https://ipindia.gov.in",
+  "ministry_or_category": "Intellectual Property",
+  "overview": "The Design Registration Facilitation for Startups scheme under the Intellectual Property India portal supports startups in securing design protection by providing guidance on the design application workflow, eligibility criteria, fee structures, and procedural steps. It aims to simplify the design registration process for innovative startups through e-filing services, facilitator support, and clear documentation requirements.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate design registration for startups through simplified application procedures",
+    "Provide access to e-filing services and IP facilitators for design protection",
+    "Ensure clarity on eligibility, fees, and documentation for design applications",
+    "Promote innovation by supporting startups in securing intellectual property rights",
+    "Streamline the design application workflow from preparation to registration and publication"
+  ],
+  "eligibility": "Startups, as defined under the Startup India initiative, are eligible to apply for design registration. The applicant must be a recognized startup by DPIIT, incorporated as a private limited company, registered partnership, or limited liability partnership, with turnover less than INR 100 Crore and not older than 10 years from incorporation.",
+  "benefits": "Startups benefit from facilitation in design registration, access to IP Mitras (facilitators) under the SIPP scheme, guidance on design application workflow, clarity on fee structures for natural persons/startups/small entities, and support through e-filing services. The scheme enables startups to secure legal protection for their designs, enhancing market competitiveness and innovation valuation.",
+  "financial_support": "The scheme does not provide direct financial grants or subsidies. However, startups benefit from reduced official fees for design applications as per the First Schedule of the Designs Rules, 2001, where natural persons, startups, or small entities pay lower fees compared to other applicants. Fee details are available in the 'Forms and Official Fees' section for designs.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Check design availability by searching existing registered designs on the official website. 2. Assess novelty and identify the correct Locarno class-subclass. 3. Choose the goods/articles class and confirm eligibility and application category. 4. Decide applicant type (Individual/Startup/MSME/Others), understand applicable official fee, provide applicant details, design representation, and Power of Attorney (if applicable). 5. Prepare required information and documents, choose application type. 6. File new application (Form 1) via e-Filing portal: login, upload documents, pay prescribed fee. 7. Track application status online. 8. Respond to examination objections if required. 9. Application published in Design Journal upon acceptance.",
+  "application_portal_url": "https://ipindia.gov.in",
+  "required_documents": [
+    "Form 1 (Application for registration of design)",
+    "Representations (drawings/photographs) of the design",
+    "Power of Attorney (if applicable)",
+    "Statement of novelty",
+    "Proof of applicant status (e.g., DPIIT recognition certificate for startups)",
+    "Address for service in India",
+    "Fee payment proof"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year with no fixed deadline.",
+  "implementing_agency": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: cgoffice[at]gov[dot]in | Phone: 011-28034302 (Director, Administration and Establishment) | Helpdesk: Available via IP India portal",
+  "caveats": [
+    "The information provided is for general guidance only and does not constitute legal advice.",
+    "In case of inconsistency, the Designs Act, 2000, Designs Rules, 2001, and applicable notifications prevail.",
+    "The Office of CGPDTM is not liable for any action taken based on the explanatory material.",
+    "Startup status must be valid and recognized by DPIIT at the time of application.",
+    "Design registration is valid for 10 years, renewable for a further 5 years upon payment of renewal fee."
+  ],
+  "source_cited_notes": [
+    "https://ipindia.gov.in/application-workflow/design-application-workflow",
+    "https://ipindia.gov.in/application-workflow/design-workflow-process",
+    "https://ipindia.gov.in/designs-before-you-apply-forms-official-fees",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/bf10437e-a59f-4cfe-bc09-e1ee3e15602d.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:03:54.590613+00:00"
+}

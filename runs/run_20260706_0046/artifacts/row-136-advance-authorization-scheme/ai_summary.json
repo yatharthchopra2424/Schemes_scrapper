@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-136",
+  "scheme_name": "Advance Authorization Scheme",
+  "scheme_url": "https://www.dgft.gov.in/CP/?opt=advance-authorization",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "The Advance Authorization Scheme allows duty-free import of inputs that are physically incorporated in an export product, enabling exporters to import raw materials, intermediates, components, consumables, parts, and accessories without payment of basic customs duty, additional customs duty, anti-dumping duty, safeguard duty, or social welfare surcharge, subject to fulfilling export obligations within a specified time frame.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "exporters",
+    "manufacturers",
+    "merchant exporters"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To facilitate duty-free import of inputs required for export production",
+    "To enhance competitiveness of Indian exports by reducing input costs",
+    "To promote value addition and export-oriented manufacturing",
+    "To support exporters in meeting international quality and delivery standards",
+    "To encourage import of high-quality inputs for superior export products"
+  ],
+  "eligibility": "Any manufacturer exporter or merchant exporter tied to a supporting manufacturer is eligible to apply for Advance Authorization. The applicant must have a valid Importer Exporter Code (IEC) and must be engaged in the manufacture and export of goods. The scheme is applicable to exports under the Foreign Trade Policy, 2023.",
+  "benefits": "Duty-free import of inputs (basic customs duty, additional customs duty, anti-dumping duty, safeguard duty, social welfare surcharge exempted), no requirement to pay duty on inputs if export obligation is fulfilled, ability to import inputs without upfront cash outflow for duties, flexibility in sourcing inputs globally, and validity of authorization for 12 months from date of issue.",
+  "financial_support": "The scheme provides duty exemption on imported inputs, which constitutes indirect financial support by reducing the cost of production. There is no direct cash subsidy or grant; the benefit is in the form of foregone customs duties on inputs that are physically incorporated into the export product and for which the export obligation is fulfilled.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the DGFT website with a valid IEC. 2. Log in to the DGFT portal and navigate to the Advance Authorisation module. 3. Fill out the online application form with details of the export product, inputs required, and export obligation. 4. Upload required documents including PAN, IEC, GST certificate, and details of the export order or self-declaration of export capability. 5. Submit the application and pay the applicable application fee online. 6. Await scrutiny and approval by the concerned Regional Authority. 7. Upon approval, the Advance Authorization is issued electronically. 8. Import inputs as per the authorization. 9. Fulfill the export obligation within the validity period. 10. Apply for redemption of the authorization after export realization.",
+  "application_portal_url": "https://dgft.gov.in/CP/?opt=advance-authorization",
+  "required_documents": [
+    "PAN card of the applicant",
+    "Importer Exporter Code (IEC) certificate",
+    "GST registration certificate",
+    "Bank certificate or cancelled cheque",
+    "Details of the export product and its HS code",
+    "List of inputs required with their HS codes and quantities",
+    "Export order or self-declaration of export capability",
+    "Undertaking to fulfill export obligation",
+    "Copy of IEC holder's digital signature certificate (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year.",
+  "implementing_agency": "Directorate General of Foreign Trade, Ministry of Commerce and Industry",
+  "contact_details": "Email: dgftedi[at]nic[dot]in | Helpline: 1800-572-1550 / 1800-111-550",
+  "caveats": [
+    "Export obligation must be fulfilled within the validity period of the authorization (usually 12 months)",
+    "If export obligation is not met, duty exemption is withdrawn and duties along with interest must be paid",
+    "Only inputs that are physically incorporated into the export product are eligible",
+    "Inputs consumed in the manufacturing process but not part of the final product are not covered",
+    "The scheme does not cover capital goods, fuel, or lubricants",
+    "Authorization is specific to a particular export product and cannot be transferred",
+    "Advance Authorization is subject to audit and verification by DGFT"
+  ],
+  "source_cited_notes": [
+    "https://dgft.gov.in/CP/?opt=advance-authorization",
+    "https://content.dgft.gov.in/Website/dgftprod/39108932-5da7-4496-b3a6-d8d9c1c0865b/sugar notification.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:33:01.334811+00:00"
+}

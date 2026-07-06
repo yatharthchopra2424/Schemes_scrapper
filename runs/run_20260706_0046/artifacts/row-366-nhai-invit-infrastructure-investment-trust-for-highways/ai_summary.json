@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-366",
+  "scheme_name": "NHAI InvIT – Infrastructure Investment Trust for Highways",
+  "scheme_url": "https://nhai.gov.in",
+  "ministry_or_category": "Road Transport",
+  "overview": "NHAI InvIT – Infrastructure Investment Trust for Highways is a financial instrument established by the National Highways Authority of India (NHAI) to monetize its operational highway assets through the issuance of units to investors. It enables NHAI to raise long-term capital by transferring revenue-generating road projects into a trust structure, thereby unlocking value from its infrastructure portfolio. The InvIT was listed on the Bombay Stock Exchange and National Stock Exchange on 28 October 2022, with bonds issued at a 7.9% semi-annual coupon, yielding 8.05% annually, and a minimum investment of ₹10,000 for retail investors.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "investors",
+    "retail investors",
+    "institutional investors",
+    "pension funds",
+    "insurance companies",
+    "mutual funds"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Monetize operational highway assets of NHAI through infrastructure investment trust structure",
+    "Raise long-term capital for NHAI by leveraging revenue-generating road projects",
+    "Provide retail and institutional investors with an opportunity to invest in highway infrastructure",
+    "Enhance liquidity and unlock value from NHAI’s asset base",
+    "Support NHAI’s asset recycling model under the National Monetisation Pipeline",
+    "Ensure regular income distribution to unit holders through toll and annuity revenues",
+    "Promote private participation in highway infrastructure via SEBI-regulated InvIT framework",
+    "Strengthen NHAI’s financial position for future road development projects"
+  ],
+  "eligibility": "The NHAI InvIT is open to all eligible investors including retail investors, institutional investors, pension funds, insurance companies, and mutual funds who comply with SEBI (Infrastructure Investment Trusts) Regulations, 2014. There are no restrictions based on entity type, geography, or investor category, subject to KYC and AML norms as per applicable securities laws.",
+  "benefits": "Investors in NHAI InvIT benefit from regular income distribution derived from toll and annuity revenues of underlying highway assets, potential capital appreciation, diversification into infrastructure asset class, transparency through SEBI-regulated disclosures, and liquidity via listing on stock exchanges. The structure offers tax-efficient returns as interest income is exempt from dividend distribution tax, and the InvIT model allows for passive investment in operational roads without direct operational involvement.",
+  "financial_support": "NHAI InvIT issued secured, rated, listed, redeemable, non-convertible debentures (bonds) with a 25-year maturity period. The bonds carry a 7.9% semi-annual coupon, resulting in an effective annual yield of 8.05%. Retail participation was encouraged by setting a minimum investment amount of ₹10,000. The issue was oversubscribed and closed early due to strong demand across investor classes.",
+  "fund_size_crores": "17280",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Investors must have a demat and trading account with a registered stockbroker. 2. Units of NHAI InvIT can be purchased through the stock exchange (BSE/NSE) during market hours using the scrip code. 3. For anchor allocation in the IPO, eligible institutional investors submitted bids through Book Running Lead Managers as per the offer document. 4. Post-listing, units are traded freely on the exchange like any other equity security. 5. Income distributions are made periodically to unit holders based on cash flows from the underlying highway projects.",
+  "application_portal_url": "https://nhai.gov.in",
+  "required_documents": [
+    "PAN card",
+    "Demat account details",
+    "Trading account details",
+    "KYC documents (identity and address proof)",
+    "Bank account details for dividend/interest credit"
+  ],
+  "deadlines": "Rolling basis — units can be bought and sold anytime during market hours post-listing",
+  "implementing_agency": "National Highways Authority of India (NHAI)",
+  "contact_details": "Email: info@riimpl.in | Tel.: – 011-25074100",
+  "caveats": [
+    "Returns are dependent on the traffic revenue and annuity payments from the underlying highway projects",
+    "Unit price is subject to market fluctuations and liquidity conditions on the stock exchange",
+    "The InvIT structure is governed by SEBI (Infrastructure Investment Trusts) Regulations, 2014, and any regulatory changes may affect operations",
+    "Early redemption or buyback of units is subject to trust deed provisions and SEBI guidelines",
+    "Past performance is not indicative of future returns"
+  ],
+  "source_cited_notes": [
+    "https://nhai.gov.in",
+    "https://nhai.gov.in/nhai/sites/default/files/mix_file/Anchor_Intimation_Raajmarg_Infra_Investment_Trust.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:47:50.476639+00:00"
+}

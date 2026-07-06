@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-842",
+  "scheme_name": "NIDHI-Accelerator (DST) – Deep Tech Startup Acceleration",
+  "scheme_url": "https://nidhi.dst.gov.in/accelerator",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The NIDHI-Accelerator Programme is a post-incubation initiative designed to fast-track the growth of potential startups through rigorous mentoring, networking, and access to funding and market networks. It is delivered as a 3 to 6 month fast-track structured program by existing Technology Business Incubators (TBIs) and aims to help startups that have achieved substantial market validation and are ready to scale up. The programme employs a 'fail fast' approach, where ideas or prototypes lacking traction are quickly abandoned or modified, allowing founders to redeploy resources efficiently. It culminates in a demo day where top-performing startups pitch to investors and may receive grant awards.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To fast track the growth of potential startups through rigorous mentoring and networking support in a short span through existing TBIs.",
+    "To attract subject matter experts, mentors, and angel investors to get associated with TBIs through the structured accelerator program.",
+    "To build a vibrant startup ecosystem by establishing a network between academia, financial institutions, industries, and other institutions.",
+    "To act as a hub for several incubators in the region so that high-potential startups can be fast-tracked for increased exposure and validation.",
+    "Accelerators should employ a 'fail fast' approach: ideas or prototypes that are not getting traction should be abandoned (or modified) quickly, allowing founders to redeploy resources to other projects or even new companies at a rapid pace."
+  ],
+  "eligibility": "TBIs previously funded or currently funded by DST or any other central or state government agencies are eligible to apply, with a minimum 3 years in existence, having nurtured and incubated at least 20 startups in multiple domains.",
+  "benefits": "Startups receive rigorous mentoring and networking support, access to funding and market networks, structured training, personalized one-to-one mentoring (minimum 50 hours), and the opportunity to pitch on demo day for potential grant awards. The programme enhances investment readiness and worthiness through customer-centric validation models and helps startups scale up by leveraging TBI infrastructure and external partnerships for capability transfer.",
+  "financial_support": "The NSTEDB's contribution towards the overall budget for running accelerators shall not exceed INR 40 lakh per program of one cohort. The budget is divided into two categories: I. Accelerator Program (up to INR 30 lakh) covering manpower, logistics, travel, mentoring, infrastructure, training, and other costs; II. Demo Day Award (up to INR 10 lakh) to be awarded to the top 3 to 5 startups of the batch based on performance/achievements during the accelerator program, as recommended by the evaluation committee.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 lakh (as Demo Day Award for top 3-5 startups)",
+  "application_process": "1. TBIs previously funded or currently funded by DST or any other central or state government agencies with minimum 3 years in existence and having nurtured at least 20 startups in multiple domains are eligible to apply. 2. The budget must be divided into Accelerator Program (up to 30 lakh) and Demo Day Award (up to 10 lakh). 3. At least 70% of total mentoring must be one-to-one sessions, with a minimum of 20 hours of one-to-many training and 50 hours of one-to-one mentoring. 4. TBI may engage external accelerator partners for up to 40% or up to INR 15 lakh (whichever is lesser) of the total budget, following a capability transfer model. 5. At the time of application, TBI must provide a tentative list of internal team members and external mentors with strong industry-specific expertise and past investment experience. 6. Top 3 to 5 startups may be considered for a grant during demo day based on defined parameters such as need, stage, and potential. 7. Submit the proposal in the prescribed proforma along with necessary enclosures to the department’s online portal http://onlinedst.gov.in. 8. The last date for submitting the application is 3rd July 2023 till 5:00 pm, IST (as per the 2023 guidelines; note: this may vary annually).",
+  "application_portal_url": "http://onlinedst.gov.in",
+  "required_documents": [
+    "Proforma for Submission of NIDHI - Accelerator Program Proposal",
+    "Annexure - 1 - Proforma for Submission of NIDHI - Accelerator Program Proposal",
+    "Annexure A",
+    "Documents to be submitted",
+    "Annexure B - Frequently Asked Questions",
+    "Annexure - C - General Instructions Manual for Incubators/Institutions for online proposal submission"
+  ],
+  "deadlines": "The last date for submitting the application is 3rd July 2023 till 5:00 pm, IST (as per the 2023 guidelines; note: this may vary annually based on the call for proposals).",
+  "implementing_agency": "National Science & Technology Entrepreneurship Development Board (NSTEDB), Department of Science and Technology, Government of India",
+  "contact_details": "Shri Praveen Roy, Scientist-F, Head-NEB & Member Secretary, National Science & Technology Entrepreneurship Development Board, Innovation and Entrepreneurship Division (NEB Division), Department of Science & Technology, Technology Bhawan, New Mehrauli Road, New Delhi-110016. Telefax: 011 – 26590316, E-mail: praveen.roy@nic.in. Er. Ravinder Gaur, Scientist- E/Director, Innovation and Entrepreneurship Division (NEB Division), Department of Science and Technology, Ministry of Science & Technology, Technology Bhawan, New Mehrauli Road, New Delhi-110016. Tel: 011- 26590373, E-mail: rgaur@nic.in",
+  "caveats": [
+    "The NSTEDB’s contribution shall not exceed INR 40 lakh per program of one cohort.",
+    "A maximum of 40% or up to INR 15 lakh (whichever is lesser) of the total budget sanctioned for the accelerator program can be outsourced to external partners.",
+    "At least 70% of the total mentoring should be one-to-one sessions.",
+    "Ideally, the program must have a minimum of 20 hours of training in a one-to-many format and a minimum of 50 hours of dedicated mentoring in a one-to-one format.",
+    "The grant being released should be exclusively spent for the specified purpose for which it has been sanctioned within the stipulated time. Any unspent balance out of the amount sanctioned, including interest accrued, would be refunded to the Govt. of India in Bharat Kosh.",
+    "The grantee is required to send two copies each of progress report (hard & soft copy), audited statement of accounts, and utilization certificate to the Department of Science and Technology at the end of each financial year.",
+    "All the assets acquired or created from the grant shall be installed in the premises of the TBI and not in any other department/Division of the host institute unless specifically approved by the Department of Science and Technology on the recommendation of the NEAC."
+  ],
+  "source_cited_notes": [
+    "https://cdnbbsr.s3waas.gov.in/s312b1e42dc0746f22cf361267de07073f/uploads/2023/09/202309061141858190.pdf",
+    "https://nidhi.dst.gov.in/schemes-programmes/nidhiaccelerator/"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:17:49.608448+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-48",
+  "scheme_name": "Cent Kalyani Scheme (Central Bank)",
+  "scheme_url": "https://www.centralbankofindia.co.in",
+  "ministry_or_category": "Women Entrepreneurship",
+  "overview": "The Cent Kalyani Scheme is a loan product offered by Central Bank of India specifically designed to support women entrepreneurs in establishing or expanding their business ventures. It provides financial assistance through term loans to eligible women entrepreneurs for various business purposes including working capital, asset creation, and business expansion. The scheme aims to promote women's entrepreneurship and economic empowerment by offering accessible credit facilities with favorable terms.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial assistance to women entrepreneurs for starting or expanding business ventures",
+    "To promote women's entrepreneurship and economic empowerment",
+    "To support business growth through accessible credit facilities",
+    "To encourage self-employment and income generation among women",
+    "To contribute to the development of women-led MSMEs"
+  ],
+  "eligibility": "Women entrepreneurs who are Indian nationals, aged 18 years and above, with KYC-compliant accounts with Central Bank of India. The scheme is applicable to women engaged in manufacturing, service, trading, or agricultural activities. Applicants must have a viable business project and demonstrate repayment capacity. Existing Central Bank of India customers with satisfactory account conduct are preferred.",
+  "benefits": "Financial support through term loans for business purposes, no collateral requirement for loans up to a certain limit (as per CGTMSE coverage), competitive interest rates, flexible repayment tenure, and support for various business activities including working capital, asset creation, and business expansion. The scheme also offers guidance and support through the bank's MSME and women entrepreneur cell.",
+  "financial_support": "The scheme provides term loans to women entrepreneurs with loan quantum determined based on project viability and repayment capacity. While specific loan limits are not detailed in the evidence, the scheme operates under the bank's general lending policies for MSMEs. Loans may be covered under CGTMSE for collateral-free lending up to specified limits. Interest rates are linked to external benchmarks like MCLR/RBLR with applicable spreads.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest Central Bank of India branch or access the bank's online portal. 2. Inquire about the Cent Kalyani Scheme for women entrepreneurs. 3. Obtain and fill the loan application form. 4. Submit the application along with required documents including KYC, business plan, and financial projections. 5. Bank officials will verify documents and assess project viability. 6. Upon approval, loan sanction letter will be issued. 7. Complete legal formalities and disbursement will be made as per agreed terms.",
+  "application_portal_url": "https://centralbankofindia.co.in/en/Apply_Online",
+  "required_documents": [
+    "KYC documents (Identity and Address proof)",
+    "PAN card",
+    "Business plan/project report",
+    "Bank account statement (if existing customer)",
+    "Proof of business address",
+    "Financial projections",
+    "Any licenses/registrations related to the business",
+    "Details of collateral/security (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Central Bank of India",
+  "contact_details": "Toll Free Number - 1800 30 30 - for all | Toll Free Number - 18002031911 - Exclusively for Pensioner",
+  "caveats": [
+    "Loan approval is subject to credit assessment and project viability",
+    "Repayment capacity is a key factor in loan sanction",
+    "Specific terms and conditions including interest rates, tenure, and margin are subject to change based on bank policy",
+    "Loans above certain limits may require collateral or third-party guarantee",
+    "Beneficiaries must maintain satisfactory account conduct with the bank"
+  ],
+  "source_cited_notes": [
+    "https://centralbankofindia.co.in/",
+    "https://centralbankofindia.co.in/en/Apply_Online"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:46:51.017214+00:00"
+}

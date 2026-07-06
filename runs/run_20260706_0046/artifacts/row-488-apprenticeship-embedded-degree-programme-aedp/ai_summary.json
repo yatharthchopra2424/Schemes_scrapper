@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-488",
+  "scheme_name": "Apprenticeship Embedded Degree Programme (AEDP)",
+  "scheme_url": "https://apprenticeshipindia.org",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "The Apprenticeship Embedded Degree Programme (AEDP) integrates academic learning with on-the-job training to enhance employability and bridge the skill gap. It is designed to provide students with a degree while gaining practical industry experience through apprenticeships. The programme aims to align education with industry needs and promote workforce readiness. It supports the Skill India Mission by combining formal education with structured training.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "youth",
+    "candidates"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Integrate academic learning with on-the-job training",
+    "Enhance employability through industry-aligned skills",
+    "Bridge the gap between education and industry requirements",
+    "Promote workforce readiness under the Skill India Mission",
+    "Provide degree qualifications alongside practical apprenticeship experience"
+  ],
+  "eligibility": "Candidates must be enrolled in a recognized degree programme and meet the educational qualifications specified for the apprenticeship trade, including minimum 10+2 or equivalent as per the trade requirements.",
+  "benefits": "Participants gain hands-on industry experience, earn a stipend during training, receive a degree upon completion, and improve job prospects through certified skills and NSQF alignment.",
+  "financial_support": "Under the National Apprenticeship Promotion Scheme (NAPS), the government reimburses 25% of the stipend paid to apprentices, capped at INR 1,500 per month per apprentice, for a maximum duration of the training period.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register as a candidate on the apprenticeshipindia.org portal. 2. Complete profile with educational and personal details. 3. Search for apprenticeship opportunities under AEDP or related schemes. 4. Apply to establishments offering embedded degree apprenticeships. 5. Upon selection, sign the apprenticeship contract. 6. Begin on-the-job training while pursuing academic studies. 7. Complete assessments and submit required documentation. 8. Receive degree and certification upon successful completion.",
+  "application_portal_url": "https://apprenticeshipindia.org",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Skill Development and Entrepreneurship",
+  "contact_details": "",
+  "caveats": [
+    "Stipend reimbursement under NAPS is limited to 25% of stipend or INR 1,500 per month, whichever is lower",
+    "Training duration must not exceed the academic programme timeline",
+    "Establishments must be registered on the portal to host apprentices"
+  ],
+  "source_cited_notes": [
+    "https://apprenticeshipindia.org",
+    "https://apprenticeshipindia.org/",
+    "https://apprenticeshipindia.org/courses",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/Office_Memorandum_02-Dec-2021.pdf",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/OM+-+Enabling+of+Portal+Features+relating+to+Apprenticeship+Engagement+Cap+of+18%25+and+Minimum+Gap+Between+Apprenticeship+Training_23042026.pdf",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/OM+-+Implementation+of+Valid+Email+Verification_22042026.PDF",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/OM-Standardisation+of+Timelines+and+Process+Flow+for+Apprenticeship+Contract01-04-2026.pdf",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/Corrigendum_31-Jan-2022.PDF",
+    "https://naps-prod.s3.ap-south-1.amazonaws.com/documents/naps/zooK8lCccNHM6RvfCrkOj1WvJIcJFqnH1qLCoNX0s73zp9GPzcy3Xjn3wDyp.pdf",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/SoP_for_Apprenticeship_during_COVID-19.docx",
+    "https://naps-prod.s3.ap-south-1.amazonaws.com/documents/naps/4vpGIy368fsQGFiMLdBZ0G68kefDrEwtrunVIRroHp3EN08TPGdRrAsYNlLL.pdf",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/miscellaneous/Apprenticeship_OT_Curriculum_Template_v2.docx",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/miscellaneous/Apprenticeship_OT_Curriculum_Template-guidelines_v2.docx",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/miscellaneous/DegreeApprenticeshipCurriculumTemplate_v1.docx",
+    "https://naps-cdn.s3.ap-south-1.amazonaws.com/miscellaneous/DegreeApprenticeshipCurriculumGuidelines_v1.docx"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:52:28.090716+00:00"
+}

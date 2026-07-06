@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-96",
+  "scheme_name": "Sukanya Samriddhi Yojana",
+  "scheme_url": "https://www.nsiindia.gov.in",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "Sukanya Samriddhi Yojana (SSY) is a small savings scheme launched by the Government of India under the Beti Bachao, Beti Padhao campaign to promote the welfare of the girl child. It encourages parents or legal guardians to build a fund for the future education and marriage expenses of their girl child. The scheme offers attractive interest rates, tax benefits under Section 80C of the Income Tax Act, and a long-term savings instrument with a maturity period of 21 years from the date of account opening or upon marriage after the age of 18.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "girl child"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To ensure financial security for the girl child",
+    "To promote the welfare of the girl child through savings",
+    "To support the education and marriage expenses of the girl child",
+    "To encourage parents to save for the future of their girl child",
+    "To contribute to the Beti Bachao, Beti Padhao initiative"
+  ],
+  "eligibility": "The account can be opened by the parents or legal guardians of a girl child who is a resident Indian citizen and has not attained the age of 10 years. Only one account can be opened per girl child, and a maximum of two accounts can be opened by a family for two different girl children (third account allowed only in case of twin girls or triplets as second birth).",
+  "benefits": "The scheme offers a high rate of interest (revised quarterly by the Government of India), income tax benefits under Section 80C on the amount deposited, interest earned, and maturity proceeds (EEE status). The account can be transferred anywhere in India. Partial withdrawal is allowed for higher education of the account holder after she attains the age of 18 years. The account matures after 21 years from the date of opening or upon marriage after the age of 18.",
+  "financial_support": "Minimum deposit of INR 250 and maximum of INR 1.5 lakh per financial year. Deposits can be made in multiples of INR 50. The interest rate is compounded annually and notified by the Government of India each financial year. The amount invested, interest accrued, and maturity proceeds are exempt from income tax under Section 80C of the Income Tax Act, 1961.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit a participating bank or India Post office. 2. Obtain the Sukanya Samriddhi Yojana account opening form. 3. Fill in the required details of the guardian and the girl child. 4. Submit the form along with the required documents. 5. Make the initial deposit (minimum INR 250). 6. Collect the passbook or account details after successful account opening.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Birth certificate of the girl child",
+    "Identity proof of the guardian (Aadhaar card, PAN card, passport, etc.)",
+    "Address proof of the guardian (Aadhaar card, utility bill, passport, etc.)",
+    "Photographs of the guardian and the girl child"
+  ],
+  "deadlines": "Rolling basis — accounts can be opened any time during the financial year as long as the girl child is below 10 years of age.",
+  "implementing_agency": "Ministry of Finance, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Premature closure is allowed only after completion of 5 years under specific circumstances such as the death of the account holder or life-threatening disease",
+    "If the minimum deposit of INR 250 is not made in a financial year, a penalty of INR 50 per year is charged",
+    "The account cannot be opened for a girl child who is 10 years or older",
+    "Only one SSY account is permitted per girl child"
+  ],
+  "source_cited_notes": [
+    "https://www.nsiindia.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:15:33.324328+00:00"
+}

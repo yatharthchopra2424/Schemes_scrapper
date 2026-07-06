@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-62",
+  "scheme_name": "AMRUT 2.0",
+  "scheme_url": "https://amrut.gov.in",
+  "ministry_or_category": "Water & Sanitation",
+  "overview": "AMRUT 2.0 (Atal Mission for Rejuvenation and Urban Transformation 2.0) is a centrally sponsored scheme launched by the Ministry of Housing and Urban Affairs (MoHUA) to provide universal coverage of water supply and sewerage/septage management in all statutory towns across India. The mission aims to make cities water-secure and improve the quality of life through sustainable urban infrastructure development, with a focus on sewage treatment, reuse of treated wastewater, and rejuvenation of water bodies.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "Urban Local Bodies (ULBs)",
+    "State Governments",
+    "Cantonment Boards"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide universal coverage of water supply to all households in statutory towns",
+    "Ensure sewerage and septage management in 500 AMRUT cities",
+    "Promote reuse of treated wastewater for non-potable purposes",
+    "Rejuvenate water bodies and develop green spaces and parks",
+    "Strengthen institutional and financial capacity of Urban Local Bodies",
+    "Improve governance and service delivery through digital interventions"
+  ],
+  "eligibility": "All statutory towns as per Census 2011, including cantonment boards, are eligible under AMRUT 2.0. The scheme covers 500 cities and towns with a population of over 1 lakh, along with all state/UT capitals and cities/towns situated on the banks of major rivers, irrespective of population.",
+  "benefits": "Financial assistance for water supply, sewerage, septage management, water body rejuvenation, and park development; capacity building and reforms implementation; incentive for water reuse and non-revenue water reduction; technical support for project preparation and monitoring; promotion of public-private partnerships in urban infrastructure.",
+  "financial_support": "The scheme provides central funding in the form of grants to States/UTs based on an equitable formula. The central government bears 50% of the project cost for cities with population up to 10 lakhs, one-third for cities with population above 10 lakhs, and 90% for North Eastern and Himalayan States. The remaining cost is borne by the State/ULB. Funds are released in installments linked to project progress and reform implementation.",
+  "fund_size_crores": "28700",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs submit State Annual Action Plans (SAAPs) for approval by the Apex Committee under MoHUA. 2. Upon approval, projects are formulated by Urban Local Bodies (ULBs) or Parastatal agencies. 3. Detailed Project Reports (DPRs) are prepared and submitted for technical sanction. 4. Works are tendered and awarded as per financial rules. 5. Projects are executed and monitored through geo-tagging and third-party inspection. 6. Utilization certificates and progress reports are submitted for subsequent fund releases.",
+  "application_portal_url": "https://amrut.gov.in",
+  "required_documents": [
+    "State Annual Action Plan (SAAP)",
+    "Detailed Project Reports (DPRs)",
+    "Utilization Certificates",
+    "Progress Reports with geo-tagged photographs",
+    "Reform implementation reports",
+    "Financial statements and audit reports"
+  ],
+  "deadlines": "Annual planning cycle — States/UTs submit SAAPs yearly for approval; project implementation timelines vary as per DPR approval.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "Email: amrut@nih.gov.in | Helpline: 011-23063284",
+  "caveats": [
+    "Funding is contingent upon implementation of mandatory and incentive-based reforms",
+    "Central assistance is released in installments subject to utilization of previous installments",
+    "Projects must be completed within the mission period (2021-2026)",
+    "Land acquisition and statutory clearances are the responsibility of the State/ULB"
+  ],
+  "source_cited_notes": [
+    "https://amrut.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:53:43.417300+00:00"
+}

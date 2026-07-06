@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-760",
+  "scheme_name": "India-Israel Industrial R&D Fund (ISERD)",
+  "scheme_url": "https://www.iserd.org.il",
+  "ministry_or_category": "International Collaboration",
+  "overview": "ISERD (Israel-Europe R&D Directorate) facilitates Israeli participation in Horizon Europe, the European Union's flagship research and innovation programme running from 2021 to 2027 with a budget of €95.5 billion. It supports Israeli organizations, including startups, SMEs, academia, and public sector entities, in accessing Horizon Europe funding through partner search, proposal writing workshops, and technology transfer opportunities. ISERD also provides information on financial support mechanisms such as reimbursement of proposal expenses via the Israel Innovation Authority and highlights success stories of Israeli entities securing Horizon Europe grants.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "SMEs",
+    "academia and research institutes",
+    "large companies",
+    "public sector and NGOs"
+  ],
+  "geographic_scope": "Israel (for participation in Horizon Europe)",
+  "objectives": [
+    "Advance scientific excellence through Horizon Europe participation",
+    "Drive transformative innovations addressing global challenges",
+    "Enhance Israel's integration in European research and innovation programmes",
+    "Support Israeli organizations in accessing Horizon Europe funding",
+    "Promote cooperation between Israeli and European entities in R&I",
+    "Strengthen Israel's competitiveness in the global innovation ecosystem",
+    "Facilitate partner search and consortium building for Horizon Europe proposals",
+    "Provide guidance on proposal writing and technology transfer opportunities"
+  ],
+  "eligibility": "Organizations registered in Israel, including SMEs, large companies, academia and research institutes, public sector entities, and NGOs, are eligible to participate in Horizon Europe as associated country members and benefit from ISERD support.",
+  "benefits": "Access to Horizon Europe funding opportunities, partner search and consortium building support, proposal writing workshops (e.g., for MSCA Postdoctoral Fellowships), technology transfer and business development opportunities, reimbursement of proposal expenses via the Israel Innovation Authority, and guidance on EU funding programmes.",
+  "financial_support": "Israeli organizations submitting Horizon Europe proposals as part of a consortium are entitled to reimbursement of expenses from the Israel Innovation Authority. Additionally, Israeli startups have secured funding through Horizon Europe-related programmes such as the EIC Accelerator, which offers a grant of up to €2.5 million and equity investment of up to €15 million.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a Horizon Europe call matching your idea or technology via ISERD resources. 2. Use ISERD partner search tools and attend webinars (e.g., 'Call Identified, Consortium Needed') to find consortium partners. 3. Participate in ISERD proposal writing workshops (e.g., MSCA Postdoctoral Fellowships 2026) to structure applications. 4. Leverage ISERD technology transfer webinars to explore business development opportunities. 5. Submit proposals through the Horizon Europe portal. 6. Apply for reimbursement of proposal expenses via the Israel Innovation Authority if part of a consortium.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Based on Horizon Europe call timelines; ISERD offers weekly sessions (e.g., 'Sunday Morning with Horizon Europe') to help applicants stay updated on open calls.",
+  "implementing_agency": "Israel-Europe R&D Directorate (ISERD)",
+  "contact_details": "",
+  "caveats": [
+    "Participation is subject to Horizon Europe call-specific eligibility and evaluation criteria",
+    "Financial support such as expense reimbursement is contingent on consortium membership and Israel Innovation Authority approval",
+    "ISERD does not provide direct funding but facilitates access to EU programmes"
+  ],
+  "source_cited_notes": [
+    "https://iserd.org.il"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:15:07.913232+00:00"
+}

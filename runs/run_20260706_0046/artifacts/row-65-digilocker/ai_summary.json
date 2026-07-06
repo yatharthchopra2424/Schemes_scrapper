@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-65",
+  "scheme_name": "DigiLocker",
+  "scheme_url": "https://digilocker.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "DigiLocker is a flagship initiative of the Ministry of Electronics & IT (MeitY) under the Digital India programme. It provides a secure cloud-based platform for storage, sharing, and verification of digital documents and certificates. DigiLocker aims at 'Digital Empowerment' of citizens by providing access to authentic digital documents to their digital document wallet, with issued documents deemed legally at par with original physical documents under Rule 9A of the IT (Preservation and Retention of Information by Intermediaries providing Digital Locker facilities) Rules, 2016.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "citizens"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide access to authentic digital documents to citizens' digital document wallet",
+    "Enable secure storage, sharing, and verification of documents & certificates",
+    "Promote digital empowerment through paperless governance",
+    "Facilitate real-time verification of documents by government agencies",
+    "Reduce administrative overhead by minimizing paper use",
+    "Support faster service delivery in areas like employment, financial inclusion, education, and health"
+  ],
+  "eligibility": "To access the DigiLocker platform, users must register using a valid Indian mobile number, Driving License, PAN or Aadhaar. Registration may require verification via an OTP. Users are using Aadhaar voluntarily.",
+  "benefits": "For Citizens: Access Anytime, Anywhere; Legally Valid, Widely Trusted Digital documents; Effortless Sharing with explicit consent; Accelerate Services for jobs, government benefits, banking, healthcare, and education. For Agencies: Reduced Administrative Overhead; Digital Transformation through trusted issued documents; Secure Document Gateway for exchange between issuer and requester; Real Time Verification enabling government agencies to verify data directly from issuers with user consent.",
+  "financial_support": "No fees shall be charged by NeGD for access to issued documents through DigiLocker. The platform is provided free of cost to users for core services.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register yourself using a valid Indian mobile number, Driving License, PAN or Aadhaar. 2. Verify yourself via OTP or other verification method. 3. Fetch your documents from linked issuers. 4. Share your documents with consent. 5. Become a DigiLocker Partner Organization by registering as an Issuer or Requester.",
+  "application_portal_url": "https://digilocker.gov.in",
+  "required_documents": [
+    "Valid Indian mobile number",
+    "Driving License",
+    "PAN",
+    "Aadhaar"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Electronics & IT (MeitY), Government of India",
+  "contact_details": "Email: support@digilocker.gov.in | Address: National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY), Government of India, New Delhi, India",
+  "caveats": [
+    "Users must explicitly consent before fetching or sharing any documents in their account",
+    "Premium Service (value-added services) may involve subscription or usage fees",
+    "Account may be suspended or deleted if personal data is collected from individuals under 18 without verifiable parental or guardian consent",
+    "Users are liable for uploaded content and must ensure it does not infringe Indian laws"
+  ],
+  "source_cited_notes": [
+    "https://digilocker.gov.in/",
+    "https://digilocker.gov.in/web/about/about-digilocker",
+    "https://digilocker.gov.in/web/partners/introductions",
+    "https://digilocker.gov.in/web/about/tos",
+    "https://digilocker.gov.in/web/resources"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:55:14.521758+00:00"
+}

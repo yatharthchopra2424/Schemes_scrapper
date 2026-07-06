@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-165",
+  "scheme_name": "Micro & Small Enterprises Cluster Development Programme (MSE-CDP)",
+  "scheme_url": "https://msme.gov.in/mse-cdp",
+  "ministry_or_category": "MSME",
+  "overview": "The Micro & Small Enterprises Cluster Development Programme (MSE-CDP) is a Government of India initiative aimed at enhancing productivity, infrastructure development, common facility centers, market access, and technology upgradation for MSE clusters. It provides integrated support through cluster development to strengthen competitiveness and ensure sustainable growth of micro and small enterprises. The scheme focuses on creating common facility centers, improving infrastructure, and facilitating technology adoption within clusters.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "MSME",
+    "micro enterprises",
+    "small enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance productivity of micro and small enterprises through cluster development",
+    "Develop infrastructure and establish common facility centers for MSE clusters",
+    "Improve market access for products and services of MSE clusters",
+    "Facilitate technology upgradation and adoption within clusters",
+    "Strengthen competitiveness and ensure sustainable growth of MSE sector"
+  ],
+  "eligibility": "Micro and Small Enterprises (MSEs) engaged in viable economic activities, forming clusters or willing to form clusters for mutual benefit, with focus on sectors having potential for growth and employment generation. The scheme supports both new and existing clusters of MSEs across manufacturing and service sectors.",
+  "benefits": "Financial assistance for setting up Common Facility Centers (CFCs), infrastructure development (roads, water, power, drainage), technology upgradation, capacity building, skill development, market development assistance, and support for obtaining quality certifications. Non-financial benefits include technical guidance, project formulation support, monitoring and evaluation, and handholding for cluster formation and sustainability.",
+  "financial_support": "The scheme provides grant-in-aid for soft interventions (diagnostic studies, capacity building, skill training, market development) and hard interventions (setting up Common Facility Centers, infrastructure development). Financial support is provided as grant-in-aid with varying percentages based on the intervention type and cluster characteristics, typically ranging from 30% to 90% of project cost, with higher support for special category clusters (SC/ST, women, NER, hilly areas).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify and form a cluster of micro and small enterprises with common economic interests. 2. Prepare a Detailed Project Report (DPR) outlining cluster profile, proposed interventions, expected outcomes, and budget. 3. Submit the DPR along with required documents to the nodal agency (Office of Development Commissioner, MSME) or State-level implementing agencies. 4. Project appraisal and approval by the Steering Committee. 5. Release of funds in installments based on project milestones and utilization certificates. 6. Implementation of approved interventions by the cluster Special Purpose Vehicle (SPV). 7. Monitoring, evaluation, and submission of progress reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of incorporation/registration of the cluster SPV",
+    "Memorandum of Association and Articles of Association of SPV",
+    "Board resolution authorizing the project",
+    "Land documents (ownership/lease agreement) for CFC site",
+    "Quotations from vendors for plant and machinery",
+    "Bank appraisal note (if applicable)",
+    "Undertaking from SPV regarding contribution and maintenance",
+    "Details of cluster members and their products/services",
+    "Land use conversion certificate (if agricultural land)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and appraisal cycles.",
+  "implementing_agency": "Office of the Development Commissioner, Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the scheme",
+    "Beneficiary cluster must contribute a minimum percentage of project cost (varies by category)",
+    "Utilization of funds must be strictly for the approved project components",
+    "Regular monitoring and submission of progress reports are mandatory",
+    "Assets created under the scheme must be maintained and used for the intended purpose for a minimum period"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/offerings",
+    "https://msme.gov.in/static/uploads/2026/06/73314328eeccc80b0fd57b84d6645dea.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:49:42.461529+00:00"
+}

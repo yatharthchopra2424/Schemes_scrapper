@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-29",
+  "scheme_name": "SAMPADA Scheme (Food Processing)",
+  "scheme_url": "https://mofpi.gov.in/sampada",
+  "ministry_or_category": "Agriculture Processing",
+  "overview": "The SAMPADA Scheme (Food Processing), now known as Pradhan Mantri Kisan SAMPADA Yojana as Pradhan Mantri Kisan SAMPADA Yojana (PMKSY), is an umbrella Central sector scheme approved by the Government of India on 03.05.2017 with a total allocation of Rs. 6000 crore for the implementation period 2016-2020, later extended till 31.03.2026 with an additional allocation of Rs. 4600 crore. It aims to create modern infrastructure with efficient supply chain management from farm gate to retail outlet, boost food processing sector growth, provide better returns to farmers, double farmers' income, create employment opportunities in rural areas, reduce agricultural wastage, increase processing levels, and enhance exports of processed foods. The scheme comprises seven component schemes including Mega Food Parks, Integrated Cold Chain, Agro-Processing Clusters, Creation of Backward and Forward Linkages, Creation/Expansion of Food Processing & Preservation Capacities, Food Safety and Quality Assurance Infrastructure, and Human Resources and Institutions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "MSME",
+    "agri-startups",
+    "farmers",
+    "food processing units",
+    "SC/ST Category",
+    "NER Region"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Creation of modern infrastructure with efficient supply chain management from farm gate to retail outlet",
+    "Provide a big boost to the growth of food processing sector in the country",
+    "Help in providing better returns to farmers",
+    "Double farmers' income",
+    "Create huge employment opportunities especially in rural areas",
+    "Reduce wastage of agricultural produce",
+    "Increase the processing level of agricultural produce",
+    "Enhance the export of processed foods"
+  ],
+  "eligibility": "Eligibility varies by component scheme. For the Research & Development in Processed Food Sector: All Universities, IITs, Central/State Government Institutions, Government funded Organizations, R&D laboratories and CSIR recognized R&D units in private sector. For other sub-schemes like Mega Food Parks, Cold Chain, Agro-Processing Clusters, etc., eligibility typically includes entrepreneurs, MSMEs, FPOs, SHGs, producer cooperatives, and entities involved in food processing, with specific criteria detailed in individual scheme guidelines.",
+  "benefits": "Financial assistance in the form of grants-in-aid for setting up infrastructure projects in food processing sector; technical and financial support for agro-processing clusters, cold chain, food testing laboratories, backward and forward linkages, and food processing unit expansion; support for skill development, research and development, promotional activities, and operational guidelines; access to subsidized credit through special funds; and facilitation of project approval via Program Management Agencies (PMAs) and Project Approval Committees.",
+  "financial_support": "Financial assistance is provided as grants-in-aid for infrastructure projects in the food processing sector under various component schemes. The pattern of release of funds involves two instalments: 50% upon submission of acceptance letter and compliance documents, and the remaining 50% upon submission of utilization certificate and proof of expenditure. Funds are released through the Public Financial Management System (PFMS) via the EAT module. The scheme leverages investment of Rs. 11,095.93 crore, with a total government allocation of Rs. 10,600 crore (initial Rs. 6000 crore + extension Rs. 4600 crore).",
+  "fund_size_crores": "10600",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the respective scheme portal (e.g., PMKSY, Mega Food Park, Cold Chain, etc.) based on the component of interest. 2. Check for active Expressions of Interest (EoI) or notifications inviting proposals. 3. Download guidelines and application forms from the 'Download Guidelines' or 'Download Circulars' section. 4. Prepare the proposal as per the scheme guidelines, including project report, eligibility documents, and financial details. 5. Submit the application online through the designated portal or via email to the concerned division. 6. Await scrutiny by the Technical Committee and Project Approval Committee. 7. Upon approval, receive approval letter and proceed with fund release in instalments as per the Pattern of Release of Funds.",
+  "application_portal_url": "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+  "required_documents": [
+    "Project report",
+    "Eligibility documents (e.g., Certificate of Incorporation, PAN, GST registration)",
+    "Bank account details",
+    "Land documents (ownership/registered leasehold with minimum 15 years duration)",
+    "Surety Bond (Annexure-IX) on non-judicial stamp paper of not less than Rs. 100/-",
+    "Building plan/Blue Print/Lay-out",
+    "Technical Civil Work and Furniture and Fixture details",
+    "Details of approved equipment procured and installed",
+    "Bank statements showing payment to suppliers",
+    "Utilization certificate of earlier grants (if any)",
+    "Self-attested English/Hindi version of land document",
+    "Geo-tagged photographs of the project",
+    "Term loan sanction letter from bank",
+    "Confirmation of term loan disbursement from bank",
+    "Self-declaration of project completion and commercialization"
+  ],
+  "deadlines": "Varies by component scheme and EoI notifications; many are time-bound with extensions (e.g., EOI dated 04.10.2023 extended upto 15.12.2023 for several schemes). Specific deadlines are announced in individual notifications. No universal rolling basis; applicants must check current EoIs on the ministry website.",
+  "implementing_agency": "Ministry of Food Processing Industries (MoFPI)",
+  "contact_details": "",
+  "caveats": [
+    "Certain sub-schemes like Mega Food Park, Creation of Backward & Forward Linkages, Human Resource & Institution - Promotional Activities, Skill Development & HACCP have been discontinued in the 15th Finance Commission cycle with provision of committed liability only.",
+    "Land must be owned or on registered leasehold with duration not less than 15 years.",
+    "Surety Bond is required for private PIAs but not for Central/State Government Departments.",
+    "Benefits are subject to compliance with terms in the approval letter and submission of utilization certificates.",
+    "Funds are released in two instalments linked to specific milestones and documentation."
+  ],
+  "source_cited_notes": [
+    "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+    "https://mofpi.gov.in/sampada",
+    "https://mofpi.gov.in/Schemes/food-safety-quality-assurance-infrastructure/setting-gradation-quality-control-food-testing-laboratory/release-funds"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:36:27.199638+00:00"
+}

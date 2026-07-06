@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-463",
+  "scheme_name": "CERC Green Term Ahead Market (GTAM) for Startups",
+  "scheme_url": "https://cercind.gov.in",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "The CERC Green Term Ahead Market (GTAM) for Startups is a market mechanism enabling startups to participate in renewable energy trading through term-ahead contracts. It facilitates price discovery and risk management for green power procurement. The scheme aims to promote renewable energy adoption among innovative enterprises by providing access to competitive, transparent bidding processes. Startups can bid for renewable power delivery over specified future periods, supporting India's clean energy transition goals.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable price discovery for renewable energy through term-ahead market mechanisms",
+    "Facilitate risk management for green power procurement by startups",
+    "Promote renewable energy adoption among innovative enterprises",
+    "Provide access to competitive and transparent bidding processes for clean power",
+    "Support India's clean energy transition through market-based mechanisms",
+    "Encourage participation of new entrants in the renewable energy trading ecosystem"
+  ],
+  "eligibility": "Startups engaged in renewable energy projects or clean technology innovation that are registered under relevant government schemes and meet the technical and financial criteria specified in the Central Electricity Regulatory Commission (Connectivity and General Network Access to the inter-State Transmission System) Regulations, 2022 and its amendments.",
+  "benefits": "Access to transparent price discovery for renewable power, ability to hedge against price volatility in green energy markets, opportunity to secure long-term power purchase agreements at competitive rates, facilitation of market entry for innovative clean technology firms, and support for meeting renewable purchase obligations through market instruments.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants. Instead, it enables market-based transactions where startups can buy or sell renewable power through term-ahead contracts, with prices determined by competitive bidding. Financial support is indirect through reduced transaction costs and access to efficient price discovery mechanisms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register as a participant in the Green Term Ahead Market (GTAM) through the power exchange platform approved by CERC. 2. Complete the necessary KYC and compliance requirements as per the exchange regulations. 3. Submit required documents including proof of startup registration, project details, and bank guarantees. 4. Participate in the bidding process for term-ahead renewable power contracts. 5. Upon successful bid, execute power purchase agreements and fulfill delivery obligations as per contract terms.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of startup registration (DPIIT recognition or equivalent)",
+    "Project details including technology type and capacity",
+    "Bank Guarantee as per CERC regulations",
+    "Affidavit certifying the bank guarantee",
+    "Mandate form for bank account details",
+    "Technical and financial capability documents"
+  ],
+  "deadlines": "Rolling basis — GTAM sessions are conducted regularly as per the power exchange calendar",
+  "implementing_agency": "Central Electricity Regulatory Commission (CERC)",
+  "contact_details": "Email: info@cercind.gov.in | Phone: 91-11-26189709",
+  "caveats": [
+    "Participation requires compliance with CERC (Connectivity and General Network Access to the inter-State Transmission System) Regulations, 2022",
+    "Bank Guarantee must be valid and extendable as per Supreme Court directions in Civil Appeal No. 4801 of 2018",
+    "Startups must meet technical and financial eligibility criteria set by the power exchange",
+    "Market participation is subject to exchange-specific rules and settlement procedures"
+  ],
+  "source_cited_notes": [
+    "https://cercind.gov.in/",
+    "https://cercind.gov.in/2026/Orders/5-SM-2026.pdf",
+    "https://cercind.gov.in/2022/whatsnew/Refund_BG_040722.pdf",
+    "https://cercind.gov.in/2022/whatsnew/Notice REC020724.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:43:01.605235+00:00"
+}

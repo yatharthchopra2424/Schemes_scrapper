@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-276",
+  "scheme_name": "Atal Bhujal Yojana (Groundwater Management)",
+  "scheme_url": "https://atalbhujal.gov.in",
+  "ministry_or_category": "Water & Sanitation",
+  "overview": "Atal Bhujal Yojana (ABY) is a central sector scheme launched by the Government of India to improve groundwater management in water-stressed areas through community participation and sustainable practices. The scheme focuses on demand-side management, aquifer recharge, and strengthening institutional frameworks for groundwater governance. It aims to arrest the rate of decline of groundwater levels and improve water conservation practices in identified over-exploited and water-stressed areas.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "gram panchayats",
+    "water user associations",
+    "local communities",
+    "farmers"
+  ],
+  "geographic_scope": "Seven states: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, Uttar Pradesh",
+  "objectives": [
+    "Strengthen the institutional framework for participatory groundwater management",
+    "Promote behavioral changes at the community level for sustainable groundwater use",
+    "Implement demand-side management practices in identified water-stressed areas",
+    "Undertake aquifer recharge and water conservation activities",
+    "Improve the availability and reliability of groundwater data and monitoring systems",
+    "Enhance the capacity of stakeholders for effective groundwater governance",
+    "Ensure convergence with other government schemes for integrated water resource management"
+  ],
+  "eligibility": "The scheme is implemented in identified water-stressed areas of seven states: Gujarat, Haryana, Karnataka, Madhya Pradesh, Maharashtra, Rajasthan, and Uttar Pradesh. Benefits are extended to gram panchayats, water user associations, and local communities in these areas who participate in groundwater management activities through community-led water security plans.",
+  "benefits": "Financial and technical support for preparation and implementation of community-led Water Security Plans (WSPs), capacity building and training for stakeholders, support for IEC (Information, Education, and Communication) activities, technical assistance for groundwater monitoring and data management, and convergence with other schemes for integrated water resource management.",
+  "financial_support": "The scheme provides financial assistance as grants to implementing agencies for activities under the Water Security Plans. The funding pattern is 50% from the World Bank loan and 50% from central government assistance, with funds released based on achievement of disbursement-linked indicators (DLIs).",
+  "fund_size_crores": "6000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identification of water-stressed areas by the central and state governments. 2. Formation of Water User Associations (WUAs) and Gram Panchayat-level committees. 3. Preparation of Community-led Water Security Plans (WSPs) through participatory processes. 4. Submission of WSPs to the WSPs for approval by the State Level Scheme Sanctioning Committee (SLSSC). 5. Implementation of approved WSPs with financial and technical support from the scheme. 6. Monitoring and evaluation based on Disbursement-Linked Indicators (DLIs).",
+  "application_portal_url": "https://atalbhujal.gov.in",
+  "required_documents": [
+    "Water Security Plan (WSP) document",
+    "Resolution from Gram Panchayat or Water User Association",
+    "Details of beneficiary contribution and community participation",
+    "Technical feasibility report from concerned department",
+    "Convergence plan with other schemes (if applicable)"
+  ],
+  "deadlines": "Rolling basis — proposals are invited periodically based on annual action plans",
+  "implementing_agency": "Department of Water Resources, River Development and Ganga Rejuvenation, Ministry of Jal Shakti",
+  "contact_details": "Email: abhy@nic.in | Phone: 011-2436-1846",
+  "caveats": [
+    "Scheme is limited to identified over-exploited and water-stressed areas in the seven participating states",
+    "Funds are released based on achievement of Disbursement-Linked Indicators (DLIs)",
+    "Requires 50% beneficiary contribution in kind or cash for certain activities",
+    "Implementation is contingent on state government participation and fund allocation"
+  ],
+  "source_cited_notes": [
+    "https://atalbhujal.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:46:27.430310+00:00"
+}

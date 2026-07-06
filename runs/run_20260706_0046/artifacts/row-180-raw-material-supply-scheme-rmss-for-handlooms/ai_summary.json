@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-180",
+  "scheme_name": "Raw Material Supply Scheme (RMSS) for Handlooms",
+  "scheme_url": "https://handlooms.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Raw Material Supply Scheme (RMSS) for Handlooms is a central sector scheme implemented by the Office of the Development Commissioner for Handlooms under the Ministry of Textiles. It aims to ensure easy access to raw materials at subsidized prices for handloom weavers by providing yarn through a network of yarn depots and warehouses. The scheme operates via a Yarn Passbook system and Direct Benefit Transfer (DBT) mechanism to supply yarn at subsidized rates, thereby reducing input costs and improving productivity and earnings of handloom weavers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "handloom weavers",
+    "handloom agencies",
+    "self-help groups",
+    "producer companies",
+    "co-operative societies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To ensure availability of raw materials at subsidized prices to handloom weavers",
+    "To reduce the cost of production and improve the competitiveness of handloom products",
+    "To streamline yarn supply through a structured distribution network of yarn depots and warehouses",
+    "To provide financial assistance via price and transport subsidies on yarn procurement",
+    "To enhance productivity and earnings of handloom weavers through assured raw material availability",
+    "To support handloom agencies and weavers in both cooperative and non-cooperative sectors",
+    "To promote inclusive growth by benefiting disadvantaged sections including SC/ST and women weavers"
+  ],
+  "eligibility": "Eligible beneficiaries include handloom weavers, self-help groups, producer companies, primary handloom weavers’ cooperative societies, and other handloom agencies engaged in handloom production and recommended by State Directorates of Handlooms and Textiles and approved by the Development Commissioner (Handlooms).",
+  "benefits": "Financial benefits include price subsidy and transport subsidy on yarn supplied under the scheme. Non-financial benefits include assured availability of yarn through a network of 511 yarn depots and 46 warehouses, streamlined supply via Yarn Passbook and Direct Benefit Transfer (DBT), and reduced drudgery in procuring raw materials. The scheme has supplied 9139.88 lakh kg of yarn and benefited 5.38 lakh handloom weavers as per achievements reported.",
+  "financial_support": "Financial support is provided in the form of price subsidy and transport subsidy on yarn supplied to eligible handloom agencies and weavers. The subsidy is disbursed through Direct Benefit Transfer (DBT) to the bank accounts of beneficiaries. The scheme operates via a Yarn Passbook system where entitlements are tracked and yarn is supplied through authorized depots. Funds are released to implementing agencies based on verified utilization and submission of Utilization Certificates (UCs).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Eligible handloom agencies or weavers apply through the State Directorate of Handlooms and Textiles. 2. The State Directorate forwards the proposal to the Office of the Development Commissioner for Handlooms (DCHL) for approval. 3. Upon approval, the agency is enrolled in the Yarn Passbook system. 4. Yarn is supplied through authorized yarn depots at subsidized rates. 5. Subsidy amount is transferred directly to the beneficiary’s bank account via DBT. 6. Utilization Certificate (UC) must be submitted for further fund releases.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form forwarded by State Directorate of Handlooms and Textiles",
+    "Yarn Passbook (for tracking entitlements)",
+    "Bank account details for DBT transfer",
+    "Utilization Certificate (UC) for previous fund releases (if applicable)",
+    "Proof of engagement in handloom production (e.g., registration, weaver’s identity card)",
+    "Recommendation from State Directorate of Handlooms and Textiles"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year as per State Directorate recommendations and DCHL approval cycles.",
+  "implementing_agency": "Office of the Development Commissioner for Handlooms, Ministry of Textiles",
+  "contact_details": "Email: Not explicitly mentioned in evidence | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Subsidy is limited to yarn only and does not cover other raw materials like dyes or chemicals",
+    "Benefits are subject to availability of funds and approval by the Development Commissioner (Handlooms)",
+    "Yarn supply is contingent on verification through the Yarn Passbook system and submission of Utilization Certificates",
+    "Only handloom agencies recommended by State Directorates and approved by DCHL are eligible"
+  ],
+  "source_cited_notes": [
+    "https://handlooms.nic.in/assets/img/Handloom Schemes/NHDP_English Compendium_2024.pdf",
+    "https://handlooms.nic.in/assets/img/Statistics/Key Achivements in India.pdf",
+    "https://handlooms.nic.in/about.php",
+    "https://handlooms.nic.in/vision_and_mission.php"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:00:20.115046+00:00"
+}

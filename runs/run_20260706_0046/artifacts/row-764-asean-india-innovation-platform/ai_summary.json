@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-764",
+  "scheme_name": "ASEAN-India Innovation Platform",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "International Collaboration",
+  "overview": "The ASEAN-India Innovation Platform is an initiative under the Startup India program aimed at fostering innovation and collaboration between Indian startups and ASEAN member countries. It supports the development and sustainable growth of the startup ecosystem in ASEAN member states through specialized activities like the SCO Startup Forum and annual meetings of the Special Working Group for Startups and Innovation (SWG), with India as its permanent chair. The platform facilitates knowledge exchange, mentorship, and market access for startups across varied sectors and geographies. It is implemented by the Department for Promotion of Industry and Internal Trade (DPIIT) as part of its broader mandate to promote innovation and entrepreneurship.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "ASEAN Member States",
+  "objectives": [
+    "Recognize the importance of innovation and entrepreneurship in driving and diversifying economies",
+    "Create a Special Working Group for Startups and Innovation (SWG) with India as its permanent chair",
+    "Hold annual meetings of the SWG and conduct specialized activities like the SCO Startup Forum",
+    "Provide necessary assistance for the development and sustainable growth of the startup ecosystem in SCO Member States",
+    "Facilitate intelligent matchmaking between mentors and startups across varied sectors at scale",
+    "Empower entrepreneurs and ecosystem stakeholders at every stage of their journey",
+    "Drive forward a culture of innovation that propels India to the forefront of global entrepreneurship"
+  ],
+  "eligibility": "The entity should be a DPIIT recognised startup. To apply for DPIIT recognition, click on “Get Recognised” below.",
+  "benefits": "Fast-tracking of Startup Patent Applications: Patent applications filed by startups shall be fast-tracked for examination so that their value can be realised sooner. Panel of facilitators to assist in filing of IP applications: For effective implementation of the scheme, a panel of “facilitators” shall be empanelled by the Controller General of Patents, Designs and Trademarks (CGPDTM), who shall also regulate their conduct and functions. Facilitators will be responsible for providing general advisory on different intellectually property as well as information on protecting and promoting intellectual property in other countries. Government to bear facilitation cost: Under this scheme, the Central Government shall bear the entire fees of the facilitators for any number of patents, trademarks or designs that a Startup may file, and the Startups shall bear the cost of only the statutory fees payable. Rebate on filing of application: Startups shall be provided an 80% rebate in filing of patents vis-a-vis other companies. This will help them pare costs in the crucial formative years.",
+  "financial_support": "The ASEAN-India Innovation Platform does not provide direct financial support to startups. Financial support is channeled through other Startup India schemes such as the Startup India Seed Fund Scheme (SISFS), Fund of Funds for Startups (FFS), and Credit Guarantee Scheme for Startups (CGSS), which are accessed via DPIIT recognition.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal 2. Fill DPIIT recognition form with business description 3. Upload Certificate of Incorporation, PAN, pitch deck 4. Submit and await approval (typically 2-7 business days).",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Tax benefits under 80-IAC require separate Inter-Ministerial Board (IMB) approval",
+    "Startup status expires when turnover exceeds INR 200 Cr or after 10 years (20 years for DeepTech startups)"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/",
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:40:22.110714+00:00"
+}

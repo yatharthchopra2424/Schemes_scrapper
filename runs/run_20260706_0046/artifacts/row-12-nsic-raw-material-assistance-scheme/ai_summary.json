@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-12",
+  "scheme_name": "NSIC Raw Material Assistance Scheme",
+  "scheme_url": "https://www.nsic.co.in/rmas",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The NSIC Raw Material Assistance Scheme aims to help MSMEs by financing the purchase of raw materials (both indigenous and imported) through credit support, enabling them to focus on manufacturing quality products. It facilitates procurement with credit up to 180 days, allowing MSMEs to benefit from bulk purchase raw materials at bulk supplier rates and avail cash discounts. The scheme requires security in the form of a Bank Guarantee from approved banks and involves a process of application, appraisal, unit inspection, sanction of limit, agreement signing, and disbursement of assistance.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate procurement of raw material with credit support up to 180 days",
+    "Help MSMEs avail economics of purchases like bulk purchase and cash discount",
+    "Enable MSMEs to focus better on manufacturing quality products",
+    "Provide financial assistance for raw material procurement against Bank Guarantee"
+  ],
+  "eligibility": "Any Manufacturing/Service MSME having Udyam Registration Certificate can apply for the assistance under the Scheme.",
+  "benefits": "Materials facilitated under bulk supplies arrangements are provided at bulk supplier’s rate by eliminating the middlemen. Discounts received under bulk supplies arrangements are shared with MSMEs, enabling them to reduce cost of purchase of materials. Availability of raw material on credit enables MSMEs to execute orders in hand. The scheme also provides credit support for raw material procurement against Bank Guarantee with a maximum assistance of up to 95% of the BG value.",
+  "financial_support": "The scheme provides credit support for raw material procurement against Bank Guarantee. The maximum assistance is provided up to 95% of the BG value. The rate of interest varies based on SME rating and unit type (Micro or Small & Medium). For assistance availed on or after 01.07.2025, the effective rate of interest per annum is: For Micro units: (i) SME 1 rating: 8.75%, (ii) SME 2 rating: 9.25%, (iii) Other units: 9.75%. For Small & Medium units: (i) SME 1 rating: 9.25%, (ii) SME 2 rating: 9.75%, (iii) Other units: 10.25%. Penal charge on delayed payment beyond 180 days is 1.25% per quarter. Processing fee is 1.0% p.a. on new sanctions for both Micro and Small & Medium units, and 0.5% p.a. on renewal for Micro units and 1.0% p.a. for Small & Medium units.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Download the application form from NSIC’s website or obtain it from the nearest branch office. 2. Fill the application form with required details. 3. Submit the duly filled application form along with prescribed documents to the nearest NSIC branch office. 4. Preliminary appraisal and unit inspection are carried out by NSIC. 5. Sanction of limit to the unit is granted. 6. Agreement is signed between NSIC and the unit. 7. Assistance is disbursed to the unit.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Passport size photograph of each Proprietor/Director/Partner/Society office bearer",
+    "Valid self-attested Officially Valid Documents (OVD) for identity and address proof",
+    "Self-attested copies of Udyam Registration Certificate",
+    "Self-attested copy of GST Registration Certificate",
+    "Self-attested statement of personal assets and liabilities along with residential address",
+    "Copy of Board Resolution (for Pvt./Public Ltd. Co.), Power of Attorney (for partnership), or Governing Body Resolution (for Society)",
+    "Specimen signatures of authorized signatory attested by bank",
+    "Copy of sanction letter for credit limit sanctioned by FIs/banks",
+    "Audited/Provisional financial statements of the unit (last year audited, provisional current year, or current year estimates for startups)",
+    "Bank statement of the unit for the last six months",
+    "Copy of the latest Electricity Bill",
+    "Conduct Report of Account of the unit with Banks (other than BG issuing Bank) and Financial Institutions",
+    "Certificate/undertaking that the unit’s name(s) do not fall in CIBIL/RBI defaulters list",
+    "Copy of orders in hand (if enhancement of limit beyond five crores is sought)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Small Industries Corporation Ltd. (NSIC)",
+  "contact_details": "Email: grievance@nsic.co.in | Phone No.: 011-26926275",
+  "caveats": [
+    "Trading activities are not allowed under the Raw Material Assistance Scheme",
+    "Maximum exposure to a single unit is Rs. 1000 Lakhs for manufacturing units and Rs. 600 lakhs for service units",
+    "Maximum exposure for infrastructure units is Rs. 800 lakhs for individual unit and Rs. 1000 Lakhs for group companies (2 or more)",
+    "Ceiling for maximum exposure to all associate/sister concerns or connected accounts belonging to a 'GROUP' is Rs. 2000 lakh for manufacturing units, Rs. 1500 Lakh for service units, and Rs. 1000 Lakh for Infrastructure unit",
+    "Validity of the limit sanctioned is one year, renewable for one year provided conduct of the account was satisfactory during the last year",
+    "Credit period is 180 days, extendable on request of MSME with consent of Zonal Head, provided unit serves interest, total outstanding is within BG limit, and BG remains valid till extended period",
+    "Payment is released to the supplier as requested by the MSME, not directly to the MSME",
+    "Penal charges on delayed payment beyond 180 days are 1.25% per quarter on the outstanding amount",
+    "Concessional interest rates apply only if timely repayments are made; otherwise, the higher rate for 'Other units' is charged"
+  ],
+  "source_cited_notes": [
+    "https://nsic.co.in/Schemes/RawMaterialAgainstBG",
+    "https://nsic.co.in/documents/pdfs/RMA/FAQ-RMA-SCHEME-18082025.pdf",
+    "https://nsic.co.in/documents/pdfs/forms/RMA-APP-14072023.PDF",
+    "https://nsic.co.in/documents/pdfs/Forms/RMA_DOC_REQ_14072023.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:22:58.483984+00:00"
+}

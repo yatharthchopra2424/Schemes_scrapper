@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-10",
+  "scheme_name": "SIDBI SMILE Scheme",
+  "scheme_url": "https://www.sidbi.in/smile",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The SIDBI SMILE Scheme is a financial assistance program designed to support MSMEs and startups by providing access to credit and other financial products. It aims to facilitate affordable financing for micro-entrepreneurs and enterprises to promote livelihood and business growth. The scheme operates through partner institutions and digital platforms to ensure seamless credit delivery and documentation. It focuses on inclusive growth, with special emphasis on women entrepreneurs and socially backward sections.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To facilitate access to affordable credit to informal micro-entrepreneurs/ micro-enterprises for their livelihood enterprise promotion",
+    "To provide door step assistance with the help of Partner Institutions in credit processes including application information, digital documentation, and collections",
+    "To ensure faster credit delivery through seamless digital integration between OPI and SIDBI and with the help of Prayaas App/ portal",
+    "To support women entrepreneurs and socially backward sections of society",
+    "To promote enterprise development and scaling from sustenance to enterprise level"
+  ],
+  "eligibility": "The scheme targets informal micro-entrepreneurs/ micro-enterprises (IMEs) for livelihood enterprise promotion. It is implemented through Partner Institutions including Financial Intermediaries (BC/ MFI/ SHPI/ NBFC/ FinTech’s, etc.) and Non-Financial Intermediaries (Corporates, Aggregators, etc.). The scheme is operational in PAN India, covering 30 States/UTs as of December 2023. More than 85% of beneficiaries are women entrepreneurs, and more than 70% belong to socially backward sections.",
+  "benefits": "The scheme provides door step assistance through Partner Institutions for credit processes including collection of application information, digital documentation, and collections. It ensures faster credit delivery via seamless digital integration between OPI and SIDBI and through the Prayaas App/ portal. It supports access to affordable credit for livelihood and enterprise promotion, with special focus on women entrepreneurs and socially backward sections. Over 2,94,000 beneficiaries have been assisted under the scheme as of December 2023.",
+  "financial_support": "The scheme facilitates access to affordable credit through Partner Institutions, with SIDBI providing refinance and credit facilitation. It does not directly lend but enables credit delivery via partner networks. Financial support is channelled through Partner Institutions who assist in loan processing, documentation, and disbursement. The scheme emphasizes quick and paperless sanction processes through digital platforms like the Prayaas App.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach a registered Partner Institution (Financial Intermediary or Non-Financial Intermediary) empanelled with SIDBI under the Prayaas Scheme. 2. Submit application details including business information and KYC documents at the Partner Institution level. 3. Partner Institution assists in collection of application information, digital documentation, and verification. 4. Application is processed through seamless digital integration between the Partner Institution and SIDBI. 5. Credit sanction and disbursement are coordinated between the Partner Institution and SIDBI based on eligibility and credit assessment. 6. Utilize the Prayaas App/ portal for tracking and managing the loan lifecycle where available.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form",
+    "KYC documents (Identity and Address proof)",
+    "Business proof / enterprise details",
+    "Bank account details",
+    "Any additional documents as required by the Partner Institution"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "+91 86930 33333 | Toll Free Number: 180-022-6753",
+  "caveats": [
+    "Assistance is provided only through empanelled Partner Institutions; direct application to SIDBI is not permitted under this scheme",
+    "Beneficiary outreach and impact are dependent on the network and capacity of Partner Institutions",
+    "Scheme coverage is subject to the operational presence of Partner Institutions across States/UTs",
+    "Focus on women entrepreneurs and socially backward sections is indicative but not a strict eligibility criterion"
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/prayaas",
+    "https://sidbi.in/en/prayaas"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:22:47.878184+00:00"
+}

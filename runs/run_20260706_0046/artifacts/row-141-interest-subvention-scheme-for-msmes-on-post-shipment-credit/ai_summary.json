@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-141",
+  "scheme_name": "Interest Subvention Scheme for MSMEs on Post Shipment Credit",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "The Interest Subvention Scheme for MSMEs on Post Shipment Credit provides financial assistance to MSME exporters by offering interest subvention on post-shipment credit availed from banks. The scheme aims to enhance export competitiveness by reducing the cost of credit for MSMEs engaged in export activities. It supports MSMEs in managing working capital requirements post-shipment and encourages timely realization of export proceeds. The scheme is implemented through the Ministry of MSME and is designed to improve liquidity and sustainability of export-oriented MSME units.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide interest subvention on post-shipment credit to MSME exporters",
+    "To reduce the cost of credit and enhance competitiveness of MSME exports",
+    "To improve liquidity and working capital management for MSMEs post-shipment",
+    "To encourage timely realization of export proceeds",
+    "To support sustainable growth of export-oriented MSME units"
+  ],
+  "eligibility": "MSME exporters with valid Udyam Registration (UR) Certificate who have availed post-shipment credit from scheduled commercial banks or other eligible financial institutions for export of goods or services. The export proceeds must be realized within the stipulated time period as per RBI guidelines. The beneficiary must be a valid MSME as per MSMED Act, 2006 and must have a valid Udyam Registration Certificate.",
+  "benefits": "Interest subvention on post-shipment credit availed by MSME exporters, reducing the effective cost of credit. The scheme provides financial relief by subsidizing the interest burden on post-shipment loans, thereby improving liquidity and supporting working capital needs. It encourages timely realization of export proceeds and enhances competitiveness in international markets. The benefit is provided as a reimbursement or direct subsidy on the interest paid by the MSME exporter on post-shipment credit.",
+  "financial_support": "The scheme provides interest subvention on post-shipment credit availed by MSME exporters. The quantum of support is the difference between the actual interest rate charged by the lending institution and a benchmark rate (typically linked to repo rate or LIBOR plus spread), subject to a cap. The exact quantum and mechanism (reimbursement or direct credit) are not specified in the provided evidence. The support is disbursed through the lending institution or directly to the beneficiary MSME upon submission of required documents and proof of interest payment and export realization.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Avail post-shipment credit from a scheduled commercial bank or eligible financial institution for export of goods/services. 2. Ensure realization of export proceeds within the stipulated time as per RBI guidelines. 3. Pay the interest on the post-shipment credit to the lending institution. 4. Submit application for interest subvention along with required documents to the nodal agency or designated portal. 5. Submit proof of export realization, interest payment certificate, Udyam Registration Certificate, and IEC code. 6. Await verification and approval from the implementing agency. 7. Receive interest subvention amount as per scheme guidelines.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Udyam Registration Certificate (URC)",
+    "Import Export Code (IEC)",
+    "Proof of export realization (e.g., bank realization certificate, shipping bill)",
+    "Interest payment certificate from the lending institution",
+    "Loan sanction letter for post-shipment credit",
+    "Bank statement showing interest payment",
+    "Shipping bill and bill of lading",
+    "Bank realization certificate (BRC) or foreign inward remittance certificate (FIRC)"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "The benefit is available only on post-shipment credit, not pre-shipment or working capital loans",
+    "Export proceeds must be realized within the stipulated time period as per RBI guidelines",
+    "The benefit is available only to MSMEs with valid Udyam Registration Certificate",
+    "The interest subvention is subject to a cap and is calculated as the difference between actual interest rate and a benchmark rate",
+    "The beneficiary must not have availed similar interest subvention from any other government scheme for the same transaction"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/",
+    "https://msme.gov.in/offerings/schemes-and-services/details/prime-minister-employment-generation-programme-and-other-credit-support-schemes-1-MDMzETMtQWa",
+    "https://msme.gov.in/documents/ministry-logo-support"
+  ],
+  "last_updated_date": "",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T20:37:27.213063+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-380",
+  "scheme_name": "Domestic Steel Procurement Preference Policy",
+  "scheme_url": "https://steel.gov.in",
+  "ministry_or_category": "Steel",
+  "overview": "The Domestic Steel Procurement Preference Policy (DMI&SP) mandates that government procurement of iron and steel products with a minimum value addition of 15%-50% must prioritize domestically manufactured products. The policy applies to all ministries and government departments and their agencies under administrative control. It covers iron and steel products with an estimated value of ₹25 crore or more, with exemptions allowed when domestic production of a specific steel grade is unavailable or insufficient to meet project demand.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "domestic steel manufacturers",
+    "MSME steel producers",
+    "CPSEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote domestically manufactured iron and steel products in government procurement",
+    "Increase value addition in domestic steel production",
+    "Reduce reliance on imported steel in government projects",
+    "Support self-sufficiency in steel production",
+    "Encourage adequate capacity additions by private manufacturers and CPSEs",
+    "Provide policy support and guidance to private manufacturers, MSME steel producers, and CPSEs"
+  ],
+  "eligibility": "Each ministry or government department and all agencies/institutions under their administrative control must comply with the DMI&SP policy notified by the Ministry of Steel. The policy applies to the supply of iron and steel products with a total estimated value of ₹25 crore or more. Exemptions are permitted where specific steel grades are not manufactured domestically or where project demand cannot be met from domestic sources.",
+  "benefits": "Domestic steel manufacturers benefit from guaranteed procurement preference in government projects, which supports market access, demand creation, and capacity utilization. The policy encourages investment in domestic steel production, promotes self-reliance (Atmanirbhar Bharat), and helps reduce import dependence. It also supports MSMEs and CPSEs by creating a level playing field in government procurement.",
+  "financial_support": "The policy does not provide direct financial support such as grants, loans, or subsidies. Instead, it creates market opportunities through procurement preference, which can lead to increased sales and revenue for eligible domestic steel manufacturers. Financial benefits are indirect and derived from enhanced order books and capacity utilization.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify if the procurement falls under DMI&SP (iron and steel products with ≥15% value addition and estimated value ≥ ₹25 crore).\n2. Check if domestic production of the required steel grade is available and sufficient to meet project demand.\n3. If yes, give preference to domestically manufactured iron and steel products in the tender.\n4. If domestic supply is inadequate or unavailable, apply for exemption as per policy provisions.\n5. Submit procurement details through the respective ministry/department's procurement portal.\n6. Maintain records of compliance for audit and monitoring purposes.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Procurement tender documents",
+    "Technical specifications of required steel products",
+    "Value addition calculation sheet (≥15%)",
+    "Domestic availability assessment report",
+    "Exemption request form (if applicable)",
+    "Supplier declarations on domestic manufacturing",
+    "Mill test certificates",
+    "Bill of lading / shipping documents (for imported items, if any)"
+  ],
+  "deadlines": "Based on individual procurement cycles of ministries and departments; no centralized deadline.",
+  "implementing_agency": "Ministry of Steel",
+  "contact_details": "Email: gurpreet.gadhok@nic.in | Telephone: (011)-23063355 (Nodal Public Grievance Officer, Ministry of Steel)",
+  "caveats": [
+    "Exemptions allowed when domestic production of specific steel grade is not available",
+    "Exemptions allowed when domestic supply cannot meet project demand as per user requirements",
+    "Policy applies only to iron and steel products with minimum 15%-50% value addition",
+    "Applicable only to procurement with estimated value of ₹25 crore or more",
+    "Implemented by individual ministries/departments; compliance monitored internally"
+  ],
+  "source_cited_notes": [
+    "https://steel.gov.in/policy-providing-preference-domestically",
+    "https://steel.gov.in/sites/default/files/2025-12/Citizens-Charter-2025.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:05:51.648341+00:00"
+}

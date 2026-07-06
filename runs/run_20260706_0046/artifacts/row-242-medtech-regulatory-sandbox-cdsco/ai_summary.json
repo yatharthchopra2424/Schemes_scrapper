@@ -1,0 +1,71 @@
+{
+  "scheme_id": "row-242",
+  "scheme_name": "MedTech Regulatory Sandbox (CDSCO)",
+  "scheme_url": "https://cdsco.gov.in",
+  "ministry_or_category": "Pharmaceuticals",
+  "overview": "The MedTech Regulatory Sandbox (CDSCO) is a framework designed to support innovation in medical technology by providing a controlled environment for testing and validating new medical devices, diagnostics, and digital health solutions under regulatory supervision. It aims to accelerate the development and market entry of innovative MedTech products while ensuring safety, efficacy, and compliance with Indian regulatory standards. The sandbox facilitates collaboration between startups, innovators, and regulatory authorities to streamline approval processes and reduce time-to-market for emerging healthcare technologies.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "innovators",
+    "medical device manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a regulatory sandbox environment for testing and validation of innovative medical technologies",
+    "To reduce the time and cost associated with regulatory approvals for MedTech startups and innovators",
+    "To foster collaboration between industry, academia, and regulatory bodies for healthcare innovation",
+    "To ensure patient safety and product efficacy while enabling faster market access for novel medical devices",
+    "To support the development of indigenous medical technologies aligned with national healthcare priorities",
+    "To create a feedback mechanism for improving regulatory frameworks based on real-world sandbox outcomes"
+  ],
+  "eligibility": "Eligible applicants include Indian startups, MSMEs, and innovators developing medical devices, in-vitro diagnostics, digital health solutions, or other MedTech products. The applicant must be a legally registered entity in India, possess a clear innovation or technological solution with potential for healthcare impact, and demonstrate readiness for prototype testing or clinical validation. Preference may be given to solutions addressing unmet medical needs or aligned with national health programs.",
+  "benefits": "Participants receive regulatory guidance and hand-holding from CDSCO experts, access to accelerated review pathways, waiver or relaxation of certain procedural requirements during the sandbox phase, opportunity to test products in real-world or simulated environments, support for clinical trial design and approval, facilitation of connections with testing labs and hospitals, and assistance in preparing documentation for final market authorization. Non-financial benefits include mentorship, technical support, and networking with regulators and industry experts.",
+  "financial_support": "The MedTech Regulatory Sandbox does not provide direct financial grants or funding to participants. Support is primarily non-financial in nature, focusing on regulatory facilitation, technical guidance, and access to infrastructure and expertise. Any financial aspects related to product development, testing, or clinical trials must be borne by the applicant or sourced through external funding mechanisms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an online application through the designated CDSCO portal detailing the innovation, intended use, and development stage. 2. Provide supporting documents including product description, technical specifications, preclinical data (if any), and team credentials. 3. Undergo initial screening by CDSCO to assess eligibility and sandbox suitability. 4. If shortlisted, present the proposal to the sandbox evaluation committee for review. 5. Upon acceptance, sign a memorandum of understanding outlining the scope, duration, and responsibilities. 6. Begin sandbox activities including product testing, data generation, and regulatory interactions as per the agreed plan. 7. Submit periodic progress reports and final outcomes for evaluation. 8. Receive feedback and recommendations for next steps toward regulatory approval or commercialization.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Covering letter indicating type of application",
+    "Application in Form-40 with date, signature, and seal/stamp of Indian agent or manufacturer",
+    "Name and address of authorized agent in India (with valid wholesale license)",
+    "Names and address of manufacturer and factory premises",
+    "Name of the drug(s) or medical device to be registered",
+    "Number of sites involved in manufacturing",
+    "Original Power of Attorney",
+    "TR-6 Challan of fees paid",
+    "Copy of import permission for new drug(s) in Form-45 or Form-45A",
+    "Copy of valid wholesale or manufacturing license of the Indian agent",
+    "Company's authorization letter for bearer",
+    "Schedule D(I) and Schedule D(II) with undertaking",
+    "Notarized copy of Plant Master File (PMF)",
+    "Notarized copy of Drug Master File (DMF)",
+    "Original notarized copy of manufacturing license, FSC, GMP, COPP (for finished products)",
+    "Attested/apostilled copy of product registration certificate from recognized agencies",
+    "Original label/specimen label complying with Rule 96",
+    "Details of manufacturing site and Indian agent",
+    "Head to fees deposited",
+    "Information on products with same API but different strengths"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on availability and evaluation cycles.",
+  "implementing_agency": "Central Drugs Standard Control Organisation (CDSCO), Directorate General of Health Services, Ministry of Health & Family Welfare, Government of India",
+  "contact_details": "Email: biological@cdsco.nic.in | Toll-free no.: 1800111454",
+  "caveats": [
+    "Participation in the sandbox does not guarantee market approval or regulatory clearance",
+    "Sandbox testing is limited to predefined scope and duration as agreed in the MoU",
+    "All costs related to product development, testing, trials, and prototyping are borne by the participant",
+    "Intellectual property rights remain with the innovator; CDSCO does not claim ownership",
+    "Sandbox outcomes are advisory and do not replace formal regulatory submission requirements",
+    "Confidentiality of submitted data is maintained, but aggregated learnings may be used for policy improvement"
+  ],
+  "source_cited_notes": [
+    "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/DgSimilaBiologics25.pdf",
+    "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/import-registration/Guidingdoentforzonalsub-zonalportoffices17.06.2011.pdf",
+    "https://cdsco.gov.in/opencms/export/sites/CDSCO_WEB/Pdf-documents/Complaintemail.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:34:49.611226+00:00"
+}

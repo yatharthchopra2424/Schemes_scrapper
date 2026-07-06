@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-550",
+  "scheme_name": "Centre of Excellence for IoT (IoT CoE) MeitY",
+  "scheme_url": "https://www.meity.gov.in/iot-coe",
+  "ministry_or_category": "Innovation Ecosystem",
+  "overview": "The Centre of Excellence for IoT (IoT CoE) under MeitY aims to foster innovation and development in the Internet of Things ecosystem in India. It supports research, prototyping, and commercialization of IoT solutions through collaboration with industry, academia, and startups. The initiative focuses on building infrastructure, skill development, and creating testbeds for IoT applications across sectors like agriculture, healthcare, and smart cities.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academia",
+    "researchers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish state-of-the-art infrastructure for IoT research and development",
+    "Promote innovation and entrepreneurship in IoT technologies",
+    "Support prototyping, testing, and validation of IoT solutions",
+    "Facilitate industry-academia collaboration for technology transfer",
+    "Develop skilled manpower in IoT through training and workshops",
+    "Create sector-specific IoT testbeds for real-world validation",
+    "Encourage development of indigenous IoT products and solutions",
+    "Support scaling of IoT innovations for market deployment"
+  ],
+  "eligibility": "Eligible beneficiaries include startups, MSMEs, academic institutions, and research organizations working in the domain of Internet of Things (IoT) with innovative project proposals aligned with national priorities.",
+  "benefits": "Access to IoT infrastructure and labs, mentorship from domain experts, funding support for prototype development, opportunities for industry collaboration, participation in workshops and training programs, and assistance in scaling and commercialization of IoT solutions.",
+  "financial_support": "Financial support is provided in the form of grants for prototype development, proof-of-concept, and pilot projects, with disbursement based on project milestones and evaluation by expert committees.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official MeitY IoT CoE portal 2. Review eligibility and guidelines 3. Prepare project proposal as per format 4. Submit application online through designated portal 5. Application undergoes technical and financial evaluation 6. Shortlisted candidates may be invited for presentation 7. Final selection and approval by expert committee 8. Signing of agreement and disbursement of funds 9. Project implementation and monitoring 10. Submission of progress reports and final outcomes.",
+  "application_portal_url": "https://www.meity.gov.in/iot-coe",
+  "required_documents": [
+    "Project proposal document",
+    "Certificate of incorporation/registration",
+    "PAN and GST details of the entity",
+    "Bank account details",
+    "Technical details of the proposed IoT solution",
+    "Budget breakdown and utilization plan",
+    "Team details and expertise",
+    "Letters of support or collaboration (if any)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "Funding is subject to availability of budget and approval by competent authority",
+    "Projects must align with national IoT strategy and MeitY priorities",
+    "Intellectual property rights shall be governed as per MeitY guidelines",
+    "Beneficiaries must submit periodic progress and financial reports",
+    "Misuse of funds may lead to recovery and blacklisting"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/iot-coe",
+    "https://meity.gov.in/documents/guidelines",
+    "https://meity.gov.in/",
+    "https://meity.gov.in/connect"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:25:59.392789+00:00"
+}

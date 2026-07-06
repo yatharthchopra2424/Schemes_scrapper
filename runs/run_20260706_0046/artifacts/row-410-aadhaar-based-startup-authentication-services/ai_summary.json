@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-410",
+  "scheme_name": "Aadhaar-Based Startup Authentication Services",
+  "scheme_url": "https://uidai.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "The Unique Identification Authority of India (UIDAI) provides Aadhaar-based authentication services that enable startups to verify identities digitally using Aadhaar e-KYC and authentication APIs. This service supports digital onboarding, reduces fraud, and enhances trust in digital transactions for startups operating in India. It is part of the broader Digital India initiative to promote secure and inclusive digital infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable secure and paperless identity verification for startups",
+    "Facilitate digital onboarding of customers using Aadhaar e-KYC",
+    "Reduce identity fraud and enhance trust in digital services",
+    "Support inclusive access to digital infrastructure for all residents"
+  ],
+  "eligibility": "Startups registered in India seeking to integrate Aadhaar-based authentication for customer onboarding or identity verification purposes.",
+  "benefits": "Access to UIDAI's Aadhaar authentication and e-KYC APIs, secure and real-time identity verification, reduced operational costs for KYC compliance, enhanced customer trust, and support for regulatory compliance under various digital service frameworks.",
+  "financial_support": "No direct financial support is provided; the service offers free access to authentication APIs subject to usage guidelines and compliance with UIDAI regulations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the UIDAI developer portal at https://uidai.gov.in/section/developer-portal 2. Register as an Authentication User Agency (AUA) or Sub-AUA 3. Submit required documentation including legal entity proof and security compliance 4. Upon approval, obtain API access credentials 5. Integrate Aadhaar authentication APIs into your startup's platform 6. Begin conducting Aadhaar-based e-KYC and authentication transactions.",
+  "application_portal_url": "https://uidai.gov.in/section/developer-portal",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the entity",
+    "Board resolution authorizing AUA registration",
+    "Information Security Management System (ISMS) compliance details",
+    "Details of the proposed use case for Aadhaar authentication",
+    "Authorized signatory details and authorization letter"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Unique Identification Authority of India (UIDAI), Ministry of Electronics and Information Technology",
+  "contact_details": "Email: help@uidai.gov.in | Helpline: 1947",
+  "caveats": [
+    "Usage of Aadhaar authentication is subject to compliance with the Aadhaar Act, 2016 and regulations framed thereunder",
+    "Entities must maintain stringent data security and privacy standards as specified by UIDAI",
+    "Authentication services are provided only for legitimate, lawful purposes as defined by UIDAI",
+    "Misuse of Aadhaar data can lead to penalties and blacklisting under the Aadhaar Act"
+  ],
+  "source_cited_notes": [
+    "https://uidai.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:18:13.217806+00:00"
+}

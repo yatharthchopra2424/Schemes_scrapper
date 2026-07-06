@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-101",
+  "scheme_name": "NSTEDB Entrepreneurship Awareness Camps",
+  "scheme_url": "https://dst.gov.in/nstedb",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The NSTEDB Entrepreneurship Awareness Camps scheme is part of the National Science and Technology Entrepreneurship Development Board (NSTEDB) under the Department of Science and Technology (DST), aimed at promoting entrepreneurship awareness among students and youth. The scheme focuses on creating awareness about entrepreneurship as a career option, fostering innovation, and encouraging the establishment of startups and small enterprises. It targets students and youth in educational institutions to sensitize them about entrepreneurial opportunities and support mechanisms available through government schemes.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "students",
+    "youth",
+    "educational institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Create awareness about entrepreneurship as a career option among students and youth",
+    "Promote innovation and entrepreneurial mindset in educational institutions",
+    "Encourage the establishment of startups and small enterprises",
+    "Provide information about government schemes and support mechanisms for entrepreneurs",
+    "Foster linkages between academia, industry, and financial institutions for entrepreneurial support"
+  ],
+  "eligibility": "Educational institutions such as universities, colleges, polytechnics, and technical institutions are eligible to organize Entrepreneurship Awareness Camps under NSTEDB. The institutions must have the necessary infrastructure and faculty to conduct such programs. Preference may be given to institutions in backward regions or those serving underrepresented groups.",
+  "benefits": "Financial support for organizing Entrepreneurship Awareness Camps, including honorarium for resource persons, honorarium for coordinators, TA/DA for participants, printing of study materials, venue expenses, and other incidental expenses. The scheme also provides access to expert resource persons, networking opportunities with industry and financial institutions, and exposure to government schemes for entrepreneurship support.",
+  "financial_support": "Financial support is provided as a grant-in-aid to educational institutions for organizing Entrepreneurship Awareness Camps. The quantum of support covers expenses such as honorarium for resource persons and coordinators, TA/DA for participants, printing of study materials, venue expenses, and other incidental costs. The exact amount varies based on the scale and duration of the camp, subject to NSTEDB guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Educational institutions interested in organizing Entrepreneurship Awareness Camps must submit a proposal to NSTEDB, DST. 2. The proposal should include details such as objectives, target audience, duration, resource persons, budget estimate, and expected outcomes. 3. Proposals are evaluated by NSTEDB based on feasibility, relevance, and alignment with scheme objectives. 4. Approved proposals receive financial sanction and guidelines for implementation. 5. Institutions conduct the camp as per the approved plan and submit utilization certificates and reports to NSTEDB post-completion.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proposal document detailing objectives, target audience, duration, and budget",
+    "List of resource persons with their credentials",
+    "Budget estimate for the camp",
+    "Infrastructure and faculty details of the institution",
+    "Undertaking from the institution head"
+  ],
+  "deadlines": "",
+  "implementing_agency": "National Science and Technology Entrepreneurship Development Board (NSTEDB), Department of Science and Technology (DST), Ministry of Science and Technology",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is subject to availability of funds and approval by NSTEDB",
+    "Institutions must submit utilization reports and audited statements of expenditure after the camp",
+    "Funds must be utilized strictly for the approved purpose and within the stipulated time frame",
+    "The scheme does not support recurring or ongoing entrepreneurial activities beyond the awareness camp"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/nstedb"
+  ],
+  "last_updated_date": "1970",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T20:18:51.396958+00:00"
+}

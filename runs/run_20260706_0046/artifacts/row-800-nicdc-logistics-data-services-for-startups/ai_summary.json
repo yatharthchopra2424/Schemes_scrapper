@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-800",
+  "scheme_name": "NICDC Logistics Data Services for Startups",
+  "scheme_url": "https://nicdc.in",
+  "ministry_or_category": "LogisticsTech Startups",
+  "overview": "The NICDC Logistics Data Services for Startups scheme is part of the National Industrial Corridor Development Programme, focusing on developing logistics infrastructure to support industrial growth. It aims to create investment-ready industrial parks with plug-and-play facilities, multimodal connectivity, and sustainable infrastructure to attract domestic and global investments. The scheme is implemented through Special Purpose Vehicles (SPVs) and provides financial assistance for developing industrial parks across multiple phases.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "industrial units",
+    "investors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop investment-ready, world-class industrial infrastructure",
+    "Enable investors to ground investment with ease",
+    "Add to the manufacturing capacity in the country",
+    "Transform India into a globally competitive manufacturing hub",
+    "Provide supportive industrial ecosystems with proximity to cities and multi-modal logistics facilities",
+    "Facilitate investment for manufacturing growth to cater to domestic and global value chains",
+    "Deepen supply chains within the country",
+    "Increase employment and value addition in the country"
+  ],
+  "eligibility": "The sponsoring agency/authority must satisfy mandatory criteria including land area requirements (minimum 100 acre contiguous land in non-hilly states, 25 acre in hilly states/northeast/UTs/population <1 crore), land ownership by State Government, Private Developer, jointly, or CPSE, with 90% encumbrance-free land in possession at application submission. Planning and development powers must be delegated to the SPV by the State/UT Government. Both greenfield and brownfield parks are eligible subject to availability of unencumbered, litigation-free, contiguous and unallotted land.",
+  "benefits": "Benefits include plug-and-play infrastructure with 24-hour power supply, potable and recycled water, effluent treatment plants, multi-modal connectivity, gas pipelines, integrated city planning, robust telecom networks, single-window clearance, E-land management, anchor investor discounts, flexible payment plans, incentives from Union and State Governments, sustainable initiatives (green and clean businesses only, underground power network, ICT-based infrastructure optimization, SCADA system for monitoring), and social infrastructure (educational facilities, healthcare services, housing, recreational amenities).",
+  "financial_support": "Financial assistance is provided by the Central Government through NICDIT in the form of equity, released in tranches linked to achievement of predefined milestones. The equity participation of NICDIT in any SPV shall not exceed 50% of the paid-up equity capital. For SPVs formed between NICDIT and the State Government/State Nodal Agency without private participation, the shareholding pattern shall not be altered. In private developer-led projects, transfer or sale or disinvestment of equity share is permissible after five years from project completion and operationalization.",
+  "fund_size_crores": "33660",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Applications are invited in two or more phases, with up to 50 projects in the first phase. 2. Application must be submitted by the sponsoring agency/authority in prescribed format through the designated portal. 3. Each application must be accompanied by a Detailed Project Report (DPR) prepared as per indicative template in Annexure II. 4. If the State Government is the sponsoring authority, application must be submitted after due consideration and clear recommendation of the State Level Committee (SLC). 5. If a CPSE is the sponsoring agency, application must be submitted with approval of the Board of CPSE and compliance with Government of India instructions. 6. Applications are received and processed through an online portal developed and managed by Project Management Agency (PMA). 7. The portal is opened for submission for a specified period following due public notice. 8. Applications meeting mandatory eligibility criteria are evaluated on multi-modal connectivity, site suitability, quality of core/value-added/social infrastructure, industrial ecosystem, and policy enablers. 9. Highest-ranking applications scoring above benchmark threshold are shortlisted for DPR examination and evaluation. 10. An appraisal report is prepared by PMA and presented before the National Level Steering Committee (NLSC) for approval.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR) as per indicative template in Annexure II",
+    "Application in prescribed format",
+    "State Level Committee (SLC) recommendation (if State Government is sponsoring authority)",
+    "Board of CPSE approval (if CPSE is sponsoring agency)",
+    "Documents specified in the guidelines for application"
+  ],
+  "deadlines": "Applications are invited in two or more phases; the portal is opened for a specified period following due public notice.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry, Government of India",
+  "contact_details": "Email: makeinindia@nicdc.in | Telephone: 011-65260100",
+  "caveats": [
+    "Financial assistance is limited to an upper cap for 1000 acre for larger parks developed in phases",
+    "Land ownership must be transferred to the SPV within 3 months from project approval, or approval may be deemed annulled (with possible 3-month extension for bonafide reasons)",
+    "Formal delegation of planning and development powers to the SPV is a prerequisite for fund transfer",
+    "NICDIT equity participation in any SPV shall not exceed 50% of paid-up equity capital",
+    "In private developer-led parks, anchor investor may allot up to 25% of developed land, with remaining ≥75% allotted to other industries transparently",
+    "O&M Corpus Fund: SPV may set aside up to 5% of gross allotment premium for operational deficit during first five years post-completion",
+    "Private developer equity participation in SPV is primarily in the form of land, duly valued per prescribed norms"
+  ],
+  "source_cited_notes": [
+    "https://nicdc.in/menu-item/bhavya-scheme-guidelines-dpiit.pdf",
+    "https://nicdc.in/assets/pdfs/investors/F&Q1.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:01:14.462521+00:00"
+}

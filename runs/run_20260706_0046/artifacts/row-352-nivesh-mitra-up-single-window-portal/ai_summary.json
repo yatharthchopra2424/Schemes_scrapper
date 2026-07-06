@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-352",
+  "scheme_name": "Nivesh Mitra – UP Single Window Portal",
+  "scheme_url": "https://niveshmitra.up.nic.in",
+  "ministry_or_category": "State Level (UP)",
+  "overview": "Nivesh Mitra – UP Single Window Portal is a state-level initiative by the Government of Uttar Pradesh to provide a unified online platform for entrepreneurs and businesses to apply for various approvals, licenses, and incentives from multiple government departments. It streamlines the application process by enabling a single Common Application Form, online payment, and real-time tracking of applications across departments such as MSME, Industrial Development Authorities, Pollution Control Board, and others. The portal aims to reduce procedural delays, enhance transparency, and improve the ease of doing business in Uttar Pradesh.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "industrial units"
+  ],
+  "geographic_scope": "Uttar Pradesh only",
+  "objectives": [
+    "Provide a single online platform for submitting applications to multiple government departments",
+    "Enable a Common Application Form to avoid repetitive data entry",
+    "Facilitate online payment of fees and charges through integrated payment gateway",
+    "Ensure real-time tracking and status updates of applications",
+    "Reduce procedural delays and enhance transparency in approvals",
+    "Integrate services from departments like MSME, Industrial Development, Pollution Control, and others",
+    "Support grievance redressal and refund processing for online transactions"
+  ],
+  "eligibility": "Entrepreneurs, industrial units, and businesses seeking approvals, licenses, or incentives from Uttar Pradesh government departments can apply through the Nivesh Mitra portal. There is no specific restriction based on entity type, turnover, or incorporation date; eligibility depends on the specific service or department being accessed via the portal.",
+  "benefits": "Single window access to multiple departmental services; Common Application Form to avoid repeated filling; online payment facility via net banking, credit/debit cards; real-time application tracking; automated SMS/email alerts; digital issuance of approvals and NOCs; grievance redressal mechanism for refunds and issues; integration with departments such as MSME, Industrial Development Authorities, Pollution Control Board, and others for seamless service delivery.",
+  "financial_support": "The portal facilitates online payment of fees, charges, and subsidies for various services offered by government departments. Payments are processed through a secure payment gateway supporting net banking, credit/debit cards, and are routed to the respective department’s bank account or treasury head. Refunds for excess, short, double, or incorrect payments can be requested via the Grievance Redressal section. The portal does not provide direct financial grants or loans but enables payment for government services and access to incentive schemes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Nivesh Mitra portal at https://niveshmitra.up.nic.in 2. Register on the portal using personal and contact details 3. Receive user ID and password via SMS/email 4. Log in to the portal using the credentials 5. Fill the Common Application Form and create a Unit 6. Select the desired department and service (e.g., Change of Land Use, MSME registration) 7. Attach required documents as specified for the service 8. Submit the application form online 9. Pay the applicable fee online via the payment gateway 10. Track application status using the grievance redressal or status tracking section 11. Receive digital approval/NOC upon successful processing 12. Download the certificate from the online system",
+  "application_portal_url": "https://niveshmitra.up.nic.in/",
+  "required_documents": [
+    "Self Declaration of all Land Holders",
+    "Map of land (including Quadriplegic), signed by all Land Holders",
+    "Document of Updated Circle Rate, determined by Collector",
+    "Certified copy of updated Khatauni",
+    "Certified copy of updated Khasra"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Invest UP, Government of Uttar Pradesh",
+  "contact_details": "Email: info@investup.org.in | Helpline: 0522-6923000",
+  "caveats": [
+    "Eligibility and document requirements vary depending on the specific service or department selected",
+    "Refund requests must be logged via the Grievance Redressal section",
+    "Online payment is mandatory for most services",
+    "Application status depends on departmental processing timelines",
+    "The portal facilitates access to services but does not guarantee approval"
+  ],
+  "source_cited_notes": [
+    "https://niveshmitra.up.nic.in/",
+    "https://niveshmitra.up.nic.in/Default.aspx",
+    "https://niveshmitra.up.nic.in/Documents/User_Process_Flow/UPS_1.pdf",
+    "https://niveshmitra.up.nic.in/Documents/Dept_Process_Flow/DPF_1.pdf",
+    "https://niveshmitra.up.nic.in/Documents/Refund_Policy_Nivesh_Mitra.pdf",
+    "https://niveshmitra.up.nic.in/Documents/NM_Live_List.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:43:47.161687+00:00"
+}

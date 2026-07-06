@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-498",
+  "scheme_name": "NGO Darpan – CSR Fund Access Portal",
+  "scheme_url": "https://ngodarpan.gov.in",
+  "ministry_or_category": "Social Entrepreneurship",
+  "overview": "NGO Darpan – CSR Fund Access Portal is a digital platform operated by NITI Aayog that enables Non-Profit Organizations (NPOs) to obtain a unique Darpan ID through self-declared affidavit-based registration. The portal facilitates access to government grant applications by linking NPOs to official portals of various Ministries and Departments for submitting online grant applications. It does not issue physical certificates but provides a Darpan registration ID that allows NPOs to start applying for grants and exemptions after registration. The portal also includes important advisories regarding the prohibition of misuse of NITI Aayog's name, logo, or National Emblem.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "Non-Profit Organizations (NPOs)",
+    "Trusts",
+    "Societies",
+    "Section 8 Companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide a unique Darpan ID to NPOs based on self-declared affidavit",
+    "Enable NPOs to access online grant application portals of various Government Ministries and Departments",
+    "Facilitate registration and document submission for NPOs seeking government grants and exemptions",
+    "Maintain a directory of registered NPOs with status tracking (active, blacklisted)",
+    "Prevent misuse of NITI Aayog's name, logo, or National Emblem by NPOs"
+  ],
+  "eligibility": "Any Non-Profit Organization (NPO) including Trusts, Societies, and Section 8 Companies can register by creating an account, filling in organizational details, uploading necessary documents, and submitting for review to receive a Darpan Unique ID based on self-declared affidavit.",
+  "benefits": "Registered NPOs receive a Darpan Unique ID that enables them to start applying for grants and exemptions through online portals of various Ministries and Departments. The portal provides access to official grant application links for sectors such as tourism, chemicals, higher education, North Eastern Region development, social justice, tribal affairs, biotechnology, handicrafts, minority affairs, MSME, legal literacy, chemical weapons convention, Atal Innovation Mission, solar energy, information broadcasting, economic affairs, skill development, housing, mines, pharmaceuticals, disability empowerment, health, water mission,MPLADS, and AYUSH.",
+  "financial_support": "The portal itself does not provide direct financial support but serves as an access point to online grant application systems of various Government Ministries and Departments where NPOs can apply for financial assistance such as grants-in-aid, subsidies, or other funding schemes offered by those departments.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Create an account on the NGO Darpan portal. 2. Fill in organizational details. 3. Upload necessary documents. 4. Review and submit the application. 5. Receive the Darpan Unique ID upon approval. 6. Start applying for grants and exemptions via the Online Grant Application Links provided for various Ministries and Departments.",
+  "application_portal_url": "https://ngodarpan.gov.in",
+  "required_documents": [
+    "Organizational details",
+    "Necessary documents (as specified during upload step)"
+  ],
+  "deadlines": "Rolling basis — registration and application for grants can be done year-round as there is no fixed deadline mentioned.",
+  "implementing_agency": "NITI Aayog",
+  "contact_details": "",
+  "caveats": [
+    "The Darpan ID generated upon registration does not confer any right, endorsement, affiliation, or recognition by NITI Aayog.",
+    "NPOs are strictly prohibited from using the NITI Aayog name/logo or the National Emblem in any manner; unauthorized use may lead to blacklisting of Darpan ID and legal action.",
+    "NITI Aayog does not issue any physical Darpan certificate; only the registration ID is provided."
+  ],
+  "source_cited_notes": [
+    "https://ngodarpan.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:55:55.870711+00:00"
+}

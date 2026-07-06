@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-569",
+  "scheme_name": "Cold Storage Infrastructure Subsidy (NHB)",
+  "scheme_url": "https://nhb.gov.in",
+  "ministry_or_category": "Food Processing",
+  "overview": "The Cold Storage Infrastructure Subsidy (NHB) is a scheme under the National Horticulture Board aimed at supporting the development of cold storage infrastructure to reduce post-harvest losses in horticulture produce. It provides financial assistance for setting up cold storage facilities to enhance the shelf life and marketability of fruits and vegetables. The scheme is part of broader initiatives to strengthen the horticulture value chain and improve farmers' income through better storage and value addition.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "agri-startups",
+    "entrepreneurs",
+    "Farmer Producer Organisations (FPOs)",
+    "Cooperatives/Societies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce post-harvest losses of horticulture produce through development of cold storage infrastructure",
+    "Enhance shelf life and marketability of fruits and vegetables",
+    "Support farmers in realizing better prices by enabling storage and staggered market release",
+    "Promote private investment in cold chain infrastructure",
+    "Strengthen the horticulture value chain from production to consumption",
+    "Encourage adoption of modern and energy-efficient cold storage technologies"
+  ],
+  "eligibility": "Entities eligible for consideration as Implementing Agencies (IAs) under this scheme should be legal entities excluding proprietorships or natural persons, including Farmer Producer Organisations (FPOs/FPCs), Cooperatives/Societies, Partnership Firms, Companies, or combination thereof. The applicant entity must demonstrate a net worth at least equivalent to the equity contribution proposed, contribute a minimum of 20% of the IA’s Cost Component as equity, possess relevant experience in horticulture input supply, production, aggregation, trading, food processing, exporting, retailing, or logistics, have an annual turnover at least equal to the total project cost, secure a term loan from RBI-approved scheduled commercial banks constituting at least 20% of the IA’s Cost Component, and ensure the farmer component is minimum 40% of the total project cost.",
+  "benefits": "Financial assistance for setting up cold storage infrastructure, reduction in post-harvest losses (20-44% range), enhanced shelf life and quality of horticulture produce, better price realization for farmers, improved market access and export potential, promotion of energy-efficient and sustainable cold chain technologies, support for value addition and processing activities, and contribution to doubling farmers' income through improved storage and market linkage.",
+  "financial_support": "The scheme provides subsidy support for cold storage infrastructure under the Cluster Development Programme (CDP) and other NHB initiatives. Financial assistance is extended for setting up cold storage units as part of integrated horticulture projects. The subsidy is disbursed based on project appraisal and verification of milestones, with funding typically sourced from government allocations under schemes like Mission for Integrated Development of Horticulture (MIDH) and Agriculture Infrastructure Fund (AIF). The exact quantum varies based on project cost and appraisal, with beneficiary contribution and loan components as per eligibility norms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit Expression of Interest (EoI) online at https://cdp.nhb.gov.in for cluster-based projects including cold storage. 2. Await shortlisting based on concept note evaluation. 3. Submit Detailed Project Report (DPR) within the stipulated timeline after shortlisting. 4. DPR undergoes technical and financial appraisal by NHB or authorized agencies. 5. Upon approval, receive sanction letter and proceed with financial closure. 6. Implement the project as per approved DPR. 7. Submit utilization reports and completion certificates for subsidy disbursement in milestones.",
+  "application_portal_url": "https://cdp.nhb.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Aadhar card of authorized signatory",
+    "Audited financial statements (balance sheet, profit & loss)",
+    "Bank appraisal note for term loan",
+    "Project feasibility report / Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Quotations from suppliers for cold storage equipment",
+    "Net worth certificate",
+    "Experience certificates in relevant fields",
+    "Equity contribution proof",
+    "Self-declaration of non-blacklisting"
+  ],
+  "deadlines": "Rolling basis — subject to EoI cycles and DPR submission windows as notified",
+  "implementing_agency": "National Horticulture Board (NHB), Ministry of Agriculture & Farmers Welfare, Government of India",
+  "contact_details": "Email: clusters.nhb@gov.in | md@nhb.gov.in | Help Desk: 0124-2343414 | Toll-Free: 1800 180 1404",
+  "caveats": [
+    "Subsidy is released only after verification of project milestones and utilization of funds",
+    "Physical inspection may be conducted before and after project completion",
+    "Beneficiary must maintain proper books of accounts and submit periodic reports",
+    "Project must be completed within the stipulated timeline as per approval",
+    "Any deviation from approved DPR may lead to rejection or recovery of subsidy",
+    "Farmer component must be maintained at minimum 40% of total project cost throughout"
+  ],
+  "source_cited_notes": [
+    "https://nhb.gov.in/writereaddata/0138260438072ndEoI2026.pdf",
+    "https://nhb.gov.in/writereaddata/1008260508084EOIDPR10Apr2026.pdf",
+    "https://nhb.gov.in/writereaddata/060226120202Prebid Norice 06.04.2026.pdf",
+    "https://nhb.gov.in/KnowledgeCenter/IFVY-Presentation-Nov.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:42:01.281885+00:00"
+}

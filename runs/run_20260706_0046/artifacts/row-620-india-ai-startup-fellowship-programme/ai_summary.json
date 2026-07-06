@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-620",
+  "scheme_name": "India AI Startup Fellowship Programme",
+  "scheme_url": "https://indiaai.gov.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "The India AI Startup Fellowship Programme is part of the IndiaAI Mission's Startup Financing pillar, which supports and accelerates deep-tech AI startups by providing streamlined access to funding for innovative AI projects. The programme aims to build a comprehensive ecosystem that fosters AI innovation by democratizing computing access, enhancing data quality, developing indigenous AI capabilities, attracting top AI talent, enabling industry collaboration, providing startup risk capital, ensuring socially impactful AI projects, and promoting ethical AI.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support and accelerate deep-tech AI startups by providing streamlined access to funding for innovative AI projects",
+    "Democratize computing access to foster AI innovation",
+    "Enhance data quality for AI research and development",
+    "Develop indigenous AI capabilities",
+    "Attract top AI talent to India",
+    "Enable industry collaboration in AI ecosystem",
+    "Provide startup risk capital for early-stage ventures",
+    "Ensure socially impactful AI projects",
+    "Promote ethical AI development and deployment"
+  ],
+  "eligibility": "Private entities including but not limited to startups, enterprises, academic institutions, and research organizations are encouraged to submit their AI models and documented use cases that demonstrate practical deployment and implementation of AI technologies across various sectors.",
+  "benefits": "Streamlined access to funding for innovative AI projects, support for deep-tech AI startups, contribution to AIKosh platform as a central repository for AI innovation and research in India, visibility and recognition through the IndiaAI portal, access to datasets, models, AI sandbox and more via AIKosh Platform, opportunities to participate in AI initiatives and events, collaboration with government and industry stakeholders.",
+  "financial_support": "The IndiaAI Mission provides startup risk capital as part of its seven pillars, though specific quantum, type, and mechanism of financial support for the Startup Fellowship Programme are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on AIKosh platform using the designated onboarding process for private entities including startups, companies, MSMEs, academic institutions, research organizations, thinktanks, non-profits, etc. 2. Ensure valid and verifiable legal status (Registered Society, Corporate Body, Statutory Body, Registered Company, etc.). 3. Designate at least one authorized representative (Administrative SPOC) responsible for managing dataset submissions, metadata maintenance, and contributor management on AIKosh. 4. Ensure data or dataset shared with AIKosh complies with the Digital Personal Data Protection Act (DPDPA), National Data Sharing and Accessibility Policy (NDSAP), and all other applicable laws, regulations, and policies of the Government of India governing data sharing, privacy, and security. 5. Ensure compliance with AIKosh Terms of Use and Privacy Policy. 6. Include complete and accurate metadata, specify licensing terms, and adhere to applicable data governance policies. 7. Submit multiple datasets if each submission is unique and meets the platform’s dataset contribution criteria. 8. Ensure dataset is wholly or partially relevant to India, containing India-specific content or artifacts. 9. Follow the structured workflow: Entity Registration, Dataset Onboarding, Dataset Validation & Publishing. 10. Refer to AIKosh User Manual for step-by-step guidance on platform functionalities, dataset submission workflows, and administrative roles. 11. Reach out to official support at support@indiaai.gov.in for additional support or clarifications.",
+  "application_portal_url": "https://indiaai.gov.in/",
+  "required_documents": [
+    "Valid and verifiable legal status documents (Registered Society, Corporate Body, Statutory Body, Registered Company, etc.)",
+    "Complete and accurate metadata",
+    "Licensing terms specification",
+    "Data governance policy adherence proof",
+    "India-specific content or artifacts demonstration"
+  ],
+  "deadlines": "Submissions are accepted on a rolling basis with periodic reviews for compliance.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "support@indiaai.gov.in",
+  "caveats": [
+    "AIKosh is currently in its beta phase; certain features may still be under development",
+    "Only institutional entities are eligible to contribute datasets; individual submissions are not permitted",
+    "Submitted datasets undergo backend validation to ensure alignment with AIKosh’s data quality standards and compliance guidelines before final approval and publication",
+    "Organizations must register on AIKosh and receive approval before administrative rights are granted to the designated SPOC"
+  ],
+  "source_cited_notes": [
+    "https://indiaai.gov.in/",
+    "https://indiaai.gov.in/indiaaiportal",
+    "https://indiaai.gov.in/investment-funds",
+    "https://d12aarmt01l54a.cloudfront.net/cms/files/datasets-eoi/1753967577.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:14:42.586362+00:00"
+}

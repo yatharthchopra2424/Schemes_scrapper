@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-891",
+  "scheme_name": "National Language Translation Mission (NLTM) – Bhashini Startup Integration",
+  "scheme_url": "https://bhashini.gov.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "The National Language Translation Mission (NLTM) – Bhashini Startup Integration is a Government of India initiative under the Digital India BHASHINI Division (DIBD) that empowers startups to co-create innovative AI-driven multilingual solutions by integrating Bhashini’s language translation APIs. It fosters technological inclusivity, enabling startups to build products that break linguistic barriers and ensure seamless digital communication across India’s diverse language ecosystem. The program supports hackathons, innovation challenges, and collaborative development to advance scalable and inclusive AI language solutions.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable startups to co-create and build new, innovative products that break linguistic barriers",
+    "Ensure seamless digital communication across India’s diverse language ecosystem",
+    "Foster technological inclusivity and empower businesses to scale their solutions",
+    "Drive scalable and inclusive AI language solutions through co-innovation and product development",
+    "Empower startups to build multilingual solutions that connect a billion voices",
+    "Provide access to Bhashini’s powerful multilingual APIs for integration into products and services",
+    "Connect startups to challenge rounds and hackathons for innovation, collaboration, and recognition"
+  ],
+  "eligibility": "Startups can join the Bhashini ecosystem by integrating Bhashini’s language translation APIs to co-create and build new, innovative products that break linguistic barriers, ensuring seamless digital communication across India’s diverse language ecosystem.",
+  "benefits": "Access to Bhashini’s multilingual APIs for integration into products and services, participation in hackathons and innovation challenges, opportunities for collaboration and recognition, support for building scalable and inclusive AI language solutions, and empowerment to develop multilingual solutions that connect a billion voices.",
+  "financial_support": "The scheme does not provide direct financial grants or funding to startups. Instead, it offers non-financial support such as API access, mentorship, collaboration opportunities, and participation in hackathons and challenges to foster innovation and product development.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Join the Bhashini ecosystem by integrating Bhashini’s language translation APIs into your products and services. 2. Participate in hackathons and innovation challenges organized by Bhashini to build multilingual solutions. 3. Collaborate with Bhashini to co-create innovative AI-driven multilingual solutions. 4. Leverage Bhashini’s resources such as models, datasets, and tools for development. 5. Scale your solutions while ensuring digital services are accessible to a broader audience across India’s linguistic diversity.",
+  "application_portal_url": "https://bhashini.gov.in/udbhav",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Digital India BHASHINI Division (DIBD), an Independent Business Division under Digital India Corporation (DIC)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in | Phone: 011-24301361",
+  "caveats": [
+    "The scheme does not provide direct financial grants or funding to startups",
+    "Support is primarily non-financial, including API access, mentorship, and collaboration opportunities",
+    "Startups must integrate Bhashini’s APIs to participate in the program",
+    "Participation in hackathons and challenges is subject to announcements and timelines"
+  ],
+  "source_cited_notes": [
+    "https://bhashini.gov.in/udbhav",
+    "https://bhashini.gov.in/hackathon",
+    "https://bhashini.gov.in/",
+    "https://bhashini.gov.in/about-bhashini"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:48:20.909743+00:00"
+}

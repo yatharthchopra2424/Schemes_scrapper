@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-649",
+  "scheme_name": "National Backward Classes Finance & Dev Corp (NBCFDC) Loans",
+  "scheme_url": "https://www.nbcfdc.gov.in",
+  "ministry_or_category": "OBC Development",
+  "overview": "The National Backward Classes Finance & Development Corporation (NBCFDC) provides concessional financial assistance to members of Backward Classes whose annual family income is up to Rs. 5.00 Lakh through Channel Partners (State Channelising Agencies/Banks). The loans are intended for income generating activities that have potential to provide sustainable income generation for the beneficiary or group of beneficiaries. The Corporation operates under the Ministry of Social Justice and Empowerment and implements its schemes via nominated Channel Partners across India.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "Backward Classes",
+    "OBC",
+    "Self Help Groups (SHGs)",
+    "individual beneficiaries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote economic and developmental activities for the benefit of Backward Classes",
+    "To assist individuals or groups belonging to Backward Classes by way of loans and advances for economically and financially viable schemes and projects",
+    "To extend loans to Backward Classes for pursuing general/professional/vocational/technical education or training at graduate and higher level",
+    "To provide gainful employment and skill development to the target group and assist in the upgradation of technical and entrepreneurial skills of Backward Classes"
+  ],
+  "eligibility": "Members of Backward Classes as notified by Central/State Govt. from time to time. Applicant's annual family income should be upto Rs. 5.00 Lakh. For Group Loan Scheme, at least 60% members of SHG must belong to Backward Classes, with other members from weaker sections (SC/ST/Minorities/PwD). For skill training under PM DAKSH, eligibility includes belonging to OBC/EBC/De-notified Nomadic and Semi-Nomadic Tribe/Sr. Citizen/Beggars/Transgender.",
+  "benefits": "Concessional financial assistance through Channel Partners; loans for income generating activities, education, and skill development; timely payment rebate of 1% per annum equally shared between Channel Partners and Beneficiaries; finance up to 85-90% of project cost via NBCFDC, with remaining share from Channel Partner/Beneficiary; support for agriculture, small business/artisan, technical/professional trades, transport and service sectors; skill development training under PM DAKSH; marketing linkages for artisans; awareness camps and publicity grants to Channel Partners.",
+  "financial_support": "NBCFDC provides loans covering 85% (Individual Loan Scheme) or 90% (Group Loan Scheme) of project cost, with Channel Partner/Beneficiary contributing 15% or 10% respectively. Maximum loan limit is Rs. 25.00 Lakh per beneficiary under Individual Loan Scheme and per SHG under Group Loan Scheme (with per beneficiary limit of Rs. 1.25 Lakh in SHG). Education loans up to Rs. 25.00 Lakh available at 8% p.a. for 10 years (inclusive of 5 year moratorium). Rate of Interest: 4-5% p.a. from NBCFDC to Channel Partner, 7-8% p.a. from Channel Partner to Beneficiary (varies by loan amount and scheme). Repayment Period: 3-7 years for income generating activities, max 10 years for education loans. Moratorium period: 1 quarter for all loans except education loans (5 years). All schemes carry timely payment rebate @1% per annum, equally shared between Channel Partners and Beneficiaries.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Prospective eligible beneficiaries should apply on prescribed form (available with Channel Partners) to District Office of Channel Partners where they normally reside. 2. Applicant should clearly mention felt needs, choice of vocation, and training requirements in application form. 3. Applicant must fulfil eligibility criteria (belong to Backward Class and have annual family income upto Rs. 3.00 lakh as per 'How & Where to Apply' page, though other pages state Rs. 5.00 Lakh - using Rs. 3.00 lakh as specified in application guidelines). 4. Submit documents as proof such as Caste and Income Certificate issued by Competent Authority (Tehsildar/Sub Divisional Magistrate/District Collector). 5. Self-certified annual family income certificate duly endorsed by gazetted officers of State Government or Branch Manager of Bank giving the loan are admissible. 6. Eligible persons can apply online at registration portal on NBCFDC website; requests received will be forwarded to concerned Channel Partners (SCAs/Banks) under intimation to applicant. 7. For more details, contact concerned Channel Partner (State Channelizing Agency/RRB/PSB).",
+  "application_portal_url": "https://nbcfdc.gov.in/nbcfdc/web/howapply",
+  "required_documents": [
+    "Caste Certificate issued by Competent Authority",
+    "Income Certificate issued by Competent Authority (Tehsildar/Sub Divisional Magistrate/District Collector)",
+    "Self-certified annual family income certificate endorsed by gazetted officers of State Government",
+    "Self-certified annual family income certificate endorsed by Branch Manager of Bank (if applying at Bank)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Backward Classes Finance & Development Corporation (NBCFDC), a Govt. of India Undertaking under the aegis of Ministry of Social Justice and Empowerment",
+  "contact_details": "Email: nf-obc@nbcfdc.gov.in | Contact No. 011-45854421 (for NFOBC scheme; general contact not explicitly stated in evidence)",
+  "caveats": [
+    "Loans are provided only for income generating activities with potential for sustainable income generation",
+    "Beneficiary contribution required: 15% for Individual Loan Scheme, 10% for Group Loan Scheme",
+    "Timely payment rebate of 1% per annum applies only if payments are made on time",
+    "Education loan moratorium period is 5 years (inclusive in 10-year tenure)",
+    "SHGs under Group Loan Scheme must have at least 60% members from Backward Classes",
+    "Annual family income limit is Rs. 5.00 Lakh (Rs. 3.00 Lakh specified in application form guidelines)",
+    "Utilization Certificate must be submitted within stipulated period (e.g., 90 days for PLGIA) or higher interest applies",
+    "Unutilized funds must be refunded after 180 days"
+  ],
+  "source_cited_notes": [
+    "https://nbcfdc.gov.in/nbcfdc/web/individual-loan-scheme",
+    "https://nbcfdc.gov.in/nbcfdc/web/group-loan-scheme",
+    "https://nbcfdc.gov.in/nbcfdc/web/loan-flyer",
+    "https://nbcfdc.gov.in/nbcfdc/web/howapply",
+    "https://nbcfdc.gov.in/nbcfdc/web/loans-pattern-of-finance",
+    "https://nbcfdc.gov.in/nbcfdc/web/about",
+    "https://nbcfdc.gov.in/nbcfdc/web/objective",
+    "https://nbcfdc.gov.in/nbcfdc/web/vision",
+    "https://nbcfdc.gov.in/nbcfdc/web/skill-training",
+    "https://nbcfdc.gov.in/nbcfdc/web/other-schemes",
+    "https://nbcfdc.gov.in/nbcfdc/web/sites/default/files/other-scheme/PLGIA%20Scheme-Feb2021_4.pdf",
+    "https://nbcfdc.gov.in/nbcfdc/web/sites/default/files/other-scheme/TechUpgradation-08.03.2022.pdf",
+    "https://nbcfdc.gov.in/nbcfdc/web/sites/default/files/2023-09/Awarness%20Camp_0.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:34:27.647955+00:00"
+}

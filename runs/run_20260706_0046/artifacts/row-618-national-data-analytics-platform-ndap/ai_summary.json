@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-618",
+  "scheme_name": "National Data & Analytics Platform (NDAP)",
+  "scheme_url": "https://ndap.niti.gov.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "The National Data and Analytics Platform (NDAP) is an initiative by NITI Aayog to facilitate and improve access to Indian government data. It allows users to search, merge, visualize, and download datasets from across India's administrative landscape. The platform hosts datasets from various sectors and ministries, enabling data-driven decision-making and research.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "researchers",
+    "policy makers",
+    "academics",
+    "journalists",
+    "developers",
+    "civil society"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate access to Indian government data",
+    "Improve data discoverability and usability",
+    "Enable users to search, merge, visualize, and download datasets",
+    "Support data-driven decision-making and research",
+    "Promote transparency and accountability in governance"
+  ],
+  "eligibility": "The platform is accessible to all users without restriction; no specific eligibility criteria are mentioned for accessing NDAP.",
+  "benefits": "Users can access thousands of government datasets, search and filter data, merge multiple datasets, visualize key indicators and trends, and download data for analysis. The platform supports data accessibility for people with disabilities through WCAG 2.0 AA compliance.",
+  "financial_support": "No financial support is provided under NDAP as it is a data access platform, not a funding scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the NDAP website at https://ndap.niti.gov.in 2. Use the search function to find datasets by sector, ministry, or keyword 3. Apply filters such as time period, frequency, and granularity 4. Preview dataset details including columns and last updated date 5. Merge multiple datasets if needed 6. Visualize data using built-in tools 7. Download datasets in usable formats",
+  "application_portal_url": "https://ndap.niti.gov.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. The platform is accessible year-round.",
+  "implementing_agency": "NITI Aayog",
+  "contact_details": "",
+  "caveats": [
+    "The website is optimized for desktop and laptop devices; mobile users may experience performance issues",
+    "Some datasets may require login or sign-up to access",
+    "External websites linked from NDAP are maintained by respective agencies and their accessibility is not guaranteed by NDAP"
+  ],
+  "source_cited_notes": [
+    "https://ndap.niti.gov.in",
+    "https://ndap.niti.gov.in/info?tab=accessibility"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:13:24.855759+00:00"
+}

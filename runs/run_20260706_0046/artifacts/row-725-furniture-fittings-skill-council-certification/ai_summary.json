@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-725",
+  "scheme_name": "Furniture & Fittings Skill Council Certification",
+  "scheme_url": "https://ffsc.in",
+  "ministry_or_category": "Furniture & Wood",
+  "overview": "Furniture & Fittings Skill Council (FFSC) is a Not-for-Profit organization registered under the Societies Registration Act XXI of 1860, promoted by CII with financial support from NSDC under the aegis of the Ministry of Skill Development and Entrepreneurship (MSDE). It functions as an Awarding Body recognized by NCVET and develops National Occupational Standards (NOS), Qualification Packs (QPs), and training curricula for the furniture and fittings sector. FFSC implements Government of India's skill training schemes such as PMKVY, SANKALP, and MoSJE programs, and conducts skill gap studies to assess workforce needs.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "unemployed candidates",
+    "workers from other sectors",
+    "industry",
+    "trainees",
+    "assessors",
+    "trainers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To skill unemployed candidates by imparting short-term skill development training",
+    "To allow people from other sectors to learn new skills to deal with changes in the workforce and market",
+    "To meet the industry requirement for entry-level semi-skilled manpower",
+    "To develop National Occupational Standards (NOS) and Qualification Packs (QPs)",
+    "To create assessment instruments and tools for certification of learners",
+    "To develop curriculum for delivery of training programs",
+    "To enhance employability and productivity of candidates",
+    "To support industry in workforce planning and career pathway development"
+  ],
+  "eligibility": "Basic Literacy and Numeracy; minimum level of education for school training is 6th class; minimum job entry age is 14 years.",
+  "benefits": "Government-authorized certification upon completion; enhanced employability; recognition of skills and competencies; improved productivity and efficiency at workplace; access to government incentives for NOS-aligned training; practical skills development; career pathway understanding; skills gap identification.",
+  "financial_support": "FFSC implements Government of India's skill training schemes such as PMKVY, SANKALP, and MoSJE programs, which provide financial support through monetary awards, rewards, and quality training. FFSC has conducted bridge courses and RPL programs under these schemes, including a 42-hour bridge course in RPL under SANKALP and 12 hours of RPL training for wood workers under CEMCA sponsorship.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant Qualification Pack (QP) or National Occupational Standard (NOS) for the desired job role. 2. Enroll with an FFSC-affiliated Training Partner or Skill Academy. 3. Complete the required training duration as per the QP (e.g., 270 hours for General Assistant-Furniture and Fittings Installation). 4. Undergo assessment by empaneled Assessment Agencies using theory, practical, project, and viva components. 5. Achieve minimum 70% aggregate score and 70% in each NOS to qualify. 6. Receive certification from FFSC upon successful completion.",
+  "application_portal_url": "https://ffsc.in",
+  "required_documents": [
+    "Basic Literacy and Numeracy proof",
+    "Age proof (minimum 14 years)",
+    "Educational certificates (if any)",
+    "Job card (for on-the-job training)",
+    "Assessment sheets",
+    "Project reports",
+    "Attendance records"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Skill Development and Entrepreneurship (MSDE)",
+  "contact_details": "Email: info@ffsc.in | Phone: +91 88606 00574",
+  "caveats": [
+    "Recognition of Prior Learning (RPL) is not applicable for certain short-term training qualifications",
+    "Qualifications have validity periods (e.g., valid till 01-10-2024 for some QPs)",
+    "Assessment must be conducted by FFSC-empaneled Assessment Agencies only",
+    "Minimum 70% passing percentage required at both QP and NOS levels"
+  ],
+  "source_cited_notes": [
+    "https://ffsc.in",
+    "https://ffsc.in/index2.php",
+    "https://ffsc.in/schemes.php",
+    "https://ffsc.in/training-qualifications.php",
+    "https://ffsc.in/ncvet-approved.php",
+    "https://ffsc.in/new-pdf/Sample Qualification/Q-File_L2-General Assistant_Furniture and Fittings Installation_V2_English.pdf",
+    "https://ffsc.in/assets/pdf/FFSC Regional Skill Gap - Demand Analysis Report.20240719.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:23:40.655548+00:00"
+}

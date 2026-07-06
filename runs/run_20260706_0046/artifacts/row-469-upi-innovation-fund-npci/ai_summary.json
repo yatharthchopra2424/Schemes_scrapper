@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-469",
+  "scheme_name": "UPI Innovation Fund (NPCI)",
+  "scheme_url": "https://www.npci.org.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "The UPI Innovation Fund (NPCI) is a scheme under the National Payments Corporation of India aimed at fostering innovation in the Unified Payments Interface (UPI) ecosystem. It supports startups and innovators developing solutions that enhance UPI's functionality, security, and reach. The fund is part of NPCI's broader initiative to strengthen India's digital payments infrastructure through collaboration with fintech entities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "fintech companies",
+    "innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation in UPI-based payment solutions",
+    "Enhance security and user experience in digital payments",
+    "Support development of scalable UPI-integrated technologies",
+    "Encourage financial inclusion through UPI advancements",
+    "Strengthen the UPI ecosystem via partnerships with fintech startups"
+  ],
+  "eligibility": "Startups and innovators working on UPI-related technologies, including but not limited to payment gateways, UPI-enabled apps, security solutions, and value-added services on the UPI platform, are eligible to apply. Entities must be registered in India and demonstrate alignment with NPCI's vision for digital payments.",
+  "benefits": "Selected beneficiaries receive financial support, technical mentorship from NPCI experts, access to UPI sandbox environments, potential integration with NPCI's product suite, and visibility through NPCI's innovation network. Non-financial benefits include guidance on compliance, scalability, and market readiness.",
+  "financial_support": "The UPI Innovation Fund provides grant-based financial support to selected startups and innovators. The quantum of support is determined on a case-by-case basis depending on the innovation's scope, impact, and alignment with NPCI's strategic goals. Funds are disbursed in milestones tied to project deliverables.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the NPCI Partner Program or Developer Studio section on the NPCI website. 2. Review the UPI Innovation Fund guidelines and eligibility criteria. 3. Submit a detailed proposal outlining the innovation, its impact on UPI, and implementation plan. 4. Await evaluation by the NPCI innovation committee. 5. If shortlisted, participate in technical discussions and due diligence. 6. Receive approval and sign agreement for fund disbursement.",
+  "application_portal_url": "https://npci.org.in/partner-program",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Detailed project proposal",
+    "Proof of concept or prototype (if available)",
+    "Team details and expertise",
+    "Financial projections and utilization plan"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Payments Corporation of India (NPCI)",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability and NPCI's discretion",
+    "Intellectual property rights must comply with NPCI guidelines",
+    "Recipients may be required to showcase outcomes at NPCI events",
+    "Continued support depends on milestone achievement"
+  ],
+  "source_cited_notes": [
+    "https://npci.org.in/",
+    "https://npci.org.in/partner-program"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:45:43.489932+00:00"
+}

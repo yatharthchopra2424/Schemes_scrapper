@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-683",
+  "scheme_name": "Fast-Track Trademark Registration for Startups",
+  "scheme_url": "https://ipindia.gov.in",
+  "ministry_or_category": "Legal & IP",
+  "overview": "The Fast-Track Trademark Registration for Startups is a scheme under the Intellectual Property India portal that provides expedited trademark registration services specifically for startups. The scheme is part of the broader Startup India initiative and aims to reduce the time and cost associated with trademark registration for early-stage ventures. It leverages the e-filing system and offers facilitation through registered trademark agents and facilitators under the SIPP scheme.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide fast-track trademark registration for startups",
+    "Reduce the time and cost of trademark protection for new ventures",
+    "Encourage startups to protect their brand identity early in the business lifecycle",
+    "Facilitate access to trademark facilitation services under the SIPP scheme",
+    "Promote intellectual property awareness and protection among Indian startups"
+  ],
+  "eligibility": "The scheme is available to startups recognized by the Department for Promotion of Industry and Internal Trade (DPIIT) under the Startup India initiative. Eligible entities must be incorporated as a private limited company, registered partnership firm, or limited liability partnership (LLP), have been in existence for less than 10 years, and have an annual turnover not exceeding INR 100 crore in any preceding financial year.",
+  "benefits": "Startups benefit from expedited examination of trademark applications, reduced official fees for trademark filing (as per the First Schedule of the Patents Rules, 2003, which provides fee concessions for natural persons, startups, small entities, and educational institutions), access to free facilitation services under the SIPP (Scheme for Facilitating Startups Intellectual Property Protection), and guidance through the trademark application workflow via the IP India portal. The scheme also provides access to e-filing facilities, tracking of application status, and support for responding to examination reports.",
+  "financial_support": "Under the SIPP scheme, the government bears the fees of the facilitator, and the startup only needs to pay the statutory government fees for trademark filing. For startups, the official fee for filing a trademark application (Form TM-A) is reduced: INR 4,500 for e-filing and INR 5,000 for physical filing, as opposed to the standard fee of INR 9,000 (e-filing) and INR 10,000 (physical filing) for other applicants. This represents a 50% fee concession.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure the startup is recognized by DPIIT under the Startup India initiative. 2. Access the IP India portal at https://ipindia.gov.in. 3. Conduct a trademark search using the 'Search Existing Trademarks' tool. 4. Prepare the trademark application (Form TM-A) with details of the mark, goods/services (classified under Nice Classification), and applicant information. 5. Login to the e-filing portal via the 'Comprehensive e-Filing Services' section. 6. Upload the completed Form TM-A and supporting documents (such as user affidavit, if applicable, and power of attorney if filed through an agent). 7. Pay the prescribed fee online (INR 4,500 for startups for e-filing). 8. Submit the application and track its status using the 'Track Application Status' facility. 9. Respond to any examination reports or objections within the stipulated time. 10. Upon acceptance, the trademark will be published in the Trade Marks Journal for opposition. 11. If no opposition is filed within 4 months, the trademark proceeds to registration and a registration certificate is issued.",
+  "application_portal_url": "https://ipindia.gov.in",
+  "required_documents": [
+    "Form TM-A (Trademark Application)",
+    "Proof of DPIIT startup recognition",
+    "User affidavit (if claiming prior use)",
+    "Power of Attorney (if filed through a trademark agent)",
+    "Details of goods and services with Nice Classification",
+    "Representation of the trademark (word mark, logo, etc.)",
+    "Proof of payment of government fees"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: patentinfo[at]nic[dot]in | Helpline: 1800-11-1960 (for e-filing support)",
+  "caveats": [
+    "The 50% fee concession is only available for startups recognized by DPIIT",
+    "The startup must maintain its eligibility status throughout the registration process",
+    "Trademark registration is valid for 10 years from the date of application and can be renewed indefinitely",
+    "The scheme does not cover international trademark registration under the Madrid Protocol",
+    "Objections or oppositions during examination may delay the process despite the fast-track facility"
+  ],
+  "source_cited_notes": [
+    "https://ipindia.gov.in",
+    "https://ipindia.gov.in/trademark-application-workflow",
+    "https://ipindia.gov.in/application-workflow/trademark-filing-process",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/bf10437e-a59f-4cfe-bc09-e1ee3e15602d.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:53:32.410146+00:00"
+}

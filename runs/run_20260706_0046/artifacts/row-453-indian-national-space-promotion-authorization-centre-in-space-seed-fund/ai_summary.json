@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-453",
+  "scheme_name": "Indian National Space Promotion & Authorization Centre (IN-SPACe) Seed Fund",
+  "scheme_url": "https://www.inspaceindia.org",
+  "ministry_or_category": "Space Economy",
+  "overview": "The Indian National Space Promotion & Authorization Centre (IN-SPACe) Seed Fund is a financial support initiative aimed at nurturing early-stage space startups in India. It provides seed funding to innovative ventures engaged in space technology, applications, and services. The fund is designed to promote private sector participation in the Indian space economy by supporting proof-of-concept, prototype development, and early commercialization efforts. IN-SPACe, as the regulatory and promotional body under the Department of Space, administers this scheme to bridge the funding gap for emerging space entrepreneurs.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial assistance to early-stage space startups for proof-of-concept and prototype development",
+    "To promote innovation and entrepreneurship in the Indian space sector",
+    "To enable technology demonstration and validation of space-based solutions",
+    "To support the commercialization of indigenous space technologies",
+    "To strengthen the pipeline of investable space ventures for future scaling",
+    "To foster self-reliance (Atmanirbharata) in critical space technologies"
+  ],
+  "eligibility": "Indian-incorporated startups recognized by DPIIT or registered under the Companies Act, 2013 or LLP Act, 2008, working on innovative space technologies, applications, or services. The startup must be engaged in activities related to launch vehicles, satellites, ground systems, space-based applications, or allied domains. Preference is given to entities with a clear roadmap for technology development and market deployment within 18–24 months.",
+  "benefits": "Financial support in the form of grant-in-aid for eligible expenses such as R&D, prototyping, testing, and technology development. Non-financial benefits include access to ISRO facilities and technical mentorship, regulatory guidance from IN-SPACe, networking opportunities with industry and academia, and support in intellectual property rights (IPR) facilitation. Selected startups also gain visibility through IN-SPACe’s ecosystem platforms and investor connect events.",
+  "financial_support": "The Seed Fund provides grant-based financial assistance of up to INR 1 Crore per eligible startup. The grant is disbursed in milestones tied to project progress, subject to technical and financial review by IN-SPACe. Funds can be utilized for approved expenses including personnel costs, material procurement, software/tools, testing, and prototyping, as per the approved project plan. The support is non-dilutive and does not require equity sharing.",
+  "fund_size_crores": "100",
+  "grant_amount_per_entity": "Up to INR 1 Crore",
+  "application_process": "1. Visit the official IN-SPACe website and navigate to the Seed Fund section. 2. Review the eligibility criteria and guidelines document. 3. Prepare a detailed project proposal including technical approach, budget, timeline, and team credentials. 4. Submit the application online through the designated portal with all required documents. 5. Applications are screened for eligibility and technical merit by an expert committee. 6. Shortlisted candidates may be invited for a presentation or interview. 7. Final selection is based on innovation, feasibility, impact, and alignment with national space goals. 8. Selected startups receive a sanction letter and undergo due diligence before fund disbursement.",
+  "application_portal_url": "https://www.inspaceindia.org/seed-fund",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Audited financial statements (if available)",
+    "Detailed project report (DPR) with technical scope, milestones, and budget",
+    "Team credentials and CVs of key personnel",
+    "Declaration of IP ownership or usage rights",
+    "Bank account details and canceled cheque",
+    "Authorization letter from authorized signatory",
+    "Any existing funding or collaboration details"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds",
+  "implementing_agency": "Indian National Space Promotion and Authorization Centre (IN-SPACe), Department of Space, Government of India",
+  "contact_details": "Email: seedfund@inspaceindia.org | Phone: +91-80-2217 2000",
+  "caveats": [
+    "Funds must be utilized strictly for the approved project objectives and within the stipulated timeline",
+    "Grantees are required to submit periodic progress reports and utilization certificates",
+    "Any unspent balance must be refunded to IN-SPACe upon project completion or termination",
+    "The grant is non-transferable and cannot be used for land acquisition or construction of permanent structures",
+    "IN-SPACe reserves the right to reject applications without assigning any reason",
+    "Beneficiaries must comply with all statutory and regulatory requirements applicable to space activities"
+  ],
+  "source_cited_notes": [
+    "https://www.inspaceindia.org",
+    "https://www.inspaceindia.org/seed-fund"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:34:18.077104+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-84",
+  "scheme_name": "PM Ayushman Bharat Health Infrastructure Mission",
+  "scheme_url": "https://pmaim.mohfw.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "The PM Ayushman Bharat Health Infrastructure Mission (PM-ABHIM) is a centrally sponsored scheme launched to strengthen public health infrastructure and pandemic preparedness across India. It aims to develop critical care hospital blocks, expand diagnostic services, and enhance surveillance and research capabilities at national, state, and district levels. The mission focuses on building resilient health systems through investments in both urban and rural health facilities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "union territories",
+    "public health facilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Strengthen public health infrastructure at primary, secondary, and tertiary levels",
+    "Establish critical care hospital blocks in districts with population over 5 lakhs",
+    "Expand diagnostic services through a network of laboratories",
+    "Enhance disease surveillance and outbreak response capabilities",
+    "Develop institutional capacity for research and pandemic preparedness",
+    "Support the creation of block public health units in rural areas",
+    "Upgrade existing health and wellness centers",
+    "Establish integrated public health labs at district level"
+  ],
+  "eligibility": "State Governments and Union Territories are eligible to receive financial assistance under the scheme. Funds are allocated based on population, disease burden, and health infrastructure gaps. Implementation is carried out through State Health Societies and designated nodal agencies.",
+  "benefits": "Financial support for construction and equipping of critical care blocks, diagnostic laboratories, block public health units, and integrated public health labs. Non-financial benefits include technical guidance, training programs, and monitoring support from central agencies. The scheme enhances access to quality healthcare services, especially in underserved and rural areas.",
+  "financial_support": "The scheme provides grant-in-aid to States and UTs for infrastructure development. Funding is released in installments based on utilization of previous installments and submission of utilization certificates. The central government bears 60% of the cost for most components, while 90% is provided for North Eastern and Himalayan States, and 100% for Union Territories.",
+  "fund_size_crores": "64180",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Governments/UTs submit project proposals to the Ministry of Health and Family Welfare. 2. Proposals are appraised by the Expenditure Finance Committee or Standing Finance Committee. 3. Upon approval, administrative sanction is issued. 4. Funds are released in installments as per the agreed schedule. 5. States/UTs implement the projects through designated agencies. 6. Utilization certificates and progress reports are submitted for subsequent fund releases.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing infrastructure gaps and proposed interventions",
+    "Utilization certificates of previously released funds",
+    "Progress reports on physical and financial progress",
+    "Land availability and ownership documents",
+    "Environmental and statutory clearances (if applicable)",
+    "Detailed project reports (DPRs) with cost estimates",
+    "State-level administrative approvals"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year based on annual budget allocations and planning cycles.",
+  "implementing_agency": "Ministry of Health and Family Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is contingent upon submission of utilization certificates and progress reports",
+    "Cost overruns are generally not borne by the central government",
+    "Land acquisition and statutory clearances are the responsibility of the State/UT",
+    "The scheme is subject to periodic review and mid-term corrections"
+  ],
+  "source_cited_notes": [
+    "https://pmaim.mohfw.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:04:04.675001+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-613",
+  "scheme_name": "Cyber Surakshit Bharat Initiative",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Cybersecurity",
+  "overview": "The Cyber Surakshit Bharat Initiative is a cybersecurity-focused scheme under the Ministry of Electronics and Information Technology (MeitY) aimed at strengthening India's cybersecurity posture through capacity building, awareness, and technical support. It aligns with MeitY's broader objectives of securing India's cyber space and promoting digital governance. The initiative likely involves training, certification, and support for cybersecurity practices across government and critical sectors.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "government departments",
+    "critical information infrastructure",
+    "MSMEs",
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Strengthen cybersecurity capabilities across government and critical sectors",
+    "Promote cyber hygiene and awareness among citizens and organizations",
+    "Enhance incident response and threat intelligence sharing mechanisms",
+    "Support development of indigenous cybersecurity solutions and tools",
+    "Build a skilled cybersecurity workforce through training and certification programs"
+  ],
+  "eligibility": "Eligibility criteria are not explicitly detailed in the provided evidence. Based on MeitY's Citizen's Charter and organizational structure, the initiative likely targets central and state government departments, public sector undertakings, and entities managing critical information infrastructure.",
+  "benefits": "Benefits include enhanced cybersecurity resilience, access to threat intelligence, technical guidance on security best practices, training and capacity building support, and improved incident response coordination through MeitY's cybersecurity divisions and attached offices like CERT-In.",
+  "financial_support": "No specific financial support details (grants, loans, subsidies) are mentioned in the evidence for the Cyber Surakshit Bharat Initiative. The scheme appears to focus on technical and capacity-building support rather than direct financial assistance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process is not described in the provided evidence. Interested entities would likely need to contact MeitY's Cyber Security Division or CERT-In for engagement, but no step-by-step procedure is documented in the scraped pages.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: js.ssoffice@meity.gov.in | Contact: 011 - 24301815 (as per Citizen's Charter 2026-27 for Nodal Grievance Officer, which may serve as a point of contact)",
+  "caveats": [
+    "The initiative's exact scope, funding, and operational details are not fully disclosed in the available evidence",
+    "Benefits and participation may be limited to government and critical sector entities",
+    "No financial disbursement mechanism is described in the source material"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/static/uploads/2026/07/aaa5c1332870e9462502143f932c1ec8.pdf",
+    "https://meity.gov.in/ministry/our-team",
+    "https://meity.gov.in/connect"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:08:51.842027+00:00"
+}

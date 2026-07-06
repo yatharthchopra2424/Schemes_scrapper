@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-26",
+  "scheme_name": "ECGC Export Credit Guarantee Schemes",
+  "scheme_url": "https://www.ecgc.in",
+  "ministry_or_category": "Export Promotion",
+  "overview": "ECGC Export Credit Guarantee Schemes provide financial assistance to Indian exporters by offering credit guarantees against risks of non-payment by overseas buyers due to commercial or political reasons. The scheme supports export growth by mitigating payment risks and enhancing access to working capital finance from banks. It covers both pre-shipment and post-shipment stages of export transactions.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "exporters",
+    "banks",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide credit guarantee covers to protect exporters against payment defaults by overseas buyers",
+    "Facilitate easier access to export finance from banks and financial institutions",
+    "Promote Indian exports by mitigating commercial and political risks",
+    "Support MSME exporters through tailored guarantee products",
+    "Enhance competitiveness of Indian goods and services in international markets"
+  ],
+  "eligibility": "Indian exporters, including MSMEs, engaged in export of goods or services, who have obtained an export order and require credit protection against buyer default. Banks lending to such exporters can also avail guarantees to secure their export credit exposure.",
+  "benefits": "Protection against commercial and political risks, improved access to bank finance at better terms, enhanced creditworthiness of exporters, coverage for both pre-shipment and post-shipment risks, and support for export bill discounting and collection.",
+  "financial_support": "ECGC provides credit guarantee covers typically up to 90% of the export value, reducing the risk for banks and enabling them to extend pre-shipment and post-shipment finance to exporters. Claims are settled upon buyer default due to insolvency, protracted default, or political events.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Exporter or bank approaches ECGC with export contract details and buyer information. 2. Submit required documents including export order, invoice, and buyer creditworthiness details. 3. ECGC evaluates the risk and issues a credit guarantee policy. 4. Premium is paid based on risk assessment and coverage amount. 5. Policy is issued and can be used to secure bank finance. 6. In case of default, claim is filed with supporting documents for settlement.",
+  "application_portal_url": "https://www.ecgc.in",
+  "required_documents": [
+    "Export order or contract",
+    "Commercial invoice",
+    "Bill of lading or airway bill",
+    "Buyer details and creditworthiness information",
+    "Bank sanction letter (if seeking finance)",
+    "Export credit guarantee application form",
+    "RCMC or IEC certificate",
+    "GST registration certificate"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year based on export transactions.",
+  "implementing_agency": "Export Credit Guarantee Corporation of India Limited (ECGC), Ministry of Commerce and Industry",
+  "contact_details": "Email: info@ecgc.in | Helpline: 1800-22-7788",
+  "caveats": [
+    "Coverage is subject to underwriting norms and country risk classifications",
+    "Claims are payable only after exhaustion of legal remedies and proof of default",
+    "Certain high-risk countries or buyers may be excluded or require higher premium",
+    "Policy must be obtained before shipment or extension of credit",
+    "Fraudulent claims or misrepresentation lead to rejection and legal action"
+  ],
+  "source_cited_notes": [
+    "https://ecgc.in/",
+    "https://ecgc.in/claim-paid-details-by-ecgc",
+    "https://ecgc.in/national-export-insurance-account-neia"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:33:59.004131+00:00"
+}

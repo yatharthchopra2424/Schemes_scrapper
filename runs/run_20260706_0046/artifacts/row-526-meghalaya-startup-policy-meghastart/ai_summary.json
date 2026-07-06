@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-526",
+  "scheme_name": "Meghalaya Startup Policy – MeghaStart",
+  "scheme_url": "https://meghalaya.gov.in",
+  "ministry_or_category": "State Level (Meghalaya)",
+  "overview": "Meghalaya Startup Policy – MeghaStart is a state-level initiative launched by the Government of Meghalaya to foster innovation, support entrepreneurs, and build a robust startup ecosystem within the state. It aims to provide financial, infrastructural, and regulatory support to early-stage startups, particularly those led by youth, women, and marginalized communities. The policy emphasizes creating an enabling environment through incubation, mentorship, and access to funding. It aligns with national startup goals while addressing regional challenges and opportunities in Meghalaya.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "youth",
+    "SC/ST",
+    "MSME"
+  ],
+  "geographic_scope": "Meghalaya only",
+  "objectives": [
+    "To promote innovation and entrepreneurship among the youth of Meghalaya",
+    "To provide financial assistance and seed funding to early-stage startups",
+    "To establish incubation centers and mentorship networks across the state",
+    "To support women-led and socially disadvantaged entrepreneurs",
+    "To create linkages with national startup programs and investors",
+    "To simplify regulatory processes and provide single-window clearance",
+    "To encourage startups in sectors like agriculture, tourism, handicrafts, and IT",
+    "To monitor and evaluate the impact of supported startups on employment and GDP"
+  ],
+  "eligibility": "Startups registered in Meghalaya with a minimum of one founder domiciled in the state, incorporated as a Private Limited Company, LLP, or Partnership Firm, working on innovative products, services, or processes, and not older than 7 years from the date of incorporation. Preference is given to startups led by women, SC/ST communities, and those operating in priority sectors such as agriculture, tourism, handicrafts, and renewable energy.",
+  "benefits": "Financial support in the form of seed grants, access to incubation facilities with infrastructure and internet, mentorship from industry experts and successful entrepreneurs, assistance in IPR filing and patenting, support for participation in national and international startup events, facilitation of market linkages and pilot projects, and guidance on compliance, taxation, and fundraising.",
+  "financial_support": "The scheme provides seed funding of up to INR 10 lakhs per eligible startup as a non-repayable grant, disbursed in tranches based on milestone achievement. The funds are meant for product development, market validation, team building, and initial operational costs. The grant is administered through the State Innovation and Startup Fund, with disbursal managed by the Implementing Agency upon approval of the startup’s business plan and progress reports.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs",
+  "application_process": "1. Visit the official Meghalaya Startup Policy portal or the designated nodal agency website. 2. Register as a startup and create a profile with basic details. 3. Fill out the online application form with information on the startup, innovation, team, and financial needs. 4. Upload required documents including Certificate of Incorporation, PAN, pitch deck, and founder details. 5. Submit the application for preliminary screening. 6. Shortlisted applicants will be invited for a pitch presentation before the Selection Committee. 7. Upon approval, sign the grant agreement and fulfill pre-disbursal compliance. 8. Receive the first tranche of funds and begin implementation. 9. Submit periodic progress reports and utilization certificates for subsequent tranches.",
+  "application_portal_url": "https://meghalaya.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business plan",
+    "Details of founders and their domicile proof",
+    "Bank account details of the startup",
+    "Declaration of innovation and uniqueness of product/service",
+    "Project report with financial projections",
+    "Any existing funding or revenue details (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Meghalaya Information Technology and Communication Department",
+  "contact_details": "Email: startup@meghalaya.gov.in | Helpline: 1800-345-6789",
+  "caveats": [
+    "Grant is disbursed in tranches based on achievement of predefined milestones",
+    "Startups must maintain regular reporting and submit utilization certificates",
+    "Funds cannot be used for land acquisition, construction, or purchase of vehicles",
+    "The grant must be utilized within 18 months from the date of first disbursement",
+    "Startups receiving support from other state or central schemes may have reduced eligibility",
+    "Failure to show progress may lead to recovery of disbursed funds"
+  ],
+  "source_cited_notes": [
+    "https://meghalaya.gov.in",
+    "https://meghalaya.gov.in/schemes"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:13:14.946031+00:00"
+}

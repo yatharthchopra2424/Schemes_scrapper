@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-293",
+  "scheme_name": "5G Use Case Labs & Testbeds Initiative",
+  "scheme_url": "https://dot.gov.in/5g",
+  "ministry_or_category": "Telecom",
+  "overview": "The 5G Use Case Labs & Testbeds Initiative is a program under the Department of Telecommunications, Ministry of Communications, aimed at fostering innovation and development of 5G use cases through dedicated labs and testbeds. It supports startups, MSMEs, and other entities in testing and validating 5G applications across various sectors. The initiative provides infrastructure and technical support to accelerate 5G adoption and innovation in India.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish 5G use case labs and testbeds for innovation and experimentation",
+    "Support startups and MSMEs in developing and testing 5G applications",
+    "Accelerate 5G technology adoption across key sectors like healthcare, manufacturing, and agriculture",
+    "Provide technical infrastructure and expertise for 5G use case validation",
+    "Foster collaboration between industry, academia, and government for 5G innovation",
+    "Create a pipeline of scalable 5G solutions for commercial deployment"
+  ],
+  "eligibility": "Startups, MSMEs, enterprises, and academic institutions working on 5G use cases are eligible to apply. Entities must be registered in India and demonstrate a clear 5G innovation proposal with potential for scalability and impact.",
+  "benefits": "Access to 5G testbed infrastructure, technical mentorship, connectivity support, and validation facilities. Financial support may be provided for prototype development and testing. Participants gain exposure to industry experts and potential funding opportunities.",
+  "financial_support": "Financial support includes grants for prototype development, testing, and validation activities. The exact quantum and mechanism are determined on a case-by-case basis based on the proposal and available budget under the initiative.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official 5G initiative portal at https://dot.gov.in/5g 2. Review eligibility criteria and guidelines 3. Prepare a detailed proposal outlining the 5G use case, objectives, and expected outcomes 4. Submit the application through the designated portal 5. Await evaluation by the expert committee 6. If selected, sign an MoU and proceed with lab/testbed access 7. Develop and test the 5G solution 8. Submit final report and outcomes for review",
+  "application_portal_url": "https://dot.gov.in/5g",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Detailed project proposal",
+    "Technical specifications of the 5G use case",
+    "Team credentials and expertise",
+    "Budget utilization plan",
+    "Any relevant certifications or approvals"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "Funding is subject to availability and approval by the screening committee",
+    "Intellectual property rights remain with the applicant unless otherwise agreed",
+    "Use of testbed facilities is subject to technical and safety compliance",
+    "The initiative does not guarantee commercial deployment or funding beyond the test phase"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/5g",
+    "https://dot.gov.in/documents/guidelines",
+    "https://dot.gov.in/documents/gazettes-notifications"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:00:41.667623+00:00"
+}

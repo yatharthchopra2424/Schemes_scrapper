@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-173",
+  "scheme_name": "Amended Technology Upgradation Fund Scheme (ATUFS)",
+  "scheme_url": "https://tufs.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Amended Technology Upgradation Fund Scheme (ATUFS) is a credit-linked subsidy scheme launched by the Ministry of Textiles to promote technology upgradation in the textile industry. It aims to enhance productivity, quality, and global competitiveness of textile units by providing financial assistance for the adoption of indigenous, state-of-the-art, and energy-efficient technology. The scheme supports both new and existing textile units across various segments including spinning, weaving, processing, garmenting, technical textiles, and jute.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "textile units",
+    "existing and new textile enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote investment in technology upgradation in the textile industry",
+    "Enhance productivity, quality, and global competitiveness of textile units",
+    "Encourage adoption of indigenous, state-of-the-art, and energy-efficient technology",
+    "Support employment generation in the textile sector",
+    "Facilitate sustainable and inclusive growth of the textile industry"
+  ],
+  "eligibility": "Existing and new textile units engaged in activities such as spinning, weaving, processing, garmenting, technical textiles, and jute are eligible. The unit must be registered under the Companies Act, 1956/2013, or any other relevant statute, and must have a valid Udyog Aadhaar Memorandum (UAM) or Udyam Registration. The project must involve technology upgradation through indigenous, state-of-the-art, and energy-efficient machinery as per the approved list under ATUFS.",
+  "benefits": "The scheme provides a credit-linked subsidy at the rate of 15% (10% for garmenting and technical textiles segments) on the capital investment made in eligible machinery, subject to a ceiling of INR 30 crores per unit. The subsidy is disbursed through lending institutions after verification of installation and commissioning of approved machinery. Additional benefits include improved operational efficiency, reduced energy consumption, and enhanced product quality.",
+  "financial_support": "Financial support is provided as a credit-linked subsidy where the government reimburses 15% (10% for garmenting and technical textiles) of the qualifying capital investment in approved machinery to the lending institution, which then passes on the benefit to the beneficiary unit. The maximum subsidy per unit is capped at INR 30 crores. The subsidy is released in installments based on verification of machinery installation and commissioning by the Project Management Agency (PMA).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 30 crores",
+  "application_process": "1. Identify eligible machinery from the approved list under ATUFS. 2. Submit a project proposal to a lending institution (bank or financial institution) along with required documents. 3. The lending institution appraises the project and sanctions the loan. 4. Submit the sanctioned loan details and documents to the Project Management Agency (PMA) for registration. 5. After installation and commissioning of machinery, submit verification documents to the PMA. 6. PMA verifies the claim and recommends subsidy release. 7. The subsidy is released by the Ministry of Textiles to the lending institution, which credits the beneficiary’s account.",
+  "application_portal_url": "https://tufs.nic.in",
+  "required_documents": [
+    "Project report detailing the technology upgradation",
+    "Quotations and invoices of approved machinery",
+    "Loan sanction letter from the lending institution",
+    "Certificate of Incorporation / Udyam Registration",
+    "PAN and GST registration of the unit",
+    "Bank account details",
+    "Undertaking regarding indigenous and energy-efficient nature of machinery",
+    "Installation and commissioning certificate of machinery",
+    "Proof of payment to machinery suppliers"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is available only for machinery listed in the approved list under ATUFS",
+    "Garmenting and technical textiles segments are eligible for 10% subsidy, while other segments get 15%",
+    "Maximum subsidy per unit is capped at INR 30 crores",
+    "Subsidy is released only after verification of installation and commissioning by PMA",
+    "Units must not have availed benefits under any other similar scheme for the same machinery"
+  ],
+  "source_cited_notes": [
+    "https://tufs.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:49:47.552281+00:00"
+}

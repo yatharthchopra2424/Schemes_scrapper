@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-205",
+  "scheme_name": "National Tele Mental Health Programme (Tele-MANAS)",
+  "scheme_url": "https://telemanas.mohfw.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "The National Tele Mental Health Programme (Tele-MANAS) is a comprehensive mental health care service launched by the Government of India to provide universal access to equitable, accessible, affordable and quality mental health care through 24x7 tele-mental health services. It operates as a digital component of the National Mental Health Programme (NMHP) across all Indian States and UTs, offering toll-free helpline services, video consultations, e-prescriptions, and linkages to in-person services. The programme aims to scale up mental health service reach, extend services to vulnerable and hard-to-reach populations, and provide integrated medical and psychosocial interventions.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "general public",
+    "individuals with mental health issues",
+    "vulnerable groups",
+    "hard-to-reach populations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide universal access to equitable, accessible, affordable and quality mental health care through 24X7 tele-mental health services as a digital component of the National Mental Health Programme (NMHP) across all Indian States and UTs with assured linkages.",
+    "To exponentially scale up the reach of mental health services to anybody who reaches out, across India, any time, by setting up a 24x7 tele-mental health facility in each of the States and UTs of the country.",
+    "To implement a full-fledged mental health-service network that, in addition to counselling, provides integrated medical and psychosocial interventions including video consultations with mental health specialists, e-prescriptions, follow-up services and linkages to in-person services.",
+    "To extend services to vulnerable groups of the population and difficult to reach populations"
+  ],
+  "eligibility": "Any individual with mental health issues can reach out to Tele MANAS services for help. Family members of persons with mental health issues can reach out for help. Grass-root health care providers/community health providers i.e., Accredited Social Health Activists (ASHAs), and community volunteers from the community can reach out to Tele MANAS on behalf of an individual or individuals in that community with mental health issues.",
+  "benefits": "Tele MANAS provides 24/7 on-demand toll-free helpline service (14416 or 1-800 891 4416), access to mental health resources via mobile app (available on Google Play and App Store), telephone-based counselling, psychotherapy, psychiatric consultations, referral services, emergency support, video consultations with e-prescription facility, and support for parents and caretakers of children with developmental disorders. Services are available in 20 Indian languages and include screening for psychiatric disorders such as depression, anxiety, psychosis, dementia, addiction, and more.",
+  "financial_support": "The service is provided free of cost to users. There is no financial support or direct monetary benefit provided to beneficiaries under this programme as it is a fully government-funded public health service.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Dial the toll-free number 14416 or 1-800 891 4416 to access the Tele MANAS helpline. 2. The call will be an IVRS-based audio call with timely auto-call back. 3. A trained counsellor will attend the call and assess the level of care required. 4. If needed, the counsellor will provide care within their capabilities or refer the caller to a mental health specialist. 5. For specialist care, a video consultation can be initiated with consent, and a link will be sent via SMS to join the call. 6. If medication is needed, psychiatrists can issue e-prescriptions. 7. For urgent in-person intervention, the caller will be referred to the nearest in-person service or an audio-visual consultation arranged via eSanjeevani.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "24x7 service — available round the clock, throughout the year.",
+  "implementing_agency": "Ministry of Health and Family Welfare (MoHFW)",
+  "contact_details": "Email: mentalhealth-mohfw[at]gov[dot]in, telemanas[dot]nimhans[at]gmail.com | Helpline: 14416 OR 1-800 891 4416",
+  "caveats": [
+    "Personal data such as name, age, gender, district, and state are queried during calls but are not mandatory.",
+    "Audio or video call recordings are not stored; only anonymized data is retained for 3 years for research and analysis.",
+    "In case of emergency or risk to life, personal data may be shared with police or mental health specialists in compliance with law."
+  ],
+  "source_cited_notes": [
+    "https://telemanas.mohfw.gov.in/",
+    "https://telemanas.mohfw.gov.in/about",
+    "https://telemanas.mohfw.gov.in/aimobjectives",
+    "https://telemanas.mohfw.gov.in/bgrationale",
+    "https://telemanas.mohfw.gov.in/telemanas-services",
+    "https://telemanas.mohfw.gov.in/faq",
+    "https://telemanas.mohfw.gov.in/privacy-policy"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:14:38.287215+00:00"
+}

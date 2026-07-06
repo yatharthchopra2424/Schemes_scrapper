@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-304",
+  "scheme_name": "Shram Suvidha Portal – Labour Compliance",
+  "scheme_url": "https://shramsuvidha.gov.in",
+  "ministry_or_category": "Legal & Regulatory",
+  "overview": "Shram Suvidha Portal – Labour Compliance is a unified digital platform launched by the Ministry of Labour and Employment to facilitate ease of compliance and ease of doing business under the new Labour Codes. It enables digitization of processes such as registration, licence, returns, inspection notices, and enforcement by agencies like EPFO, ESIC, DGMS, DGFASLI, and CLC. The portal supports self-certification for startups under labour laws and provides access to various labour codes, notifications, and user manuals.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "employers",
+    "contractors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate Ease of Compliance and Ease of Doing Business as per provisions of Labour codes",
+    "Enable effective monitoring and evaluation of labour compliances by digitizing processes of Registration, Licence, Returns, Inspection Notices, and Enforcement",
+    "Provide a one-stop solution for labour law compliance through integration with EPFO, ESIC, DGMS, DGFASLI, and CLC",
+    "Support self-certification for startups under labour laws to reduce regulatory burden",
+    "Ensure transparency, accountability, and uniform implementation of labour laws across Central and State spheres"
+  ],
+  "eligibility": "Every employer of any establishment which comes into existence after the commencement of the Occupational Safety, Health and Working Conditions Code, 2020 and the Social Security Code, 2020 must apply for registration within 60 days in Form-I electronically through the Shram Suvidha Portal. Establishments already registered under other labour laws must update their registration details within six months from the date of commencement of these Rules.",
+  "benefits": "Digitized processes for registration, licence, returns, inspection notices, and enforcement; self-certification facility for startups under labour laws; access to Labour Codes and rules; online submission of returns and generation of Labour Identification Number (LIN); risk-based inspection system; reduced compliance burden through harmonized returns and transparent enforcement.",
+  "financial_support": "The portal does not provide direct financial support such as grants, loans, or subsidies. It is a compliance and registration platform facilitating ease of doing business under labour laws. Any financial aspects relate to fees for services like licence issuance or security deposits, which are borne by the user.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Shram Suvidha Portal at https://shramsuvidha.gov.in. 2. Click on 'Sign up' to register as a user by providing name, email ID, mobile number, and captcha code. 3. Verify registration via the link sent to the registered email ID. 4. Set user ID and password after OTP verification. 5. Log in to the portal using OTP or user ID/password. 6. Navigate to the Registration module. 7. Select 'Apply for New/Existing/Offline Registration'. 8. Choose registration type (e.g., 'New Registration' or 'Existing with LIN'). 9. Fill Form-I with establishment details, proof of identity, PAN/TAN, address, and Inter-State migrant worker information. 10. Upload supporting documents. 11. Apply e-sign using Aadhaar-based OTP verification. 12. Submit the application. 13. Certificate of Registration (Form-III) is auto-generated and issued immediately upon successful submission.",
+  "application_portal_url": "https://shramsuvidha.gov.in/register",
+  "required_documents": [
+    "Proof of identity of the employer",
+    "PAN/TAN of the employer",
+    "Address of the employer",
+    "Information relating to employment of Inter-State migrant workers",
+    "Certificate of Incorporation or Registration (for new establishments)",
+    "Existing registration details (for establishments updating registration)",
+    "Any other supporting documents as specified in Form-I"
+  ],
+  "deadlines": "Registration must be completed within 60 days from the date of applicability of the Occupational Safety, Health and Working Conditions Code, 2020 and the Social Security Code, 2020. Existing establishments must update registration within six months from the date of commencement of these Rules.",
+  "implementing_agency": "Ministry of Labour and Employment, Government of India",
+  "contact_details": "Email: shramsuvidha[at]gov[dot]in | Phone No: 011-23473215, 011-23766935, 011-23313358 | Help desk: help-shramsuvidha[at]gov[dot]in",
+  "caveats": [
+    "Electronic registration is the standard process; temporary relaxation for non-electronic submission may be notified by Central Government in exceptional circumstances",
+    "Registration number must be quoted on all documents, records, and correspondence related to the Code or Rules",
+    "Failure to comply with registration provisions may lead to direction by the registering officer to comply within a specified timeframe",
+    "Certificate of registration may be cancelled if obtained by providing wrong information, after giving an opportunity to show cause within 30 days",
+    "Any change in ownership, management, or registration details must be updated within thirty days via amendment on the portal"
+  ],
+  "source_cited_notes": [
+    "https://shramsuvidha.gov.in/",
+    "https://shramsuvidha.gov.in/register",
+    "https://shramsuvidha.gov.in/startup-schemes",
+    "https://shramsuvidha.gov.in/faqs-registration",
+    "https://shramsuvidha.gov.in/login-user-account",
+    "https://shramsuvidha.gov.in/contact-us"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:08:08.435422+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-112",
+  "scheme_name": "Maharashtra State Innovation Society",
+  "scheme_url": "https://maha-innovation.in",
+  "ministry_or_category": "State Level (Maharashtra)",
+  "overview": "Maharashtra State Innovation Society (MSInS) is a nodal agency established by the Government of Maharashtra to promote innovation, entrepreneurship, and startup ecosystem development across the state. It operates under the Directorate of Industries and implements various schemes to support startups, MSMEs, and innovators through funding, mentorship, infrastructure, and policy advocacy. The society aims to position Maharashtra as a leading innovation hub in India by fostering collaboration between academia, industry, and government.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "innovators"
+  ],
+  "geographic_scope": "Maharashtra only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across Maharashtra",
+    "Support startups and MSMEs through funding, mentorship, and infrastructure",
+    "Strengthen industry-academia collaboration for technology transfer",
+    "Facilitate access to markets and investment opportunities for innovators",
+    "Develop sector-specific innovation clusters and incubation centers",
+    "Advocate for policy reforms to improve ease of doing business for startups"
+  ],
+  "eligibility": "Eligible beneficiaries include startups registered in Maharashtra, MSMEs, individual innovators, academic institutions, and industry partners engaged in innovative activities. Specific eligibility criteria vary by scheme and are defined under individual programs implemented by MSInS.",
+  "benefits": "Benefits include financial support through grants and seed funding, access to incubation infrastructure, mentorship from industry experts, assistance in intellectual property rights (IPR) filing, market linkage support, participation in investor meets and demo days, and facilitation of partnerships with corporates and government bodies.",
+  "financial_support": "Financial support varies across schemes and includes seed funding up to INR 50 lakhs for early-stage startups, grants for proof-of-concept and prototype development, and matching grants under specific innovation challenges. The exact quantum and mechanism depend on the particular program being applied for under MSInS.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Maharashtra State Innovation Society website at https://maha-innovation.in 2. Navigate to the 'Schemes' or 'Apply' section to review available programs 3. Select the relevant scheme based on eligibility and innovation domain 4. Read the detailed guidelines and eligibility criteria for the chosen scheme 5. Prepare the required documents as specified 6. Fill out the online application form with accurate details 7. Upload all supporting documents in the prescribed format 8. Submit the application and note the application ID for tracking 9. Await review and communication from MSInS regarding evaluation and next steps",
+  "application_portal_url": "https://maha-innovation.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity or individual",
+    "Aadhaar card of authorized signatory",
+    "Detailed project report or business plan",
+    "Proof of concept or prototype details (if applicable)",
+    "Bank account details",
+    "Authorization letter from the applicant",
+    "Declaration of originality and innovation"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to scheme-specific announcements and availability of funds.",
+  "implementing_agency": "Maharashtra State Innovation Society (MSInS), Directorate of Industries, Government of Maharashtra",
+  "contact_details": "Email: info@maha-innovation.in | Phone: +91-22-2202 5432",
+  "caveats": [
+    "Financial support is subject to availability of funds under each scheme",
+    "Beneficiaries must comply with reporting and utilization certificate submission requirements",
+    "Some schemes may have sector-specific or technology-domain restrictions",
+    "Approval does not guarantee funding; selection is based on competitive evaluation",
+    "Applicants must be registered or domiciled in Maharashtra to be eligible"
+  ],
+  "source_cited_notes": [
+    "https://maha-innovation.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:19:38.911758+00:00"
+}

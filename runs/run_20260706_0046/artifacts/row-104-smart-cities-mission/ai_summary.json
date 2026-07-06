@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-104",
+  "scheme_name": "Smart Cities Mission",
+  "scheme_url": "https://smartcities.gov.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The Smart Cities Mission is a centrally sponsored scheme launched by the Government of India to promote sustainable and inclusive urban development by transforming 100 cities into smart cities through the application of smart solutions. The mission focuses on core infrastructure, clean and sustainable environment, and smart technology applications to improve quality of life and drive economic growth.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "urban local bodies",
+    "state governments",
+    "municipal corporations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote cities that provide core infrastructure and give a decent quality of life to its citizens",
+    "Apply smart solutions to infrastructure and services in area-based development",
+    "Use technology, information and data to improve infrastructure and services",
+    "Ensure sustainable and inclusive development with focus on poor and disadvantaged",
+    "Strengthen municipal finance and improve urban governance",
+    "Encourage private sector participation through PPPs and other models"
+  ],
+  "eligibility": "Cities are selected through a competitive challenge process where states nominate cities based on predefined criteria including urban population, presence of municipal corporation, and readiness for reform. Selected cities must prepare a Smart City Proposal (SCP) detailing vision, plan for area-based development and pan-city initiatives, and financial sustainability.",
+  "benefits": "Selected cities receive central financial support of INR 100 crore per city over five years, matched by equal contribution from state/ULB. Benefits include improved urban infrastructure (water supply, sanitation, mobility), enhanced service delivery through technology, increased investment, job creation, and better quality of life for residents.",
+  "financial_support": "The mission provides central financial assistance of INR 100 crore per selected smart city, distributed as INR 50 crore in the first year and INR 10 crore each year for the next four years. This is required to be matched by an equal contribution from the respective state government and urban local body (ULB), resulting in a total of INR 200 crore per city. Funds are released in installments based on achievement of milestones and submission of utilization certificates.",
+  "fund_size_crores": "20000",
+  "grant_amount_per_entity": "INR 100 crore central assistance per city (matched by state/ULB for total INR 200 crore)",
+  "application_process": "1. States nominate cities for participation in the Smart Cities Challenge based on set criteria. 2. Nominated cities prepare Smart City Proposals (SCPs) detailing vision, area-based development, pan-city initiatives, and financial plan. 3. SCPs are evaluated by a national-level committee through a competitive challenge process. 4. Selected cities are announced and must incorporate a Special Purpose Vehicle (SPV) for implementation. 5. SPVs implement projects as per the SCP and submit periodic progress reports and utilization certificates for fund release.",
+  "application_portal_url": "https://smartcities.gov.in",
+  "required_documents": [
+    "Smart City Proposal (SCP)",
+    "Certificate of incorporation of Special Purpose Vehicle (SPV)",
+    "Board resolution of SPV",
+    "Utilization certificates",
+    "Project reports and progress updates",
+    "Memorandum of Understanding (MoU) between state, ULB, and SPV"
+  ],
+  "deadlines": "Challenge-based selection with periodic rounds; no rolling deadline. Specific timelines announced for each challenge round.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "Email: smartcities@mohua.gov.in | Helpline: 1800-11-4477",
+  "caveats": [
+    "Funds are released only upon achievement of predefined milestones and submission of utilization certificates",
+    "Central assistance must be matched by equal contribution from state government and ULB",
+    "Selection is competitive and based on quality of Smart City Proposal",
+    "Mission period is limited; funds must be utilized within the stipulated timeframe"
+  ],
+  "source_cited_notes": [
+    "https://smartcities.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:17:55.669439+00:00"
+}

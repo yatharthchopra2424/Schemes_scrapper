@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-179",
+  "scheme_name": "MUDRA Loan for Weavers (Weaver MUDRA Scheme)",
+  "scheme_url": "https://www.mudra.org.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The MUDRA Loan for Weavers (Weaver MUDRA Scheme) is part of the Pradhan Mantri MUDRA Yojana (PMMY), which provides loans up to ₹20 lakh to non-corporate, non-farm small/micro enterprises, including weavers. Launched on April 8, 2015, PMMY aims to fund the unfunded by extending credit through last-mile financiers such as banks, NBFCs, and MFIs. The scheme supports income-generating activities in manufacturing, processing, trading, services, and agri-allied sectors, with special focus on weaker sections including SC/ST/OBC and women entrepreneurs.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "weavers",
+    "micro enterprises",
+    "small businesses",
+    "SC/ST",
+    "OBC",
+    "women entrepreneurs",
+    "non-corporate entities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide loans up to ₹20 lakh to non-corporate, non-farm small/micro enterprises",
+    "To fund the unfunded segment by extending credit through last-mile financiers",
+    "To support income-generating activities in manufacturing, processing, trading, services, and agri-allied sectors",
+    "To prioritize lending to SC/ST/OBC and women entrepreneurs",
+    "To create an inclusive, sustainable, and value-based entrepreneurial culture",
+    "To strengthen formal credit channels for micro enterprises at the grassroots level",
+    "To monitor PMMY implementation via a dedicated portal",
+    "To facilitate credit guarantees for loans granted under PMMY"
+  ],
+  "eligibility": "Any Indian Citizen who has a business plan for a non-farm income generating activity such as manufacturing, processing, trading or service sector whose credit need is up to 20 lakh can approach either a Bank, MFI or NBFC for availing of MUDRA loans under PMMY. The usual terms and conditions of the lending agency may have to be followed for availing of loans under PMMY. The lending rates are as per the RBI guidelines issued in this regard from time to time.",
+  "benefits": "MUDRA loans are extended for a variety of purposes which result in income generation and employment creation. The loans are extended mainly for: Business loan for Vendors, Traders, Shopkeepers and other Service Sector activities; Working capital loan through MUDRA Cards; Equipment Finance for Micro Units; Transport Vehicle loans for commercial use only; Loans for agri-allied non-farm income generating activities, e.g. pisciculture, bee keeping, poultry farming, etc.; Tractors, tillers as well as two wheelers used for commercial purposes only. MUDRA Card is a debit card issued against the MUDRA loan account, for working capital portion of the loan. The borrower can make use of MUDRA Card in multiple drawals and credits, so as to manage the working capital limit in cost-efficient manner and keep the interest burden minimum. MUDRA Card also helps in digitalization of MUDRA transactions and creating credit history for the borrower. MUDRA Card can be operated across the country for withdrawal of cash from any ATM / micro ATM and also make payment through any 'Point of Sale' machines.",
+  "financial_support": "MUDRA is a refinancing Institution. MUDRA does not lend directly to the micro entrepreneurs / individuals. Mudra loans under Pradhan Mantri Mudra Yojana (PMMY) can be availed of from nearby branch office of a bank, NBFC, MFIs etc. Borrowers can also now file online application for MUDRA loans on Udyamimitra portal (www.udyamimitra.in). Under the aegis of PMMY, MUDRA has created four products namely 'Shishu', 'Kishor', 'Tarun' and 'TarunPlus' to signify the stage of growth / development and funding needs of the beneficiary micro unit / entrepreneur and also provide a reference point for the next phase of graduation / growth. Shishu: covering loans upto 50,000/-; Kishor: covering loans above 50,000/- and upto 5 lakh; Tarun: covering loans above 5 lakh and upto 10 lakh; TarunPlus: covering loans above 10 lakh and upto 20 lakh. The refinance is available for term loan and working capital loan up to an amount of 20 lakh per unit. The eligible Banks/NBFCs/MFIs, who comply with the requirements as notified, can avail refinance from MUDRA for the loans given by them for eligible MUDRA compliant activities under Shishu, Kishore, Tarun and Tarun Plus categories.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach any of the lending institutions mentioned above (Commercial Banks, RRBs, Small Finance Banks, MFIs and NBFCs) or apply online through this portal www.udyamimitra.in. 2. File online application for MUDRA loans on Udyamimitra portal (www.udyamimitra.in). 3. Ensure the loan proposal is for a non-farm income generating activity such as manufacturing, processing, trading or service sector as well as agri-allied activities. 4. Ensure credit need is up to 20 lakh. 5. Follow the usual terms and conditions of the lending agency. 6. Avail the loan from the selected lending institution.",
+  "application_portal_url": "www.udyamimitra.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Micro Units Development & Refinance Agency Ltd. (MUDRA)",
+  "contact_details": "",
+  "caveats": [
+    "MUDRA does not lend directly to the micro entrepreneurs / individuals.",
+    "There are no agents or middleman engaged by MUDRA for availing of Mudra Loans. The borrowers are advised to keep away from persons posing as Agents/ facilitators of MUDRA/PMMY.",
+    "Loans are only for non-farm income generating activities.",
+    "Credit need must be up to 20 lakh."
+  ],
+  "source_cited_notes": [
+    "https://mudra.org.in",
+    "https://mudra.org.in/FAQ",
+    "https://mudra.org.in/Offerings"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:56:48.645329+00:00"
+}

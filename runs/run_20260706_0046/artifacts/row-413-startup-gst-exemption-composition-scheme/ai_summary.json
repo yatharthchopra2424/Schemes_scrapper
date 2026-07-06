@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-413",
+  "scheme_name": "Startup GST Exemption & Composition Scheme",
+  "scheme_url": "https://www.gst.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "The Startup GST Exemption & Composition Scheme is a tax benefit initiative under the Goods and Services Tax (GST) framework designed to reduce compliance burden and tax liability for eligible startups. It allows qualifying startups to opt for the GST Composition Scheme, which offers lower tax rates and simplified return filing. The scheme aims to support early-stage enterprises by providing tax relief and easing administrative requirements.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce tax compliance burden for startups",
+    "Lower GST liability through composition scheme rates",
+    "Simplify return filing and record-keeping requirements",
+    "Encourage formalization of startup businesses under GST",
+    "Support cash flow management for early-stage enterprises"
+  ],
+  "eligibility": "Startups with an aggregate annual turnover not exceeding INR 1.5 Crore in the preceding financial year are eligible to opt for the GST Composition Scheme. The scheme applies to suppliers of goods (and certain services as notified) who are registered under GST and opt to pay tax at a fixed percentage of turnover instead of normal GST rates.",
+  "benefits": "Eligible startups benefit from reduced GST rates (1% for manufacturers and traders, 5% for restaurants), quarterly return filing (GSTR-4) instead of monthly, simplified compliance with minimal record-keeping, and lower tax outflow compared to regular GST rates. The scheme also eliminates the need to issue tax invoices and maintain detailed input tax credit records.",
+  "financial_support": "Under the Composition Scheme, startups pay GST at a concessional rate of 1% (for manufacturers and traders) or 5% (for restaurants) on their turnover, instead of the standard GST rates. This results in direct tax savings, improving cash flow. There is no direct financial grant or subsidy; the benefit is in the form of reduced tax liability.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Log in to the GST Portal (https://www.gst.gov.in) using valid credentials. 2. Navigate to Services > Registration > Application to Opt for Composition Scheme. 3. Fill in Form CMP-02 to opt in for the Composition Scheme. 4. Provide details such as business type, turnover, and declaration of eligibility. 5. Submit the application electronically. 6. Upon successful submission, an acknowledgment is generated. 7. The option is effective from the beginning of the financial year in which it is opted, subject to compliance with conditions.",
+  "application_portal_url": "https://www.gst.gov.in",
+  "required_documents": [
+    "GST Registration Certificate",
+    "PAN of the business entity",
+    "Details of aggregate annual turnover",
+    "Declaration of eligibility for Composition Scheme",
+    "Bank account details linked to GSTIN"
+  ],
+  "deadlines": "The option to opt for the Composition Scheme must be exercised before the commencement of the financial year for which it is sought, or within 30 days of obtaining GST registration. Once opted, it remains valid unless withdrawn or disqualified.",
+  "implementing_agency": "Goods and Services Tax Network (GSTN) under the guidance of the GST Council and Central Board of Indirect Taxes and Customs (CBIC)",
+  "contact_details": "Help Desk Number: 1800-103-4786",
+  "caveats": [
+    "Startups opting for the Composition Scheme cannot claim input tax credit (ITC)",
+    "Cannot make inter-state supplies or supply goods through e-commerce operators liable to collect tax at source (TCS)",
+    "Must pay tax under reverse charge for certain notified supplies",
+    "Cannot issue tax invoices; must issue bill of supply instead",
+    "Eligibility is lost if aggregate turnover exceeds INR 1.5 Crore in any financial year"
+  ],
+  "source_cited_notes": [
+    "https://www.gst.gov.in",
+    "https://gst.gov.in/help/refund",
+    "https://gst.gov.in/help/enrollmentwithgst"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:21:39.030653+00:00"
+}

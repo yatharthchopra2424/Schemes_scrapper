@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-727",
+  "scheme_name": "National Forest Policy for Paper Industry",
+  "scheme_url": "https://moef.gov.in",
+  "ministry_or_category": "Paper & Printing",
+  "overview": "The National Forest Policy for Paper Industry is a scheme under the Ministry of Environment, Forest and Climate Change (MoEFCC) aimed at promoting sustainable forest management and supporting the paper industry through policy guidelines and financial assistance. It focuses on ensuring raw material availability for the paper sector while maintaining ecological balance and encouraging agro-forestry and farm forestry initiatives. The scheme supports research, development, and capacity building in the paper and allied sectors to enhance productivity and environmental compliance.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "paper industry",
+    "agro-forestry farmers",
+    "farm forestry practitioners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure sustainable raw material supply for the paper industry through farm and agro-forestry",
+    "Promote ecological balance and biodiversity conservation in forest areas used for paper production",
+    "Support research and development in paper manufacturing processes and waste management",
+    "Encourage private sector participation in forestry and paper industry value chain",
+    "Strengthen institutional mechanisms for monitoring and evaluation of forest-based paper projects",
+    "Provide financial and technical assistance to MSMEs in the paper and printing sector",
+    "Align paper industry growth with national forest conservation goals and climate commitments"
+  ],
+  "eligibility": "Eligible beneficiaries include MSMEs engaged in paper and printing, agro-forestry farmers, farm forestry practitioners, and paper industry units that have adopted sustainable practices and are registered under relevant government schemes. Applicants must demonstrate compliance with environmental norms, have a viable project proposal for raw material sourcing or value addition, and possess necessary clearances from state forest departments and pollution control boards. Preference is given to units located in ecologically sensitive zones with approved farm forestry models.",
+  "benefits": "Benefits include financial assistance for setting up farm forestry units, subsidies on saplings and planting material, technical support for sustainable harvesting and processing, access to government nurseries for quality planting stock, training programs on agro-forestry best practices, facilitation of market linkages for non-wood forest products, and support for obtaining certifications like FSC or PEFC. Additionally, the scheme aids in waste utilization, effluent treatment, and energy efficiency upgrades in paper mills.",
+  "financial_support": "Financial support is provided in the form of subsidies and grants for establishing farm forestry plantations, with cost-sharing between the government and beneficiaries. The scheme covers up to 50% of the cost for planting material, land preparation, and initial maintenance for agro-forestry models. For paper industry units, support is extended for pollution control equipment, wastewater treatment systems, and energy-efficient machinery under technology upgradation components. Funds are disbursed through nodal agencies after verification of project milestones and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible project under farm forestry or paper industry upgradation. 2. Prepare detailed project report including land details, species selection, budget, and sustainability plan. 3. Obtain necessary clearances from State Forest Department and Pollution Control Board. 4. Submit application along with project report and documents to the Regional Office of MoEFCC or designated nodal agency. 5. Application undergoes technical and financial appraisal by the Expert Committee. 6. Upon approval, sanction order is issued and funds are released in installments based on progress. 7. Submit utilization certificates and progress reports for subsequent tranches. 8. Final release upon completion and verification.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease agreement",
+    "Environmental clearance from State Pollution Control Board",
+    "Clearance from State Forest Department (if applicable)",
+    "Bank appraisal letter (if seeking loan linkage)",
+    "Quotations for equipment or planting material",
+    "Organization registration documents (MSME, partnership, etc.)",
+    "PAN and GST registration of the entity",
+    "Past performance audited financial statements (last 3 years)",
+    "Undertaking on compliance with sustainable forestry practices"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "contact_details": "",
+  "caveats": [
+    "Funds are released only after verification of field-level progress and utilization certificates",
+    "Subsidy is limited to approved species and models as per national agro-forestry guidelines",
+    "Beneficiaries must maintain plantation for a minimum period of 5 years to retain benefits",
+    "No support for monoculture plantations that harm biodiversity",
+    "Project must not violate Forest Conservation Act, 1980 or Wildlife Protection Act, 1972"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in",
+    "https://moef.gov.in/scheme-guidelines-of-revised-rd-scheme-for-conservation-and-development",
+    "https://moef.gov.in/mis-portal-of-rd-scheme-of-re-division",
+    "https://moef.gov.in/revised-guidelines-of-erdp",
+    "https://moef.gov.in/circular"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:25:50.384922+00:00"
+}

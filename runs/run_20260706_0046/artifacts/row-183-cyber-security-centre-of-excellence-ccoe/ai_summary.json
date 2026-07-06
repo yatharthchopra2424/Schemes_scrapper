@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-183",
+  "scheme_name": "Cyber Security Centre of Excellence (CCoE)",
+  "scheme_url": "https://www.meity.gov.in/ccoe",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The Cyber Security Centre of Excellence (CCoE) is an initiative under the Ministry of Electronics and Information Technology (MeitY) aimed at strengthening India's cybersecurity ecosystem through research, innovation, and collaboration. It focuses on developing indigenous cybersecurity solutions, building capacity, and fostering partnerships between government, industry, and academia. The CCoE serves as a hub for advancing cybersecurity technologies and practices to protect critical information infrastructure.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic institutions",
+    "research organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop indigenous cybersecurity technologies and solutions",
+    "Enhance capacity building and skill development in cybersecurity",
+    "Foster collaboration between government, industry, and academia",
+    "Support innovation and entrepreneurship in cybersecurity domain",
+    "Strengthen protection of critical information infrastructure",
+    "Promote research and development in emerging cybersecurity threats",
+    "Create a robust ecosystem for cybersecurity startups and SMEs",
+    "Establish standards and best practices for cybersecurity implementation"
+  ],
+  "eligibility": "Eligible beneficiaries include Indian startups, MSMEs, academic institutions, and research organizations working in the cybersecurity domain. Entities must be registered in India and demonstrate capability or potential in cybersecurity innovation, research, or solution development. Specific eligibility may vary based on the nature of engagement (e.g., incubation, collaboration, or funding support).",
+  "benefits": "Benefits include access to cybersecurity infrastructure, mentorship from experts, funding support for prototype development, opportunities for technology transfer, collaboration with government and defense sectors, participation in cybersecurity drills and exercises, access to testing and certification facilities, and guidance on regulatory compliance and standards.",
+  "financial_support": "Financial support is provided through grants, seed funding, or subsidies for prototype development, proof-of-concept, and scaling of cybersecurity innovations. The exact quantum and mechanism depend on the specific program or call for proposals under CCoE, with support typically disbursed in milestones based on project progress.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official CCoE portal or MeitY website for announcements. 2. Check eligibility criteria for the specific program or call for proposals. 3. Prepare required documents including project proposal, company/incorporation details, and technical specifications. 4. Submit application through the designated online portal or email as specified in the announcement. 5. Applications are reviewed by an expert committee. 6. Shortlisted candidates may be invited for presentations or interviews. 7. Successful applicants receive approval and further instructions for fund disbursement or collaboration.",
+  "application_portal_url": "https://www.meity.gov.in/ccoe",
+  "required_documents": [
+    "Project proposal detailing objectives, methodology, and expected outcomes",
+    "Certificate of Incorporation or Registration of the entity",
+    "PAN and GST details of the applicant",
+    "Technical specifications or proof of concept (if applicable)",
+    "Bank account details for financial transactions",
+    "Authorized signatory letter",
+    "Details of existing funding or partnerships (if any)"
+  ],
+  "deadlines": "Rolling basis — specific calls for proposals may have defined deadlines announced periodically.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "Financial support is subject to availability of funds and approval by the competent authority",
+    "Intellectual property rights arising from CCoE-supported projects may be governed by specific agreements",
+    "Beneficiaries must comply with reporting, monitoring, and evaluation requirements",
+    "Support may be discontinued if milestones are not met or if the project deviates from approved objectives",
+    "Participation does not guarantee future procurement or deployment by government agencies"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/ccoe",
+    "https://meity.gov.in/",
+    "https://meity.gov.in/connect"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:59:30.785280+00:00"
+}

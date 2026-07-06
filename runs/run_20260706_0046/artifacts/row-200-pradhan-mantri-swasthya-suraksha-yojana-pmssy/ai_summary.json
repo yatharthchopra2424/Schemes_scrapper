@@ -1,0 +1,41 @@
+{
+  "scheme_id": "row-200",
+  "scheme_name": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)",
+  "scheme_url": "https://mohfw.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "Pradhan Mantri Swasthya Suraksha Yojana (PMSSY) is a centrally sponsored scheme launched by the Ministry of Health and Family Welfare to correct regional imbalances in the availability of affordable and reliable tertiary healthcare services and to augment facilities for quality medical education in the country. The scheme involves setting up new AIIMS-like institutions and upgrading existing government medical colleges and institutions.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "general public",
+    "medical students",
+    "healthcare professionals"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Correct regional imbalances in availability of affordable and reliable tertiary healthcare services",
+    "Augment facilities for quality medical education in the country",
+    "Set up new AIIMS-like institutions",
+    "Upgrade existing government medical colleges and institutions"
+  ],
+  "eligibility": "The scheme is implemented through the Ministry of Health and Family Welfare. Eligibility for benefits under PMSSY is generally for patients seeking treatment at the upgraded or newly established institutions, and for medical education opportunities at these facilities. Specific eligibility criteria for admission to courses or treatment are determined by the respective institutions.",
+  "benefits": "Benefits include access to affordable tertiary healthcare services, improved medical education infrastructure, increased availability of specialist doctors, and enhanced healthcare delivery in underserved regions through the establishment of new AIIMS and upgradation of medical colleges.",
+  "financial_support": "The scheme provides central financial assistance for the capital cost of setting up new AIIMS and for the upgradation of existing government medical colleges. The funding mechanism involves central government grants to the implementing agencies for civil works, medical equipment, and other infrastructure development.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "As PMSSY involves infrastructure development and service delivery through established institutions, there is no direct application process for beneficiaries to access the scheme. Benefits are availed by seeking treatment or admission at the respective AIIMS or upgraded medical colleges under their normal admission and treatment procedures.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Not applicable — benefits are accessed through ongoing hospital services and academic admissions at the respective institutions.",
+  "implementing_agency": "Ministry of Health and Family Welfare",
+  "contact_details": "",
+  "caveats": [
+    "The scheme focuses on infrastructure development; direct individual benefits are mediated through the services of the institutions created or upgraded",
+    "Implementation timelines may vary across states and institutions"
+  ],
+  "source_cited_notes": [
+    "https://mohfw.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:08:08.310030+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-95",
+  "scheme_name": "Jan Dhan Yojana (PMJDY)",
+  "scheme_url": "https://pmjdy.gov.in",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "Pradhan Mantri Jan-Dhan Yojana (PMJDY) is a National Mission for Financial Inclusion launched by the Government of India to ensure universal access to banking facilities, with at least one basic banking account for every household. The scheme provides access to savings, remittance, credit, insurance, and pension services, and promotes financial literacy and Direct Benefit Transfer (DBT) of government subsidies. It aims to bring the unbanked population into the formal financial system through the use of technology, RuPay debit cards, and banking correspondents.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "households",
+    "unbanked adults",
+    "rural population",
+    "urban population",
+    "women",
+    "small and marginal farmers",
+    "labourers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Universal access to banking facilities with at least one basic banking account for every household",
+    "Financial literacy and access to credit, insurance and pension facilities",
+    "Channeling all Government benefits (Centre/State/Local Body) to beneficiary accounts and pushing Direct Benefits Transfer of Direct Benefits Transfer (DBT)",
+    "Addressing technological issues like poor connectivity and online transactions",
+    "Providing indigenous RuPay Debit cards with inbuilt accident insurance cover",
+    "Creating a pipeline for implementation through Jan Dhan-Aadhar-Mobile (JAM) linkage",
+    "Ensuring availability of basic banking services within 5 KM distance of every village",
+    "Promoting use of technology and lessons learnt from earlier financial inclusion efforts"
+  ],
+  "eligibility": "The scheme is open to all individuals, with a focus on providing at least one basic banking account per household. There are no specific eligibility criteria based on income, age, or occupation for opening a Basic Savings Bank Deposit Account (BSBDA) under PMJDY. Individuals without any valid government-issued documents can open a 'small account' by self-attesting their photograph and affixing thumb impression or signature in the presence of a bank official.",
+  "benefits": "Beneficiaries receive a RuPay Debit card with inbuilt accident insurance cover of Rs. 1 lakh (raised to Rs. 2 lakh for new accounts opened after 28.8.18), access to credit through overdraft facility of up to Rs. 10,000 after six months of satisfactory account operation, access to micro-insurance and pension schemes like Pradhan Mantri Suraksha Bima Yojana (PMSBY), Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY), and Atal Pension Yojana (APY), financial literacy programmes, and seamless transfer of government subsidies via Direct Benefit Transfer (DBT). Accounts have no minimum balance requirement and earn interest at prevailing savings bank rates.",
+  "financial_support": "Under PMJDY, account holders are eligible for an overdraft (OD) facility of up to Rs. 10,000 after six months of satisfactory operation of the account. For OD up to Rs. 2,000, no conditions are attached. The age limit for availing OD facility has been revised from 18-60 years to 18-65 years. The OD facility is subject to the account holder maintaining satisfactory transaction history and having an Aadhaar number linked to the account (declaration required if Aadhaar is not available). Interest on OD is charged at the base rate + 2% or 12%, whichever is lower.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest bank branch or Bank Mitra (Business Correspondent) outlet. 2. If Aadhaar card/number is available, no other documents are required; if address has changed, self-attestation of current address is sufficient. 3. If Aadhaar is not available, submit any one of the following officially valid documents (OVD): voter ID, driving licence, PAN card, passport, or NREGA card. If these documents do not contain address, they can still serve as proof of identity and address together. 4. If no officially valid documents are available, the bank may open a 'small account' based on self-attested photograph and thumb impression/signature in the presence of a bank official, subject to certain transaction limits. 5. The account will be opened and a RuPay Debit card issued, which can be used immediately for transactions.",
+  "application_portal_url": "https://pmjdy.gov.in/",
+  "required_documents": [
+    "Aadhaar card/number",
+    "Voter ID",
+    "Driving licence",
+    "PAN card",
+    "Passport",
+    "NREGA card",
+    "Self-attested photograph (for small accounts)",
+    "Thumb impression or signature (for small accounts)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Accounts can be opened throughout the year.",
+  "implementing_agency": "Department of Financial Services, Ministry of Finance, Government of India",
+  "contact_details": "Email: pmjdyit-dfs@nic.in | Tel: 011-23362782 | National Toll Free Number: 1800-11-0001 | National Toll Free Number: 1800-180-1111",
+  "caveats": [
+    "Overdraft facility is available only after six months of satisfactory account operation",
+    "Overdraft facility of up to Rs. 2,000 has no conditions attached; higher amounts require satisfactory transaction history and Aadhaar linkage (or declaration if Aadhaar not available)",
+    "Age limit for overdraft facility is 18-65 years",
+    "Accidental insurance cover on RuPay card is Rs. 1 lakh for existing accounts and Rs. 2 lakh for new accounts opened after 28.8.18",
+    "Small accounts (opened without valid documents) have transaction limits: total credit not exceeding Rs. 1 lakh in a year, total debit not exceeding Rs. 10,000 in a month, and balance not exceeding Rs. 50,000 at any point; such accounts are valid for 12 months and can be extended if the holder applies for a valid document within that period"
+  ],
+  "source_cited_notes": [
+    "https://pmjdy.gov.in/files/E-Documents/Continuation_of_PMJDY.pdf",
+    "https://pmjdy.gov.in/files/E-Documents/PMJDY_BROCHURE_ENG.pdf",
+    "https://pmjdy.gov.in/files/QuickLinks/IMPORTANT-INFORMATION-UNDER-PMJDY.pdf",
+    "https://pmjdy.gov.in/files/PMJDY_Metadata.pdf",
+    "https://pmjdy.gov.in/files/financial-Literacy/literacy/guide.pdf",
+    "https://pmjdy.gov.in/files/financial-Literacy/literacy/diary.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:16:08.178495+00:00"
+}

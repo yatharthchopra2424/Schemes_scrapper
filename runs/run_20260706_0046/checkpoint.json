@@ -1,0 +1,3614 @@
+{
+  "row-4|State Mini Cluster Development Scheme|https://haryanaindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-5|Critical Infrastructure Development Scheme|https://haryanaindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-6|Industrial Infrastructure Development Scheme|https://haryanaindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-1|Haryana State Start-ups Scheme|https://startupharyana.gov.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-3|Mukhya Mantri Antyodaya Parivar Utthan Yojana (MMAPUY)|https://haryanait.gov.in/mukhya-mantri-antyodaya-parivar-utthan-yojana-mmapuy/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-2|PADMA Scheme|https://msme.haryana.gov.in/padma-schemes/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-7|HUM Registration|https://haryana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-10|SIDBI SMILE Scheme|https://www.sidbi.in/smile": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-9|CGTMSE (Credit Guarantee Fund Trust for MSEs)|https://www.cgtmse.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-12|NSIC Raw Material Assistance Scheme|https://www.nsic.co.in/rmas": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-8|Pradhan Mantri Mudra Yojana (PMMY)|https://www.mudra.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-13|NSIC Marketing Support Scheme|https://www.nsic.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-15|SIDBI Direct Credit Scheme|https://www.sidbi.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-16|Equipment Finance for MSMEs (SIDBI)|https://www.sidbi.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-14|Mahila Udyam Nidhi Scheme (SIDBI)|https://www.sidbi.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-21|FSSAI Licensing & Registration|https://foscos.fssai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-17|Working Capital Loan Scheme (SIDBI)|https://www.sidbi.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-11|NSIC Credit Support Scheme|https://www.nsic.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-24|SEIS (Service Exports from India Scheme)|https://dgft.gov.in/seis": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-18|Udyam Registration Portal|https://udyamregistration.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-23|MEIS (Merchandise Exports from India Scheme)|https://dgft.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-22|DPIIT Recognition for Startups|https://www.startupindia.gov.in/content/sih/en/recognition.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-20|BIS Certification Scheme|https://bis.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-19|GeM Onboarding for MSMEs|https://gem.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-30|PM Kisan Sampada Yojana|https://pmksy.mofpi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-26|ECGC Export Credit Guarantee Schemes|https://www.ecgc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-25|Interest Equalization Scheme on Export Credit|https://rbi.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-33|Textile Upgradation Fund Scheme (TUFS)|https://tufs.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-27|Export Credit Insurance for Banks (ECIB)|https://www.ecgc.in/ecib": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-28|Transport & Marketing Assistance (TMA)|https://apeda.gov.in/tma": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-36|PM Mega Integrated Textile Region and Apparel (PM MITRA)|https://texmin.nic.in/pm-mitra": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-29|SAMPADA Scheme (Food Processing)|https://mofpi.gov.in/sampada": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-37|Powertex India Scheme|https://texmin.nic.in/powertex": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-38|Integrated Wool Development Programme|https://texmin.nic.in/iwdp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-35|National Handloom Development Programme (NHDP)|https://handlooms.nic.in/nhdp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-31|Operation Greens|https://mofpi.gov.in/operation-greens": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-32|Cold Chain Infrastructure Scheme|https://mofpi.gov.in/coldchain": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-40|Design Linked Incentive (DLI) Scheme|https://www.meity.gov.in/dli": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-39|Modified Electronics Manufacturing Clusters (EMC 2.0)|https://www.meity.gov.in/emc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-34|SAMARTH Scheme for Textiles|https://samarth-textiles.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-41|Scheme for Promotion of Manufacturing of Electronic Components (SPECS)|https://www.meity.gov.in/specs": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-44|Pradhan Mantri Rozgar Protsahan Yojana (PMRPY)|https://pmrpy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-43|ESDM \u2013 Electronic System Design and Manufacturing Scheme|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-46|Annapurna Scheme|https://www.sbi.co.in/web/agri-rural/agriculture-banking/annapurna-scheme": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-48|Cent Kalyani Scheme (Central Bank)|https://www.centralbankofindia.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-47|Stree Shakti Package for Women Entrepreneurs|https://sbi.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-45|Deen Dayal Antyodaya Yojana - Urban (DAY-NULM)|https://nulm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-42|STPI Software Technology Park Incentives|https://www.stpi.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-49|National Backward Classes Finance & Dev Corporation (NBCFDC)|https://www.nbcfdc.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-54|PMEGP via Khadi & Village Industries Commission|https://www.kviconline.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-52|Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS)|https://nskfdc.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-56|Rashtriya Gram Swaraj Abhiyan (RGSA)|https://rgsa.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-57|ULIP \u2013 Unified Logistics Interface Platform|https://goulip.in/": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-53|DAY-NRLM \u2013 Deendayal Antyodaya Yojana (Rural)|https://aajeevika.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-50|National Minorities Development & Finance Corp (NMDFC)|https://nmdfc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-58|PM GatiShakti National Master Plan|https://pmgatishakti.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-51|Pradhan Mantri SVANidhi (PM Street Vendor Loan)|https://pmsvanidhi.mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-55|National Rural Livelihood Mission (NRLM)|https://aajeevika.gov.in/nrlm": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-59|Logistics Efficiency Enhancement Programme (LEEP)|https://commerce.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-60|Sagarmala Programme|https://sagarmala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-62|AMRUT 2.0|https://amrut.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-63|National Water Mission|https://jalshakti-dowr.gov.in/nwm": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-64|Jal Jeevan Mission|https://jaljeevanmission.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-65|DigiLocker|https://digilocker.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-66|e-RUPI Scheme|https://www.npci.org.in/what-we-do/erupi": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-69|IndiaStack Initiatives|https://indiastack.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-61|Bharatmala Pariyojana|https://nhidcl.com/bharatmala": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-70|Section 80IAC \u2013 Tax Exemption for Startups|https://www.incometax.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-67|ONDC (Open Network for Digital Commerce)|https://ondc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-75|SIPP Scheme (Startup Intellectual Property Protection)|https://ipindia.gov.in/sipp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-72|MSME Delayed Payment Portal (MSME SAMADHAAN)|https://samadhaan.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-77|GI Tag \u2013 Geographical Indications Registry|https://ipindia.gov.in/gi": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-68|Account Aggregator Framework|https://sahamati.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-78|ISRO Start-up Policy & Technology Transfer|https://www.isro.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-73|MSME SAMBANDH (Public Procurement Portal)|https://msme.gov.in/sambandh": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-71|Angel Tax Exemption for DPIIT Startups|https://www.startupindia.gov.in/content/sih/en/government-schemes/angel-tax-exemption.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-74|Startup IP Protection \u2013 Fast Track Patent Examination|https://ipindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-79|DRDO CEPTAM Scheme|https://www.drdo.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-76|Design Registration Facilitation for Startups|https://ipindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-84|PM Ayushman Bharat Health Infrastructure Mission|https://pmaim.mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-86|PM YASASVI Scholarship|https://yet.nta.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-85|National Apprenticeship Promotion Scheme (NAPS)|https://apprenticeshipindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-80|Defence India Startup Challenge (DISC) \u2013 iDEX|https://idex.gov.in/disc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-89|Van Dhan Vikas Kendra (VDVK)|https://trifed.tribal.gov.in/vdvk": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-83|National Health Mission (NHM) Innovation Fund|https://nhm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-81|Innovations for Defence Excellence (iDEX4Fauji)|https://idex.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-82|Ayushman Bharat Digital Mission (ABDM)|https://abdm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-93|North East Industrial Development Scheme (NEIDS)|https://commerce.gov.in/neids": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-91|North East Venture Fund (NEVF)|https://sidbi.in/ne": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-87|Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP)|https://scholarship.up.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-88|National Scholarship Portal (NSP)|https://scholarships.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-90|Tribal Innovation & Entrepreneurship Fund (TIEF)|https://trifed.tribal.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-97|Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)|https://jansuraksha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-99|Atal Pension Yojana|https://www.npscra.nsdl.co.in/apy": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-92|NE Development Finance Corporation (NEDFi)|https://nedfi.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-100|BIRAC BioAngels Network|https://birac.nic.in/bioangels.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-98|Pradhan Mantri Suraksha Bima Yojana (PMSBY)|https://jansuraksha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-102|Atal Tinkering Labs (ATL)|https://aim.gov.in/atl": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-96|Sukanya Samriddhi Yojana|https://www.nsiindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-103|Mission Innovation India|https://missioninnovation.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-95|Jan Dhan Yojana (PMJDY)|https://pmjdy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-104|Smart Cities Mission|https://smartcities.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-94|Venture Capital Fund for Scheduled Castes (VCFSC)|https://ifci.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-107|Faster Adoption of Manufacturing of Hybrid and Electric Vehicles (FAME)|https://fame2.heavyindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-101|NSTEDB Entrepreneurship Awareness Camps|https://dst.gov.in/nstedb": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-111|KDEM Elevate Programme|https://elevate.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-112|Maharashtra State Innovation Society|https://maha-innovation.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-113|Maha Startup Scheme|https://startup.maharashtra.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-105|National Innovation Foundation (NIF) Grants|https://nif.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-115|EDII Tamil Nadu Incubation Scheme|https://edii.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-114|Tamil Nadu Startup & Innovation Policy|https://startuptn.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-110|Karnataka Startup Policy|https://startup.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-106|Green India Mission|https://moef.gov.in/green-india-mission": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-119|UP MSME and Export Promotion Council Schemes|https://upmsme.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-118|UP Startup Policy & One District One Product (ODOP)|https://startup.up.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-120|Rajasthan Startup & MSME Policy|https://rajasthan.gov.in/startups": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-109|MNRE Off-grid Solar Power Schemes|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-123|AP Innovation Society & APEX Incubation|https://apinnovation.ap.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-108|National Clean Energy Fund (NCEF)|https://coal.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-125|Delhi Startup Policy|https://investdelhionline.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-122|WE-Hub Women Entrepreneurship Program|https://wehub.telangana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-117|iCreate \u2013 International Centre for Entrepreneurship and Technology|https://icreate.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-121|T-Hub Foundation Incubation|https://t-hub.co": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-116|Gujarat Startup Policy|https://ic.gujarat.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-126|Fisheries and Aquaculture Infrastructure Development Fund (FIDF)|https://dof.gov.in/fidf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-129|Credit Guarantee Fund for Micro Units (CGFMU)|https://www.ncgtc.in/cgfmu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-128|Emergency Credit Line Guarantee Scheme (ECLGS)|https://www.ncgtc.in/eclgs": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-124|Kerala Startup Mission (KSUM)|https://startupmission.kerala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-127|Blue Revolution \u2013 Neela Kranti|https://dof.gov.in/blue-revolution": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-135|Duty Drawback Scheme|https://www.cbic.gov.in/resources//htdocs-cbec/customs/cs-act/formatted-htmls/drawback": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-133|NSIC Bill Discounting Scheme|https://www.nsic.co.in/scheme/bill-discounting": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-134|Jan Samarth Portal \u2013 Unified Credit Scheme Portal|https://www.jansamarth.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-132|SIDBI Make in India Soft Loan Fund (SMILE)|https://www.sidbi.in/en/products/smile": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-130|RBI Regulatory Sandbox for Fintech|https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3854": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-137|Special Economic Zone (SEZ) Scheme|https://www.sezindia.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-140|One District One Product (ODOP) Export Scheme|https://odop.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-131|SEBI Innovation Sandbox|https://www.sebi.gov.in/innovation-sandbox": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-136|Advance Authorization Scheme|https://www.dgft.gov.in/CP/?opt=advance-authorization": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-138|Export Oriented Unit (EOU) Scheme|https://www.dgft.gov.in/CP/?opt=EOU": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-142|ECGC MSME Export Scheme|https://www.ecgc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-143|PM Fasal Bima Yojana (PMFBY)|https://pmfby.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-141|Interest Subvention Scheme for MSMEs on Post Shipment Credit|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-144|PM Kisan Samman Nidhi (PM-KISAN)|https://pmkisan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-148|National Beekeeping & Honey Mission (NBHM)|https://nbhm.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-149|Micro Irrigation Fund (MIF) \u2013 NABARD|https://nabard.org/content1.aspx?id=588": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-151|Formation and Promotion of FPOs Scheme|https://sfacindia.com/FPO": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-145|National Mission for Sustainable Agriculture (NMSA)|https://nmsa.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-153|PM Annadata Aay Sanrakshan Abhiyan (PM-AASHA)|https://agricoop.nic.in/en/pm-aasha": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-146|Paramparagat Krishi Vikas Yojana (PKVY) \u2013 Organic Farming|https://pgsindia-ncof.gov.in/PKVY": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-139|Software Technology Park (STP) Scheme|https://www.stpi.in/en-in/about-stpi/stp-scheme": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-156|Interest Subvention Scheme for Short Term Credit to Farmers|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-150|Agricultural Infrastructure Fund (AIF)|https://agriinfra.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-157|Kisan Credit Card (KCC) for Farmers|https://www.nabard.org/auth/writereaddata/tender/1806180417Revised%20KCC%20guidelines.pdf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-152|National Agriculture Market (e-NAM)|https://www.enam.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-147|Sub-Mission on Agricultural Mechanisation (SMAM)|https://agrimachinery.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-158|Kisan Credit Card for Fisheries & Animal Husbandry|https://dof.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-160|Aquaculture Development Scheme (MPEDA)|https://mpeda.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-162|National Horticulture Mission (NHM)|https://nhm.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-155|Agri Export Zones (AEZ)|https://apeda.gov.in/apedawebsite/aez": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-159|National Scheme on Welfare of Fishermen|https://dof.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-154|National Food Security Mission (NFSM)|https://nfsm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-167|MSME Competitive (LEAN) Scheme|https://lean.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-168|Digital MSME Scheme|https://digital.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-161|Mission for Integrated Development of Horticulture (MIDH)|https://midh.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-170|Raising and Accelerating MSME Performance (RAMP)|https://ramp.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-169|Udyam Assist Platform (UAP) for Informal Sector|https://udyamassist.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-172|National Technical Textiles Mission (NTTM)|https://technicaltext.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-165|Micro & Small Enterprises Cluster Development Programme (MSE-CDP)|https://msme.gov.in/mse-cdp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-173|Amended Technology Upgradation Fund Scheme (ATUFS)|https://tufs.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-174|Integrated Processing Development Scheme (IPDS)|https://texmin.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-175|Scheme for Integrated Textile Parks (SITP)|https://texmin.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-163|Horticulture Cluster Development Programme (CDP)|https://nhb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-171|Champions Portal for MSME Grievance Resolution|https://champions.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-164|National Horticulture Board (NHB) Schemes|https://nhb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-176|Handloom Weavers Comprehensive Welfare Scheme|https://handlooms.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-177|Workshed Scheme for Handloom Weavers|https://handlooms.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-178|Yarn Supply Scheme for Handloom Weavers|https://handlooms.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-166|National SC/ST Hub|https://scsthub.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-184|MeitY Startup Hub (MSH)|https://msh.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-179|MUDRA Loan for Weavers (Weaver MUDRA Scheme)|https://www.mudra.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-181|Handicrafts Artisan Comprehensive Welfare Scheme|https://handicrafts.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-183|Cyber Security Centre of Excellence (CCoE)|https://www.meity.gov.in/ccoe": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-182|IndiaAI Compute Initiative|https://indiaai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-180|Raw Material Supply Scheme (RMSS) for Handlooms|https://handlooms.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-190|National Green Hydrogen Mission|https://greenhydrogen.mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-186|BharatNet Broadband Infrastructure|https://dot.gov.in/bharatnet": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-185|National Supercomputing Mission (NSM)|https://www.nsmindia.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-189|Semicon India Programme|https://semicon.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-188|National Quantum Mission|https://dst.gov.in/quantum-mission": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-191|Solar Parks & Ultra Mega Solar Power Projects|https://seci.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-196|UJALA Scheme \u2013 Unnat Jyoti by Affordable LEDs|https://ujala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-192|Small Hydro Power Programme|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-187|PM-WANI (WiFi Access Network Interface)|https://dot.gov.in/pm-wani": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-193|National Wind-Solar Hybrid Policy|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-200|Pradhan Mantri Swasthya Suraksha Yojana (PMSSY)|https://mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-194|Offshore Wind Energy Policy|https://mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-195|Perform Achieve and Trade (PAT) Scheme|https://beeindia.gov.in/pat": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-199|National Digital Health Mission (NDHM)|https://abdm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-203|Medical Devices Park Scheme|https://pharmaceuticals.gov.in/medical-device-park": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-204|Bulk Drug Parks Scheme|https://pharmaceuticals.gov.in/bulk-drug-parks": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-197|Standards & Labelling Programme (BEE)|https://beeindia.gov.in/sl": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-198|National Mission for Enhanced Energy Efficiency (NMEEE)|https://beeindia.gov.in/nmeee": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-201|National AYUSH Mission|https://ayush.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-206|PM SHRI Schools (PM Schools for Rising India)|https://pmshrischools.education.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-208|IMPRINT India (Impacting Research Innovation and Technology)|https://www.imprintindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-205|National Tele Mental Health Programme (Tele-MANAS)|https://telemanas.mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-202|Pradhan Mantri Bhartiya Janaushadhi Pariyojana (PMBJP)|https://janaushadhi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-213|Make in India for Defence (MII Defence)|https://www.mod.gov.in/make-in-india": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-214|DRDO Technology Transfer to Industry|https://www.drdo.gov.in/technology-transfer": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-207|Institutes of Eminence (IoE) Scheme|https://www.education.gov.in/ioe": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-211|Pradhan Mantri Research Fellows (PMRF) Scheme|https://www.pmrf.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-212|SWAYAM PRABHA DTH Channels for Education|https://swayamprabha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-210|SWAYAM Free Online Education Platform|https://swayam.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-216|DSIR Recognition for In-house R&D Units|https://www.dsir.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-217|Atal Mission for Rejuvenation and Urban Transformation (AMRUT 1.0)|https://amrut.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-221|Delhi Mumbai Industrial Corridor (DMIC)|https://dmicdc.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-215|Atmanirbhar Bharat Defence Production Policy|https://www.mod.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-209|Global Initiative for Academic Networks (GIAN)|https://gian.iitkgp.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-223|Swadesh Darshan Scheme 2.0|https://swadesha-darshan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-224|PRASAD Scheme \u2013 Pilgrimage Rejuvenation|https://prasad.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-219|HRIDAY \u2013 Heritage City Development and Augmentation Yojana|https://hridayindia.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-218|National Urban Livelihood Mission (NULM)|https://nulm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-228|National Mineral Exploration Trust (NMET) Grants|https://nmet.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-220|National Industrial Corridor Programme (NICP)|https://nicdc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-229|PM Khanij Kshetra Kalyan Yojana (PMKKKY)|https://mines.gov.in/pmkkky": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-222|Viability Gap Funding (VGF) for PPP Projects|https://dea.gov.in/vgf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-230|District Mineral Foundation (DMF) Support|https://mines.gov.in/dmf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-233|Beti Bachao Beti Padhao (BBBP)|https://wcd.nic.in/bbbp-schemes": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-234|One Stop Centre Scheme (Sakhi)|https://wcd.nic.in/schemes/one-stop-centre-scheme": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-235|Support to Training & Employment Programme (STEP)|https://wcd.nic.in/step-scheme": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-232|Pradhan Mantri Matru Vandana Yojana (PMMVY)|https://pmmvy.wcd.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-236|Mission Shakti \u2013 Women Safety & Empowerment|https://wcd.nic.in/mission-shakti": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-226|Homestay Scheme for Rural Tourism|https://tourism.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-225|Hunar Se Rozgar Tak (HSRT) Scheme|https://tourism.gov.in/hsrt": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-231|Geological Survey of India (GSI) Startup Mineral Exploration|https://www.gsi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-241|Eklavya Model Residential Schools (EMRS)|https://emrs.tribal.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-237|Pradhan Mantri Ujjwala Yojana (PMUY)|https://pmuy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-239|Pradhan Mantri Van Dhan Yojana|https://trifed.tribal.gov.in/vdvk": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-227|Medical & Wellness Tourism Policy|https://tourism.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-245|Dedicated Freight Corridor (DFC) Industry Linkage|https://dfccil.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-246|LEEP \u2013 Logistics Ease Across Different States|https://logisticsease.dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-238|TRIFED Schemes for Tribal Enterprises|https://trifed.tribal.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-247|Punjab Startup and Entrepreneurship Policy|https://invest.punjab.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-240|Mechanism for Marketing of Minor Forest Produce (MFP)|https://trifed.tribal.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-242|MedTech Regulatory Sandbox (CDSCO)|https://cdsco.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-248|Invest Punjab \u2013 Business First Portal|https://investpunjab.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-243|Central Drugs Standard Control Organisation Fast Track|https://cdsco.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-244|Multimodal Logistics Park (MMLP) Scheme|https://nhidcl.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-253|West Bengal Startup Policy|https://msmewb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-254|Bengal Silicon Valley Startup Hub|https://wbsidco.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-256|Assam Startup \u2013 Nidhi Program|https://assamstartup.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-250|MP MSME Development Policy|https://mpmsme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-258|HP Startup Yojana & HIMSTART|https://hpkvn.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-259|CG Startup Policy & Nava Raipur Innovation City|https://cgstartup.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-249|MP Startup Policy & Yuva Udyami Yojana|https://mpedistrict.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-255|Jharkhand Startup Policy|https://jharkhand.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-262|J&K New Industrial Development Scheme (J&K NIDS)|https://jkindustrialdev.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-252|MSME Development Policy Odisha|https://msme.odisha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-251|Odisha Startup Policy & iStart Odisha|https://startupodisha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-263|StartUp J&K Initiative|https://jkstartupsummit.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-257|Bihar Startup Policy|https://startup.bihar.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-266|National Biopharma Mission|https://birac.nic.in/nbm.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-261|Uttarakhand Startup Policy & SIDCUL Incubation|https://investuttarakhand.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-260|Goa Startup Policy|https://startup.goa.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-269|Space Technology Incubation Centre (S-TIC) \u2013 ISRO|https://www.isro.gov.in/s-tic": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-265|National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)|https://dst.gov.in/nm-icps": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-264|Technology Innovation Hub (TIH) \u2013 DST|https://dst.gov.in/technology-innovation-hubs": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-272|NASSCOM 10000 Startups Programme|https://10000startups.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-267|Startup India Innovation Week Challenge|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-270|IIT Technology Business Incubators (TBIs)|https://www.iitb.ac.in/incubator": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-271|NIT Innovation & Entrepreneurship Development Centre|https://www.nitk.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-276|Atal Bhujal Yojana (Groundwater Management)|https://atalbhujal.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-268|Centre for Nano Science and Engineering (CeNSE) Grants|https://cense.iisc.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-274|IIM Ahmedabad CIIE.CO \u2013 Bharat Inclusion Initiative|https://ciie.co": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-279|GOBAR-DHAN Scheme|https://sbm.gov.in/gobardhan": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-281|Light House Projects (LHP) for Affordable Housing|https://lhp.mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-278|Swachh Bharat Mission \u2013 Gramin Phase II|https://swachhbharatmission.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-283|Film Facilitation Office (FFO) \u2013 Single Window Clearance|https://ffo.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-275|SIDBI Startup Mitra \u2013 Incubation Portal|https://www.startupindia.gov.in/content/sih/en/startupgov/startup-mitra.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-277|Swachh Bharat Mission \u2013 Urban 2.0|https://sbmurban.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-282|NFDC Production Grants|https://www.nfdcindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-285|Ambedkar Hastshilp Vikas Yojana|https://handicrafts.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-284|AVGC-XR Policy (Animation, VFX, Gaming, Comics)|https://www.meity.gov.in/avgc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-289|National Centre for Textile Design (NCTD)|https://nctd.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-286|Design & Technical Upgradation Scheme for Handicrafts|https://handicrafts.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-273|STPI Centres of Entrepreneurship (CoE)|https://www.stpi.in/en-in/coe": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-287|Marketing Support & Services for Handicrafts|https://handicrafts.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-288|Export Promotion for Handicrafts (EPCH)|https://www.epch.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-290|PLI for Telecom & Networking Products|https://dot.gov.in/pli-telecom": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-291|Digital Communications Innovation Square (DCIS)|https://dot.gov.in/dcis": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-292|Telecom Technology Development Fund (TTDF)|https://dot.gov.in/ttdf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-293|5G Use Case Labs & Testbeds Initiative|https://dot.gov.in/5g": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-296|Target Olympic Podium Scheme (TOPS)|https://yas.nic.in/tops": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-294|Universal Service Obligation Fund (USOF) Schemes|https://usof.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-299|MSME IP Facilitation Centre|https://ipindia.gov.in/msme-ip": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-297|National Sports Development Fund (NSDF)|https://yas.nic.in/nsdf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-298|Sports Authority of India (SAI) Training Grants|https://sai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-303|Ease of Doing Business \u2013 BizReform App|https://bizreform.eodb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-280|Affordable Rental Housing Complexes (ARHC) Scheme|https://arhc.mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-300|Traditional Knowledge Digital Library (TKDL)|https://www.tkdl.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-295|Khelo India \u2013 Sport Tech Fund|https://kheloindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-304|Shram Suvidha Portal \u2013 Labour Compliance|https://shramsuvidha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-301|National IPR Policy 2016 Implementation Schemes|https://ipindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-302|MSME Pre-Pack Insolvency Resolution Process (PPIRP)|https://ibbi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-305|NCLT Fast Track Insolvency for MSMEs|https://nclt.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-311|PM Matsya Kisan Samridhi Sah-Yojana (PM-MKSSY)|https://pmmsy.dof.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-306|Mega Food Parks Scheme|https://mofpi.gov.in/schemes/mega-food-parks": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-312|National Livestock Mission (NLM)|https://dahd.nic.in/nlm": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-310|Animal Husbandry Infrastructure Development Fund (AHIDF)|https://ahidf.udyamimitra.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-313|National Programme for Dairy Development (NPDD)|https://dahd.nic.in/npdd": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-315|Rashtriya Gokul Mission|https://dahd.nic.in/rashtriya-gokul-mission": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-307|Integrated Cold Chain and Value Addition Infrastructure|https://mofpi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-318|PACS (Primary Agricultural Cooperative Societies) Computerisation|https://pacs.nddb.coop": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-309|Food Safety & Standards Authority of India (FSSAI) Compliance Support|https://www.fssai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-320|Multi State Cooperative Societies Development Fund|https://mscs.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-308|Scheme for Agro-Marine Processing & Development (SAMPADA)|https://mofpi.gov.in/sampada": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-321|GAIL Pankh Startup Initiative|https://www.gail.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-316|National Cooperative Development Corporation (NCDC) Grants|https://www.ncdc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-319|National Cooperative Exports Limited (NCEL) Scheme|https://www.nafed-india.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-317|Cooperative Societies Credit Support Scheme|https://www.ncdc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-326|IRCTC Startup Innovation Fund|https://www.irctc.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-323|HAL Innovation & Startup Centre|https://hal-india.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-314|Dairy Processing & Infrastructure Development Fund (DIDF)|https://nddb.coop/services/dairy-development/didf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-329|Power Grid Innovation Challenge|https://powergridindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-322|Indian Oil Startup Scheme|https://iocl.com/startup": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-327|RailTel Innovation Challenge|https://www.railtelindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-324|SAIL Startup & Innovation Policy|https://www.sail.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-328|NHPC Start-Up Initiative|https://nhpc.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-333|NABARD RIDF (Rural Infrastructure Development Fund)|https://www.nabard.org/ridf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-325|BEL Innovation & Startup Support|https://bel-india.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-330|CSIR Technologies for MSMEs|https://www.csir.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-337|She Means Business \u2013 Digital Skills for Women|https://www.facebook.com/business/m/she-means-business": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-334|GIZ \u2013 DEG India Startup Finance|https://www.giz.de/en/worldwide/369.html": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-332|ICAR \u2013 Agri Startup Grants|https://www.icar.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-336|WEP \u2013 Women Entrepreneurship Platform (NITI Aayog)|https://wep.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-335|Mudra Shishu Loans for Women (Under PMMY)|https://www.mudra.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-340|TIDCO \u2013 Tamil Nadu Industrial Dev. Corp Schemes|https://www.tidco.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-342|Startup Karnataka Policy 2022-27|https://startup.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-341|TANSIDCO MSME Support Scheme|https://tansidco.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-343|Elevate 100 Programme|https://elevate.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-339|Synd Mahila Shakti Scheme (Syndicate Bank)|https://www.canarabank.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-345|Vizag Fintech Valley|https://fintechvalley.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-344|AP Startup Policy & Innovation|https://apinnovation.ap.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-331|ICMR Research Grants for Health Startups|https://www.icmr.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-350|iHub Gujarat \u2013 Technology Innovation Fund|https://ihubahemdabad.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-348|MahaDBT \u2013 Direct Benefit Transfer for Entrepreneurs|https://mahadbt.maharashtra.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-346|T-Works Prototype Manufacturing Hub|https://t-works.telangana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-353|UP Textile Park Scheme|https://upica.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-349|Maharashtra Industrial Development Corporation (MIDC) Schemes|https://midcindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-355|RIPS (Rajasthan Investment Promotion Scheme)|https://rajinvestment.rajasthan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-351|GVFL \u2013 Gujarat Venture Finance Ltd Fund|https://www.gvfl.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-338|Dena Shakti Scheme for Women (Bank of Baroda)|https://www.bankofbaroda.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-356|Mukhya Mantri Udyam Kranti Yojana|https://samast.mponline.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-352|Nivesh Mitra \u2013 UP Single Window Portal|https://niveshmitra.up.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-357|KSUM Special Grants for Deep Tech|https://startupmission.kerala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-358|Kerala Technology Startup Policy|https://startupmission.kerala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-359|Sagarmala Port Modernisation Programme|https://sagarmala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-354|iStart Rajasthan|https://istart.rajasthan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-360|Sagarmala Coastal Community Development|https://sagarmala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-347|Hyderabad Pharma City Startup Scheme|https://hmda.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-366|NHAI InvIT \u2013 Infrastructure Investment Trust for Highways|https://nhai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-364|Maritime India Vision 2030 \u2013 Startup Grants|https://sagarmala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-368|National Highway Logistics Facilities \u2013 NHLF|https://nhai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-362|National Waterway Development \u2013 IWAI Schemes|https://iwai.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-369|Hybrid Annuity Model (HAM) for Highway Projects|https://nhai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-367|PM Gram Sadak Yojana (PMGSY) Phase III|https://pmgsy.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-371|Indian Railways Station Redevelopment Programme|https://irsdc.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-361|Ship Building Financial Assistance Policy|https://shipmin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-374|Indian Railways Startup Policy (IRSDC)|https://irsdc.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-363|Coastal Shipping Incentive Scheme|https://shipmin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-370|BOT Toll Highway Startup Opportunities|https://morth.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-365|Green Ship Building Incentive Scheme|https://shipmin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-377|Steel Scrap Recycling Policy|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-375|Private Train Operators Policy|https://indianrailways.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-372|Rail Logistics Policy \u2013 Private Freight Terminal|https://indianrailways.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-378|National Steel Policy 2017 \u2013 MSME Cluster Support|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-376|Kisan Rail for Agri Produce Transport|https://indianrailways.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-383|New Chemical Policy for MSMEs|https://chemicals.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-384|Paints & Coatings Industry Development Scheme|https://chemicals.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-385|Plastic Parks Scheme|https://chemicals.nic.in/plastic-parks": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-379|R&D for Steel (R&D Fund)|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-380|Domestic Steel Procurement Preference Policy|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-382|PLI Scheme for White Goods (AC & LED)|https://dpiit.gov.in/pli-white-goods": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-373|One Station One Product (OSOP) Scheme|https://indianrailways.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-381|Petroleum, Chemicals and Petrochemicals Investment Region (PCPIR)|https://dpiit.gov.in/pcpir": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-391|National Urban Innovation Stack (NUIS)|https://nuisnet.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-388|Khanij Bidesh India Ltd (KABIL) Overseas Mineral Support|https://kabilindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-386|Critical Minerals Mission \u2013 Startup Support|https://mines.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-387|Exploration Licence for Private Players|https://mines.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-389|Mine Developer and Operator (MDO) Policy|https://mines.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-393|Metro Rail Policy \u2013 Private Participation|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-392|PM SVANidhi Plus (Micro Credit for Street Vendors)|https://pmsvanidhi.mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-394|Transit Oriented Development (TOD) Policy|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-397|Revamped Distribution Sector Scheme (RDSS)|https://reforms.descom.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-400|PM Surya Ghar Subsidy \u2013 Rooftop Solar|https://pmsuryaghar.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-390|Pradhan Mantri MUDRA Yojana Urban Special Window|https://www.mudra.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-395|Smart Cities Innovation Challenge Fund|https://smartcities.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-396|National Common Mobility Card (NCMC)|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-398|KUSUM-A Solar Power for Farmers|https://pmkusum.mnre.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-399|PLI for Solar PV Modules|https://mnre.gov.in/pli-solar": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-402|National Electricity Fund (NEF)|https://powermin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-407|Open Government Data Platform (OGD)|https://data.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-401|Electricity Amendment Act \u2013 Open Access for MSMEs|https://powermin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-409|e-Sanjeevani Telemedicine Platform for Health Startups|https://esanjeevani.mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-410|Aadhaar-Based Startup Authentication Services|https://uidai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-403|Smart Metering Implementation (AMISP)|https://powermin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-411|DigiYatra \u2013 Aviation Digital Identity Platform|https://www.digiyatra.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-412|Tax Collected at Source (TCS) Exemption for Startups|https://www.incometax.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-408|MyScheme \u2013 Centralized Government Scheme Portal|https://www.myscheme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-406|Government e-Marketplace (GeM) Seller Onboarding|https://gem.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-405|India Enterprise Architecture (InEA)|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-404|Meity's Data Centre Policy|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-413|Startup GST Exemption & Composition Scheme|https://www.gst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-415|Self-Certification for Labour Laws (Startups)|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-414|ESOP Tax Deferment for Startup Employees|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-420|PM Kisan Maan Dhan Yojana (PM-KMY) Pension for Farmers|https://pmkmy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-418|GST QRMP Scheme for MSMEs|https://www.gst.gov.in/qrmp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-416|Three-Year Tax Holiday for DPIIT Startups (80IAC)|https://www.incometaxindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-417|Presumptive Taxation Scheme (Section 44AD) for MSMEs|https://www.incometaxindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-423|Integrated Scheme for Agricultural Marketing (ISAM)|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-424|Agristack \u2013 Federated Farmers Database|https://agristack.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-426|NABARD Watershed Development Fund|https://www.nabard.org/wdf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-421|Soil Health Card Scheme|https://soilhealth.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-429|National Project on Organic Farming (NPOF)|https://ncof.dacnet.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-419|National Mission on Edible Oils \u2013 Oil Palm (NMEO-OP)|https://nmeo.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-431|Poultry Venture Capital Fund|https://dahd.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-430|Dairy Entrepreneurship Development Scheme (DEDS)|https://dahd.nic.in/deds": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-432|National Programme for Bovine Breeding & Dairy Dev (NPBBD)|https://dahd.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-433|Integrated Development of Small Ruminants & Rabbits|https://dahd.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-434|National Livestock Health & Disease Control Programme|https://dahd.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-435|Integrated Scheme for Development of Silk Industry (ISDSI)|https://texmin.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-422|National Mission on Oilseeds and Oil Palm (NMOOP)|https://nmoop.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-437|KVIC Prime Minister Employment Generation Programme (PMEGP)|https://www.kviconline.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-438|Khadi Gramodyog Vikas Yojana (KGVY)|https://www.kviconline.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-427|Farmer Producer Organisation (FPO) Equity Grant Fund|https://sfacindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-440|Gold Monetisation Scheme (GMS)|https://www.rbi.org.in/gms": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-425|IFFCO Nano Urea Initiative for Agri Startups|https://www.iffco.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-436|Central Silk Board \u2013 Bivoltine Silk Development Programme|https://csb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-439|SFURTI \u2013 Silk Cluster Development|https://sfurti.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-442|Special Notified Zone (SNZ) for Diamond Trading|https://www.dgft.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-428|APEDA Agri Export Promotion Scheme|https://apeda.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-443|Gem & Jewellery Export Promotion Council (GJEPC) Schemes|https://www.gjepc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-448|National Centre for Flexible Electronics (NCFlexE)|https://ncflexe.iitk.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-441|India International Jewellery Show (IIJS) Participation Support|https://www.gjepc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-450|IN-SPACe Authorization for Private Space Launch|https://www.inspaceindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-444|Gems & Jewellery Sector PLI \u2013 Design Innovation Grant|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-446|PLI for Mobile Phones & Specified Electronic Components|https://www.meity.gov.in/pli": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-453|Indian National Space Promotion & Authorization Centre (IN-SPACe) Seed Fund|https://www.inspaceindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-454|ISRO Technology Transfer Programme|https://www.isro.gov.in/technology-transfer": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-449|Indian Semiconductor Research Centre (ISRC) Grants|https://semicon.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-455|Space Situational Awareness (SSA) Startup Support|https://www.isro.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-456|National Film Award Support for Startups|https://dff.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-445|PLI for Large Scale Electronics Manufacturing|https://www.meity.gov.in/pli": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-447|Electronics Cluster Development Programme (ECDP)|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-452|Geospatial Data Liberalisation \u2013 NGIS Policy|https://dst.gov.in/geospatial-guidelines": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-458|Broadcast Audience Research Council (BARC) Data Access for Startups|https://www.barcindia.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-451|NewSpace India Ltd (NSIL) Technology Transfer|https://www.nsilindia.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-460|National Mission on Strategic Knowledge for Climate Change (NMSKCC)|https://dst.gov.in/nmskcc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-457|OTT Platform Development Incentive|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-459|India Game Developer Conference (IGDC) Support|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-462|Startup India Climate Action Challenge|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-461|National Action Plan on Climate Change (NAPCC) Schemes|https://moef.gov.in/napcc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-463|CERC Green Term Ahead Market (GTAM) for Startups|https://cercind.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-466|National Clean Air Programme (NCAP) Innovation Fund|https://cpcb.nic.in/ncap": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-470|RBI FinTech Repository|https://www.rbi.org.in/fintech": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-468|Account Aggregator (AA) Framework for FinTech Startups|https://sahamati.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-469|UPI Innovation Fund (NPCI)|https://www.npci.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-473|IRDAI Regulatory Sandbox for InsurTech|https://www.irdai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-474|PFRDA Innovation for PensionTech Startups|https://www.pfrda.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-465|National Mission for a Green India (GIM)|https://moef.gov.in/green-india-mission": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-475|GIFT City Financial Services Startup Support|https://www.giftcity.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-471|IFSCA FinTech Incentive Scheme (GIFT City)|https://ifsca.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-467|EESL Energy Efficiency Innovation Support|https://eeslindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-479|National Programme for Prevention & Control of Cancer (NPCC)|https://mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-477|National Payments Corporation of India (NPCI) BharatPay|https://www.npci.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-464|Sustainable Finance for Green MSMEs (SIDBI Green Finance)|https://www.sidbi.in/green": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-476|Open Credit Enablement Network (OCEN) for Lenders|https://ocen.dev": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-472|SEBI FinTech Regulatory Framework for WealthTech|https://www.sebi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-480|PM National Dialysis Programme|https://mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-485|India MedTech Expo & Investment Support|https://pharmaceuticals.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-481|National Organ & Tissue Transplant Organisation (NOTTO)|https://notto.abdm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-483|National TB Elimination Programme \u2013 Digital Initiative|https://nikshay.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-488|Apprenticeship Embedded Degree Programme (AEDP)|https://apprenticeshipindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-482|Pradhan Mantri National AIDS Control Programme|https://naco.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-489|Jan Shikshan Sansthan (JSS) Vocational Training|https://jss.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-490|Pradhan Mantri Kaushal Kendras (PMKK)|https://www.skillindia.gov.in/pmkk": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-484|National Mental Health Programme (NMHP) Startup Support|https://nimhans.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-486|National Digital Library of India (NDLI)|https://ndl.iitkgp.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-494|Recognition of Prior Learning (RPL) Scheme|https://pmkvyofficial.org/rpl": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-478|MedTech Startup Innovation Program (MSIP)|https://cdsco.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-493|Skill Vouchers for Private Training Providers|https://www.skillindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-496|Impact Investors Council (IIC) India Fund|https://iicin.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-498|NGO Darpan \u2013 CSR Fund Access Portal|https://ngodarpan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-491|Modular Employable Skills (MES) Scheme|https://dgt.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-487|Coding for Kids Initiative \u2013 CBSE & MeitY|https://www.meity.gov.in/coding": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-492|Craftsmen Training Scheme (CTS) \u2013 ITI|https://dgt.gov.in/cts": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-501|Atal Community Innovation Centre (ACIC)|https://aim.gov.in/acic": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-495|National Apprenticeship Training Scheme (NATS)|https://mhrdnats.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-502|Social Alpha Innovation Platform|https://socialalpha.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-503|National Water Awards (NWA) Innovation Support|https://jalshakti-dowr.gov.in/nwa": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-500|Corporate Social Responsibility (CSR) Innovation Fund|https://www.mca.gov.in/csr": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-499|PM CARES Fund CSR Project Support|https://pmcares.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-497|Social Stock Exchange (SSE) \u2013 SEBI Framework|https://www.sebi.gov.in/sse": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-505|National Hydrology Project (NHP) Data Access for Startups|https://nhp.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-504|PM Krishi Sinchayee Yojana (PMKSY) \u2013 Micro Irrigation|https://pmksy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-509|National Rural Economic Transformation Project (NRETP)|https://aajeevika.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-510|Pradhan Mantri Gram Sadak Yojana (PMGSY) \u2013 Connectivity for Agri|https://pmgsy.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-507|Aquifer Mapping & Management Programme|https://cgwb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-512|National Social Assistance Programme (NSAP)|https://nsap.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-506|Namami Gange \u2013 Ganga Rejuvenation Innovation Fund|https://nmcg.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-513|Deen Dayal Upadhyay Grameen Kaushalya Yojana (DDU-GKY)|https://ddugky.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-508|Pradhan Mantri Micro Food Processing Enterprises (PM-FME)|https://pmfme.mofpi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-517|Technology Centre Systems Programme (TCSP)|https://tcsp.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-511|Shyama Prasad Mukherji Rurban Mission (SPMRM)|https://rurban.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-520|Design Clinic Scheme for MSMEs|https://designclinic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-514|Mahatma Gandhi NREGA (MGNREGS) Convergence|https://nrega.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-518|National Manufacturing Competitiveness Programme (NMCP)|https://msme.gov.in/nmcp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-515|Common Facility Centre (CFC) under MSE-CDP|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-516|Infrastructure Development Scheme for MSME Clusters|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-519|Procurement and Marketing Support Scheme (PMS) for MSMEs|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-522|Sikkim State Startup Policy|https://sikkim.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-521|Bar Coding / Quality Certification Reimbursement Scheme|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-528|Mizoram State Startup Policy|https://mizoram.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-526|Meghalaya Startup Policy \u2013 MeghaStart|https://meghalaya.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-529|Mukhyamantri Swarozgar Yojana \u2013 Uttarakhand|https://msy.uk.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-531|Delhi Industrial Policy 2021|https://dsidc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-523|Nagaland Startup Policy \u2013 StartupNaga|https://nagaland.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-527|Arunachal Pradesh Industrial Investment Policy|https://arunachalpradesh.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-530|HP Mukhya Mantri Swavalamban Yojana|https://mmsy.hp.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-535|Punjab Skill Development Mission|https://pbskills.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-533|Rajasthan MSME (Facilitation of Establishment and Operation) Act|https://rajasthan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-532|Haryana Udhyam Memorandum Digital Portal|https://msme.haryana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-524|Manipur Startup Policy|https://manipur.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-525|Tripura Startup Policy|https://tripura.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-538|YSR Jagananna Chedodu Scheme for MSMEs|https://ap.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-536|Karnataka Digital Economy Mission (KDEM)|https://startup.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-541|MP Trade & Investment Facilitation Corporation (TRIFAC)|https://www.mptrifac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-539|Telangana MSME Policy 2020|https://tsiic.telangana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-537|TIDCO Venture Capital Fund|https://www.tidco.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-544|Bihar Industrial Investment Promotion Policy|https://udyog.bihar.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-540|Kerala Financial Corporation (KFC) MSME Loans|https://www.kfc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-546|Assam Industrial & Investment Policy|https://industrycommerce.assam.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-547|CG Industrial Policy 2019-24|https://industries.cg.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-542|MSME Technology Upgradation Subsidy \u2013 Odisha|https://msme.odisha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-543|WBIDC Industrial Park Scheme|https://www.wbidc.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-545|Jharkhand MSME Policy 2015 (Revised)|https://jharkhand.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-550|Centre of Excellence for IoT (IoT CoE) MeitY|https://www.meity.gov.in/iot-coe": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-549|BIRAC PACE Programme for Biotech Incubation|https://birac.nic.in/pace.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-551|National Robotics Mission (DST)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-548|National Initiative for Developing and Harnessing Innovations (NIDHI)|https://nidhi.dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-553|National Centre of Excellence for Green Port & Shipping (NCoEGPS)|https://sagarmala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-552|Centre of Excellence for Drones & Counter Drone Systems|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-558|Coal India Ltd (CIL) Innovation & Startup Fund|https://www.coalindia.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-554|IIT Hyderabad Deep Tech Startup Incubator|https://iith.ac.in/incubator": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-559|ONGC Energy Centre (OEC) for Clean Energy Startups|https://ongcenergy.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-534|MSME Assistance Programme Gujarat|https://ic.gujarat.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-555|IISc Start-up Connect & DESE Incubation|https://www.iisc.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-557|Venture Center Pune \u2013 NCL Innovation Park|https://venturecenter.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-563|CONCOR (Container Corporation) Logistics Startup Challenge|https://www.concorindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-556|CCAMP (Centre for Cellular and Molecular Platforms)|https://ccamp.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-566|TCIL Technology Startup Programme|https://www.tcil-india.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-562|Airport Authority of India (AAI) Startup Support|https://www.aai.aero": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-561|MTNL Innovation Programme|https://www.mtnl.net.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-564|Hindustan Copper Ltd (HCL) Innovation Support|https://www.hindustancopper.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-565|National Aluminium Company (NALCO) Startup Fund|https://nalcoindia.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-568|Food Testing Infrastructure \u2013 NABL Accreditation Support|https://www.nabl-india.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-560|BSNL Startup & Innovation Challenge|https://www.bsnl.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-569|Cold Storage Infrastructure Subsidy (NHB)|https://nhb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-570|APEDA Export Facilitation for Organic Products|https://apeda.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-571|Indian Institute of Food Processing Technology (IIFPT) Incubation|https://iifpt.edu.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-575|Pradhan Mantri Krishi Sinchayee Yojana \u2013 Watershed Development|https://pmksy.gov.in/watershed": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-576|Per Drop More Crop \u2013 Micro Irrigation|https://pmksy.gov.in/microirrigation": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-572|National Institute of Food Technology Entrepreneurship & Management (NIFTEM)|https://www.niftem.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-574|National Water Resource Development Programme|https://jalshakti-dowr.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-567|PM Micro Food Processing Enterprises Scheme (PM-FME)|https://pmfme.mofpi.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-573|PM Krishi Sinchayee Yojana \u2013 Har Khet Ko Pani|https://pmksy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-582|Kisan Drone Scheme \u2013 Agriculture UAV Subsidy|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-577|Repair Renovation Restoration (RRR) of Water Bodies|https://jalshakti-dowr.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-579|PLI Scheme for Drones & Drone Components|https://dpiit.gov.in/pli-drones": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-578|National Aquifer Mapping Programme (NAQUIM)|https://cgwb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-583|DRDO \u2013 Drone Technology Development Fund|https://www.drdo.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-581|National Drone Policy 2021|https://www.dgca.gov.in/digigov-portal": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-580|Drone Shakti Initiative (MoCA)|https://www.civilaviation.gov.in/drone": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-586|FAME India Phase II \u2013 EV Purchase Subsidy|https://fame2.heavyindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-590|National Electric Mobility Mission Plan (NEMMP)|https://dhi.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-585|UTM (Unmanned Traffic Management) Framework for Startups|https://www.dgca.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-587|PM E-Bus Sewa \u2013 Electric Bus Deployment|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-584|Drone Didi Scheme for Women SHGs|https://www.pib.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-594|National Policy on Biofuels 2018 (Revised 2022)|https://petroleum.nic.in/biofuel": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-595|Pradhan Mantri JI-VAN Yojana (Biofuel)|https://petroleum.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-588|EMPS 2024 \u2013 Electric Mobility Promotion Scheme|https://heavyindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-596|SATAT Scheme \u2013 Compressed Biogas (CBG)|https://petroleum.nic.in/satat": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-597|Ethanol Blending Programme (EBP)|https://petroleum.nic.in/ebp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-598|National Bamboo Mission|https://nbm.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-589|EV Charging Infrastructure Development Scheme|https://beeindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-592|EV Battery Swapping Policy (NITI Aayog)|https://www.niti.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-593|Alternate Fuels for Transportation (Hydrogen Mobility)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-591|EESL EV Aggregation Scheme for Bulk Procurement|https://eeslindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-604|Advanced Chemistry Cell (ACC) Battery PLI|https://dhi.nic.in/acc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-599|BIRAC Industrial Biofoundry Support|https://birac.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-601|Design Linked Incentive (DLI) for Chip Design|https://semicon.gov.in/dli": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-602|India Semiconductor Mission (ISM) Startup Support|https://semicon.gov.in/ism": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-603|Compound Semiconductors & Other Electronics Scheme|https://semicon.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-605|National Robotics Programme \u2013 DST|https://dst.gov.in/robotics": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-610|National Cyber Security Policy Implementation Fund|https://cert-in.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-611|CERT-In Startup Empanelment Scheme|https://cert-in.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-606|ATAL Innovation Mission \u2013 Robotics Challenge|https://aim.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-600|PLI for Semiconductors & Display Fab|https://semicon.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-607|Centre of Excellence for Robotics (CoER)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-612|DSCI Cybersecurity Startup Programme|https://www.dsci.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-614|Information Security Education & Awareness (ISEA) Grants|https://isea.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-609|MSME Industry 4.0 Adoption Scheme|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-615|National Cyber Coordination Centre (NCCC) Partner Programme|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-608|Industrial Automation & Industry 4.0 Scheme \u2013 MeitY|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-613|Cyber Surakshit Bharat Initiative|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-616|NASSCOM AI Gamechangers Programme|https://nasscom.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-618|National Data & Analytics Platform (NDAP)|https://ndap.niti.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-617|MeitY AI CoE \u2013 Farming, Healthcare & Smart Cities|https://indiaai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-619|AI for Agriculture \u2013 ICAR-ICRISAT Partnership Grant|https://www.icar.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-624|LIFE Programme (Lifestyle for Environment)|https://www.missionlife-india.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-621|ResponsibleAI Startup Grants (NASSCOM & MeitY)|https://nasscom.in/ai": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-620|India AI Startup Fellowship Programme|https://indiaai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-625|National Mission for Himalayan Studies (NMHS)|https://gbpihedenvis.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-629|Compensatory Afforestation Fund (CAMPA) Grants|https://campa.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-622|AI & ML Research Grant \u2013 DST SERB|https://www.serbonline.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-626|National Mission for Sustaining the Himalayan Ecosystem|https://dst.gov.in/nmshej": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-623|Green Climate Fund \u2013 India Projects|https://moef.gov.in/gcf": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-627|National Adaptation Fund for Climate Change (NAFCC)|https://moef.gov.in/nafcc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-633|Special Accelerated Road Development Programme for NE (SARDP-NE)|https://morth.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-628|National Wetlands Conservation Programme (NWCP)|https://moef.gov.in/wetlands": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-634|Bamboo Mission for North East|https://nbm.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-630|PM Van Mitra Scheme \u2013 Urban Forestry|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-638|Holistic Development of Islands (Andaman & Lakshadweep)|https://islanddevelopment.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-632|Schemes under Ministry of DoNER (North East)|https://mdoner.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-631|North East Special Infrastructure Development Scheme (NESIDS)|https://mdoner.gov.in/nesids": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-641|PM Jan Vikas Karyakram (PMJVK)|https://minorityaffairs.gov.in/pmjvk": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-635|North East Rural Livelihood Project (NERLP)|https://nerlp.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-643|Usttad Scheme (Minorities Artisan Development)|https://minorityaffairs.gov.in/usttad": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-636|PM DevINE \u2013 PM Development Initiative for NE Region|https://mdoner.gov.in/pm-devine": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-637|Integrated Basin Development & Livelihoods Programme (IBDLP) \u2013 Meghalaya|https://meghalaya.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-640|Lakshadweep Development Corporation Schemes|https://lakshadweep.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-639|NITI Aayog Island Development Agency Scheme|https://www.niti.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-642|Seekho aur Kamao (Learn & Earn) for Minorities|https://minorityaffairs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-648|Jiyo Parsi Scheme|https://www.minorityaffairs.gov.in/jiyoparsi": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-645|NMDFC Concessional Loan Schemes|https://nmdfc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-646|Garib Nawaz Employment Scheme|https://nmdfc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-647|Hamari Dharohar \u2013 Cultural Heritage Preservation|https://minorityaffairs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-653|Venture Capital Fund for SCs (VCFSC) \u2013 IFCI|https://ifci.in/vcfsc": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-654|Assistance to Disabled Persons (ADIP Scheme)|https://disabilityaffairs.gov.in/adip": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-650|OBC Pre-Matric & Post-Matric Scholarship Scheme|https://scholarships.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-649|National Backward Classes Finance & Dev Corp (NBCFDC) Loans|https://www.nbcfdc.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-655|Scheme for Implementation of Persons with Disabilities Act (SIPDA)|https://disabilityaffairs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-644|Nai Manzil \u2013 Education & Skill Development for Minorities|https://minorityaffairs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-658|National Trust Scheme for Persons with Autism etc.|https://thenationaltrust.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-659|Senior Care Ageing Growth Engine (SAGE) \u2013 Startup Support|https://social.nic.in/sage": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-651|Dr. Ambedkar Post-Matric Scholarship for EBC|https://scholarships.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-652|Central Sector Scheme for Top Class Education for SC Students|https://scholarships.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-657|PM Accessible India Campaign (Sugamya Bharat)|https://accessibleindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-663|Canteen Stores Department MSME Procurement Scheme|https://csd.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-660|Ex-Servicemen Contributory Health Scheme (ECHS)|https://echs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-656|National Fellowship for Students with Disabilities|https://scholarships.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-667|Agmark Certification for Agricultural Products|https://agmark.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-665|National Accreditation Board for Testing & Calibration Labs (NABL)|https://www.nabl-india.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-661|PM Rozgar Yojana for Ex-Servicemen|https://ksb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-669|National Organic Farming Research Institute (NOFRI) Certification|https://nofri.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-666|Quality Council of India (QCI) Certification Support for MSMEs|https://www.qcin.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-670|India Post Payments Bank (IPPB) \u2013 MSME Banking|https://www.ippbonline.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-672|Postal Life Insurance (PLI) for MSMEs|https://pliindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-662|Kendriya Sainik Board Startup & Entrepreneurship Fund|https://ksb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-664|Bureau of Indian Standards (BIS) Hallmarking Scheme|https://bis.gov.in/hallmarking": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-671|India Post Logistics \u2013 e-Commerce Integration Scheme|https://www.indiapost.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-675|Interest Subsidy Scheme for Housing (CLSS under PMAY)|https://pmay-urban.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-674|Credit Risk Guarantee Fund Trust for Low Income Housing|https://mohua.gov.in/crgftlih": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-679|National Intellectual Property Awareness Mission (NIPAM)|https://nipam.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-673|DigiGaon \u2013 Rural Digital Hub via Post Offices|https://www.indiapost.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-676|HUDCO Loan Scheme for Affordable Housing Projects|https://hudco.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-678|Pradhan Mantri Awas Yojana Credit Linked Subsidy Scheme (CLSS-MIG)|https://pmay-urban.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-668|APEDA HACCP & Organic Certification Support|https://apeda.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-682|Arbitration & Conciliation Centre for MSMEs (SAMADHAAN)|https://samadhaan.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-677|NHB Refinance Schemes for Housing Finance Companies|https://nhb.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-681|Startup Legal Facilitation \u2013 Virtual Courts for IP Disputes|https://doj.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-680|IP India \u2013 Patent Filing Fee Reduction for Startups|https://ipindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-683|Fast-Track Trademark Registration for Startups|https://ipindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-689|Labour Welfare Fund Scheme|https://labourwelfare.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-685|Pradhan Mantri Rojgar Protsahan Yojana (PMRPY) 2.0|https://pmrpy.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-684|Copyright Societies Support Scheme|https://copyright.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-688|Atal Bimit Vyakti Kalyan Yojana (ABVKY)|https://www.esic.gov.in/abvky": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-687|ESIC Health Insurance Scheme for MSME Workers|https://www.esic.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-691|Pradhan Mantri Shram Yogi Maandhan (PM-SYM)|https://maandhan.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-686|Employee Provident Fund (EPF) Subsidy for New Establishments|https://www.epfindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-690|Fixed Term Employment (FTE) Scheme for MSMEs|https://labour.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-693|GST Composition Scheme for Small Businesses|https://www.gst.gov.in/composition": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-692|National Career Service (NCS) Portal \u2013 MSME Hiring|https://www.ncs.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-694|Input Tax Credit (ITC) Automation for MSMEs|https://www.gst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-695|GST Sahay \u2013 Working Capital Loans via GST Data|https://www.gst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-696|Vivad Se Vishwas Scheme (Tax Dispute Resolution)|https://www.incometaxindia.gov.in/vsv": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-701|Jawaharlal Nehru Aluminium Research & Design Centre (JNARDDC)|https://jnarddc.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-699|National Steel Policy Raw Material Security for MSMEs|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-700|MSME Steel Processing Cluster Scheme|https://steel.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-698|Faceless Assessment & Appeal Scheme for MSMEs|https://www.incometaxindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-704|OIDB \u2013 Oil Industry Development Board Grants|https://petroleum.nic.in/oidb": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-697|TReDS \u2013 Trade Receivables Discounting System|https://rxil.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-707|Gas Pooling Scheme for Fertiliser Plants|https://petroleum.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-708|LNG Terminal Development Incentive Scheme|https://petroleum.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-703|Zinc & Lead Processing MSME Support|https://mines.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-702|Copper Development Centre Scheme|https://www.hindustancopper.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-706|City Gas Distribution (CGD) Network Startup Opportunities|https://pngrb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-713|India-Israel R&D Fund for Aerospace Innovation|https://www.iserd.org.il": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-705|NELP/OALP \u2013 Hydrocarbon Exploration for Private Players|https://dge.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-710|MRO (Maintenance, Repair & Overhaul) Policy 2021|https://www.civilaviation.gov.in/mro": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-712|DGCA Regulatory Sandbox for eVTOL & AAM|https://www.dgca.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-711|National Aviation Security Fund|https://www.civilaviation.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-714|CSIR-NAL Technology Transfer for Aerospace MSMEs|https://www.nal.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-715|Common Facility Centre for Gems & Jewellery Clusters|https://www.gjepc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-716|India International Jewellery Week (IIJW) Support|https://www.gjepc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-709|Civil Aviation Research Organisation (CARO) Grants|https://www.civilaviation.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-717|Indian Footwear, Leather & Accessories Development Programme (IFLADP)|https://leatherindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-719|PLI Scheme for Leather & Footwear Products|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-720|National Leather Development Programme (NLDP)|https://leatherindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-718|Mega Leather, Footwear & Accessories Cluster (MLFAC)|https://leatherindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-722|Technology Upgradation of Leather Sector (TULS)|https://leatherindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-723|PLI Scheme for White Goods Including Furniture Components|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-721|CLFA (Council for Leather Exports) Marketing Support|https://www.leatherindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-725|Furniture & Fittings Skill Council Certification|https://ffsc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-730|National Chemical Policy for Green Chemistry|https://chemicals.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-724|National Action Plan for Forest Products (NAPFP)|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-726|Wood Based Industry Development Scheme|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-731|Pesticide Management Bill Framework for Agri-Chem Startups|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-728|Pulp & Paper Technology Mission|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-729|DPIIT Chemicals Investment Promotion Scheme|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-727|National Forest Policy for Paper Industry|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-737|Central Glass & Ceramic Research Institute (CGCRI) Incubation|https://cgcri.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-734|Rubber Plantation Development Scheme|https://rubberboard.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-739|RERA Startup Technology Solution Empanelment|https://rera.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-735|Coir Industry Development Scheme|https://coirboard.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-732|Explosives and Petroleum Safety Organisation (PESO) Startup Scheme|https://peso.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-736|Indian Ceramic Technology Cluster Scheme|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-743|CSIR Jigyasa \u2013 School-Lab Innovation Programme|https://csirjigyasa.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-733|National Rubber Policy for MSME Manufacturers|https://rubberboard.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-738|PM Awas Yojana \u2013 Beneficiary-Led Construction (BLC)|https://pmay-urban.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-745|IIT Delhi Foundation for Innovation & Technology Transfer (FITT)|https://fitt-iitd.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-746|IIT Madras Research Park Incubation|https://www.iitmrp.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-742|Pradhan Mantri Sahaj Bijli Har Ghar Yojana (SAUBHAGYA)|https://saubhagya.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-744|IIT Bombay SINE Incubation Programme|https://www.sineiitb.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-741|Green Building Rating System (GRIHA) Certification Support|https://www.grihaindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-740|National Buildings Construction Corporation (NBCC) Startup Tie-up|https://www.nbcc.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-748|NIT Trichy Technology Incubation Centre|https://nitt.edu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-749|IIST \u2013 Indian Institute of Space Science & Technology Startups|https://www.iist.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-747|IISc Entrepreneurship Cell & Startup Hub|https://www.iisc.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-755|ISB Hyderabad \u2013 DLabs Incubation|https://dlabs.isb.edu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-750|C-DAC AI Incubation Programme|https://www.cdac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-754|XLRI \u2013 Xavier School of Management Startup Support|https://www.xlri.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-758|USAID PACE India Programme for Startups|https://www.usaid.gov/india": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-752|IIM Bangalore NSRCEL Startup Programme|https://nsrcel.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-753|IIM Calcutta Innovation Park (IIMCIP)|https://iimcip.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-760|India-Israel Industrial R&D Fund (ISERD)|https://www.iserd.org.il": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-757|India-US Strategic Clean Energy Partnership (SCEP)|https://www.energy.gov/ia/india": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-756|IARI \u2013 Indian Agricultural Research Institute Startup Grants|https://www.iari.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-761|India-UK PRISM (Prosperity & Resilience through Innovation)|https://innovateuk.ukri.org/india": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-759|EU-India Innovation Cooperation|https://eic.ec.europa.eu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-765|India-Canada Industrial R&D Programme (IC-IMPACTS)|https://icimpacts.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-762|Indo-German Science & Technology Centre (IGSTC)|https://www.igstc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-768|National Crop Insurance Programme (NCIP)|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-763|India-Japan Startup Hub Initiative|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-770|IRDAI Motor Third Party Pooling for EV Startups|https://www.irdai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-771|Micro Insurance Scheme for Low Income Entrepreneurs|https://www.irdai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-764|ASEAN-India Innovation Platform|https://www.startupindia.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-766|Bilateral Trade Promotion Agreement (BTPA) Export Grants|https://commerce.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-769|Weather Based Crop Insurance Scheme (WBCIS)|https://pmfby.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-767|PMFBY \u2013 Crop Insurance for Agri Startups|https://pmfby.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-775|Indian Institute of Packaging (IIP) Technology Transfer|https://www.iip-in.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-776|FLEXPACK India Innovation Grant|https://www.iip-in.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-773|PLI Scheme for Printing Ink & Packaging Materials|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-778|Tele-Law Scheme \u2013 Legal Services Startup Integration|https://telelaw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-751|NCBS \u2013 National Centre for Biological Sciences Biotech Incubation|https://www.ncbs.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-772|Export Credit Guarantee Corporation (ECGC) Trade Credit Insurance|https://www.ecgc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-780|Nyaya Bandhu \u2013 Pro Bono Tech Startup Integration|https://nyayabandhu.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-774|Flexible Packaging Innovation Cluster Scheme|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-783|ATMA (Agricultural Technology Management Agency) Support|https://agricoop.nic.in/atma": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-784|MANAGE \u2013 National Institute of Agricultural Extension Grants|https://manage.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-777|National Legal Services Authority (NALSA) Tech Startup Programme|https://nalsa.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-779|Ministry of Law \u2013 Digital Courts Innovation Challenge|https://doj.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-782|ICRISAT Innovation Lab for Dryland Crops|https://www.icrisat.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-785|ICAR \u2013 National Fund for Basic, Strategic and Frontier Application Research|https://www.icar.org.in/nfbsfara": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-781|NABI \u2013 National Agri-Food Biotechnology Institute Incubation|https://www.nabi.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-786|Central Drug Research Institute (CDRI) Incubation Scheme|https://www.cdri.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-788|DBT\u2013BIRAC BIONEST for Healthcare Startups|https://birac.nic.in/bionest.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-789|DBT Wellcome India Alliance Research Grants|https://www.indiaalliance.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-790|NHSRC \u2013 National Health Systems Resource Centre Tech Grants|https://nhsrcindia.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-791|National e-Governance Division (NeGD) EdTech Innovation|https://www.negd.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-795|AICTE Idea Lab \u2013 Innovation & Design Excellence for Students|https://idealab.aicte-india.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-796|Logistics Data Bank (LDB) Service Provider Scheme|https://www.logisticsdatabank.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-797|Freight Operations Information System (FOIS) Startup Integration|https://fois.indianrailways.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-792|DIKSHA Platform for EdTech Startup Integration|https://diksha.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-798|Port Community System (PCS1x) Startup Partner Programme|https://www.pcs1x.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-794|NIT Startup \u2013 National Institute of Technology Incubation Seed Fund|https://aicte-india.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-793|CBSE Skill Education Lab Setup Scheme|https://www.cbse.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-801|Gujarat IT/ITeS Policy 2022-27 for Startups|https://dst.gujarat.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-799|National Logistics Policy \u2013 Ease of Logistics (ELOG)|https://dpiit.gov.in/nlp": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-800|NICDC Logistics Data Services for Startups|https://nicdc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-803|Maharashtra Startup Week Grants|https://startup.maharashtra.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-805|One Crore Internship Programme Karnataka|https://internship.karnataka.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-806|Karnataka Biotechnology Policy|https://kbits.kar.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-807|TANSIM \u2013 Tamil Nadu Startup & Innovation Mission|https://tansim.tn.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-787|ICMR Extramural Research Grants for MedTech|https://www.icmr.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-809|AP Innovation Society (APIS) Deep Tech Fund|https://apinnovation.ap.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-811|Hyderabad FinTech Valley Initiative|https://fintechvalley.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-810|Sunrise AP Startup Support Fund|https://sunrise.ap.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-808|TIDEL Park Incubation Scheme|https://tidel.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-804|MSRDC Infrastructure Startup Support|https://www.msrdc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-802|Vibrant Gujarat Startup Summit Grant|https://vibrantgujarat.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-813|KSUM IEDC (Innovation and Entrepreneurship Development Centre)|https://iedc.startupmission.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-814|Kerala Startup Mission Angel Network|https://startupmission.kerala.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-818|Odisha Livelihood Mission Startup Support|https://www.spsodisha.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-812|Telangana Emerging Technology Wing (ETW) Grants|https://tsiic.telangana.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-820|MP Laghu Udyog Nigam MSME Support|https://www.mplun.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-821|Punjab Rural Development & Panchayat Innovation Fund|https://panchayat.punjab.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-815|WEBEL IT Startup Incubation Scheme|https://www.webel.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-819|MPIDC Industrial Plot for Startups|https://mpidc.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-824|Bihar Industrial Area Development Authority (BIADA) Scheme|https://biada.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-825|JIDCO \u2013 Jharkhand Industrial Dev Corp Scheme|https://jidco.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-826|Assam Electronic Development Corporation (AMTRON) Incubation|https://amtron.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-828|HIMUDA Industrial Area Startup Plot Scheme|https://himuda.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-829|UPCL Green Energy Startup Incentive|https://upcl.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-816|Biswa Bangla Marketing Scheme for Handicrafts|https://biswabangla.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-831|J&K Handicrafts Development Corporation Scheme|https://jkhandicraft.jk.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-832|Ladakh Autonomous Hill Development Council \u2013 Startup Fund|https://lahdc-kargil.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-830|Goa Investment Promotion Board MSME Scheme|https://goaiipb.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-817|OCAC IT Startup Incubation Scheme|https://ocac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-822|Haryana Textile Policy 2019|https://haryanaindustries.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-827|CIPET \u2013 Central Institute of Petrochemicals Engineering CG Scheme|https://cipet.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-823|Rajasthan Agro Processing Startup Scheme|https://rajasthan.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-835|Centre of Excellence for Climate & Sustainability (CoECS)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-833|Mission IOCL for Hydrogen Technology Startups|https://iocl.com": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-834|POWER-Tech India \u2013 Power Sector Innovation Grants|https://powermin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-837|India Electronics Week Innovation Challenge|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-836|National Mission on Power Electronics Technology (NaMPET)|https://www.meity.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-838|Quantum Computing Applications Lab (QCAL)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-839|National Centre for Photonics Technology (NCPG)|https://dst.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-841|INSPIRe \u2013 Innovation in Science Pursuit for Inspired Research|https://www.online-inspire.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-840|CERN \u2013 India Innovate Collaboration Grants|https://www.tifr.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-842|NIDHI-Accelerator (DST) \u2013 Deep Tech Startup Acceleration|https://nidhi.dst.gov.in/accelerator": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-843|Open Network for Digital Commerce (ONDC) Seller Onboarding|https://ondc.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-844|National Retail Policy 2021 \u2013 MSME Retail Support|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-848|Extended Producer Responsibility (EPR) for Plastics|https://cpcb.nic.in/epr": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-845|PM Retail Credit Guarantee Scheme|https://www.ncgtc.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-846|DPIIT Retail Innovation Sandbox|https://dpiit.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-849|Battery Waste Management Rules \u2013 Startup Opportunity|https://cpcb.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-850|E-Waste Recycling Authorisation Scheme|https://cpcb.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-847|National Resource Efficiency Policy (NREP)|https://moef.gov.in/nrep": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-854|CPCB Green Credit Programme for Startups|https://cpcb.nic.in/green-credit": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-853|Municipal Solid Waste (MSW) Concession for Startups|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-851|Swachh Bharat Mission Urban \u2013 SWM Startup Support|https://sbmurban.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-852|Construction & Demolition Waste Processing Scheme|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-856|National Marine Fisheries Data Centre (NMFDC)|https://www.cmfri.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-855|Deep Ocean Mission \u2013 Mineral Extraction Startup|https://www.moes.gov.in/dom": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-858|National Fisheries Development Board (NFDB) Schemes|https://nfdb.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-857|Coastal Aquaculture Authority (CAA) Licensing for Startups|https://caa.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-861|National Smart Grid Mission (NSGM)|https://nsgm.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-859|Seaweed Mission \u2013 National Mission for Seaweed Cultivation|https://dof.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-864|Housing & Urban Development Corporation (HUDCO) Tech Scheme|https://hudco.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-863|Smart Cities Labs \u2013 Urban Innovation Challenge|https://smartcities.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-862|Smart Metering National Programme Startup Empanelment|https://powermin.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-860|Desalination Technology for Coastal MSMEs (CSIR-CSMCRI)|https://www.csmcri.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-865|Urban Innovation Challenge (UIC) \u2013 MoHUA|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-871|Pradhan Mantri Kisan Drones for Pesticide Spraying|https://agricoop.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-866|DST Inspire Faculty Award & Research Grant|https://www.online-inspire.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-872|National Mission for Protein Supplements (NMPS)|https://dahd.nic.in/nmps": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-867|Biotechnology Ignition Grant (BIG) Expansion Round|https://birac.nic.in/big.php": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-868|Science & Engineering Research Board (SERB) CRG Grant|https://www.serbonline.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-873|Horticulture Development Programme for NE and Himalayan States|https://midh.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-870|IISc MRDG Research Seed Grant for Startups|https://www.iisc.ac.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-878|PM Garib Kalyan Rozgar Abhiyan|https://rural.nic.in/pgkra": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-879|NARI Shakti Vandan Adhiniyam \u2013 Women Reservation Support Fund|https://wcd.nic.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-869|CSIR Research Associateship for Industry Projects|https://www.csir.res.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-874|Oil Palm Area Expansion (OPAE) Scheme|https://nmeo.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-881|PM POSHAN \u2013 National Programme for Mid Day Meals Vendor Scheme|https://pmposhan.education.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-875|MSME Performance and Credit Rating Scheme|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-883|Rural Self Employment Training Institutes (RSETI)|https://www.rseti.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-882|National Livelihood Mission \u2013 Digital Financial Inclusion|https://aajeevika.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-876|Quality Management Standards & Quality Tech Tools (QMS/QTT)|https://msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-885|India Stack Developer Access Programme|https://indiastack.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-877|Grievance Against Payment Delay (MSME SAMADHAAN Plus)|https://samadhaan.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-880|Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)|https://pmsma.mohfw.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-886|DigiLocker API Integration for Fintech KYC|https://digilocker.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-890|National Urban Sanitation Policy Innovation Challenge|https://mohua.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-884|Open Finance Framework for Embedded Lending Startups|https://www.rbi.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-889|National Action Plan on Marine Litter (NAPML) Innovation Grant|https://moef.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-888|National Mission for Sustainable Agriculture \u2013 Climate Change Adaptation|https://nmsa.dac.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-891|National Language Translation Mission (NLTM) \u2013 Bhashini Startup Integration|https://bhashini.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-887|Zero Defect Zero Effect (ZED) Green Certification|https://zed.msme.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-896|IITM Pravartak Technologies Foundation Incubation|https://pravartak.org.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-895|CESL Convergence EV Charging Startup Programme|https://cesl.co.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-894|Digital Sky Platform \u2013 NPNT Drone Certification|https://digitalsky.dgca.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-892|AI Pravega \u2013 AI Research Grants via IIT Consortium|https://indiaai.gov.in": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-893|Chip-to-Startup (C2S) Programme \u2013 VLSI Design Education|https://www.meity.gov.in/c2s": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-898|Amrita University \u2013 Ammachi Labs Social Innovation Fund|https://ammachilabs.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-900|World Bank MSME Development Programme India|https://www.worldbank.org/india": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-899|Manipal Academy MAHE Innovation Grants|https://manipal.edu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-897|BITS Pilani Technology Innovation Centre|https://www.bits-pilani.ac.in": {
+    "status": "failed",
+    "error": "Message: invalid session id; For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#invalidsessionidexception\nStacktrace:\n\tchromedriver!GetHandleVerifier [0x7ff68e0eaae5+60d695]\n\tchromedriver!GetHandleVerifier [0x7ff68daf2330+14ee0]\n\tchromedriver!(No symbol) [0x7ff68d6258e6]\n\tchromedriver!(No symbol) [0x7ff68d672106]\n\tchromedriver!(No symbol) [0x7ff68d6a94b2]\n\tchromedriver!(No symbol) [0x7ff68d6a32d2]\n\tchromedriver!(No symbol) [0x7f"
+  },
+  "row-897|Amrita University \u2013 Ammachi Labs Social Innovation Fund|https://ammachilabs.org": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-898|Manipal Academy MAHE Innovation Grants|https://manipal.edu": {
+    "status": "completed",
+    "error": ""
+  },
+  "row-899|World Bank MSME Development Programme India|https://www.worldbank.org/india": {
+    "status": "completed",
+    "error": ""
+  }
+}

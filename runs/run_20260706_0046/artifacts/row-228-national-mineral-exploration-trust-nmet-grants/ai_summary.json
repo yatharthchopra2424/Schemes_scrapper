@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-228",
+  "scheme_name": "National Mineral Exploration Trust (NMET) Grants",
+  "scheme_url": "https://nmet.nic.in",
+  "ministry_or_category": "Mining & Minerals",
+  "overview": "The National Mineral Exploration Trust (NMET) Grants scheme is established under the Mines and Minerals (Development and Regulation) Act, 2015 to promote regional and detailed mineral exploration across India. It provides financial assistance in the form of grants to state governments and other entities for conducting mineral exploration activities. The scheme aims to augment mineral resources through systematic exploration and reduce dependence on imports.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "public sector undertakings",
+    "joint venture companies",
+    "private entities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote regional and detailed mineral exploration in the country",
+    "Augment mineral resources through systematic and scientific exploration",
+    "Reduce dependence on mineral imports by enhancing domestic exploration",
+    "Support exploration for critical and strategic minerals",
+    "Encourage participation of state agencies and private sector in exploration activities",
+    "Ensure transparent and efficient utilization of funds for exploration purposes"
+  ],
+  "eligibility": "State Governments, Public Sector Undertakings (PSUs), Joint Venture Companies, and other entities engaged in mineral exploration activities are eligible to apply for NMET grants. Proposals must be for exploration of minerals specified in the First Schedule of the Mines and Minerals (Development and Regulation) Act, 2015, and must follow the guidelines issued by NMET from time to time.",
+  "benefits": "Financial support for conducting mineral exploration including reconnaissance, prospecting, and general exploration. Benefits include funding for geophysical surveys, geochemical sampling, drilling, and related exploration activities. The scheme enables access to unexplored or under-explored mineral blocks and supports capacity building in exploration technologies.",
+  "financial_support": "NMET provides grants covering up to 50% of the total project cost for exploration activities, with the remaining 50% to be borne by the applicant. The grant is disbursed in installments based on project milestones and submission of utilization certificates and progress reports as per NMET guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit a detailed project proposal for mineral exploration to the NMET Secretariat. 2. The proposal must include objectives, methodology, budget, timeline, and expected outcomes. 3. Proposals are reviewed by the Technical Committee constituted by NMET. 4. Upon approval, a sanction letter is issued specifying the grant amount and terms. 5. Funds are released in stages based on progress reports and utilization certificates. 6. Final report and audit report must be submitted upon project completion.",
+  "application_portal_url": "https://nmet.nic.in",
+  "required_documents": [
+    "Detailed project report",
+    "Budget estimate",
+    "Exploration license or permission letter from concerned state government",
+    "Undertaking for 50% cost sharing",
+    "Utilization certificates and progress reports (for installment claims)",
+    "Final report and audit report upon completion"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year as per NMET notifications",
+  "implementing_agency": "National Mineral Exploration Trust (NMET), under the Ministry of Mines, Government of India",
+  "contact_details": "Email: nmetscheme@gmail.com | Phone: +91-11-23383781",
+  "caveats": [
+    "Grant is limited to 50% of project cost; applicant must bear remaining 50%",
+    "Funds are released only upon submission of satisfactory progress reports and utilization certificates",
+    "Projects must be completed within the stipulated timeline; extensions require prior approval",
+    "NMET reserves the right to reject or modify proposals based on technical feasibility and fund availability"
+  ],
+  "source_cited_notes": [
+    "https://nmet.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:23:42.762898+00:00"
+}

@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-786",
+  "scheme_name": "Central Drug Research Institute (CDRI) Incubation Scheme",
+  "scheme_url": "https://www.cdri.res.in",
+  "ministry_or_category": "HealthTech Startups",
+  "overview": "The Central Drug Research Institute (CDRI) Incubation Scheme supports HealthTech startups by providing access to CDRI's research infrastructure, expertise, and facilities for drug discovery and development. The scheme aims to foster innovation in the pharmaceutical sector by enabling startups to leverage CDRI's capabilities in formulation development, pharmacokinetics, toxicity screening, and analytical services. It is designed to bridge the gap between academic research and commercialization, particularly for MSMEs and startups in the pharmaceutical domain.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support formulation development and pharmacokinetics studies for drug candidates",
+    "Provide access to GLP-compliant toxicity and safety testing for new chemical entities",
+    "Enable analytical and bioanalytical method development and validation",
+    "Offer access to advanced facilities such as SAIF, X-ray crystallography, and Biolayer Interferometry",
+    "Support national health priorities through translational research in infectious diseases, cancer, metabolic disorders, and more",
+    "Facilitate collaboration between academia, industry, and government for affordable healthcare solutions"
+  ],
+  "eligibility": "The scheme is open to MSMEs and startups operating in the pharmaceutical sector that require support in formulation development, analytical method validation, pharmacokinetics, toxicity screening, or access to specialized instruments such as SAIF, X-ray crystallography, or Biolayer Interferometry. Applicants must be engaged in drug discovery or development activities aligned with national health priorities.",
+  "benefits": "Startups and MSMEs gain access to CDRI's state-of-the-art facilities including the Sophisticated Analytical Instrument Facility (SAIF), Biological Screening units, Toxicity and Safety testing (GLP-compliant), Formulation Development and Pharmacokinetics suite, X-Ray Crystallography, National Laboratory Animal Center, and Biolayer Interferometry. These services support end-to-end drug development from early screening to preclinical validation. The collaboration is funded jointly by the Department of Scientific and Industrial Research (DSIR) and the Council of Scientific and Industrial Research (CSIR).",
+  "financial_support": "The scheme does not provide direct financial grants or funding to startups. Instead, it offers access to CDRI's research infrastructure and technical expertise on a collaborative or service basis, with costs potentially subsidized or shared under the DSIR-CSIR joint funding model. Specific fee structures or waivers are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the CDRI CRTDH portal at https://cdri.res.in/crtdh-home 2. Review the available services and facilities under the CRTDH initiative 3. Initiate collaboration by contacting CDRI through the provided contact channels 4. Submit a proposal outlining the required support (e.g., formulation development, analytical testing, pharmacokinetics) 5. Undergo technical evaluation by CDRI experts 6. Execute a collaboration agreement or service contract 7. Access the agreed-upon facilities and expertise 8. Receive progress reports and final deliverables as per the agreement",
+  "application_portal_url": "https://cdri.res.in/crtdh-home",
+  "required_documents": [
+    "Company incorporation certificate",
+    "PAN of the entity",
+    "GST registration (if applicable)",
+    "Project proposal detailing required support",
+    "Information on the drug candidate or technology being developed",
+    "Details of any existing funding or partnerships",
+    "Authorization letter from the signatory"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Council of Scientific and Industrial Research (CSIR) - Central Drug Research Institute (CDRI), Lucknow",
+  "contact_details": "Email: recruit.cdri@csir.res.in (as referenced in recruitment notices; general inquiries may be directed via the CDRI website)",
+  "caveats": [
+    "Access to facilities is subject to technical evaluation and availability",
+    "Services may involve cost-sharing or fees, though subsidized under DSIR-CSIR funding",
+    "Collaboration is limited to pharmaceutical and biomedical research domains",
+    "Intellectual property rights must be clarified in advance through mutual agreement",
+    "The scheme does not provide seed funding or equity investment"
+  ],
+  "source_cited_notes": [
+    "https://cdri.res.in/crtdh-home",
+    "https://cdri.res.in/alumni"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:53:19.173891+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-405",
+  "scheme_name": "India Enterprise Architecture (InEA)",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "India Enterprise Architecture (InEA) is a framework under the Digital India initiative by the Ministry of Electronics and Information Technology (MeitY) aimed at establishing a standardized, interoperable, and secure enterprise architecture for government systems and digital services. It seeks to align IT investments with national goals, improve efficiency, and enable seamless data exchange across departments. The framework supports the design, development, and deployment of scalable and future-ready digital infrastructure in line with India’s digital transformation objectives.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "government departments",
+    "public sector undertakings",
+    "state governments",
+    "central ministries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish a standardized enterprise architecture framework for government IT systems",
+    "Ensure interoperability, security, and scalability of digital services across departments",
+    "Optimize IT investments and reduce redundancy in government technology spending",
+    "Enable seamless data exchange and integration through common standards and protocols",
+    "Support the Digital India vision by building a future-ready, citizen-centric digital infrastructure",
+    "Provide guidelines and reference architectures for e-governance projects and digital initiatives"
+  ],
+  "eligibility": "The framework is applicable to all central government ministries/departments, state governments, union territories, and their agencies undertaking IT system design, development, or modernization under Digital India and related initiatives.",
+  "benefits": "InEA provides a structured approach to IT planning, promotes reuse of components, ensures compliance with national standards (such as e-Gov standards), enhances system reliability and security, facilitates cloud adoption, and supports long-term maintainability and scalability of government digital systems.",
+  "financial_support": "InEA is a policy and technical framework; it does not involve direct financial support, grants, or subsidies to entities. Implementation is carried out through budgetary allocations of respective ministries/departments for their IT projects aligned with the framework.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "As a framework, InEA does not have a traditional application process. Ministries and departments adopt its guidelines during the planning and design phases of IT projects. Adoption involves referencing InEA guidelines, aligning system architecture with its principles, and undergoing review by MeitY or designated technical committees for compliance.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — adoption is ongoing as part of project planning cycles",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "InEA is a guiding framework and not a funding scheme; financial support must be sourced separately",
+    "Adoption is mandatory for new major IT initiatives under Digital India but relies on internal compliance mechanisms",
+    "Implementation effectiveness depends on technical capacity and change management within user organizations"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/",
+    "https://meity.gov.in/offerings",
+    "https://meity.gov.in/connect"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:20:08.748359+00:00"
+}

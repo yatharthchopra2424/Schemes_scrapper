@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-401",
+  "scheme_name": "Electricity Amendment Act – Open Access for MSMEs",
+  "scheme_url": "https://powermin.gov.in",
+  "ministry_or_category": "Power & Electricity",
+  "overview": "The Electricity Amendment Act – Open Access for MSMEs is a policy initiative aimed at enabling Micro, Small, and Medium Enterprises (MSMEs) to access electricity through open access mechanisms, allowing them to procure power directly from generators or traders rather than being restricted to local distribution companies. This scheme promotes competition, reduces electricity costs, and enhances energy choice for MSMEs by facilitating their participation in open access transactions under the Electricity Act, 2003. It supports the broader goal of making the power sector more efficient, transparent, and consumer-centric.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable MSMEs to access electricity through open access mechanisms",
+    "Reduce electricity costs for MSMEs by promoting competition in power procurement",
+    "Enhance energy choice and reliability for MSME consumers",
+    "Promote transparency and efficiency in the power sector",
+    "Support the integration of renewable energy by enabling MSMEs to source green power",
+    "Facilitate ease of doing business for MSMEs in the electricity domain"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises (MSMEs) as defined under the MSME Development Act, 2006, seeking to procure electricity through open access under the Electricity Act, 2003, and meeting the technical and regulatory requirements set by the Central Electricity Regulatory Commission (CERC) or State Electricity Regulatory Commissions (SERCs) for open access consumers.",
+  "benefits": "MSMEs can procure electricity directly from power generators or through open access, potentially reducing electricity costs through competitive pricing; access to renewable energy sources; improved power supply reliability; freedom to choose power suppliers; and enhanced operational flexibility in energy management.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants. Instead, it enables cost savings through market-based power procurement under open access, where MSMEs can negotiate power purchase agreements (PPAs) at competitive rates, avoiding high retail tariffs imposed by distribution companies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. MSMEs must first confirm their eligibility as an open access consumer under the Electricity Act, 2003 and relevant CERC/SERC regulations. 2. They must apply for open access approval to the designated nodal agency (typically the State Transmission Utility or State Load Despatch Centre). 3. Submit required documents including MSME registration, proof of identity, address, and details of the proposed power procurement arrangement. 4. Upon approval, sign a Long-Term Access (LTA) or Medium-Term Open Access (MTOA) agreement with the transmission utility. 5. Coordinate with the chosen power generator/trader for scheduling and energy accounting. 6. Commence power draw under open access after meeting all technical and commercial conditions.",
+  "application_portal_url": "",
+  "required_documents": [
+    "MSME Registration Certificate (Udyam Registration)",
+    "Proof of Identity (PAN, Aadhaar, etc.)",
+    "Proof of Address (Electricity bill, property tax receipt, etc.)",
+    "Details of the proposed power procurement (generator/trader information, PPA draft)",
+    "Single Line Diagram (SLD) of the electrical installation",
+    "No Objection Certificate (NOC) from the local distribution company (if required)",
+    "Technical feasibility report from the transmission utility"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year as per the procedures of the respective State Transmission Utility or Load Despatch Centre.",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Open access approval is subject to availability of transmission capacity and grid constraints",
+    "MSMEs must bear all transmission charges, losses, and applicable surcharges as determined by CERC/SERC",
+    "Cross-subsidy surcharge and additional surcharge may apply as per state-specific open access regulations",
+    "Approval process may vary across states and is governed by respective State Electricity Regulatory Commissions (SERCs)",
+    "The scheme does not provide financial subsidies; cost benefits depend on market prices and negotiation"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/",
+    "https://powermin.gov.in/offerings",
+    "https://powermin.gov.in/documents/acts-and-policies",
+    "https://powermin.gov.in/static/uploads/2025/06/06a368fa9e8285c9ae2c3370b038ca6e.pdf",
+    "https://powermin.gov.in/static/uploads/2025/06/6303f53b4ca6fe43e86eeb2f3f4cfcce.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:17:30.610739+00:00"
+}

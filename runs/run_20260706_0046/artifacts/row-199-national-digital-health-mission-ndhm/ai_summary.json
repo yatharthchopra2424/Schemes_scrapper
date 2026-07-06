@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-199",
+  "scheme_name": "National Digital Health Mission (NDHM)",
+  "scheme_url": "https://abdm.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "Ayushman Bharat Digital Mission (ABDM) aims to develop the backbone necessary to support the integrated digital health infrastructure of the country by bridging the existing gap amongst different stakeholders of the healthcare ecosystem through digital highways. It enables citizens to generate a unique health identifier called Ayushman Bharat Health Account (ABHA) to access and share health records digitally. The mission includes components such as ABHA Number, Health Facility Registry, Healthcare Professionals Registry, Unified Health Interface, and National Health Claims Exchange.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "citizens",
+    "health facilities",
+    "healthcare professionals",
+    "health tech companies",
+    "states"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop the backbone necessary to support the integrated digital health infrastructure of the country",
+    "Bridge the existing gap amongst different stakeholders of the healthcare ecosystem through digital highways",
+    "Enable citizens to generate a unique health identifier (ABHA) for accessing and sharing health records digitally",
+    "Create a comprehensive repository of public and private health facilities across different systems of medicine",
+    "Empower healthcare professionals to join the ABDM ecosystem and be part of the healthcare digital transformation in India",
+    "Foster integration of digital platforms in healthcare through engagement with health tech companies",
+    "Accelerate the adoption of ABDM in public and private health systems through state government and health authorities"
+  ],
+  "eligibility": "Citizens or individuals can generate a unique health identifier called the Ayushman Bharat Health Account or ABHA. Health facilities (public and private) across all systems of medicine can register on the Health Facility Registry. Healthcare professionals (doctors, nurses, paramedics, allied health workers) across all systems of medicine can register on the Healthcare Professionals Registry. Health tech companies can engage with ABDM to integrate and validate software systems with ABDM APIs. State governments and health authorities can adopt ABDM to improve healthcare services.",
+  "benefits": "Citizens can access and share health records digitally, receive digital lab reports, prescriptions, and diagnosis seamlessly from verified healthcare providers. Health facilities get connected to India's digital health ecosystem. Healthcare professionals get connected to India's digital health ecosystem. Health tech companies benefit from increasing market demand for ABDM-compliant HMIS, increased credibility for ABDM-certified products, and improved ease of doing business. States improve healthcare planning and management, formulate data-driven policies, and enhance healthcare availability, accessibility, and quality for citizens.",
+  "financial_support": "The Ayushman Bharat Digital Mission does not provide direct financial support to beneficiaries. It is a digital infrastructure initiative focused on creating registries, enabling interoperability, and providing digital health services. Financial aspects are not detailed in the evidence; the mission operates through government funding and partnerships without specifying grants, loans, or subsidies to end users.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. For citizens: Visit https://abha.abdm.gov.in/register to generate an ABHA number. 2. For health facilities: Visit https://facility.abdm.gov.in/ to register on the Health Facility Registry. 3. For healthcare professionals: Visit https://hpr.abdm.gov.in/en to register on the Healthcare Professionals Registry. 4. For health tech companies: Integrate and validate software systems with ABDM APIs via the ABDM Sandbox at https://sandbox.abdm.gov.in/. 5. For states: Refer to https://abdm.gov.in/resources/for-states for strategic overview and technical guidelines, and check adoption status at https://dashboard.abdm.gov.in/abdm/. 6. For e-Sushrut Clinic registration: Visit https://ehmis-lite.in/AHIMSG5/hissso/logoutLogin, generate or validate HPR ID, generate or validate HFR ID, and complete onboarding.",
+  "application_portal_url": "https://abha.abdm.gov.in/register",
+  "required_documents": [
+    "Aadhaar ID (for ABHA, HPR, HFR registration)",
+    "Mobile number linked to Aadhaar (for OTP verification)",
+    "Personal details: Name, Year of Birth, Gender, State, District, Email (for ABHA registration)",
+    "Facility name, location, operational status, services offered, ownership details (for HFR registration)",
+    "Healthcare professional details (for HPR registration)",
+    "Credentials to create an account on e-Sushrut Clinic"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "National Health Authority (NHA), Ministry of Health and Family Welfare",
+  "contact_details": "Email: abdm[at]nha[dot]gov[dot]in | Toll-free-number: 1800-11-4477 | Contact Address: 9th Floor, Tower-I, Jeevan Bharati Building, Connaught Place, New Delhi - 110 001",
+  "caveats": [
+    "Participation in the National Digital Health Ecosystem (NDHE) is purely voluntary.",
+    "ABHA creation requires consent for data sharing and processing.",
+    "Data retention and deletion are subject to user consent and applicable laws.",
+    "The mission does not guarantee availability of linked external pages or endorse third-party content.",
+    "Information on the website may change prior to updating, and NHA assumes no legal liability for completeness or accuracy."
+  ],
+  "source_cited_notes": [
+    "https://abdm.gov.in/",
+    "https://abdm.gov.in/citizens",
+    "https://abdm.gov.in/health-facilities",
+    "https://abdm.gov.in/healthcare-professionals",
+    "https://abdm.gov.in/health-tech-companies",
+    "https://abdm.gov.in/for-states",
+    "https://abdm.gov.in/HMIS-lite",
+    "https://abdm.gov.in/abdm-components"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:12:54.038221+00:00"
+}

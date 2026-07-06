@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-602",
+  "scheme_name": "India Semiconductor Mission (ISM) Startup Support",
+  "scheme_url": "https://semicon.gov.in/ism",
+  "ministry_or_category": "Semiconductors",
+  "overview": "The India Semiconductor Mission (ISM) Startup Support is a government initiative under the Ministry of Electronics and Information Technology (MeitY) aimed at fostering innovation and entrepreneurship in the semiconductor and display manufacturing sectors. It provides financial and non-financial support to startups engaged in semiconductor design, manufacturing, packaging, testing, and related advanced technologies. The scheme aims to strengthen India’s position in the global semiconductor value chain by nurturing early-stage ventures through incubation, mentorship, and funding linkages.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation and R&D in semiconductor technologies",
+    "Support early-stage startups in-house design and development of semiconductor products",
+    "Facilitate access to advanced fabrication and testing facilities",
+    "Provide mentorship and industry connect for technology commercialization",
+    "Encourage IP creation and patenting in semiconductor domain",
+    "Enable startups to scale through funding and market linkages",
+    "Strengthen India’s semiconductor ecosystem and reduce import dependence"
+  ],
+  "eligibility": "Startups incorporated under the Companies Act, 2013 or as an LLP, working in semiconductor design, manufacturing, packaging, testing, or related advanced technologies, with a focus on innovation and technology development, and recognized by DPIIT or recommended by ISM-approved incubators.",
+  "benefits": "Access to ISM-approved incubation centers, mentorship from industry experts, technical support for design and prototyping, facilitation of access to semiconductor fab and testing labs, support for IP filing and patenting, assistance in regulatory compliance, and linkages to investors and industry partners.",
+  "financial_support": "Financial support includes seed funding of up to INR 50 Lakhs per startup through approved incubators, disbursed as grants or convertible notes based on milestone achievement, and support for accessing follow-on funding from government funds or private investors.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 Lakhs",
+  "application_process": "1. Apply through an ISM-approved incubation center 2. Submit startup profile, technology proposal, and team details 3. Undergo technical and business evaluation by the incubator 4. Receive recommendation from the incubator to ISM 5. ISM reviews and approves support package 6. Sign agreement and receive financial and non-financial support 7. Submit periodic progress reports and utilization certificates.",
+  "application_portal_url": "https://semicon.gov.in/ism",
+  "required_documents": [
+    "Certificate of Incorporation or LLP Agreement",
+    "PAN of the startup",
+    "Audited financial statements (if any)",
+    "Technology proposal or project report",
+    "Details of founders and key team members",
+    "IP details (if any)",
+    "Bank account details",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on availability of funds and incubator capacity.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ism@meity.gov.in | Helpline: 1800-11-6666",
+  "caveats": [
+    "Financial support is subject to availability of funds and approval by ISM",
+    "Startups must achieve predefined milestones to continue receiving support",
+    "Support may be withdrawn for non-compliance with reporting or utilization norms",
+    "Only startups recommended by ISM-approved incubators are eligible for direct ISM support"
+  ],
+  "source_cited_notes": [
+    "https://semicon.gov.in/ism"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:01:30.860386+00:00"
+}

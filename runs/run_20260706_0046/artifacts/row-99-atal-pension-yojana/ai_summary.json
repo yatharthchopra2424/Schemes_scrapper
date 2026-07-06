@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-99",
+  "scheme_name": "Atal Pension Yojana",
+  "scheme_url": "https://www.npscra.nsdl.co.in/apy",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "Atal Pension Yojana (APY) is a government-backed pension scheme launched in 2015 to provide a defined pension to subscribers in the unorganized sector. It guarantees a minimum monthly pension ranging from ₹1,000 to ₹5,000 upon reaching the age of 60, based on contributions made during the working years. The scheme is administered by the Pension Fund Regulatory and Development Authority (PFRDA) through the National Pension System (NPS) architecture. Subscribers who join between the ages of 18 and 40 are eligible, with contributions varying according to the chosen pension amount and age of entry.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "unorganized sector workers",
+    "low-income individuals"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a guaranteed minimum pension to workers in the unorganized sector",
+    "To encourage voluntary savings for old age among economically disadvantaged groups",
+    "To reduce dependency on family or state support in old age",
+    "To expand pension coverage to all citizens, especially those not covered by any statutory pension scheme"
+  ],
+  "eligibility": "Any citizen of India aged between 18 and 40 years can join the Atal Pension Yojana. The subscriber must have a savings bank account or a post office savings account. Individuals who are already covered under any statutory social security scheme (such as EPF, ESIC, or NPS) are not eligible to enroll in APY.",
+  "benefits": "Subscribers receive a guaranteed monthly pension of ₹1,000, ₹2,000, ₹3,000, ₹4,000, or ₹5,000 upon attaining the age of 60, depending on the contribution chosen. The government provides a co-contribution of 50% of the subscriber's contribution or ₹1,000 per annum, whichever is lower, for eligible subscribers who joined between 2015-16 and 2019-20 and are not beneficiaries of any other statutory social security scheme and not income tax payers. In case of the subscriber's death, the spouse is entitled to receive the same pension amount, and upon the death of both the subscriber and spouse, the nominee receives the accumulated corpus.",
+  "financial_support": "The financial support under APY consists of a government co-contribution of 50% of the subscriber's annual contribution or ₹1,000 per annum, whichever is lower, for eligible subscribers who joined the scheme between 2015-16 and 2019-20 and meet specific criteria (not covered under any statutory social security scheme and not income tax payers). The subscriber's own contribution varies based on the chosen pension slab and age of entry, ranging from ₹42 per month for a ₹1,000 pension at age 18 to ₹1,454 per month for a ₹5,000 pension at age 40. Contributions are made monthly, quarterly, or half-yearly through auto-debit from the subscriber's bank account.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit a bank branch or post office where you hold a savings account. 2. Fill out the APY registration form available at the branch or download it from the NSDL-CRA or PFRDA website. 3. Provide your savings bank account details and Aadhaar number for authentication. 4. Choose the desired monthly pension amount (₹1,000 to ₹5,000) based on which the contribution amount is calculated. 5. Submit the completed form along with a copy of your Aadhaar card. 6. Authorize auto-debit of the monthly contribution from your savings bank account. 7. Receive confirmation of enrollment and a Permanent Retirement Account Number (PRAN).",
+  "application_portal_url": "https://www.npscra.nsdl.co.in/apy",
+  "required_documents": [
+    "Aadhaar card",
+    "Savings bank account details (for auto-debit authorization)",
+    "Completed APY registration form"
+  ],
+  "deadlines": "Rolling basis — subscriptions are accepted throughout the year.",
+  "implementing_agency": "Pension Fund Regulatory and Development Authority (PFRDA)",
+  "contact_details": "Helpline: 1800-110-789 | Email: apy@pfrda.org.in",
+  "caveats": [
+    "Government co-contribution is available only for subscribers who joined between 2015-16 and 2019-20 and are not beneficiaries of any statutory social security scheme and not income tax payers",
+    "Early exit before age 60 is permitted only in exceptional circumstances such as terminal illness or death, where the subscriber or nominee receives the savings balance or the government co-contribution is returned",
+    "Failure to maintain sufficient balance for auto-debit may lead to account deactivation after a grace period",
+    "The fixed pension amounts are not indexed to inflation"
+  ],
+  "source_cited_notes": [
+    "https://www.npscra.nsdl.co.in/apy"
+  ],
+  "last_updated_date": "",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:14:37.712424+00:00"
+}

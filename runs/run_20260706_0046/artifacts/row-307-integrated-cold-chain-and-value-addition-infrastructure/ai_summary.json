@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-307",
+  "scheme_name": "Integrated Cold Chain and Value Addition Infrastructure",
+  "scheme_url": "https://mofpi.gov.in",
+  "ministry_or_category": "Food Processing",
+  "overview": "The Integrated Cold Chain and Value Addition Infrastructure scheme is a component of the Pradhan Mantri Kisan SAMPADA Yojana (PMKSY) aimed at creating modern infrastructure for cold chain and value addition from farm gate to retail outlet. It supports setting up of integrated cold chain projects including irradiation units, cold storage, and value addition facilities to reduce post-harvest losses, increase processing levels, and enhance exports. The scheme provides financial assistance in the form of grants-in-aid for infrastructure development in the food processing sector.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "MSME",
+    "agri-startups",
+    "food processing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Create modern infrastructure with efficient supply chain management from farm gate to retail outlet",
+    "Provide a big boost to the growth of food processing sector in the country",
+    "Help in providing better returns to farmers and double farmers' income",
+    "Create huge employment opportunities especially in rural areas",
+    "Reduce wastage of agricultural produce",
+    "Increase the processing level of perishable commodities",
+    "Enhance the export of processed foods"
+  ],
+  "eligibility": "All Universities, IITs, Central/State Government Institutions, Government funded Organizations, R&D laboratories and CSIR recognized R&D units in private sector are eligible under the Research & Development scheme. For the Integrated Cold Chain and Value Addition Infrastructure component, eligibility criteria are specified in the scheme guidelines and include prospective entrepreneurs, SC/ST category applicants, and NER region applicants as per EOI notices.",
+  "benefits": "Financial assistance in the form of grants-in-aid for setting up infrastructure projects in the food processing sector. Benefits include support for cold chain, value addition infrastructure, irradiation units, and backward-forward linkages. The scheme facilitates release of funds in instalments based on compliance with approval letters, utilization certificates, and technical civil work completion. It also supports NABL accreditation for food testing laboratories and provides impetus to employment generation, farmer income growth, and export enhancement.",
+  "financial_support": "Financial assistance is provided as grants-in-aid released in instalments. The first instalment (50% of grants-in-aid) is released upon acceptance letter and compliance with enclosures, including geo-tagged photographs, building plans, and confirmation of 50% equity and term loan expenditure. The second instalment (50%) is released upon submission of utilization certificate, confirmation of 100% expenditure of equity, term loan, and grants-in-aid, NABL accreditation status, and proof of project completion and commercialization. Funds are released through the EAT module of PFMS.",
+  "fund_size_crores": "6000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit Expression of Interest (EOI) as per notices issued under the scheme. 2. Attend pre-bid meetings as scheduled. 3. Submit detailed proposals in response to EOI or RFP for engagement of PMA. 4. Undergo technical and project approval committee review. 5. Receive approval letter from Inter-Ministerial Approval Committee (IMAC). 6. Fulfill compliance requirements for first instalment: submit acceptance letter, compliance documents, geo-tagged photographs, building plan, and proof of 50% equity and term loan expenditure. 7. Submit utilization certificate and related documents for second instalment. 8. Obtain NABL accreditation for food testing laboratories where applicable. 9. Submit proof of project completion and commercialization.",
+  "application_portal_url": "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+  "required_documents": [
+    "Acceptance Letter (Annexure-VI)",
+    "Geo-tagged photographs of the project from various angles and locations",
+    "Building plan/Blue Print/Lay-out/photo of the building",
+    "Final term loan sanction letter from the Bank",
+    "Confirmation from bank that 50% of term loan has been disbursed",
+    "Utilization certificate of grant availed earlier from MoFPI (if any)",
+    "Copies of Bank statements giving details of payment made to the suppliers",
+    "Detailed list of approved equipment procured and installed indicating approved and actual cost as per Annexure-VIII(a)",
+    "Details of Technical Civil Work and Furniture and Fixture purchased/done as per Annexure-VIII(b)",
+    "Self-attested English/Hindi version of land document in support of land title",
+    "Notarised Surety Bond in prescribed format (Annexure-IX) on non-judicial stamp paper of not less than Rs. 100/-",
+    "Utilization Certificate generated through EAT Module of PFMS for grants-in-aid released as 1st instalment",
+    "Certificate as per Annexure-VII indicating 100% expenditure of equity, term loan, and grants-in-aid",
+    "Detailed Status of NABL accreditation for the facility created",
+    "Confirmation from bank that 100% term loan has been disbursed",
+    "Self-declaration as to completion and commercialization of the project as per Annexure-X",
+    "Proof of prominent display on front of the project/vehicles stating “Project is assisted by the Ministry of Food Processing Industries, Government of India”"
+  ],
+  "deadlines": "Rolling basis — EOIs are invited periodically with specific closing dates (e.g., EoI dated 20.05.2026 for irradiation units, EoI dated 27.05.2025 for multiproduct food irradiation units).",
+  "implementing_agency": "Ministry of Food Processing Industries",
+  "contact_details": "Email: pankaj[dot]kumar1975[at]gov[dot]in | Tel: 011-26406510",
+  "caveats": [
+    "The scheme has been discontinued for some components (Mega Food Park, Creation of Backward & Forward Linkages, Human Resource & Institution - Promotional Activities, Skill Development & HACCP) in the 15th Finance Commission cycle with provision for committed liabilities only.",
+    "Funds are released only upon strict compliance with approval letter terms and conditions.",
+    "Surety Bond is not required to be executed by Central/State Government Departments.",
+    "In case of registered leasehold land, duration of lease should not be less than 15 years.",
+    "Blacklisting/debarring may occur for misuse of grant-in-aid (e.g., M/s Paras Spices, M/s Vision Fresh and Frozen)."
+  ],
+  "source_cited_notes": [
+    "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+    "https://mofpi.gov.in/Schemes/cold-chain/download-guidelines-0",
+    "https://mofpi.gov.in/Schemes/cold-chain/download-circulars-0",
+    "https://mofpi.gov.in/Schemes/food-safety-quality-assurance-infrastructure/setting-gradation-quality-control-food-testing-laboratory/release-funds",
+    "https://mofpi.gov.in/en/Schemes/about-mega-food-park-scheme"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:14:32.991775+00:00"
+}

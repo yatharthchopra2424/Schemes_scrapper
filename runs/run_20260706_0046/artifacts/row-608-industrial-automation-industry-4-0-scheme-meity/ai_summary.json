@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-608",
+  "scheme_name": "Industrial Automation & Industry 4.0 Scheme – MeitY",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Robotics & Automation",
+  "overview": "The Industrial Automation & Industry 4.0 Scheme – MeitY is a government initiative aimed at promoting the adoption of advanced automation technologies and Industry 4.0 solutions in Indian industries. It focuses on enhancing manufacturing competitiveness through digital transformation, smart factories, and integration of cyber-physical systems. The scheme supports technology transfer, skill development, and infrastructure modernization to align with national goals of self-reliance and technological leadership.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "manufacturing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of Industry 4.0 technologies in Indian manufacturing",
+    "Enhance productivity and global competitiveness through automation",
+    "Support technology transfer and indigenous development of automation solutions",
+    "Facilitate skill development and workforce readiness for smart manufacturing",
+    "Encourage investment in digital infrastructure and smart factory initiatives",
+    "Strengthen collaboration between industry, academia, and research institutions",
+    "Enable real-time monitoring, predictive maintenance, and data-driven decision making",
+    "Align with national missions such as Make in India and Digital India"
+  ],
+  "eligibility": "Indian companies, startups, and manufacturing units registered in India, with relevant experience in manufacturing, installation, marketing, or implementation of products through Transfer of Technology (ToT) and Licensing. Bidders from countries sharing a land border with India can participate only if registered with the Department for Promotion of Industry and Internal Trade (DPIIT).",
+  "benefits": "Access to indigenous automation technologies developed by C-DAC, opportunities for technology licensing and commercialization, technical support for implementation, training for technology partners, field implementation assistance, and potential for direct implementation by C-DAC. Financial benefits include one-time subscription licenses and software subscription licenses with defined payment terms.",
+  "financial_support": "Financial support is structured through one-time Technology Transfer (ToT) subscription licenses and software subscription licenses. Payment terms are defined for these licenses, with costs to be borne by the bidder. The scheme does not provide grants or subsidies but facilitates access to technology under defined commercial terms. C-DAC does not bear liability for costs incurred by bidders during the EOI process.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Download EOI documents from www.cdac.in. 2. Review specifications and instructions carefully. 3. Ensure compliance with all terms to avoid disqualification. 4. Prepare and submit bids as per the terms and conditions in the document. 5. Upload bids through the designated process. 6. Await evaluation and negotiation for a valid ToT agreement. 7. Complete training and field implementation as per agreement terms.",
+  "application_portal_url": "www.cdac.in",
+  "required_documents": [
+    "Company Profile of the bidder",
+    "Technical Collaborations of the bidder",
+    "Financial Bid Format"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: js.ssoffice@meity.gov.in | Phone: +91-11-24301815",
+  "caveats": [
+    "Bidders bear all costs incurred in participation, including bid preparation and negotiations",
+    "C-DAC reserves the right to decline discussion or alter the EOI process without assigning reasons",
+    "Incomplete or late submissions are liable to be ignored and rejected",
+    "Submission of false documents is strictly prohibited and leads to rejection",
+    "Each bidder may submit only one bid; multiple bids lead to summary rejection",
+    "The EOI is non-binding on C-DAC and its authorities",
+    "Bidders must make their own inquiries; information provided is not exhaustive"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:08:01.933093+00:00"
+}

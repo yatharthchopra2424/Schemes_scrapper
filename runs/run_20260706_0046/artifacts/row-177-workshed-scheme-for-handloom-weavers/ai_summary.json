@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-177",
+  "scheme_name": "Workshed Scheme for Handloom Weavers",
+  "scheme_url": "https://handlooms.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Workshed Scheme for Handloom Weavers provides financial assistance for the construction of individual and common worksheds to improve productivity and working conditions for handloom weavers. It is a component of the National Handloom Development Programme (NHDP) and aims to support weavers by providing infrastructure that enhances their earning potential and reduces drudgery. The scheme targets individual worksheds for BPL/SC/ST/Women/differently-abled weavers and common worksheds for groups of weavers, with funding patterns varying based on beneficiary category.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "handloom weavers",
+    "BPL",
+    "SC/ST",
+    "Women",
+    "differently-abled",
+    "Self Help Groups",
+    "Producers' Companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide need-based financial assistance for construction of individual worksheds",
+    "To support common worksheds for groups of handloom weavers",
+    "To improve productivity and working conditions of handloom weavers",
+    "To reduce drudgery and enhance earning potential of weavers",
+    "To provide infrastructure support for skill upgradation and capacity building",
+    "To ensure availability of concessional credit and other support mechanisms",
+    "To promote holistic development of handloom clusters",
+    "To empower weavers through entrepreneurial support and training"
+  ],
+  "eligibility": "Individual Worksheds for BPL/SC/ST/Women/differently-abled are funded 100% by GoI. For others, Individual worksheds are funded in the ratio 75:25 by GoI:Beneficiary. Common Workshed is funded in the ratio 90:10 by GoI:Beneficiary. Solar Lighting System for Common Workshed is funded in the ratio 90:10 by GoI:Beneficiary. Implementing agencies include Central/State Government Organizations, National/State Level Handloom Organizations, Apex/Primary Handloom Weavers’ Co-operative Societies, Self Help Groups, and Producers’ Companies.",
+  "benefits": "Financial assistance for construction of worksheds, improved productivity and working conditions, reduced drudgery, enhanced earning potential, infrastructure support for skill upgradation, access to concessional credit under Weaver MUDRA Scheme, marketing assistance, and integration with tourism through Craft Handloom Villages.",
+  "financial_support": "Under the Small Cluster Development Programme (SCDP) of NHDP, need-based financial assistance is provided up to Rs. 2.00 crore (GoI share) per cluster for groups having up to 500 handloom workers. For individual worksheds: BPL/SC/ST/Women/differently-abled – 100% GoI share; Others – 75% GoI: 25% beneficiary. For common worksheds: 90% GoI: 10% beneficiary. For Solar Lighting System for Common Workshed: 90% GoI: 10% beneficiary. Funds are released in two equal installments: 50% of GoI share as advance, and the second installment on receipt of Utilization Certificate for at least 70% of the first installment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Directorate submits proposals along with SLPC recommendations. 2. Proposals recommended by State Directorate are scrutinized and approved by O/o DC (HL). 3. If State Directorate does not forward cluster proposal within two months, WSC concerned submits directly to O/o DC (HL) with intimation to State Directorate. 4. If WSCs, IIHTs, or National Level Organizations are implementing agencies, they submit proposal directly to O/o DC (HL) under intimation to State Directorate. 5. Required documents include: Minutes of SLPC, Baseline Survey (Annexure A1), Diagnostic Study and Action Plan (Annexure A2), Profile of IA (Annexure A3), Profit & Loss Account and Balance Sheet for last two years (if applicable), NGO registration documents (if applicable), list of weavers for individual interventions (Annexure A7(I)), land details for common workshed, and solar lighting system details.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Minutes of SLPC duly signed by Chairman and Members",
+    "Baseline Survey of SCDP in prescribed proforma (Annexure A1)",
+    "Diagnostic study, Intervention-wise Action Plan/total financial outlay (Annexure A2)",
+    "Profile of IA indicating name, address, contact, PAN/TAN, Bank accounts (Annexure A3)",
+    "Profit & Loss Account and Balance Sheet of IA for last two years",
+    "For NGO: Score pattern for grading (Annexure A4) and certificate of registration on NITI Aayog Darpan Portal",
+    "List of weavers for availing benefit of individual interventions (Annexure A7(I))",
+    "For Common workshed: details of land with area, location, title in IA's name",
+    "For Solar Lighting System: cost break-up, lighting capacity, warranty, installation place, workshed size, number of looms"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Office of the Development Commissioner for Handlooms, Ministry of Textiles",
+  "contact_details": "",
+  "caveats": [
+    "Land cost is excluded from GoI funding for individual and common worksheds",
+    "Inter-component diversion within approved cost requires SLPC approval and intimation to O/o DC (HL)",
+    "For NGO implementing agencies, registration on NITI Aayog Darpan Portal is mandatory",
+    "State Directorate must submit proposal copy to WSCs at least two weeks before SLPC meeting",
+    "Funds released in two installments: 50% advance, balance on 70% UC of first installment"
+  ],
+  "source_cited_notes": [
+    "https://handlooms.nic.in/assets/img/Handloom Schemes/NHDP_English Compendium_2024.pdf",
+    "https://handlooms.nic.in/assets/img/Statistics/2486.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:54:49.432177+00:00"
+}

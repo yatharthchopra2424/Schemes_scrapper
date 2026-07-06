@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-668",
+  "scheme_name": "APEDA HACCP & Organic Certification Support",
+  "scheme_url": "https://apeda.gov.in",
+  "ministry_or_category": "Certification & Standards",
+  "overview": "The APEDA HACCP & Organic Certification Support scheme provides financial and technical assistance to exporters and processors for obtaining HACCP and organic certifications to enhance export competitiveness and compliance with international standards. The scheme supports quality development initiatives under APEDA's Financial Assistance Schemes (FAS) for the 15th Finance Commission cycle (2021-22 to 2025-26). It aims to improve product safety, traceability, and market access for agricultural and processed food products.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "exporters",
+    "processors",
+    "agri-startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of HACCP and organic certification systems among exporters",
+    "Enhance food safety and quality compliance for international markets",
+    "Improve traceability and transparency in the supply chain",
+    "Facilitate market access for certified products in global trade",
+    "Support value addition and processing of agricultural products",
+    "Strengthen India's position as a reliable supplier of quality agro-products"
+  ],
+  "eligibility": "Exporters and processors of APEDA-scheduled products who are registered with APEDA and possess a valid Import-Export Code (IEC) are eligible to apply for financial assistance under the scheme for HACCP and organic certification.",
+  "benefits": "Financial support for certification costs, technical guidance on compliance requirements, improved market access for certified products, enhanced brand reputation, and facilitation of export promotion activities.",
+  "financial_support": "Under the Financial Assistance Schemes (FAS), APEDA provides subsidy support for certification expenses, including HACCP and organic certification, as part of its Quality Development initiative. The exact quantum and mechanism are detailed in the FAS guidelines for the 15th Finance Commission cycle (2021-22 to 2025-26).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register as an exporter with APEDA to obtain Registration-cum-Membership Certificate (RCMC). 2. Ensure possession of valid Import-Export Code (IEC) from DGFT. 3. Apply for financial assistance under APEDA's Financial Assistance Schemes (FAS) for Quality Development. 4. Submit required documents including CA-certified financials, IEC, RCMC, and project proposal for certification. 5. Await approval and disbursement of subsidy upon successful certification.",
+  "application_portal_url": "https://apeda.gov.in/FinancialAssistanceSchemes",
+  "required_documents": [
+    "Registration-cum-Membership Certificate (RCMC)",
+    "Import-Export Code (IEC)",
+    "CA-certified financial statements",
+    "Project proposal for HACCP/organic certification",
+    "Details of certification body and scope"
+  ],
+  "deadlines": "As per the Financial Assistance Schemes (FAS) guidelines for the 15th Finance Commission cycle (2021-22 to 2025-26); specific dates are announced periodically.",
+  "implementing_agency": "Agricultural and Processed Food Products Export Development Authority (APEDA), Ministry of Commerce and Industry",
+  "contact_details": "Email: chairman[at]apeda[dot]gov[dot]in | Phone: +91-011-41486020, 43451289, 43451227",
+  "caveats": [
+    "Subsidy is subject to availability of funds under FAS",
+    "Certification must be obtained from accredited agencies recognized by APEDA",
+    "Beneficiaries must maintain compliance post-certification to retain eligibility",
+    "Support is limited to APEDA-scheduled products only"
+  ],
+  "source_cited_notes": [
+    "https://apeda.gov.in/FinancialAssistanceSchemes",
+    "https://apeda.gov.in/annual-administrative-reports",
+    "https://apeda.gov.in/about-us"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:48:23.128641+00:00"
+}

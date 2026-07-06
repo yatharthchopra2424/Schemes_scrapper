@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-609",
+  "scheme_name": "MSME Industry 4.0 Adoption Scheme",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "Robotics & Automation",
+  "overview": "The MSME Industry 4.0 Adoption Scheme is designed to support micro, small, and medium enterprises in adopting advanced technologies under Industry 4.0, including automation, IoT, AI, and digital transformation, to enhance productivity, competitiveness, and sustainability. The scheme provides financial and technical assistance for technology upgradation, skill development, and integration of smart manufacturing systems. It aims to strengthen the MSME sector’s readiness for future industrial trends and global value chains.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of Industry 4.0 technologies such as IoT, AI, robotics, and automation in MSMEs",
+    "Enhance productivity, quality, and operational efficiency through digital transformation",
+    "Support skill development and workforce training in emerging technologies",
+    "Facilitate integration of smart manufacturing systems and data-driven decision-making",
+    "Improve market competitiveness and readiness for global value chains",
+    "Encourage sustainable and energy-efficient manufacturing practices",
+    "Strengthen backward and forward linkages through technology-enabled collaboration"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises with valid Udyam Registration Certificate (URC) are eligible to apply. The enterprise must be engaged in manufacturing or service activities and demonstrate a viable project plan for technology adoption under Industry 4.0. Priority may be given to enterprises in aspirational districts, SC/ST/women-led units, and those showing potential for scalability and employment generation.",
+  "benefits": "Financial subsidy for technology acquisition and implementation, technical guidance for digital transformation, access to expert consultation and training programs, support for pilot projects and proof-of-concept development, assistance in integrating IoT, AI, and automation systems, and facilitation of market linkages through technology-enabled platforms.",
+  "financial_support": "The scheme provides a capital subsidy of up to 50% of the project cost for eligible technology adoption initiatives, with a maximum ceiling of INR 25 lakhs per enterprise. The remaining 50% of the project cost is to be borne by the beneficiary. Funds are disbursed in installments based on project milestones and verification of implementation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 25 Lakhs",
+  "application_process": "1. Visit the official MSME portal at https://msme.gov.in and navigate to the Schemes and Services section. 2. Locate the MSME Industry 4.0 Adoption Scheme and click on 'Apply Now'. 3. Register on the portal using Udyam Registration Number and create a login profile. 4. Fill in the online application form with enterprise details, project proposal, and technology adoption plan. 5. Upload required documents including Udyam Certificate, project report, quotations, and bank details. 6. Submit the application and await preliminary screening. 7. Shortlisted applications will undergo technical evaluation by the empowered committee. 8. Upon approval, the applicant will be notified and required to submit ack of subsidy will be initiated in phases based on project progress and verification.",
+  "application_portal_url": "https://msme.gov.in/offerings/schemes-and-services",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Project Report detailing technology adoption plan",
+    "Quotations or invoices from technology vendors",
+    "Bank account details and cancelled cheque",
+    "PAN of the enterprise",
+    "GST Registration Certificate (if applicable)",
+    "Audited financial statements for the last two years (if available)",
+    "Undertaking regarding non-availing of similar subsidy from other sources"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "Email: info[at]msme[dot]gov[dot]in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Subsidy is disbursed on reimbursement basis after verification of technology installation and utilization",
+    "Enterprises must ensure that the adopted technology is new and not previously used",
+    "The scheme does not cover routine maintenance, software licenses, or operational expenses",
+    "Funds are limited and subject to availability; early application is advised",
+    "Beneficiary must retain and maintain the adopted technology for a minimum of three years"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in",
+    "https://msme.gov.in/offerings/schemes-and-services"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-06T01:07:31.395653+00:00"
+}

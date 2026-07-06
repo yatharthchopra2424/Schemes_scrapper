@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-188",
+  "scheme_name": "National Quantum Mission",
+  "scheme_url": "https://dst.gov.in/quantum-mission",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The National Quantum Mission is a flagship initiative under the Electronics & IT category launched by the Department of Science and Technology (DST), Government of India. It aims to advance research, development, and innovation in quantum technologies, including quantum computing, quantum communication, quantum sensing, and quantum metrology. The mission seeks to strengthen India's capabilities in strategic quantum technologies and promote technological self-reliance in alignment with the Atmanirbhar Bharat vision.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "research institutions",
+    "academia",
+    "industry players"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encourage private sector participation in high-impact R&D in quantum technologies",
+    "Strengthen India's capabilities in strategic technologies including quantum computing",
+    "Promote technological self-reliance and economic security in quantum domains",
+    "Ensure flexibility in sectoral support for emerging quantum technologies",
+    "Foster innovation in deep technologies such as quantum computing, robotics, and space",
+    "Support development of quantum applications in agriculture, health, and education",
+    "Advance digital economy initiatives including quantum-enabled digital agriculture",
+    "Catalyze innovation in mission-critical areas vital for national development and global competitiveness"
+  ],
+  "eligibility": "The scheme is open to industry players, startups, research institutions, and academia engaged in quantum technology development. Eligible entities must be engaged in developing R&D-intensive quantum technologies at Technology Readiness Levels (TRLs) 4 and above. Startups as defined by DPIIT Notification G.S.R. 127(E) dated 19 February 2019 are eligible. Entities must be legal entities such as companies registered under the Companies Act 2013, partnerships under the Indian Partnership Act 1932, or limited liability partnerships under the Limited Liability Partnership Act 2008.",
+  "benefits": "Financial support through long-term loans at low or nil interest rates, equity infusion especially for startups, and contributions to the Deep-Tech Fund of Funds. Non-financial benefits include access to specialized infrastructure, mentorship, collaboration opportunities with research organizations, and facilitation of technology transfer. The scheme also supports patent filing, commercialization, and scaling of quantum innovations through second-level fund managers.",
+  "financial_support": "The mission operates under the Research, Development, and Innovation (RDI) Scheme with a total outlay of ₹1 lakh crore. Modes of financing include long-term loans at low or nil interest rates and equity infusion, particularly for startups. Grants and short-term loans are not supported. Financing can cover up to 50% of assessed project cost for transformative R&D projects at TRLs 4 and above, with exceptions possible via the Empowered Group of Secretaries (EGoS). Funds are channeled through Second-Level Fund Managers (SLFMs) such as Alternate Investment Funds (AIFs), Development Finance Institutions (DFIs), NBFCs, or Focused Research Organizations (FROs).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested Second Level Fund Managers (SLFMs) express interest by contacting Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. 2. Existing NBFCs planning to establish AIFs are encouraged to contact DST for potential participation. 3. Industry stakeholders seeking funding must not submit proposals directly to DST. 4. All disbursements are routed exclusively through designated SLFMs via separate advertisement. 5. For more details, visit https://rdifund.anrf.gov.in/. 6. Applications are evaluated based on project viability, innovation, and alignment with strategic technology goals.",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [
+    "Project proposal detailing quantum technology innovation",
+    "Technology Readiness Level (TRL) assessment",
+    "Business plan and financial projections",
+    "Incorporation/registration certificate of the entity",
+    "PAN and bank account details",
+    "Details of existing funding or partnerships",
+    "Intellectual property information (if any)",
+    "Team qualifications and expertise in quantum technologies",
+    "Letters of support or collaboration (if applicable)",
+    "Compliance documents as per DST and ANRF guidelines"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year.",
+  "implementing_agency": "Department of Science and Technology (DST), Ministry of Science and Technology",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in | Phone: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Grants and short-term loans are not supported under the scheme",
+    "Funding is limited to up to 50% of assessed project cost unless approved by EGoS",
+    "Direct proposals from industry stakeholders to DST are not accepted",
+    "All disbursements must go through designated Second-Level Fund Managers (SLFMs)",
+    "The scheme is subject to the financial rules and governance structure of the Anusandhan National Research Foundation (ANRF)"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "https://dst.gov.in/sites/default/files/SFR%20RDI%20FUND%20Gazzette%20Notification.pdf",
+    "https://dst.gov.in/sites/default/files/Publication%20of%20Special%20Financial%20Rules%202026%20for%20utilization%20of%20the%20amounts%20in%20the%20Research%20Development%20and%20Innovation%28RDI%29%20Fund%20in%20the%20official%20Gazette%20-%20reg..pdf",
+    "https://dst.gov.in/sites/default/files/Gazette%20Notification_COO_CFO.pdf",
+    "https://dst.gov.in/sites/default/files/Gazette%20Notification_AO.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:03:48.744738+00:00"
+}

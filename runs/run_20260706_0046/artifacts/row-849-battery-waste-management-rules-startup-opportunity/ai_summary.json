@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-849",
+  "scheme_name": "Battery Waste Management Rules – Startup Opportunity",
+  "scheme_url": "https://cpcb.nic.in",
+  "ministry_or_category": "Waste Management",
+  "overview": "The Battery Waste Management Rules, 2022, notified by the Ministry of Environment, Forest and Climate Change (MoEFCC), establish a regulatory framework for the environmentally sound management of battery waste in India. The rules introduce Extended Producer Responsibility (EPR) for producers, importers, and brand-owners of batteries, creating opportunities for startups in collection, recycling, refurbishment, and technology development for battery waste management. Startups can engage as authorized recyclers, refurbishers, or service providers under the EPR compliance mechanism, contributing to circular economy goals.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure environmentally sound management of battery waste across India",
+    "Implement Extended Producer Responsibility (EPR) for battery producers and importers",
+    "Promote recycling, refurbishment, and reuse of batteries to support circular economy",
+    "Reduce hazardous waste accumulation and prevent environmental contamination from batteries",
+    "Create formal channels for collection and processing of used batteries",
+    "Encourage innovation in battery recycling technologies and logistics"
+  ],
+  "eligibility": "Any entity engaged in the collection, segregation, transportation, refurbishment, or recycling of waste batteries, including startups and MSMEs, must obtain authorization from the State Pollution Control Board (SPCB) or Pollution Control Committee (PCC) under the Battery Waste Management Rules, 2022. Producers, importers, and brand-owners must fulfill EPR obligations by registering with the Central Pollution Control Board (CPCB) and meeting annual collection and recycling targets.",
+  "benefits": "Startups and MSMEs can gain authorization as recyclers or refurbishers, enabling them to process battery waste and generate revenue from recovered materials such as lithium, cobalt, nickel, and lead. They can enter into agreements with producers to fulfill EPR obligations, access a growing market driven by regulatory compliance, and contribute to sustainable waste management. Authorization also provides legal recognition and eligibility for incentives under related green initiatives.",
+  "financial_support": "The Battery Waste Management Rules, 2022 do not provide direct financial support, grants, or subsidies to startups or entities. Financial viability comes from market-based operations such as charging fees for collection and recycling services, selling recovered materials, and fulfilling EPR contracts with producers who are liable to meet waste management targets under the rules.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine eligibility based on activity (collection, segregation, transportation, refurbishment, or recycling of waste batteries). 2. Apply for authorization to the respective State Pollution Control Board (SPCB) or Pollution Control Committee (PCC) where the facility is located. 3. Submit required documents including consent to establish/operate, facility details, and technical capabilities. 4. Obtain authorization from SPCB/PCC after verification. 5. For producers/importers/brand-owners, register on the CPCB EPR portal for battery waste management to fulfill EPR obligations.",
+  "application_portal_url": "https://cpcb.nic.in",
+  "required_documents": [
+    "Consent to Establish and Consent to Operate from SPCB/PCC",
+    "Details of facility and installed capacity for recycling/refurbishment",
+    "Technical capabilities and process flow diagram",
+    "Proof of ownership or lease of premises",
+    "PAN and GST registration of the entity",
+    "Authorization letter from authorized signatory",
+    "Details of proposed collection and channelization mechanism"
+  ],
+  "deadlines": "Authorization applications are processed on a rolling basis; there is no fixed annual deadline. However, producers must meet annual EPR targets as specified in the rules.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "contact_details": "Central Pollution Control Board (CPCB) | Website: https://cpcb.nic.in",
+  "caveats": [
+    "Authorization must be obtained from State Pollution Control Board (SPCB) or Pollution Control Committee (PCC); central registration alone is insufficient for recyclers/refurbishers",
+    "Entities involved in battery waste management must comply with environmental safety standards and pollution control norms",
+    "Producers failing to meet EPR targets may face penalties under the Environment (Protection) Act, 1986",
+    "Rules apply to all types of batteries including electric vehicle, portable, and industrial batteries"
+  ],
+  "source_cited_notes": [
+    "https://cpcb.nic.in"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:22:03.719146+00:00"
+}

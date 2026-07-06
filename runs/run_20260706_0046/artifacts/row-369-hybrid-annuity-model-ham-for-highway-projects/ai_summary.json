@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-369",
+  "scheme_name": "Hybrid Annuity Model (HAM) for Highway Projects",
+  "scheme_url": "https://nhai.gov.in",
+  "ministry_or_category": "Road Transport",
+  "overview": "The Hybrid Annuity Model (HAM) for Highway Projects is a public-private partnership (PPP) model used by the National Highways Authority of India (NHAI) for the development, operation, and maintenance of national highway projects. Under HAM, the government provides 40% of the project cost as construction support in five equal instalments during the construction period, while the remaining 60% is paid as annuity payments over the operation period along with interest. The model aims to reduce the financial burden on private developers and ensure timely project completion.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private developers",
+    "infrastructure companies",
+    "construction firms"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To develop national highway projects through public-private partnership",
+    "To reduce the upfront financial burden on private concessionaires",
+    "To ensure timely completion and quality execution of highway projects",
+    "To provide a stable return to private investors through annuity payments",
+    "To transfer construction risk to the government while retaining traffic risk with the concessionaire",
+    "To promote private sector participation in road infrastructure development"
+  ],
+  "eligibility": "Private companies, consortia, or special purpose vehicles (SPVs) incorporated under the Companies Act, 2013 or earlier, with relevant experience in highway construction, operation, and maintenance, meeting the technical and financial criteria specified in the bid documents, and capable of providing the required equity and guarantees as per NHAI guidelines.",
+  "benefits": "Reduced equity requirement for private developers (only 40% of project cost as construction support), annuity payments with interest over the operation period, lower financial risk compared to BOT models, government bears construction cost overruns, and the model attracts investment due to assured returns.",
+  "financial_support": "Under HAM, the government provides 40% of the total project cost as construction support in five equal instalments during the construction phase. The remaining 60% is paid as bi-annual annuity payments over the operation period (typically 15 years) along with interest on the outstanding amount. The annuity is calculated to provide a reasonable return on investment to the concessionaire.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. NHAI invites bids for HAM projects through competitive bidding. 2. Interested applicants must purchase the bid documents by paying the prescribed fee. 3. Applicants must submit their pre-qualification or bid documents online via the NHAI portal https://nhai.gov.in. 4. Submission includes technical and financial proposals along with required documents. 5. Bids are opened and evaluated as per the evaluation criteria. 6. The selected concessionaire is issued a Letter of Award (LOA). 7. The concessionaire signs the Concession Agreement with NHAI. 8. Financial closure is achieved within the stipulated period. 9. Construction begins as per the agreed schedule.",
+  "application_portal_url": "https://nhai.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Memorandum and Articles of Association",
+    "Board Resolution authorizing bidding",
+    "Power of Attorney of the authorized signatory",
+    "Financial statements for the last 5 years",
+    "Details of ongoing and completed projects",
+    "Net worth certificate from a chartered accountant",
+    "Bid security (earnest money deposit)",
+    "Technical proposal detailing methodology and work plan",
+    "Financial proposal with cost estimates"
+  ],
+  "deadlines": "As per bid-specific timelines mentioned in the tender notice",
+  "implementing_agency": "National Highways Authority of India (NHAI)",
+  "contact_details": "Email: aksharma@nhai.org | Tel: 011-25074100/200",
+  "caveats": [
+    "The 40% construction support is released in five equal instalments linked to milestones",
+    "Annuity payments are subject to satisfactory operation and maintenance as per standards",
+    "The concessionaire bears traffic risk; revenue shortfall affects returns",
+    "The concession period typically includes construction period plus 15 years of operation",
+    "NHAI retains the right to terminate the concession for material breach"
+  ],
+  "source_cited_notes": [
+    "https://nhai.gov.in/nhai/sites/default/files/mix_file/Projects.pdf",
+    "https://nhai.gov.in/nhai/sites/default/files/inline-files/NHAI_Complaint_Handling_Policy_English.pdf",
+    "https://nhai.gov.in/nhai/sites/default/files/mix_file/Draft_RFQ_DFA73604.pdf"
+  ],
+  "last_updated_date": "2025-26",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:50:29.603617+00:00"
+}

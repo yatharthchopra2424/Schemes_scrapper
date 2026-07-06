@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-720",
+  "scheme_name": "National Leather Development Programme (NLDP)",
+  "scheme_url": "https://leatherindia.org",
+  "ministry_or_category": "Footwear & Leather",
+  "overview": "The National Leather Development Programme (NLDP) is a Central Sector Scheme implemented by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry, Government of India, with a total outlay of Rs.1700 Crores during the period 2021-2026 till 31st March 2026 or till further review, whichever is earlier. The scheme consists of six sub-schemes: Sustainable Technology and Environmental Promotion (STEP), Integrated Development of Leather Sector (IDLS), Brand Promotion of Indian Brands in Leather and Footwear Sector, Development of Design Studios in Leather and Footwear Sector, Mega Leather, Footwear and Accessories Cluster Development (MLFACD), and Establishment of Institutional Facilities (EIF). Proposals/applications under the scheme (except IDLS) are submitted through the online National Single Window System (NSWS) portal, which has been closed with immediate effect for all sub-schemes except IDLS, which has a 15-day window for application submission until 10th July 2025.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "MSME",
+    "industry associations",
+    "entrepreneurs",
+    "manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote sustainable technology and environmental protection in the leather sector",
+    "Integrated development of the leather sector including modernization and technology upgradation",
+    "Brand promotion of Indian brands in the leather and footwear sector",
+    "Development of design studios in leather and footwear sector",
+    "Mega leather, footwear and accessories cluster development",
+    "Establishment of institutional facilities for the leather sector"
+  ],
+  "eligibility": "Eligible units under the IDLS sub-scheme submit applications through the online NSWS portal to PIUs (FDDI and CLRI). After due appraisal, applications are forwarded to DPIIT for consideration by the Steering Committee, and after approval by the Steering Committee, the grant is disbursed to the applicant units. Mere submission of an application does not entitle an applicant to GOI assistance; assistance is subject to appraisal and recommendations by the PIUs and final approval by the Steering Committee.",
+  "benefits": "Financial assistance in the form of grants for availing benefits under the six sub-schemes of IFLDP (NLDP), subject to appraisal by PIUs and approval by the Steering Committee. Non-financial benefits include technical support, institutional development, brand promotion, design studio development, cluster development, and environmental protection initiatives.",
+  "financial_support": "The scheme provides grant-based financial support under its six sub-schemes, with a total outlay of Rs.1700 Crores for the period 2021-2026. Assistance is disbursed after appraisal by PIUs (FDDI and CLRI) and approval by the Steering Committee of DPIIT. Mere submission of an application does not guarantee assistance; it is subject to technical appraisal and final approval.",
+  "fund_size_crores": "1700",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit proposals/applications through the online NSWS portal (https://www.nsws.gov.in) for availing of the grant under IFLDP (NLDP). 2. For IDLS sub-scheme, applications are submitted by eligible units to PIUs (FDDI and CLRI) through the online NSWS portal. 3. After due appraisal by PIUs, applications are forwarded to DPIIT for consideration by the Steering Committee. 4. After approval by the Steering Committee, the grant is disbursed to the applicant units. 5. Note: The NSWS portal for IFLDP 2021-26 is closed with immediate effect for all sub-schemes except IDLS, which has a 15-day window for application submission until 10th July 2025.",
+  "application_portal_url": "https://www.nsws.gov.in",
+  "required_documents": [],
+  "deadlines": "For IDLS sub-scheme, a 15-day window is being provided and the portal will be closed within 15 days from the date of issuance of the letter (25th June 2025), i.e., by 10th July 2025 (Thursday). No applications will be accepted beyond 10th July 2025. For all other sub-schemes, the NSWS portal is closed with immediate effect.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry, Govt of India",
+  "contact_details": "",
+  "caveats": [
+    "Mere submission of an application does not entitle an applicant to GOI assistance; assistance is subject to appraisal and recommendations by the PIUs and final approval by the Steering Committee.",
+    "The NSWS portal for IFLDP 2021-26 is closed with immediate effect for all sub-schemes except IDLS.",
+    "For IDLS sub-scheme, the portal will be closed by 10th July 2025, and no applications will be accepted beyond this date.",
+    "The scheme is valid till 31st March 2026 or till further review, whichever is earlier."
+  ],
+  "source_cited_notes": [
+    "https://leatherindia.org/closure-of-nsws-online-portal-for-submission-of-applications-under-ifldp-2021-26-2/",
+    "https://leatherindia.org/wp-content/uploads/2025/07/DPIIT-Notice-IFLDP_Portal-Closure_25June2025.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:18:12.970690+00:00"
+}

@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-308",
+  "scheme_name": "Scheme for Agro-Marine Processing & Development (SAMPADA)",
+  "scheme_url": "https://mofpi.gov.in/sampada",
+  "ministry_or_category": "Food Processing",
+  "overview": "The Scheme for Agro-Marine Processing and Development (SAMPADA) was approved by the Government of India on 03.05.2017 with a total allocation of Rs. 6000 crore for the implementation period 2016-2020, later renamed as Pradhan Mantri Kisan SAMPADA Yojana (PMKSY). It is a comprehensive package aimed at creating modern infrastructure with efficient supply chain management from farm gate to retail outlet, boosting food processing sector growth, providing better returns to farmers, doubling farmers' income, creating employment opportunities in rural areas, reducing agricultural wastage, increasing processing levels, and enhancing exports of processed foods. The scheme has seven component schemes including Mega Food Parks, Integrated Cold Chain, Infrastructure for Agro-Processing Clusters, Creation of Backward and Forward Linkages, Creation/Expansion of Food Processing & Preservation Capacities, Food Safety and Quality Assurance Infrastructure, and Human Resources and Institutions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "MSME",
+    "agri-startups",
+    "farmers",
+    "food processing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Creation of modern infrastructure with efficient supply chain management from farm gate to retail outlet",
+    "Provide a big boost to the growth of food processing sector in the country",
+    "Help in providing better returns to farmers",
+    "Double farmers' income",
+    "Create huge employment opportunities especially in rural areas",
+    "Reduce wastage of agricultural produce",
+    "Increase the processing level of agricultural produce",
+    "Enhance the export of processed foods"
+  ],
+  "eligibility": "Eligibility varies by component scheme; general eligibility includes entrepreneurs, MSMEs, agri-startups, farmers, and food processing units seeking financial assistance for infrastructure projects under the seven component schemes of PMKSY. Specific criteria are detailed in individual scheme guidelines.",
+  "benefits": "Financial assistance in the form of grants-in-aid for setting up food processing infrastructure, technical support, capacity building, skill development, research and development support, promotional activities, and operational guidelines for implementation. Benefits include access to modern infrastructure, improved supply chain, reduced post-harvest losses, increased value addition, and market linkages.",
+  "financial_support": "Financial support is provided as grants-in-aid under the various component schemes of PMKSY. The pattern of release of funds includes two instalments: 50% upon acceptance letter and compliance, and the remaining 50% upon submission of utilization certificate and verification of expenditure. Funds are released through the PFMS EAT module. The scheme leverages investment of Rs. 11,095.93 crore.",
+  "fund_size_crores": "4600",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PMKSY portal or relevant component scheme portal. 2. Check eligibility and guidelines for the specific component scheme. 3. Prepare required documents including project report, land documents, financial statements, etc. 4. Submit Expression of Interest (EOI) or proposal through the online portal. 5. Await scrutiny and evaluation by Technical Committee and Project Approval Committee. 6. Upon approval, submit detailed project report and bank details. 7. Receive approval letter and fulfill pre-disbursement compliances. 8. Receive first instalment (50%) after submission of acceptance letter and compliance documents. 9. Complete project and submit utilization certificate, bank statements, and other required documents. 10. Receive second instalment (50%) after verification of utilization and completion.",
+  "application_portal_url": "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+  "required_documents": [
+    "Project report",
+    "Land documents (ownership/registered leasehold)",
+    "Bank account details",
+    "Financial statements",
+    "Incorporation/registration certificate",
+    "PAN of the entity",
+    "Details of promoters/directors",
+    "Quotations for plant and machinery",
+    "NOC from Pollution Control Board (if applicable)",
+    "Architectural plan/layout of the project",
+    "Details of technical civil work and furniture/fixture",
+    "Self-attested English/Hindi version of land document",
+    "Notarised Surety Bond (if applicable)",
+    "Utilization certificate of earlier grants (if any)",
+    "Bank statements showing payments to suppliers",
+    "List of approved equipment with approved and actual cost",
+    "Details of technical civil work and furniture/fixture",
+    "Geo-tagged photographs of the project",
+    "Final term loan sanction letter from bank",
+    "Confirmation of term loan disbursement from bank",
+    "Self-declaration of project completion and commercialization"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round as per EOI notices and scheme guidelines.",
+  "implementing_agency": "Ministry of Food Processing Industries (MoFPI)",
+  "contact_details": "",
+  "caveats": [
+    "The scheme was extended till 31.03.2026 with an allocation of Rs. 4600 crore",
+    "Component schemes of Mega Food Park, Creation of Backward & Forward Linkages, Human Resource & Institution - Promotional Activities, Skill Development & HACCP have been discontinued in the 15th Finance Commission cycle with provision of committed liability",
+    "Surety Bond is not required for Central/State Government Departments",
+    "Lease duration for registered leasehold land should not be less than 15 years",
+    "Financial assistance is subject to compliance with terms and conditions in the approval letter"
+  ],
+  "source_cited_notes": [
+    "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:17:36.802359+00:00"
+}

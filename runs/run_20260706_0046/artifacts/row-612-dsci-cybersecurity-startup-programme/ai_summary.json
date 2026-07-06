@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-612",
+  "scheme_name": "DSCI Cybersecurity Startup Programme",
+  "scheme_url": "https://www.dsci.in",
+  "ministry_or_category": "Cybersecurity",
+  "overview": "The DSCI Cybersecurity Startup Programme is an initiative by the Data Security Council of India (DSCI) aimed at supporting cybersecurity startups through incubation, mentorship, and industry collaboration. It is part of DSCI's broader efforts to foster innovation and entrepreneurship in the cybersecurity domain via its Centres of Excellence such as N-CoE and CCoE. The programme focuses on nurturing early-stage ventures by providing access to DSCI's network, technical guidance, and market linkages.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation and entrepreneurship in cybersecurity technology development",
+    "Incubate and accelerate cybersecurity start-ups through mentorship and industry connect",
+    "Build an investment-friendly ecosystem for cybersecurity product commercialization",
+    "Develop marketable intellectual property and support productization of research",
+    "Create a pool of skilled hardware and software security researchers and entrepreneurs",
+    "Strengthen collaboration between industry, academia, government, and defence sectors"
+  ],
+  "eligibility": "The programme is open to cybersecurity startups, particularly those emerging from DSCI's Centres of Excellence such as N-CoE and CCoE, with a focus on innovation in hardware security, software security, and privacy technologies. Preference is given to ventures led by women entrepreneurs and those from tier-II/III cities.",
+  "benefits": "Startups benefit from mentorship by industry experts, access to DSCI's network of investors and corporates, participation in hackathons and innovation challenges, support for product development and commercialization, and opportunities to showcase at DSCI flagship events. They also gain visibility through thought leadership platforms and access to global cybersecurity markets.",
+  "financial_support": "The programme does not provide direct financial grants or funding to startups. Instead, it facilitates access to investment networks and helps startups become investment-ready through mentorship, product validation, and market linkage support. Financial support, if any, is indirect and partner-driven.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility under DSCI's incubation initiatives such as N-CoE or CCoE. 2. Apply through the respective Centre of Excellence portal or via DSCI's official channels. 3. Submit a detailed proposal including technology innovation, team profile, and market potential. 4. Undergo evaluation by DSCI and partner experts. 5. Selected startups are inducted into the incubation programme with access to labs, mentorship, and industry connect.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of technology innovation or IP",
+    "Team profiles and qualifications",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Data Security Council of India (DSCI)",
+  "contact_details": "Email: cyber.shikshaa@dsci.in | Phone: (+91) 120-4990253",
+  "caveats": [
+    "The programme does not offer direct financial grants or seed funding",
+    "Selection is competitive and based on innovation potential and team capability",
+    "Startups must align with DSCI's strategic focus areas in cybersecurity and privacy",
+    "Benefits are subject to availability of partner support and programme resources"
+  ],
+  "source_cited_notes": [
+    "https://dsci.in/content/national-centre-excellence",
+    "https://dsci.in/content/cybersecurity-centre-excellence",
+    "https://dsci.in/content/c-herd",
+    "https://dsci.in/content/dsci-cyber-skill-centre"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:06:34.408860+00:00"
+}

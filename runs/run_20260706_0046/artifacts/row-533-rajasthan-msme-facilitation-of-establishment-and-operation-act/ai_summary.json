@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-533",
+  "scheme_name": "Rajasthan MSME (Facilitation of Establishment and Operation) Act",
+  "scheme_url": "https://rajasthan.gov.in",
+  "ministry_or_category": "State Level (Rajasthan)",
+  "overview": "The Rajasthan MSME (Facilitation of Establishment and Operation) Act is a state-level initiative aimed at promoting and supporting Micro, Small, and Medium Enterprises (MSMEs) in Rajasthan by simplifying regulatory processes and providing facilitation for establishment and operation. The scheme focuses on creating a conducive business environment through policy support, infrastructure development, and access to financial and non-financial benefits. It targets entrepreneurs and existing MSME units seeking to start or scale operations within the state. The implementing agency is the Department of Industries and Commerce, Government of Rajasthan.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "entrepreneurs",
+    "startups"
+  ],
+  "geographic_scope": "Rajasthan only",
+  "objectives": [
+    "Facilitate the establishment and operation of MSMEs in Rajasthan",
+    "Simplify regulatory and compliance procedures for MSMEs",
+    "Promote industrial growth and employment generation through MSME development",
+    "Provide access to financial incentives, infrastructure, and business support services",
+    "Strengthen the MSME ecosystem via policy interventions and institutional support"
+  ],
+  "eligibility": "The scheme applies to Micro, Small, and Medium Enterprises as defined under the MSME Act, 2006, engaged in manufacturing or service activities, and registered or proposing to register in the state of Rajasthan. Enterprises must comply with relevant statutory requirements and possess valid documentation such as Udyam Registration, GSTIN, and other applicable licenses.",
+  "benefits": "Benefits include facilitation in obtaining clearances and approvals, access to industrial infrastructure and land allocation, priority in government procurement, financial incentives such as subsidies on power, interest, and capital investment, skill development support, and marketing assistance. The scheme also provides handholding support through a single-window clearance mechanism for faster setup and operation.",
+  "financial_support": "Financial support under the scheme includes capital investment subsidies, interest subsidies on term loans, reimbursement of ISO certification costs, and subsidies for technology upgradation and quality certification. The quantum and eligibility for financial assistance vary based on enterprise category (micro, small, medium), location, and sector, with disbursement handled through designated nodal agencies upon verification of claims.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Rajasthan government portal or Jansoochna portal to access scheme details. 2. Identify the relevant department (Industries and Commerce) and scheme (MSME Facilitation Act). 3. Check eligibility criteria and prepare required documents. 4. Submit application online via the designated portal or offline at the District Industries Centre (DIC). 5. Await verification and approval from the concerned authority. 6. Upon approval, avail benefits as per entitlement.",
+  "application_portal_url": "https://jansoochna.rajasthan.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "GSTIN Registration",
+    "PAN of the Enterprise",
+    "Aadhaar of Proprietor/Partner/Director",
+    "Bank Account Details",
+    "Project Report or Business Plan",
+    "Proof of Land/Factory Ownership or Lease Agreement",
+    "Partnership Deed or Certificate of Incorporation (if applicable)",
+    "NOC from Pollution Control Board (if applicable)",
+    "Any other sector-specific license or permission"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Industries and Commerce, Government of Rajasthan",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are subject to availability of funds and approval of the competent authority",
+    "Subsidy claims must be submitted within stipulated time after incurring expenditure",
+    "Enterprises availing benefits under other central or state schemes may face restrictions on double dipping",
+    "Continued eligibility depends on compliance with labor, environmental, and safety regulations"
+  ],
+  "source_cited_notes": [
+    "https://rajasthan.gov.in/assets/images/documents/Jansoochna_User_Manual_Updated.pdf",
+    "https://rajasthan.gov.in/",
+    "https://rajasthan.gov.in/pages/sm/sector-department/web-directory/146111"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:16:38.812782+00:00"
+}

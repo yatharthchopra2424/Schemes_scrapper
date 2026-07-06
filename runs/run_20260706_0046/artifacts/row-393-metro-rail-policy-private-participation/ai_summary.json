@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-393",
+  "scheme_name": "Metro Rail Policy – Private Participation",
+  "scheme_url": "https://mohua.gov.in",
+  "ministry_or_category": "Urban Development",
+  "overview": "The Metro Rail Policy – Private Participation is a framework under the Ministry of Housing and Urban Affairs (MoHUA) that enables private sector involvement in metro rail projects through public-private partnerships (PPPs), equity participation, and financial structuring. It aims to leverage private investment for urban rail infrastructure while ensuring policy compliance, safety standards, and institutional oversight. The policy supports metro rail implementation across Indian cities by defining roles of central and state governments, special purpose vehicles (SPVs), and financing mechanisms including grants, loans, and subordinate debt.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private sector entities",
+    "public-private partnerships (PPPs)",
+    "special purpose vehicles (SPVs)",
+    "urban local bodies (ULBs)",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable private sector participation in metro rail projects through PPP models",
+    "Ensure standardized safety and operational compliance via Metro Railway Acts",
+    "Promote indigenization and local manufacturing in metro rail procurement",
+    "Facilitate integrated transport planning including first and last mile connectivity",
+    "Establish dedicated urban transport funds for asset replacement and operational sustainability",
+    "Strengthen corporate governance through adherence to DPE, DEA, and CVC guidelines",
+    "Ensure financial sustainability via value engineering, minimum land acquisition, and technological innovation"
+  ],
+  "eligibility": "Eligible entities include central and state government-owned Special Purpose Vehicles (SPVs) in 50:50 joint ventures, private sector partners in PPP arrangements, and financial institutions providing loans. Applicants must comply with legal frameworks under The Metro Railways (Construction of Works) Act, 1978, The Metro Railways (Operation & Maintenance) Act, 2002, and the Railways Act, 1989. Private participation requires adherence to MoHUA guidelines on standardization, indigenization, and corporate governance, with SPVs bound by central government policy directions.",
+  "benefits": "Financial benefits include access to central assistance in the form of equity, subordinate debt, and grants; leveraging of market-based finance such as loans and bonds; and credit repayment guarantees. Non-financial benefits include technical guidance from MoHUA, safety certification by Commissioner of Metro Railway Safety, institutional support via High Powered Committees, and policy coordination for integrated urban transport planning. The policy also enables capacity building, technology adoption, and green transport initiatives like cycle sharing facilities at metro stations.",
+  "financial_support": "Financial support is structured as catalytic central assistance (CA) to leverage larger market-based investments. For metro rail projects, central assistance is provided as equity and subordinate debt by the Government of India (GoI), typically up to 50% of project cost in joint ventures with state governments. External funding from bilateral/multilateral agencies may cover up to 60% of project cost. Central assistance is released in tranches linked to project milestones, with cost escalation due to price or exchange rate variations borne by the state government. GoI does not fund procurement of additional rolling stock beyond the sanctioned project cost.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify metro rail project alignment and prepare Detailed Project Report (DPR). 2. Form a Special Purpose Vehicle (SPV) as a 50:50 joint venture between Government of India and respective State Government. 3. Secure approvals from MoHUA, including legal compliance under Metro Railway Acts and safety certification. 4. Obtain sanction from the Union Cabinet detailing financing pattern, institutional arrangements, and conditions. 5. Sign tripartite Memorandum of Understanding (MoU) between GoI, State Government, and SPV. 6. Arrange financing: central assistance (equity/subordinate debt), state contribution, and loans from bilateral/multilateral agencies. 7. Implement project under SPV with oversight from High Powered Committee chaired by Chief Secretary of State Government. 8. Ensure compliance with reforms such as Urban Transport Fund (UTF), fare revision mechanisms, and integrated ticketing. 9. Monitor progress via National Apex Committee (NAC) and State Level Technical Committee (SLTC). 10. Release central assistance in tranches (30%, 50%, 20%) based on physical and financial progress.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Memorandum of Understanding (MoU) between GoI, State Government, and SPV",
+    "Cadre and vigilance clearance for deputation-based posts (if applicable)",
+    "Integrity certificate and statement of penalties",
+    "Copies of APARs for last five years",
+    "Sanction order from Union Cabinet",
+    "Environmental Management Plan",
+    "Land acquisition and R&R details",
+    "PPP component details (if any)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round based on project readiness and sanction timelines.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "Email: mohua@nic.in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Central assistance for equity and subordinate debt from GoI is ring-fenced to 20% of total project cost excluding private investment, land, R&R, and taxes",
+    "Cost escalation due to price or exchange rate variations is borne by the State Government",
+    "GoI will not share cost for procurement of additional rolling stock in second and subsequent years of operation",
+    "State/local taxes are not included in project cost to be shared by GoI",
+    "SPV must ensure safety certification through Commissioner of Metro Railway Safety",
+    "Maha-Metro (or equivalent SPV) must adhere to DPE, DEA, and CVC guidelines for corporate governance",
+    "Integrated ticketing and national common mobility card must be prioritized by State Government and SPV",
+    "Dedicated Urban Transport Fund (UTF) must be established by State Government in consultation with MoHUA"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in/static/uploads/2026/03/7e86f0b0917a72b22c772abe580b6fab.pdf",
+    "https://mohua.gov.in/static/uploads/2026/03/848bf3d477f6a73f2dd84381819d4a90.pdf",
+    "https://mohua.gov.in/static/uploads/2026/02/7e86f0b0917a72b22c772abe580b6fab.pdf",
+    "https://mohua.gov.in/documents/acts-and-policies/policies-guidelines-of-urban-transport-UDNxUzMtQWa?pageTitle=Policies%2FGuidelines-of-Urban-Transport",
+    "https://mohua.gov.in/offerings/schemes-and-services/details/pm-ebus-sewa-gzM4cTMtQWa"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:11:00.003071+00:00"
+}

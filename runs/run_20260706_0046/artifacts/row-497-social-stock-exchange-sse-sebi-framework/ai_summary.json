@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-497",
+  "scheme_name": "Social Stock Exchange (SSE) – SEBI Framework",
+  "scheme_url": "https://www.sebi.gov.in/sse",
+  "ministry_or_category": "Social Entrepreneurship",
+  "overview": "The Social Stock Exchange (SSE) is a platform established by SEBI to facilitate fundraising for social enterprises and voluntary organizations through the issuance of securities such as zero-coupon zero-principal instruments (ZCZPIs) and other innovative financial products. It aims to channel capital toward social welfare activities by enabling transparent, regulated, and efficient fundraising mechanisms. The SSE operates under SEBI's regulatory framework and is designed to support entities engaged in eligible social welfare activities as defined by SEBI.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "social enterprises",
+    "voluntary organizations",
+    "non-profit organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a regulated platform for social enterprises to raise capital",
+    "To enable issuance of zero-coupon zero-principal instruments (ZCZPIs) for fundraising",
+    "To enhance transparency and accountability in social sector funding",
+    "To channel investments toward eligible social welfare activities",
+    "To promote investor participation in social impact initiatives",
+    "To establish a standardized framework for listing and trading of social securities"
+  ],
+  "eligibility": "Eligible entities include social enterprises and voluntary organizations engaged in eligible social welfare activities as defined under SEBI (Issue of Capital and Disclosure Requirements) Regulations, 2018 and subsequent circulars. These entities must be registered under relevant Indian laws such as the Societies Registration Act, Trusts Act, or Section 8 of the Companies Act, and must comply with disclosure and governance norms specified by SEBI for SSE listing.",
+  "benefits": "Access to a regulated capital market platform for raising funds; enhanced credibility and visibility through SEBI-regulated listing; ability to issue innovative instruments like ZCZPIs; transparency in fund utilization; potential tax benefits for donors/investors under applicable income tax provisions; and a structured exit mechanism for investors.",
+  "financial_support": "The SSE does not provide direct financial support but enables eligible social enterprises to raise funds from investors through the issuance of securities such as equity, debt, or zero-coupon zero-principal instruments (ZCZPIs). The quantum of funds raised depends on market demand and investor participation, with no upper cap prescribed by SEBI. Funds are raised via public or private placement as per SEBI regulations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine eligibility as a social enterprise or voluntary organization under SEBI-defined social welfare activities. 2. Ensure registration under applicable Indian law (e.g., Societies Act, Trusts Act, Section 8 Company). 3. Prepare required disclosures including object clause, audited financials, and governance structure. 4. Appoint a merchant banker or lead manager registered with SEBI. 5. File draft offer document with SEBI for review. 6. Address SEBI observations and obtain final approval. 7. Issue securities and list on the Social Stock Exchange platform of a recognized stock exchange (e.g., BSE or NSE). 8. Comply with ongoing reporting and disclosure requirements post-listing.",
+  "application_portal_url": "https://www.sebi.gov.in/sse",
+  "required_documents": [
+    "Certificate of incorporation/registration",
+    "Memorandum and Articles of Association or equivalent charter document",
+    "Audited financial statements for preceding 3 years",
+    "Details of promoters/key management personnel",
+    "Object clause detailing social welfare activities",
+    "Governance structure and conflict-of-interest policy",
+    "Utilization plan for funds raised",
+    "Declaration of compliance with SEBI (SSE) framework",
+    "No objection certificate from relevant regulator (if applicable)",
+    "Bank account details and PAN/TAN of the entity"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year as per SEBI timetable for issue of capital.",
+  "implementing_agency": "Securities and Exchange Board of India (SEBI)",
+  "contact_details": "Email: sse@sebi.gov.in | Helpline: 022-26449000 (SEBI Headquarters)",
+  "caveats": [
+    "Only entities engaged in eligible social welfare activities as defined by SEBI can list",
+    "Zero-coupon zero-principal instruments (ZCZPIs) do not pay interest or principal repayment",
+    "Continuous compliance with SEBI (SSE) disclosure norms is mandatory post-listing",
+    "Listing does not guarantee fund raising; success depends on investor demand",
+    "Tax benefits for investors are subject to provisions of Income Tax Act provisions and not guaranteed"
+  ],
+  "source_cited_notes": [
+    "https://sebi.gov.in/sse",
+    "https://sebi.gov.in/legal/circulars/apr-2026/review-of-requirement-relating-to-registration-for-a-not-for-profit-organization-on-social-stock-exchange-and-minimum-subscription-requirement-for-issuance-of-zero-coupon-zero-principal-instruments_100935.html"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:02:16.906944+00:00"
+}

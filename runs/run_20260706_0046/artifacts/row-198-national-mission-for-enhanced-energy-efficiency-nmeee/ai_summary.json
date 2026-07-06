@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-198",
+  "scheme_name": "National Mission for Enhanced Energy Efficiency (NMEEE)",
+  "scheme_url": "https://beeindia.gov.in/nmeee",
+  "ministry_or_category": "Energy Efficiency",
+  "overview": "The National Mission for Enhanced Energy Efficiency (NMEEE) is one of the eight national missions under the National Action Plan on Climate Change (NAPCC). Its primary objective is to develop regulations and policies that strengthen the market for energy efficiency through self-regulation and market principles, including capacity building and financing. NMEEE includes flagship programmes such as Perform, Achieve and Trade (PAT), Standards & Labelling, and initiatives for SMEs, buildings, transport, and agriculture.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "industries",
+    "designated consumers",
+    "state designated agencies",
+    "energy service companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop regulations and policies to strengthen the market for energy efficiency",
+    "Promote energy efficiency through self-regulation and market principles",
+    "Implement capacity building and financing initiatives for energy efficiency",
+    "Achieve required energy efficiency in energy intensive sectors via PAT scheme",
+    "Promote awareness of energy savings and energy conservation among targeted groups",
+    "Leverage multi-lateral, bi-lateral and private sector support for programme implementation",
+    "Establish systems to measure, monitor and verify energy efficiency results at sector and national levels",
+    "Demonstrate energy efficiency delivery mechanisms through Public-Private Partnership (PPP)"
+  ],
+  "eligibility": "Eligibility varies by sub-scheme under NMEEE. For the Perform, Achieve and Trade (PAT) scheme, energy intensive units from sectors such as Aluminum, Cement, Chlor-Alkali, Fertilizer, Iron & Steel, Paper & Pulp, Railways, Thermal Power and Textile are notified as Designated Consumers based on specific energy consumption norms. For SME programmes, eligibility is based on MSME classification as per MSME Act. For Standards & Labelling, manufacturers of appliances and equipment can apply for star rating certification.",
+  "benefits": "Benefits include energy savings, reduction in greenhouse gas emissions, cost savings, issuance of tradable Energy Savings Certificates (ESCerts) under PAT, access to financing for energy efficiency projects, technical support and capacity building, star labelling for appliances promoting consumer awareness, and implementation support for Energy Conservation Building Code (ECBC) in commercial buildings.",
+  "financial_support": "Financial support under NMEEE includes innovative financing mechanisms for energy efficiency projects, such as the BEE-WB-SIDBI-GEF project for MSMEs, and leveraging multi-lateral and bi-lateral support. The PAT scheme allows trading of Energy Savings Certificates (ESCerts) on power exchanges, creating a market-based financial incentive. Financial assistance is also provided to institutions for promoting efficient use of energy and its conservation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Application processes vary by sub-scheme. For PAT, designated consumers are notified by the Central Government based on energy consumption norms and must comply with notified norms, rules and regulations. For Standards & Labelling, manufacturers can file applications online through the BEE web portal for star labelling of appliances. For SME programmes, interested entities can apply through designated channels as per specific programme guidelines. For ECBC, implementation is at state and local level through integration in municipal bye-laws.",
+  "application_portal_url": "https://beeindia.gov.in/",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India",
+  "contact_details": "Email: dg-bee[at]nic[dot]in | Phone: 011-26766702",
+  "caveats": [
+    "Eligibility and benefits vary significantly across the different sub-schemes under NMEEE (PAT, SME, Standards & Labelling, ECBC, etc.)",
+    "Implementation of certain components like ECBC depends on state and local government adoption and enforcement",
+    "Financial support mechanisms are subject to availability of funds and specific programme guidelines"
+  ],
+  "source_cited_notes": [
+    "https://beeindia.gov.in/nmeee",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=0&lid=11&ls_id=60",
+    "https://beeindia.gov.in/WriteReadData/L45218/1734437096.pdf",
+    "https://beeindia.gov.in/WriteReadData/L45218/0391943254953922.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:13:53.130529+00:00"
+}

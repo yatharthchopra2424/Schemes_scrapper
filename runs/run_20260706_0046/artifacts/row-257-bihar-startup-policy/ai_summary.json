@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-257",
+  "scheme_name": "Bihar Startup Policy",
+  "scheme_url": "https://startup.bihar.gov.in",
+  "ministry_or_category": "State Level (Bihar)",
+  "overview": "The Bihar Startup Policy 2022 provides interest-free loans of up to ₹10 lakh to startups, with dedicated support for women entrepreneurs. The policy aims to empower local entrepreneurs by providing resources, mentorship, and financial support to build scalable businesses contributing to Bihar’s economic development. Over 1500 startups have been funded under this policy, fostering innovation and entrepreneurship across the state.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Bihar only",
+  "objectives": [
+    "Empower local entrepreneurs by providing resources, mentorship, and financial support",
+    "Build scalable businesses that contribute to the state’s economic development",
+    "Provide interest-free loans of up to ₹10 lakh to startups",
+    "Offer dedicated support for women entrepreneurs",
+    "Foster innovation and entrepreneurship across diverse sectors in Bihar",
+    "Enable hassle-free and time-bound statutory clearances for startups",
+    "Provide institutional support including mentoring, hand-holding, and training/orientation visits",
+    "Facilitate Entrepreneurship Development Centers and Entrepreneurship Facilitation Centers"
+  ],
+  "eligibility": "The evidence does not specify explicit eligibility criteria such as turnover limits, incorporation period, or entity type for the Bihar Startup Policy 2022. General access is implied for startups registering via the portal, but no formal eligibility conditions are detailed in the provided text.",
+  "benefits": "Interest-free loans of up to ₹10 lakh, dedicated support for women entrepreneurs, access to incubation hubs like Bihar Innovation Lab and Bihar Startup Hub, mentorship from domain experts, financial advice from empaneled Chartered Accountants, legal and IP support for copyrights, patents, and trademarks, access to modern workspaces and co-working spaces, networking opportunities with entrepreneurs, investors, and mentors, and facilitation of statutory clearances.",
+  "financial_support": "The Bihar Startup Policy 2022 provides interest-free loans of up to ₹10 lakh to eligible startups. The financial support is disbursed through the Bihar Start-up Fund Trust (BSFT), which has an initial corpus of INR 500 crores. Over ₹75+ crore has been disbursed to date, supporting over 1500 startups.",
+  "fund_size_crores": "500",
+  "grant_amount_per_entity": "Up to ₹10 lakh",
+  "application_process": "1. Visit the Startup Bihar portal at https://startup.bihar.gov.in 2. Click on 'Register New Startup' or navigate to the registration page 3. Fill in basic details including founder and startup information 4. Provide entity details, co-founder details, and business idea 5. Complete the work checklist 6. Preview and acknowledge the application 7. Submit the application before the deadline 8. Await evaluation test results and interview calls if qualified",
+  "application_portal_url": "https://startup.bihar.gov.in/startupregistration",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Aadhaar of founders",
+    "Bank account details",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Application window is open till 31 July 2026, 11:59 PM",
+  "implementing_agency": "Department of Industries, Government of Bihar",
+  "contact_details": "Email: startup-bihar@gov.in | Phone: 1800 345 6214 (Toll Free) | Address: Department of Industries, 2nd Floor, Vikas Bhawan, New Secretariat, Bailey Road, Patna 800015",
+  "caveats": [
+    "Application window closes on 31 July 2026, 11:59 PM",
+    "Re-applicants must use a new mobile number and new email ID if Aadhaar has been released for re-application",
+    "False, misleading, or incomplete information may lead to application cancellation by administration",
+    "Financial support is subject to availability of funds under the Bihar Start-up Fund Trust"
+  ],
+  "source_cited_notes": [
+    "https://startup.bihar.gov.in/",
+    "https://startup.bihar.gov.in/about-us",
+    "https://startup.bihar.gov.in/PublicDashboard",
+    "https://firebasestorage.googleapis.com/v0/b/gatishaktibihar.firebasestorage.app/o/startup_bihar%2FNotification%2FEvaluation%20Test%20_01-06-2026%20%26%2002-06-2026%20for%20April'26.pdf?alt=media&token=1d261200-75d8-4143-8881-b7d4817fbd22"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:41:48.329965+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-389",
+  "scheme_name": "Mine Developer and Operator (MDO) Policy",
+  "scheme_url": "https://mines.gov.in",
+  "ministry_or_category": "Mining & Minerals",
+  "overview": "The Mine Developer and Operator (MDO) Policy is a framework under the Mines and Minerals (Development and Regulation) Act, 1957 that allows private sector participation in mining operations through a contractual model where the MDO is responsible for developing and operating mines on behalf of the mineral concession holder. The policy aims to enhance efficiency, bring in technical expertise, and ensure optimal utilization of mineral resources by leveraging private sector capabilities in mine development and operations. It is designed to promote transparency, accountability, and sustainable mining practices while reducing the burden on government agencies for operational management.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private sector companies",
+    "mine developers and operators",
+    "mineral concession holders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance efficiency and productivity in mining operations through private sector participation",
+    "To bring in technical, managerial, and financial expertise for mine development and operations",
+    "To ensure optimal utilization of mineral resources and reduce operational risks",
+    "To promote transparency and accountability in mining concession management",
+    "To facilitate sustainable mining practices and compliance with environmental and safety regulations",
+    "To reduce the administrative and operational burden on government agencies",
+    "To encourage investment in the mining sector through a clear and structured contractual framework"
+  ],
+  "eligibility": "The Mine Developer and Operator (MDO) must be a company registered under the Companies Act, 2013 or any other applicable law, with the technical and financial capability to undertake mine development and operations. The MDO must comply with the eligibility conditions specified under Section 5 of the Mines and Minerals (Development and Regulation) Act, 1957, including being an Indian national or a company incorporated in India. The MDO must also meet the net worth requirements as per the Mineral (Auction) Rules, 2015, depending on the type of concession (mining lease, composite licence, or exploration licence) being operated.",
+  "benefits": "The MDO model provides access to private sector expertise in mine planning, development, and operations, leading to improved efficiency, safety, and productivity. It ensures timely execution of mining projects, better resource utilization, and adherence to statutory and environmental norms. The mineral concession holder benefits from reduced operational burden, assured royalty payments, and compliance with legal obligations. The MDO earns revenue through pre-agreed fees or profit-sharing mechanisms as per the MDO agreement, ensuring returns on investment while promoting sustainable mining practices.",
+  "financial_support": "Under the MDO Policy, financial arrangements are contractual and based on mutual agreement between the mineral concession holder and the MDO. Compensation to the MDO is typically structured as a fixed fee per tonne of mineral extracted, a percentage of the gross revenue, or a hybrid model, as defined in the MDO agreement. There is no direct government financial support or subsidy under this policy; all financial flows are between the concession holder and the MDO. The policy enables cost recovery and profit generation for the MDO based on operational performance and agreed terms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a mineral concession holder seeking to engage an MDO for mine development and operations. 2. The mineral concession holder invites bids or enters into negotiations with eligible MDO entities. 3. The MDO submits a technical and financial proposal detailing its capability, work plan, and proposed financial terms. 4. The concession holder evaluates the proposal based on technical competence, experience, and financial viability. 5. Upon selection, a formal MDO agreement is executed outlining roles, responsibilities, financial terms, timelines, and performance metrics. 6. The MDO commences mine development activities, including land acquisition, clearances, infrastructure setup, and mining operations. 7. Regular monitoring and reporting are conducted by the concession holder or an appointed third party to ensure compliance with the agreement and regulatory requirements. 8. Payments to the MDO are made as per the agreed schedule, based on milestones achieved or mineral dispatch.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation of the MDO entity",
+    "PAN and TAN of the MDO",
+    "audited financial statements of the MDO for the last 3 years",
+    "Technical capability profile including experience in mine development and operations",
+    "Proposed work plan and methodology for mine development",
+    "Financial bid or fee structure proposal",
+    "Undertaking of compliance with environmental, safety, and labour laws",
+    "Any additional documents as specified by the mineral concession holder in the RFP or agreement"
+  ],
+  "deadlines": "Rolling basis — applications are accepted as and when mineral concession holders invite bids or seek MDO engagement.",
+  "implementing_agency": "Ministry of Mines, Government of India",
+  "contact_details": "Email: so-cdn-mines@nic.in | Tel. No. – 26773620",
+  "caveats": [
+    "The MDO does not acquire ownership of the mineral concession; rights remain with the concession holder",
+    "The MDO is liable for compliance with all applicable laws, including environmental, forest, and labour regulations",
+    "The MDO agreement must be consistent with the terms of the mineral concession and applicable mining laws",
+    "Early termination of the MDO agreement may attract penalties or liabilities as per contractual terms",
+    "The policy does not guarantee minimum work volume or revenue for the MDO"
+  ],
+  "source_cited_notes": [
+    "https://mines.gov.in",
+    "https://mines.gov.in/webportal/home",
+    "https://mines.gov.in/webportal/aboutus",
+    "https://mines.gov.in/webportal/content/functions",
+    "https://mines.gov.in/admin/download/6618d64f21dd11712903759.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:10:48.128273+00:00"
+}

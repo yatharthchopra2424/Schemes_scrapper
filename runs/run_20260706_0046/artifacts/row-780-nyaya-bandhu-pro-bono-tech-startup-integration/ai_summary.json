@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-780",
+  "scheme_name": "Nyaya Bandhu – Pro Bono Tech Startup Integration",
+  "scheme_url": "https://nyayabandhu.nic.in",
+  "ministry_or_category": "LegalTech Startups",
+  "overview": "Nyaya Bandhu – Pro Bono Tech Startup Integration is a government initiative aimed at integrating legal technology startups into the Nyaya Bandhu (Pro Bono Legal Services) program to enhance access to justice through technological innovation. The scheme encourages startups to develop and deploy tech solutions that support pro bono legal aid services, particularly for marginalized and underserved communities. It seeks to bridge the gap between legal aid demand and supply by leveraging innovative tools such as case management systems, AI-assisted legal research, and client communication platforms.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "legaltech startups",
+    "pro bono service providers",
+    "underserved communities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the use of technology in delivering pro bono legal services",
+    "Support startups developing innovative solutions for legal aid accessibility",
+    "Strengthen the Nyaya Bandhu network through tech integration",
+    "Improve efficiency and reach of pro bono lawyers via digital tools",
+    "Encourage innovation in case management, client outreach, and legal awareness",
+    "Foster public-private collaboration in advancing access to justice"
+  ],
+  "eligibility": "Startups registered in India under the Companies Act, 2013, LLP Act, 2008, or as a recognized partnership firm, working on technology solutions that enhance the delivery, monitoring, or accessibility of pro bono legal services, with a focus on serving marginalized and vulnerable populations.",
+  "benefits": "Selected startups receive mentorship, technical guidance, and opportunities to pilot their solutions with Nyaya Bandhu volunteers and legal aid clinics; access to feedback from legal professionals and end-users; potential for scaling through government networks; and recognition as a technology partner in the national pro bono legal aid initiative.",
+  "financial_support": "The scheme does not provide direct financial grants or funding to startups; support is primarily non-financial, focusing on incubation, mentorship, piloting opportunities, and integration into the Nyaya Bandhu ecosystem for real-world testing and deployment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Nyaya Bandhu portal at nyayabandhu.nic.in 2. Navigate to the 'Tech Startup Integration' or 'Pro Bono Tech' section 3. Review eligibility criteria and objectives 4. Fill out the online application form with startup details, technology solution description, and intended impact 5. Upload required documents including incorporation proof, product demo, and team details 6. Submit the application for review 7. Await evaluation by the Nyaya Bandhu selection committee 8. If shortlisted, participate in interviews or demonstrations 9. Receive notification of selection and next steps for integration.",
+  "application_portal_url": "https://nyayabandhu.nic.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration (if applicable)",
+    "Product demo video or prototype link",
+    "Team details and qualifications",
+    "Description of the technology solution and its relevance to pro bono legal aid",
+    "Impact assessment plan or pilot proposal",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year without fixed deadlines.",
+  "implementing_agency": "Department of Justice, Ministry of Law and Justice, Government of India",
+  "contact_details": "Email: nyayabandhu@nic.in | Helpline: 1800-11-7777",
+  "caveats": [
+    "Financial support is not provided under this scheme; benefits are limited to non-financial incubation and piloting opportunities",
+    "Selection is based on the relevance, scalability, and potential impact of the technology solution on access to justice",
+    "Startups must comply with data privacy and security standards, especially when handling sensitive legal aid data",
+    "Continued engagement is subject to performance review and mutual agreement",
+    "The scheme does not guarantee funding, procurement, or long-term contracts"
+  ],
+  "source_cited_notes": [
+    "https://nyayabandhu.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:46:36.834535+00:00"
+}

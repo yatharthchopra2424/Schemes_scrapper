@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-884",
+  "scheme_name": "Open Finance Framework for Embedded Lending Startups",
+  "scheme_url": "https://www.rbi.org.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "The Open Finance Framework for Embedded Lending Startups is a regulatory initiative by the Reserve Bank of India (RBI) aimed at enabling startups in the FinTech and BFSI sectors to offer embedded lending services through standardized, secure, and interoperable financial data sharing mechanisms. It seeks to foster innovation in credit delivery by leveraging account aggregator ecosystems and consent-based data sharing, thereby reducing information asymmetry and improving access to credit for underserved segments. The framework supports the development of plug-and-play lending solutions that integrate with digital platforms, enhancing financial inclusion and efficiency in lending processes.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "FinTech companies",
+    "embedded lending platforms"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable secure and consent-based sharing of financial data for embedded lending use cases",
+    "Promote interoperability and standardization across account aggregator and lending platforms",
+    "Reduce information asymmetry in credit underwriting to improve access to finance for MSMEs and individuals",
+    "Foster innovation in FinTech by providing a regulatory sandbox for embedded lending models",
+    "Strengthen consumer protection and data privacy in digital lending ecosystems",
+    "Support the scaling of responsible lending through standardized APIs and risk management frameworks"
+  ],
+  "eligibility": "Startups and FinTech entities operating in India that wish to offer embedded lending services by leveraging account aggregator frameworks, provided they comply with RBI guidelines on data privacy, security, and consumer protection, and are registered as regulated entities under relevant RBI statutes.",
+  "benefits": "Access to standardized APIs for seamless integration with account aggregators; regulatory clarity on data usage for lending; enhanced credibility through RBI-recognized framework; ability to offer instant credit at point-of-sale or within digital platforms; reduced customer acquisition and underwriting costs; support for innovation in credit scoring and risk modeling using consented financial data.",
+  "financial_support": "The framework does not provide direct financial support such as grants or loans. Instead, it enables startups to access financial opportunities by reducing barriers to entry in the lending space through regulatory facilitation and infrastructure support for data sharing.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Review the Open Finance Framework guidelines published by RBI on its official website. 2. Ensure compliance with data protection, security, and consumer protection norms as outlined in the framework. 3. Integrate with RBI-recognized Account Aggregators (AAs) for consent-based financial data retrieval. 4. Implement secure and auditable data handling practices as per RBI standards. 5. Submit details of the embedded lending model and compliance framework to RBI for review, if required under specific notifications. 6. Obtain necessary approvals or registrations as per applicable RBI directions (e.g., as a lending platform or technology provider). 7. Launch services post-compliance validation and monitor adherence to ongoing reporting and audit requirements.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "Business plan detailing the embedded lending model",
+    "Data privacy and security policy compliant with RBI guidelines",
+    "Consent management framework documentation",
+    "Integration architecture with Account Aggregators",
+    "Audit reports on data handling and security (if applicable)",
+    "Compliance self-certification as per RBI directions"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications or notifications can be submitted as per ongoing regulatory guidelines.",
+  "implementing_agency": "Reserve Bank of India",
+  "contact_details": "Email: helpdoc@rbi.org.in | Phone: 022 - 2266 0502",
+  "caveats": [
+    "The framework does not guarantee approval or licensing; entities must comply with all applicable RBI regulations.",
+    "Embedded lending activities must adhere to extant usury laws, fair practices codes, and digital lending guidelines.",
+    "Data sharing is strictly consent-based; misuse of customer data attracts penalties under RBI and data protection laws.",
+    "The framework is subject to periodic review and updates based on technological and market developments."
+  ],
+  "source_cited_notes": [
+    "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR48D7FCFA63429D439E9D1D89508B2AD104.PDF",
+    "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR65A0EF34325CD244B4A848716FCCE97FA0.PDF",
+    "https://rbidocs.rbi.org.in/rdocs/content/pdfs/Accessibility20012026.pdf",
+    "https://www.rbi.org.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:45:22.167862+00:00"
+}

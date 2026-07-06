@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-232",
+  "scheme_name": "Pradhan Mantri Matru Vandana Yojana (PMMVY)",
+  "scheme_url": "https://pmmvy.wcd.gov.in",
+  "ministry_or_category": "Social Welfare",
+  "overview": "Pradhan Mantri Matru Vandana Yojana (PMMVY) is a maternity benefit scheme under the Ministry of Women and Child Development, launched pan India with effect from 01.01.2017. It provides financial support for pregnant and lactating mothers to improve health and nutrition for mother and child, and to compensate for wage loss. The scheme was initially for the first child only, but from 01.04.2022, benefits are also provided for the second child if it is a girl.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "pregnant women",
+    "lactating mothers",
+    "women belonging to socially and economically disadvantaged sections",
+    "SC/ST",
+    "disabled women",
+    "BPL ration card holders",
+    "PMJAY beneficiaries",
+    "E-shram card holders",
+    "Kisan Samman Nidhi beneficiaries",
+    "MGNREGA job card holders",
+    "women with net family income less than ₹8 lakh per annum",
+    "pregnant and lactating AWWs/AWHs/ASHAs",
+    "women holding ration card under NFSA 2013"
+  ],
+  "geographic_scope": "Pan-India (except Telangana and Odisha, which have their own maternity benefit schemes)",
+  "objectives": [
+    "Provide cash incentive for partial compensation for wage loss so that the woman can take adequate rest before and after delivery",
+    "Promote health-seeking behaviour among pregnant women and lactating mothers",
+    "Improve health and nutrition for mother and child",
+    "Encourage institutional delivery",
+    "Support women from marginalized and vulnerable sections of society"
+  ],
+  "eligibility": "The scheme aims to cover women belonging to socially, economically disadvantaged, and marginalized sections of society. Any of the following eligibility criteria is required to avail the benefit of PMMVY: Women belonging to scheduled castes and scheduled tribes; Women who are partially (40%) or fully disabled (Divyang Jan); Women holder of BPL ration Card; Women Beneficiaries under Pradhan Mantri Jan Aarogya Yojana (PMJAY) under Ayushman Bharat; Women holding E-shram card; Women farmers who are beneficiaries under Kisan Samman Nidhi; Women holding MGNREGA Job Card; Women whose net family income is less than ₹8 Lakh per annum; Pregnant and Lactating AWWs/ AWHs/ ASHAs; Women holding Ration Card under NFSA Act 2013; Any other category as may be prescribed by the Central Government.",
+  "benefits": "Financial assistance of Rs 5000/- for the first child in two instalments (₹3000/- after Ante-Natal Check-up and ₹2000/- after childbirth and 14 weeks of universal immunization); Rs. 6000/- for the second child (if girl child) in a single instalment after childbirth and completion of universal immunization within 14 weeks; eligibility for Janani Suraksha Yojana (Ministry of Health and Family Welfare Scheme) after institutional delivery; direct benefit transfer to Aadhaar-linked bank/post office account; self-registration provision across the country; mobile app for registration; field functionaries (AWW/ASHA) can fill applications online for beneficiaries in their jurisdiction.",
+  "financial_support": "The PMMVY benefit of Rs 5000/- is given for the first child in two instalments (first instalment of ₹3000/- after Ante-Natal Check-up (ANC) and second instalment of ₹2000/- after the childbirth and 14 weeks of universal immunization). Rs. 6000/- is given for the second child (if girl child) in a single instalment after the childbirth and completion of universal immunization within 14 weeks. After filling of online application form and approval of block level officer, the fund will be directly credited to the Aadhaar based bank account of the beneficiary through Direct Beneficiary Transfer (DBT).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs 5000/- for first child; Rs 6000/- for second child (if girl child)",
+  "application_process": "1. Visit the nearest Anganwadi worker/ASHA worker or access the PMMVY portal at https://pmmvy.wcd.gov.in. 2. Fill the online application form (self-registration or through AWW/ASHA). 3. Upload required documents including Aadhaar card, Aadhaar-mapped bank/post office account details, mobile number, eligibility proof, MCP/RCHI card, LMP date, ANC date, child birth certificate, and child immunization details. 4. Submit the application. 5. Await approval from block level officer. 6. Upon approval, funds are disbursed via Direct Benefit Transfer (DBT) to the Aadhaar-linked bank/post office account.",
+  "application_portal_url": "https://pmmvy.wcd.gov.in",
+  "required_documents": [
+    "Aadhaar card",
+    "Aadhaar mapped bank/post office account details",
+    "Mobile number",
+    "Eligibility proof (e.g., SC/ST certificate, BPL ration card, PMJAY card, E-shram card, Kisan Samman Nidhi, MGNREGA job card, income proof, NFSA ration card, disability certificate)",
+    "MCP/RCHI card (Mother and Child Protection Card)",
+    "LMP date (Last Menstruation Period)",
+    "ANC date (Ante-Natal Check-up)",
+    "Child birth certificate",
+    "Child immunization details"
+  ],
+  "deadlines": "A beneficiary is eligible to register in the PMMVY portal till 270 days from childbirth.",
+  "implementing_agency": "Ministry of Women and Child Development",
+  "contact_details": "Email Id: pmmvy-mwcd@gov.in | For Helpline: 1515 (from 9:00 am to 6:00 pm)",
+  "caveats": [
+    "Benefits for second child are only provided if the second child is a girl (effective from 01.04.2022)",
+    "Scheme is not being implemented in Telangana and Odisha as they have their own maternity benefit schemes",
+    "Aadhaar of beneficiary is mandatory for availing the scheme",
+    "In case of miscarriage/still birth, the beneficiary will be treated as fresh beneficiary in event of any future pregnancy",
+    "The mandatory provision of the husband’s Aadhaar has been removed (under PMMVY 2.0)"
+  ],
+  "source_cited_notes": [
+    "https://pmmvy.wcd.gov.in/Home/FrequentlyAskedQuestions",
+    "https://pmmvy.wcd.gov.in/Home/Contact"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:26:15.813850+00:00"
+}

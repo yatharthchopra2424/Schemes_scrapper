@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-486",
+  "scheme_name": "National Digital Library of India (NDLI)",
+  "scheme_url": "https://ndl.iitkgp.ac.in",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "National Digital Library of India (NDLI) is a virtual repository of learning resources sponsored and mentored by the Ministry of Education, Government of India, through its National Mission on Education through Information and Communication Technology (NMEICT). It provides a single-window access to learning resources across disciplines, academic levels, and languages, supporting learners from school to lifelong education. NDLI offers user group-specific services such as examination preparatory content, resources for researchers, and general learners, with interface support for 10 widely used Indian languages. It is developed, operated, and maintained from the Indian Institute of Technology Kharagpur.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "researchers",
+    "lifelong learners",
+    "job aspirants",
+    "educators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To make learning resources available through a single-window to learners",
+    "To provide filtered and federated searching for focused and efficient resource discovery",
+    "To offer user group-specific services such as examination preparatory content for school and college students and job aspirants",
+    "To support researchers and general learners with tailored services",
+    "To hold content in any language and provide interface support for 10 most widely used Indian languages",
+    "To support all academic levels including researchers and life-long learners across all disciplines",
+    "To enable learning from global best practices and facilitate inter-linked exploration from multiple sources",
+    "To democratize education and promote integrated digital learning across India"
+  ],
+  "eligibility": "Open to all learners, researchers, and educators across India with no restrictions based on age, educational background, or institutional affiliation. Access is free and available to anyone with internet connectivity.",
+  "benefits": "Free access to a vast repository of learning resources including textbooks, lecture videos, question papers, journals, theses, manuscripts, and multimedia content. Services include examination preparatory materials, research support, multilingual interface, accessibility for differently-abled learners, and integration with various educational boards and levels. Users can explore content by subject, language, resource type, and provider.",
+  "financial_support": "The NDLI project is sponsored and funded by the Ministry of Education, Government of India, through the National Mission on Education through Information and Communication Technology (NMEICT). No direct financial support is provided to end-users; the platform is entirely free to access and use.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the NDLI portal at https://ndl.iitkgp.ac.in 2. Browse or search for resources using the search bar or explore by subject, language, or resource type 3. For institutional registration, set up an NDLI-Club via https://club.ndl.iitkgp.ac.in to obtain an Institutional Registration No. 4. Individual users can register for an account via https://ndl.iitkgp.ac.in/account/registration 5. Use the portal to access learning materials, prepare for exams, or conduct research without any fees.",
+  "application_portal_url": "https://ndl.iitkgp.ac.in/account/registration",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Access and registration are available year-round.",
+  "implementing_agency": "Ministry of Education, Government of India, through its National Mission on Education through Information and Communication Technology (NMEICT)",
+  "contact_details": "Mail: support@ndl.gov.in | Phone: 03222 282435 | Address: National Digital Library of India Central Library, Indian Institute of Technology Kharagpur, Kharagpur, West Bengal, India | PIN - 721302",
+  "caveats": [
+    "NDLI hosts content from external sources and does not guarantee authenticity, relevance, completeness, accuracy, reliability, or suitability of content",
+    "The portal may experience downtime due to unavoidable technical issues",
+    "Institutional registration requires setting up an NDLI-Club through the NDLI-Club portal",
+    "Some browse and advanced features require user login"
+  ],
+  "source_cited_notes": [
+    "https://ndl.iitkgp.ac.in",
+    "https://ndl.iitkgp.ac.in/account/registration",
+    "https://ndl.iitkgp.ac.in/",
+    "https://ndl.iitkgp.ac.in/ndl_sd",
+    "https://ndl.iitkgp.ac.in/ndl_ch",
+    "https://ndl.iitkgp.ac.in/ndl_nw",
+    "https://ndl.iitkgp.ac.in/ndl_lw",
+    "https://ndl.iitkgp.ac.in/ndl_pt",
+    "https://ndl.iitkgp.ac.in/ndl_se"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:54:22.341138+00:00"
+}

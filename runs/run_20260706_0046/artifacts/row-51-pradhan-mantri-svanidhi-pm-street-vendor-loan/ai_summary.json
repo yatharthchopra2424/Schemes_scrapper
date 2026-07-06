@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-51",
+  "scheme_name": "Pradhan Mantri SVANidhi (PM Street Vendor Loan)",
+  "scheme_url": "https://pmsvanidhi.mohua.gov.in",
+  "ministry_or_category": "Social Justice",
+  "overview": "Pradhan Mantri SVANidhi (PM Street Vendor Loan) is a special micro-credit facility launched to provide affordable working capital loans to street vendors affected by the COVID-19 pandemic. The scheme offers collateral-free loans with interest subsidies and digital transaction incentives to promote financial inclusion and livelihood security. It aims to support urban street vendors in resuming and expanding their vending activities through easy access to credit.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "street vendors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide affordable working capital loans to street vendors",
+    "Promote digital transactions through cashback incentives",
+    "Support financial inclusion of urban street vendors",
+    "Enable livelihood recovery post-pandemic",
+    "Facilitate easy access to credit without collateral",
+    "Encourage formalization of street vending activities"
+  ],
+  "eligibility": "Street vendors who have been covered in the Urban Local Body (ULB) survey and possess a Certificate of Vending (CoV) or Identity card, or those who have not been issued CoV/ID but are listed in the survey, or vendors who started vending after the survey and can provide a Letter of Recommendation (LoR) or declare receipt of one-time assistance during COVID lockdown or membership in a vending/hawkers association, or vendors from peri-urban/rural areas vending within ULB limits with similar documentation.",
+  "benefits": "Collateral-free working capital loans, interest subsidy of 7% per annum on timely repayment, monthly cashback incentives for digital transactions, access to PM SVANidhi Credit Card for second tranche repaid vendors, vendor mobility facility to update ULB details on migration, and access to digital literacy and awareness campaigns under 'Main Bhi Digital'.",
+  "financial_support": "The scheme provides term loans in three tranches: first loan up to ₹10,000, second loan up to ₹20,000, and third loan up to ₹50,000. Loans are disbursed through participating lending institutions with an interest subsidy of 7% per annum credited to the borrower's account on timely repayment. Additionally, monthly cashback incentives are provided for digital transactions undertaken using the loan amount.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to ₹50,000 for the third tranche loan",
+  "application_process": "1. Check eligibility based on vendor category and survey status. 2. Ensure mobile number is linked to Aadhaar for e-KYC validation. 3. Keep required documents ready such as Certificate of Vending, Identity card, Survey Reference Number (SRN), or Letter of Recommendation (LoR). 4. Apply online via the PM SVANidhi portal or through a Common Service Centre (CSC). 5. Complete e-KYC/Aadhaar validation during application. 6. Submit application and await digital approval from lending institution.",
+  "application_portal_url": "https://pmsvanidhi.mohua.gov.in",
+  "required_documents": [
+    "Certificate of Vending (CoV) or Identity card issued by ULB",
+    "Survey Reference Number (SRN)",
+    "Letter of Recommendation (LoR) from ULB/Town Vending Committee (if applicable)",
+    "Proof of one-time assistance during COVID lockdown (if applicable)",
+    "Proof of membership in vending/hawkers association (if applicable)",
+    "Aadhaar-linked mobile number for e-KYC"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Housing and Urban Affairs",
+  "contact_details": "",
+  "caveats": [
+    "Loan availability is restricted to beneficiaries in States/UTs that have notified rules under the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014",
+    "Beneficiaries must repay the previous loan tranche to be eligible for the next",
+    "Interest subsidy and cashback incentives are contingent on timely repayment and digital transaction usage",
+    "Loan amount limits are enhanced based on tranche and repayment history"
+  ],
+  "source_cited_notes": [
+    "https://pmsvanidhi.mohua.gov.in",
+    "https://pmsvanidhi.mohua.gov.in/Home/PreApplication",
+    "https://pmsvanidhi.mohua.gov.in/Home/States"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:50:39.061191+00:00"
+}

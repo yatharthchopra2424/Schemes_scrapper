@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-793",
+  "scheme_name": "CBSE Skill Education Lab Setup Scheme",
+  "scheme_url": "https://www.cbse.gov.in",
+  "ministry_or_category": "EduTech Startups",
+  "overview": "The CBSE Skill Education Lab Setup Scheme is a government initiative aimed at establishing skill education laboratories in schools affiliated with the Central Board of Secondary Education (CBSE). The scheme focuses on integrating vocational and skill-based learning into the school curriculum to enhance employable skills among students. It supports the implementation of the National Education Policy (NEP) 2020 by promoting experiential learning and industry-aligned training in emerging sectors.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "schools",
+    "students",
+    "teachers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To establish skill education laboratories in CBSE-affiliated schools",
+    "To promote vocational training and skill development aligned with industry needs",
+    "To support the implementation of the National Education Policy 2020",
+    "To enhance employability and entrepreneurship among students",
+    "To provide hands-on learning experiences in emerging sectors",
+    "To bridge the gap between academic education and practical skills",
+    "To train teachers in delivering skill-based education effectively"
+  ],
+  "eligibility": "CBSE-affiliated schools are eligible to apply for the Skill Education, provided they meet infrastructure and administrative approval process.",
+  "benefits": "Financial support for setting up skill labs, access to standardized curriculum and training modules, teacher training programs, industry partnerships for internships and placements, enhanced student engagement and learning outcomes, alignment with NEP 2020 goals, and improved school infrastructure for vocational education.",
+  "financial_support": "The scheme provides financial assistance to eligible schools for the establishment of skill education laboratories, including procurement of equipment, setup of infrastructure, and training of personnel. The exact quantum and mechanism of support are determined based on the proposal and availability of funds under the scheme guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Schools must log in to the CBSE portal or designated skill education portal. 2. Submit a proposal detailing the lab setup, objectives, budget, and implementation plan. 3. Upload required documents such as school affiliation certificate, infrastructure details, and financial plan. 4. Await review and approval by the CBSE Skill Education Committee. 5. Upon approval, receive sanction letter and proceed with lab establishment. 6. Submit utilization reports and completion certificate after implementation.",
+  "application_portal_url": "https://cbseit.in/cbse/2022/ET/frmListing",
+  "required_documents": [
+    "School affiliation certificate from CBSE",
+    "Infrastructure details and layout plan of the proposed lab",
+    "Budget estimate for equipment and setup",
+    "Implementation timeline and monitoring plan",
+    "Undertaking from school management",
+    "Details of proposed skill courses to be offered"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and approval cycles.",
+  "implementing_agency": "Central Board of Secondary Education (CBSE), Ministry of Education, Government of India",
+  "contact_details": "Email: drtrgcbse@gmail.com | Phone: 011-24050812",
+  "caveats": [
+    "Funds are subject to availability and approval by the competent authority",
+    "Lab setup must comply with CBSE skill education guidelines and safety standards",
+    "Utilization of funds must be audited and reported as per financial norms",
+    "The scheme may be revised or discontinued based on policy updates"
+  ],
+  "source_cited_notes": [
+    "https://cbseit.in/cbse/2022/ET/frmListing",
+    "https://prerana.education.gov.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:00:58.950847+00:00"
+}

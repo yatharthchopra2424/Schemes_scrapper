@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-512",
+  "scheme_name": "National Social Assistance Programme (NSAP)",
+  "scheme_url": "https://nsap.nic.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "The National Social Assistance Programme (NSAP) is a centrally sponsored scheme of the Government of India that provides financial assistance to the elderly, widows, and persons with disabilities in the form of social pensions. It aims to ensure minimum national standards for social assistance and supplement state-level efforts in providing social security to vulnerable groups. The programme includes components such as Indira Gandhi National Old Age Pension Scheme (IGNOAPS), Indira Gandhi National Widow Pension Scheme (IGNWPS), and Indira Gandhi National Disability Pension Scheme (IGNDPS).",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "elderly",
+    "widows",
+    "persons with disabilities",
+    "BPL households"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to the elderly, widows, and persons with disabilities living below the poverty line",
+    "Ensure minimum national standards for social assistance",
+    "Supplement state-level social security initiatives",
+    "Reduce vulnerability among disadvantaged groups through regular pension support"
+  ],
+  "eligibility": "Beneficiaries must be living below the poverty line (BPL) as per state-specific criteria. For IGNOAPS: age 60 years and above. For IGNWPS: widows aged 40-79 years. For IGNDPS: persons aged 18-79 years with severe or multiple disabilities. The applicant must not be receiving any other pension under any other scheme of the Government of India or State Government.",
+  "benefits": "Monthly pension under IGNOAPS: ₹300 per month for ages 60-79 and ₹500 per month for age 80 and above. Under IGNWPS: ₹300 per month for widows aged 40-79. Under IGNDPS: ₹300 per month for persons with disabilities aged 18-79. Benefits are disbursed directly into bank/post office accounts via Direct Benefit Transfer (DBT).",
+  "financial_support": "Financial assistance is provided as a monthly social pension through Direct Benefit Transfer (DBT) to the bank or post office accounts of eligible beneficiaries. The central government contributes a fixed amount, with states expected to supplement it. The pension is disbursed monthly and aims to provide a minimum level of income support.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Check eligibility based on age, disability, widow status, and BPL criteria. 2. Obtain application form from the local Gram Panchayat, Municipality, or designated office. 3. Fill the form with required details and attach supporting documents. 4. Submit the application to the concerned local authority. 5. Application is verified by the local body and forwarded to the district level for sanction. 6. Upon approval, pension is disbursed monthly via DBT to the beneficiary's bank/post office account.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of age (birth certificate, school certificate, etc.)",
+    "Proof of residence",
+    "BPL certificate issued by competent authority",
+    "Disability certificate (for IGNDPS) issued by medical board",
+    "Death certificate of spouse (for IGNWPS)",
+    "Bank/post office account details for DBT",
+    "Passport-sized photographs"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are only available to individuals living below the poverty line (BPL)",
+    "Pension amount may be supplemented by state governments but central assistance is fixed",
+    "Beneficiaries must not be receiving any other government pension",
+    "Disbursement depends on timely submission and verification of documents"
+  ],
+  "source_cited_notes": [
+    "https://nsap.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:05:21.063482+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-479",
+  "scheme_name": "National Programme for Prevention & Control of Cancer (NPCC)",
+  "scheme_url": "https://mohfw.gov.in",
+  "ministry_or_category": "Healthcare & MedTech",
+  "overview": "The National Programme for Prevention & Control of Cancer (NPCC) is a public health initiative under the Ministry of Health and Family Welfare aimed at reducing cancer incidence and mortality through prevention, early detection, diagnosis, treatment, and palliative care. It focuses on strengthening infrastructure, capacity building, and awareness generation across the country. The programme supports screening for common cancers such as cervical, breast, and oral cancer at various levels of the healthcare system.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "general public",
+    "women",
+    "elderly",
+    "rural populations",
+    "healthcare facilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Prevent cancer through health promotion and risk factor reduction",
+    "Strengthen early detection and screening facilities at district and sub-district levels",
+    "Ensure access to equitable, affordable, and quality cancer treatment services",
+    "Develop human resources and build capacity in oncology and palliative care",
+    "Establish and strengthen population-based and hospital-based cancer registries",
+    "Promote research and surveillance on cancer trends and outcomes",
+    "Provide palliative care and pain management services",
+    "Generate awareness about cancer prevention, early signs, and treatment options"
+  ],
+  "eligibility": "Eligibility varies by component: individuals are eligible for screening based on age and risk factors (e.g., women aged 30-65 for cervical and breast cancer screening); healthcare institutions (government hospitals, CHCs, PHCs) are eligible for infrastructure and human resource support under the programme; NGOs and academic institutions may participate in awareness and training activities as per guidelines.",
+  "benefits": "Financial support for setting up cancer diagnostic and treatment facilities; free or subsidized cancer screening services for eligible populations; training of healthcare workers in early detection and palliative care; strengthened referral linkages between primary, secondary, and tertiary care centers; availability of essential cancer medicines at reduced cost; public awareness campaigns on cancer prevention and early symptoms.",
+  "financial_support": "Financial support is provided to states and union territories under the National Health Mission (NHM) framework for infrastructure development, procurement of equipment, training of manpower, and implementation of screening and treatment activities. Funds are allocated based on state-specific proposals and disease burden, with central government contributing a defined share and states providing the remaining portion as per NHM funding norms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs submit annual Programme Implementation Plans (PIPs) under the National Health Mission (NHM) for cancer-related activities under NPCC. 2. Proposals are appraised by the Ministry of Health and Family Welfare based on norms, disease burden, and gap analysis. 3. Upon approval, funds are released in installments as per NHM financial management guidelines. 4. Implementation is monitored through regular reporting, field visits, and performance reviews. 5. Utilization certificates and audit reports are submitted by states for subsequent fund releases.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Annual Programme Implementation Plan (PIP)",
+    "State-level cancer action plan",
+    "Utilization certificates of previous funds",
+    "Audit reports",
+    "Progress reports on screening and treatment activities",
+    "Manpower and infrastructure details"
+  ],
+  "deadlines": "Annual — aligned with the National Health Mission (NHM) planning cycle; proposals typically submitted during the financial year planning process.",
+  "implementing_agency": "Ministry of Health and Family Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is contingent upon submission of valid proposals and utilization certificates",
+    "Implementation depends on state-level prioritization and health system readiness",
+    "Screening services are subject to availability of trained personnel and infrastructure",
+    "Continued funding is based on performance and adherence to NHM guidelines"
+  ],
+  "source_cited_notes": [
+    "https://mohfw.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:49:26.986928+00:00"
+}

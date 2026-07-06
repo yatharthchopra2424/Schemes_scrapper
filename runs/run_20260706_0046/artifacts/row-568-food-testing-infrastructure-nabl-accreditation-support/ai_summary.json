@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-568",
+  "scheme_name": "Food Testing Infrastructure – NABL Accreditation Support",
+  "scheme_url": "https://www.nabl-india.org",
+  "ministry_or_category": "Food Processing",
+  "overview": "NABL (National Accreditation Board for Testing and Calibration Laboratories) provides voluntary accreditation services to testing laboratories, calibration laboratories, medical testing laboratories, proficiency testing providers, reference material producers, and biobanks in accordance with international standards such as ISO/IEC 17025, ISO 15189, ISO/IEC 17043, ISO 17034, and ISO 20387. The scheme ensures technical competence, international recognition, and facilitates acceptance of test/calibration results across borders through Mutual Recognition Arrangements (MRA with ILAC and APAC). NABL is self-financing and charges fees to conformity assessment bodies to cover operational costs.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "testing laboratories",
+    "calibration laboratories",
+    "medical testing laboratories",
+    "proficiency testing providers",
+    "reference material producers",
+    "biobanks"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide voluntary accreditation services to conformity assessment bodies in accordance with international standards",
+    "To enhance stakeholders' confidence in the technical competence of accredited bodies",
+    "To facilitate international acceptance of test and calibration results through MRA with ILAC and APAC",
+    "To strengthen the accreditation system by empanelling competent assessors and fostering APAC/ILAC MRA",
+    "To create awareness among stakeholders and initiate new programs supporting accreditation activities",
+    "To pursue organisational excellence and provide high quality, value-driven services"
+  ],
+  "eligibility": "Eligibility varies by CAB type: Testing laboratories must comply with ISO/IEC 17025, calibration laboratories with ISO/IEC 17025, medical testing laboratories with ISO 15189, proficiency testing providers with ISO/IEC 17043, reference material producers with ISO 17034, and biobanks with ISO 20387. Assessors for training must be aged 38-55 years, hold a Bachelor’s in Engineering/Technology or Master’s in Science (or relevant postgraduate/Ph.D. for medical), and have minimum ten years of experience in the relevant field, with five years at supervisory level or above.",
+  "benefits": "Formal recognition of competence, international recognition, access to global markets, time and cost efficiency, enhanced customer confidence, robust quality management system, continual improvement, better operational control, assurance of accurate and reliable results, cost reduction, prevention of loss due to defects, eligibility to participate in tenders requiring independently verified laboratories, potential increase in business, and savings from reduced need for retesting.",
+  "financial_support": "NABL is self-financing and charges fees to Conformity Assessment Bodies to cover operational costs and other expenditure. Fee details are available in NABL 100A 'General Information Brochure'. No direct financial support, grants, or subsidies are provided under this scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine the relevant discipline and standard for accreditation (e.g., ISO/IEC 17025 for testing/calibration labs). 2. Refer to NABL documents such as NABL 100B for accreditation process and procedure. 3. Prepare the application as per the relevant application form (e.g., NABL 180 for PTP, NABL 190 for RMP). 4. Submit the application online via the NABL portal. 5. NABL reviews the application and may conduct an on-site assessment. 6. Upon successful evaluation, accreditation is granted. 7. Maintain accreditation through periodic surveillance and re-assessment as per NABL 131.",
+  "application_portal_url": "https://nabl-india.org",
+  "required_documents": [
+    "Application form (specific to CAB type: e.g., NABL 180 for PTP, NABL 190 for RMP)",
+    "Quality manual and procedures",
+    "Evidence of technical competence (qualifications, experience)",
+    "Internal audit reports",
+    "Management review minutes",
+    "Calibration certificates of equipment",
+    "Proficiency testing participation records (if applicable)",
+    "Legal entity registration documents",
+    "Organizational structure and responsibilities"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "National Accreditation Board for Testing and Calibration Laboratories (NABL), under the Quality Council of India (QCI)",
+  "contact_details": "Email: Not explicitly stated in evidence | Helpline: Not explicitly stated in evidence",
+  "caveats": [
+    "Accreditation is voluntary and not mandatory unless required by regulation or contract",
+    "NABL does not provide consultancy or undertake conformity assessment activities itself to maintain impartiality",
+    "The selection of assessors for training is at the sole discretion of NABL based on current/anticipated requirements",
+    "Only online applications are accepted; hard copies are not considered",
+    "Accreditation requires periodic surveillance and re-assessment to maintain validity"
+  ],
+  "source_cited_notes": [
+    "https://nabl-india.org/",
+    "https://nabl-india.org/about-nabl/",
+    "https://nabl-india.org/introduction/",
+    "https://nabl-india.org/nabl-accreditation-process-scope/",
+    "https://nabl-india.org/assessors-training-course-eligibility-selection-criteria/",
+    "https://nabl-india.org/assessors-training-course-apply-for-training/",
+    "https://nabl-india.org/benefits-of-accreditation/",
+    "https://nabl-india.org/wp-content/uploads/2023/11/write-up_testing_09-01-20.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Disciplines-of-Calibration-Laboratories-.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Medical-Testing.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Proficiency-Testing.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Reference-Material-Producers.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:40:12.643445+00:00"
+}

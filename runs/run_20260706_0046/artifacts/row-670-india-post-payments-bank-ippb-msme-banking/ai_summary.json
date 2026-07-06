@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-670",
+  "scheme_name": "India Post Payments Bank (IPPB) – MSME Banking",
+  "scheme_url": "https://www.ippbonline.com",
+  "ministry_or_category": "Postal & Logistics",
+  "overview": "India Post Payments Bank (IPPB) – MSME Banking is a specialized banking service offered by India Post Payments Bank to support Micro, Small, and Medium Enterprises (MSMEs) with digital banking solutions, including current and savings accounts, digital payments, and access to credit through partnerships. The scheme aims to enhance financial inclusion for MSMEs by leveraging IPPB’s extensive network of over 155,000 banking access points across India, particularly in rural and semi-urban areas. It provides MSMEs with easy access to formal banking services, enabling them to manage transactions, receive payments, and build credit history.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide digital banking services to MSMEs through IPPB’s nationwide network",
+    "Promote financial inclusion by bringing MSMEs into the formal banking system",
+    "Enable seamless digital transactions and payments for MSME customers",
+    "Facilitate access to credit and financial products via partnerships with banks and NBFCs",
+    "Support MSME growth through easy account opening and low-cost banking services"
+  ],
+  "eligibility": "MSMEs registered under the MSME Act, 2006, including proprietorships, partnerships, private limited companies, and other entities engaged in manufacturing or service activities, are eligible to open current or savings accounts with India Post Payments Bank for business purposes.",
+  "benefits": "MSME customers gain access to zero-balance savings accounts, low-cost current accounts, UPI, IMPS, NEFT, RTGS, bill payments, mobile banking, doorstep banking services, and integration with government schemes. Through partnerships, they may also access working capital loans, term loans, and overdraft facilities. The service helps MSMEs build financial credibility and improve cash flow management.",
+  "financial_support": "IPPB does not directly lend to MSMEs but facilitates access to credit through strategic partnerships with banks, NBFCs, and financial institutions. Loan products such as working capital finance, term loans, and overdrafts are offered by partner lenders, with IPPB enabling account verification, transaction history sharing, and digital onboarding to support credit assessment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest India Post Payments Bank access point or use the IPPB mobile app. 2. Provide MSME registration details (Udyam Registration Number) and business information. 3. Submit KYC documents of the business and authorized signatory. 4. Complete in-person or video KYC verification. 5. Receive account details and start using digital banking services immediately.",
+  "application_portal_url": "https://www.ippbonline.com",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "PAN of the business entity",
+    "Proof of business address (utility bill, rent agreement, etc.)",
+    "Identity proof of authorized signatory (Aadhaar, PAN, passport, etc.)",
+    "Address proof of authorized signatory",
+    "Passport-sized photograph of authorized signatory",
+    "Partnership deed or Certificate of Incorporation (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "India Post Payments Bank (IPPB), Department of Posts, Ministry of Communications",
+  "contact_details": "Email: support@ippbonline.com | Helpline: 1800-208-3333",
+  "caveats": [
+    "IPPB does not directly provide loans; credit facilitation depends on partner financial institutions",
+    "Services are subject to KYC compliance and regulatory guidelines",
+    "Certain advanced banking features may require minimum transaction volumes or credit history",
+    "Account features and charges may vary based on the type of MSME account opened"
+  ],
+  "source_cited_notes": [
+    "https://www.ippbonline.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:41:42.055756+00:00"
+}

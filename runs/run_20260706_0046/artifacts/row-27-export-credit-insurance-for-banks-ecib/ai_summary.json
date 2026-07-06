@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-27",
+  "scheme_name": "Export Credit Insurance for Banks (ECIB)",
+  "scheme_url": "https://www.ecgc.in/ecib",
+  "ministry_or_category": "Export Promotion",
+  "overview": "Export Credit Insurance for Banks (ECIB) is a scheme by ECGC Limited to provide credit insurance to banks against risks in export financing. It supports Indian exporters by enabling banks to offer pre-shipment and post-shipment credit with reduced risk. The scheme enhances export competitiveness by facilitating access to working capital and term loans for export-oriented businesses.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "banks",
+    "MSME",
+    "exporters"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide credit insurance cover to banks for export-related lending",
+    "Mitigate risks of non-payment by overseas buyers in export transactions",
+    "Encourage banks to extend more credit to exporters, especially MSMEs",
+    "Support pre-shipment and post-shipment export finance",
+    "Strengthen the export credit ecosystem in India",
+    "Promote timely realization of export proceeds",
+    "Reduce financial stress on exporters due to buyer default",
+    "Enhance confidence in cross-border trade financing"
+  ],
+  "eligibility": "Banks and financial institutions in India that extend pre-shipment and post-shipment credit to exporters are eligible to avail insurance cover under the ECIB scheme. The exporter must be an Indian entity engaged in export of goods or services, and the transaction must involve an overseas buyer. The credit facility must be for a bonafide export transaction as per RBI guidelines.",
+  "benefits": "Banks receive insurance cover against commercial and political risks of non-payment by overseas buyers. This enables them to lend more confidently to exporters, especially MSMEs, at competitive rates. Exporters benefit from easier access to working capital and term loans. The scheme reduces non-performing assets (NPAs) in banks' export loan portfolios and supports timely realization of export proceeds.",
+  "financial_support": "ECIB provides insurance cover up to 90% of the loan amount extended by banks to exporters for pre-shipment and post-shipment finance. The premium is paid by the bank, and claims are settled in case of buyer default due to insolvency, protracted default, or political events. The mechanism involves submission of claim documents by the bank to ECGC after exhausting recovery efforts.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Banks approach ECGC with a request for ECIB cover for specific export credit facilities. 2. Submit details of the exporter, overseas buyer, nature of goods/services, value, and tenure of credit. 3. ECGC evaluates the risk based on buyer country, creditworthiness, and transaction type. 4. Upon approval, issue of insurance policy with terms and conditions. 5. Bank disburses loan to exporter under the covered facility. 6. In case of default, bank files claim with ECGC after due diligence and recovery attempts. 7. ECGC processes claim and settles payable amount as per policy terms.",
+  "application_portal_url": "https://www.ecgcltd.in",
+  "required_documents": [
+    "Loan sanction letter",
+    "Export order or contract",
+    "Invoice and shipping documents",
+    "Buyer’s creditworthiness details",
+    "Bank’s due diligence report",
+    "Policy application form",
+    "Details of security offered",
+    "RBI approval if applicable"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Export Credit Guarantee Corporation of India Limited (ECGC)",
+  "contact_details": "Email: info@ecgc.in | Helpline: 1800-22-7788",
+  "caveats": [
+    "Cover is subject to terms and conditions of the ECIB policy",
+    "Claims are payable only after exhaustive recovery efforts by the bank",
+    "Political risk cover may have sub-limits or exclusions based on country",
+    "Pre-existing debts or rollovers may not be eligible",
+    "Fraudulent or misrepresented transactions are excluded"
+  ],
+  "source_cited_notes": [
+    "https://ecgc.in/ecib",
+    "https://www.ecgcltd.in"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:35:38.679790+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-536",
+  "scheme_name": "Karnataka Digital Economy Mission (KDEM)",
+  "scheme_url": "https://startup.karnataka.gov.in",
+  "ministry_or_category": "State Level (Karnataka)",
+  "overview": "The Karnataka Digital Economy Mission (KDEM) is a state-level initiative launched by the Government of Karnataka to accelerate the growth of the digital economy in the state. It aims to position Karnataka as a global leader in digital innovation by supporting startups, fostering innovation, and developing digital infrastructure. The mission focuses on creating a conducive ecosystem for digital enterprises through policy support, skill development, and industry-academia collaboration.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "digital enterprises"
+  ],
+  "geographic_scope": "Karnataka only",
+  "objectives": [
+    "Position Karnataka as a global leader in the digital economy",
+    "Foster innovation and support startups in emerging technologies",
+    "Develop digital infrastructure across the state",
+    "Promote skill development and talent creation for digital jobs",
+    "Encourage industry-academia collaboration for R&D and innovation",
+    "Attract investments in digital sectors and create employment opportunities"
+  ],
+  "eligibility": "The scheme is open to startups, MSMEs, and digital enterprises operating in Karnataka that are engaged in digital innovation, technology development, or digital services. Specific eligibility criteria may vary based on the sub-initiatives under KDEM, such as incubation support, funding programs, or skill development schemes.",
+  "benefits": "Benefits under KDEM include access to incubation and acceleration programs, mentorship from industry experts, support for product development and market access, facilitation of funding connections, participation in digital innovation challenges, and opportunities for collaboration with government and academic institutions. The mission also provides policy advocacy and regulatory support to create a favorable environment for digital businesses.",
+  "financial_support": "KDEM facilitates financial support through various channels including seed funding, grants, and connections to venture capital and angel investors. Specific financial schemes under the mission may offer grants ranging from INR 5 lakhs to INR 50 lakhs for early-stage startups, though exact amounts depend on the particular program or sub-scheme being accessed.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Karnataka Startup Portal at https://startup.karnataka.gov.in 2. Register as a startup or enterprise on the portal 3. Explore available schemes and initiatives under KDEM 4. Select the relevant program based on eligibility and business needs 5. Fill out the online application form with required details 6. Upload necessary documents as specified 7. Submit the application for review 8. Await evaluation and communication from the implementing agency",
+  "application_portal_url": "https://startup.karnataka.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration certificate (if applicable)",
+    "Aadhaar and PAN of authorized signatory",
+    "Bank account details",
+    "Business plan or pitch deck",
+    "Details of technology or innovation being developed",
+    "Proof of presence or operations in Karnataka"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on the specific sub-scheme or initiative under KDEM.",
+  "implementing_agency": "Department of Electronics, IT, BT and S&T, Government of Karnataka",
+  "contact_details": "Email: info@kstartup.org | Phone: 080-4666-6666",
+  "caveats": [
+    "Benefits and support are subject to the specific guidelines of individual sub-schemes under KDEM",
+    "Financial support is not guaranteed and depends on evaluation and availability of funds",
+    "Some programs may have sector-specific or technology-specific focus areas",
+    "Continued eligibility may require periodic reporting and compliance with program terms"
+  ],
+  "source_cited_notes": [
+    "https://startup.karnataka.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:18:57.022481+00:00"
+}

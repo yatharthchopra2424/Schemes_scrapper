@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-215",
+  "scheme_name": "Atmanirbhar Bharat Defence Production Policy",
+  "scheme_url": "https://www.mod.gov.in",
+  "ministry_or_category": "Defence & Space",
+  "overview": "The Atmanirbhar Bharat Defence Production Policy is a strategic initiative by the Ministry of Defence to enhance self-reliance in defence manufacturing. It aims to reduce import dependence, promote indigenous design and development, and strengthen the domestic defence industrial base through policy reforms, financial incentives, and streamlined procurement procedures. The policy encourages private sector participation, MSMEs, and startups in defence production and supports innovation via indigenisation and research & development initiatives.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "private sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce import dependence in defence procurement",
+    "Promote indigenous design and development of defence equipment",
+    "Strengthen the domestic defence industrial base",
+    "Encourage private sector participation in defence production",
+    "Support MSMEs and startups in defence manufacturing",
+    "Streamline defence procurement procedures",
+    "Foster innovation through indigenisation and R&D initiatives",
+    "Enhance export competitiveness of defence products"
+  ],
+  "eligibility": "Eligible entities include Indian companies, startups, MSMEs, and private sector organisations engaged in defence manufacturing, design, development, or supply of defence equipment, systems, or services. Preference is given to entities contributing to indigenisation, technology absorption, and Make in India initiatives under the Atmanirbhar Bharat framework.",
+  "benefits": "Benefits include preferential treatment in defence procurement, simplified procedures for vendor registration, access to defence testing and evaluation facilities, support for technology transfer and joint ventures, facilitation of exports, and participation in defence exhibitions and seminars. Financial incentives may be available through linked schemes such as the Defence Production and Export Promotion Policy (DPEPP).",
+  "financial_support": "Financial support is provided through linked government schemes such as the Defence Production and Export Promotion Policy (DPEPP), which offers financial incentives for eligible defence manufacturers. The policy enables access to government procurement opportunities and facilitates partnerships with defence PSUs and ordnance factories for technology development and production.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify defence production opportunities through the Ministry of Defence or defence PSUs. 2. Register as a vendor on the Government e-Marketplace (GeM) or defence-specific procurement portals. 3. Submit Expression of Interest (EOI) or tender response for defence contracts. 4. Undergo technical evaluation and quality assurance processes. 5. Upon selection, enter into contract for supply, development, or production of defence equipment. 6. Avail benefits under linked schemes like DPEPP for financial incentives.",
+  "application_portal_url": "https://www.mod.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST Registration Certificate",
+    "UDYAM Registration (for MSMEs)",
+    "Product specifications and technical brochures",
+    "Manufacturing licence or industrial licence (if applicable)",
+    "Past performance certificates or supply orders",
+    "Bank details and cancelled cheque",
+    "Authorised signatory letter",
+    "Declaration of compliance with defence standards"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on defence procurement cycles and tender notifications.",
+  "implementing_agency": "Ministry of Defence",
+  "contact_details": "Email: mo@mod.nic.in | Tel: +91 11 23012286, +91 11 23019030",
+  "caveats": [
+    "Financial benefits are subject to linkage with specific schemes like DPEPP",
+    "Eligibility for defence contracts depends on security clearance and compliance with defence standards",
+    "Benefits may vary based on the nature of the product, technology, and value addition",
+    "Policy does not guarantee financial support; support is contingent on qualifying under allied schemes"
+  ],
+  "source_cited_notes": [
+    "https://mod.gov.in",
+    "https://mod.gov.in/sites/default/files/DFPDS-2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:21:33.669293+00:00"
+}

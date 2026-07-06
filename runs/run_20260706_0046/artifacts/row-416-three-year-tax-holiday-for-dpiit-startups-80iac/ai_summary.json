@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-416",
+  "scheme_name": "Three-Year Tax Holiday for DPIIT Startups (80IAC)",
+  "scheme_url": "https://www.incometaxindia.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "The Three-Year Tax Holiday for DPIIT Startups (80IAC) provides eligible startups with a 100% income tax exemption for three consecutive financial years out of their first ten years of incorporation. This benefit is granted under Section 80-IAC of the Income-tax Act, 1961, and requires certification from the Inter-Ministerial Board (IMB) set up by DPIIT. The scheme aims to reduce the tax burden on early-stage startups to encourage innovation and entrepreneurship.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide tax relief to eligible startups during their initial years of operation",
+    "Encourage innovation and entrepreneurship by reducing financial burden",
+    "Support job creation and economic growth through startup ecosystem development",
+    "Promote long-term sustainability of startups by improving cash flow in early stages",
+    "Align tax policy with the Startup India initiative to foster a conducive environment for new ventures"
+  ],
+  "eligibility": "To be eligible for deduction under section 80-IAC, an entity must be a startup certified by the Inter-Ministerial Board (IMB), incorporated as a private limited company or a limited liability partnership (LLP) or a registered partnership firm, have been incorporated on or after 1st April, 2016 but before 1st April, 2025, and have an annual turnover not exceeding INR 100 crore in any of the financial years preceding the year in which deduction is claimed.",
+  "benefits": "100% deduction of profits and gains from eligible business for three consecutive assessment years out of ten years beginning from the year of incorporation. This results in complete income tax exemption for the selected three years. The benefit is available only after obtaining certification from the Inter-Ministerial Board (IMB) established by DPIIT.",
+  "financial_support": "The scheme provides a tax holiday in the form of 100% income tax exemption on profits from eligible business for three consecutive years. There is no direct cash disbursement; the benefit is realized through reduced tax liability when filing income tax returns. The quantum of support depends on the startup's profits during the selected three-year block.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain DPIIT recognition for the startup via the Startup India portal. 2. Apply for certification from the Inter-Ministerial Board (IMB) through Form 1 of the Income-tax Rules, 1962. 3. Submit the application along with required documents such as Certificate of Incorporation, details of business, PAN, and audited financial statements. 4. Upon IMB approval, claim the deduction under section 80-IAC while filing the income tax return for the relevant assessment years.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the entity",
+    "Details of nature of business (innovative product/service/process)",
+    "Audited financial statements",
+    "Declaration and undertaking as per Form 1 of Income-tax Rules, 1962",
+    "Any other document as may be required by the IMB"
+  ],
+  "deadlines": "Applications for IMB certification can be made at any time; there is no fixed deadline. However, the tax benefit must be claimed in the income tax return for the relevant assessment year within the time allowed under section 139(1) of the Income-tax Act.",
+  "implementing_agency": "Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "The benefit requires separate certification from the Inter-Ministerial Board (IMB); DPIIT recognition alone is not sufficient.",
+    "The three-year tax holiday must be claimed within the first ten years from incorporation.",
+    "If the startup's turnover exceeds INR 100 crore in any financial year, it loses eligibility for future tax benefits under this section.",
+    "The deduction cannot be claimed for more than three consecutive assessment years.",
+    "The scheme applies only to eligible businesses as defined under section 80-IAC; not all startup activities qualify."
+  ],
+  "source_cited_notes": [
+    "https://incometaxindia.gov.in/",
+    "https://incometaxindia.gov.in/web/guest/notifications",
+    "https://incometaxindia.gov.in/notifications"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:23:48.763733+00:00"
+}

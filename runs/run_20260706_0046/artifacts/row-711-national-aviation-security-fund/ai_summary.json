@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-711",
+  "scheme_name": "National Aviation Security Fund",
+  "scheme_url": "https://www.civilaviation.gov.in",
+  "ministry_or_category": "Aerospace",
+  "overview": "The National Aviation Security Fund is a financial mechanism established to support aviation security initiatives in India. It is managed by the Bureau of Civil Aviation Security (BCAS) under the Ministry of Civil Aviation. The fund is utilized for strengthening security infrastructure, procuring security equipment, and implementing security measures at airports and civil enclaves across the country.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "airport operators",
+    "airlines",
+    "civil aviation stakeholders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Strengthen aviation security infrastructure at airports",
+    "Procure advanced security screening and surveillance equipment",
+    "Implement security protocols and training programs",
+    "Support counter-terrorism and unlawful interference prevention measures",
+    "Enhance security at civil enclaves and aeronautical communication stations"
+  ],
+  "eligibility": "Eligibility for utilization of the National Aviation Security Fund is restricted to government entities and authorized agencies involved in civil aviation security, including the Bureau of Civil Aviation Security (BCAS), Airports Authority of India (AAI), and other central or state government departments engaged in aviation security functions, as per guidelines issued by the Ministry of Civil Aviation.",
+  "benefits": "Financial support for procurement of security equipment, upgradation of security systems, funding for security training and capacity building, and implementation of national aviation security plans. Non-financial benefits include enhanced security coordination, standardized security protocols, and improved threat detection and response capabilities across the civil aviation sector.",
+  "financial_support": "The National Aviation Security Fund provides financial assistance in the form of grants or direct funding for approved aviation security projects. The quantum of support is determined based on project proposals submitted by eligible agencies and approved by the Ministry of Civil Aviation, subject to availability of funds and adherence to security priorities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify aviation security project requiring funding 2. Prepare detailed project proposal with budget and timelines 3. Submit proposal to the Bureau of Civil Aviation Security (BCAS) 4. BCAS evaluates proposal for technical feasibility and security impact 5. Forward approved proposals to Ministry of Civil Aviation for final sanction 6. Receive fund allocation and implement project 7. Submit utilization certificates and progress reports as required",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal document",
+    "Detailed project report",
+    "Budget estimate and expenditure plan",
+    "Security risk assessment report",
+    "Clearance from relevant aviation security authorities",
+    "Undertaking of proper utilization of funds"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to fund availability and ministry review cycles.",
+  "implementing_agency": "Bureau of Civil Aviation Security (BCAS), Ministry of Civil Aviation",
+  "contact_details": "Email: dg[dot]bcas[at]gov[dot]in | Phone: (+91)-011-24610012",
+  "caveats": [
+    "Funds are non-lapsable but subject to annual budget allocations",
+    "Utilization must be strictly for aviation security purposes as defined",
+    "Projects must comply with BCAS security standards and guidelines",
+    "Funding is contingent on availability of resources and ministry approval",
+    "Beneficiaries must submit audited utilization certificates post-implementation"
+  ],
+  "source_cited_notes": [
+    "https://civilaviation.gov.in/",
+    "https://civilaviation.gov.in/about-ministry/organization-setup"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:12:06.270392+00:00"
+}

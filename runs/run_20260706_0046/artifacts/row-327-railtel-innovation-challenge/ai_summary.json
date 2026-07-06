@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-327",
+  "scheme_name": "RailTel Innovation Challenge",
+  "scheme_url": "https://www.railtelindia.com",
+  "ministry_or_category": "PSU Support",
+  "overview": "RailTel Innovation Challenge is a program by RailTel Corporation of India Limited, a Navratna PSU under the Ministry of Railways, aimed at fostering innovation by partnering with startups and technology providers. The initiative seeks to empanel business associates who can deliver innovative solutions in areas such as telepresence, cloud services, AI/ML, IoT, and smart city projects. Through this challenge, RailTel intends to collaborate with empaneled partners to co-create and deploy technology solutions on a revenue-sharing or service-based model, leveraging its nationwide ICT infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "technology providers",
+    "MSME",
+    "enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To empanel business partners capable of delivering innovative technology solutions",
+    "To expand RailTel's market share in telecom and IT offerings such as telepresence, cloud services, and AI/ML",
+    "To support RailTel's objective of multi-fold growth in turnover and profitability",
+    "To enable partners to acquire new business opportunities from RailTel's customers across industries",
+    "To foster collaboration in system integration, digital services, and smart city projects",
+    "To promote sustainable business models through revenue-sharing or service-based partnerships",
+    "To leverage RailTel's nationwide infrastructure including optic fiber network, data centers, and NOCs",
+    "To enhance service delivery in sectors like health, education, security, agriculture, and urban development"
+  ],
+  "eligibility": "Any Firm (Limited/Pvt. Limited/LLP/Startup/Proprietary) with incorporation/registration date of at least 6 months old as on the date of application submission. Applicants may use credentials of Parent/Subsidiary/Holding Company subject to undertaking as per Annexure-7.",
+  "benefits": "Empanelled partners gain access to RailTel's customers across industries, opportunity to co-develop and deploy solutions on revenue-sharing basis, association with a Mini Ratna (Category-I) PSU, and support in scaling innovative solutions using RailTel's infrastructure such as data centers, cloud services, MPLS-VPN, and nationwide fiber network. Partners also benefit from RailTel's physical presence across regions and functional territories for project execution.",
+  "financial_support": "The scheme does not provide direct financial grants or subsidies. Instead, it operates on an empanelment model where selected business partners collaborate with RailTel to execute projects on a revenue-sharing or service-based model. Empanelment fees are non-refundable: Rs 2,00,000 for established and proprietary firms, and Rs 40,000 for start-up firms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Prepare application with all required documents as per EOI requirements. 2. Pay empanelment fee via RTGS and attach UTR details. 3. Submit the complete application (single PDF for documents, Excel sheet for Supplier/Customer form, payment details) to baapplications@railtelindia.com. 4. Application undergoes scrutiny for eligibility and compliance. 5. Shortlisted applicants may be contacted for clarification or additional documentation. 6. Final selection leads to issuance of Letter of Empanelment (LOE). 7. Empanelment is valid for 3 years from LOE issuance date.",
+  "application_portal_url": "https://railtelindia.com",
+  "required_documents": [
+    "Covering Letter (as per Annexure-1)",
+    "Empanelment Fee payment proof (UTR details)",
+    "Supplier and Customer Form (as per Annexure-2a and 2b) with Excel sheet and cancelled cheque copy",
+    "Power of Attorney (as per Annexure-3)",
+    "Backlisting Certificate (as per Annexure-4)",
+    "CA Certificate with valid UDIN (as per Annexure-5)",
+    "HR Certificate (as per Annexure-6)",
+    "Annexure-7 (if using credentials of Parent/Subsidiary/Holding Company)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "RailTel Corporation of India Limited",
+  "contact_details": "Email: baapplications@railtelindia.com | Contact No: +91 7302880054 (Mr. Rajat Chahar, Marketing Executive/RCIL)",
+  "caveats": [
+    "Empanelment fee is non-refundable unless application is not converted into empanelment",
+    "False information/documents lead to cancellation of empanelment without fee refund",
+    "RailTel reserves the right to accept or reject any application without assigning any reason",
+    "Empanelled partners must inform RailTel proactively if bidding opportunities are identified",
+    "Validity of empanelment is 3 years from LOE issuance, after which re-application is required",
+    "RailTel does not guarantee confirmed business during the empanelment period"
+  ],
+  "source_cited_notes": [
+    "https://railtelindia.com/images/pdf/Business Associates EOI 481 (Revised).pdf"
+  ],
+  "last_updated_date": "2023-24",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:24:35.395684+00:00"
+}

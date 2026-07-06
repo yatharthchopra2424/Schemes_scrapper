@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-543",
+  "scheme_name": "WBIDC Industrial Park Scheme",
+  "scheme_url": "https://www.wbidc.com",
+  "ministry_or_category": "State Level (West Bengal)",
+  "overview": "The WBIDC Industrial Park Scheme is a state-level initiative by the West Bengal Industrial Development Corporation (WBIDC) to facilitate industrial development through the allotment of land in various industrial parks across West Bengal. The scheme provides land on lease or freehold basis for setting up industries, with support through single-window clearance via Silpa Sathi. It aims to promote investment, generate employment, and develop infrastructure in sectors such as manufacturing, logistics, MSME, and emerging industries.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "industries",
+    "MSME",
+    "entrepreneurs",
+    "investors",
+    "manufacturing units"
+  ],
+  "geographic_scope": "West Bengal only",
+  "objectives": [
+    "Promote industrial investment in West Bengal through land allotment in industrial parks",
+    "Facilitate ease of doing business via single-window clearance (Silpa Sathi)",
+    "Develop infrastructure and plug-and-play facilities in industrial parks",
+    "Generate employment and socio-economic development in the state",
+    "Support sectors like MSME, logistics, manufacturing, and emerging industries",
+    "Encourage private investment through ready industrial infrastructure and incentives"
+  ],
+  "eligibility": "Applicants must be bonafide residents of West Bengal or entities seeking to set up industries in the state. Land allotment is open to prospective investors for setting up industrial units, with application money varying based on land area (e.g., Rs. 2 lakhs for up to 2 acres, Rs. 25 lakhs for above 50 acres). Allotment is made on 'as is where is' basis, and online applications can be made through the Silpa Sathi portal.",
+  "benefits": "Benefits include access to developed industrial land with plug-and-play infrastructure, uninterrupted power and water supply, connectivity via national highways and railways, proximity to ports and airports, and support through single-window clearance for statutory approvals. Financial benefits include subsidized land prices and waivers on certain fees as per applicable policies.",
+  "financial_support": "Financial support is primarily in the form of land allotment at subsidized rates, with tentative base prices ranging from Rs. 6,447/sq.ft to Rs. 2,60,24,355/acre depending on the industrial park and land type. Application fees are charged based on land area: Rs. 2 lakhs for up to 2 acres, Rs. 5 lakhs for 2–5 acres, Rs. 10 lakhs for 5–20 acres, Rs. 15 lakhs for 20–50 acres, and Rs. 25 lakhs for above 50 acres. Land is offered on lease (e.g., 99 years for Jangal Sundari Karmanagari) or freehold basis with additional conversion charges.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Silpa Sathi portal (silpasathi.in) or WBIDC website for land availability and details. 2. Select the desired industrial park and land module. 3. Pay the applicable application fee online (based on land area). 4. Submit the application with required documents via the online portal. 5. Await evaluation and allotment decision by WBIDC. 6. Upon approval, execute lease/deed agreement and pay land cost as per allotment terms.",
+  "application_portal_url": "https://silpasathi.in",
+  "required_documents": [
+    "Application form",
+    "Proof of identity and address",
+    "Certificate of Incorporation / Partnership deed / LLP agreement",
+    "PAN of the entity",
+    "GST registration certificate",
+    "Bank solvency certificate or financial statements",
+    "Project report detailing proposed industry",
+    "Land use",
+    "Caste certificate (if applicable for reservation)",
+    "Any other document as specified in the checklist"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per availability of land.",
+  "implementing_agency": "West Bengal Industrial Development Corporation Ltd. (WBIDC)",
+  "contact_details": "Phone: +91 33 2255 3700 - 705 | Email: wbidc@wbidc.com",
+  "caveats": [
+    "Land is allotted on 'as is where is' basis; investors must verify suitability",
+    "Application fee is non-refundable",
+    "Allotment is subject to clearance from relevant authorities and compliance with land use norms",
+    "Freehold conversion attracts additional charges (typically 15% of base price)",
+    "Land use must conform to the designated industrial category of the park"
+  ],
+  "source_cited_notes": [
+    "https://wbidc.com/wbidc-land/allotment-procedures-of-land-modules",
+    "https://wbidc.com/wbidc-land/availability-of-land-modules",
+    "https://wbidc.com/assets/announcements/Allotment_of_Land_for_Development_of_Industry_at_Dhakeswari_Cotton_Mill_Premise_Asansol.pdf",
+    "https://wbidc.com/assets/announcements/Allotment_of_Land_for_Development_of_Industry_at_Mangalpur_Asansol.pdf",
+    "https://wbidc.com/home/wbidc-industrial-parks",
+    "https://silpasathi.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:24:06.414528+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-142",
+  "scheme_name": "ECGC MSME Export Scheme",
+  "scheme_url": "https://www.ecgc.in",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "ECGC MSME Export Scheme is a government initiative by the Export Credit Guarantee Corporation of India (ECGC) under the Ministry of Commerce and Industry, designed to support Indian exporters, particularly MSMEs, by providing financial assistance for export-related claims arising from buyer defaults or political disruptions. The scheme operates under the RELIEF (Resilience and Logistics Intervention for Export Facilitation) program, offering timely support to exporters facing payment delays or non-payment by overseas buyers due to insolvency, bankruptcy, or geopolitical disturbances. It enables exporters to file claims for compensation through a standardized process, with ECGC acting as the insurer of last resort for export credit risks.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "exporters"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to Indian exporters facing non-payment by overseas buyers",
+    "Support MSMEs in mitigating export credit risks due to buyer insolvency or political disruptions",
+    "Facilitate timely settlement of export claims under the RELIEF scheme",
+    "Strengthen export competitiveness by reducing financial vulnerability of exporters",
+    "Ensure quick disbursal of claim amounts to affected exporters",
+    "Promote confidence in international trade by backing exporters with government-guaranteed support"
+  ],
+  "eligibility": "Indian exporters, particularly MSMEs, who have suffered losses due to non-payment by overseas buyers on account of buyer insolvency, bankruptcy, or geopolitical disruptions in regions such as West Asia, and who hold valid export credit insurance policies issued by ECGC are eligible to file claims under the RELIEF scheme.",
+  "benefits": "Financial compensation for export losses due to buyer default, quick claim settlement process, access to ECGC’s digital portal for claim submission and tracking, support under the government-backed RELIEF initiative, and assistance in recovering dues from insolvent or defaulting overseas buyers.",
+  "financial_support": "ECGC provides financial support by settling export insurance claims arising from buyer default, insolvency, or geopolitical risks. Claim amounts are determined based on the insured value of the export transaction and the extent of loss suffered. Payments are made directly to the exporter’s bank account after verification and approval, as evidenced by multiple claim settlements ranging from ₹13.5 lakh to over ₹10.72 crore in the provided evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the ECGC website and navigate to the RELIEF scheme section. 2. Click on the ‘Standard Operating Procedure for filing claims under RELIEF Components I, II and III’ link. 3. Download the claim form and required documents checklist. 4. Fill out the claim form with details of the export transaction, buyer default, and loss amount. 5. Attach supporting documents such as invoice, shipping bill, proof of non-payment, and buyer insolvency proof. 6. Submit the completed application via the ECGC client portal or designated email. 7. Await verification and processing by ECGC officials. 8. Upon approval, the claim amount is disbursed to the exporter’s account.",
+  "application_portal_url": "https://www.ecgcltd.in",
+  "required_documents": [
+    "Export invoice",
+    "Shipping bill",
+    "Proof of export (bill of lading, airway bill)",
+    "Proof of non-payment by buyer",
+    "Buyer insolvency or bankruptcy certificate",
+    "ECGC policy copy",
+    "Claim form as per RELIEF scheme",
+    "Bank account details for settlement",
+    "Authorization letter from exporter"
+  ],
+  "deadlines": "Rolling basis — claims can be submitted as and when buyer default occurs, subject to policy terms and RELIEF scheme guidelines.",
+  "implementing_agency": "Export Credit Guarantee Corporation of India (ECGC), Ministry of Commerce and Industry, Government of India",
+  "contact_details": "Email: Not explicitly stated in evidence-based on evidence | Helpline: Not explicitly evidence-based",
+  "caveats": [
+    "Claims are admissible only if the exporter holds a valid ECGC export credit insurance policy",
+    "Loss must be due to buyer default, insolvency, or geopolitical events covered under RELIEF Components I, II, and III",
+    "Claims must be filed within the stipulated time frame after the occurrence of the loss",
+    "Support is limited to the insured amount under the ECGC policy",
+    "Geopolitical support is time-bound and applicable only during declared periods of disruption"
+  ],
+  "source_cited_notes": [
+    "https://ecgc.in/",
+    "https://ecgc.in/claim-of-rs-65-00-lakhs-was-settled-by-ecgc-kochi-bo-to-m-s-ht-foods-pvt-ltd-on-account-of-non-payment-by-a-bahraini-buyer",
+    "https://ecgc.in/ecgc-bangalore-branch-officials-handing-over-claim-cheque-of-rs-50-00-lakh-to-goodwill-fabrics",
+    "https://ecgc.in/claim-payment-of-rs-13-5-lakh-by-ecgc-bangalore-branch-to-its-policyholder-s-s-groups",
+    "https://ecgc.in/policy-claim-cheque-of-rs-42-64-lakhs-was-handed-over-to-m-s-t-c-terrytex-ltd-the-claim-was-settled-on-account-of-the-default-by-a-buyer-m-s-la-compagnie-safdie-inc-canada",
+    "https://ecgc.in/disbursement-of-claim-cheque-for-amount-107269146-00-to-m-s-matrix-clothing-pvt-ltd-on-account-of-loss-due-to-insolvency-of-buyer-m-s-express-llc-usa"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:36:49.202500+00:00"
+}

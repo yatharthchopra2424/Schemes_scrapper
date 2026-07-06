@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-806",
+  "scheme_name": "Karnataka Biotechnology Policy",
+  "scheme_url": "https://kbits.kar.nic.in",
+  "ministry_or_category": "State Level (Karnataka)",
+  "overview": "The Karnataka Biotechnology Policy is a state-level initiative aimed at promoting biotechnology and life sciences sectors in Karnataka. It focuses on fostering innovation, attracting investments, and supporting startups and MSMEs in biotech through infrastructure development, fiscal incentives, and skill development programs. The policy aims to position Karnataka as a leading hub for biotechnology in India by leveraging its existing strengths in research, education, and industry.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "biotech companies",
+    "research institutions"
+  ],
+  "geographic_scope": "Karnataka only",
+  "objectives": [
+    "Promote Karnataka as a preferred destination for biotechnology investments",
+    "Support innovation and R&D in biotechnology and life sciences",
+    "Develop world-class infrastructure for biotech parks and incubation centers",
+    "Provide fiscal and non-fiscal incentives to biotech enterprises",
+    "Enhance skill development and human resource capacity in biotech",
+    "Encourage public-private partnerships in biotechnology sector",
+    "Facilitate technology transfer and commercialization of biotech innovations",
+    "Ensure sustainable and inclusive growth of the biotech ecosystem"
+  ],
+  "eligibility": "Eligible beneficiaries include biotechnology startups, MSMEs, research institutions, and companies engaged in biotech activities within Karnataka. Entities must be registered under relevant Indian laws and operational in the state. Specific eligibility for incentives may depend on investment thresholds, employment generation, and compliance with policy guidelines.",
+  "benefits": "Benefits include fiscal incentives such as capital subsidies, interest subsidies, reimbursement of patent costs, stamp duty exemptions, and tax concessions. Non-fiscal benefits encompass access to biotech parks, incubation facilities, skill development programs, single-window clearance, and assistance in technology transfer and market access.",
+  "financial_support": "Financial support includes capital subsidy up to 50% of investment in plant and machinery (max INR 50 lakhs), interest subsidy of 6% on term loans for 5 years, reimbursement of up to 50% of patent filing costs (max INR 2 lakhs per patent), and subsidies for setting up effluent treatment plants. Support is disbursed through designated nodal agencies upon verification of claims.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakhs for capital subsidy, INR 2 lakhs per patent for reimbursement",
+  "application_process": "1. Register the biotech unit with the Karnataka Biotechnology and Information Technology Services (KBITS). 2. Submit application for incentives along with project report and financial details. 3. Obtain clearance from KBITS or designated agency. 4. Implement the project as per approved plan. 5. Submit claims for subsidies with audited documents and utilization certificates. 6. Receive disbursement after verification.",
+  "application_portal_url": "https://kbits.kar.nic.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Project Report detailing biotech activity",
+    "Details of investment in plant and machinery",
+    "Bank loan sanction letter (if applicable)",
+    "Patent application/grant documents (for reimbursement)",
+    "Audited financial statements",
+    "Utilization certificate for previous subsidies (if any)",
+    "Clearance from pollution control board (if applicable)",
+    "Proof of registration with KBITS"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year as per policy guidelines",
+  "implementing_agency": "Karnataka Biotechnology and Information Technology Services (KBITS)",
+  "contact_details": "Email: info@kbits.kar.nic.in | Phone: +91-80-2235 3575",
+  "caveats": [
+    "Incentives are subject to availability of funds and budgetary allocations",
+    "Claims must be submitted within stipulated time after project completion",
+    "Benefits may be withdrawn for non-compliance with submission deadlines or false declarations",
+    "Double claiming of same expense under multiple schemes is not permitted",
+    "Policy benefits are applicable only for new investments and expansions within Karnataka"
+  ],
+  "source_cited_notes": [
+    "https://kbits.kar.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:01:40.855826+00:00"
+}

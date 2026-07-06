@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-591",
+  "scheme_name": "EESL EV Aggregation Scheme for Bulk Procurement",
+  "scheme_url": "https://eeslindia.org",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "The EESL EV Aggregation Scheme for Bulk Procurement is a government initiative under the National Electric Mobility Mission Plan (NEMMP) 2020, aimed at accelerating the adoption of electric vehicles (EVs) in India through bulk procurement by government departments and public sector undertakings. The scheme leverages EESL's innovative business model to aggregate demand, reduce costs, and deploy EVs and charging infrastructure at scale without upfront capital expenditure from beneficiary agencies. It supports India's goals of reducing carbon emissions, decreasing fossil fuel dependence, and promoting sustainable transportation.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "government departments",
+    "public sector undertakings",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Accelerate the adoption of electric vehicles in government fleets",
+    "Reduce upfront capital expenditure for beneficiary agencies through innovative financing",
+    "Aggregate demand to achieve economies of scale and lower procurement costs",
+    "Deploy EV charging infrastructure alongside vehicle procurement",
+    "Support India's National Electric Mobility Mission Plan (NEMMP) 2020 targets",
+    "Reduce carbon emissions and fossil fuel consumption in the transportation sector",
+    "Create a sustainable business model for EV adoption without subsidies or capex from users"
+  ],
+  "eligibility": "Government departments, public sector undertakings, and other eligible entities seeking to procure electric vehicles and charging infrastructure through EESL's aggregation model are eligible to participate. Participation requires entering into a Memorandum of Understanding (MoU) or agreement with EESL for the supply, installation, and operation of EVs and related infrastructure under a service-based model.",
+  "benefits": "Beneficiaries gain access to electric vehicles and charging infrastructure with zero upfront capital expenditure, pay only for usage (pay-as-you-save model), benefit from reduced operational and maintenance costs, contribute to national decarbonization goals, and receive end-to-end project management from EESL including procurement, installation, commissioning, and operations & maintenance. The scheme also enables compliance with government sustainability mandates and enhances green credentials.",
+  "financial_support": "The scheme operates on a 'pay-as-you-save' or service model where EESL bears the upfront capital cost for EVs and charging infrastructure, and beneficiary agencies make payments based on actual usage or savings achieved. There is no direct subsidy or loan; instead, EESL recovers its investment through agreed-upon service charges over the contract period, typically tied to kilometers run or energy consumed, ensuring no financial burden on the beneficiary at the outset.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Express interest via the EESL website or designated portal for the EV aggregation scheme. 2. Enter into discussions with EESL to assess vehicle and charging infrastructure requirements. 3. Sign a Memorandum of Understanding (MoU) or agreement outlining scope, volume, and financial terms. 4. EESL procures EVs and charging equipment through competitive bidding. 5. EESL handles delivery, installation, and commissioning of vehicles and chargers. 6. Beneficiary agency begins usage and makes payments as per the agreed service model (e.g., per km or per kWh). 7. EESL provides operations and maintenance support throughout the contract period.",
+  "application_portal_url": "https://eeslindia.org",
+  "required_documents": [
+    "Memorandum of Understanding (MoU) or agreement with EESL",
+    "Details of vehicle and charging infrastructure requirements",
+    "Authorization from competent authority for participation",
+    "Bank details for payment processing",
+    "GST registration documents (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on demand aggregation cycles.",
+  "implementing_agency": "Energy Efficiency Services Limited (EESL)",
+  "contact_details": "Phone: 0120-6541601 | Email: info@eesl.co.in",
+  "caveats": [
+    "The scheme does not provide direct subsidies or grants; payment is based on usage or savings",
+    "Beneficiaries must commit to a minimum contract period for cost recovery by EESL",
+    "Availability of EV models and charging infrastructure depends on supplier empanelment and lead times",
+    "Performance and payment terms are defined in the bilateral agreement with EESL"
+  ],
+  "source_cited_notes": [
+    "https://eeslindia.org",
+    "https://eeslindia.org/hi/electric-vehicles-2/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:58:56.925970+00:00"
+}

@@ -22,6 +22,8 @@ set OUTPUT_ROOT=runs
 :: Auto-generate timestamped run ID to avoid overwriting previous runs
 for /f "tokens=2 delims==" %%a in ('wmic OS Get localdatetime /value') do set DATETIME=%%a
 set RUN_ID=run_%DATETIME:~0,8%_%DATETIME:~8,4%
+:: ── RESUME OVERRIDE: pin to existing run (remove this line after resume is done)
+set RUN_ID=run_20260706_0046
 
 
 :: Optional flags (edit here or pass as arguments)
@@ -29,7 +31,7 @@ set RUN_ID=run_%DATETIME:~0,8%_%DATETIME:~8,4%
 :: To skip LLM (crawl only):    set SKIP_LLM=--skip-llm
 :: To test with 1 scheme:       set MAX_SCHEMES=--max-schemes 1
 :: To use 3 parallel workers:   set WORKERS=--workers 3
-set RESUME=
+set RESUME=--resume
 set SKIP_LLM=
 set MAX_SCHEMES=
 set WORKERS=--workers 6
@@ -81,15 +83,14 @@ echo  Starting pipeline...
 echo  (Press Ctrl+C to interrupt — partial results will be saved)
 echo.
 
-%VENV_PYTHON% -m scheme_scraper.main ^
-    --input %INPUT_CSV% ^
-    --config %CONFIG% ^
-    --output-root %OUTPUT_ROOT% ^
-    --run-id %RUN_ID% ^
-    %RESUME% ^
-    %SKIP_LLM% ^
-    %MAX_SCHEMES% ^
-    %WORKERS%
+:: ══ BUILD ARGUMENT STRING (handles empty optional flags safely) ══════════
+set PIPELINE_ARGS=--input %INPUT_CSV% --config %CONFIG% --output-root %OUTPUT_ROOT% --run-id %RUN_ID%
+if not "%RESUME%"==""      set PIPELINE_ARGS=%PIPELINE_ARGS% %RESUME%
+if not "%SKIP_LLM%"==""    set PIPELINE_ARGS=%PIPELINE_ARGS% %SKIP_LLM%
+if not "%MAX_SCHEMES%"==""  set PIPELINE_ARGS=%PIPELINE_ARGS% %MAX_SCHEMES%
+if not "%WORKERS%"==""     set PIPELINE_ARGS=%PIPELINE_ARGS% %WORKERS%
+
+%VENV_PYTHON% -m scheme_scraper.main %PIPELINE_ARGS%
 
 set PIPELINE_EXIT=%errorlevel%
 

@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-749",
+  "scheme_name": "IIST – Indian Institute of Space Science & Technology Startups",
+  "scheme_url": "https://www.iist.ac.in",
+  "ministry_or_category": "Research Institutions",
+  "overview": "The Indian Institute of Space Science and Technology (IIST) is a premier academic institution established in 2007 under the Department of Space, Government of India, dedicated to higher education and research in space sciences, technology, and engineering. It offers undergraduate, postgraduate, dual-degree, Ph.D., and post-doctoral programmes in disciplines such as Aerospace Engineering, Avionics, Earth System Science, Physics, Chemistry, and Humanities and Social Sciences. IIST maintains close collaboration with ISRO, providing students and researchers access to ISRO laboratories and mission opportunities, and has a strong placement record with ISRO and other space organizations. The institute also engages in outreach activities to promote space science awareness and conducts workshops, seminars, and conferences on emerging technologies.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "research scholars",
+    "faculty"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote higher education and research in space sciences, technology, and engineering",
+    "Foster innovation and creativity through a unique learning environment enriched by space programme challenges",
+    "Establish Centres of Excellence in niche areas of space science and technology",
+    "Provide ethical and value-based education while addressing societal needs",
+    "Network with national and international institutions of repute",
+    "Contribute significantly to India's space endeavours through skilled manpower and research"
+  ],
+  "eligibility": "Admission to undergraduate programmes is through JEE (Advanced) scores. Postgraduate admissions are through IIST webportal for M.Tech in Machine Learning and Computing or through CCMT for other branches. Ph.D. admissions are offered twice a year (January and August) via the IIST admission portal. Post-doctoral opportunities are available across various disciplines as Senior Project Research Associate (SPRA) or Research Associate (RA).",
+  "benefits": "Access to state-of-the-art laboratories and research centres including ground stations, simulation labs, and avionics labs. Collaborative access to ISRO laboratories and opportunity to participate in ISRO missions. Strong placement support with ISRO and other space organizations. Outreach programmes to inspire young minds and promote space science awareness. Alumni network contributing to ISRO, global research, and industry. Campus life blending academics with cultural, sports, and technical activities for holistic development.",
+  "financial_support": "IIST is funded by the Department of Space, Government of India. Scholarships and financial aid are available through government schemes such as the National Scholarship Portal (NSP) for ST students, National Overseas Scholarship Scheme (NOS), and other centrally sponsored schemes. Specific financial support details like stipends, tuition fee waivers, or grants are administered through these external portals and schemes, not directly by IIST as a funding scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official IIST admission portal at https://admission.iist.ac.in/ 2. Select the desired programme (Undergraduate, Postgraduate, Ph.D., Post-Doctoral) 3. Check eligibility criteria and important dates for the respective programme 4. Fill out the online application form with personal, academic, and contact details 5. Upload required documents such as mark sheets, certificates, ID proof, and photographs 6. Pay the application fee online (if applicable) 7. Submit the application and await confirmation 8. Appear for entrance exams/interviews as per the programme schedule 9. Check admission results on the portal 10. Complete admission formalities including fee payment and document verification",
+  "application_portal_url": "https://admission.iist.ac.in/",
+  "required_documents": [
+    "Mark sheets and certificates of qualifying examination",
+    "Identity proof (Aadhaar, PAN, passport, etc.)",
+    "Category certificate (if applicable)",
+    "Income certificate (for scholarship eligibility)",
+    "Passport-sized photographs",
+    "JEE (Advanced) score card (for UG admissions)",
+    "GATE score card (for M.Tech admissions where applicable)",
+    "Research proposal (for Ph.D. admissions)",
+    "No Objection Certificate (NOC) from employer (if employed)",
+    "Transfer and migration certificates"
+  ],
+  "deadlines": "Varies by programme: UG admission registration extended up to 17 June 2026 (as per news dated 10/06/2026); PG admission last date to apply: 4th June 2026; Ph.D. programme (July session) last date to apply: 25th May 2026. Other programmes may have different schedules; applicants should check the admission portal for current deadlines.",
+  "implementing_agency": "Department of Space, Government of India",
+  "contact_details": "Phone: +91 (471) 2568453, +91 (471) 2568462 | Email: pro[at]iist.ac.in",
+  "caveats": [
+    "Admission is highly competitive and based on entrance exam performance (JEE Advanced, GATE, etc.)",
+    "Certain programmes have specific eligibility criteria (e.g., M.Tech in Machine Learning and Computing via IIST portal, others via CCMT)",
+    "Financial support through scholarships is subject to eligibility under external government schemes (e.g., income criteria, ST status)",
+    "Post-doctoral positions are subject to availability and faculty approval",
+    "Some outreach and workshop programmes may have registration fees (e.g., Rs. 6,000 for academic participants, Rs. 10,000 for non-academic/industrial participants in the Advanced Control Systems workshop)"
+  ],
+  "source_cited_notes": [
+    "https://iist.ac.in/",
+    "https://iist.ac.in/about-iist",
+    "https://iist.ac.in/vision-mission",
+    "https://iist.ac.in/how-apply",
+    "https://iist.ac.in/news",
+    "https://iist.ac.in/outreach",
+    "https://iist.ac.in/sites/default/files/2026-06/2026%20WORKSHOP.pdf",
+    "https://iist.ac.in/sites/default/files/2026-01/Expert%20Talk-14.01.26.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:32:39.460083+00:00"
+}

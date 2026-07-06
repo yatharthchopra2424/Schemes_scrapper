@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-621",
+  "scheme_name": "ResponsibleAI Startup Grants (NASSCOM & MeitY)",
+  "scheme_url": "https://nasscom.in/ai",
+  "ministry_or_category": "AI & Data",
+  "overview": "The ResponsibleAI Startup Grants (NASSCOM & MeitY) is a scheme aimed at supporting startups in the AI & Data sector, particularly focusing on responsible AI development. It is part of NASSCOM's initiatives to foster innovation and responsible AI adoption in India, often in collaboration with government bodies like MeitY. The scheme provides financial and non-financial support to eligible startups working on responsible AI solutions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote responsible AI development among startups",
+    "Support innovation in AI with ethical and societal considerations",
+    "Enable startups to build scalable and trustworthy AI solutions",
+    "Strengthen India's position in the global AI ecosystem through responsible practices"
+  ],
+  "eligibility": "Startups must be focused on Generative Artificial Intelligence (GenAI), have a Minimum Viable Product (MVP), demonstrate market traction with at least one paying client or three paid Proof of Concepts (POCs), be less than 10 years old since incorporation, and be legally incorporated in India.",
+  "benefits": "Selected startups receive Free HPAIC Access (A100: 6-months or 1000 GPU hours), Domain Expertise & Research Know-How, Access to Data & Platforms, Fundraising Readiness Program, Curated Investor Connect, Support to build Responsible AI-Compliant Solutions, Technology Mentoring, Bootcamps on GTM Strategy and Growth Strategy, Collaborations & Partnerships, Global Access, and Office Hours.",
+  "financial_support": "The scheme provides non-financial support such as free high-performance AI computing access, mentorship, and investor connect. No direct monetary grant amount is specified in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Check eligibility criteria focusing on GenAI focus, MVP, client engagement, company age, and Indian incorporation. 2. Prepare documentation including proof of MVP, client engagement details, incorporation certificate, and team information. 3. Apply through the official NASSCOM GenAI Foundry portal or designated application channel. 4. Submit application for review by the selection panel. 5. Await intimation of selection and subsequent contracting if selected.",
+  "application_portal_url": "https://nasscom.in/ai/genaifoundry",
+  "required_documents": [
+    "Proof of Minimum Viable Product (MVP)",
+    "Evidence of at least one paying client or three paid Proof of Concepts (POCs)",
+    "Certificate of Incorporation",
+    "Details of company age (less than 10 years)",
+    "Team information and startup profile"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "NASSCOM in collaboration with MeitY (Ministry of Electronics and Information Technology)",
+  "contact_details": "",
+  "caveats": [
+    "Support is focused exclusively on Generative AI (GenAI) startups",
+    "Startups must have a Minimum Viable Product (MVP) to be eligible",
+    "Market traction proof (1 paying client or 3 paid POCs) is mandatory",
+    "Only startups incorporated in India and less than 10 years old can apply",
+    "The program does not specify a fixed financial grant amount"
+  ],
+  "source_cited_notes": [
+    "https://nasscom.in/ai/genaifoundry"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:14:42.443860+00:00"
+}

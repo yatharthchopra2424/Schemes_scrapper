@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-492",
+  "scheme_name": "Craftsmen Training Scheme (CTS) – ITI",
+  "scheme_url": "https://dgt.gov.in/cts",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "The Craftsmen Training Scheme (CTS) was introduced by the Government of India in 1950 to ensure a steady flow of skilled workers in different trades for the domestic industry, to raise quantitatively and qualitatively the industrial production by systematic training, to reduce unemployment among the educated youth by providing them employable skills, and to cultivate and nurture a technical and industrial attitude in the minds of younger generation. The scheme operates through a vast network of Industrial Training Institutes (ITIs) spread across various States and Union Territories. It aims to meet the existing and future manpower needs of industry by shaping craftsmen through vocational training.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "educated youth",
+    "trainees",
+    "students"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure a steady flow of skilled workers in different trades for the domestic industry",
+    "Raise quantitatively and qualitatively the industrial production by systematic training",
+    "Reduce unemployment among the educated youth by providing them employable skills",
+    "Cultivate and nurture a technical and industrial attitude in the minds of younger generation"
+  ],
+  "eligibility": "Age 14 years & above. Entry Criteria: 8th pass to 12th pass, most trades require 10th pass.",
+  "benefits": "Training in 166 NSQF compliant trades with duration from 6 months to 2 years. Provides employable skills, certification through NCVT, and access to employment opportunities in industry. Includes employability skills training as part of the curriculum.",
+  "financial_support": "The financial assistance was granted to State Governments/Union Territory administrations in the form of bulk grant in consultation with the erstwhile Planning Commission and the Ministry of Finance. From 1st April 1969, the financial control of the Industrial Training Institutes in the States as well as in the Union Territories was transferred to the respective State Governments / Union Territory.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Admission to ITIs under CTS is managed by respective State Governments / Union Territory administrations. The process involves meeting eligibility criteria (age 14+, 8th to 12th pass depending on trade), applying through state-level admission procedures, and securing a seat in the desired trade at an ITI.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Admission processes are managed by State Governments/UTs and vary by state; specific dates are not centrally defined in the evidence.",
+  "implementing_agency": "Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship",
+  "contact_details": "",
+  "caveats": [
+    "Day-to-day administration including admissions in ITIs rests with the respective State Governments / Union Territory administrations",
+    "Financial control of ITIs is with State Governments/UT administrations since 1969",
+    "Central government responsibilities are limited to policy, standards, curriculum, examinations, and certification"
+  ],
+  "source_cited_notes": [
+    "https://dgt.gov.in/cts",
+    "https://dgt.gov.in/en/CTS",
+    "https://dgt.gov.in/hi/CTS",
+    "https://dgt.gov.in/sites/default/files/v2%20DGT%20long%20presentation%20(2)_0%20(1).pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:56:16.209585+00:00"
+}

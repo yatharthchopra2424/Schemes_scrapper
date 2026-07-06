@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-722",
+  "scheme_name": "Technology Upgradation of Leather Sector (TULS)",
+  "scheme_url": "https://leatherindia.org",
+  "ministry_or_category": "Footwear & Leather",
+  "overview": "The Technology Upgradation of Leather Sector (TULS) is a sub-scheme under the Indian Footwear & Leather Development Programme (IFLDP) 2021-26, implemented by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry, Government of India. It aims to support the modernization and technological upgradation of leather sector units through financial assistance. The scheme is part of a central sector initiative with a total outlay of Rs.1700 Crores for the period 2021-2026, targeting eligible units in the leather and footwear industry for grant-based support.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "MSME",
+    "leather sector units",
+    "footwear sector units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Modernize and upgrade technology in leather sector production units",
+    "Enhance competitiveness and productivity of leather and footwear industries",
+    "Support sustainable and environmentally friendly technological interventions",
+    "Facilitate adoption of advanced manufacturing processes in leather processing",
+    "Improve quality and value addition in leather and leather products",
+    "Promote cluster-based development in the leather sector",
+    "Strengthen institutional capabilities for technology upgradation",
+    "Enable access to financial support for technological interventions"
+  ],
+  "eligibility": "Eligible units must be engaged in the leather and footwear sector and submit proposals through the online NSWS portal (https://www.nsws.gov.in) for availing grant assistance under the IFLDP 2021-26. Applications are subject to appraisal by PIUs (FDDI and CLRI) and final approval by the Steering Committee of DPIIT. Mere submission of an application does not entitle an applicant to Government of India assistance; assistance is subject to appraisal and recommendations by the PIUs and final approval by the Steering Committee.",
+  "benefits": "Financial assistance in the form of grants for technology upgradation, subject to appraisal and approval by the Steering Committee. Support includes funding for sustainable technology adoption, environmental protection measures, and modernization of production units. Non-financial benefits include technical guidance, monitoring, and verification through PIUs and Steering Committee oversight.",
+  "financial_support": "Financial support is provided as grants under the IFLDP 2021-26, with a total outlay of Rs.1700 Crores allocated across six sub-schemes including TULS. The quantum of support per entity is determined based on project appraisal and Steering Committee approval. Assistance is disbursed after due appraisal by PIUs (FDDI and CLRI) and final approval by the Steering Committee. The NSWS portal was used for application submission, with a 15-day window for IDLS sub-scheme (which may include TULS) open until 10th July 2025.",
+  "fund_size_crores": "1700",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Access the NSWS portal at https://www.nsws.gov.in for application submission. 2. Submit proposal under the relevant sub-scheme of IFLDP 2021-26 (including TULS). 3. Ensure submission is completed by the PIUs (FDDI and CLRI) for appraisal. 4. Await forwarding of appraised applications to DPIIT for Steering Committee consideration. 5. Receive grant disbursement only after final approval by the Steering Committee. 6. Note that mere submission does not guarantee assistance; approval is mandatory.",
+  "application_portal_url": "https://www.nsws.gov.in",
+  "required_documents": [],
+  "deadlines": "For IDLS sub-scheme (under which TULS may be processed), a 15-day window was provided from the date of the DPIIT notice (25th June 2025), with closure by 10th July 2025. No applications will be accepted beyond 10th July 2025. For other sub-schemes, the NSWS portal is closed with immediate effect.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Mere submission of an application does not entitle an applicant to Government of India assistance.",
+    "Assistance is subject to appraisal and recommendations by PIUs (FDDI and CLRI) and final approval by the Steering Committee.",
+    "The NSWS portal for IFLDP 2021-26 is closed with immediate effect for all sub-schemes except IDLS.",
+    "For IDLS sub-scheme, the portal closed on 10th July 2025, and no applications are accepted beyond this date.",
+    "The scheme is valid only till 31st March 2026 or till further review, whichever is earlier."
+  ],
+  "source_cited_notes": [
+    "https://leatherindia.org/closure-of-nsws-online-portal-for-submission-of-applications-under-ifldp-2021-26-2/",
+    "https://leatherindia.org/wp-content/uploads/2025/07/DPIIT-Notice-IFLDP_Portal-Closure_25June2025.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:19:08.268319+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-430",
+  "scheme_name": "Dairy Entrepreneurship Development Scheme (DEDS)",
+  "scheme_url": "https://dahd.nic.in/deds",
+  "ministry_or_category": "Animal Husbandry",
+  "overview": "The Dairy Entrepreneurship Development Scheme (DEDS) is a centrally sponsored scheme implemented by the Department of Animal Husbandry and Dairying (DAHD), Ministry of Fisheries, Animal Husbandry and Dairying, Government of India. It aims to generate self-employment opportunities in the dairy sector by providing financial assistance for setting up small dairy farms and related activities. The scheme promotes the establishment of modern dairy farms, calf rearing units, vermicomposting, and other allied activities to enhance milk production and processing.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "individual entrepreneurs",
+    "self-help groups",
+    "dairy cooperative societies",
+    "milk unions",
+    "milk federations",
+    "NGOs",
+    "Panchayati Raj Institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To generate self-employment opportunities in the dairy sector",
+    "To promote setting up of modern dairy farms for production of clean milk",
+    "To encourage heifer calf rearing for conservation and development of good breeding stock",
+    "To bring about structural changes in the unorganized sector for initial processing of milk at the village level",
+    "To upgrade traditional technology to handle milk on a commercial scale",
+    "To provide value addition to milk through processing and marketing"
+  ],
+  "eligibility": "Individual entrepreneurs, self-help groups, dairy cooperative societies, milk unions, milk federations, NGOs, and Panchayati Raj Institutions are eligible to avail benefits under the scheme. The beneficiary must have a minimum of 2 milch animals (cows/buffaloes) for individual beneficiaries and 10 milch animals for SHGs/cooperatives. The unit must be located in a rural or peri-urban area and must not have availed similar benefits under any other central or state government scheme for the same component.",
+  "benefits": "Financial assistance in the form of back-ended subsidy is provided for various components such as establishment of small dairy farms with crossbred cows/indigenous descriptively graded buffaloes, rearing of heifer calves, vermicomposting, milk processing units, cold chain facilities, and transportation. The subsidy is linked with bank loans and is disbursed after successful verification of the unit. Non-financial benefits include technical guidance, training, and monitoring support from implementing agencies.",
+  "financial_support": "The scheme provides a back-ended subsidy ranging from 25% to 33.33% of the project cost, depending on the beneficiary category and component. For general category beneficiaries, the subsidy is 25% of the project cost, while for SC/ST and other special categories, it is 33.33%. The subsidy is released in installments after verification of the unit by the bank and NABARD. The maximum project cost eligible for subsidy varies by component, e.g., up to INR 5.00 lakhs for a small dairy farm with 10 animals and up to INR 20.00 lakhs for milk processing units.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the eligible component under DEDS (e.g., small dairy farm, calf rearing, vermicomposting, etc.). 2. Prepare a detailed project report including cost estimates, location details, and beneficiary information. 3. Approach a commercial bank, regional rural bank, or cooperative bank for loan sanction under the scheme. 4. Submit the project report and loan application to the bank along with required documents. 5. The bank forwards the proposal to NABARD for sanction and subsidy reservation. 6. After loan disbursement, set up the unit as per the approved plan. 7. Notify the bank upon completion for inspection and verification. 8. Upon successful verification, the subsidy amount is released by NABARD to the beneficiary's loan account.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project report with cost estimates",
+    "Proof of land ownership or lease agreement",
+    "Beneficiary identity proof (Aadhaar, PAN, etc.)",
+    "Bank account details",
+    "Quotations for equipment and civil works",
+    "Certificate of training (if applicable)",
+    "No Objection Certificate from local authorities (if required)",
+    "Details of existing livestock (for expansion units)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is available only for new units and not for expansion or replacement of existing units",
+    "Beneficiaries who have availed benefits under any other central or state government scheme for the same component are not eligible",
+    "The unit must be inspected and verified by the bank and NABARD before subsidy release",
+    "Subsidy is released only after successful verification and is credited to the beneficiary's loan account",
+    "The beneficiary must maintain the unit for a minimum period of 5 years from the date of subsidy release"
+  ],
+  "source_cited_notes": [
+    "https://dahd.nic.in/deds"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:26:02.913730+00:00"
+}

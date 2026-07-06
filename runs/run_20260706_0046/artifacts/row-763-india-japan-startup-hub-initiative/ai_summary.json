@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-763",
+  "scheme_name": "India-Japan Startup Hub Initiative",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "International Collaboration",
+  "overview": "The India-Japan Startup Hub Initiative is a collaborative program under the Startup India initiative aimed at fostering innovation and entrepreneurship by connecting Indian startups with Japanese counterparts. It facilitates cross-border collaboration, knowledge sharing, and market access for startups from both countries. The initiative supports startups through mentorship, networking opportunities, and access to funding and incubation resources in Japan and India.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation and entrepreneurship through India-Japan collaboration",
+    "Provide mentorship and guidance to startups from experienced experts",
+    "Facilitate market access and expansion opportunities in Japan and India",
+    "Enable networking with investors, incubators, and industry stakeholders",
+    "Support technology transfer and joint ventures between Indian and Japanese startups",
+    "Enhance capacity building through workshops and training programs",
+    "Strengthen bilateral ties in the startup ecosystem between India and Japan"
+  ],
+  "eligibility": "Startups must be DPIIT recognised under the Startup India initiative to be eligible for the India-Japan Startup Hub Initiative. The startup should be working towards innovation, development or improvement of products or processes or services, or be a scalable business model with high potential for employment generation or wealth creation. The entity should not have been formed by splitting up or reconstructing an existing business.",
+  "benefits": "Startups gain access to mentorship from seasoned experts and successful founders via the MAARG National Mentorship Platform, opportunities to participate in global market linkage programs, handholding support, and exclusive access to international startup events and challenges. They also benefit from representation in mega startup events for greater visibility and business development, and access to private funding networks and venture capital connections.",
+  "financial_support": "The initiative does not provide direct financial support but facilitates access to funding through connected programs such as the Fund of Funds for Startups, Startup India Seed Fund Scheme, and Credit Guarantee Scheme for Startups. Startups can leverage the hub to connect with investors and funding opportunities in Japan and India.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal at https://www.startupindia.gov.in 2. Complete the BHASKAR registration form with details such as first name, last name, email ID, and nationality to generate a BHASKAR ID 3. Log in to the Startup India Portal using credentials 4. Navigate to the 'Get Recognised' section to apply for DPIIT recognition 5. Fill out the application form detailing the startup’s uniqueness and innovation 6. Upload necessary documents including Certificate of Incorporation, PAN, pitch deck, and business description 7. Submit the form for review 8. Upon recognition, access the India-Japan Startup Hub Initiative through the Startup India portal's programs and challenges section",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Benefits are contingent upon obtaining DPIIT recognition first",
+    "Participation in specific Japan-linked programs may require separate application and selection",
+    "The initiative does not guarantee funding or investment",
+    "Startups must comply with reporting and mentorship engagement requirements"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/",
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/bhaskar/register",
+    "https://startupindia.gov.in/content/sih/en/about-startup-india-initiative.html",
+    "https://startupindia.gov.in/content/sih/en/user/my-dashboard",
+    "https://startupindia.gov.in/content/sih/en/profile.html",
+    "https://startupindia.gov.in/content/sih/en/persona.update.html",
+    "https://startupindia.gov.in/content/sih/en/home-page.html"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:41:51.821378+00:00"
+}

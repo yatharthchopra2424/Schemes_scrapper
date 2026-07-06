@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-524",
+  "scheme_name": "Manipur Startup Policy",
+  "scheme_url": "https://manipur.gov.in",
+  "ministry_or_category": "State Level (Manipur)",
+  "overview": "The Manipur Startup Policy is a state-level initiative aimed at fostering innovation and entrepreneurship within Manipur. It seeks to create a supportive ecosystem for startups by providing financial, infrastructural, and regulatory assistance. The policy focuses on promoting technology-driven ventures and encouraging youth participation in entrepreneurial activities. It aligns with national startup goals while addressing regional challenges and opportunities.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "youth"
+  ],
+  "geographic_scope": "Manipur only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in Manipur",
+    "Support technology-driven startups with financial and infrastructural aid",
+    "Encourage youth and women participation in startup ecosystem",
+    "Simplify regulatory processes for startup establishment and operation",
+    "Create incubation and mentorship facilities for early-stage ventures",
+    "Facilitate access to funding through government and private partnerships",
+    "Strengthen industry-academia collaboration for research and development",
+    "Monitor and evaluate startup performance for policy improvement"
+  ],
+  "eligibility": "Startups registered in Manipur as private limited companies, LLPs, or partnership firms, incorporated within the last 7 years, with annual turnover not exceeding INR 25 crores, and working on innovative products, services, or processes with potential for scalability and employment generation.",
+  "benefits": "Financial support in the form of seed funding, grants, or equity-based assistance; access to incubation centers with infrastructure and mentorship; regulatory facilitation including single-window clearance; tax and duty exemptions as per state provisions; participation in state-organized startup events and networking opportunities; guidance on intellectual property rights and legal compliance.",
+  "financial_support": "The policy provides financial support through seed funding of up to INR 10 lakhs per startup in the form of grants or convertible equity, disbursed via the State Innovation and Startup Fund. Additional support may include matched funding from government schemes and access to venture capital networks.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs",
+  "application_process": "1. Register on the official Manipur Startup Policy portal. 2. Submit the online application form with business details and innovation description. 3. Upload required documents including Certificate of Incorporation, PAN, and pitch deck. 4. Await preliminary screening by the State Startup Committee. 5. Present the business model before the selection panel for evaluation. 6. Receive approval and disbursement of funds upon successful selection.",
+  "application_portal_url": "https://manipur.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)",
+    "Proof of innovation or prototype",
+    "Bank account details of the entity"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Department of Information Technology, Government of Manipur",
+  "contact_details": "Email: dit-mn@nic.in | Phone: 0385-2450137",
+  "caveats": [
+    "Funding is subject to availability of budget and government approvals",
+    "Startups must maintain registration and operational status in Manipur to avail benefits",
+    "Misuse of funds may lead to recovery and blacklisting",
+    "Benefits are contingent upon meeting milestones and submission of progress reports"
+  ],
+  "source_cited_notes": [
+    "https://manipur.gov.in",
+    "https://manipur.gov.in/?page_id=15784",
+    "https://manipur.gov.in/?page_id=920"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:17:14.603866+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-341",
+  "scheme_name": "TANSIDCO MSME Support Scheme",
+  "scheme_url": "https://tansidco.org",
+  "ministry_or_category": "State Level (Tamil Nadu)",
+  "overview": "TANSIDCO (Tamil Nadu Small Industries Development Corporation Limited) provides industrial infrastructure support through the allotment of plots, sheds, and plug-and-play modules on outright sale, lease, or rental basis across Tamil Nadu. The scheme facilitates MSMEs and entrepreneurs by offering developed industrial spaces with basic amenities in various industrial estates. It aims to promote industrial growth by making land and built-up spaces accessible for manufacturing and service units.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "entrepreneurs",
+    "manufacturing units",
+    "service units"
+  ],
+  "geographic_scope": "Tamil Nadu only",
+  "objectives": [
+    "Provide developed industrial infrastructure for MSMEs and entrepreneurs",
+    "Facilitate ease of doing business through ready-to-use plug-and-play modules",
+    "Promote industrial growth across districts of Tamil Nadu",
+    "Offer flexible land and building acquisition options (outright sale, lease, rental)",
+    "Support silver anklet manufacturing and other niche industries through dedicated modules",
+    "Ensure transparent allotment process via GIS and online application system"
+  ],
+  "eligibility": "Any individual, entrepreneur, MSME, or industrial unit seeking to establish or expand operations in Tamil Nadu can apply for allotment of plots, sheds, or modules. Applicants must visit the industrial estate physically and upload geo-tagged photos as part of the application. Udyam/UAM registration is encouraged but not explicitly mandatory for application initiation.",
+  "benefits": "Access to developed industrial plots, sheds, and plug-and-play modules with basic infrastructure (power, water, approach roads). Options for outright purchase, 99-year lease, or rental basis. Transparent allotment process with GIS mapping, online application, and status tracking. Dedicated facilities like Silver Anklet Manufacturing Complex in Salem. Support for backward block industrial estates.",
+  "financial_support": "Financial support is indirect through subsidized or market-linked allotment of industrial infrastructure. Costs vary by location, extent, and type (plot/shed/module). Examples include Plug & Play modules in Guindy ranging from Rs. 69,05,600 to Rs. 1,34,44,340 and in Ambattur from Rs. 74,88,300 to Rs. 1,49,90,340. Outright sale basis plots are available across districts (e.g., Ariyalur: Rs. 4,69,780 to Rs. 18,69,018; Chengalpattu Alathur Phase-II: up to Rs. 3,72,44,782). No direct grants or loans are provided; applicants bear the cost of allotment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the TANSIDCO website and navigate to the vacancy details for plots/sheds/modules. 2. Select the desired industrial estate and property type (outright sale, lease, rental, plug-and-play). 3. Physically visit the industrial estate for verification. 4. Upload geo-tagged photos of the proposed plot/shed/module. 5. Fill out the online application form with plot/shed/module details. 6. Submit the application and proceed to payment via SBI Collect or other modes. 7. Track application status using the application number. 8. Upon approval, proceed with allotment documentation and possession.",
+  "application_portal_url": "https://tansidco.org/Applications/index",
+  "required_documents": [
+    "Udyam / Udyam Registration Certificate (recommended)",
+    "Geo-tagged photograph of the industrial estate/plot/shed/module",
+    "Identity proof of applicant",
+    "Address proof",
+    "Business constitution documents (if applicable)",
+    "Bank details for payment/refund"
+  ],
+  "deadlines": "Rolling basis — applications are accepted year-round based on vacancy availability.",
+  "implementing_agency": "Tamil Nadu Small Industries Development Corporation Limited (TANSIDCO)",
+  "contact_details": "",
+  "caveats": [
+    "Physical visit to the industrial estate and uploading of geo-tagged photos is mandatory for application",
+    "Allotment is subject to availability of vacant plots/sheds/modules in the selected estate",
+    "Costs are tentative and subject to revision",
+    "Application does not guarantee allotment; subject to verification and payment confirmation",
+    "Specific modules (e.g., Silver Anklet) are exclusively for designated industrial activities"
+  ],
+  "source_cited_notes": [
+    "https://tansidco.org/",
+    "https://tansidco.org/Applications/index",
+    "https://tansidco.org/Home/show_breakup_outright/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzEzMg==/plugplayout",
+    "https://tansidco.org/Home/show_breakup_outright/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzEzMQ==/plugplayout",
+    "https://tansidco.org/Home/vacant_type_details/outright",
+    "https://tansidco.org/Home/show_detail_report/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzgz",
+    "https://tansidco.org/Home/show_detail_report/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzEwMQ==",
+    "https://tansidco.org/Home/show_detail_report/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzEwOA==",
+    "https://tansidco.org/Home/show_detail_report/RzMyNTI2NjUxMjU1MjU1MjIrZGRramRra2Qkc3Nzc3Nzc3NzK3Nzc3Nzc3NzXzEzNA=="
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:34:20.786624+00:00"
+}

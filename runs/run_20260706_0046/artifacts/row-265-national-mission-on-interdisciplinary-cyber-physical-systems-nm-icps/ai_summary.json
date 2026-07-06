@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-265",
+  "scheme_name": "National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS)",
+  "scheme_url": "https://dst.gov.in/nm-icps",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The National Mission on Interdisciplinary Cyber-Physical Systems (NM-ICPS) is a mission-mode initiative under the Department of Science and Technology (DST) aimed at fostering innovation, research, and development in cyber-physical systems and related interdisciplinary domains. It seeks to strengthen India's capabilities in strategic technologies, promote technological self-reliance, and align with the Atmanirbhar Bharat vision by supporting academia, industry, startups, and research institutions in cutting-edge areas such as AI, robotics, quantum computing, and IoT. The mission encourages private sector participation and aims to build a robust ecosystem for innovation and entrepreneurship in deep tech sectors.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "research institutions",
+    "academia",
+    "industry players"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encourage private sector involvement in high-impact R&D",
+    "Promote strategic technologies including quantum computing, robotics, space, AI, and biotechnology",
+    "Foster self-reliance and economic security through indigenization of critical technologies",
+    "Ensure flexibility in sectoral support for public interest",
+    "Strengthen India’s capabilities in strategic technologies and promote technological self-reliance",
+    "Align with the nation’s long-term innovation and Atmanirbhar Bharat vision",
+    "Catalyze private sector participation in high-impact R&D",
+    "Support technologies where indigenization is essential for strategic or economic reasons"
+  ],
+  "eligibility": "The scheme is open to industry players, startups, MSMEs, research institutions, academia, and other stakeholders engaged in research, development, and innovation in strategic technology areas such as energy security, climate action, deep technologies (quantum computing, robotics, space), AI applications in agriculture, health, education, biotechnology, biomanufacturing, synthetic biology, pharma, medical devices, and digital economy including digital agriculture. Entities must be engaged in developing RDI-intensive technology at Technology Readiness Level (TRL) 4 and above.",
+  "benefits": "Financial support through long-term loans at low or nil interest rates, equity infusion (especially for startups), and contributions to the Deep-Tech Fund of Funds. Non-financial benefits include access to mentorship, infrastructure, collaboration networks, and support for scaling up innovations. The scheme also facilitates technology transfer, commercialization, and participation in national innovation ecosystems.",
+  "financial_support": "The scheme operates with a total outlay of ₹1 lakh crore. Modes of financing include long-term loans at low or nil interest rates and equity infusion, particularly for startups. Grants and short-term loans are not supported. Financing can cover up to 50% of the assessed project cost for transformative R&D projects at Technology Readiness Levels (TRLs) 4 and above, with exceptions possible upon approval by the Empowered Group of Secretaries (EGoS). Disbursements are routed exclusively through designated Second-Level Fund Managers (SLFMs), which may include Alternate Investment Funds (AIFs), Development Finance Institutions (DFIs), NBFCs, or Focused Research Organizations (FROs) such as TDB, BIRAC, or IIT Research Parks.",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested Second Level Fund Managers (SLFMs) express interest by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. 2. Existing NBFCs planning to establish AIFs are encouraged to contact DST regarding potential participation. 3. Industry stakeholders seeking funding are advised not to send proposals directly to DST. 4. All disbursements will be routed exclusively through designated SLFMs via separate advertisement. 5. For more details, visit https://rdifund.anrf.gov.in/. 6. The fund flow from CFI to RDIF is based on half-yearly net requirements. 7. RDIF releases funds to SLFMs in a 'Just-In-Time' manner via the Treasury Single Account (TSA) system. 8. SLFMs prepare fund requirements based on repayment or exit proceeds and forward them to RDIF. 9. Upon receipt of demand, RDIF releases funds to the designated bank account of SLFM within a specified time frame.",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Science and Technology (DST), Ministry of Science and Technology",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in | Phone: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Grants and short-term loans are not supported under the scheme",
+    "Disbursements are routed exclusively through designated Second-Level Fund Managers (SLFMs); direct proposals to DST are discouraged",
+    "The entire fund must be returned to the Consolidated Fund of India (CFI) after 50 years without any interest",
+    "Funding is contingent on approval by the Empowered Group of Secretaries (EGoS) for exceptions beyond standard coverage"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "http://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "https://dst.gov.in/sites/default/files/SFR%20RDI%20FUND%20Gazzette%20Notification.pdf",
+    "https://dst.gov.in/sites/default/files/Publication%20of%20Special%20Financial%20Rules%202026%20for%20utilization%20of%20the%20amounts%20in%20the%20Research%20Development%20and%20Innovation%28RDI%29%20Fund%20in%20the%20official%20Gazette%20-%20reg..pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:44:59.424889+00:00"
+}

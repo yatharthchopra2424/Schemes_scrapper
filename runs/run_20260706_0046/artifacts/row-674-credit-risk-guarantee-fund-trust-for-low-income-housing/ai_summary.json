@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-674",
+  "scheme_name": "Credit Risk Guarantee Fund Trust for Low Income Housing",
+  "scheme_url": "https://mohua.gov.in/crgftlih",
+  "ministry_or_category": "Housing Finance",
+  "overview": "The Credit Risk Guarantee Fund Trust for Low Income Housing (CRGFTLIH) is a scheme under the Ministry of Housing and Urban Affairs (MoHUA) designed to provide credit guarantee support to lending institutions for extending housing loans to low-income households. It aims to facilitate access to formal credit for economically weaker sections by reducing the risk perceived by banks and financial institutions. The trust operates by offering a guarantee cover on housing loans, thereby encouraging lenders to sanction loans to beneficiaries who may lack conventional collateral or credit history.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "low-income households",
+    "economically weaker sections"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide credit guarantee cover for housing loans extended to low-income households",
+    "To encourage lending institutions to extend housing finance to economically weaker sections by mitigating credit risk",
+    "To promote access to formal credit for urban poor seeking to construct, purchase, or improve housing",
+    "To support the goal of 'Housing for All' under Pradhan Mantri Awas Yojana (Urban)",
+    "To strengthen the housing finance ecosystem by reducing non-performing assets in low-income housing lending"
+  ],
+  "eligibility": "The scheme benefits lending institutions (such as banks, housing finance companies, and microfinance institutions) that extend housing loans to individuals belonging to the economically weaker sections (EWS) and low-income groups (LIG) as defined under Pradhan Mantri Awas Yojana (Urban). Beneficiaries must have a valid income certificate, proof of identity, and property documents as per the lending institution's norms and the guidelines of the scheme. Loans must be for housing purposes including construction, purchase, or improvement of a dwelling unit.",
+  "benefits": "The scheme provides credit guarantee cover to lending institutions, reducing their risk exposure on housing loans to low-income borrowers. This enables lenders to offer collateral-free or low-collateral loans, thereby increasing credit access for underserved populations. The guarantee enhances lenders' confidence to sanction loans to first-time borrowers and those without formal credit history, supporting financial inclusion in the housing sector.",
+  "financial_support": "The Credit Risk Guarantee Fund Trust for Low Income Housing provides a guarantee cover on housing loans sanctioned by lending institutions to eligible beneficiaries. The guarantee is typically a percentage of the loan amount, covering a portion of the default risk, and is activated upon classification of the loan as a non-performing asset (NPA). The exact guarantee percentage and loan coverage limits are determined by the trust's operational guidelines and are subject to periodic review.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Lending institutions identify eligible beneficiaries under EWS/LIG categories as per PMAY(U) guidelines. 2. Sanction housing loans for construction, purchase, or improvement of dwelling units. 3. Submit loan details to the Credit Risk Guarantee Fund Trust for Low Income Housing for guarantee coverage. 4. The trust evaluates the loan proposal based on beneficiary eligibility and loan-to-value ratio. 5. Upon approval, the trust issues a guarantee cover certificate to the lending institution. 6. The lending institution disburses the loan to the beneficiary. 7. In case of default, the lending institution can invoke the guarantee by submitting a claim to the trust with required documentation. 8. The trust processes the claim and reimburses the lending institution as per the guarantee terms.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Loan application form",
+    "Beneficiary's identity proof (Aadhaar, PAN, etc.)",
+    "Income certificate proving EWS/LIG status",
+    "Property documents (title deed, sale agreement, etc.)",
+    "Loan sanction letter from the lending institution",
+    "Encumbrance certificate",
+    "Approved building plan (for construction loans)",
+    "No Objection Certificate (NOC) from relevant authorities (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "The guarantee cover is subject to the loan being used strictly for housing purposes",
+    "Beneficiaries must meet the income criteria defined under EWS/LIG as per PMAY(U)",
+    "The guarantee is invoked only after the loan is classified as a non-performing asset (NPA) by the lending institution",
+    "Claims must be submitted within the stipulated time frame after NPA classification",
+    "The guarantee does not cover willful default or fraudulent misrepresentation by the beneficiary"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in/crgftlih"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:44:46.497430+00:00"
+}

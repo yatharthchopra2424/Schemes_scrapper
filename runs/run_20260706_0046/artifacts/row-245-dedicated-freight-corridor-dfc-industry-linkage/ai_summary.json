@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-245",
+  "scheme_name": "Dedicated Freight Corridor (DFC) Industry Linkage",
+  "scheme_url": "https://dfccil.com",
+  "ministry_or_category": "Logistics & Transport",
+  "overview": "The Dedicated Freight Corridor (DFC) Industry Linkage scheme, managed by the Dedicated Freight Corridor Corporation of India Limited (DFCCIL), aims to enhance logistics efficiency by connecting industrial hubs to the Dedicated Freight Corridors. It facilitates seamless freight movement, reduces transit time and cost, and supports industrial growth through improved rail connectivity. The scheme focuses on developing last-mile connectivity and industrial nodes along the DFC network.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "manufacturing units",
+    "logistics providers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop last-mile connectivity from industrial clusters to Dedicated Freight Corridors",
+    "Reduce logistics cost and transit time for freight movement",
+    "Enhance competitiveness of Indian industries through efficient rail connectivity",
+    "Promote shift from road to rail for sustainable freight transport",
+    "Develop industrial nodes and logistics parks along DFC routes",
+    "Improve supply chain efficiency for domestic and EXIM cargo"
+  ],
+  "eligibility": "Industries, manufacturing units, and logistics providers located near or planning to locate along the Dedicated Freight Corridor network are eligible to apply for linkage development. Entities must have valid industrial registration and comply with DFCCIL's technical and safety standards for siding connections.",
+  "benefits": "Financial assistance for siding construction, priority path allocation on DFC, reduced freight charges, assured wagon availability, end-to-end logistics solution, reduced carbon footprint, and improved supply chain reliability.",
+  "financial_support": "DFCCIL provides financial support for the construction of private sidings connecting industries to the DFC network, typically covering a portion of the capital cost based on traffic volume and commitment. The support is disbursed in milestones linked to construction progress and operational readiness.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the nearest DFC alignment and conduct feasibility study for siding connection. 2. Submit a formal application to DFCCIL with project details, land documents, and traffic projections. 3. Obtain in-principle approval from DFCCIL after technical evaluation. 4. Sign a Licensing Agreement for siding construction and maintenance. 5. Construct the siding as per DFCCIL specifications under supervision. 6. Complete safety inspection and commissioning. 7. Begin operations and avail linkage benefits.",
+  "application_portal_url": "https://dfccil.com",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Land ownership or lease documents for siding alignment agreement",
+    "Project report with traffic projections and commodity details",
+    "No Objection Certificate (NOC) from relevant authorities",
+    "Detailed engineering drawings of the proposed siding",
+    "Environmental and safety compliance documents",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to technical feasibility and network capacity.",
+  "implementing_agency": "Dedicated Freight Corridor Corporation of India Limited (DFCCIL)",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is subject to traffic volume commitment and periodic review",
+    "Sidings must be maintained to DFCCIL safety and operational standards",
+    "Failure to meet minimum traffic thresholds may result in review of financial support",
+    "All constructions must comply with Indian Railways and DFCCIL technical specifications"
+  ],
+  "source_cited_notes": [
+    "https://dfccil.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:31:32.813449+00:00"
+}

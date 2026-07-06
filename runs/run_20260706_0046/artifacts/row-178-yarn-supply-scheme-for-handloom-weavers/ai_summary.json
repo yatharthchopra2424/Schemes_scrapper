@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-178",
+  "scheme_name": "Yarn Supply Scheme for Handloom Weavers",
+  "scheme_url": "https://handlooms.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Yarn Supply Scheme for Handloom Weavers is a component of the Raw Material Supply Scheme (RMSS) under the National Handloom Development Programme (NHDP). It aims to provide subsidized yarn to handloom weavers through a structured supply mechanism involving yarn depots and warehouses. The scheme supports weavers by ensuring easy access to raw materials at subsidized prices, thereby reducing input costs and improving productivity.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "handloom weavers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide easy access to raw material at subsidized prices",
+    "To reduce the input cost burden on handloom weavers",
+    "To ensure timely availability of yarn for uninterrupted production",
+    "To support the livelihood and sustainability of handloom weaving activities",
+    "To enhance the quality and competitiveness of handloom products through consistent raw material supply"
+  ],
+  "eligibility": "Handloom weavers, handloom agencies, Self Help Groups (SHGs), Producer Companies, and other eligible handloom entities as recommended by the State Government and approved by the Development Commissioner (Handlooms).",
+  "benefits": "Financial assistance in the form of transport subsidy and price subsidy on yarn supply. Non-financial benefits include assured supply of quality yarn through a network of yarn depots and warehouses, reduced drudgery in procuring raw materials, and improved productivity and income for weavers.",
+  "financial_support": "Under the Raw Material Supply Scheme, financial assistance is provided via transport subsidy and price subsidy on yarn. As per the Physical and Financial achievements as on 31.03.2024, a total of 9139.88 lakh kg of yarn was supplied under Transport Subsidy & Price Subsidy, benefitting 5.38 lakh handloom weavers. The supply mechanism involves 511 yarn depots and 46 warehouses functioning across the country.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Handloom weavers or agencies approach the nearest Weavers' Service Centre (WSC) or State Directorate of Handlooms. 2. Submit application along with required documents. 3. Application is forwarded to the concerned authority for verification and approval. 4. Upon approval, yarn is supplied through designated yarn depots at subsidized rates. 5. Utilization Certificate (UC) may be required for continued support.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form",
+    "Identity proof of the weaver/agency",
+    "Address proof",
+    "Bank account details",
+    "Handloom weaver's identity card or EPehchan registration",
+    "Details of yarn requirement",
+    "Any other document as specified by the implementing agency"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Office of the Development Commissioner for Handlooms, Ministry of Textiles",
+  "contact_details": "Email: wscguw@gmail.com (example from WSC Guwahati); Helpline numbers available via Weavers' Service Centres; Central office: Dr. M. Beena, Development Commissioner (Handlooms), Udyog Bhawan, New Delhi",
+  "caveats": [
+    "Subsidy is subject to availability of funds and yarn stock",
+    "Beneficiaries must possess valid handloom weaver's identity or EPehchan registration",
+    "Supply is subject to verification and approval by the State Directorate or WSC",
+    "Utilization Certificate may be required for subsequent tranches of support"
+  ],
+  "source_cited_notes": [
+    "https://handlooms.nic.in/assets/img/Handloom Schemes/NHDP_English Compendium_2024.pdf",
+    "https://handlooms.nic.in/assets/img/Statistics/Physical and Financial achievements as on 31.03.2024.pdf",
+    "https://handlooms.nic.in/about.php",
+    "https://handlooms.nic.in/vision_and_mission.php",
+    "https://handlooms.nic.in/assets/img/About Us/Whos Who English.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:54:50.122670+00:00"
+}

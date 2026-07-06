@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-54",
+  "scheme_name": "PMEGP via Khadi & Village Industries Commission",
+  "scheme_url": "https://www.kviconline.gov.in",
+  "ministry_or_category": "Rural Development",
+  "overview": "The Prime Minister's Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme implemented by the Khadi and Village Industries Commission (KVIC) to generate employment opportunities through the establishment of micro-enterprises in rural and urban areas. It provides financial assistance in the form of bank loans and government subsidies to individuals, self-help groups, and institutions for setting up new ventures. The scheme aims to promote sustainable livelihoods and reduce unemployment by supporting traditional and innovative village industries.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "individuals",
+    "self-help groups",
+    "institutions",
+    "MSME",
+    "rural entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Generate employment opportunities in rural and urban areas through micro-enterprises",
+    "Promote sustainable livelihoods by supporting traditional and innovative village industries",
+    "Provide financial assistance via bank loans and government subsidies for new venture setup",
+    "Empower vulnerable sections including women, SC/ST, and physically challenged individuals",
+    "Strengthen the rural economy by encouraging entrepreneurship at the grassroots level"
+  ],
+  "eligibility": "Any individual above 18 years of age is eligible. For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the business/service sector, the beneficiary should possess at least VIII standard pass educational qualification. Self Help Groups (including those belonging to BPL provided that they have not availed benefits under any other Scheme) are also eligible. Institutions registered under Societies Registration Act, 1860; Production Co-operative Societies, and Charitable Trusts are also eligible.",
+  "benefits": "Financial assistance in the form of bank loan (term loan and working capital) and government subsidy. Subsidy rate is 25% for general category beneficiaries in rural areas, 15% in urban areas; 35% for special category (SC/ST/OBC/Minorities/Women, ex-servicemen, physically handicapped, NER, Hill and Border areas) in rural areas, and 25% in urban areas. Maximum project cost admissible under manufacturing sector is Rs. 50 lakh and under business/service sector is Rs. 20 lakh. The scheme promotes self-employment and entrepreneurship through training, mentorship, and post-establishment support.",
+  "financial_support": "Beneficiaries receive a composite loan comprising of bank loan (90% to 95% of project cost) and government subsidy (5% to 10% of project cost). The government subsidy is credited to the beneficiary's bank account after loan disbursement and is locked for 3 years. The remaining project cost (5% to 10%) is contributed by the beneficiary as margin money. Maximum loan amount varies based on project cost and beneficiary category, with subsidy directly reducing the effective financial burden.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official PMEGP portal at https://kviconline.gov.in 2. Register as a new beneficiary on the portal 3. Fill in the online application form with personal, project, and financial details 4. Upload required documents including educational certificates, project report, and identification proofs 5. Submit the application online 6. Application is forwarded to the concerned District Industries Centre (DIC) or KVIC office for verification 7. Upon verification, the application is sent to the selected bank for loan sanction 8. After bank approval, the loan is disbursed and government subsidy is credited to the beneficiary's account.",
+  "application_portal_url": "https://kviconline.gov.in",
+  "required_documents": [
+    "Application form (duly filled)",
+    "Project report",
+    "Educational qualification certificate (if applicable)",
+    "Caste certificate (for special category beneficiaries)",
+    "Identification proof (Aadhaar/PAN/Voter ID)",
+    "Address proof",
+    "Bank account details",
+    "Two passport size photographs",
+    "Special category certificate (if applicable)",
+    "Affidavit as per prescribed format"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Khadi and Village Industries Commission (KVIC), Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is credited only after loan disbursement and remains locked for 3 years",
+    "Beneficiary must contribute 5% to 10% of project cost as margin money",
+    "Maximum project cost capped at Rs. 50 lakh for manufacturing and Rs. 20 lakh for business/service sectors",
+    "Educational qualification mandatory for projects above Rs. 10 lakh (manufacturing) and Rs. 5 lakh (service)",
+    "Beneficiary cannot avail benefits under any other similar government scheme for the same project"
+  ],
+  "source_cited_notes": [
+    "https://kviconline.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:48:56.495866+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-170",
+  "scheme_name": "Raising and Accelerating MSME Performance (RAMP)",
+  "scheme_url": "https://ramp.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The Raising and Accelerating MSME Performance (RAMP) scheme is a World Bank-assisted initiative under the Ministry of Micro, Small and Medium Enterprises (MoMSME) aimed at strengthening MSME performance through improved access to finance, market linkages, technology upgradation, and institutional support. It focuses on enhancing competitiveness, resilience, and sustainability of MSMEs across India, particularly in the post-pandemic recovery phase. The scheme supports both existing and new MSMEs through financial and non-financial interventions delivered via state-level implementation units.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve access to finance and markets for MSMEs",
+    "Strengthen institutional capabilities at the state and central levels",
+    "Promote technology upgradation and innovation among MSMEs",
+    "Enhance sustainability and resilience of MSMEs",
+    "Support formalization and growth of MSMEs",
+    "Facilitate market linkages and integration into value chains",
+    "Build capacity of MSMEs through skill development and training",
+    "Support women-led and SC/ST-owned MSMEs through targeted interventions"
+  ],
+  "eligibility": "Existing MSMEs registered under Udyam or EM-II, including manufacturing and services enterprises, that are operational and have a valid GSTIN. The scheme also supports prospective MSMEs through handholding and pre-investment support. Priority is given to MSMEs in manufacturing, agro-processing, and services sectors, with special focus on women entrepreneurs, SC/ST owners, and enterprises in aspirational districts.",
+  "benefits": "Financial support through credit guarantees, interest subvention, and grants for technology upgradation; non-financial benefits include market development assistance, access to e-commerce platforms, participation in national and international exhibitions, skill development programs, mentoring, and handholding support for formalization and growth. The scheme also facilitates access to incubation, acceleration, and business development services.",
+  "financial_support": "Under RAMP, financial support is provided through a combination of interest subvention on bank loans, credit guarantee coverage under CGTMSE, and grants for technology adoption and quality certification. The interest subvention is available at 2% per annum for a period of up to 2 years on term loans for technology upgradation. Grants of up to INR 10 lakhs are provided for ISO certification, patent registration, and digital transformation. Credit guarantee coverage extends up to INR 2 crores per borrower under the CGTMSE scheme.",
+  "fund_size_crores": "6062",
+  "grant_amount_per_entity": "Up to INR 10 lakhs for technology upgradation and quality certification",
+  "application_process": "1. Register on the Udyam portal if not already registered. 2. Approach a participating bank or financial institution for loan application. 3. Submit project proposal detailing the purpose of fund utilization (e.g., technology upgradation, market development). 4. Bank forwards the proposal to the State Level Bankers' Committee (SLBC) or designated nodal agency for approval. 5. Upon approval, loan is disbursed with applicable interest subvention. 6. For grant components, apply through the state implementation agency with required documents and project report. 7. Utilize funds as per approved plan and submit utilization certificates.",
+  "application_portal_url": "https://ramp.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "PAN of the business",
+    "GSTIN certificate",
+    "Bank account details",
+    "Project report detailing the purpose of fund utilization",
+    "Quotations for machinery/equipment or technology adoption",
+    "Proof of address and identity of the proprietor/partners/directors",
+    "Financial statements (if applicable)",
+    "ISO certification application (if seeking grant for certification)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises (MoMSME)",
+  "contact_details": "Email: ramp@mmsme.gov.in | Helpline: 1800-180-6763",
+  "caveats": [
+    "Financial support is subject to availability of funds under the scheme",
+    "Benefits are available only for approved project proposals",
+    "Interest subvention is applicable only on term loans from scheduled banks",
+    "Grant components require submission of utilization certificates and are subject to audit",
+    "MSMEs must maintain Udyam registration validity to continue availing benefits",
+    "Benefits may be withdrawn in case of misuse or non-compliance with scheme guidelines"
+  ],
+  "source_cited_notes": [
+    "https://ramp.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:47:52.558565+00:00"
+}

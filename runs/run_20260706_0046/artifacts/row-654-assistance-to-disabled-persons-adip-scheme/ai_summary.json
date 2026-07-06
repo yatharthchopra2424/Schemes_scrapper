@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-654",
+  "scheme_name": "Assistance to Disabled Persons (ADIP Scheme)",
+  "scheme_url": "https://disabilityaffairs.gov.in/adip",
+  "ministry_or_category": "Divyangjan & Senior Citizens",
+  "overview": "The Assistance to Disabled Persons (ADIP) Scheme is a central government initiative under the Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment, aimed at providing aids and assistive devices to persons with disabilities to promote their physical, social, and psychological rehabilitation. The scheme focuses on reducing the effects of disabilities and enhancing the economic potential of beneficiaries through the provision of modern, scientifically manufactured aids and appliances. It supports individuals with various disabilities as defined under the Rights of Persons with Disabilities Act, 2016, and operates across India through implementing agencies such as NGOs, national institutes, and state governments.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "persons with disabilities",
+    "divyangjan"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide modern, standard aids and appliances to persons with disabilities",
+    "To promote physical, social, and psychological rehabilitation of persons with disabilities",
+    "To reduce the effects of disabilities and enhance economic potential of beneficiaries",
+    "To ensure availability of aids and appliances through convergence with other schemes",
+    "To encourage early intervention and prevention of secondary complications",
+    "To support inclusive education and livelihood opportunities for persons with disabilities"
+  ],
+  "eligibility": "The scheme covers persons with disabilities of any age who are Indian citizens, hold a disability certificate indicating at least 40% disability, and have a monthly income not exceeding Rs. 20,000. In case of dependents, the income of parents/guardians is considered. Beneficiaries must not have received similar assistance under any other government scheme during the last 3 years (for children under 12 years, this period is 1 year).",
+  "benefits": "The scheme provides financial assistance for the procurement of aids and assistive devices such as hearing aids, wheelchairs, crutches, braces, artificial limbs, spectacles, and other devices necessary for mobility, communication, and daily living. The assistance includes cost of the device, fitting, and post-fitting follow-up. Devices are provided free of cost to beneficiaries with monthly income up to Rs. 15,000 and at 50% subsidy for those with income between Rs. 15,001 and Rs. 20,000.",
+  "financial_support": "Financial support under the ADIP Scheme is provided as a subsidy for the purchase of aids and appliances. The central government releases funds to implementing agencies (NGOs, national institutes, state governments) based on proposals and beneficiary lists. The subsidy covers up to 100% of the device cost for beneficiaries with monthly income up to Rs. 15,000 and 50% for those with income between Rs. 15,001 and Rs. 20,000. The assistance includes the cost of the aid, fitting, and post-fitting services.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the nearest implementing agency (NGO, national institute, or state government department) authorized under the ADIP Scheme. 2. Obtain the application form from the agency or download it from the DEPwD website. 3. Fill in the application form with personal, disability, and income details. 4. Attach required documents including disability certificate, income proof, identity proof, and residence proof. 5. Submit the completed application to the implementing agency. 6. The agency verifies eligibility and processes the request for aid. 7. Upon approval, the aid is procured and distributed to the beneficiary, followed by fitting and follow-up.",
+  "application_portal_url": "https://disabilityaffairs.gov.in/adip",
+  "required_documents": [
+    "Disability certificate (indicating at least 40% disability)",
+    "Income certificate (self or parent/guardian)",
+    "Identity proof (Aadhaar card, voter ID, etc.)",
+    "Residence proof",
+    "Passport-sized photographs",
+    "Bank account details (for direct benefit transfer, if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and aids.",
+  "implementing_agency": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment",
+  "contact_details": "Email: disabilityaffairs@nic.in | Helpline: 1800-11-7777",
+  "caveats": [
+    "Assistance is subject to availability of funds and aids at the implementing agency level",
+    "Beneficiaries cannot receive similar assistance under any other central government scheme for the same disability within the specified period",
+    "Aids and appliances are provided based on clinical assessment and prescription by authorized medical personnel",
+    "The scheme does not cover cosmetic or luxury items; only functionally necessary aids are provided"
+  ],
+  "source_cited_notes": [
+    "https://disabilityaffairs.gov.in/adip",
+    "https://cdnbbsr.s3waas.gov.in/s3e58aea67b01fa747687f038dfde066f6/uploads/2023/11/202311061703012230.pdf"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:33:38.581302+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-191",
+  "scheme_name": "Solar Parks & Ultra Mega Solar Power Projects",
+  "scheme_url": "https://seci.co.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "Solar Parks & Ultra Mega Solar Power Projects is a scheme launched by the Ministry of New and Renewable Energy (MNRE) on 12-12-2014 to support the development of solar parks and ultra mega solar power projects across India. The scheme aims to facilitate large-scale solar power generation by providing developed land with necessary infrastructure such as transmission systems, water access, road connectivity, and communication networks. It targets the establishment of at least 25 solar parks with a cumulative capacity exceeding 20,000 MW within five years starting from 2014-15. SECI acts as an implementing agency for this scheme, facilitating grant disbursement and project monitoring.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "State Governments",
+    "Union Territories",
+    "Implementing Agencies designated by State Governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support States in setting up solar parks at various locations to create required infrastructure for solar power projects",
+    "Facilitate and speed up installation of grid-connected solar power projects for large-scale electricity generation",
+    "Provide suitable developed land with clearances, transmission systems, water access, road connectivity, and communication networks",
+    "Achieve over 20,000 MW of solar power installed capacity through solar parks and ultra mega solar power projects",
+    "Promote solar power development in difficult terrains and hilly states by allowing smaller parks where contiguous land is scarce",
+    "Enable central financial assistance for detailed project reports and project cost components",
+    "Ensure timely release of grants linked to project milestones",
+    "Monitor and oversee the development of solar parks through SECI as the central implementing agency"
+  ],
+  "eligibility": "All States and Union Territories are eligible to benefit under the scheme. The implementing agency for developing and maintaining the solar park is chosen by the State Government. The scheme allows for solar parks of 500 MW and above, with smaller parks considered in Himalayan and other hilly states where contiguous land is difficult to acquire or in states with acute shortage of non-agricultural land.",
+  "benefits": "The scheme provides developed land with all necessary clearances, transmission systems, water access, road connectivity, and communication networks. It facilitates access to Central Financial Assistance (CFA) for solar park development. Implementing agencies receive grants for preparing Detailed Project Reports (DPR) and for project costs including grid-connectivity. The scheme accelerates solar power project installation by reducing land acquisition and infrastructure development timelines. It enables states to meet solar renewable purchase obligations and supports India’s renewable energy targets under the National Solar Mission.",
+  "financial_support": "The implementing agency is sanctioned a grant of up to Rs. 25 Lakh per park for preparing the Detailed Project Report (DPR). Subsequently, the implementing agency may apply to SECI for a grant of up to Rs. 20 lakhs per MW or 30% of the project cost (including grid-connectivity cost), whichever is lower. The approved grant is released by SECI as per milestones prescribed in the scheme. As of 31st December 2014, a grant of Rs. 141.50 Crore has been released to SECI by the Ministry for this scheme.",
+  "fund_size_crores": "141.50",
+  "grant_amount_per_entity": "Up to Rs. 25 Lakh per park for DPR and up to Rs. 20 lakhs/MW or 30% of project cost (including grid-connectivity), whichever is lower",
+  "application_process": "1. State Government designates an implementing agency for the solar park. 2. The implementing agency prepares the Detailed Project Report (DPR) and applies for a grant of up to Rs. 25 Lakh from SECI for DPR preparation. 3. Upon DPR approval, the implementing agency applies to SECI for the main project grant of up to Rs. 20 lakhs/MW or 30% of the project cost (including grid-connectivity), whichever is lower. 4. SECI appraises the application and sanctions the grant. 5. Grant is released by SECI in installments linked to project milestones. 6. SECI monitors the project progress and ensures compliance with scheme guidelines.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR) of the Solar Park",
+    "Land availability and title documents",
+    "Transmission connectivity details",
+    "Clearances from relevant authorities (environmental, forest, etc.)",
+    "Board resolution from the State Government designating the implementing agency",
+    "Undertaking from the implementing agency to follow scheme guidelines",
+    "Milestone-wise implementation plan",
+    "Bank account details for grant disbursement"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Solar Energy Corporation of India (SECI)",
+  "contact_details": "",
+  "caveats": [
+    "The grant of up to Rs. 20 lakhs/MW or 30% of project cost (including grid-connectivity), whichever is lower, is subject to appraisal and sanction by SECI",
+    "The scheme allows smaller parks only in Himalayan Region, other hilly States, and States with acute shortage of non-agricultural land",
+    "The implementing agency must be designated by the State Government",
+    "Grant release is strictly linked to achievement of prescribed milestones",
+    "As of the evidence, grant of Rs. 141.50 Crore has been released to SECI by 31st December 2014"
+  ],
+  "source_cited_notes": [
+    "https://seci.co.in/assets/uploads/C921026C-7777-4703-96A8-4C3BFEADA83F.pdf"
+  ],
+  "last_updated_date": "2014",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:05:30.635587+00:00"
+}

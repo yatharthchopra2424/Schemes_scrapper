@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-634",
+  "scheme_name": "Bamboo Mission for North East",
+  "scheme_url": "https://nbm.nic.in",
+  "ministry_or_category": "North East Special",
+  "overview": "The Bamboo Mission for North East is a centrally sponsored scheme under the National Bamboo Mission aimed at promoting holistic growth of the bamboo sector in the North Eastern Region. It focuses on increasing the area under bamboo cultivation, improving post-harvest management, and developing value-added bamboo products. The mission supports farmers, artisans, entrepreneurs, and self-help groups through training, infrastructure development, and market linkages. It aims to enhance income and livelihood opportunities in the region by leveraging bamboo as a sustainable resource.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "artisans",
+    "entrepreneurs",
+    "self-help groups",
+    "MSME"
+  ],
+  "geographic_scope": "North Eastern Region",
+  "objectives": [
+    "To increase the area under bamboo plantation in non-forest government and private lands",
+    "To improve post-harvest management through establishment of innovative primary processing units",
+    "To promote product development and value addition in bamboo sector",
+    "To develop infrastructure for collection, processing, and marketing of bamboo products",
+    "To provide technical training and capacity building to stakeholders",
+    "To strengthen market linkages and promote bamboo products nationally and internationally",
+    "To encourage entrepreneurship and skill development in bamboo-based industries",
+    "To ensure sustainable management of bamboo resources"
+  ],
+  "eligibility": "Individual farmers, farmer producer organizations (FPOs), self-help groups (SHGs), non-governmental organizations (NGOs), cooperatives, and entrepreneurs engaged in bamboo cultivation, processing, or value addition in the North Eastern States are eligible to avail benefits under the scheme. Priority is given to small and marginal farmers, women, and SC/ST communities.",
+  "benefits": "Financial assistance for bamboo plantation, establishment of nurseries, and tissue culture units. Subsidy for setting up primary processing and value addition units. Support for creation of bamboo bazaars, retail outlets, and export promotion. Training and capacity building programs on bamboo cultivation, treatment, and craftsmanship. Assistance for research and development in bamboo technology. Market development support including participation in trade fairs and buyer-seller meets.",
+  "financial_support": "The scheme provides back-ended subsidies ranging from 50% to 100% of the project cost depending on the component and beneficiary category. For plantation, farmers receive assistance up to INR 24,000 per hectare over three years. For primary processing units, subsidy is up to 50% of the cost, limited to INR 25 lakhs. For value addition units, subsidy extends up to 50% of the cost with a ceiling of INR 50 lakhs. Assistance is released in installments upon verification of progress and utilization of previous installments.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component under the Bamboo Mission (e.g., plantation, processing, value addition). 2. Prepare a detailed project report including cost estimates, land details, and implementation timeline. 3. Submit the application along with required documents to the State Bamboo Mission Office or designated nodal agency. 4. Application undergoes technical and financial appraisal by the State Level Committee. 5. Upon approval, receive administrative sanction and proceed with implementation. 6. Submit utilization certificates and progress reports for release of subsequent installments of subsidy.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project report with cost estimates",
+    "Land ownership or lease documents",
+    "Bank account details of the applicant",
+    "PAN card of the applicant or organization",
+    "Registration certificate (for NGOs, cooperatives, FPOs, etc.)",
+    "Quotations from suppliers for machinery and equipment",
+    "Environmental clearance (if applicable)",
+    "Undertaking regarding compliance with scheme guidelines"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Mission Directorate of National Bamboo Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: nbmission@nic.in | Phone: 011-23384292",
+  "caveats": [
+    "Subsidy is released only after verification of field progress and submission of utilization certificates",
+    "Beneficiaries must ensure maintenance of bamboo plantations for a minimum period of three years",
+    "Units receiving assistance for processing/value addition must operate commercially for at least three years",
+    "Duplicate assistance for the same component under other central or state schemes is not permitted",
+    "The scheme is subject to continuation based on annual budget allocations and performance review"
+  ],
+  "source_cited_notes": [
+    "https://nbm.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:22:48.279700+00:00"
+}

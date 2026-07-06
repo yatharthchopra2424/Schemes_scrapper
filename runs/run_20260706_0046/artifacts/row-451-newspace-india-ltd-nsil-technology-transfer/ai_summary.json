@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-451",
+  "scheme_name": "NewSpace India Ltd (NSIL) Technology Transfer",
+  "scheme_url": "https://www.nsilindia.co.in",
+  "ministry_or_category": "Space Economy",
+  "overview": "NewSpace India Limited (NSIL) Technology Transfer scheme facilitates the transfer of ISRO-developed technologies to Indian industries, academia, and government organizations through formal agreements, handholding events, and technical support. The scheme aims to enhance industrial capabilities, promote self-reliance in space technologies, and support the growth of India's space economy by enabling industry access to ISRO's intellectual property. NSIL acts as the nodal agency under the Department of Space to manage technology transfer activities, including evaluation, agreement signing, fee remittance, and handholding by ISRO units. The scheme covers a wide range of technologies across domains such as antennas, communication & navigation, RF & electronics, remote sensing, materials, mechanical systems, optics, and software.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "industry",
+    "academia",
+    "State and Central Government organization"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Transfer technologies developed by DOS/ISRO centres/units to Indian Industries",
+    "Contribute towards technological self-reliance and industrial growth",
+    "Enable national development through space technology spin-offs",
+    "Cater to emerging global commercial small satellite launch service market",
+    "Enable space technology spin-offs for betterment of mankind through industry interface",
+    "Facilitate collaboration between ISRO and Indian industry for technology development",
+    "Support the growth of India's space economy through public-private partnerships",
+    "Provide handholding and technical support during technology transfer process"
+  ],
+  "eligibility": "Department of Space has authorised NSIL to enter into Technology Transfer Agreement with suitable entrepreneurs/Industry in India. Interested parties must submit a Technology Transfer (TT) Request through the IN-SPACe portal, followed by evaluation of company profile and technical capabilities by IN-SPACe, signing of TT Agreement with NSIL & IN-SPACe, remittance of TT Fee to NSIL, and handholding for technology transfer by ISRO.",
+  "benefits": "Access to ISRO-developed technologies including antennas, communication & navigation systems, RF & electronics components, remote sensing algorithms, materials, mechanical systems, optics, and software. Benefits include handholding support from ISRO units during transfer, technology licensing opportunities, enhanced industrial capabilities, promotion of self-reliance in critical space technologies, and contribution to national development. The scheme enables industries to acquire knowhow for manufacturing and commercialization of space technologies.",
+  "financial_support": "The scheme involves remittance of a Technology Transfer (TT) Fee to NSIL as part of the transfer process. However, the evidence does not specify the quantum, type, or mechanism of financial support beyond the requirement to pay the TT Fee. No details are provided on subsidies, grants, loans, or funding amounts associated with the technology transfer.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submission of Technology Transfer (TT) Request through IN-SPACe portal (link: https://www.inspace.gov.in/inspace?id=inspace_nge_proposal_page&sys_id=4e0bb01f87389150cc8310aabbbb352d). 2. Evaluation of company profile and technical capabilities by IN-SPACe. 3. Signing of TT Agreement with NSIL & IN-SPACe. 4. Remittance of TT Fee to NSIL. 5. Handholding for technology transfer by ISRO.",
+  "application_portal_url": "https://www.inspace.gov.in/inspace?id=inspace_nge_proposal_page&sys_id=4e0bb01f87389150cc8310aabbbb352d",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "NewSpace India Limited (NSIL), under administrative control of Department of Space, Government of India",
+  "contact_details": "Email: contact[at]nsilindia[dot]co[dot]in | Telephone Number: 080 2322 7777 | 080-24410245 | CMD Office Number: 080-2441 0244",
+  "caveats": [
+    "Technology transfer is subject to evaluation of company profile and technical capabilities by IN-SPACe",
+    "Remittance of TT Fee to NSIL is required before handholding",
+    "Handholding is conducted by ISRO units (e.g., IISU) as per the technology being transferred",
+    "Only suitable entrepreneurs/Industry in India are eligible as authorised by Department of Space",
+    "The process requires formal agreement signing with both NSIL and IN-SPACe"
+  ],
+  "source_cited_notes": [
+    "https://nsilindia.co.in/technology-transfer",
+    "https://nsilindia.co.in/sites/default/files/Technology%20Transfer%20of%20ISRO%20Navigation%20Sensors%20to%20Industry%281%29.pdf",
+    "https://www.inspace.gov.in/inspace?id=inspace_nge_proposal_page&sys_id=4e0bb01f87389150cc8310aabbbb352d"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:38:48.646294+00:00"
+}

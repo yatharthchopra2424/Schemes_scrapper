@@ -1,0 +1,68 @@
+{
+  "scheme_id": "row-21",
+  "scheme_name": "FSSAI Licensing & Registration",
+  "scheme_url": "https://foscos.fssai.gov.in",
+  "ministry_or_category": "Compliance & Registration",
+  "overview": "FoSCoS (Food Safety Compliance System) is the online platform operated by the Food Safety and Standards Authority of India (FSSAI) for food business operators to apply for, renew, and manage FSSAI licenses and registrations. The system ensures compliance with food safety standards under the Food Safety and Standards Act, 2006. It supports licensing for manufacturers, traders, retailers, importers, and other food-related entities across India.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "food business operators",
+    "manufacturers",
+    "traders",
+    "retailers",
+    "importers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure food safety and hygiene standards across the food supply chain",
+    "Provide a unified online platform for FSSAI licensing and registration",
+    "Enable real-time tracking and monitoring of food business compliance",
+    "Facilitate ease of doing business for food operators through digital services",
+    "Strengthen regulatory oversight and enforcement of food safety laws"
+  ],
+  "eligibility": "Any person or entity engaged in food business activities including manufacturing, processing, packaging, storage, distribution, sale, or import of food products must obtain FSSAI license or registration based on turnover and scale of operation. The person supervising the production process shall possess at least a degree in Science with Chemistry/Bio Chemistry/Food and Nutrition/ Microbiology or a degree or diploma in food technology/ Dairy technology/ dairy microbiology/ dairy chemistry/ dairy engineering/oil technology /veterinary science /hotel management & catering technology or any degree or diploma in any other discipline related to the specific requirements of the business from a recognized university or institute or equivalent.",
+  "benefits": "Legal compliance to operate food business, consumer trust and brand reputation, access to government tenders and markets, facilitation of food exports, eligibility for government schemes and subsidies, and ability to display FSSAI logo on products.",
+  "financial_support": "FSSAI licensing and registration under FoSCoS does not provide direct financial support such as grants, loans, or subsidies. It is a regulatory compliance mechanism where applicants pay prescribed fees for license issuance and renewal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the FoSCoS portal at https://foscos.fssai.gov.in 2. Sign up or log in using existing credentials 3. Select 'Apply for License/Registration' 4. Choose the appropriate license type (Basic, State, or Central) based on turnover and business scale 5. Fill in the online application form with business and product details 6. Upload required documents 7. Pay the applicable fee online 8. Submit the application and track status via the portal 9. Upon approval, download the license/registration certificate.",
+  "application_portal_url": "https://foscos.fssai.gov.in",
+  "required_documents": [
+    "Photo ID proof of proprietor/partner/director",
+    "Address proof of business premises",
+    "List of food products to be manufactured/processed/sold",
+    "Blueprint/layout plan of the processing unit (for manufacturing units)",
+    "List of equipment and machinery installed",
+    "No Objection Certificate (NOC) from municipality or local body",
+    "Water potability report",
+    "Recall plan (where applicable)",
+    "Ministry of Commerce certificate for 100% EOU",
+    "NOC/PA document issued by FSSAI",
+    "IE code document issued by DGFT (for importers/exporters)",
+    "Form IX: Nomination of persons by a company along with the board resolution",
+    "Certificate from Ministry of Tourism (for hotels)",
+    "Proof of possession of premises (sale deed, rent agreement, electricity bill, etc.)",
+    "Partnership deed/ affidavit of proprietorship / Memorandum & Articles of Association",
+    "Food safety management system plan or certificate",
+    "Source of milk or procurement plan for milk (where applicable)",
+    "Pesticide residues report of water (for units manufacturing packaged drinking water)",
+    "Recall plan (where applicable)",
+    "Bill of supply or invoice (for traders and retailers)"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year; license/registration must be renewed periodically as per validity (1 to 5 years).",
+  "implementing_agency": "Food Safety and Standards Authority of India (FSSAI), Ministry of Health and Family Welfare",
+  "contact_details": "",
+  "caveats": [
+    "License type (Basic, State, Central) depends on annual turnover and nature of food business",
+    "Non-compliance may lead to penalties, fines, or closure of business under FSS Act, 2006",
+    "Annual returns must be filed by licensed food businesses",
+    "System undergoes daily maintenance from 11:30 PM to 3:00 AM; avoid operations during this window"
+  ],
+  "source_cited_notes": [
+    "https://foscos.fssai.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:26:28.639257+00:00"
+}

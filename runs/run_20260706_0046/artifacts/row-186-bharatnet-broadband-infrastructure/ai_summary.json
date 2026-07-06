@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-186",
+  "scheme_name": "BharatNet Broadband Infrastructure",
+  "scheme_url": "https://dot.gov.in/bharatnet",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "BharatNet is a flagship initiative of the Government of India aimed at providing broadband connectivity to all Gram Panchayats (approximately 2.5 lakh) across the country. It seeks to bridge the digital divide by creating a robust, scalable, and affordable broadband infrastructure in rural and remote areas. The project is implemented in phases and leverages optical fibre technology to enable high-speed internet access for e-governance, education, health, and other socio-economic applications.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural populations",
+    "gram panchayats",
+    "government institutions",
+    "citizens in remote areas"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide broadband connectivity to all Gram Panchayats in the country",
+    "Enable delivery of e-governance, e-health, e-education, and other public services",
+    "Bridge the digital divide between urban and rural areas",
+    "Support national digital initiatives like Digital India",
+    "Create a scalable and future-ready broadband infrastructure",
+    "Promote inclusive growth through affordable internet access"
+  ],
+  "eligibility": "The scheme targets Gram Panchayats as the primary unit for connectivity. Implementation is carried out by Bharat Broadband Network Limited (BBNL), a Special Purpose Vehicle (SPV) under the Department of Telecommunications. State governments and local bodies facilitate right-of-way and infrastructure sharing. Central and state funding is utilised based on a defined cost-sharing model.",
+  "benefits": "High-speed broadband connectivity enabling access to digital services such as telemedicine, online education, e-agriculture, and digital banking. Supports implementation of government-to-citizen (G2C) and government-to-government (G2G) services. Enhances socio-economic development in rural areas by reducing information asymmetry and enabling digital entrepreneurship.",
+  "financial_support": "The project is funded through a combination of government budgetary support, universal service obligation fund (USOF), and contributions from state governments. Financial assistance is provided in the form of subsidies for laying optical fibre, setting up network infrastructure, and operational sustainability. Funds are disbursed to BBNL and implementing agencies based on milestone achievement.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identification of Gram Panchayats for inclusion in the BharatNet project. 2. Submission of proposals by state governments or implementing agencies to the Department of Telecommunications. 3. Technical and financial appraisal of the project by BBNL and DoT. 4. Approval of the project and allocation of funds. 5. Execution of civil works, laying of optical fibre, and installation of equipment. 6. Testing, commissioning, and handover of network infrastructure. 7. Monitoring and maintenance for service continuity.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal from state government",
+    "Technical feasibility report",
+    "Financial plan and cost estimates",
+    "Right-of-way clearance documents",
+    "Implementation agency details",
+    "Monitoring and maintenance plan"
+  ],
+  "deadlines": "Rolling basis — projects are sanctioned based on annual budget allocations and implementation readiness.",
+  "implementing_agency": "Bharat Broadband Network Limited (BBNL), under the Department of Telecommunications, Ministry of Communications",
+  "contact_details": "",
+  "caveats": [
+    "Progress depends on timely availability of right-of-way and coordination with state and local authorities",
+    "Funding is subject to annual budgetary allocations and utilization certificates",
+    "Operational sustainability requires ongoing maintenance and revenue models",
+    "Last-mile connectivity to individual households may require additional interventions"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/bharatnet"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:00:51.102816+00:00"
+}

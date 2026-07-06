@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-549",
+  "scheme_name": "BIRAC PACE Programme for Biotech Incubation",
+  "scheme_url": "https://birac.nic.in/pace.php",
+  "ministry_or_category": "Innovation Ecosystem",
+  "overview": "The BIRAC PACE Programme for Biotech Incubation (Promoting Academic Research Conversion to Enterprise) supports academic institutions in developing proof-of-concept (PoC) for products/technologies of national relevance or commercial potential, and validates these through industrial partners. It comprises two components: Academic Innovation Research (AIR) for PoC development and Contract Research Scheme (CRS) for validation by industry. The scheme aims to bridge academia-industry collaboration for technology translation and commercialization.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "academic institutions",
+    "universities",
+    "research organizations",
+    "NGOs",
+    "industry partners",
+    "LLPs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To encourage/support academic collaborations",
+    "For development of products and technologies up to proof of concept",
+    "For validation of products/technologies towards commercialization",
+    "To stimulate technological innovation"
+  ],
+  "eligibility": "Academic Institute, University, NGO or Research Foundation, registered/accredited by a government body can apply either alone, or in partnership with academia or industry (while involvement of industry is optional for AIR Scheme, it is mandatory to have an industrial partner for CRS). Under the scheme, academia (Public or Private Institute, University, University, Research Foundation or trust/society), National research laboratories having a well-established support system for research shall be the primary applicant. The PI has to be a permanent facility of the applicant entity. Eligibility criteria for AIR: Applicant must have completed at least one extramural funded project in India (with minimum project duration of 3 years & in the same research area of the project proposed), project must have been funded by Govt. funding agencies or Industry. Related Sanction order or funding note to be uploaded as a proof. Applicant must have authored one publication (indexed in Scopus/web of science) as first or lead author, or patents (filed) in the same research area of the project proposed for AIR. Applicant must upload the published paper or filing documents related to IP at the time of submission of application. Evidence of proof of principle (POP) and preliminary data, already gathered by the applicant, supporting the proposal is compulsory and must be submitted in the AIR application. Absence of which can result in disqualification of the proposal. Proposals involving agriculture should have viable product/technology as an outcome that can be considered for advanced trials by the industry/authorized national agencies. The final technical milestone of the AIR proposal should reflect technology/result that is near to industry readiness. Eligibility criteria for CRS: Evidence of proof of Concept (minimum TRL – 3) and validation ready data supporting the proposal is compulsory and must be submitted in the CRS application. Absence of which can result in disqualification of the proposal. Proposals that have received AIR funding should have the same industrial partner who collaborated for AIR project. Any deviation must be duly justified with clarity on IP governance. The CRS proposal should be accompanied by the Commitment Letter by the industrial partner to exercise the first right for monetizing the product/technology. Eligibility Criteria for Industry/LLP as collaborator: Minimum 51% of the shares of the Company should be held by Indian Citizens holding Indian passport (Indian Citizens do not include Person of Indian Origin (PIO) and Overseas Citizenship of India (OCI) holders). Minimum half of the persons who subscribed their names to the LLP document as its Partners should be Indian citizens. The collaborating Company/LLP should have adequate in-house facility to address the project implementation or incubated with any of the recognized incubation facility.",
+  "benefits": "Funding support (Grant): Total cost of the project must not exceed Rs. 50 lakhs (Non-recurring cost must not exceed 10% of the total cost). IP rights may be with academia alone, or jointly shared between academia and industry (if academia establishes PoC with industry) as per the understanding between the two partners. For CRS: Funding in the form of grant is provided to both academic as well as industrial partners. While funding is provided to the academia for In-House research which forms a part of validation of the Proof of Concept, funds are provided to the industrial partner for validation. There is no ceiling to the funding. IPR: Although the IP rights reside with the academia, the industry partner has first right of refusal for commercial exploitation of the New IP. The first right of refusal will be accompanied with an undertaking that its business strategy encompasses possibility of commercialization of the present technology under validation.",
+  "financial_support": "Funding Support (Grant): Total cost of the project must not exceed Rs. 50 lakhs (Non-recurring cost must not exceed 10% of the total cost) for AIR. For CRS: Funding in the form of grant is provided to both academic as well as industrial partners. While funding is provided to the academia for In-House research which forms a part of validation of the Proof of Concept, funds are provided to the industrial partner for validation. There is no ceiling to the funding.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs. 50 lakhs",
+  "application_process": "1. Log on the BIRAC website http://www.birac.nic.in/. 2. If you are a registered user, log-in using the credentials, else you need to register your institution with by clicking on New User Registration. 3. In case of new user registration, a computer generated password would be sent to the email-id provided at the time of registration. The password can be changed later. 4. Once you login, you would be navigated to the page displaying PACE link. 5. Click on the PACE link under Programmes and the active call would be highlighted. 6. Click on the active call against which you wish to submit the proposal. 7. Further details on How to submit a proposal would be available in the PACE User Guide available on the website. Academic User Registration is open when the call is active. Online Proposal Submission can be done only during an active call. (Advertisement for Call for proposals is released in all national dailies and some biotechnology related magazines. Intimation of an active call is also displayed on the DBT and BIRAC websites). Please note: The number of ongoing projects at a given point of time must not exceed two as primary applicant and two as collaborator. The applicant must submit an undertaking at the time of submission of the proposal that there is no duplicate funding from any other funding agency for the same or similar proposal.",
+  "application_portal_url": "https://birac.nic.in/",
+  "required_documents": [
+    "Related Sanction order or funding note",
+    "Published paper (indexed in Scopus/web of science) or filing documents related to IP",
+    "Evidence of proof of principle (POP) and preliminary data",
+    "Undertaking that there is no duplicate funding from any other funding agency",
+    "Commitment Letter by the industrial partner (for CRS)",
+    "Proof of registration/accreditation from a government body (UGC affiliation certification, AICTE, CSIR/DSIR/SIRO certificate etc.)"
+  ],
+  "deadlines": "There are three call for proposals in a year: 15th February – 31st March, 15th June – 31st July, 15th October – 30th November",
+  "implementing_agency": "Biotechnology Industry Research Assistance Council (BIRAC), a Public Sector Enterprise, set up by Department of Biotechnology (DBT), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Proposals submitted in collaboration with companies defaulting on repayment of loan or are irregular with regard to repayment of instalments to BIRAC would be considered ineligible",
+    "Applicant who had withdrawn their proposal after approval from Apex committee or whose project was foreclosed due to inadequate funds or any other irregularity would be debarred from submitting fresh proposals for next 3 calls (1 year) unless the withdrawal was due to papers not being ready",
+    "The number of ongoing projects at a given point of time must not exceed two as primary applicant and two as collaborator",
+    "The applicant must submit an undertaking at the time of submission of the proposal that there is no duplicate funding from any other funding agency for the same or similar proposal"
+  ],
+  "source_cited_notes": [
+    "https://birac.nic.in/pace.php",
+    "https://birac.nic.in/webcontent/1613355528_PACE_scheme_document_15_02_2021.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:26:49.781666+00:00"
+}

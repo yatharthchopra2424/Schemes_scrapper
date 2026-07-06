@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-888",
+  "scheme_name": "National Mission for Sustainable Agriculture – Climate Change Adaptation",
+  "scheme_url": "https://nmsa.dac.gov.in",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "The National Mission for Sustainable Agriculture (NMSA) is a centrally sponsored scheme under the National Action Plan on Climate Change (NAPCC) aimed at enhancing agricultural productivity, sustainability, and climate change adaptation measures. It focuses on integrated farming, water use of natural resources like soil and water, promote integrated farming systems, and build climate resilience in agriculture through location-specific interventions. It converges with other schemes like MGNREGS, IWMP, RKVY, and NFSM to promote sustainable agricultural practices across India.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "agri-entrepreneurs",
+    "self-help groups",
+    "NGOs",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To make agriculture more productive, sustainable, remunerative and climate resilient by promoting location specific Integrated/Composite Farming Systems",
+    "To conserve natural resources through appropriate soil and moisture conservation measures",
+    "To adopt comprehensive soil health management practices based on soil fertility maps, soil test based application of macro & micro nutrients, judicious use of fertilizers etc.",
+    "To optimize utilization of water resources through efficient water management to achieve 'more crop per drop'",
+    "To develop capacity of farmers & stakeholders in climate change adaptation and mitigation measures in conjunction with other ongoing Missions",
+    "To pilot models in select blocks for improving productivity of rainfed farming by mainstreaming rainfed technologies refined through NICRA and leveraging resources from other schemes",
+    "To establish an effective inter and intra Departmental/Ministerial co-ordination for accomplishing key deliverables of NMSA under NAPCC"
+  ],
+  "eligibility": "Eligibility varies by component and implementing agency; generally includes farmers, self-help groups, NGOs, state government departments, and institutions involved in sustainable agriculture practices. Specific eligibility for sub-components like Soil Health Management (SHM), Rainfed Area Development (RAD), On Farm Water Management (OFWM), and Climate Change and Sustainable Agriculture: Monitoring, Modeling and Networking (CCSAMMN) is defined in the Operational Guidelines, with implementation led by State Governments, National Centre of Organic Farming (NCOF), Central Fertilizer Quality Control & Training Institute (CFQC&TI), and Soil and Land Use Survey of India (SLUSI).",
+  "benefits": "Benefits include financial assistance for adopting sustainable agricultural practices, capacity building and training, creation of asset base (e.g., soil health cards, water harvesting structures), promotion of integrated farming systems, climate resilience, improved soil health, enhanced water use efficiency, livelihood diversification, and convergence with other central and state schemes for holistic development. Non-financial benefits include technical support, knowledge sharing, monitoring and evaluation, and institutional strengthening.",
+  "financial_support": "Financial support is provided as subsidies or grants-in-aid to state governments and implementing agencies based on approved Annual Action Plans (AAPs). The funding pattern is 60:40 between Centre and State for general states, 90:10 for North Eastern and Himalayan states, and 100% central funding for Union Territories and National Level Agencies. Funds are released in installments upon submission of Utilization Certificates and progress reports. The mission operates through a structured fund flow mechanism from the Government of India to State Governments and then to district-level implementing agencies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Governments prepare Annual Action Plans (AAPs) based on district-level proposals and fund availability. 2. AAPs are submitted to the Department of Agriculture & Cooperation (DAC&FW) for approval by the Project Sanctioning Committee (PSC). 3. Upon approval, funds are released in installments to states. 4. States implement components through designated agencies (e.g., Agriculture Departments, NGOs, ICAR institutes). 5. Implementation is monitored via Physical and Financial Progress Reports. 6. Utilization Certificates and audited statements are submitted for subsequent fund releases. 7. Unspent balances may be revalidated for use in the next financial year subject to conditions.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Annual Action Plan (AAP)",
+    "Utilization Certificate",
+    "Progress Reports (physical and financial)",
+    "Audited Statement of Accounts",
+    "Project proposals with technical and financial details",
+    "Beneficiary list and land records (where applicable)",
+    "Soil health cards (for SHM component)",
+    "Geotagged photographs of assets created"
+  ],
+  "deadlines": "Annual Action Plans (AAPs) are to be prepared yearly; submission timelines are communicated via circulars (e.g., for FY 2021-22, allocation was communicated on March 3, 2021). The scheme operates on an annual planning cycle with fund releases tied to AAP approval and utilization.",
+  "implementing_agency": "Department of Agriculture & Cooperation (DAC), Ministry of Agriculture, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is contingent upon liberalization of transit regulations for tree species in agroforestry components (SMAF)",
+    "Unspent funds must be revalidated subject to conditions including adjustment against future releases and inclusion of spill-over activities in AAP",
+    "Interest or earnings on grants-in-aid must be remitted to the Consolidated Fund of India",
+    "Implementation requires convergence with other schemes like MGNREGS, IWMP, RKVY, etc.",
+    "State Governments must designate nodal officers and ensure institutional mechanisms are in place"
+  ],
+  "source_cited_notes": [
+    "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/circulers/State-wiseallocationoffundsunderSMAFduring2021-22reg.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/circulers/SMAFrevalidationorder2021-22.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/Brief_introduction_about_the_SMAF_scheme.pdf"
+  ],
+  "last_updated_date": "2014",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:46:38.952696+00:00"
+}

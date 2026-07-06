@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-459",
+  "scheme_name": "India Game Developer Conference (IGDC) Support",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Media & Entertainment",
+  "overview": "The India Game Developer Conference (IGDC) Support scheme is a government initiative under the Ministry of Electronics and Information Technology (MeitY) aimed at supporting the growth of the game development industry in India. The scheme provides financial and non-financial support to game developers, startups, and MSMEs in the gaming sector to foster innovation, enhance competitiveness, and promote India as a global hub for game development. It includes financial assistance for participation in the India Game Developer Conference and related activities to strengthen the domestic gaming ecosystem.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "game developers",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote innovation and growth in the Indian game development sector",
+    "To support Indian game developers and startups in participating in the India Game Developer Conference (IGDC)",
+    "To enhance the global competitiveness of Indian gaming products and services",
+    "To foster a robust ecosystem for game development in India through financial and technical support",
+    "To encourage collaboration between Indian game developers and international stakeholders",
+    "To promote skill development and capacity building in the gaming sector"
+  ],
+  "eligibility": "Indian game developers, startups, and MSMEs engaged in game development, registered under the Department for Promotion of Industry and Internal Trade (DPIIT) as startups or with the Ministry of MSME as micro or small enterprises, incorporated in Indian territory, with annual revenue not exceeding INR 5 crores in any financial year since incorporation, and having raised funds not exceeding INR 10 crores.",
+  "benefits": "Financial support for participation in the India Game Developer Conference (IGDC), including reimbursement of travel, accommodation, and conference fees; access to networking opportunities with global gaming industry stakeholders; exposure to international gaming trends and technologies; opportunities for business collaboration and investment; and recognition as part of India's growing gaming ecosystem.",
+  "financial_support": "The scheme provides financial assistance for participation in the India Game Developer Conference (IGDC), including reimbursement of travel, accommodation, and conference fees, subject to a maximum ceiling of INR 50 lakhs per entity for the scheme duration.",
+  "fund_size_crores": "25",
+  "grant_amount_per_entity": "Up to INR 50 Lakhs per entity",
+  "application_process": "1. Visit the online portal at https://tec.gov.in/tcrs 2. Register as an applicant (Start-up or MSE) 3. Fill in the application form with details of the applicant and the game development project 4. Upload required documents including Certificate of Incorporation, DPIIT/Udyam Registration, audited financial statements, test reports, product certificates, invoices, and undertakings 5. Submit the application online before the 20th of the last month of the quarter 6. Await screening by the Telecom Centres of Excellence (TCOE) 7. Upon clearance, the application is forwarded to the Technical Evaluation Committee for evaluation 8. After technical evaluation, the proposal is sent to the Administrative Committee for approval 9. Upon approval, funds are disbursed by the Telecom Centres of Excellence (TCOE) within 7 days of receipt from Digital Bharat Nidhi (DBN)",
+  "application_portal_url": "https://tec.gov.in/tcrs",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Annual Audited Financial Statements (since incorporation)",
+    "DPIIT Registration Certificate or Udyam Registration Certificate",
+    "Lab’s TEC/NCCS Designation Certificate or NABL Accreditation Certificate",
+    "Test reports and Product certificate (MTCTE/Voluntary Certification)",
+    "Invoice/Receipt issued by TEC/NCCS designated Lab(s) or NABL Accredited Lab",
+    "Payment Receipt of certification fees paid to TEC/CB",
+    "Undertaking that annual revenue has not exceeded INR 5 crores in any financial year and funds raised do not exceed INR 10 crores",
+    "Self-declaration of no prior reimbursement under any other government scheme for the same testing & certification charges",
+    "Copy of PAN card",
+    "Bank account details along with a copy of a cancelled cheque"
+  ],
+  "deadlines": "Applications can be submitted through the online portal on or before the 20th of the last month in the quarter.",
+  "implementing_agency": "Telecom Centres of Excellence (TCOE)",
+  "contact_details": "Email: js.ssoffice@meity.gov.in | Phone: +91-11-24301815",
+  "caveats": [
+    "Reimbursement is only for testing and certification charges incurred at TEC/NCCS designated/recognized labs or NABL-accredited labs (if no TEC-designated CAB is available for a particular test facility)",
+    "Product certificate (MTCTE/Voluntary certification) must be issued after the scheme implementation guidelines or notified date",
+    "Reimbursement claims must be submitted within 3 months of issue of product certificate by TEC",
+    "Reimbursement will not be considered for control tests related to product R&D",
+    "Maximum reimbursement per entity is capped at INR 50 lakhs for the scheme duration",
+    "The scheme is operational for two years from date of implementation or until funds of INR 25 crores are fully utilized, whichever occurs earlier"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/static/uploads/2025/06/837f9d009185a3e2061fb12ba8ef4d17.pdf",
+    "https://meity.gov.in/static/uploads/2026/05/3968b682419b74182446584b0dc301f5.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:41:23.291138+00:00"
+}

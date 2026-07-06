@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-685",
+  "scheme_name": "Pradhan Mantri Rojgar Protsahan Yojana (PMRPY) 2.0",
+  "scheme_url": "https://pmrpy.gov.in",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "Pradhan Mantri Rojgar Protsahan Yojana (PMRPY) 2.0 is a government scheme aimed at incentivizing employers to generate new employment by paying the employer's contribution to the Employees' Provident Fund Organisation (EPFO) and Employees' State Insurance Corporation (ESIC) for new employees. The scheme encourages job creation in the formal sector by reducing the financial burden on employers for social security contributions. It targets establishments registered with EPFO and ESIC that hire new workers earning up to a specified wage ceiling.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "employers",
+    "establishments",
+    "new employees"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Incentivize employers for generation of new employment",
+    "Reduce the financial burden of employers towards social security benefits",
+    "Encourage hiring of new workers in the formal sector",
+    "Promote formalization of workforce through EPFO and ESIC registration",
+    "Support job creation for workers earning up to the wage ceiling"
+  ],
+  "eligibility": "Employers/establishments registered with EPFO and ESIC are eligible if they hire new employees with a monthly wage of up to INR 15,000. The new employee must not have been employed in any EPFO-registered establishment prior to 1st April 2021, and the employer must have remitted EPFO and ESIC contributions for the new employee for the first three months.",
+  "benefits": "The government pays the employer's contribution of 12% towards EPFO and 3.25% towards ESIC (total 15.25%) for a period of three years from the date of registration of the new employee. This reduces the employer's outlay on statutory social security contributions. Employees gain access to social security benefits including provident fund, pension, and medical coverage.",
+  "financial_support": "The scheme provides financial support by reimbursing the employer's share of EPFO (12%) and ESIC (3.25%) contributions, amounting to 15.25% of the monthly wage (capped at INR 15,000) for each eligible new employee for a duration of three years. The support is disbursed directly to the employer's EPFO account after verification of contribution remittance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register the establishment on the EPFO portal if not already registered. 2. Ensure the new employee is registered with EPFO and ESIC and has a Universal Account Number (UAN). 3. Remit the employer's and employee's contributions to EPFO and ESIC for the first three months. 4. Apply for reimbursement through the EPFO employer portal by submitting the required details of the new employee and contribution proof. 5. The EPFO verifies the eligibility and credits the government's share of the employer's contribution to the employer's EPFO account.",
+  "application_portal_url": "https://www.epfindia.gov.in/",
+  "required_documents": [
+    "Employer's EPFO registration certificate",
+    "Employee's UAN and Aadhaar details",
+    "Proof of remittance of EPFO and ESIC contributions for the first three months",
+    "Bank account details of the employer for verification",
+    "Employment contract or appointment letter of the new employee"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted as long as the employee remains eligible under the scheme conditions.",
+  "implementing_agency": "Ministry of Labour and Employment",
+  "contact_details": "Email: epfo@epfindia.gov.in | Helpline: 1800-118-005",
+  "caveats": [
+    "Benefit is limited to a maximum of three years per employee",
+    "Only new employees earning up to INR 15,000 per month are eligible",
+    "Employer must have remitted contributions for the first three months to claim reimbursement",
+    "Employees who were previously employed in any EPFO-covered establishment before 1st April 2021 are not eligible",
+    "Scheme is subject to budgetary availability and government approval"
+  ],
+  "source_cited_notes": [
+    "https://pmrpy.gov.in",
+    "https://www.epfindia.gov.in/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:54:03.060818+00:00"
+}

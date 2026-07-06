@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-491",
+  "scheme_name": "Modular Employable Skills (MES) Scheme",
+  "scheme_url": "https://dgt.gov.in",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "The Modular Employable Skills (MES) Scheme, under the Skill Development Initiative (SDI) scheme, was launched in 2007 by the erstwhile Directorate General of Employment and Training (DGE&T) to provide vocational training through Modular Employable Skills. It aimed to enhance employability by offering short-term, industry-relevant courses. The scheme was closed effective 31.03.2017.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "youth",
+    "unemployed",
+    "school dropouts",
+    "workers seeking skill upgradation"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide vocational training through Modular Employable Skills (MES) to enhance employability",
+    "To offer short-term, industry-relevant courses for skill development",
+    "To reduce unemployment among educated youth by providing employable skills",
+    "To raise the quantitative and qualitative levels of industrial production through systematic training",
+    "To cultivate a technical and industrial attitude in the younger generation"
+  ],
+  "eligibility": "Open to individuals seeking vocational training, particularly youth, school dropouts, and workers looking to upgrade skills; specific eligibility criteria varied by course and were defined under the Skill Development Initiative Scheme (SDIS) guidelines.",
+  "benefits": "Participants received industry-relevant vocational training, certification upon completion, improved employability, and access to placement support. The scheme also facilitated self-employment and wage employment opportunities through skill certification.",
+  "financial_support": "The scheme provided reimbursement of training costs to Vocational Training Providers (VTPs) based on norms fixed by the government, with advance payments against bank guarantees limited to 40% of the amount due per batch. Assessment fees were also managed through reimbursement mechanisms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Vocational Training Providers (VTPs) applied for registration through the prescribed procedure. 2. Applications were evaluated by the concerned authorities. 3. Upon approval, VTPs signed contracts with the government. 4. Registered VTPs could then enroll candidates for training. 5. Candidates were registered by VTPs. 6. Training was conducted as per the course structure. 7. Assessment was carried out by Assessing Bodies. 8. Post-assessment, certificates were issued. 9. Training cost reimbursement was claimed by VTPs after submission of required documents.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application for registration",
+    "Proof of identity and address of VTP",
+    "Details of training infrastructure",
+    "Bank guarantee documents",
+    "Staff qualifications and experience",
+    "Course details and syllabus",
+    "Undertaking to comply with scheme guidelines"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Directorate General of Training (DGT), Ministry of Skill Development and Entrepreneurship",
+  "contact_details": "",
+  "caveats": [
+    "The Skill Development Initiative (SDI) scheme under Modular Employable Skills (MES) was closed w.e.f 31.03.2017",
+    "Advance against bank guarantee was limited to a maximum of 40% of the amount due for a batch",
+    "Assessment fees had to be refunded by VTPs to candidates if assessment did not take place",
+    "Tracking of 80% of candidates passing out included self-employed and unemployed individuals"
+  ],
+  "source_cited_notes": [
+    "https://dgt.gov.in/en/sdi-scheme-guidlines",
+    "https://dgt.gov.in/sites/default/files/Clarifications_on_Guidelines.pdf",
+    "https://dgt.gov.in/sites/default/files/SDI_operational_Manual-_updated_18-12-14.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:56:01.380358+00:00"
+}

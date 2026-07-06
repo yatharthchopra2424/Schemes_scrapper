@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-442",
+  "scheme_name": "Special Notified Zone (SNZ) for Diamond Trading",
+  "scheme_url": "https://www.dgft.gov.in",
+  "ministry_or_category": "Gems & Jewellery",
+  "overview": "The Special Notified Zone (SNZ) for Diamond Trading is a scheme under the Foreign Trade Policy aimed at promoting diamond trading by establishing designated zones with specific regulatory and procedural benefits. It facilitates diamond imports and exports by providing a streamlined customs and regulatory environment, encouraging value addition and job creation in the gems and jewellery sector. The scheme supports India's position as a global hub for diamond trading and processing.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "diamond traders",
+    "jewellery manufacturers",
+    "exporters",
+    "importers",
+    "MSMEs in gems and jewellery"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote diamond trading and value addition in India",
+    "Establish Special Notified Zones for diamond imports and exports",
+    "Provide a streamlined customs and regulatory environment for diamond trade",
+    "Encourage employment generation in the gems and jewellery sector",
+    "Enhance India's competitiveness in the global diamond market",
+    "Facilitate ease of doing business for diamond traders and processors"
+  ],
+  "eligibility": "Entities engaged in diamond trading, including importers, exporters, and processors, holding a valid Importer Exporter Code (IEC) issued by DGFT, and operating within the designated Special Notified Zones as notified by the Directorate General of Foreign Trade.",
+  "benefits": "Simplified customs procedures for diamond imports and exports, reduced procedural delays, enhanced monitoring and security for high-value goods, facilitation of re-export of diamonds after value addition, and access to infrastructure and support services within the SNZ.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants; benefits are primarily procedural and regulatory in nature, such as eased customs clearance and regulatory compliance within the notified zones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain a valid Importer Exporter Code (IEC) from DGFT. 2. Identify the designated Special Notified Zone (SNZ) for diamond trading as notified by DGFT. 3. Ensure the business entity is located or registered to operate within the SNZ. 4. Comply with the procedural guidelines for diamond imports and exports under the Foreign Trade Policy. 5. Submit required documents for customs clearance through the ICEGATE portal or as specified by DGFT. 6. Avail benefits of streamlined procedures within the SNZ for diamond trading activities.",
+  "application_portal_url": "https://dgft.gov.in",
+  "required_documents": [
+    "Importer Exporter Code (IEC) certificate",
+    "PAN of the entity",
+    "Certificate of Incorporation or Registration",
+    "Details of the diamond consignment (invoice, packing list, etc.)",
+    "Proof of location or operation within the Special Notified Zone",
+    "Any additional documents as specified by customs or DGFT for diamond trade"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications and operations are permitted as long as the entity complies with SNZ regulations and holds a valid IEC.",
+  "implementing_agency": "Directorate General of Foreign Trade (DGFT), Department of Commerce, Ministry of Commerce and Industry",
+  "contact_details": "Email: dgftedi[at]nic[dot]in | Helpline: 1800-572-1550 / 1800-111-550",
+  "caveats": [
+    "Benefits are available only within the geographically defined Special Notified Zones",
+    "Entities must comply with all provisions of the Foreign Trade Policy and customs regulations",
+    "Misuse of SNZ facilities for unauthorized trade may lead to penalties or withdrawal of benefits",
+    "The scheme is subject to periodic review and modification by DGFT based on trade policy updates"
+  ],
+  "source_cited_notes": [
+    "https://dgft.gov.in",
+    "https://content.dgft.gov.in/Website/dgftprod/f79c64e4-4aa0-461d-82a2-833d33444641/Trade Notice No.09 2026- Amendment to TRACE Guidelines.pdf",
+    "https://content.dgft.gov.in/Website/dgftprod/8c0d25b8-b12d-4b0d-b0ca-c77424a0892f/Trade Notice No.08 2026 dated 01.07.2026- Amendment to MAS Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:30:46.817317+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-155",
+  "scheme_name": "Agri Export Zones (AEZ)",
+  "scheme_url": "https://apeda.gov.in/apedawebsite/aez",
+  "ministry_or_category": "Agriculture",
+  "overview": "Agri Export Zones (AEZ) is a scheme aimed at promoting agricultural exports by creating a cluster-based industries, value addition, and infrastructure development in the agriculture sector. The scheme focuses on integrating the entire value chain from production to export, providing support for post-harvest management, processing, and marketing of agricultural products. It encourages private sector participation and public-private partnerships to develop export-oriented agri-based industries. The initiative seeks to boost India's share in global agricultural trade by improving quality, reducing wastage, and enhancing competitiveness of agri-exports.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "agro-processors",
+    "exporters",
+    "MSME",
+    "farmer producer companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote export-oriented production and processing of agricultural products",
+    "To develop infrastructure for post-harvest management and value addition",
+    "To integrate farmers, processors, and exporters in a cluster-based approach",
+    "To enhance quality and compliance with international standards",
+    "To reduce transaction costs and improve supply chain efficiency",
+    "To encourage private investment and public-private partnerships in agri-export",
+    "To increase India's share in global agricultural exports through brand promotion"
+  ],
+  "eligibility": "Eligibility under the Agri Export Zones (AEZ) scheme includes farmers, farmer producer companies, agro-processing units, exporters, and other stakeholders engaged in the production, processing, and export of agricultural products. Applicants must be engaged in activities related to scheduled products under APEDA and must demonstrate export potential or existing export activity. The scheme encourages cluster-based participation where multiple stakeholders in a geographic region collaborate to develop an export-oriented agri-value chain. Registration with APEDA as an exporter (RCMC) is typically required for availing benefits under the scheme.",
+  "benefits": "Benefits under the Agri Export Zones (AEZ) scheme include financial assistance for setting up infrastructure such as packhouses, processing units, cold storage, and testing laboratories. Support is provided for quality certification, branding, and market development activities. The scheme facilitates access to export promotion initiatives, participation in international trade fairs, and buyer-seller meets. It also supports technology upgradation, skill development, and training for stakeholders in the agri-export value chain. Additionally, AEZs may receive assistance for logistics, packaging, and compliance with international sanitary and phytosanitary (SPS) standards.",
+  "financial_support": "Financial support under the Agri Export Zones (AEZ) scheme is provided as a subsidy for infrastructure development, quality upgradation, and market promotion activities. The support is typically extended through APEDA's Financial Assistance Scheme (FAS), where eligible entities can receive grants for setting up packhouses, processing units, cold chains, and testing facilities. The quantum of support varies based on the nature of the project, with specific ceilings for different components such as infrastructure, certification, and market development. Funds are disbursed in installments based on project milestones and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the agri-product and geographic cluster for export potential. 2. Form a consortium of farmers, processors, exporters, and other stakeholders. 3. Develop a detailed project report (DPR) outlining infrastructure, value addition, and export plan. 4. Apply for registration with APEDA to obtain RCMC (Registration-cum-Membership Certificate). 5. Submit the DPR and application through the APEDA portal or designated channel for evaluation. 6. Upon approval, enter into an agreement with APEDA for financial and technical support. 7. Implement the project as per the approved plan and submit periodic progress reports. 8. Claim financial assistance upon submission of utilization certificates and completion of milestones.",
+  "application_portal_url": "https://apeda.gov.in/apedawebsite/aez",
+  "required_documents": [
+    "Project Report / Detailed Project Report (DPR)",
+    "Registration-cum-Membership Certificate (RCMC) from APEDA",
+    "Import Export Code (IEC) from DGFT",
+    "Proof of land ownership or lease agreement for infrastructure",
+    "Memorandum of Understanding (MoU) among consortium members",
+    "Financial statements and bank appraisal of the project",
+    "Environmental and statutory clearances (if applicable)",
+    "Details of proposed machinery, technology, and processing capacity",
+    "Marketing and export strategy document",
+    "Bank account details and PAN of the applicant entity"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Agricultural and Processed Food Products Export Development Authority (APEDA)",
+  "contact_details": "Email: bharati[AT]apeda[DOT]gov[DOT]in | Phone: 91-11-41486013/ 20863919/ 20867008/ 20867007",
+  "caveats": [
+    "Benefits are subject to availability of funds under APEDA's Financial Assistance Scheme",
+    "Projects must demonstrate clear export linkage and value addition",
+    "Subsidy is disbursed on reimbursement basis after verification of expenditure",
+    "Failure to achieve export targets may result in recovery of funds",
+    "The scheme is subject to periodic review and modification by the government"
+  ],
+  "source_cited_notes": [
+    "https://apeda.gov.in/apedawebsite/aez",
+    "https://apeda.gov.in/FinancialAssistanceSchemes",
+    "https://apeda.gov.in/bharati/How_to_Apply.html",
+    "https://apeda.gov.in/sites/default/files/documents/2026-06/Registration_Procedure.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:12.008527+00:00"
+}

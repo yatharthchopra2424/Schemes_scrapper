@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-208",
+  "scheme_name": "IMPRINT India (Impacting Research Innovation and Technology)",
+  "scheme_url": "https://www.imprintindia.org",
+  "ministry_or_category": "Education",
+  "overview": "IMPRINT India (Impacting Research Innovation and Technology) is a joint initiative of the Ministry of Education and the Ministry of Defence aimed at addressing major engineering and technology challenges relevant to national development through collaborative research between premier academic institutions and user agencies. The scheme focuses on translating research into usable technologies and products by funding high-impact, interdisciplinary projects in identified thematic areas.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "academic institutions",
+    "researchers",
+    "scientists",
+    "faculty members",
+    "user agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Identify and address major engineering and technology challenges in domains relevant to national development",
+    "Promote collaborative research between premier academic institutions (IITs, IISc, NITs, etc.) and user agencies (including defence, space, railways, etc.)",
+    "Ensure higher funding for research into usable and affordable technology solutions",
+    "Accelerate the translation of research into products, processes, and services for societal and strategic applications",
+    "Strengthen industry-academia partnership in research and innovation",
+    "Enhance the quality and relevance of research output from Indian higher educational institutions"
+  ],
+  "eligibility": "The scheme invites project proposals from faculty members and researchers of premier academic institutions such as IITs, IISc, NITs, IISERs, and other centrally funded technical institutions. Proposals must be submitted in collaboration with identified user agencies (e.g., Defence Research and Development Organisation, Indian Space Research Organisation, Ministry of Railways, etc.) that define the problem statement and commit to potential adoption of the developed technology.",
+  "benefits": "Financial support for research and development projects, access to user agency problem statements and domain expertise, opportunity for technology transfer and product development, enhanced visibility and impact of academic research, potential for commercialization and strategic deployment of outcomes, and facilitation of industry-academia-government collaboration.",
+  "financial_support": "The scheme provides grant-based financial support to selected research projects, with funding typically covering manpower, equipment, consumables, travel, and contingency costs. The quantum of support varies per project based on scope and duration, and is disbursed in installments tied to project milestones and deliverables as agreed upon with the user agency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a relevant challenge area under the IMPRINT India thematic domains. 2. Form a consortium with academic partners and a user agency that defines the problem statement. 3. Develop a detailed project proposal including objectives, methodology, budget, timeline, and expected outcomes. 4. Submit the proposal through the designated portal or nodal agency (currently IIT Madras acts as the coordinating hub). 5. Proposals undergo technical review by expert committees. 6. Selected projects are approved for funding and implementation begins upon sanction.",
+  "application_portal_url": "https://www.imprintindia.org",
+  "required_documents": [
+    "Project proposal document",
+    "Budget breakdown",
+    "Timeline and milestones",
+    "Letter of collaboration from user agency",
+    "CVs of principal investigators and team members",
+    "Institutional endorsement from participating academic institutions",
+    "Details of prior work and intellectual property status"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year as per announcements from the coordinating agency.",
+  "implementing_agency": "Ministry of Education, Government of India (in collaboration with Ministry of Defence and other user agencies)",
+  "contact_details": "",
+  "caveats": [
+    "Projects must have clear user agency involvement from inception",
+    "Funding is contingent on progress reviews and achievement of milestones",
+    "Intellectual property rights are governed by pre-agreed terms between participating institutions and user agencies",
+    "The scheme does not support basic or theoretical research without clear application potential"
+  ],
+  "source_cited_notes": [
+    "https://www.imprintindia.org"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:14:17.236449+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-145",
+  "scheme_name": "National Mission for Sustainable Agriculture (NMSA)",
+  "scheme_url": "https://nmsa.dac.gov.in",
+  "ministry_or_category": "Agriculture",
+  "overview": "The National Mission for Sustainable Agriculture (NMSA) is a centrally sponsored scheme under the Department of Agriculture & Cooperation, Ministry of Agriculture, Government of India, launched to enhance agricultural productivity, sustainability, and climate resilience, particularly in rainfed areas. It promotes integrated farming systems, resource conservation, soil health management, water use efficiency, and climate change adaptation through four major components: Rainfed Area Development (RAD), On Farm Water Management (OFWM), Soil Health Management (SHM), and Climate Change and Sustainable Agriculture: Monitoring, Modeling and Networking (CCSAMMN). The mission converges with other schemes like MGNREGS, IWMP, RKVY, and NFSM to leverage resources and ensure integrated development.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "agri-entrepreneurs",
+    "rural households",
+    "small farmers",
+    "state governments",
+    "implementing agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To make agriculture more productive, sustainable, remunerative and climate resilient by promoting location specific Integrated/Composite Farming Systems",
+    "To conserve natural resources through appropriate soil and moisture conservation measures",
+    "To adopt comprehensive soil health management practices based on soil fertility maps, soil test based application of macro & micro nutrients, judicious use of fertilizers etc.",
+    "To optimize utilization of water resources through efficient water management to expand coverage for achieving 'more crop per drop'",
+    "To develop capacity of farmers & stakeholders in the domain of climate change adaptation and mitigation measures",
+    "To pilot models in select blocks for improving productivity of rainfed farming by mainstreaming rainfed technologies refined through NICRA and leveraging resources from other schemes",
+    "To establish an effective inter and intra Departmental/Ministerial co-ordination for accomplishing key deliverables of NMSA under the aegis of NAPCC"
+  ],
+  "eligibility": "The scheme is implemented through State Governments and their subordinate offices/institutions. Eligible implementing agencies include State Departments of Agriculture, State Agricultural Universities (SAUs), Krishi Vigyan Kendras (KVKs), Indian Council of Agricultural Research (ICAR) Centres, and reputed NGOs engaged by State Governments for cluster/village development plans in areas with limited government infrastructure. Beneficiaries are primarily farmers, especially small and marginal farmers in rainfed areas, who participate through State-level implementation structures.",
+  "benefits": "Financial assistance for adopting sustainable agricultural practices including integrated farming systems, water conservation technologies (farm ponds, efficient irrigation), soil health management (soil testing, nutrient management, reclamation of problem soils), agroforestry, and climate-resilient farming. Non-financial benefits include capacity building, training, exposure visits, knowledge sharing, access to soil health cards, demonstration of agroforestry models, and convergence with other central and state schemes for livelihood diversification and environmental protection.",
+  "financial_support": "Financial support is provided as grants-in-aid to State Governments based on Annual Action Plans (AAPs), following a 60:40 funding pattern between Centre and State for general states, 90:10 for North-Eastern and hilly states, and 100% central funding for Union Territories and National Level Agencies. Funds are released in installments upon submission of Utilization Certificates and progress reports. The mission leverages convergence with schemes like MGNREGS, IWMP, RKVY, and NFSM for supplementary support.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Governments prepare Annual Action Plans (AAPs) based on fund availability and past performance. 2. AAPs are submitted to the Government of India for approval by the Project Sanctioning Committee. 3. Funds are released in installments to States upon receipt of Utilization Certificates and detailed progress reports. 4. States implement components through district and village-level agencies. 5. Beneficiaries (farmers) access benefits via State-level implementing departments/agencies. 6. Monitoring and evaluation are conducted quarterly by technical personnel and reported to the National Advisory Committee.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Utilization Certificates",
+    "Balance Sheet",
+    "Audited Statement of Accounts",
+    "Progress Reports (including soft copy, photographs/video)",
+    "Location details of nursery and plantation",
+    "Training records",
+    "Number of saplings/seedlings in nurseries"
+  ],
+  "deadlines": "Annual Action Plan (AAP) submission is required yearly; funds are released based on AAP approval and utilization of previous funds. Revalidation of unspent funds is permitted subject to conditions.",
+  "implementing_agency": "Department of Agriculture & Cooperation, Ministry of Agriculture, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding pattern varies: 60:40 (Centre:State) for general states, 90:10 for NE & hilly states, 100% for UTs and National Level Agencies",
+    "Release of funds is contingent upon submission of Utilization Certificates and progress reports",
+    "Unspent balances from previous financial year are revalidated only if adjusted against current year's first/second installment",
+    "Interest or earnings against grants-in-aid must be remitted to the Consolidated Fund of India",
+    "AAP must include unfinished/spill-over activities and committed liabilities from previous year"
+  ],
+  "source_cited_notes": [
+    "https://nmsa.dac.gov.in/pdfdoc/NMSA_Guidelines_English.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/circulers/SMAFrevalidationorder2021-22.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/circulers/State-wiseallocationoffundsunderSMAFduring2021-22reg.pdf",
+    "https://nmsa.dac.gov.in/pdfDoc/circulers/Brief_introduction_about_the_SMAF_scheme.pdf"
+  ],
+  "last_updated_date": "2014",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:39:28.463237+00:00"
+}

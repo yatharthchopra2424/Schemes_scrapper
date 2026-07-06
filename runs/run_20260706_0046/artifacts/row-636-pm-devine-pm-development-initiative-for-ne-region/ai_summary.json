@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-636",
+  "scheme_name": "PM DevINE – PM Development Initiative for NE Region",
+  "scheme_url": "https://mdoner.gov.in/pm-devine",
+  "ministry_or_category": "North East Special",
+  "overview": "PM-DevINE, a Central Sector scheme launched in Union Budget 2022-23 with ₹6,600 crore outlay (2022-26), aims to accelerate sustainable development in the North-East through infrastructure, social projects, livelihood generation, and bridging sectoral gaps.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "North Eastern States",
+    "State Governments",
+    "Implementing agencies"
+  ],
+  "geographic_scope": "North Eastern Region",
+  "objectives": [
+    "Accelerate sustainable development in the North-East",
+    "Develop infrastructure in water, power, connectivity, tourism, education, and health",
+    "Generate livelihood opportunities",
+    "Bridge sectoral gaps in development",
+    "Support social projects"
+  ],
+  "eligibility": "State Governments of the eight North-Eastern States submit complete and accurate project proposals in the prescribed formats with all supporting documents and clearances through the Purvottar Vikas Setu Portal.",
+  "benefits": "Full central funding for approved projects, financial support for infrastructure and social development, livelihood generation, and bridging sectoral gaps in the North Eastern Region.",
+  "financial_support": "The scheme provides grants for creation of capital assets and grants-in-aid-general to State Governments and implementing agencies for projects under PM-DevINE, with funds released after approval by the Expenditure Finance Committee (EFC) and issue of Administrative Approval and Financial Sanction (AFS).",
+  "fund_size_crores": "6600",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submission of complete proposal in prescribed format with documents as per guidelines of PM-DevINE. 2. Projects are submitted by State Government through Purvottar Vikas Setu Portal. 3. State Government (SLEC) -> MDoNER -> Comments of Line Ministries/Departments - MDoNER(EIMC) -> AFS issue -> Implementation by Implementing agency/State Govt. 4. (i) Preliminary examination and circulation of the complete proposal for comments: 15 days. (ii) Comments on Concept Note from Line Ministries/ NITI Aayog: 15 days. (iii) Comments on DPR from Line Ministries/ NITI Aayog: 30 days. (iv) Submission of the proposal for EIMC consideration after completion of inter-ministerial consultation: 30 days. (v) Issue of Minutes of the EIMC meeting after conduct of the meeting: 15 days. (vi) Issue of AFS after all approvals and clearances are in place: 15 days.",
+  "application_portal_url": "https://mdoner.gov.in/pm-devine",
+  "required_documents": [
+    "Complete proposal in prescribed format",
+    "Supporting documents as per guidelines of PM-DevINE",
+    "Clearances from relevant line ministries"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Development of North Eastern Region",
+  "contact_details": "Shri S.D. Meena, Director, PM-DevINE, Tel: 011-21410599, Email: meena.sd@nic.in",
+  "caveats": [
+    "Projects must be submitted by State Governments through the Purvottar Vikas Setu Portal",
+    "Financial sanction is issued only after all approvals and clearances are in place",
+    "Implementation is carried out by the implementing agency or State Government after AFS issue"
+  ],
+  "source_cited_notes": [
+    "https://mdoner.gov.in/offerings",
+    "https://mdoner.gov.in/static/uploads/2026/04/6fb88ec072be127c64cee19b1341cdc8.pdf",
+    "https://mdoner.gov.in/static/uploads/2026/04/38f4e82cccfc1cb869b109c76b7ef50d.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:26:39.938876+00:00"
+}

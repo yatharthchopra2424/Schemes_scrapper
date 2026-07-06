@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-255",
+  "scheme_name": "Jharkhand Startup Policy",
+  "scheme_url": "https://jharkhand.gov.in",
+  "ministry_or_category": "State Level (Jharkhand)",
+  "overview": "The Jharkhand Startup Policy-2021 is a state-level initiative aimed at fostering innovation and entrepreneurship in Jharkhand by providing support mechanisms for startups. It seeks to create a conducive ecosystem through policy interventions, infrastructure development, and financial incentives. The policy focuses on promoting startups across key sectors and enabling their growth through various state-supported programs.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Jharkhand only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in the state",
+    "Create a supportive ecosystem for startups through policy and infrastructure",
+    "Encourage sector-specific startup development",
+    "Facilitate access to funding and mentorship",
+    "Strengthen industry-academia collaboration",
+    "Simplify regulatory processes for startups",
+    "Enhance visibility and market access for Jharkhand-based startups"
+  ],
+  "eligibility": "Startups registered in Jharkhand or those willing to establish operations in the state, working on innovative ideas, products, or services with potential for scalability and employment generation.",
+  "benefits": "Access to incubation centers, mentorship, networking opportunities, participation in startup events, facilitation in regulatory clearances, and support for prototype development and market validation.",
+  "financial_support": "The policy outlines provisions for financial assistance including seed funding, grants, and incentives, though specific quantum and disbursement mechanisms are not detailed in the available evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Jharkhand Startup Policy-2021 document via the Downloads section on the Jharkhand State Portal. 2. Review eligibility and guidelines. 3. Prepare required documents as per policy. 4. Submit application through the designated channel (specific portal not mentioned in evidence). 5. Await evaluation and approval by the competent authority.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Business plan or pitch deck",
+    "Proof of innovation or prototype",
+    "Bank account details",
+    "Authorized signatory details"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department of Information Technology & e-Governance, Government of Jharkhand",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are subject to availability of funds and policy provisions",
+    "Startup must maintain registration and operational presence in Jharkhand to avail continued support",
+    "Policy period and benefits may be subject to revision or withdrawal by the state government"
+  ],
+  "source_cited_notes": [
+    "https://jharkhand.gov.in/Home/DocumentList?doctype=45c48cce2e2d7fbdea1afc51c7c6ad26&subdoctype=02e74f10e0327ad868d138f2b4fdd6f0",
+    "https://jharkhand.gov.in/"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:40:27.097858+00:00"
+}

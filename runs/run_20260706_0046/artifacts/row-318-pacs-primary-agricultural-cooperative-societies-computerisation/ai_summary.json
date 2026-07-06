@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-318",
+  "scheme_name": "PACS (Primary Agricultural Cooperative Societies) Computerisation",
+  "scheme_url": "https://pacs.nddb.coop",
+  "ministry_or_category": "Cooperative Sector",
+  "overview": "The PACS (Primary Agricultural Cooperative Societies) Computerisation scheme aims to modernize and strengthen the functioning of Primary Agricultural Cooperative Societies across India by providing them with computer hardware, software, and networking facilities. The initiative seeks to improve operational efficiency, enhance service delivery to farmers, and enable better financial management and record-keeping at the grassroots level. It supports the digital transformation of cooperatives to ensure transparency, accountability, and timely access to credit and other services for rural communities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Primary Agricultural Cooperative Societies (PACS)"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To computerize the operations of Primary Agricultural Cooperative Societies (PACS)",
+    "To improve the efficiency and effectiveness of PACS in serving farmers",
+    "To enable real-time data management and financial accounting in cooperatives",
+    "To enhance access to credit and other services for rural populations",
+    "To strengthen the cooperative movement through technological upgradation",
+    "To ensure transparency and accountability in PACS operations"
+  ],
+  "eligibility": "Primary Agricultural Cooperative Societies (PACS) that are functionally active and willing to adopt computerisation for their operations are eligible under the scheme. Societies must have a minimum membership base and demonstrate viability for sustained operations post-computerisation.",
+  "benefits": "Financial assistance for procurement of computer hardware, software, UPS, and networking equipment; training for PACS staff on system usage; improved record-keeping and financial management; enhanced service delivery to farmers including loan disbursement, savings, and input distribution; better monitoring and supervision by higher financing agencies; integration with state and national cooperative networks.",
+  "financial_support": "The scheme provides financial assistance in the form of a subsidy for the procurement of computer systems and related infrastructure. The central government contributes a fixed percentage of the total project cost, while the remaining amount is borne by the state government or the PACS itself, depending on the state-specific implementation guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. PACS submits a project proposal for computerisation to the District Central Cooperative Bank (DCCB) or State Cooperative Bank (SCB). 2. The proposal is forwarded to the National Bank for Agriculture and Rural Development (NABARD) for scrutiny and sanction. 3. Upon approval, funds are released in installments based on progress. 4. PACS procures the approved hardware and software through authorized vendors. 5. Installation and commissioning are carried out followed by staff training. 6. Post-implementation review is conducted to assess utilization and impact.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Registration of the PACS",
+    "Latest audited financial statements",
+    "List of members and share capital details",
+    "Project report detailing computerisation requirements",
+    "Board resolution approving the computerisation project",
+    "Quotations from vendors for hardware and software",
+    "Undertaking regarding maintenance and sustainability"
+  ],
+  "deadlines": "Rolling basis — subject to availability of funds and annual budget allocations",
+  "implementing_agency": "National Bank for Agriculture and Rural Development (NABARD)",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations under the scheme",
+    "Beneficiary PACS must ensure proper maintenance and utilization of the computer systems",
+    "Failure to use the systems for intended purposes may lead to recovery of subsidy amount",
+    "Scheme implementation may vary across states based on their cooperative policies"
+  ],
+  "source_cited_notes": [
+    "https://pacs.nddb.coop"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:14:52.738369+00:00"
+}

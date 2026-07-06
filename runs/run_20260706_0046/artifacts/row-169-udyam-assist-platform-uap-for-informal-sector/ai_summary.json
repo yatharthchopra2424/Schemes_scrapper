@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-169",
+  "scheme_name": "Udyam Assist Platform (UAP) for Informal Sector",
+  "scheme_url": "https://udyamassist.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The Udyam Assist Platform (UAP) is an initiative by the Ministry of MSME, Government of India, designed to facilitate the online registration of Informal Micro Enterprises (IMEs) through an Assist Process. It enables Designated Agencies (DAs) such as banks, NBFCs, and MFIs to share data of their IME customers to generate Udyam Registration Numbers (URN) and Udyam Assist Certificates (UAC). The platform aims to formalise informal enterprises outside the GST ecosystem and integrate them into digital and financial systems.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "Informal Micro Enterprises (IMEs)",
+    "micro enterprises outside GST ecosystem"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide Udyam Registration to Informal Micro Enterprises (IMEs) not registered with GST authorities",
+    "Enable access to Priority Sector Lending (PSL) for loans to Udyam-registered IMEs",
+    "Facilitate integration of IMEs into digital payment ecosystems via merchant QR codes",
+    "Create a central digital identity (URN) for future access to governance, financial services, and digital marketplaces",
+    "Generate quality data for better policy interventions for the informal sector",
+    "Provide access to knowledge and skills development for IMEs"
+  ],
+  "eligibility": "Informal Micro Enterprises (IMEs) that are not registered on the Udyam Registration Portal (URP) and are outside the GST ecosystem. Registration is facilitated through Designated Agencies (DAs) such as Scheduled Commercial Banks (SCBs), Micro Finance Institutions (MFIs), Non Banking Financial Companies (NBFCs), etc., which share customer data with consent. IMEs cannot register directly; they must approach a DA for assistance.",
+  "benefits": "Udyam Registration Number (URN) enables classification of bank loans under Priority Sector Lending (PSL) as per RBI guidelines, encouraging higher credit flow. It facilitates issuance of merchant QR codes for digital payments. URN acts as a passport for access to digital systems in governance, financial services, and marketplaces. Registered IMEs receive Udyam Assist Certificate (UAC). Data generated supports policy interventions. Access to knowledge and skills development is also provided.",
+  "financial_support": "The Udyam Assist Platform does not provide direct financial support such as grants, loans, or subsidies. It is a registration and facilitation platform that enables access to financial services (e.g., bank loans) by providing Udyam Registration Number (URN), which helps in classifying loans under Priority Sector Lending (PSL). Financial support, if any, comes through linked schemes or lending institutions, not directly from UAP.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Designated Agencies (DAs) such as banks, NBFCs, MFIs must register on the Udyam Assist Platform (www.udyamassist.gov.in) by submitting a Letter of Authorisation designating a Nodal Officer. 2. NBFCs and NBFC-MFIs must additionally submit their RBI registration certificate. 3. MFIs not classified as NBFCs must submit a letter of confirmation from their Self-Regulatory Organisation (SRO). 4. DAs must accept the Terms and Conditions of the platform. 5. Upon approval by the Implementing Agency (SIDBI), DAs receive login credentials. 6. The DA’s Nodal Officer can add up to 5 sub-users for platform access. 7. Registered DAs upload data of their Informal Micro Enterprise (IME) customers via SFTP, smart EXCELs, or other approved protocols. 8. The Udyam Assist Platform processes the data, conducts validations, and generates Udyam Registration Number (URN) and Udyam Assist Certificate (UAC). 9. The URN and UAC are made available to the DA, which then informs the IME via SMS/Email. 10. IMEs can download the UAC from the portal (www.udyamassist.gov.in) after validation.",
+  "application_portal_url": "https://udyamassist.gov.in",
+  "required_documents": [
+    "DA’s Letter of Authorisation designating its Nodal Officer (for all DAs)",
+    "RBI registration certificate (for NBFCs and NBFC-MFIs)",
+    "Letter of confirmation from Self-Regulatory Organisation (SRO) (for MFIs which are not NBFCs)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "Email: udyamassist@sidbi.in",
+  "caveats": [
+    "Informal Micro Enterprises (IMEs) cannot register directly on the Udyam Assist Platform; they must approach a Designated Agency (DA) for assistance.",
+    "Mere sharing of data by DAs does not entitle IMEs to URN/UAC; issuance is subject to validation as per program methodology.",
+    "The Udyam Assist Platform does not provide direct financial benefits; it enables access to financial services through registration.",
+    "Data shared by DAs must be with the consent of the IME customers.",
+    "The platform is governed by the guidelines of the MSME Formalisation Project and Udyam Assist Platform terms and conditions."
+  ],
+  "source_cited_notes": [
+    "https://udyamassist.gov.in/",
+    "https://udyamassist.gov.in/msme-formalisation",
+    "https://udyamassist.gov.in/faq",
+    "https://udyamassist.gov.in/disclaimer",
+    "https://udyamassist.gov.in/privacy-policy",
+    "https://udyamassist.gov.in/terms-condition",
+    "https://udyamassist.gov.in/udyamassist-faq",
+    "https://udyamassist.gov.in/contact-us"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:48:58.970529+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-57",
+  "scheme_name": "ULIP – Unified Logistics Interface Platform",
+  "scheme_url": "https://goulip.in/",
+  "ministry_or_category": "Infrastructure & Logistics",
+  "overview": "ULIP – Unified Logistics Interface Platform is an integrated platform for stakeholders to enhance efficiency, utilize technology, and reduce the cost of logistics in India. It provides API-based data exchange between government and private entities involved in the Indian logistics ecosystem. The platform integrates systems from various ministries and departments to enable end-to-end visibility, optimal transportation usage, and simplified compliance processes. ULIP supports data-driven logistics policies and national programs like PM GatiShakti.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "transporters",
+    "manufacturers",
+    "service providers",
+    "government departments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create a nationwide single window logistics platform for end-to-end visibility",
+    "To develop a logistics gateway by integrating information available with various Govt. agencies across the value chain",
+    "To provide visibility for optimal usage of various modes of transportation",
+    "To provide data which can be utilized by the stakeholders for simplification of complicated processes like compliance, document filing, certifications, and approvals",
+    "To offer a platform for data exchange among government and private entities who are directly or indirectly involved in the Indian Logistics eco-system"
+  ],
+  "eligibility": "Stakeholders involved in the Indian logistics ecosystem including transporters, manufacturers, service providers, and government departments can access ULIP by signing in or registering on the portal.",
+  "benefits": "Simplified compliance and onboarding through digital verification of vehicle documents and paperless driver onboarding; reduced empty miles and optimized routing via smart route selection and idle truck detection; cost-effective tracking and insights using FASTag-based tracking; real-time visibility of fuel and EV stations for efficient route planning; secured cargo movement through real-time detection of fraudulent or unauthorized cargo; unified multimodal visibility of rail, road, and air freight; sustainability insights from emissions data; third-party transporter validation via automated verification of statutory documents; process digitization through E-way Bill and ICEGATE API integration; real-time container tracking; simplified and paperless documentation; support for policy making, compliance enforcement, and movement tracking.",
+  "financial_support": "No financial support is mentioned in the evidence. ULIP is a technology platform for data exchange and does not provide grants, loans, subsidies, or direct financial assistance to entities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the ULIP portal at https://goulip.in/ 2. Click on SIGN IN or REGISTER to create an account 3. After registration, log in to access the platform 4. Request for APIs through the DATA REQUEST PLATFORM 5. Download API documents and SOP process flow by clicking the download icon 6. Customize APIs with ULIP platform as needed 7. Integrate and use the APIs for logistics operations and data exchange",
+  "application_portal_url": "https://goulip.in/",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Access is available year-round after registration.",
+  "implementing_agency": "National Industrial Corridor Development Corporation (NICDC) Logistics Data Services Ltd.",
+  "contact_details": "",
+  "caveats": [
+    "Access to APIs and platform features requires signing in or registering on the ULIP portal",
+    "Some APIs and use cases are marked as 'Coming Soon' or under development",
+    "The platform is focused on logistics data exchange and does not provide direct financial benefits"
+  ],
+  "source_cited_notes": [
+    "https://goulip.in/",
+    "https://goulip.in/news&events",
+    "https://goulip.in/screen-reader",
+    "https://goulip.in/adminlogin"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:50:21.792352+00:00"
+}

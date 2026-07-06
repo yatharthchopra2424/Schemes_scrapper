@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-269",
+  "scheme_name": "Space Technology Incubation Centre (S-TIC) – ISRO",
+  "scheme_url": "https://www.isro.gov.in/s-tic",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The Space Technology Incubation Centre (S-TIC) – ISRO is a program initiated by the Indian Space Research Organisation to foster innovation and entrepreneurship in space technology. It aims to support startups and incubate ideas that contribute to the advancement of space applications and related technologies. The scheme provides a platform for nurturing early-stage ventures through mentorship, infrastructure, and technical guidance from ISRO experts.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote innovation and entrepreneurship in space technology",
+    "To provide incubation support to startups working on space-related applications",
+    "To facilitate access to ISRO's expertise, infrastructure, and technical mentorship",
+    "To encourage development of indigenous technologies for national space programs",
+    "To create a pipeline of innovative solutions for ISRO's future missions"
+  ],
+  "eligibility": "Startups and entrepreneurs working on innovative ideas, technologies, or applications in the domain of space technology, including satellite technology, remote sensing, navigation, space applications, and allied fields, are eligible to apply for incubation support under S-TIC.",
+  "benefits": "Selected startups receive access to ISRO's technical expertise, mentorship from scientists and engineers, infrastructure support, networking opportunities with industry and academia, and guidance on technology development, testing, and validation. The program also facilitates connections with potential investors and collaborators in the space ecosystem.",
+  "financial_support": "The S-TIC program does not provide direct financial grants or funding to incubated startups. Support is primarily non-financial, focusing on technical mentorship, infrastructure access, and guidance from ISRO. Any financial support would need to be sourced externally by the startup.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested startups must submit an application through the official ISRO S-TIC portal or designated incubation centre. 2. Applications are reviewed by a selection committee based on innovation, feasibility, and relevance to space technology. 3. Shortlisted candidates may be invited for presentations or interviews. 4. Selected startups are offered incubation support, including access to ISRO facilities and mentorship. 5. The incubation period is typically for a fixed duration, during which the startup works on developing its technology or solution under ISRO guidance.",
+  "application_portal_url": "https://www.isro.gov.in/s-tic",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "Detailed project proposal or business plan",
+    "Proof of concept or prototype details (if available)",
+    "Team profile and qualifications",
+    "Any relevant intellectual property details",
+    "Declaration of originality and compliance with guidelines"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year, subject to availability of incubation slots and review cycles.",
+  "implementing_agency": "Indian Space Research Organisation (ISRO)",
+  "contact_details": "",
+  "caveats": [
+    "Incubation support is non-financial and does not include direct funding",
+    "Selection is competitive and based on alignment with ISRO's technology priorities",
+    "Incubation period is limited and subject to periodic review",
+    "Startups must comply with ISRO's safety, security, and confidentiality guidelines",
+    "Intellectual property rights arising from the incubation may be subject to specific agreements"
+  ],
+  "source_cited_notes": [
+    "https://www.isro.gov.in/s-tic"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:42:46.115834+00:00"
+}

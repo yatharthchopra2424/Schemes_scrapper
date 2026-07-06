@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-55",
+  "scheme_name": "National Rural Livelihood Mission (NRLM)",
+  "scheme_url": "https://aajeevika.gov.in/nrlm",
+  "ministry_or_category": "Rural Development",
+  "overview": "The National Rural Livelihood Mission (NRLM), also known as Aajeevika, is a flagship poverty alleviation program of the Ministry of Rural Development, Government of India. It aims to reduce poverty by enabling poor households to access gainful self-employment and skilled wage employment opportunities through the mobilization of rural poor into Self Help Groups (SHGs) and their federations. The mission focuses on building strong institutional platforms of the poor, enhancing livelihoods through skill development, access to credit, and market linkages, and promoting social inclusion and empowerment, particularly of women and marginalized groups.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural poor",
+    "women",
+    "SC/ST",
+    "marginalized communities",
+    "Self Help Groups (SHGs)",
+    "rural youth"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Mobilize rural poor households into Self Help Groups (SHGs) and their federations",
+    "Enable access to formal credit, livelihoods, and social security entitlements",
+    "Enhance livelihoods through skill development, capacity building, and technology transfer",
+    "Promote financial inclusion and linkage with banks",
+    "Support farm and non-farm livelihood activities",
+    "Strengthen institutions of the poor and promote social inclusion",
+    "Facilitate market linkages and value addition for rural producers",
+    "Empower women and vulnerable sections through leadership and decision-making roles"
+  ],
+  "eligibility": "The program targets rural poor households, particularly those identified through the Socio Economic and Caste Census (SECC) 2011. Eligibility is based on poverty and social vulnerability criteria, with priority given to women, SC/ST, persons with disabilities, and other marginalized groups. Participation is voluntary and facilitated through community mobilization by trained resource persons. Self Help Groups (SHGs) are formed by 10-20 members from similar socio-economic backgrounds, who agree to save regularly and mutually contribute to a common fund.",
+  "benefits": "Benefits include access to revolving fund and community investment fund support, skill training for wage and self-employment, placement assistance, interest subvention on bank loans, subsidies for livelihood activities, infrastructure support for producer groups, market linkages, convergence with other government programs, and social mobilization for empowerment. Non-financial benefits include capacity building, leadership development, access to information and entitlements, and collective bargaining power through SHG federations.",
+  "financial_support": "Financial support is provided through a combination of grants and loans. The Revolving Fund (RF) of up to INR 10,000–50,000 per SHG is provided as a grant to strengthen group corpus. The Community Investment Fund (CIF) is provided as a grant to SHG federations for onward lending to members as loans. Interest subvention is available on bank loans up to INR 3 lakh at 4% per annum for women SHGs. Additional support includes livelihood loans, enterprise development funds, and credit linkage with banks under the SHG-Bank Linkage Programme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify rural poor households through SECC 2011 or participatory identification of poor (PIP). 2. Mobilize and form Self Help Groups (SHGs) of 10–20 members with facilitator support. 3. Train SHGs in group management, savings, and internal lending. 4. Open a joint bank account and begin regular savings. 5. Apply for Revolving Fund (RF) through the SHG federation after 3–6 months of functioning. 6. Upon RF utilization, apply for Community Investment Fund (CIF) via the federation for livelihood investments. 7. Access skill training and placement under Deen Dayal Upadhyaya Grameen Kaushalya Yojana (DDU-GKY) or Rural Self Employment Training Institutes (RSETIs). 8. Link with banks for credit under SHG-Bank Linkage Programme with interest subvention. 9. Participate in producer collectives and market linkages for value chain development.",
+  "application_portal_url": "https://aajeevika.gov.in/",
+  "required_documents": [
+    "Identity proof (Aadhaar/Voter ID/PAN)",
+    "Address proof",
+    "Bank account details (passbook copy)",
+    "SECC 2011 or PIP verification document",
+    "Group formation resolution",
+    "Savings and internal lending records",
+    "Bank account opening documents",
+    "Business plan for livelihood activity (for CIF/RF)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year based on household mobilization and SHG readiness.",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "Email: nrlm@nic.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Benefits are contingent upon SECC 2011 or PIP-based identification of poverty",
+    "SHGs must maintain regular savings and internal lending to qualify for RF/CIF",
+    "CIF is released only to federated SHGs (Village Organizations/Cluster Level Federations)",
+    "Interest subvention is available only to women SHGs on loans up to INR 3 lakh",
+    "Funds are subject to availability and utilization norms as per NRLM guidelines"
+  ],
+  "source_cited_notes": [
+    "https://aajeevika.gov.in/nrlm",
+    "https://aajeevika.gov.in/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:51:22.247995+00:00"
+}

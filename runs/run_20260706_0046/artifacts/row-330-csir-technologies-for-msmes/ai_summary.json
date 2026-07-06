@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-330",
+  "scheme_name": "CSIR Technologies for MSMEs",
+  "scheme_url": "https://www.csir.res.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "CSIR Technologies for MSMEs is a scheme under the Council of Scientific and Industrial Research (CSIR) aimed at facilitating the transfer and adoption of CSIR-developed technologies by Micro, Small, and Medium Enterprises (MSMEs) to enhance their competitiveness, innovation capacity, and industrial growth through technology licensing, technical support, and collaborative R&D.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate transfer of CSIR-developed technologies to MSMEs",
+    "Enhance technological capabilities and competitiveness of MSMEs",
+    "Promote industrial application of CSIR R&D outcomes",
+    "Support innovation and value addition in MSME sector",
+    "Strengthen industry-science linkages for sustainable growth"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises (MSMEs) as defined under the MSMED Act, 2006, that are interested in adopting CSIR-developed technologies for commercialization or process improvement.",
+  "benefits": "Access to CSIR-developed technologies through licensing, technical guidance and support for technology absorption, assistance in scaling up lab-scale processes to industrial scale, joint R&D opportunities, and facilitation of IPR-related matters.",
+  "financial_support": "Financial support varies based on the technology and agreement terms; may include subsidized licensing fees, shared R&D costs, or project-based funding as mutually agreed between CSIR laboratories and the MSME, subject to technical and commercial evaluation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify relevant CSIR technology through the CSIR technology portal or CSIR laboratories. 2. Contact the concerned CSIR laboratory or Technology Business Development Group (TBDG). 3. Discuss technology suitability, terms of transfer, and potential collaboration. 4. Negotiate and sign a technology transfer agreement or MoU. 5. Implement the technology with technical support from CSIR as per the agreement.",
+  "application_portal_url": "https://www.csir.res.in",
+  "required_documents": [
+    "MSME Registration Certificate (Udyam Registration)",
+    "Company Profile and Audited Financial Statements",
+    "Project Proposal outlining intended use of technology",
+    "Authorization Letter from Signatory",
+    "Details of Existing Infrastructure and Technical Capability"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year based on technology availability and mutual agreement.",
+  "implementing_agency": "Council of Scientific and Industrial Research (CSIR)",
+  "contact_details": "Email: techtransfer@csir.res.in | Phone: +91-11-25843504",
+  "caveats": [
+    "Technology transfer is subject to mutual agreement and IPR terms negotiated with CSIR laboratories",
+    "Availability of specific technologies depends on ongoing R&D and lab priorities",
+    "Financial and technical support is case-specific and not standardized",
+    "MSMEs must demonstrate adequate absorptive capacity and commercialization potential"
+  ],
+  "source_cited_notes": [
+    "https://www.csir.res.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:28:25.246907+00:00"
+}

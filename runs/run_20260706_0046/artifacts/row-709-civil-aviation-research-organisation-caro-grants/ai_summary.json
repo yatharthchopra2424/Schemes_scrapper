@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-709",
+  "scheme_name": "Civil Aviation Research Organisation (CARO) Grants",
+  "scheme_url": "https://www.civilaviation.gov.in",
+  "ministry_or_category": "Aerospace",
+  "overview": "The Civil Aviation Research Organisation (CARO) Grants scheme is a research funding initiative under the Ministry of Civil Aviation aimed at promoting research and innovation in civil aviation. The scheme supports research projects related to aviation safety, technology, infrastructure, and operations. It provides financial assistance to eligible institutions and researchers to undertake civil aviation research projects.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "research institutions",
+    "academic institutions",
+    "researchers",
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote research and innovation in civil aviation sector",
+    "Support development of indigenous aviation technologies",
+    "Enhance aviation safety through research initiatives",
+    "Foster collaboration between industry, academia, and government",
+    "Develop indigenous solutions for aviation challenges",
+    "Support skill development and capacity building in aviation research"
+  ],
+  "eligibility": "Eligible applicants include recognized research institutions, academic institutions, universities, and startups engaged in civil aviation research. Applicants must be Indian entities with relevant expertise in aviation domain. Projects must align with national aviation priorities and demonstrate clear outcomes.",
+  "benefits": "Financial support for research projects, access to ministry data and facilities, collaboration opportunities with aviation stakeholders, technical guidance from ministry experts, and potential for technology transfer and commercialization of research outcomes.",
+  "financial_support": "Financial support is provided as grants-in-aid for approved research projects. The quantum of support varies based on project scope and duration, typically covering equipment, consumables, personnel, and travel expenses. Funds are disbursed in installments based on project milestones and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify research topic aligned with civil aviation priorities\n2. Prepare detailed project proposal with objectives, methodology, budget, and timeline\n3. Submit application through the Ministry of Civil Aviation's official portal\n4. Application undergoes technical review by expert committee\n5. Shortlisted candidates may be invited for presentation/interview\n6. Final selection and sanction order issued by the Ministry\n7. Funds released in installments upon submission of utilization certificates and progress reports",
+  "application_portal_url": "https://www.civilaviation.gov.in",
+  "required_documents": [
+    "Project proposal document",
+    "Budget estimate with justification",
+    "Institutional registration certificate",
+    "PAN card of the institution",
+    "Bank account details",
+    "CVs of principal investigators",
+    "Letters of collaboration (if applicable)",
+    "Ethical clearance certificates (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year subject to budget availability",
+  "implementing_agency": "Ministry of Civil Aviation, Government of India",
+  "contact_details": "Email: moca@nic.in | Helpline: Not specified in evidence",
+  "caveats": [
+    "Funds are subject to availability of budget allocation",
+    "Projects must be completed within the stipulated timeline",
+    "Utilization certificates and audited statements are mandatory for fund release",
+    "Intellectual property rights arising from the project shall be governed by ministry guidelines",
+    "Mid-term and final reviews are mandatory for continued funding"
+  ],
+  "source_cited_notes": [
+    "https://www.civilaviation.gov.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:13:48.471499+00:00"
+}

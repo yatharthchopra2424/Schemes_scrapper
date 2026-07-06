@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-665",
+  "scheme_name": "National Accreditation Board for Testing & Calibration Labs (NABL)",
+  "scheme_url": "https://www.nabl-india.org",
+  "ministry_or_category": "Certification & Standards",
+  "overview": "The National Accreditation Board for Testing & Calibration Laboratories (NABL) is an autonomous body under the Quality Council of India (QCI) that provides voluntary accreditation services to testing laboratories, calibration laboratories, medical testing laboratories, proficiency testing providers (PTP), reference material producers (RMP), and biobanks in accordance with international standards such as ISO/IEC 17025, ISO 15189, ISO/IEC 17043, ISO 17034, and ISO 20387. NABL ensures technical competence and impartiality of conformity assessment bodies through third-party assessment and maintains international recognition via ILAC and APAC Mutual Recognition Arrangements (MRAs). It operates as a self-financing entity, charging fees to accredited bodies for operational sustainability.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "testing laboratories",
+    "calibration laboratories",
+    "medical testing laboratories",
+    "proficiency testing providers (PTP)",
+    "reference material producers (RMP)",
+    "biobanks"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a scheme of conformity assessment body accreditation involving third-party assessment of technical competence",
+    "To strengthen the accreditation system accepted globally by providing high-quality, value-driven services",
+    "To foster APAC/ILAC Mutual Recognition Arrangements (MRAs) to reduce technical barriers to trade",
+    "To empanel competent assessors and create awareness among stakeholders",
+    "To initiate new programs supporting accreditation activities and pursue organisational excellence",
+    "To ensure impartiality and integrity in accreditation operations",
+    "To facilitate acceptance of test/calibration results between countries through MRA partnerships"
+  ],
+  "eligibility": "Accreditation is voluntary and accessible to all testing including medical and calibration laboratories, proficiency testing providers, and reference material producers in India and other countries in the region, regardless of the size of the applicant conformity assessment body (CAB) or its membership in any association or group, or the number of CABs already accredited by NABL. For assessor training, candidates must be aged 38-55 years, hold a Bachelor’s degree in Engineering/Technology or Master’s in Science (or postgraduate/Ph.D. in relevant medical fields for medical testing), and have a minimum of ten years of experience in the relevant field, including five years at supervisory level or above.",
+  "benefits": "Formal recognition of competence by NABL in accordance with international standards provides international recognition, access to global markets, time and cost efficiency, enhanced customer confidence and satisfaction, robust quality management systems, continual improvement, better operational control, assurance of accurate and reliable results, cost reduction, prevention of losses due to defects, eligibility to participate in tenders requiring independently verified laboratories, potential increase in business, and savings from reduced or eliminated need for retesting in another country. Accredited laboratories' results are used by regulators for public benefit in areas such as environmental protection, food safety, clean water, energy, health, and social care.",
+  "financial_support": "NABL is self-financing and charges fees to conformity assessment bodies to cover operational costs and other expenditure. Accreditation involves payment of fees by applicants, which vary based on the type and scope of accreditation sought. Detailed fee structures are available in NABL 100A 'General Information Brochure'.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant accreditation standard and scope (e.g., ISO/IEC 17025 for testing/calibration labs, ISO 15189 for medical labs). 2. Refer to the appropriate NABL document (e.g., NABL 100B for accreditation process, NABL 120 for product group classification). 3. Prepare the application as per the specific criteria document (e.g., NABL 112A for medical labs, NABL 180 for PTP, NABL 190 for RMP). 4. Submit the application online via the NABL portal (hard copies not accepted). 5. Await selection and communication from NABL post-evaluation. 6. Upon selection, submit required documents and course/material details as communicated. 7. Undergo on-site assessment by NABL-empanelled assessors. 8. Address any non-conformities. 9. Receive accreditation decision and certificate upon compliance.",
+  "application_portal_url": "https://www.nabl-india.org",
+  "required_documents": [
+    "Application form (specific to accreditation type, e.g., NABL 180 for PTP, NABL 190 for RMP)",
+    "Certificate of Incorporation / Registration of the entity",
+    "PAN of the entity",
+    "Quality manual and procedures",
+    "Organizational structure and personnel details",
+    "Equipment calibration records",
+    "Internal audit and management review records",
+    "Proof of competence of technical personnel",
+    "Scope of accreditation sought",
+    "Any additional documents as per specific criteria (e.g., NABL 112A, NABL 120)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "National Accreditation Board for Testing & Calibration Laboratories (NABL), Constituent Board of Quality Council of India (QCI)",
+  "contact_details": "Email: Not explicitly stated in evidence | Helpline: Not explicitly stated in evidence",
+  "caveats": [
+    "Accreditation is voluntary and not mandatory unless required by regulation or contract",
+    "The selection of assessors for training is at the sole discretion of NABL based on current/anticipated requirements",
+    "No hard copy applications are accepted; only online submissions are considered",
+    "Accreditation must be maintained through periodic surveillance and re-accreditation as per NABL 131",
+    "Misuse of NABL symbol or false claim of accreditation is prohibited under NABL 133"
+  ],
+  "source_cited_notes": [
+    "https://nabl-india.org/",
+    "https://nabl-india.org/about-nabl/",
+    "https://nabl-india.org/introduction/",
+    "https://nabl-india.org/nabl-accreditation-process-scope/",
+    "https://nabl-india.org/assessors-training-course-eligibility-selection-criteria/",
+    "https://nabl-india.org/assessors-training-course-apply-for-training/",
+    "https://nabl-india.org/benefits-of-accreditation/",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Disciplines-of-Calibration-Laboratories-.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Medical-Testing.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Proficiency-Testing.pdf",
+    "https://nabl-india.org/wp-content/uploads/2025/09/Reference-Material-Producers.pdf",
+    "https://nabl-india.org/wp-content/uploads/2023/11/write-up_testing_09-01-20.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:40:45.060177+00:00"
+}

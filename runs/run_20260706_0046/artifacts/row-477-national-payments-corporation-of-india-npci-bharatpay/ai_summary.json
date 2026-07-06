@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-477",
+  "scheme_name": "National Payments Corporation of India (NPCI) BharatPay",
+  "scheme_url": "https://www.npci.org.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "National Payments Corporation of India (NPCI) BharatPay is a digital payments initiative by NPCI, an RBI-regulated entity, aimed at enabling seamless and secure digital transactions across India. It encompasses platforms like UPI, RuPay, BHIM, and NACH to promote financial inclusion and modernize retail payments. The scheme supports interoperable, real-time payments for individuals, merchants, and businesses through a robust, scalable infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "individuals",
+    "merchants",
+    "businesses",
+    "banks",
+    "fintech companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create a robust payment and settlement infrastructure in India",
+    "To promote financial inclusion through accessible digital payment systems",
+    "To enable interoperable, real-time retail payments across banks and platforms",
+    "To support indigenous payment systems like RuPay and UPI for domestic and global use",
+    "To ensure safety, security, and sustainability of national retail payment systems",
+    "To foster innovation in digital payments through partnerships and technology adoption"
+  ],
+  "eligibility": "Eligibility varies by product: For UPI, any individual with a bank account linked to a UPI-enabled app can participate; for RuPay, banks issuing cards must be NPCI members; for BHIM, users need a bank account and mobile number; for NACH, institutions must register as corporate or retail users with participating banks.",
+  "benefits": "Benefits include instant 24x7 fund transfers, low transaction costs, wide acceptance across merchants and banks, interoperability, enhanced security via UPI PIN and biometric authentication, support for bill payments, merchant QR codes, international usage through UPI One World, and access to transaction history and complaint redressal mechanisms.",
+  "financial_support": "NPCI BharatPay does not provide direct financial support such as grants or loans. It operates as a non-profit infrastructure provider facilitating digital transactions. Revenue is generated through transaction fees paid by member banks and participants, which are used to sustain operations and innovation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. For UPI: Download a UPI-enabled bank app, register using mobile number linked to bank account, set UPI PIN, and link bank account. 2. For RuPay: Approach a member bank to issue a RuPay debit/credit card. 3. For BHIM: Download BHIM app, verify mobile number, link bank account, set UPI PIN. 4. For merchants: Register with a bank or payment gateway to accept UPI/QR payments. 5. For NACH: Corporates/institutions must register with their bank, submit mandate forms, and complete onboarding via NPCI’s NACH portal.",
+  "application_portal_url": "https://www.npci.org.in",
+  "required_documents": [
+    "Bank account details",
+    "Mobile number linked to bank account",
+    "KYC documents (Aadhaar, PAN, etc.) as per bank requirements",
+    "For merchants: Business registration proof, bank account, PAN",
+    "For NACH: Corporate registration, authorized signatory details, mandate template"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Users and entities can onboard anytime.",
+  "implementing_agency": "National Payments Corporation of India (NPCI)",
+  "contact_details": "Email: info@npci.org.in | Helpline: 1800-120-1740 (DigiSaathi)",
+  "caveats": [
+    "Transaction limits apply as per RBI and bank guidelines",
+    "UPI PIN must not be shared; NPCI does not store or access UPI PIN",
+    "Dispute resolution for failed transactions lies with the user’s bank",
+    "International usage via UPI One World is subject to country-specific enablement",
+    "Merchant QR codes must adhere to NPCI brand guidelines"
+  ],
+  "source_cited_notes": [
+    "https://npci.org.in",
+    "https://npci.org.in/purpose-value",
+    "https://npci.org.in/digisaathi",
+    "https://npci.org.in/product/upi/use-npci",
+    "https://npci.org.in/product/nach/all-members"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:49:57.493043+00:00"
+}

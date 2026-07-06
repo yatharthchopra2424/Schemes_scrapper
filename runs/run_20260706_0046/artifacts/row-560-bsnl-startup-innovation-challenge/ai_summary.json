@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-560",
+  "scheme_name": "BSNL Startup & Innovation Challenge",
+  "scheme_url": "https://www.bsnl.co.in",
+  "ministry_or_category": "PSU Support",
+  "overview": "The BSNL Startup & Innovation Challenge is a scheme under the PSU Support category aimed at fostering innovation and supporting startups through BSNL's Integrated Business Solution (IBS) initiatives. It provides a platform for startups to collaborate with BSNL on technology-driven solutions, leveraging BSNL's infrastructure and expertise in areas such as cloud services, IoT, and digital transformation. The scheme encourages startups to become partners in BSNL's ecosystem, offering opportunities for empanelment, revenue sharing, and access to BSNL's enterprise services.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Empower businesses, especially SMEs and startups, by delivering integrated, cost-effective, and technology-driven workspace solutions",
+    "Enhance productivity, simplify operations, ensure data security, and foster a modern, collaborative work environment",
+    "Act as a strategic partner in a company's digital transformation journey",
+    "Provide end-to-end solutions combining advanced technology, workspace automation, and cloud services",
+    "Support national skill development goals through initiatives like Kaushalam",
+    "Enable startups to access BSNL's enterprise services and infrastructure",
+    "Foster innovation and entrepreneurship through partnership models",
+    "Promote digital inclusion and connectivity across India"
+  ],
+  "eligibility": "Startups registered during the current or immediately preceding financial year may be exempted from the turnover requirement of ₹1 Crore average in the last three financial years. Applicants must be legally registered entities in India (Proprietorship Firm / Partnership Firm / LLP / Private Limited Company / Public Limited Company / Startups), possess valid GST Registration and PAN, have PAN India operational capability, and provide a 24x7 Single Point of Contact (SPOC) for service coordination. Depending on service type, required certifications may include ISO/IEC, CERT-In empanelment, MeitY empanelment, and Tier III/IV Data Center certification.",
+  "benefits": "Startups gain access to BSNL's enterprise services portal, opportunity to become empanelled as Integrated Business Solution Partners (IBSP), revenue-sharing models, end-to-end technology solutions, strategic digital partnership, scalability for all business sizes, data security and compliance, and support for digital transformation. Benefits also include access to BSNL's infrastructure, technical support, and collaboration with BSNL's enterprise team.",
+  "financial_support": "The scheme operates on a revenue-sharing model where BSNL collaborates with industry partners through non-exclusive, open-ended Expressions of Interest (EOI). Partnerships operate on a revenue-share model contingent on partners meeting stipulated experience and eligibility requirements. There is no direct grant or loan; financial support is indirect through business opportunities and revenue sharing.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Review eligibility requirements and operational capabilities for becoming an Integrated Business Solution Partner (IBSP). 2. Ensure legal registration in India, GST & PAN compliance. 3. Meet turnover requirement of ₹1 Crore average in last 3 financial years (waived for startups). 4. Confirm PAN India operational capability and 24x7 SPOC/helpdesk. 5. Obtain required certifications (ISO/IEC, CERT-In, MeitY empanelment, Tier III/IV DC) based on service type. 6. Submit application via BSNL's IBS portal. 7. Complete KYC and documentation verification. 8. Await empanelment approval for initial period of TWO (2) Years, extendable to another Two years on year-to-year basis.",
+  "application_portal_url": "https://bsnl.co.in/integrated-business-solution",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST Registration Certificate",
+    "Turnover certificate from Auditors/CA",
+    "Board's/Management's resolution in favor of authorized signatory",
+    "Specimen signature of authorized official attested by Banker",
+    "Latest audited Annual Report",
+    "Technical details of solutions and business plan",
+    "Contact details (Name, mail id, phone no., mobile no., fax no.)",
+    "Undertakings for compliance with eligibility conditions",
+    "Non-Disclosure Undertaking (NDU) on ₹50 stamp paper",
+    "Certificate for eligibility against requirement of eligibility conditions"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Bharat Sanchar Nigam Limited (BSNL)",
+  "contact_details": "Email: ebenquiry@bsnl.co.in | Toll Free Helpline: 1800-425-7007 Mon–Sat, 9 AM – 6 PM",
+  "caveats": [
+    "Empanelment is initially for TWO (2) Years and may be extended to another Two years on year-to-year basis",
+    "Startups must submit proof of DPIIT recognition to claim turnover exemption",
+    "Partners must comply with all applicable norms and directions issued by Regulator (TRAI), Licensor (DOT) and Govt. of India",
+    "Failure to generate minimum topline revenue may result in infrastructure charges not being free of cost",
+    "Additional Bank Guarantees of Rs.20 Lacs each per SMSC deployed per zone may be required for regulatory compliance"
+  ],
+  "source_cited_notes": [
+    "https://bsnl.co.in/integrated-business-solution",
+    "https://bsnl.co.in/bsnlibs2025",
+    "https://bsnl.co.in/eb-services/kaushalam",
+    "https://bsnl.co.in/documents/Connect_360.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:40:32.054982+00:00"
+}

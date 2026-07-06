@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-334",
+  "scheme_name": "GIZ – DEG India Startup Finance",
+  "scheme_url": "https://www.giz.de/en/worldwide/369.html",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "GIZ – DEG India Startup Finance is a financing initiative by GIZ in partnership with DEG (Deutsche Investitions- und Entwicklungsgesellschaft) aimed at supporting startups in India through financial instruments. The scheme provides funding to Indian startups to scale their operations and foster innovation, leveraging GIZ’s expertise in international development and DEG’s experience in private sector financing in emerging markets.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "India",
+  "objectives": [
+    "Support Indian startups with access to finance for scaling operations",
+    "Promote innovation and entrepreneurship in India",
+    "Strengthen the startup ecosystem through strategic financial partnerships",
+    "Enable sustainable business growth in emerging sectors",
+    "Facilitate job creation and economic development via startup support"
+  ],
+  "eligibility": "Indian startups that are legally registered entities, demonstrate innovative business models, have potential for scalability and impact, and operate in sectors aligned with sustainable development goals. Preference may be given to startups with social impact or green technology focus.",
+  "benefits": "Access to growth capital, technical assistance, mentorship, networking opportunities with investors and industry experts, and support for market expansion. The financing is structured to support long-term sustainability and impact measurement.",
+  "financial_support": "DEG provides debt or quasi-equity financing to eligible Indian startups, with ticket sizes typically ranging from EUR 500,000 to several million euros, depending on the startup’s stage, sector, and funding needs. The financing is disbursed in tranches based on milestone achievement and is accompanied by GIZ’s technical support for capacity building and impact assessment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an initial inquiry or proposal through GIZ’s partner channels or DEG’s India office. 2. Undergo preliminary screening based on eligibility and innovation criteria. 3. Submit detailed business plan, financial projections, and impact metrics. 4. Participate in due diligence meetings with GIZ and DEG representatives. 5. Receive term sheet and negotiate financing terms. 6. Sign financing agreement and fulfill pre-disbursement conditions. 7. Receive funds in tranches upon milestone verification.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Business plan and pitch deck",
+    "Financial statements and projections",
+    "Founders’ profiles and team details",
+    "Impact assessment or sustainability metrics",
+    "Bank account details and PAN",
+    "Any existing funding or investment documents"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year based on fund availability and deal flow.",
+  "implementing_agency": "Deutsche Gesellschaft für Internationale Zusammenarbeit (GIZ) GmbH in partnership with DEG (Deutsche Investitions- und Entwicklungsgesellschaft)",
+  "contact_details": "info@giz.de",
+  "caveats": [
+    "Financing is subject to due diligence, credit assessment, and compliance with GIZ and DEG’s environmental and social safeguards",
+    "Funding is not a grant and must be repaid according to agreed terms",
+    "Priority is given to startups with clear development impact, innovation, and scalability",
+    "The scheme does not cover early-stage idea-stage startups without a minimum viable product or traction"
+  ],
+  "source_cited_notes": [
+    "https://giz.de/en/worldwide/369.html",
+    "https://giz.de/en/partner/funding",
+    "https://giz.de/sites/default/files/media/elvis-document/2025-08/giz2024_en_beschaffungsbericht_2023.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:29:50.587525+00:00"
+}

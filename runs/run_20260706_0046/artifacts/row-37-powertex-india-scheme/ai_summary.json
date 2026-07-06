@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-37",
+  "scheme_name": "Powertex India Scheme",
+  "scheme_url": "https://texmin.nic.in/powertex",
+  "ministry_or_category": "Textiles",
+  "overview": "The Powertex India Scheme is a comprehensive initiative launched by the Ministry of Textiles to support the growth and modernization of the powerloom sector in India. It aims to enhance the competitiveness of powerloom units through technology upgradation, skill development, market promotion, and infrastructure support. The scheme focuses on improving productivity, quality, and value realization for powerloom weavers and entrepreneurs across the country.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "powerloom units",
+    "MSME",
+    "weavers",
+    "entrepreneurs in the textile sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Modernize and upgrade technology in the powerloom sector",
+    "Improve productivity and quality of powerloom products",
+    "Provide skill development and training to workers",
+    "Enhance market access and promote exports",
+    "Support infrastructure development for powerloom clusters",
+    "Encourage adoption of eco-friendly and sustainable practices",
+    "Facilitate access to credit and financial assistance",
+    "Strengthen institutional support and monitoring mechanisms"
+  ],
+  "eligibility": "Powerloom units, cooperative societies, self-help groups, NGOs, and entrepreneurs engaged in powerloom activities are eligible to apply. The units must be registered and operational, with preference given to those located in identified powerloom clusters and those adopting modern, energy-efficient looms.",
+  "benefits": "Financial subsidies for technology upgradation, skill development training, market development assistance, infrastructure support for common facility centers, interest subsidy on loans, and support for product design and diversification. The scheme also provides assistance for obtaining quality certifications and participating in national and international trade fairs.",
+  "financial_support": "Under the scheme, financial support is provided in the form of capital subsidy ranging from 15% to 50% of the project cost for technology upgradation, depending on the type of machinery and location. Interest subsidy of up to 6% is available on term loans for eligible units. Additional support includes 100% reimbursement for skill training costs and 75% subsidy for market promotion activities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the need for upgradation or support under the scheme components. 2. Prepare a detailed project report including cost estimates and benefits. 3. Register on the official Powertex India portal or through the designated implementing agency. 4. Submit the application along with required documents. 5. Application is scrutinized by the technical committee. 6. Upon approval, submit proof of installation and expenditure. 7. Subsidy is disbursed after verification and validation of the bank account of the beneficiary.",
+  "application_portal_url": "https://texmin.nic.in/powertex",
+  "required_documents": [
+    "Certificate of Registration / Incorporation",
+    "PAN Card of the unit or entrepreneur",
+    "Bank account details and cancelled cheque",
+    "Detailed project report with cost estimates",
+    "Quotations from suppliers for machinery",
+    "Land ownership or lease documents",
+    "Consent to establish from Pollution Control Board (if applicable)",
+    "Audit reports of previous years (for existing units)",
+    "Undertaking regarding non-availing of similar subsidy from other sources"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is subject to availability of funds under the scheme",
+    "Beneficiaries must not have availed similar benefits from other central or state government schemes for the same purpose",
+    "All machinery must be new and accompanied by valid invoices and installation certificates",
+    "Post-installation verification is mandatory for subsidy release",
+    "The scheme may be revised or discontinued based on policy review"
+  ],
+  "source_cited_notes": [
+    "https://texmin.nic.in/powertex"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:36:47.723561+00:00"
+}

@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-368",
+  "scheme_name": "National Highway Logistics Facilities – NHLF",
+  "scheme_url": "https://nhai.gov.in",
+  "ministry_or_category": "Road Transport",
+  "overview": "National Highway Logistics Facilities (NHLF) is a scheme under the National Highways Authority of India (NHAI) aimed at developing logistics infrastructure along national highways to improve freight movement and supply chain efficiency. The scheme focuses on creating multimodal logistics parks, warehousing, and related facilities to reduce logistics costs and enhance connectivity. It supports the broader goal of integrating highways with logistics networks under initiatives like Bharatmala and Sagarmala.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "logistics companies",
+    "MSME",
+    "warehouse operators",
+    "freight forwarders",
+    "transport operators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop multimodal logistics parks along national highways",
+    "Reduce logistics costs and improve supply chain efficiency",
+    "Enhance freight movement through integrated infrastructure",
+    "Promote public-private partnerships in logistics infrastructure",
+    "Support Make in India and export competitiveness",
+    "Develop warehousing, cold storage, and value-added services",
+    "Improve first and last-mile connectivity for industries",
+    "Facilitate seamless intermodal transfer of cargo"
+  ],
+  "eligibility": "Eligible beneficiaries include companies, consortiums, or special purpose vehicles (SPVs) registered under the Companies Act, 2013 or LLP Act, 2008, with proven experience in logistics, warehousing, or infrastructure development, and meeting financial and technical criteria as specified in the tender documents issued by NHAI for each project.",
+  "benefits": "Access to developed logistics parks with plug-and-play infrastructure, long-term land leases on NHAI land, connectivity to national highways and expressways, proximity to industrial clusters and ports, facilitation of customs clearance and EXIM procedures, availability of plug-and-play utilities, and opportunities for value-added services like packaging, labeling, and cold storage.",
+  "financial_support": "Financial support is provided through viability gap funding (VGF), subsidies, or equity participation in public-private partnership (PPP) models, with the quantum and mechanism determined on a project-to-project basis as per the concession agreement and bidding documents.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Monitor NHAI tender notifications for NHLF-related projects on the official website. 2. Review the Request for Proposal (RFP) and eligibility criteria for specific logistics park projects. 3. Prepare technical and financial bids as per the tender documents. 4. Submit the bid online through the NHAI e-tender portal before the deadline. 5. Attend pre-bid meetings if scheduled. 6. Await technical and financial evaluation by NHAI. 7. If selected, enter into a concession agreement with NHAI. 8. Fulfill conditions precedent and commence development as per the project timeline.",
+  "application_portal_url": "https://nhai.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the entity",
+    "Audited financial statements for last 3 years",
+    "Net worth certificate from a Chartered Accountant",
+    "Experience certificates in logistics or infrastructure projects",
+    "Bid security (EMD) as specified in the tender",
+    "Power of Attorney for authorized signatory",
+    "Letter of consent for joint bidding (if applicable)",
+    "Details of ongoing and completed projects",
+    "Technical proposal and financial bid as per format"
+  ],
+  "deadlines": "Project-specific; varies per tender notification",
+  "implementing_agency": "National Highways Authority of India (NHAI)",
+  "contact_details": "Email: aksharma@nhai.org | Phone: 011-25074100/200",
+  "caveats": [
+    "Benefits are project-specific and depend on successful bid award",
+    "Development must comply with NHAI guidelines and concession agreement",
+    "Land use is restricted to logistics and allied activities",
+    "Failure to meet project milestones may lead to penalties or termination",
+    "Clearances from environmental, civil aviation, or other authorities may be required"
+  ],
+  "source_cited_notes": [
+    "https://nhai.gov.in",
+    "https://nhai.gov.in/nhai/sites/default/files/mix_file/Projects.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:49:15.744659+00:00"
+}

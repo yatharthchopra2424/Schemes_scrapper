@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-263",
+  "scheme_name": "StartUp J&K Initiative",
+  "scheme_url": "https://jkstartupsummit.in",
+  "ministry_or_category": "State Level (J&K)",
+  "overview": "The StartUp J&K Initiative is a state-level program launched by the Government of Jammu and Kashmir to promote entrepreneurship and innovation within the Union Territory. It aims to support early-stage startups through financial assistance, mentorship, and access to incubation facilities. The initiative focuses on creating a conducive ecosystem for youth and aspiring entrepreneurs to launch and scale their ventures.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "youth"
+  ],
+  "geographic_scope": "Jammu and Kashmir only",
+  "objectives": [
+    "Promote innovation and entrepreneurship among the youth of Jammu and Kashmir",
+    "Provide financial support to early-stage startups for product development and market entry",
+    "Establish and strengthen incubation centers across the region",
+    "Offer mentorship and guidance through industry experts and successful entrepreneurs",
+    "Facilitate access to funding networks and investor connects",
+    "Encourage sector-specific innovation in areas like tourism, handicrafts, agriculture, and IT"
+  ],
+  "eligibility": "Applicants must be residents of Jammu and Kashmir. The startup must be registered as a Private Limited Company, LLP, or Partnership Firm under relevant Indian laws. The venture should be innovative, scalable, and have a clear business model. Preference is given to ventures led by women, SC/ST, or differently abled individuals. The startup must not have received more than INR 25 lakhs in funding from other government sources prior to application.",
+  "benefits": "Selected startups receive financial grants, access to state-recognized incubators, mentorship from industry experts, assistance in patent filing and IPR protection, support for participation in national and international startup events, and help in connecting with angel investors and venture capital firms. Non-financial benefits include office space, legal and accounting support, and training workshops.",
+  "financial_support": "The initiative provides a one-time grant of up to INR 10 lakhs per eligible startup for prototype development, product testing, and initial market traction. The grant is disbursed in tranches based on milestone achievement and is managed through the State Innovation and Startup Policy framework. No equity is taken by the government in return for the grant.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 10 lakhs",
+  "application_process": "1. Visit the official StartUp J&K portal at https://jkstartupsummit.in 2. Register as a new user by providing basic details and creating a login 3. Log in and fill out the online application form with startup details, business model, and financial projections 4. 4. Upload required documents including Certificate of Incorporation, PAN, Aadhaar of founders, and a detailed pitch deck 5. Submit the application and await preliminary screening 6. Shortlisted applicants will be invited for a pitch presentation before the selection committee 7. Final selection will be based on innovation, feasibility, scalability, and team strength 8. Approved startups will receive a sanction letter and grant disbursement will begin post-agreement signing",
+  "application_portal_url": "https://jkstartupsummit.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the startup",
+    "Aadhaar cards of all founders/directors",
+    "Detailed pitch deck or business plan",
+    "Bank account details of the startup",
+    "Proof of residence of founders in Jammu and Kashmir",
+    "Declaration of no prior government funding exceeding INR 25 lakhs",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Applications are accepted twice a year — typically in April and October. Exact dates are announced on the portal each cycle.",
+  "implementing_agency": "Department of Information Technology, Government of Jammu and Kashmir",
+  "contact_details": "Email: startup@jktit.gov.in | Phone: 0191-2566080",
+  "caveats": [
+    "Grant is disbursed in stages based on milestone verification",
+    "Startup must maintain regular progress reports and financial statements",
+    "Funds must be utilized strictly for the approved business purpose",
+    "Misuse of funds may lead to recovery and blacklisting",
+    "The grant is non-transferable and cannot be pledged or mortgaged",
+    "Beneficiaries must participate in at least two mentorship sessions per quarter"
+  ],
+  "source_cited_notes": [
+    "https://jkstartupsummit.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:41:43.636753+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-672",
+  "scheme_name": "Postal Life Insurance (PLI) for MSMEs",
+  "scheme_url": "https://pliindia.gov.in",
+  "ministry_or_category": "Postal & Logistics",
+  "overview": "Postal Life Insurance (PLI) for MSMEs is a government-backed life insurance scheme offered through India Post, designed to provide affordable insurance coverage to micro, small, and medium enterprises and their employees. It offers various insurance plans with competitive premiums and benefits, aiming to enhance financial security and social welfare within the MSME sector. The scheme leverages the extensive postal network to ensure wide accessibility, especially in semi-urban and rural areas.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "employees of MSMEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide affordable life insurance coverage to MSMEs and their workforce",
+    "Enhance financial inclusion through accessible insurance products via postal network",
+    "Promote long-term savings and risk mitigation among small business owners",
+    "Extend social security benefits to underserved segments of the economy",
+    "Utilize India Post’s infrastructure for last-mile delivery of insurance services"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises (MSMEs) as defined under the MSMED Act, 2006, and their employees (including proprietors, partners, and directors) are eligible to enroll in Postal Life Insurance (PLI) schemes. The scheme is also available to individuals employed in government and semi-government organizations, but under this context, MSME-specific enrollment is facilitated through employer or self-enrollment routes where applicable.",
+  "benefits": "Financial benefits include life cover on death, maturity benefits, surrender value, and loan facility against policy. Non-financial benefits include tax relief under Section 80C of the Income Tax Act, bonus accruals, and peace of mind through risk coverage. Policies offer flexible premium payment options and are backed by the Government of India, ensuring high claim settlement reliability.",
+  "financial_support": "Postal Life Insurance provides financial support in the form of life insurance proceeds upon death or maturity, surrender value after a minimum lock-in period, and the ability to avail loans up to 80-90% of the surrender value. Premiums are subsidized compared to private market rates, and bonuses are declared periodically by the Government of India, enhancing returns. The exact quantum depends on the plan, sum assured, age, and policy term.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest post office or access the PLI India portal (pliindia.gov.in). 2. Obtain and fill out the relevant PLI proposal form based on the desired plan (e.g., Whole Life, Endowment, etc.). 3. Submit proof of age, identity, and employment, and address verification documents. 4. Undergo a medical examination if required based on age and sum assured. 5. Pay the initial premium via cash, cheque, or digital mode at the post office. 6. Receive the policy document upon acceptance and premium realization.",
+  "application_portal_url": "https://pliindia.gov.in",
+  "required_documents": [
+    "Proof of age (Birth Certificate, School Leaving Certificate, etc.)",
+    "Proof of identity (Aadhaar, PAN, Voter ID, Passport)",
+    "Proof of address (Utility bill, Aadhaar, Passport)",
+    "Employment proof or authorization from employer (for group enrollment)",
+    "Recent passport-sized photographs",
+    "Medical examination report (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Department of Posts, Ministry of Communications",
+  "contact_details": "Email: info@pliindia.gov.in | Helpline: 1800-266-6868",
+  "caveats": [
+    "Loan facility is available only after acquiring a minimum surrender value (usually after 3 years).",
+    "Surrender before maturity may attract penalties and reduced returns.",
+    "Bonus rates are declared annually by the Government and are not guaranteed.",
+    "Certain high-risk occupations may face restrictions or higher premiums.",
+    "Policy lapses if premiums are not paid within the grace period."
+  ],
+  "source_cited_notes": [
+    "https://pliindia.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:41:50.755239+00:00"
+}

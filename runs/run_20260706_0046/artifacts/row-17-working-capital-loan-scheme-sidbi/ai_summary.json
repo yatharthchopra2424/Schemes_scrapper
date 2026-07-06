@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-17",
+  "scheme_name": "Working Capital Loan Scheme (SIDBI)",
+  "scheme_url": "https://www.sidbi.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The Working Capital Loan Scheme by SIDBI provides collateral-free working capital support to MSMEs through digital platforms like DigiCash and GST Sahay, enabling quick sanction within 48 hours. It is designed to address short-term liquidity needs for raw material purchases, credit sales, and operational expenses. The scheme leverages invoice-based financing and digital public infrastructure for seamless, paperless processing. It targets existing SIDBI customers who are GST and Udyam registered with at least two years of business operations and positive cash accruals.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME",
+    "micro enterprises",
+    "small enterprises",
+    "existing SIDBI customers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide cash flow-based financing for purchase of raw materials or credit sales",
+    "To enable 'on tap' working capital through invoice-based financing via GST Sahay App",
+    "To offer collateral-free credit with quick disbursement and attractive interest rates",
+    "To support GST and Udyam registered micro and small enterprises with 2+ years of operations",
+    "To facilitate digital, straight-through processing using OCEN and Account Aggregator frameworks",
+    "To improve liquidity and cash flow management for MSMEs",
+    "To enable financing against purchase or sales invoices with up to 90% of invoice value processed"
+  ],
+  "eligibility": "Existing SIDBI customers who are Micro & Small Enterprises with GST and Udyam Registration mandatory, 2 years of business operations, and cash accruals in the last audited financial year.",
+  "benefits": "Collateral-free working capital financing; quick disbursement; attractive interest rates; digital, straight-through process; end-to-end digital execution; invoice-based financing for purchases (PIBF) or sales (SIBF); up to 100% of purchase invoice value or 90% of sales invoice value processed; direct payment to supplier or customer's bank account; NACH mandate for repayment; use of Digital Public Infrastructure (India Stack) including Aadhaar, UPI, GST, and open API systems.",
+  "financial_support": "The scheme provides need-based working capital finance with a maximum credit limit of up to ₹50 lakh. For Purchase Invoice Based Financing (PIBF), 100% of the invoice value is processed and paid to the supplier’s bank account. For Sales Invoice Based Financing (SIBF), up to 90% of the invoice value is processed and paid directly to the customer’s bank account. Repayment is made by the customer along with applicable interest on the due date.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Registration & KYC 2. Sanction & Acceptance of limit/loan 3. Digital Document Execution & NACH mandate 4. Disbursement",
+  "application_portal_url": "https://sidbi.in/home-product",
+  "required_documents": [
+    "GST Registration",
+    "Udyam Registration",
+    "Proof of 2 years of business operations",
+    "Last audited financial statement showing cash accruals",
+    "Purchase or Sales Invoice (as applicable)",
+    "KYC documents",
+    "Bank account details for NACH mandate"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "Toll Free Number: 180-022-6753 | +91 86930 33333",
+  "caveats": [
+    "Available only to existing SIDBI customers",
+    "Mandatory GST and Udyam Registration",
+    "Minimum 2 years of business operations required",
+    "Cash accruals in last audited financial year required",
+    "Maximum credit limit capped at ₹50 lakh",
+    "For Sales Invoice Based Financing (SIBF), only up to 90% of invoice value is financed"
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/head/uploads/other_loans_document/GST Sahay  Invoice based financing to SIDBI Customers.pdf",
+    "https://sidbi.in/home-product",
+    "https://sidbi.in/en/home-product"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:26:58.795399+00:00"
+}

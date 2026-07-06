@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-464",
+  "scheme_name": "Sustainable Finance for Green MSMEs (SIDBI Green Finance)",
+  "scheme_url": "https://www.sidbi.in/green",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "Sustainable Finance for Green MSMEs (SIDBI Green Finance) is a loan scheme aimed at supporting MSMEs in adopting green technologies and sustainable practices. It provides financial assistance for projects related to energy efficiency, renewable energy, pollution control, and other environmentally friendly initiatives. The scheme is part of SIDBI's broader efforts to promote sustainable development within the MSME sector through targeted lending and capacity building.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote energy saving in MSMEs in India",
+    "Reduce greenhouse gas emissions, especially CO2, to mitigate climate change",
+    "Support MSMEs in development, up-scaling, demonstration, and commercialization of innovative technology-based projects",
+    "Enhance awareness of climate control benefits among MSE clusters",
+    "Provide adequate and affordable green finance for clean production and energy-efficient technologies"
+  ],
+  "eligibility": "MSME units in the manufacturing or services sector. Applicant unit should be in operation for at least three years and should have earned cash profit in the last two years of operation and should not be in default to any bank/FI. Proposal should be in the range of C1-C8. The unit should have undergone the process of Detailed Energy Audit (DEA) through a technical agency/consultant having BEE certified Energy Auditors. Further, the Detailed Project Report (DPR) prepared by the technical agency/consultant should have been vetted by EEC, SIDBI. The unit should not have availed Performance Linked Grant under the WB-GEF Project for the proposed EE Project. The unit should be in compliance with the Environment & Social Management Framework.",
+  "benefits": "Financial products that enable climate and environment-friendly investments. Includes end-to-end digital processes, quick disbursement, collateral-free financing, and support for energy-saving measures. The scheme promotes investment in clean production and energy-efficient technologies under bilateral lines of credit from international agencies such as JICA, AFD, and KfW. It also enhances awareness of climate control benefits among MSE clusters.",
+  "financial_support": "Upto 90% of the project cost with minimum loan amount of ₹10 lakh and maximum loan amount not to exceed ₹150 lakh per eligible borrower. The repayment period including initial moratorium period of up to 6 months shall not be more than 36 months for loans up to ₹50 lakh and 60 months for loans beyond ₹50 lakh. Minimum promoter's contribution of 10% of the project cost. Interest rate as per internal rating. Security includes hypothecation of assets created under the project, collateral security where necessary, and CGTMSE cover if available.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. After the Detailed Energy Audit, the prospective borrower shall submit the Detailed Project Report (DPR) to SIDBI for its vetting by EEC. 2. If required, the sample format of the DPR shall be made available by EEC. 3. The Borrower shall submit application to SIDBI BOs along with a copy of the DPR vetted by EEC. 4. Eligible amount of capital subsidy under CLCSS, TEQUP, etc. shall also be sanctioned along with the loan as per prevalent guidelines. 5. Disbursement shall be made after compliance of terms & conditions of the sanction stipulated in the LoI and documentation as per the extant guidelines for DCS.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Energy Audit (DEA) report",
+    "Detailed Project Report (DPR)",
+    "Proof of business operation for at least three years",
+    "Financial statements showing cash profit in last two years",
+    "No default certificate from banks/FIs",
+    "Proposal in range C1-C8",
+    "Compliance certificate with Environment & Social Management Framework",
+    "Undertaking of not having availed Performance Linked Grant under WB-GEF"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "",
+  "caveats": [
+    "The unit should not have availed Performance Linked Grant under the WB-GEF Project for the proposed EE Project",
+    "Loan amount is capped at ₹150 lakh per borrower",
+    "Promoter must contribute minimum 10% of project cost",
+    "Repayment tenure capped at 60 months for loans beyond ₹50 lakh"
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/head/uploads/other_loans_document/3. Financing Schemes for Sustainable Development.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:50:18.175994+00:00"
+}

@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-845",
+  "scheme_name": "PM Retail Credit Guarantee Scheme",
+  "scheme_url": "https://www.ncgtc.in",
+  "ministry_or_category": "Retail & Consumer",
+  "overview": "The PM Retail Credit Guarantee Scheme is not explicitly mentioned in the provided evidence. The evidence details various credit guarantee schemes managed by the National Credit Guarantee Trustee Company (NCGTC), such as the Emergency Credit Line Guarantee Scheme (ECLGS) 5.0, Credit Guarantee Scheme for Start-ups (CGSS), Mutual Credit Guarantee Scheme for MSMEs (MCGS-MSME), and others. These schemes provide collateral-free loans and guarantee coverage to eligible borrowers across sectors like MSMEs, startups, exporters, and housing. The NCGTC, a wholly owned company of the Department of Financial Services, Ministry of Finance, administers these schemes to strengthen institutional credit flow and promote financial inclusion.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "exporters",
+    "microfinance institutions",
+    "urban local bodies",
+    "low-income housing beneficiaries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide guarantee coverage to eligible member institutions for funding provided by them to finance eligible startups",
+    "To enable 100% guaranteed collateral free loans up to Rs 50 crore to eligible exporters to meet short term liquidity challenges",
+    "To provide guarantee coverage to Member Lending Institutions for term loan assistance of up to Rs.100 crore to eligible MSMEs for purchase of equipment/machinery",
+    "To support borrowers by encouraging MLIs to provide additional working capital term loans for business continuity and stability during exceptional circumstances",
+    "To create an enabling environment for sanctioning housing loans to weaker sections of society and enhance credit accessibility",
+    "To provide guarantee coverage for term loan assistance to Urban Local Bodies for projects under Urban Challenge Fund"
+  ],
+  "eligibility": "Eligibility varies by scheme. For CGSS: Startup as recognized by DPIIT, not in default to any lending/investing institution, and not classified as Non-Performing Asset as per RBI guidelines. For MCGS-MSME: MSME unit with valid Udyam Registration, not an NPA with any lender, minimum cost of equipment/machinery is 60% of project cost. For ECLGS 5.0: MSMEs/Non-MSMEs (except Airline sector) with fund-based working capital limits from MLIs as on 31.03.2026, credit facilities categorized as 'standard' (excluding SMA-2), and not having availed additional credit under CGSE beyond the limit. For CRGFTLIH: Borrowers belonging to EWS and LIG categories with annual household incomes up to ₹3 lakh for EWS and ₹6 lakh for LIG.",
+  "benefits": "Benefits include collateral-free loans, guarantee coverage ranging from 50% to 100% of amount in default depending on the scheme, access to working capital and term loans, support for business continuity, enhanced credit accessibility for weaker sections, and facilitation of loans for equipment purchase, housing, exports, and skill development. Specific schemes offer additional benefits such as nil guarantee fees in the first year, interest rate caps, and extended tenures.",
+  "financial_support": "Financial support varies by scheme. For CGSS: Maximum guarantee cover per borrower is up to Rs.20 crore. For MCGS-MSME: Quantum of assistance is Rs 100 Crore for general MSMEs and Rs 20 Crore for well-run exporter MSMEs. For ECLGS 5.0: MSMEs/Non-MSMEs (except Airline sector) up to 20% of peak fund-based working capital outstanding during Q4 FY 2025–26, with a maximum of ₹100 crore per borrower; Airline sector up to 100% of total peak credit outstanding, with a maximum of ₹1,500 crore per borrower. For CRGFTLIH: Quantum of assistance is construction and purchase of first house/dwelling unit involving a housing loan amount not exceeding Rs 20 lakh. For CRGSS: Maximum guarantee cover is ₹7 crore.",
+  "fund_size_crores": "97777.50",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Member Lending Institutions (MLIs) must submit loan proposal details every quarter by end of next consecutive quarter to avail guarantee cover. 2. MLIs need to upload loan details on the SURGE portal of NCGTC and pay applicable guarantee fee. 3. Execute an undertaking format as per Annexure II, agreeing to the scheme guidelines. 4. Ensure compliance with eligibility criteria such as recoverable loan payments, intended use of loan, and proper mortgaging of assets. 5. For claim invocation, MLIs must submit application in specified form and furnish required information to NCGTC.",
+  "application_portal_url": "https://www.jansamarth.in/",
+  "required_documents": [
+    "Loan proposal details",
+    "Undertaking format (Annexure II)",
+    "Resolution from Board of Directors approving enrolment as member under the scheme",
+    "Documents relating to eligible credit facilities covered under the Scheme",
+    "Affidavits or other documents from borrowers confirming eligibility",
+    "Statement of outstanding balances with break-up of principal and interest/other expenses",
+    "Detailed statement or statements and relevant documents for claim invocation"
+  ],
+  "deadlines": "Rolling basis — applications are accepted year-round for most schemes, though some have specific end dates (e.g., ECLGS 5.0 applicable till guarantees for Rs.2,55,000 crore are issued or 31.03.2027, whichever is earlier; CGSMFI-2.0 LIVE till 31 August 2026).",
+  "implementing_agency": "National Credit Guarantee Trustee Company Ltd (NCGTC), a wholly owned company of the Department of Financial Services, Ministry of Finance, Government of India",
+  "contact_details": "Email: Not explicitly provided in evidence | Helpline: Not explicitly provided in evidence",
+  "caveats": [
+    "Guarantee fee once paid by MLI to Trust is non-refundable, except in case of excess remittance",
+    "MLI shall not be allowed to make any claim during the lock-in period of 24 months under any circumstance",
+    "For ECLGS 5.0, any amount beyond ₹1,000 crore and up to ₹1,500 crore for airline sector shall be permitted only with proportionate equity contribution from promoters/owners",
+    "The scheme would be available for a period of 4 years from the date of issue of guidelines or till cumulative guarantees of Rs.7 lakh crore are issued, whichever is earlier (for MCGS-MSME)",
+    "Guarantee cover for CRGSS is capped at 70% of loan amount or ₹7 crore for first project, and 50% or ₹7 crore for subsequent projects"
+  ],
+  "source_cited_notes": [
+    "https://ncgtc.in/en/Organization",
+    "https://ncgtc.in/en/product-details/CGSS/Credit-Guarantee-Scheme-for-Start-ups-(CGSS)",
+    "https://ncgtc.in/en/product-details/MCGSMSME/Mutual-Credit-Guarantee-Scheme-for-MSMEs-(MCGS-MSME)",
+    "https://ncgtc.in/en/product-details/ECLGS5/Emergency-Credit-Line-Guarantee-Scheme-(ECLGS)-5.0",
+    "https://ncgtc.in/en/product-details/CRGFSLIH/Credit-Risk-Guarantee-Scheme-for-Low--Income-Housing-(CRGFSLIH)",
+    "https://ncgtc.in/en/product-details/CRGSS/Credit-Repayment-Guarantee-Sub-Scheme-(CRGSS)-under-Urban-Challenge-Fund-(UCF)",
+    "https://ncgtc.in//content/products\\0\\20250121\\SPOC_FORM_0bef1150a5.pdf",
+    "https://ncgtc.in//content/products\\0\\20260316\\NCGTC_Undertaking_Format_a1b8303fd5.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:20:46.503860+00:00"
+}

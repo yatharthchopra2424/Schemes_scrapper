@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-789",
+  "scheme_name": "DBT Wellcome India Alliance Research Grants",
+  "scheme_url": "https://www.indiaalliance.org",
+  "ministry_or_category": "HealthTech Startups",
+  "overview": "The DBT Wellcome India Alliance Research Grants, administered by the DBT/Wellcome Trust India Alliance (India Alliance), is a Cabinet-approved Biomedical Research Career Programme (BRCP) established in 2009 to strengthen and advance biomedical research in India. It supports researchers across career stages through fellowships, collaborative grants, and research management initiatives, aiming to drive discovery and innovation while building equitable research capacity. The programme is funded by the Department of Biotechnology (DBT), India, and Wellcome Trust (WT), UK, with Phase-III approved in October 2025 at a total cost of ₹1500 Crore (DBT:WT contributions in 2:1 ratio) for FY 2025/26 to 2030/31, followed by a service period through 2037/38.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "researchers",
+    "early-career scientists",
+    "intermediate researchers",
+    "senior scientists",
+    "clinicians",
+    "public health researchers",
+    "biomedical scientists",
+    "research managers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Strengthen and advance biomedical research in India",
+    "Support researchers at different career stages through fellowships",
+    "Enable cutting-edge research programmes and build research capacity",
+    "Foster collaborative, interdisciplinary research involving multiple institutions",
+    "Support careers in Research Management in India",
+    "Drive discovery and innovation in India’s research ecosystem",
+    "Strengthen the interface between science and society",
+    "Build equitable research capacity in India"
+  ],
+  "eligibility": "The programme supports researchers across career stages including Early Career, Intermediate, Senior, and Margdarshi Fellowships for basic biomedical scientists, clinicians, public health researchers, and veterinarians who wish to pursue academic research in India. It also supports collaborative grants and research management fellowships. Applicants must be affiliated with Indian institutions and demonstrate excellence in their respective fields.",
+  "benefits": "Fellows receive protected time and funding to pursue independent research programmes, access to mentorship and engagement activities, opportunities for national and international collaborations, training through workshops (e.g., Science Communication, Leadership Courses), and support for public engagement initiatives. The programme also provides access to the IASys grants management system for transparent and efficient award administration.",
+  "financial_support": "Financial support is provided through research fellowships that cover salary, research expenses, and related costs at different career stages. Collaborative grants support small investigator teams (2–3 investigators) for innovative research. The Research Management Programme offers fellowships, institutional grants, and travel bursaries for research managers. Funding is mediated through the DBT/Wellcome Trust India Alliance, with disbursement managed via the IASys online grants management system.",
+  "fund_size_crores": "1500",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the appropriate fellowship or grant type based on career stage and research focus. 2. Check the specific competition application dates for the desired scheme (e.g., MCG: 01 April - 15 May 2026, CDG: 16 Mar - 18 May 2026). 3. Prepare the required application documents as per the scheme guidelines. 4. Submit the application online through the India Alliance portal during the open window. 5. Applications are reviewed by international selection committees. 6. Selected candidates are notified and awarded fellowships or grants. 7. Funds are disbursed through the IASys system upon award confirmation.",
+  "application_portal_url": "https://www.indiaalliance.org",
+  "required_documents": [],
+  "deadlines": "MCG: 01 April - 15 May 2026; CDG: 16 Mar - 18 May 2026; CCG: 16 Mar - 18 May 2026; ECF - Basic: 02 Feb - 16 March 2026; IF - Basic: 20 Feb - 23 March 2026; ECF - CPH: 20 Feb - 23 March 2026; IF - CPH: 20 Feb - 23 March 2026; RMP: 02 Feb - 10 April 2026",
+  "implementing_agency": "DBT/Wellcome Trust India Alliance (India Alliance)",
+  "contact_details": "",
+  "caveats": [
+    "Phase-III of the BRCP is approved for FY 2025/26 to 2030/31 with a service period through 2037/38",
+    "Funding ratio between DBT and Wellcome Trust is 2:1 since 2018/19",
+    "Applications must be submitted during specific competition windows; no rolling basis for all schemes",
+    "The programme supports biomedical research in India and does not fund research outside the country"
+  ],
+  "source_cited_notes": [
+    "https://indiaalliance.org/",
+    "https://indiaalliance.org/about-us/about-ia",
+    "https://indiaalliance.org/phase-iii",
+    "https://indiaalliance.org/phase-iii/competitions"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:56:31.235404+00:00"
+}

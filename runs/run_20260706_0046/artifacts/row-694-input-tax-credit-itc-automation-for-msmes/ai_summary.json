@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-694",
+  "scheme_name": "Input Tax Credit (ITC) Automation for MSMEs",
+  "scheme_url": "https://www.gst.gov.in",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "Input Tax Credit (ITC) Automation for MSMEs is a GST initiative aimed at streamlining the ITC claim process for micro, small, and medium enterprises through automation and digital tools. The scheme seeks to reduce manual intervention, minimize errors, and accelerate ITC processing by leveraging technology on the GST portal. It supports MSMEs in improving cash flow by ensuring timely and accurate ITC utilization. The initiative is part of broader GST reforms to enhance compliance and ease of doing business.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Automate the Input Tax Credit (ITC) claim process for MSMEs",
+    "Reduce manual errors and processing delays in ITC utilization",
+    "Improve cash flow for MSMEs through timely ITC availability",
+    "Enhance compliance with GST provisions via digital tools",
+    "Integrate ITC automation with existing GST return filing systems",
+    "Provide real-time tracking and reconciliation of ITC claims"
+  ],
+  "eligibility": "MSMEs registered under the GST Act with valid GSTIN and engaged in the supply of goods or services, subject to compliance with ITC rules under Section 16 of the CGST Act, including possession of tax invoices, receipt of goods/services, and payment of tax to the government.",
+  "benefits": "Faster ITC processing, reduced compliance burden, improved accuracy in ITC claims, enhanced transparency in credit utilization, better working capital management, and integration with GSTN systems for seamless return filing.",
+  "financial_support": "The scheme does not provide direct financial support but facilitates indirect financial benefits by enabling quicker and more accurate utilization of Input Tax Credit, thereby improving liquidity and reducing working capital strain for MSMEs.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure GST registration and valid GSTIN. 2. Maintain proper tax invoices and supporting documents for inward supplies. 3. File GSTR-3B and GSTR-2A/GSTR-2B returns regularly. 4. Reconcile ITC claimed in GSTR-3B with auto-populated ITC from GSTR-2B. 5. Utilize the ITC ledger on the GST portal for payment of output tax liability. 6. Use offline tools or APIs for bulk ITC reconciliation if required. 7. Monitor ITC availability and expiry through the GST portal dashboard.",
+  "application_portal_url": "https://www.gst.gov.in/",
+  "required_documents": [
+    "Tax invoice or debit note",
+    "Proof of receipt of goods/services",
+    "Evidence of payment of tax to the government",
+    "GSTR-3B return",
+    "GSTR-2A or GSTR-2B statement",
+    "Registration certificate (GSTIN)"
+  ],
+  "deadlines": "Rolling basis — ITC must be claimed within the stipulated time under Section 16(4) of the CGST Act, i.e., by the due date of filing GSTR-3B for the month of September following the end of the financial year or filing of annual return, whichever is earlier.",
+  "implementing_agency": "Goods and Services Tax Network (GSTN) under the guidance of the GST Council and the Central Board of Indirect Taxes and Customs (CBIC)",
+  "contact_details": "Help Desk Number: 1800-103-4786",
+  "caveats": [
+    "ITC cannot be claimed if depreciation has been claimed on the tax component of a capital asset",
+    "ITC is blocked on certain inward supplies as per Section 17(5) of the CGST Act",
+    "Mismatch between GSTR-3B and GSTR-2B may lead to notices or denial of credit",
+    "ITC must be reversed if payment to supplier is not made within 180 days",
+    "Automation tools are facilitative; legal responsibility for ITC correctness rests with the taxpayer"
+  ],
+  "source_cited_notes": [
+    "https://www.gst.gov.in/",
+    "https://gst.gov.in/help/refund",
+    "https://gst.gov.in/help/enrollmentwithgst",
+    "https://gst.gov.in/download/itc01",
+    "https://gst.gov.in/download/itc03",
+    "https://gst.gov.in/download/itc04"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:59:35.477906+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-406",
+  "scheme_name": "Government e-Marketplace (GeM) Seller Onboarding",
+  "scheme_url": "https://gem.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "Government e-Marketplace (GeM) is a national public procurement portal that facilitates online procurement of goods and services for Central and State Government Ministries, Departments, Public Sector Units (PSUs), and affiliated entities. It aims to make public procurement transparent, efficient, and inclusive by providing a unified platform for buyers and sellers. GeM supports MSMEs, startups, and women entrepreneurs through dedicated sections and preferential treatment under public procurement policies.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "SC/ST entrepreneurs",
+    "Self Help Groups",
+    "North East states and J&K sellers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Make public procurement process transparent, efficient and inclusive",
+    "Act as a centralized and unified public procurement platform for government buyers and suppliers",
+    "Drive inclusiveness and ease of doing business with the government, especially for smaller organizations such as MSMEs",
+    "Standardize processes backed by the regulatory framework",
+    "Enable a fully automated system through advances in technology",
+    "Provide access to national public procurement market for sellers",
+    "Offer special provisions and sections for startups, MSMEs and Emporium products",
+    "Ensure fully online, paperless and contactless platform for registration and transactions"
+  ],
+  "eligibility": "Sellers and service providers can register on GeM by providing required documents and completing the online registration process. There is no fee for registration. Specific eligibility for preferential treatment includes MSMEs (as per Udyam registration), startups (able to list products under Startup Runway 2.0), women entrepreneurs (under Womaniya initiative), and SC/ST entrepreneurs (under MSME SC/ST initiative). Sellers must comply with GeM's policies, including updating TReDS onboarding status in their profile and avoiding bid rigging or cartelisation.",
+  "benefits": "Sellers get access to the National Public Procurement market with no registration fees. Benefits include special provisions for startups, MSMEs and Emporium products, a fully online paperless and contactless platform, access to GeM Seller ID for verification, ability to participate in bids and reverse auctions, online grievance redressal mechanism, seller-friendly dashboard for monitoring supplies and payments, and exemptions for North East and J&K sellers from ITR at bid participation. Buyers benefit from transparency, rich product listings, multiple procurement modes (Direct Purchase, L1, Bid/RA), integrated payment system, and real-time visibility of bids and prices.",
+  "financial_support": "GeM does not provide direct financial support such as grants, loans, or subsidies. It facilitates access to government procurement opportunities where sellers can sell goods and services to government buyers. Financial transactions occur between buyers and sellers on the platform, with GeM providing an integrated payment system. GeM is linked with TReDS Exchanges to enable cheaper and quicker financing for MSMEs by sharing CPSE purchase data with financiers.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the GeM portal at https://gem.gov.in 2. Click on 'Sign Up' and select 'Seller' or 'Service Provider' 3. Fill in the registration form with required details 4. Upload required documents including PAN, bank account details, and business registration documents 5. Complete PFMS verification of bank account 6. Submit the application for verification 7. Upon approval, receive GeM Seller ID and login credentials 8. Log in to the seller dashboard to start offering products/services 9. Update TReDS onboarding status in profile (Profile -> TReDS) if applicable 10. Participate in bids, reverse auctions, or direct purchase opportunities",
+  "application_portal_url": "https://gem.gov.in",
+  "required_documents": [
+    "PAN of the entity",
+    "Bank account details (with PFMS verification)",
+    "Certificate of Incorporation / Registration",
+    "Authorization letter from authorized signatory",
+    "Details of beneficial ownership (if applicable)",
+    "Udyam Registration certificate (for MSME benefits)",
+    "GSTIN (if registered)",
+    "Address proof of the business",
+    "Cancelled cheque or bank statement for bank verification"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Registration is open year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: helpdesk-gem@gov.in | Helpline: 1800-419-3436 / 1800-102-3436 (9:00 am - 10:00 pm Mon to Sat)",
+  "caveats": [
+    "Sellers must avoid bid rigging, cartelisation, tinkering, bypassing or any type of collusion — strict actions are taken against errant sellers",
+    "Buyers are solely responsible for adherence to latest policy, regulations, GFRs, and public procurement manual",
+    "Caution Money requirement for sellers has been discontinued; existing deposits can be withdrawn via the portal",
+    "For TReDS integration, sellers must ensure timely onboarding and updated Udyam Registration and bank account details on both GeM and TReDS platforms",
+    "Startup Runway 2.0 allows startups to list products irrespective of DPIIT-certification",
+    "MSME SC/ST entrepreneurs initiative targets 4% procurement from SC/ST MSME entrepreneurs",
+    "Womaniya initiative aligns with 3% procurement reservation for women MSME entrepreneurs",
+    "Sellers belonging to North East states and J & K are exempted from ITR at the time of bid participation"
+  ],
+  "source_cited_notes": [
+    "https://gem.gov.in",
+    "https://gem.gov.in/gem-advantages",
+    "https://gem.gov.in/gem-exclusive",
+    "https://gem.gov.in/support/government_oms_circulars",
+    "https://assets-bg.gem.gov.in/resources/upload/shared_doc/revised_caution_money_withdrawal_1772100284.pdf",
+    "https://assets-bg.gem.gov.in/resources/upload/shared_doc/sop-gem_treds_integration_1780478660.pdf",
+    "https://assets-bg.gem.gov.in/resources/upload/shared_doc/om-no_1758539509.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:20:05.868725+00:00"
+}

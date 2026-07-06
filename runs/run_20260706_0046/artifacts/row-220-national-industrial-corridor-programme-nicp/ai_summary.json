@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-220",
+  "scheme_name": "National Industrial Corridor Programme (NICP)",
+  "scheme_url": "https://nicdc.in",
+  "ministry_or_category": "Infrastructure",
+  "overview": "National Industrial Corridor Development Programme (NICP) is India's most ambitious infrastructure programme aiming to develop futuristic industrial cities in India which can compete with the best manufacturing and investment destinations in the world. The programme aims to create employment opportunities and economic growth leading to overall socio-economic development. It involves the development of 11 industrial corridors with 32 projects in 4 phases, including greenfield industrial smart cities and logistics hubs.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "investors",
+    "manufacturing units",
+    "MSME",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop futuristic industrial cities in India to compete with global manufacturing and investment destinations",
+    "Create employment opportunities and economic growth leading to socio-economic development",
+    "Develop industrial corridors with modern infrastructure and plug-and-play facilities",
+    "Attract domestic and global investments in manufacturing and services",
+    "Boost logistics and connectivity to make trade faster and cost-efficient",
+    "Support employment generation and economic growth",
+    "Develop state-of-the-art world-class infrastructure to promote local commerce and enhance investment",
+    "Integrate next-generation technologies across infrastructure sectors to create smart cities"
+  ],
+  "eligibility": "State Governments, Central Public Sector Enterprises (CPSEs), Private Developers, or joint ventures thereof can submit applications under the BHAVYA Scheme for development of industrial parks. The sponsoring agency must ensure 90% encumbrance-free land is in possession at the time of application submission. Land area requirements: minimum 100 acres contiguous land in non-hilly states, 25 acres in hilly states, northeast region, union territories, and states with population less than 1 crore. Non-contiguous parcels (not exceeding 2) within 2 km radius with minimum 100 acres each may be considered. Up to 20 industrial parks may have development area between 500 to 1000 acres, with funding capped at 1000 acres for larger parks developed in phases.",
+  "benefits": "Plug-and-play infrastructure with 24-hour power supply, potable and recycled water, effluent treatment plants, multi-modal connectivity, gas pipelines, integrated city planning, and robust telecom networks. Benefits include single-window clearance, E-land management, anchor investor discounts, flexible payment plans, and incentives from Union and State Governments. The cities offer world-class infrastructure, seamless connectivity via NH-16, Krishnapatnam Port, and Tirupati Airport, and are designed for sustainability and inclusivity. They attract investments, support job creation, encourage MSME growth, and integrate smart solutions for efficient operations and improved living standards. Only green and clean businesses are permitted, prohibiting red or pollutive industries. NICDC cities feature an underground power network system for industrial use with seven underground integrated services per plot. ICT-based infrastructure optimizes utility and resource use, reducing environmental impact and enhancing livability. SCADA system monitors and controls infrastructure for reliable power and other services.",
+  "financial_support": "Financial assistance under the BHAVYA Scheme is provided by the Central Government through NICDIT in the form of equity, in tranches linked to achievement of predefined milestones. The equity participation of NICDIT in any SPV shall not exceed 50% of the paid-up equity capital. For SPVs formed between NICDIT and the State Government/State Nodal Agency (without private participation), the shareholding pattern shall not be altered. In cases where private developer participates as an anchor investor, they may be permitted to allot to themselves up to 25% of the developed land within the industrial park, with the remaining 75% allotted to other industries/units transparently and non-discriminatorily. The SPV shall be permitted to set aside up to 5% of the gross allotment premium into a dedicated O&M Corpus Fund for operational deficit during the first five years post-completion.",
+  "fund_size_crores": "33660",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Application shall be submitted by the sponsoring agency/authority in prescribed format through the designated portal. 2. A separate application shall be submitted for development of each industrial park. 3. Each application shall be accompanied by a Detailed Project Report (DPR) prepared in accordance with the indicative template provided at Annexure II. 4. In case the State Government is the sponsoring authority, the application shall be submitted after due consideration and with clear recommendation of the State Level Committee (SLC). 5. In case a Central Public Sector Enterprise (CPSE) is the sponsoring agency, the application shall be submitted with the approval of the Board of CPSE and in compliance with applicable instructions of the Government of India. 6. Applications under this scheme will be received and processed through an online portal developed and managed by Project Management Agency (PMA). 7. The portal shall be opened for submission of applications for a specified period following due public notice. 8. Applications meeting the mandatory eligibility criteria will be taken up for evaluation and scoring in accordance with the prescribed evaluation criteria. 9. The highest-ranking applications scoring above the benchmark threshold shall be shortlisted and their DPR shall be examined and evaluated for further consideration and approval. 10. An appraisal report in respect of shortlisted applications will be prepared by PMA and presented before the NLSC for approval.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR) prepared in accordance with indicative template provided at Annexure II",
+    "Documents and information as may be specified in the guidelines"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry",
+  "contact_details": "Email: makeinindia@nicdc.in | Telephone: 011-65260100",
+  "caveats": [
+    "The equity participation of NICDIT in any SPV shall not exceed 50% of the paid-up equity capital",
+    "In private developer-led projects, transfer or sale or disinvestment of equity share would be permissible after a period of five years from the date of completion and operationalization of the project",
+    "O&M Corpus Fund drawdown shall require approval of the SPV Board (including the nominee directors of NICDIT and the State Nodal Agency)",
+    "Any surplus remaining in the O&M Corpus Fund after five years shall be transferred to the SPV’s general reserves",
+    "The land transferred to the SPV shall be treated as equity contribution in all cases",
+    "The ownership of land shall be transferred to the SPV within 3 months from the date of the approval of the project",
+    "In the event of delay in transfer of land to the SPV within stipulated period, the approval shall be deemed to have been annulled. However, in case of bonafide reasons or genuine circumstances, an additional period of 3 months may be granted for such transfer by the NLSC"
+  ],
+  "source_cited_notes": [
+    "https://nicdc.in/menu-item/bhavya-scheme-guidelines-dpiit.pdf",
+    "https://nicdc.in/assets/pdfs/investors/F&Q1.pdf",
+    "https://nicdc.in/projects/national-industrial-corridor-development-programme",
+    "https://api.nicdc.in/upload/image/dmu-Report.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:24:01.512025+00:00"
+}

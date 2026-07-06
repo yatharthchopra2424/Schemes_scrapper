@@ -1,0 +1,44 @@
+{
+  "scheme_id": "row-281",
+  "scheme_name": "Light House Projects (LHP) for Affordable Housing",
+  "scheme_url": "https://lhp.mohua.gov.in",
+  "ministry_or_category": "Housing & Urban",
+  "overview": "Light House Projects (LHP) for Affordable Housing is a technology-driven initiative under the Global Housing Technology Challenge-India (GHTC-India) to construct six model housing projects across India using innovative, sustainable, and disaster-resilient technologies. The projects aim to demonstrate and deliver affordable, ready-to-live-in housing at scale, with each LHPs comprising approximately 1,000 houses. The initiative seeks to accelerate the adoption of cutting-edge construction technologies in the Indian affordable housing sector.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "economically weaker sections",
+    "low-income groups",
+    "urban poor"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To demonstrate and deliver affordable housing using innovative technologies",
+    "To promote sustainable and disaster-resilient construction practices",
+    "To create ready-to-live-in housing units at scale",
+    "To facilitate technology transfer and capacity building in the construction sector",
+    "To support the Pradhan Mantri Awas Yojana-Urban (PMAY-U) mission",
+    "To establish LHPs as live laboratories for learning and research"
+  ],
+  "eligibility": "The Light House Projects are implemented as model projects by the Ministry of Housing and Urban Affairs (MoHUA) through its implementing agencies. The end beneficiaries are individuals from Economically Weaker Sections (EWS) and Low Income Groups (LIG) as defined under PMAY-U, selected through the respective state/union territory level Sanctioning and Monitoring Committees (SMCs).",
+  "benefits": "Beneficiaries receive affordable, ready-to-live-in housing units constructed using innovative, sustainable, and disaster-resilient technologies. The LHPs provide improved quality of life through better construction standards, energy efficiency, and resilience to natural hazards. The projects also serve as demonstration sites for mainstreaming new technologies in mass housing.",
+  "financial_support": "The LHPs are funded under the Technology Sub-Mission of PMAY-U, with financial support coming from central assistance under PMAY-U and contributions from state governments. The per-unit cost varies by location and technology, but the central government provides fixed financial assistance per EWS/LIG house as per PMAY-U norms, supplemented by state and beneficiary shares.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Beneficiaries are identified and selected by the respective State/Union Territory Level Sanctioning and Monitoring Committees (SMCs) under PMAY-U. There is no direct application portal for individual beneficiaries to apply for LHPs. Allotment is done through state-level procedures based on PMAY-U beneficiary criteria.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "LHPs are model projects; individual beneficiary allotment is managed by state/UT governments under PMAY-U",
+    "The six LHPs are located in Indore (MP), Rajkot (GJ), Chennai (TN), Ranchi (JH), Agartala (Tripura), and Lucknow (UP)",
+    "Allotment is subject to state-specific PMAY-U eligibility and verification procedures"
+  ],
+  "source_cited_notes": [
+    "https://lhp.mohua.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:49:30.253044+00:00"
+}

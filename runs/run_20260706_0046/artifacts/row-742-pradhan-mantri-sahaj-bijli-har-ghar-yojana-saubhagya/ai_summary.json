@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-742",
+  "scheme_name": "Pradhan Mantri Sahaj Bijli Har Ghar Yojana (SAUBHAGYA)",
+  "scheme_url": "https://saubhagya.gov.in",
+  "ministry_or_category": "Construction",
+  "overview": "Saubhagya – Pradhan Mantri Sahaj Bijli Har Ghar Yojana was launched on 25th September 2017 to achieve universal household electrification by providing last mile connectivity and free electricity connections to all willing households in rural areas and poor families in urban areas. The scheme targets un-electrified households identified via SECC 2011 data, with non-eligible households able to obtain connections for a payment of Rs. 500. It aims to electrify approximately 4 crore households, including 300 lakh under the scheme (250 lakh rural, 50 lakh urban).",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "willing households in rural areas",
+    "poor families in urban areas"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve universal household electrification",
+    "Provide last mile connectivity to all households",
+    "Provide free electricity connections to eligible households",
+    "Electrify un-electrified households in rural and urban areas",
+    "Use SECC 2011 data to identify beneficiaries",
+    "Provide solar-based standalone systems for remote and inaccessible areas",
+    "Ensure electricity access improves quality of life, education, health, and safety"
+  ],
+  "eligibility": "Under Saubhagya scheme, the government will provide all willing households in rural areas and poor families in urban areas free electricity connections identified using Socio-Economic and Caste Census (SECC) data 2011 having at least one deprivation. The households not found eligible as per SECC data would also be provided electricity connection on payment of Rs. 500 per household which shall be recovered by respective Discom/ Power Departments as per the scheme.",
+  "benefits": "Free electricity connections including service line cable, energy meter (including pre-paid/smart meter), single point wiring, LED lamp, and associated accessories. Last mile connectivity includes erection of poles, conductors, etc. For remote areas, solar photo voltaic (SPV) based standalone systems with 200-300 Watt power packs, battery backup, up to 5 LED lights, 1 DC fan, 1 DC power plug, and 5 years of repair and maintenance are provided. Access to electricity reduces indoor pollution by substituting kerosene, improves health, education, safety, and economic activities, especially for women.",
+  "financial_support": "The cost of the Saubhagya scheme is Rs. 16,320 crore, which is over and above the investment under DDUGJY. Free connections are provided to eligible households; non-eligible households pay Rs. 500 per connection, recoverable in 10 instalments of Rs. 50 each along with the electricity bill. There is no provision for free power consumption—consumers must pay for electricity usage as per prevailing DISCOM tariffs.",
+  "fund_size_crores": "16320",
+  "grant_amount_per_entity": "Free electricity connection (value not specified in monetary terms); Rs. 500 for non-SECC households",
+  "application_process": "1. Camps are organised in villages or clusters using mobile app/web portal for beneficiary identification. 2. Applications for electricity connections are registered electronically at camps. 3. Required documentation including applicant photograph, identity card copy, mobile number, Aadhar number, and bank account details are completed on spot. 4. Gram Panchayat/public institutions may collect applications, complete documentation, and handle billing and revenue collection. 5. Connections are released at the earliest after documentation completion.",
+  "application_portal_url": "http://saubhagya.gov.in",
+  "required_documents": [
+    "Photograph of applicant",
+    "Copy of identity card",
+    "Mobile number",
+    "Aadhar number",
+    "Bank account number"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline mentioned; implementation is time-bound but applications processed via camps and electronic registration as per scheme rollout.",
+  "implementing_agency": "Rural Electrification Corporation Limited (REC)",
+  "contact_details": "Saubhagya Toll Free Helpline Number: 1800-121-5555",
+  "caveats": [
+    "No provision for free power consumption—consumers must pay for electricity usage as per DISCOM tariffs",
+    "Defaulters whose connections have been disconnected shall not be given benefit of the scheme",
+    "Non-SECC households must pay Rs. 500 per connection (in 10 instalments of Rs. 50)",
+    "Illegal connections are not addressed by the scheme and must be dealt with by DISCOMs per their regulations"
+  ],
+  "source_cited_notes": [
+    "https://saubhagya.gov.in/assets//download/Saubhagya FAQ.pdf"
+  ],
+  "last_updated_date": "2017",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:29:33.940458+00:00"
+}

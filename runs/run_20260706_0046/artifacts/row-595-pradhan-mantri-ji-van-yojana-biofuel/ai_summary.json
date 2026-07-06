@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-595",
+  "scheme_name": "Pradhan Mantri JI-VAN Yojana (Biofuel)",
+  "scheme_url": "https://petroleum.nic.in",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "Pradhan Mantri JI-VAN Yojana is a central sector scheme launched to provide financial support to integrated bioethanol projects using lignocellulosic biomass and other renewable feedstocks. The scheme aims to promote the production of second-generation (2G) ethanol from non-food biomass sources such as agricultural residues, waste, and grasses. It supports the establishment of commercial and demonstration projects to reduce dependence on fossil fuels and mitigate greenhouse gas emissions. The scheme is implemented by the Ministry of Petroleum and Natural Gas.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "companies",
+    "public sector undertakings",
+    "joint ventures",
+    "private enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create an enabling environment for commercial production of 2G ethanol",
+    "To support research and development in biomass pretreatment and enzyme technology",
+    "To reduce India's dependence on imported fossil fuels",
+    "To mitigate greenhouse gas emissions through renewable fuel blending",
+    "To utilize agricultural and industrial waste for value-added biofuel production",
+    "To encourage private investment in advanced biofuel technologies"
+  ],
+  "eligibility": "Integrated bioethanol projects using lignocellulosic biomass and other renewable feedstocks are eligible. Projects must be for the production of second-generation (2G) ethanol and must be implemented by companies, public sector undertakings, joint ventures, or private enterprises registered in India. The project must have a minimum capacity as specified in the scheme guidelines and must use non-food biomass feedstocks.",
+  "benefits": "Financial support in the form of grants for capital expenditure, interest subvention on loans, and reimbursement of certain operational costs. The scheme also provides support for project management, technical consultancy, and monitoring. Benefits include reduced production costs, improved viability of 2G ethanol projects, and contribution to national biofuel blending targets under the Ethanol Blended Petrol (EBP) Programme.",
+  "financial_support": "The scheme provides financial support up to Rs. 100 crore per project for capital expenditure, interest subvention at the rate of 6% per annum for a period of 5 years on term loans, and reimbursement of expenses related to project management and technical consultancy. Support is disbursed in stages based on project milestones and verification by the implementing agency.",
+  "fund_size_crores": "1969.50",
+  "grant_amount_per_entity": "Up to Rs. 100 crore per project",
+  "application_process": "1. Submit a detailed project report (DPR) along with the application form to the Ministry of Petroleum and Natural Gas. 2. The application is evaluated by a Technical Committee for technical feasibility and financial viability. 3. Upon approval, an in-principle sanction letter is issued. 4. The applicant must secure land, clearances, and financing as per the sanction. 5. After achieving financial closure, the final approval is granted. 6. Funds are released in installments based on verification of project progress and expenditure.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of Incorporation / Registration",
+    "Board resolution authorizing the project",
+    "Land documents or lease agreement",
+    "Clearances from pollution control board and other statutory bodies",
+    "Financial appraisal report from bank or financial institution",
+    "Promoters' background and net worth certificates",
+    "Undertaking regarding use of non-food biomass feedstock"
+  ],
+  "deadlines": "The scheme was open for proposals during the specified window as per the official notification; currently, no active application window is indicated in the evidence.",
+  "implementing_agency": "Ministry of Petroleum and Natural Gas",
+  "contact_details": "",
+  "caveats": [
+    "Support is limited to integrated projects using lignocellulosic and non-food biomass feedstocks",
+    "Projects must achieve financial closure within the stipulated time to avail benefits",
+    "The scheme is subject to availability of funds and government approvals",
+    "Benefits are contingent upon meeting project milestones and verification criteria",
+    "The scheme period is fixed, and no further extensions are implied beyond the original timeline"
+  ],
+  "source_cited_notes": [
+    "https://petroleum.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:55:28.288263+00:00"
+}

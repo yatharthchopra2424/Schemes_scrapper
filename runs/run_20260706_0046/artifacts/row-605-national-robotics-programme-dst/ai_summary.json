@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-605",
+  "scheme_name": "National Robotics Programme – DST",
+  "scheme_url": "https://dst.gov.in/robotics",
+  "ministry_or_category": "Robotics & Automation",
+  "overview": "The National Robotics Programme – DST is a scheme under the Department of Science and Technology (DST) aimed at promoting robotics and automation as part of strategic deep technologies. It is implemented through the Research, Development, and Innovation (RDI) Scheme, which was approved by the Union Cabinet on July 1, 2025, with a total outlay of ₹1 lakh crore. The programme focuses on encouraging private sector participation in high-impact R&D, promoting strategic technologies including robotics, and fostering technological self-reliance under the Atmanirbhar Bharat vision.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "industry players"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encouraging Private Sector Involvement: Incentivize active participation from industry players in cutting-edge research and innovation.",
+    "Promoting Strategic Technologies: Focus on mission-critical areas that are vital for national development and global competitiveness, including deep technologies such as quantum computing, robotics and space.",
+    "Fostering Self-Reliance and Economic Security: Support technologies where indigenization is essential for strategic or economic reasons, in line with the vision of Atmanirbharta.",
+    "Ensure Flexibility in Sectoral Support: Allow support for any additional sectors or technologies deemed essential for public interest."
+  ],
+  "eligibility": "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs). Interested Second Level Fund Managers (SLFMs) are invited to express their interest in partnering with this fund by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. Existing NBFCs planning to establish AIFs are also encouraged to contact the Department of Science & Technology (DST) regarding potential participation.",
+  "benefits": "Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS). Modes of financing include long-term loan at low or nil interest rates, equity infusion (especially for startups), and contributions to Deep-Tech Fund of Funds. Grants and short-term loans are not supported under the scheme.",
+  "financial_support": "Total Budget: ₹1 lakh crore. Modes of Financing: Long-term loan at low or nil interest rates. Equity infusion, especially in case of startups. Contributions to Deep-Tech Fund of Funds. Exclusions: Grants and short-term loans are not supported. Coverage: Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested Second Level Fund Managers (SLFMs) express interest in partnering with the fund by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. 2. Existing NBFCs planning to establish AIFs contact DST regarding potential participation. 3. Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. 4. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs) in due course through separate advertisement. 5. For more details, visit: https://rdifund.anrf.gov.in/",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Science & Technology (DST)",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in",
+  "caveats": [
+    "Grants and short-term loans are not supported under the RDI scheme.",
+    "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST.",
+    "All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs)."
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "http://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:02:52.536996+00:00"
+}

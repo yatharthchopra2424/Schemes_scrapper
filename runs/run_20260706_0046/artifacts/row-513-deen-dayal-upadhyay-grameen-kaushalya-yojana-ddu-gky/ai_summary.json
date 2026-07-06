@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-513",
+  "scheme_name": "Deen Dayal Upadhyay Grameen Kaushalya Yojana (DDU-GKY)",
+  "scheme_url": "https://ddugky.gov.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "Deen Dayal Upadhyay Grameen Kaushalya Yojana (DDU-GKY) is a placement-linked skill training programme under the Ministry of Rural Development, Government of India, aimed at transforming rural poor youth into an economically independent and globally relevant workforce. The scheme focuses on enhancing employability through skill development in various sectors, ensuring job placements for trained candidates, and promoting sustainable livelihoods in rural areas.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural poor youth",
+    "SC/ST",
+    "women",
+    "minorities",
+    "persons with disabilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance employability of rural poor youth through skill training",
+    "To ensure placement of trained candidates in wage employment",
+    "To promote convergence with other government programmes for sustainable livelihoods",
+    "To strengthen institutional capacity for skill development at state and district levels",
+    "To monitor and evaluate training outcomes and placement tracking",
+    "To foster public-private partnerships in skill development initiatives"
+  ],
+  "eligibility": "The scheme targets rural poor youth aged 15-35 years from families covered under the National Rural Livelihoods Mission (NRLM) or Socio Economic and Caste Census (SECC) 2011, including SC/ST, women, minorities, and persons with disabilities, who are seeking skill training and wage employment opportunities.",
+  "benefits": "Benefits include free skill training in industry-relevant trades, placement assistance with minimum wage guarantee, post-placement support for retention, accommodation and food during training, travel support, and certification recognized by the National Council for Vocational Training (NCVT) or State Council for Vocational Training (SCVT).",
+  "financial_support": "The scheme provides 100% financial support for training costs, including course fees, stipends, boarding, lodging, and travel, directly paid to the Project Implementing Agencies (PIAs) based on norms and outcomes achieved, with no financial burden on the trainees.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible candidates from NRLM/SECC 2011 lists at the village level. 2. Mobilize and counsel youth to enroll in DDU-GKY training programmes. 3. Enroll candidates through registered Project Implementing Agencies (PIAs). 4. PIAs submit candidate details and training plans to the State Skill Development Mission (SSDM). 5. Obtain approval from SSDM and commence training as per approved under DDU-GKY norms. 6. Ensure placement of candidates post-training and report outcomes for reimbursement.",
+  "application_portal_url": "https://ddugky.gov.in",
+  "required_documents": [
+    "Aadhaar Card",
+    "Proof of residence (village-level certification)",
+    "SECC 2011 or NRLM household verification",
+    "Age proof (birth certificate or school certificate)",
+    "Caste certificate (if applicable)",
+    "Disability certificate (if applicable)",
+    "Bank account details",
+    "Passport-sized photographs"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on training cycles and PIA availability.",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "Email: info@ddugky.gov.in | Helpline: 1800-102-0098",
+  "caveats": [
+    "Training must be conducted only by registered and approved Project Implementing Agencies (PIAs)",
+    "Placement is mandatory for reimbursement; training without placement outcomes may not be funded",
+    "Beneficiaries must be from rural poor households as per SECC 2011 or NRLM",
+    "Training duration and trades must align with DDU-GKY approved norms and market demand"
+  ],
+  "source_cited_notes": [
+    "https://ddugky.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:05:37.927160+00:00"
+}

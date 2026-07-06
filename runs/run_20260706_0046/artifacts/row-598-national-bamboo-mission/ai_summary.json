@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-598",
+  "scheme_name": "National Bamboo Mission",
+  "scheme_url": "https://nbm.nic.in",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "The National Bamboo Mission (NBM) is a centrally sponsored scheme implemented by the Department of Agriculture and Farmers Welfare under the Ministry of Agriculture and Farmers Welfare. It aims to promote holistic growth of the bamboo sector through area-based, regionally differentiated strategies, focusing on increasing bamboo cultivation, improving post-harvest management, and developing product processing and value addition. The mission supports farmers, artisans, and entrepreneurs engaged in bamboo-based activities across India.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "artisans",
+    "entrepreneurs",
+    "MSME",
+    "self-help groups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To increase the area under bamboo cultivation in potential and non-forest government and private lands",
+    "To improve post-harvest management through establishment of innovative primary processing units",
+    "To promote product development and value addition at micro, small and medium levels",
+    "To rejuvenate the under-developed bamboo industry in India",
+    "To promote skill development, capacity building and awareness generation for sector growth",
+    "To strengthen marketing of bamboo products, especially handicraft items",
+    "To converge efforts of various agencies for development of bamboo sector"
+  ],
+  "eligibility": "Eligible beneficiaries include individual farmers, farmer producer organizations (FPOs), self-help groups (SHGs), joint liability groups (JLGs), cooperatives, NGOs, and entrepreneurs engaged in bamboo cultivation, primary processing, value addition, and marketing activities. Beneficiaries must possess land or have legal rights to cultivate bamboo, and proposals must align with the mission's objectives and be submitted through the State Bamboo Mission or nodal department.",
+  "benefits": "Financial assistance for bamboo plantation, establishment of nurseries, water harvesting structures, and pest management. Support for setting up primary processing units (e.g., slicing, splitting, treatment), product development units (e.g., handicrafts, furniture, bamboo shoots), and marketing infrastructure. Capacity building through training and exposure visits. Technical support for quality improvement and innovation. Subsidy-linked credit facilitation through banks.",
+  "financial_support": "The scheme provides back-ended subsidies ranging from 50% to 100% of the project cost, depending on the beneficiary category and activity. For general category farmers, assistance is up to 50% of the cost; for SC/ST, women, and beneficiaries in Northeastern and Himalayan states, assistance can go up to 100%. Financial support is released in installments based on verification of field-level achievements and is routed through the State Bamboo Missions to the beneficiaries.",
+  "fund_size_crores": "1290",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant activity under NBM (plantation, processing, value addition, etc.). 2. Prepare a detailed project report (DPR) including cost estimates, location, and expected outcomes. 3. Submit the proposal to the State Bamboo Mission or the nodal department of agriculture/horticulture in the respective state. 4. The proposal undergoes technical and financial appraisal by the State Level Committee. 5. Upon approval, administrative sanction is issued. 6. Beneficiary implements the project as per approved plan. 7. After verification of progress, subsidy is released in installments directly to the beneficiary's bank account.",
+  "application_portal_url": "https://nbm.nic.in",
+  "required_documents": [
+    "Project report / Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Cost estimates and quotations for equipment/infrastructure",
+    "Bank account details of the beneficiary",
+    "Identity and address proof (Aadhaar, PAN, etc.)",
+    "Certificate of incorporation/registration (for FPOs, NGOs, cooperatives)",
+    "Authorization letter for representative (if applicable)",
+    "Photographs of the site (before and after intervention, if applicable)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and state-specific announcements.",
+  "implementing_agency": "Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: nbmission@nic.in | Phone: 011-23384292",
+  "caveats": [
+    "Subsidy is released only after verification of field-level progress and submission of required documents",
+    "Beneficiaries must ensure maintenance of created assets for a minimum period as specified in guidelines",
+    "Funds are subject to availability and state-wise allocation under the mission",
+    "Activities must conform to approved species and silvicultural practices",
+    "Duplicate assistance for the same activity from other central/state schemes is not permitted"
+  ],
+  "source_cited_notes": [
+    "https://nbm.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:56:29.225967+00:00"
+}

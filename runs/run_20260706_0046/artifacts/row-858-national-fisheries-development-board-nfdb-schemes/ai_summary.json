@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-858",
+  "scheme_name": "National Fisheries Development Board (NFDB) Schemes",
+  "scheme_url": "https://nfdb.gov.in",
+  "ministry_or_category": "Blue Economy",
+  "overview": "The National Fisheries Development Board (NFDB) is a nodal agency under the Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying, Government of India, established to promote sustainable development of fisheries and aquaculture in India. It implements various schemes and programs aimed at enhancing fish production, productivity, and value addition across the fisheries value chain, including capture fisheries, aquaculture, post-harvest operations, and marketing. NFDB provides financial and technical assistance to stakeholders such as fishers, fish farmers, cooperatives, entrepreneurs, and state governments to strengthen the fisheries sector and support livelihoods in coastal and inland areas.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "fishers",
+    "fish farmers",
+    "cooperatives",
+    "entrepreneurs",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote sustainable development of fisheries and aquaculture",
+    "Enhance fish production and productivity",
+    "Support value addition and post-harvest management",
+    "Strengthen marketing and infrastructure facilities",
+    "Provide financial and technical assistance to stakeholders",
+    "Generate employment and support livelihoods in fisheries sector"
+  ],
+  "eligibility": "Eligibility varies across specific schemes implemented by NFDB but generally includes fishers, fish farmers, fisheries cooperatives, self-help groups, entrepreneurs, NGOs, and state governments involved in fisheries and aquaculture activities. Applicants must be engaged in eligible fisheries-related activities as per the guidelines of individual schemes.",
+  "benefits": "NFDB schemes offer financial assistance in the form of grants, subsidies, or loans for activities such as construction of ponds, tanks, and raceways; installation of aerators and feed mills; procurement of fishing vessels and gears; development of hatcheries and nurseries; establishment of feed mills and processing units; and implementation of disease surveillance and quality control measures. Technical support, training, and capacity building are also provided to enhance skills and adoption of best practices.",
+  "financial_support": "Financial support under NFDB schemes is provided as per the specific guidelines of each program, which may include capital subsidies, interest subsidies, or grant-in-aid. The quantum of assistance varies depending on the activity, beneficiary category, and scheme norms, with funding typically released in installments based on achievement of milestones or submission of utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant NFDB scheme based on the proposed activity and beneficiary category. 2. Obtain the scheme guidelines and application form from the NFDB website or concerned office. 3. Prepare the project proposal as per the prescribed format, including technical and financial details. 4. Submit the completed application along with required documents to the NFDB headquarters or designated state-level office. 5. Application undergoes technical and financial appraisal by NFDB officials. 6. Upon approval, sanction letter is issued and funds are released in stages as per scheme provisions.",
+  "application_portal_url": "https://nfdb.gov.in",
+  "required_documents": [
+    "Project proposal / detailed project report",
+    "Certificate of incorporation or registration (for entities)",
+    "Land lease or ownership documents",
+    "No Objection Certificate (NOC) from concerned authorities (if applicable)",
+    "Bank account details and financial statements",
+    "Quotations for equipment and civil works",
+    "Beneficiary identification and address proof",
+    "Any other documents as specified in the scheme guidelines"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and scheme-specific timelines.",
+  "implementing_agency": "National Fisheries Development Board (NFDB), Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "Email: info@nfdb.gov.in | Phone: 040-24015201",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the respective scheme",
+    "Beneficiaries must utilize funds strictly for the approved purpose as per scheme guidelines",
+    "Submission of utilization certificates and progress reports is mandatory for subsequent installments",
+    "NFDB reserves the right to reject applications incomplete or not conforming to scheme norms",
+    "Certain schemes may have specific eligibility criteria, beneficiary contribution, or geographical restrictions"
+  ],
+  "source_cited_notes": [
+    "https://nfdb.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:29:06.402373+00:00"
+}

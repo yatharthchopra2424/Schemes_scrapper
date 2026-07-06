@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-597",
+  "scheme_name": "Ethanol Blending Programme (EBP)",
+  "scheme_url": "https://petroleum.nic.in/ebp",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "The Ethanol Blending Programme (EBP) is a Government of India initiative aimed at reducing dependence on fossil fuels by blending ethanol with petrol. It seeks to promote the use of biofuels, support farmers through increased demand for sugarcane and other feedstocks, and contribute to environmental sustainability by lowering vehicular emissions. The programme mandates Oil Marketing Companies (OMCs) to procure ethanol from domestic sources and blend it with petrol as per the notified blending targets.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "ethanol producers",
+    "sugarcane farmers",
+    "agri-based industries",
+    "MSMEs in biofuel sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve 20% ethanol blending in petrol by 2025-26% ethanol blending in petrol by 2022 and 20% by 2025-26",
+    "Reduce import dependence on crude oil",
+    "Promote domestic ethanol production from sugarcane, maize, and other feedstocks",
+    "Provide remunerative prices to farmers for ethanol-producing crops",
+    "Lower carbon emissions and improve air quality",
+    "Strengthen the biofuel ecosystem and encourage investment in distillation capacity"
+  ],
+  "eligibility": "Ethanol producers must be registered with the concerned State Excise Department and have a valid license for production and supply of ethanol. They must supply ethanol that meets the Bureau of Indian Standards (BIS) specification IS 15464:2004 (Fuel Ethanol for petrol blending). Oil Marketing Companies (OMCs) are responsible for procurement and blending as per the EBP guidelines issued by the Ministry of Petroleum and Natural Gas.",
+  "benefits": "Ethanol producers receive a guaranteed procurement mechanism through OMCs under the administered price mechanism. Farmers benefit from increased demand for sugarcane, maize, and other biomass, leading to better price realization. The programme supports rural employment, reduces greenhouse gas emissions, and enhances energy security. Financial incentives include interest subvention and financial assistance for setting up or expanding distillation capacity under related schemes.",
+  "financial_support": "Financial support for ethanol projects is provided through the Interest Subvention Scheme for setting up 2G ethanol biorefineries and the Scheme for Extending Financial Assistance to Sugar Undertakings for setting up new molasses-based distilleries or expanding existing ones. Under these, interest subvention of 6% per annum or 50% of the interest charged by banks, whichever is lower, is provided for a period of 5 years on loans up to INR 150 Crore for setting up new distilleries or expanding existing ones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ethanol producers must register with the respective State Excise Authority and obtain necessary clearances. 2. Ensure compliance with BIS standards for fuel ethanol (IS 15464:2004). 3. Enter into supply agreements with Oil Marketing Companies (OMCs) through tender or nomination basis. 4. Submit quality and quantity documentation as required by OMCs for each consignment. 5. Receive payment from OMCs based on the notified ethanol price under the administered price mechanism.",
+  "application_portal_url": "",
+  "required_documents": [
+    "License for ethanol production from State Excise Department",
+    "BIS compliance certificate (IS 15464:2004)",
+    "PAN and GST registration of the entity",
+    "Supply agreement with Oil Marketing Company (OMC)",
+    "Quality test report for each batch of ethanol supplied",
+    "Transportation and delivery documentation"
+  ],
+  "deadlines": "Rolling basis — ethanol supply and procurement occur throughout the year as per OMC requirements and notified blending targets.",
+  "implementing_agency": "Ministry of Petroleum and Natural Gas",
+  "contact_details": "",
+  "caveats": [
+    "Ethanol must meet BIS specification IS 15464:2004 for petrol blending",
+    "Supply is subject to OMC procurement policies and blending targets",
+    "Price of ethanol is determined periodically by the Government under the administered price mechanism",
+    "Only ethanol produced from domestically approved feedstocks is eligible for procurement under EBP"
+  ],
+  "source_cited_notes": [
+    "https://petroleum.nic.in/ebp"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:56:06.301350+00:00"
+}

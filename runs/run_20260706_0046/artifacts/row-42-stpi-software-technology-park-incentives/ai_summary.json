@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-42",
+  "scheme_name": "STPI Software Technology Park Incentives",
+  "scheme_url": "https://www.stpi.in",
+  "ministry_or_category": "Electronics",
+  "overview": "The STPI Software Technology Park Incentives scheme is a 100% export-oriented initiative under the Ministry of Electronics and Information Technology (MeitY) aimed at promoting the development and export of computer software and electronics hardware. It integrates the concepts of Export Oriented Units (EOUs), Export Processing Zones (EPZs), and Science/Technology Parks to provide single-point clearance and operational support to member units. The scheme enables duty-free imports, tax benefits, and repatriation of profits, fostering India's position as a global IT exporter.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "software exporters",
+    "electronics hardware exporters",
+    "IT/ITES units",
+    "startups",
+    "MSMEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the development and export of software and software services including IT-enabled services",
+    "Provide statutory and promotional services to exporters through STP/EHTP schemes",
+    "Facilitate data communication services for IT/ITES-related industries",
+    "Promote micro, small, and medium entrepreneurs by creating a conducive environment for IT/ITES entrepreneurship",
+    "Assist state governments in formulating IT policies to achieve exponential growth in exports",
+    "Promote quality and security standards in the IT industry",
+    "Work with venture capitalists to provide financial assistance to IT industries",
+    "Provide project management and consultancy services nationally and internationally"
+  ],
+  "eligibility": "Units engaged in the development and export of computer software (under STP Scheme) or electronics hardware (under EHTP Scheme) using communication links or physical media. The unit must be 100% export-oriented. Jurisdictional STPI authorities can clear projects costing less than Rs.100 million with Indian investment. 100% foreign equity is permitted. Units may be set up anywhere in India.",
+  "benefits": "Single window clearance for approvals; duty-free import of hardware and software; permission to import second-hand capital goods; re-export of capital goods allowed; simplified minimum export performance norms (Positive Net Foreign Exchange Earnings); domestic sales in DTA permitted with GST refund on capital goods; free repatriation of capital, know-how fees, royalties, dividends after income tax payment; donation of computers to educational/charitable institutions after two years without duty; 100% depreciation on computers and peripherals over five years.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants. Financial benefits are indirect, including duty savings on imports, GST refunds on capital goods purchased in DTA, and tax advantages through profit repatriation and depreciation claims. No direct fund disbursement or loan mechanism is described in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply for online registration via the STPI portal. 2. Submit project details for clearance by jurisdictional STPI authorities. 3. Obtain approval under single window clearance system. 4. Commence operations as a 100% export-oriented unit. 5. Avail benefits such as duty-free imports and tax incentives.",
+  "application_portal_url": "https://stpi.in",
+  "required_documents": [
+    "Project proposal",
+    "Details of investment and foreign equity (if any)",
+    "Undertaking for 100% export orientation",
+    "Incorporation/registration certificate of the unit",
+    "PAN and TAN of the entity",
+    "Bank account details",
+    "Lease/ownership documents for premises",
+    "Details of proposed software/hardware development and export plan"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology (MeitY), Government of India",
+  "contact_details": "Email: dg[at]stpi[dot]in | Phone: +91-1124628081/24346600",
+  "caveats": [
+    "Benefits are contingent on maintaining 100% export-oriented status",
+    "Domestic Tariff Area (DTA) sales are permitted but capital goods therein attract GST refund only after two years",
+    "Donation of computers to institutions is allowed only after two years of import without duty payment",
+    "100% depreciation benefit is spread over five years",
+    "Approval for projects over Rs.100 million requires higher-level clearance beyond jurisdictional STPI authorities"
+  ],
+  "source_cited_notes": [
+    "https://stpi.in/en/statutory-services",
+    "https://stpi.in/en/stp-scheme",
+    "https://stpi.in/en/ehtp-scheme",
+    "https://stpi.in/en/about-stpi"
+  ],
+  "last_updated_date": "2024-25",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:48:35.907734+00:00"
+}

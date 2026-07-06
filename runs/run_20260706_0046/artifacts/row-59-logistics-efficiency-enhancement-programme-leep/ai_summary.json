@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-59",
+  "scheme_name": "Logistics Efficiency Enhancement Programme (LEEP)",
+  "scheme_url": "https://commerce.gov.in",
+  "ministry_or_category": "Infrastructure & Logistics",
+  "overview": "The Logistics Efficiency Enhancement Programme (LEEP) is a scheme under the Department of Commerce, Ministry of Commerce and Industry, aimed at improving logistics efficiency and reducing logistics costs in India. It focuses on enhancing trade facilitation, streamlining customs procedures, and supporting infrastructure development to boost exports and integrate Indian businesses into global value chains. The programme supports MSMEs, startups, and other stakeholders through policy interventions, digital initiatives, and capacity building.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "exporters",
+    "importers",
+    "logistics service providers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance logistics efficiency and reduce logistics costs across the supply chain",
+    "Improve trade facilitation through streamlined customs and regulatory procedures",
+    "Support infrastructure development for seamless movement of goods",
+    "Promote digital transformation in trade via platforms like Trade Intelligence & Analytics (TIA)",
+    "Strengthen India’s position in global trade by enhancing competitiveness of Indian goods and services",
+    "Facilitate MSME and startup participation in global value chains",
+    "Encourage adoption of best practices in logistics and supply chain management",
+    "Support capacity building and skill development in logistics sector"
+  ],
+  "eligibility": "The scheme is open to MSMEs, startups, exporters, importers, logistics service providers, and other stakeholders engaged in trade and logistics activities in India. Eligibility is based on active engagement in international trade, compliance with relevant regulations, and potential to benefit from logistics efficiency improvements. Specific eligibility criteria may vary based on sub-components of the programme and are determined by the Department of Commerce.",
+  "benefits": "Benefits include reduced logistics costs, improved supply chain efficiency, enhanced market access, faster customs clearance, access to digital trade platforms (e.g., TIA Portal), capacity building and training opportunities, policy support for trade facilitation, and integration into global value chains. The scheme also supports MSMEs and startups through export readiness programmes, trade-related information access, and linkages with international SME ecosystems.",
+  "financial_support": "LEEP does not provide direct financial support such as grants or loans. Instead, it offers non-financial support through policy interventions, regulatory reforms, digital infrastructure (e.g., Trade Intelligence & Analytics Portal), trade facilitation initiatives, and capacity building programmes. Financial support, if any, is channelled through allied schemes like the Interest Equalisation Scheme (IES) or Market Access Initiative (MAI), which are referenced in the Department of Commerce’s export promotion efforts.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility under LEEP or allied Department of Commerce schemes. 2. Access relevant portals such as the Trade Intelligence & Analytics (TIA) portal or Department of Commerce website. 3. Register on the designated platform for trade facilitation services. 4. Submit required documents for verification and onboarding. 5. Avail benefits such as digital compliance tools, training programmes, or policy guidance. 6. Monitor updates and participate in stakeholder consultations as announced by the Department of Commerce.",
+  "application_portal_url": "https://commerce.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Import Export Code (IEC)",
+    "GST Registration Certificate",
+    "Bank account details",
+    "Business profile or pitch deck",
+    "Details of export/import activities",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department of Commerce, Ministry of Commerce and Industry",
+  "contact_details": "Email: recruitment-e2@gov.in | Helpline: Not specified in evidence",
+  "caveats": [
+    "LEEP is primarily a policy and facilitation programme; direct financial assistance is not provided under this scheme.",
+    "Benefits are subject to compliance with Department of Commerce guidelines and ongoing scheme updates.",
+    "Access to certain digital platforms or services may require registration on allied portals like TIA or DGFT services.",
+    "The scheme does not guarantee market access or export incentives; it enables efficiency improvements.",
+    "Eligibility and benefits may vary based on specific sub-initiatives under LEEP."
+  ],
+  "source_cited_notes": [
+    "https://commerce.gov.in",
+    "https://commerce.gov.in/files/2026-04/Annual_0.pdf",
+    "https://commerce.gov.in/files/2026-05/Advertisement_0.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:52:05.635770+00:00"
+}

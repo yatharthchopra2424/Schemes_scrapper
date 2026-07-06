@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-801",
+  "scheme_name": "Gujarat IT/ITeS Policy 2022-27 for Startups",
+  "scheme_url": "https://dst.gujarat.gov.in",
+  "ministry_or_category": "State Level (Gujarat)",
+  "overview": "The Gujarat State New IT/ITeS Policy 2022-27 is a state-level initiative by the Department of Science and Technology, Government of Gujarat, aimed at fostering the growth of the IT and IT-enabled services sector in the state. It provides a framework for incentives, infrastructure development, and skill enhancement to attract investments and promote innovation in the IT/ITeS domain. The policy supports startups, MSMEs, and established enterprises through various fiscal and non-fiscal benefits to strengthen Gujarat's position in the knowledge economy.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "IT/ITeS units",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Gujarat only",
+  "objectives": [
+    "Position Gujarat as a key state in the knowledge economy sectors of the country",
+    "Create employment opportunities in the knowledge economy sectors including promotion of IT/ITeS based units",
+    "Improve the availability of skilled manpower in emerging technology areas through training and industry-institute partnership",
+    "Make government-citizen interface more effective, efficient, and transparent",
+    "Attract investments in the IT/ITeS sector through incentive policies",
+    "Facilitate the establishment of IT/ITeS units and support their growth and sustainability"
+  ],
+  "eligibility": "Eligible entities include IT/ITeS units, startups, and MSMEs registered in Gujarat, engaged in software development, IT services, BPO, KPO, engineering design, product development, and other IT-enabled services. The units must comply with the norms and guidelines specified under the Gujarat State New IT/ITeS Policy 2022-27 and obtain necessary registrations/approvals from the Department of Science and Technology, Government of Gujarat.",
+  "benefits": "Fiscal benefits include capital subsidy, interest subsidy, stamp duty exemption, electricity duty exemption, and GST reimbursement as per policy provisions. Non-fiscal benefits encompass single-window clearance, facilitation in land allotment, infrastructure support, skill development assistance, and access to incubation and mentoring programs through designated nodal agencies like Gujarat Informatics Limited and Gujarat State Electronics Mission.",
+  "financial_support": "Financial support under the policy includes capital subsidy up to 30% of eligible plant and machinery (capped at INR 50 lakhs), interest subsidy of 5% on term loans for a period of 5 years, and reimbursement of stamp duty and registration charges. Additional incentives include electricity duty exemption for 5 years and 100% reimbursement of GST paid on eligible capital investments for a specified period, subject to annual caps and policy guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakhs as capital subsidy",
+  "application_process": "1. Register the IT/ITeS unit with the concerned authorities (e.g., Registrar of Companies, MSME, GSTN). 2. Apply online through the designated portal of the Department of Science and Technology, Government of Gujarat. 3. Submit the Detailed Project Report (DPR) along with required documents. 4. Obtain in-principle approval from the empowered committee. 5. Implement the project as per approved DPR. 6. Submit completion report and documents for verification. 7. Claim incentives post-verification and approval by the nodal agency.",
+  "application_portal_url": "https://dst.gujarat.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Memorandum of Association and Articles of Association",
+    "PAN and TAN of the entity",
+    "GST Registration Certificate",
+    "Detailed Project Report (DPR)",
+    "Bank sanction letter for term loan (if applicable)",
+    "Quotations for plant and machinery",
+    "Land ownership or lease documents",
+    "Board resolution authorizing the application",
+    "Declaration of compliance with pollution and safety norms"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the policy period (2022-2027) subject to availability of funds and compliance with guidelines.",
+  "implementing_agency": "Department of Science and Technology, Government of Gujarat",
+  "contact_details": "Email: secdst[at]gujarat[dot]gov[dot]in | Phone: 079-23259999",
+  "caveats": [
+    "Incentives are subject to annual budgetary allocations and policy caps",
+    "Claims must be submitted within the stipulated time after project completion",
+    "Benefits may be withdrawn in case of misrepresentation or non-compliance",
+    "Policy benefits are applicable only for new investments and expansion of existing units",
+    "Double claiming of incentives under multiple state or central schemes is not permitted"
+  ],
+  "source_cited_notes": [
+    "https://dst.gujarat.gov.in",
+    "https://dst.gujarat.gov.in/Home/DirectorateofICTandeGovernance",
+    "https://dst.gujarat.gov.in/Home/GujaratInformaticsLimited",
+    "https://dst.gujarat.gov.in/Home/GujaratStateElectronicsMission"
+  ],
+  "last_updated_date": "2022-2027",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:39:29.243336+00:00"
+}

@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-584",
+  "scheme_name": "Drone Didi Scheme for Women SHGs",
+  "scheme_url": "https://www.pib.gov.in",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The Press Information Bureau (PIB) is the nodal agency of the Government of India under the Ministry of Information and Broadcasting. It serves as the interface between the government and media, disseminating information about government policies, programmes, and activities through press releases, features, backgrounders, and media outreach. PIB also provides accreditation to media persons, facilitates media facilitation, and offers feedback mechanisms to government departments based on media coverage.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "media persons",
+    "journalists",
+    "government departments",
+    "public sector organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Disseminate information about Government of India policies, programmes and activities through media",
+    "Provide feedback from media to government departments on how policies are received by the public",
+    "Advise the Government on its information/media strategy",
+    "Provide explanation and background on official pronouncements",
+    "Grant accreditation to media persons based in New Delhi",
+    "Organize media outreach programmes like special media interactive sessions",
+    "Provide financial assistance to media persons under the Journalist Welfare Scheme (JWS)"
+  ],
+  "eligibility": "Eligibility for PIB accreditation varies by category: working journalists must be employed with a news organization in Delhi/NCR; freelance journalists require minimum 15 years of experience and 5 years of PIB association; veteran journalists must be 65+ years with 30 years of experience; digital news publishers must comply with IT Rules 2021, have a website active for at least one year, and have editorial team based in Delhi/NCR.",
+  "benefits": "Accreditation provides easy access to government information, official press conferences, and government offices. It facilitates media outreach, feedback services, and access to PIB's dissemination network. Accredited journalists may also benefit from the Journalist Welfare Scheme (JWS) for financial assistance.",
+  "financial_support": "Under the Journalist Welfare Scheme (JWS) by the Ministry of Information & Broadcasting, financial assistance is provided to media persons in need, though specific quantum, type, and mechanism are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Applicants must file their application online in the prescribed format available on the PIB website (https://www.pib.gov.in). 2. Applications for accreditation can be submitted any time. 3. Eligibility criteria, category, and relevant information are available in the Guidelines for Accreditation on PIB’s website. 4. Duly filled applications meeting all criteria are placed before the Central Media Accreditation Committee (CMAC) for consideration. 5. Accreditation is granted upon submission of supporting documents, completion of formalities, recommendation by CMAC, and police verification. 6. For queries, contact designated officers: Shri Abhishek Dayal, ADG (PF), Room No. 202, National Media Centre (Tel: 011-23488048, 23488041); Shri B.H. Agrawal, Deputy Director (PF), Room No. 322, Press Lounge, National Media Centre (Tel: 011-23488375); Shri Ankit Rana, SO (PRS), National Media Centre, Room No. 320, Raisina Road, New Delhi (Tel: 011-23488371, 23488345).",
+  "application_portal_url": "https://accreditation.pib.gov.in/",
+  "required_documents": [
+    "Valid present address proof",
+    "Self-attested copy of recommendation letter from the Editor of the organization (duly signed, dated, and stamped)",
+    "Latest Circulation Certificate issued by RNVABC or CAG/RNI empanelled Chartered Accountant (for print media with daily circulation between 10,000 to 25,000)",
+    "Latest Annual Statement filed with RNI (for period ending March 2025)",
+    "Latest Uplinking/Downlinking permission from IWo I&B (for electronic media)",
+    "Latest Uplinking/Downlinking Renewal permission fee payment receipt issued by IWo I&B (for electronic media)",
+    "List of subscribers certified by the Head of the organisation (for news agencies)",
+    "Website's average monthly unique visitor count of last six months duly certified by CAG approved/empanelled auditors (for digital media)",
+    "Domain Registration details showing validity of the website (for digital media)",
+    "Proof of editor being an Indian National (for digital media)",
+    "Self-recommendation letter (for editors category)",
+    "For freelance journalists: Self-attested scanned copies of 20 items of work done during 2025 calendar year (articles/photographs/videos) with by-line credits and date/name of publication highlighted",
+    "Undertaking regarding employment details as per proforma available in the online application (for freelance journalists)"
+  ],
+  "deadlines": "Applications for accreditation can be submitted any time; renewal applications are typically accepted during October–November each year.",
+  "implementing_agency": "Press Information Bureau, Ministry of Information and Broadcasting",
+  "contact_details": "Email: pushpinder.kaur@gov.in | Helpline: http://darpg.grievance.nic.in | Telephone No: 011-23388517 (Public Grievance Officer) | For accreditation queries: Shri Abhishek Dayal, ADG (PF) - Tel.No. 011-23488048, 23488041; Shri B.H. Agrawal, Deputy Director (PF) - Tel.No. 011-23488375; Shri Ankit Rana, SO (PRS) - Tel.No. 011-23488371, 23488345",
+  "caveats": [
+    "Accreditation is valid for one calendar year and requires annual renewal",
+    "PIB reserves the right to call for additional information/documents for verification at any stage",
+    "Applications received without required documents, after due date, or directly from candidates are liable to be rejected",
+    "Accreditation may be suspended or withdrawn based on vigilance, integrity, or performance issues",
+    "Freelance journalists must not be associated with any news syndicate to be eligible"
+  ],
+  "source_cited_notes": [
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2026/may/doc2026525875901.pdf",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2023/jun/doc2023628218401.pdf",
+    "https://static.pib.gov.in/WriteReadData/specificdocs/documents/2025/sep/doc2025925646201.pdf",
+    "https://www.pib.gov.in/",
+    "https://accreditation.pib.gov.in/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:54:41.337204+00:00"
+}

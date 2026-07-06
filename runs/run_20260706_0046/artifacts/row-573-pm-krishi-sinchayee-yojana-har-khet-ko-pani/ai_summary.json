@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-573",
+  "scheme_name": "PM Krishi Sinchayee Yojana – Har Khet Ko Pani",
+  "scheme_url": "https://pmksy.gov.in",
+  "ministry_or_category": "Jal Shakti",
+  "overview": "Pradhan Mantri Krishi Sinchayee Yojana (PMKSY) was launched on 1st July, 2015 with the objective to achieve convergence of investments in irrigation at the field level, expand cultivable area under assured irrigation, improve on-farm water use efficiency, and promote precision irrigation and other water saving technologies. The scheme comprises four components: Accelerated Irrigation Benefit Programme (AIBP), Har Khet Ko Pani (HKKP), Per Drop More Crop (PDMC), and Integrated Watershed Management Programme (IWMP). It aims to provide end-to-end solutions in the irrigation supply chain, including water resources, distribution network, farm-level applications, and extension activities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "small and marginal farmers",
+    "other farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve convergence of investments in irrigation at the field level",
+    "Expand cultivable area under assured irrigation (Har Khet ko pani)",
+    "Improve on-farm water use efficiency to reduce wastage and increase availability both in duration and extent",
+    "Enhance the adoption of precision-irrigation and other water saving technologies (More crop per drop)",
+    "Enhance recharge of aquifers and introduce sustainable water conservation practices",
+    "Ensure integrated development of rainfed areas using the watershed approach",
+    "Promote extension activities relating to water harvesting, water management, and crop alignment",
+    "Explore the feasibility of reusing treated municipal waste water for peri-urban agriculture",
+    "Attract greater private investments in irrigation"
+  ],
+  "eligibility": "Instead of incremental budgeting, PMKSY will adopt a dynamic annual fund allocation methodology that mandates States to allocate more funds to irrigation sectors for becoming eligible to access PMKSY funds. For this purpose: a) A State will become eligible to access PMKSY fund only if it has prepared the District Irrigation Plans (DIP) and State Irrigation Plan (SIP), excepting for the initial year, and the expenditure in water resource development for agriculture sector in the year under consideration is not less than baseline expenditure. The baseline expenditure will be the average of expenditure in irrigation sector irrespective of state departments (i.e. creation of water source, distribution, management and application from State plan schemes) in State Plan in three years prior to the year under consideration.",
+  "benefits": "The scheme provides financial assistance through subsidy for micro irrigation systems (drip, sprinkler, rain-gun etc.), promotes efficient water conveyance and precision water application devices, supports micro level water storage structures, water lifting devices, secondary storage structures, extension activities for promotion of scientific moisture conservation and agronomic measures, capacity building, training and awareness campaigns, and ICT interventions for monitoring. The subsidy is released via Direct Benefit Transfer (DBT) to beneficiaries' bank/postal accounts, preferably Aadhaar seeded.",
+  "financial_support": "The pattern of assistance payable under the micro irrigation scheme will be 55% for small and marginal farmers and 45% for other farmers which will be met by both Central Government and State Government in the ratio of 60:40 for all states except the North Eastern and Himalayan states. In the case of these states, ratio of sharing is 90:10. For the Union Territories, funding pattern is 100% grant by the Central Government. The subsidy payable to the beneficiary will be limited to an overall ceiling of 5 hectare per beneficiary. The subsidy payment will be limited to the unit costs specified in the scheme guidelines. 25% higher amounts have been taken into calculation of subsidy for the North Eastern and Himalayan states and 15% higher for states with low penetration of MI namely Bihar, Chhattisgarh, Jharkhand, Odisha, Uttar Pradesh, West Bengal and Union Territories.",
+  "fund_size_crores": "50000",
+  "grant_amount_per_entity": "Subsidy limited to an overall ceiling of 5 hectare per beneficiary",
+  "application_process": "1. Prepare District Irrigation Plans (DIPs) and State Irrigation Plan (SIP). 2. Ensure expenditure in water resource development for agriculture sector is not less than baseline expenditure (average of three prior years). 3. Submit DIPs and SIPs for approval. 4. Farmers can apply for the scheme either in MIS system (online) or in offline mode. 5. Subsidy is released to the beneficiary electronically through the mechanism of Direct Benefit Transfer (DBT).",
+  "application_portal_url": "https://pmksy.gov.in",
+  "required_documents": [
+    "Aadhaar details of the beneficiary",
+    "Land ownership or cultivation proof",
+    "Bank account details linked with Aadhaar",
+    "Crop details and area under cultivation",
+    "Irrigation source details",
+    "Cost estimate of the proposed micro irrigation system"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare (DAC&FW), Ministry of Agriculture & Farmers Welfare, Government of India",
+  "contact_details": "support.pmksy-dac@gov.in",
+  "caveats": [
+    "The subsidy payment will be limited to the unit costs specified in the scheme guidelines.",
+    "25% higher amounts have been taken into calculation of subsidy for the North Eastern and Himalayan states and 15% higher for states with low penetration of MI namely Bihar, Chhattisgarh, Jharkhand, Odisha, Uttar Pradesh, West Bengal and Union Territories.",
+    "The registration of manufacturers/companies under the scheme will be for a period of 5 years. The registration will be open round the year. The registration will, however, be subject to satisfactory performance by the company. In case of violations, penalty provisions have been specified in the guidelines. Repeated failures will lead to de-registration of the company with approval of SLSC.",
+    "Only BIS marked systems/components can be supplied under the scheme.",
+    "The company will provide free after sales service to the beneficiary for a period of at least three years from the date of installation of the system."
+  ],
+  "source_cited_notes": [
+    "https://pmksy.gov.in/pdfLinks/FAQ.pdf",
+    "https://pmksy.gov.in/pdflinks/Guidelines_English.pdf",
+    "https://pmksy.gov.in/pdfLinks/PMKSY_UserManual.pdf",
+    "https://pmksy.gov.in/pdfLinks/PMKSYMI_UserManual.pdf"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:46:36.450837+00:00"
+}

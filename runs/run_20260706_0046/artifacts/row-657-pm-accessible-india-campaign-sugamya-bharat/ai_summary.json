@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-657",
+  "scheme_name": "PM Accessible India Campaign (Sugamya Bharat)",
+  "scheme_url": "https://accessibleindia.gov.in",
+  "ministry_or_category": "Divyangjan & Senior Citizens",
+  "overview": "The PM Accessible India Campaign (Sugamya Bharat) is a nationwide initiative aimed at achieving universal accessibility for persons with disabilities and senior citizens by creating an enabling and barrier-free environment. It focuses on three verticals: built environment, transportation, and information and communication ecosystem. The campaign seeks to enhance accessibility in public facilities, transport systems, and digital platforms to promote inclusion and independent living.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "persons with disabilities",
+    "senior citizens"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create an accessible physical environment by removing barriers in buildings and public places",
+    "To provide accessible transportation systems for persons with disabilities",
+    "To ensure accessibility in the information and communication ecosystem",
+    "To promote universal design principles in infrastructure development",
+    "To enhance the participation of persons with disabilities in social, economic, and cultural life"
+  ],
+  "eligibility": "The scheme is intended for persons with disabilities and senior citizens across India. Implementation involves various central and state government ministries, departments, and local authorities responsible for public infrastructure, transport, and digital services.",
+  "benefits": "Benefits include improved physical access to government buildings, public spaces, and transport facilities; enhanced accessibility of websites and digital platforms; availability of assistive technologies; and greater independence and mobility for persons with disabilities and senior citizens through barrier-free environments.",
+  "financial_support": "The campaign involves convergence of existing schemes and programs of various ministries and departments. Financial support is provided through budgetary allocations of participating ministries for specific accessibility audits, retrofitting, and creation of accessible infrastructure under their respective schemes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process varies by vertical and implementing agency. For built environment accessibility, concerned departments conduct accessibility audits of public buildings and submit proposals for retrofitting. For transportation, ministries like Railways, Road Transport, and Civil Aviation implement accessibility features in vehicles and infrastructure. For ICT, ministries ensure compliance with accessibility standards in websites and mobile applications. There is no centralized application portal for beneficiaries; implementation is carried out by designated nodal agencies.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — initiatives are implemented as part of ongoing government projects and schemes.",
+  "implementing_agency": "Department of Empowerment of Persons with Disabilities (Divyangjan), Ministry of Social Justice and Empowerment",
+  "contact_details": "",
+  "caveats": [
+    "Progress depends on coordination among multiple central and state ministries",
+    "Implementation timelines vary across states and sectors",
+    "Accessibility compliance is monitored through accessibility audits and third-party evaluations"
+  ],
+  "source_cited_notes": [
+    "https://accessibleindia.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:37:08.411879+00:00"
+}

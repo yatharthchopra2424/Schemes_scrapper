@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-184",
+  "scheme_name": "MeitY Startup Hub (MSH)",
+  "scheme_url": "https://msh.meity.gov.in",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "MeitY Startup Hub (MSH) is an initiative by the Ministry of Electronics and Information Technology (MeitY) to support and nurture technology startups in India. It provides a platform for startups to access mentorship, funding, infrastructure, and market linkages. The hub focuses on fostering innovation in emerging technologies such as AI, IoT, blockchain, and electronics system design.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "technology startups",
+    "electronics and IT startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide incubation support to early-stage technology startups",
+    "To facilitate access to funding, mentorship, and infrastructure",
+    "To promote innovation in emerging technologies like AI, IoT, and blockchain",
+    "To create market linkages and industry connect for startups",
+    "To strengthen the electronics and IT startup ecosystem in India"
+  ],
+  "eligibility": "Technology-based startups incorporated in India, working in areas such as electronics, IT, AI, IoT, blockchain, and other emerging technologies, with a focus on innovation and scalability.",
+  "benefits": "Access to incubation facilities, mentorship from industry experts, networking opportunities, investor connect, prototype development support, testing and certification support, and guidance on regulatory compliance.",
+  "financial_support": "MeitY Startup Hub provides support in accessing government grants, seed funding, and connections to venture capital and angel investors, though direct quantum of financial support is not specified in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the MeitY Startup Hub official website at https://msh.meity.gov.in 2. Review eligibility criteria and program details 3. Submit an online application through the portal 4. Provide required documents including business plan, incorporation details, and technology focus 5. Await review by the selection committee 6. If selected, complete onboarding formalities to access incubation support.",
+  "application_portal_url": "https://msh.meity.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Business plan or project proposal",
+    "Details of technology or innovation focus",
+    "PAN of the entity",
+    "Authorization letter from authorized signatory",
+    "Details of any existing funding or support received"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "Support is primarily focused on technology and innovation-driven startups",
+    "Final selection is based on evaluation by the MeitY Startup Hub selection committee",
+    "Incubation support may be subject to periodic review and performance assessment"
+  ],
+  "source_cited_notes": [
+    "https://msh.meity.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:56:27.984902+00:00"
+}

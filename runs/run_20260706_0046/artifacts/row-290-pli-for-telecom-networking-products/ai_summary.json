@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-290",
+  "scheme_name": "PLI for Telecom & Networking Products",
+  "scheme_url": "https://dot.gov.in/pli-telecom",
+  "ministry_or_category": "Telecom",
+  "overview": "The Production Linked Incentive (PLI) Scheme for Telecom & Networking Products aims to boost domestic manufacturing, increase exports, and reduce import dependency in the telecom sector. Launched by the Government of India, it provides financial incentives to eligible companies to encourage investment and innovation in telecom products and networking equipment.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "large enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Boost domestic manufacturing of telecom and networking products",
+    "Increase exports of telecom equipment",
+    "Reduce import dependency in the telecom sector",
+    "Encourage investment and innovation in telecom",
+    "Support the vision of Atmanirbhar Bharat",
+    "Align with National Digital Communications Policy (NDCP) 2018",
+    "Advance India's 6G ambitions"
+  ],
+  "eligibility": "Eligible companies must be engaged in manufacturing of telecom and networking products in India, meet minimum investment thresholds, and achieve incremental sales of covered products over a base year. Specific eligibility criteria include compliance with Make in India guidelines and meeting domestic value addition requirements.",
+  "benefits": "Financial incentives based on incremental sales of covered products over a base year, tax benefits under relevant schemes, support for technology upgradation, and facilitation of access to global markets through enhanced manufacturing competitiveness.",
+  "financial_support": "The scheme provides financial incentives as a percentage of incremental sales of eligible telecom and networking products manufactured in India, disbursed annually based on verified claims submitted by beneficiaries.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the designated PLI portal 2. Submit application with details of manufacturing capacity and investment plan 3. Provide proof of compliance with eligibility criteria 4. Await evaluation and approval by the empowered committee 5. Sign agreement upon approval 6. Commence production and submit periodic reports 7. Claim incentives based on verified incremental sales",
+  "application_portal_url": "https://dot.gov.in/pli-telecom",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Details of manufacturing facility",
+    "Investment plan and capital expenditure details",
+    "Product specifications and BIS certification (if applicable)",
+    "GST registration and PAN",
+    "Undertaking on compliance with Make in India guidelines",
+    "Base year sales and projected incremental sales details"
+  ],
+  "deadlines": "Application window typically opens annually with specific deadlines notified via official communications; exact dates vary by year.",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications",
+  "contact_details": "ceo-dibd@digitalindia.gov.in",
+  "caveats": [
+    "Incentives are contingent on achieving minimum domestic value addition",
+    "Claims are subject to audit and verification",
+    "Non-compliance may lead to clawback of incentives",
+    "Scheme duration and renewal subject to government review"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/pli-telecom",
+    "https://dot.gov.in/offerings"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:59:09.332056+00:00"
+}

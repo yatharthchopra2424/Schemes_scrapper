@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-317",
+  "scheme_name": "Cooperative Societies Credit Support Scheme",
+  "scheme_url": "https://www.ncdc.in",
+  "ministry_or_category": "Cooperative Sector",
+  "overview": "The Cooperative Societies Credit Support Scheme by NCDC provides working capital loans to eligible credit cooperatives, modeled on commercial banks' cash credit limits. The scheme offers loans up to Rs.20.00 crore per borrower, repayable on demand, with interest rates decided case-to-case by NCDC's Empowered Committee. It aims to strengthen credit cooperatives through direct or state-government-mediated financing, subject to eligibility criteria and security requirements.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "Credit Cooperatives"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To further the mandate of development of the cooperative sector",
+    "To meet the requirements of various cooperative organizations",
+    "To launch NCDC cash credit product on the lines of cash credit limit as offered by commercial banks",
+    "To provide working capital loans to eligible credit cooperatives",
+    "To support cooperative societies through direct funding or via State Government/UT administration"
+  ],
+  "eligibility": "NCDC loan shall be provided to eligible Credit Cooperatives either through the concerned State Government/UT administration or directly to the co-operatives which fulfill the following criteria: (a) The cooperative should have been in operation for not less than 3 years; & (b) The cooperative should have positive net worth, not less than 100% paid up share capital, i.e. there should be no erosion in the paid-up share capital.",
+  "benefits": "No processing fees for sanction; legal fees for security documentation if any shall be borne by the borrower; no limit on number of withdrawals in a day within the sanctioned limit; any amount within the sanctioned limit may be availed the same working day by intimating prior to 02:00 pm; drawing power assessed quarterly by the concerned Programme Division; interest to be served monthly, quarterly, semi-annually or as agreed upon during sanction; borrower must intimate 90 days prior to validity of sanction regarding renewal or closure.",
+  "financial_support": "The working capital loan with cc limit shall be sanctioned following procedural guidelines; the loan shall be sanctioned for a period of one year repayable on demand; the upper limit of loan amount sanctioned shall not exceed Rs.20.00 crore per borrower subject to availability of funds; interest rate for the product offering shall be separately decided by the Empowered committee of NCDC on case-to-case basis and conveyed whilst sanction/prior to disbursement and shall be for the entire tenure of sanction (one year), subject to periodical review; interest shall be calculated on the basis of daily closing balance and compounded monthly.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs.20.00 crore per borrower",
+  "application_process": "1. Choose activity/purpose and loan type from the common loan application form. 2. Download the form from NCDC website. 3. Fill the form and submit it along with supporting documents to NCDC office. 4. Submit the application for sanction.",
+  "application_portal_url": "https://ncdc.in/index.jsp?page=common-application%3Den",
+  "required_documents": [
+    "Common Loan Application Form",
+    "Supporting documents"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Cooperative Development Corporation (NCDC)",
+  "contact_details": "Email: asmeena@ncdc.in | Tel.No. 011-26567956 | Fax: 011-26516032",
+  "caveats": [
+    "Loan shall be secured by one, or combination of two or more of: (a) Guarantee by State/Central Government; (b) Guarantee from Scheduled Banks/Nationalized Banks; (c) Mortgage of fixed assets of the borrower cooperative of value not less than 1.50 times of the loan amount; (d) Pledge of Fixed Deposit Receipts with face value not less than 1.10 times of the loan amount; (e) Hypothecation and assignment of Government bonds/securities to the extent of 1.2 times of NCDC loan.",
+    "For renewal after one year, the Corporation shall inform the status within 90 days.",
+    "NCDC shall reserve the right to recall the entire amount due with applicable interest and foreclose the loan if necessitated, without assigning any reasons.",
+    "Any amount can be repaid the same day before 04:00 pm without any prior intimation."
+  ],
+  "source_cited_notes": [
+    "https://ncdc.in/documents/whats-new/3011200126NCDC-Circular-Dated-04.11.2025-(1).pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:20:08.454533+00:00"
+}

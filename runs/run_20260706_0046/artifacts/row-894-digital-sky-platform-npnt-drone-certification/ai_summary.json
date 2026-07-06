@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-894",
+  "scheme_name": "Digital Sky Platform – NPNT Drone Certification",
+  "scheme_url": "https://digitalsky.dgca.gov.in",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The Digital Sky Platform – NPNT Drone Certification is a government initiative under the Ministry of Civil Aviation and DGCA to enable the No Permission – No Takeoff (NPNT) compliance for drones operating in Indian airspace. It provides a centralized digital regulatory ecosystem for drone registration, flight permission, airspace zone management (Green, Yellow, Red zones), and remote pilot certification. The platform supports safe and compliant drone operations by integrating airspace mapping, flight planning, and real-time approvals through the DigitalSky engine and associated UTM framework.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "drone operators",
+    "remote pilots",
+    "drone manufacturers",
+    "UTMSPs",
+    "government agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable No Permission – No Takeoff (NPNT) compliance for drone operations in Indian airspace",
+    "Provide a centralized digital platform for drone registration, flight permission, and airspace zone management",
+    "Facilitate real-time flight plan submission and approval through automated workflows",
+    "Support classification and management of Green, Yellow, and Red airspace zones for drone operations",
+    "Issue Remote Pilot Certificates and manage UAS Traffic Management (UTM) services",
+    "Ensure safety and security by integrating with Air Traffic Control (ATC), Air Defence, and law enforcement agencies",
+    "Provide APIs for supplementary service providers to access flight intent, airspace data, and UTM services",
+    "Maintain a centralized repository of flight logs, permissions, and stakeholder registries"
+  ],
+  "eligibility": "Any individual or organization operating a nano or micro drone (up to 250 grams) in Green Zone airspace does not require prior permission. For operations in Yellow Zone (above 400 ft in Green Zone or between 8-12 km from airport perimeter up to 200 ft), permission from Air Traffic Control is required. For Red Zone operations (near strategic installations, ports, or beyond territorial waters), Central Government permission is mandatory. All drone operators must register on the DigitalSky Platform and obtain a Unique Identification Number (UIN) or Drone Acknowledgement Number (DAN) for drones exceeding nano category. Remote pilots must hold a valid Remote Pilot Certificate from an authorized training organization.",
+  "benefits": "Enables legal drone operations in Indian airspace through NPNT compliance; provides real-time flight plan approvals; offers access to airspace zone maps (Green, Yellow, Red); facilitates registration of drones and issuance of UIN/DAN; supports remote pilot certification and licensing; allows government agencies to manage airspace constraints; provides APIs for UTM service providers and supplementary service providers; ensures integration with Air Traffic Control and Air Defence for flight clearance; maintains flight logs and operational records for safety and compliance.",
+  "financial_support": "The Digital Sky Platform – NPNT Drone Certification does not provide direct financial support, grants, subsidies, or loans to beneficiaries. It is a regulatory and operational platform for compliance, registration, and permission management. Financial incentives for drone manufacturing are available under separate schemes such as the Production Linked Incentive (PLI) for drones and drone components, which offers up to 20% incentive on eligible value addition in India with a total outlay of INR 120 Crore over three years.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the DigitalSky platform at https://digitalsky.dgca.gov.in 2. Register as a user by providing personal and organizational details 3. Complete Basic & Entity Info, Address Details, and Login Credentials sections 4. Upload required documents such as proof of identity, address, and authorization 5. Submit the registration request for administrator approval 6. Upon approval, log in to the platform 7. For drone registration, submit details of the drone (make, model, serial number) to obtain UIN/DAN 8. For flight operations, create a flight plan by filling in flight details 9. Submit the flight plan request for review 10. Await approval from the concerned authority (Air Traffic Control for Yellow Zone, Central Government for Red Zone) 11. Once approved, conduct the drone flight in the authorized airspace 12. Post-flight, log flight details if required for compliance",
+  "application_portal_url": "https://digitalsky.dgca.gov.in",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, passport, etc.)",
+    "Proof of address (utility bill, bank statement, etc.)",
+    "Authorization letter (if applying on behalf of an organization)",
+    "Drone specifications (make, model, serial number)",
+    "Remote Pilot Training Certificate (for pilot registration)",
+    "Government email ID and supporting documents (for Zone Creator/Approver registration)",
+    "Any additional documents as specified by the approving authority"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications for registration, flight plans, and zone management are accepted year-round.",
+  "implementing_agency": "Directorate General of Civil Aviation (DGCA), Ministry of Civil Aviation, Government of India",
+  "contact_details": "Toll Free: 1800-120-7202 | 1800-120-7208 | E-mail ID: support[dot]digitalsky[at]humanitics[dot]com",
+  "caveats": [
+    "NPNT compliance is mandatory for all drone operations except nano drones in Green Zone",
+    "Flights in Yellow Zone require prior Air Traffic Control permission",
+    "Flights in Red Zone require Central Government permission only",
+    "Zone Creator and Approver registration is restricted to authorized Government officials with valid Government email ID",
+    "Services for D-1 to D-5 forms have been migrated to the eGCA Portal (https://www.dgca.gov.in/digigov-portal/jsp/dgca/common/login.jsp)",
+    "The platform may undergo revamping; users should check registered emails for login instructions",
+    "Remote pilots must hold a valid certificate from an authorized remote pilot training organisation",
+    "Drone registration and UIN/DAN are prerequisites for flight permission in regulated zones"
+  ],
+  "source_cited_notes": [
+    "https://digitalsky.dgca.gov.in",
+    "https://digitalsky.dgca.gov.in/auth/zone-registration",
+    "https://digitalsky.dgca.gov.in/help-desk",
+    "https://digitalsky.dgca.gov.in/contact",
+    "https://digitalsky.dgca.gov.in/pdf/Drone_rule_2021.pdf",
+    "https://digitalsky.dgca.gov.in/pdf/UTM-Policy-Framework.pdf",
+    "https://digitalsky.dgca.gov.in/pdf/232917.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:49:28.169475+00:00"
+}

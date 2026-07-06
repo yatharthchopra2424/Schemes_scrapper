@@ -178,12 +178,22 @@ class PipelineRunner:
                         if not getattr(insight, f)
                     ]
                     
-                    interactive_evidence = run_agentic_fallback(
-                        driver=driver,
-                        scheme=scheme,
-                        missing_fields=missing,
-                        llm_client=llm_client
-                    )
+                    # Open a FRESH driver for the fallback — the original `with` block
+                    # has already closed the previous driver at this point.
+                    try:
+                        with managed_driver(self.settings) as fallback_driver:
+                            interactive_evidence = run_agentic_fallback(
+                                driver=fallback_driver,
+                                scheme=scheme,
+                                missing_fields=missing,
+                                llm_client=llm_client
+                            )
+                    except Exception as fallback_exc:
+                        self.logger.warning(
+                            "Agentic fallback driver setup failed for '%s': %s",
+                            scheme.scheme_name, fallback_exc
+                        )
+                        interactive_evidence = ""
                     
                     if interactive_evidence.strip():
                         self.logger.info("Agent extracted additional evidence. Re-running LLM analysis.")
@@ -308,12 +318,25 @@ class PipelineRunner:
 
         # Filter out already-completed schemes
         pending: list[SchemeInput] = []
+        skipped_count = 0
         for scheme in schemes:
             key = self._scheme_key(scheme)
             if self.resume and self._checkpoint.get(key, {}).get("status") == "completed":
-                self.logger.info("↷ Skipping (already done): %s", scheme.scheme_name)
+                skipped_count += 1
             else:
                 pending.append(scheme)
+
+        if self.resume and skipped_count:
+            self.logger.info(
+                "↷ Skipping %d already-completed scheme(s). %d to process.",
+                skipped_count,
+                len(pending),
+            )
+            if pending:
+                self.logger.info("  Pending schemes:")
+                for s in pending:
+                    status = self._checkpoint.get(self._scheme_key(s), {}).get("status", "new")
+                    self.logger.info("    [%s] %s", status.upper(), s.scheme_name)
 
         self.logger.info(
             "Pipeline start: %d total, %d pending, %d workers",

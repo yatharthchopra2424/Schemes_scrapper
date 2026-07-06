@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-103",
+  "scheme_name": "Mission Innovation India",
+  "scheme_url": "https://missioninnovation.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "Mission Innovation India is a national initiative under the Department of Science and Technology (DST) aimed at accelerating clean energy innovation through public-private partnerships, research funding, and technology demonstration projects. It aligns with the global Mission Innovation framework to double governmental clean energy R&D investment over five years. The scheme supports startups, researchers, and industry in developing scalable solutions for renewable energy, energy efficiency, and carbon capture.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "researchers",
+    "industry",
+    "academic institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Accelerate clean energy innovation through increased public and private investment",
+    "Demonstrate scalable clean energy technologies at pilot and commercial scale",
+    "Strengthen international collaboration in clean energy research and development",
+    "Support early-stage startups and SMEs in the clean energy sector",
+    "Enhance capacity building and skill development in clean energy technologies"
+  ],
+  "eligibility": "Eligible applicants include Indian startups, MSMEs, academic institutions, research organizations, and industry partners working on innovative clean energy technologies. Projects must align with national clean energy goals and demonstrate potential for scalability and impact.",
+  "benefits": "Financial support for R&D and pilot projects, access to testing and validation facilities, mentorship from experts, opportunities for international collaboration, and facilitation of technology transfer and commercialization.",
+  "financial_support": "Funding is provided as grants for research, development, and demonstration projects, with quantum varying based on project scope and stage. Support may cover up to 100% of project costs for academic and research institutions, and up to 50% for industry partners, disbursed in milestones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a relevant technology challenge or innovation gap in clean energy. 2. Develop a project proposal aligned with Mission Innovation India’s thematic areas. 3. Submit the proposal through the designated online portal or via the Department of Science and Technology. 4. Proposals undergo technical and expert review. 5. Selected projects are approved for funding and monitoring. 6. Funds are released in stages based on project progress.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing objectives, methodology, and expected outcomes",
+    "Budget breakdown and justification",
+    "Technical feasibility report",
+    "Information on applicant organization (registration, PAN, etc.)",
+    "Details of collaborating partners (if any)",
+    "Intellectual property status and management plan"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations",
+    "Projects must comply with environmental and safety regulations",
+    "Intellectual property generated may be subject to government-use clauses",
+    "Progress reports and utilization certificates are mandatory for continued funding"
+  ],
+  "source_cited_notes": [],
+  "last_updated_date": "",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T20:15:52.532716+00:00"
+}

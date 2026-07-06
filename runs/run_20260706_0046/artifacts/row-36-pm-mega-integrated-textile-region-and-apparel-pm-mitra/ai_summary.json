@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-36",
+  "scheme_name": "PM Mega Integrated Textile Region and Apparel (PM MITRA)",
+  "scheme_url": "https://texmin.nic.in/pm-mitra",
+  "ministry_or_category": "Textiles",
+  "overview": "PM Mega Integrated Textile Region and Apparel (PM MITRA) is a scheme launched by the Ministry of Textiles to develop world-class textile manufacturing infrastructure through the establishment of integrated textile parks. The scheme aims to strengthen the textile value chain from fibre to fashion by creating plug-and-play facilities and attracting investment in the sector. It focuses on reducing logistics costs, improving competitiveness, and generating employment in the textiles and apparel industry.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "large enterprises",
+    "textile manufacturers",
+    "apparel units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop integrated textile manufacturing parks with world-class infrastructure",
+    "Attract investment in the textiles and apparel value chain",
+    "Reduce logistics costs and improve competitiveness of domestic textile industry",
+    "Generate employment opportunities in the textile sector",
+    "Promote sustainable and eco-friendly manufacturing practices",
+    "Strengthen backward and forward linkages in the textile value chain",
+    "Enhance export potential of Indian textiles and apparel"
+  ],
+  "eligibility": "Entities interested in setting up textile manufacturing units within PM MITRA parks, including domestic and foreign investors, MSMEs, large enterprises, and joint ventures, subject to compliance with park regulations and allotment criteria defined by the Special Purpose Vehicle (SPV) managing each park.",
+  "benefits": "Plug-and-play infrastructure with ready-to-use factory buildings, common facilities (testing labs, design centres, logistics hubs), power, water, and effluent treatment systems; single-window clearances; fiscal incentives as per state policies; skill development centres; and logistic support for domestic and export-oriented units.",
+  "financial_support": "The scheme provides capital subsidy support for the development of PM MITRA parks through equity contribution by the Government of India in the Special Purpose Vehicle (SPV) set up for each park, with a total committed financial outlay of INR 4,445 crore for seven parks over a period of five years.",
+  "fund_size_crores": "4445",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the PM MITRA park of interest based on location and sector focus. 2. Contact the Special Purpose Vehicle (SPV) responsible for the park’s development and allotment. 3. Submit an expression of interest or application for land/unit allotment as per the SPV’s guidelines. 4. Undergo evaluation based on investment commitment, employment generation, and value addition. 5. Upon approval, execute lease agreement and proceed with unit setup.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Audited financial statements (if applicable)",
+    "Project report detailing investment, employment, and production capacity",
+    "Board resolution authorizing the application",
+    "Proof of compliance with environmental and safety norms"
+  ],
+  "deadlines": "Rolling basis — subject to availability of land/units in the respective PM MITRA parks.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Allotment of land/units is subject to availability and SPV-specific criteria",
+    "Benefits are contingent on setting up operations within the notified PM MITRA park boundaries",
+    "Compliance with central and state labour, environmental, and safety regulations is mandatory",
+    "The scheme does not provide direct subsidies to individual units for machinery or operational costs"
+  ],
+  "source_cited_notes": [
+    "https://texmin.nic.in/pm-mitra"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:36:22.500759+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-848",
+  "scheme_name": "Extended Producer Responsibility (EPR) for Plastics",
+  "scheme_url": "https://cpcb.nic.in/epr",
+  "ministry_or_category": "Waste Management",
+  "overview": "Extended Producer Responsibility (EPR) for Plastics is a regulatory framework under the Plastic Waste Management Rules, 2016, mandating producers, importers, and brand owners to manage the collection and recycling of plastic packaging waste they introduce into the market. The scheme aims to ensure environmentally sound management of plastic waste through producer accountability, promoting recycling, reuse, and end-of-life disposal. It applies across India and is administered by the Central Pollution Control Board (CPCB) in coordination with State Pollution Control Boards. Producers must register on the centralized EPR portal and meet annual recycling targets based on their plastic waste generation.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "producers",
+    "importers",
+    "brand owners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure producers take responsibility for the entire life cycle of plastic packaging they introduce",
+    "Achieve environmentally sound management of plastic waste through recycling and reuse",
+    "Reduce plastic waste leakage into the environment by setting annual EPR targets",
+    "Promote development of sustainable packaging and alternative materials",
+    "Create a transparent and traceable system for plastic waste tracking via centralized portal",
+    "Enforce compliance through monitoring, verification, and penalties for non-compliance"
+  ],
+  "eligibility": "All producers, importers, and brand owners (PIBOs) who introduce plastic packaging into the Indian market are required to register under EPR for Plastics. This includes entities involved in manufacturing, importing, or using plastic packaging for goods sold in India, irrespective of their turnover or scale. Registration is mandatory for all such entities to comply with the Plastic Waste Management Rules, 2016, as amended.",
+  "benefits": "Compliance with EPR obligations ensures legal adherence to the Plastic Waste Management Rules, 2016, avoiding penalties, environmental compensation, and legal action. It enables access to verified recycling credits through authorized recyclers, supports corporate sustainability goals, and enhances brand reputation. Registered entities can trade EPR certificates on the centralized portal to fulfill shortfalls, promoting a market-based mechanism for waste management.",
+  "financial_support": "The EPR for Plastics scheme does not provide direct financial support, grants, or subsidies to producers. Instead, it imposes a financial obligation on producers to bear the cost of collecting, transporting, and processing plastic waste equivalent to their EPR target. Producers must pay authorized recyclers or waste processors for obtaining EPR certificates, with costs determined by market mechanisms. There is no government-funded financial assistance under this scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Central Polluting the CPCB EPR portal at https://cpcb.nic.in/epr 2. Click on 'Registration' and select 'Producer/Importer/Brand Owner' 3. Fill in the online registration form with entity details, PAN, GST, and plastic packaging information 4. Upload required documents including Certificate of Incorporation, PAN card, GST certificate, and details of plastic packaging used 5. Submit the application and pay the prescribed registration fee 6. Await verification by CPCB or concerned SPCB 7. Upon approval, receive login credentials to access the EPR portal 8. File annual returns and procure EPR certificates to meet yearly targets",
+  "application_portal_url": "https://cpcb.nic.in/epr",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the entity",
+    "GST registration certificate",
+    "Details of plastic packaging used (type, quantity, application)",
+    "Authorization letter from authorized signatory",
+    "Proof of address of the business premises"
+  ],
+  "deadlines": "Registration is required prior to introducing plastic packaging into the market. Annual EPR returns and certificate procurement must be completed by April 30th of the following financial year for the previous year's obligation.",
+  "implementing_agency": "Central Pollution Control Board (CPCB)",
+  "contact_details": "Email: epr@cpcb.nic.in | Phone: +91-11-43102080",
+  "caveats": [
+    "Failure to meet EPR targets attracts environmental compensation as per CPCB guidelines",
+    "EPR liability cannot be transferred; producers remain legally responsible even if outsourcing waste management",
+    "Registration must be renewed periodically as specified by CPCB",
+    "Only EPR certificates issued by CPCB-authorized recyclers are valid for compliance",
+    "Micro and small enterprises are not exempt from EPR registration if they fall under PIBO definition"
+  ],
+  "source_cited_notes": [
+    "https://cpcb.nic.in/epr"
+  ],
+  "last_updated_date": "",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:20:43.197286+00:00"
+}

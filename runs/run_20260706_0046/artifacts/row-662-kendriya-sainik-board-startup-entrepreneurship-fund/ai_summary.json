@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-662",
+  "scheme_name": "Kendriya Sainik Board Startup & Entrepreneurship Fund",
+  "scheme_url": "https://ksb.gov.in",
+  "ministry_or_category": "Ex-Servicemen",
+  "overview": "The Kendriya Sainik Board Startup & Entrepreneurship Fund is a scheme aimed at supporting ex-servicemen (ESM) in establishing startups and entrepreneurial ventures. It provides financial and non-financial assistance to eligible ESMs to promote self-employment and economic rehabilitation. The scheme is implemented under the Armed Forces Flag Day Fund (AFFDF) and targets ex-servicemen, widows, and dependents seeking to launch business initiatives.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "ex-servicemen",
+    "widows of ex-servicemen",
+    "dependents"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote self-employment and entrepreneurship among ex-servicemen",
+    "Provide financial assistance for startup ventures through grants",
+    "Support economic rehabilitation of ex-servicemen and their families",
+    "Encourage innovation and business development in the ESM community",
+    "Facilitate access to capital for early-stage entrepreneurial activities"
+  ],
+  "eligibility": "Ex-servicemen (ESM) released/discharged/retired after 01 July 1987 who are in receipt of pension, along with their widows and dependents, are eligible to apply. Applicants must register on the KSB website and provide PPO number, ESM identity card, bank account details linked with Aadhaar, and other required documents as per category.",
+  "benefits": "Financial support for startup ventures, assistance in business setup, access to entrepreneurial training and mentorship, linkage with government schemes for MSMEs, and support under the Armed Forces Flag Day Fund (AFFDF) for welfare and resettlement.",
+  "financial_support": "The scheme provides grant-based financial support to eligible ex-servicemen for startup and entrepreneurship activities under the Armed Forces Flag Day Fund (AFFDF). The exact quantum, disbursement mechanism, and per-entity limits are not specified in the available evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the KSB website www.online.ksb.gov.in to obtain login credentials. 2. Log in to the portal using registered email and password. 3. Navigate to the PMSS section and select 'New Application' or 'Startup & Entrepreneurship Fund' as applicable. 4. Fill in the application form with personal, educational, and business details. 5. Upload required documents including ESM/Ex-Coast Guard Certificate, Bonafide Certificate, Bank Manager’s certificate for Aadhaar seeding, mark sheets, bank passbook, and Aadhaar card. 6. Submit the application and save & forward it for processing. 7. Await verification by Zila Sainik Board (ZSB), Rajya Sainik Board (RSB), and Kendriya Sainik Board (KSB) for approval and disbursement.",
+  "application_portal_url": "https://online.ksb.gov.in",
+  "required_documents": [
+    "ESM / Ex Coast Guard Personnel Certificate signed by ZSB/CG HQ (Annexure-1)",
+    "Bonafide Certificate duly signed by Vice Chancellor/Principal/Vice Principal/Dean/Associate Dean/Registrar/Dy Registrar/Director/Dy Director (Annexure-2)",
+    "Certificate from Bank Manager stating that Aadhaar Card of student is seeded with Bank A/c No (Annexure-3)",
+    "Mark Sheet of 10th Class to verify date of birth",
+    "Complete Mark Sheets of MEQ (10+2 / Graduation / Diploma)",
+    "First Page of Bank Pass Book or Cancelled Cheque Leaf (if name & account number printed)",
+    "Certificate Supporting the Category (one to five) or copy of PPO/ESM Identity Card (for category six)",
+    "Aadhaar Card of Student",
+    "Affidavit / Self Certificate of ESM (if ward born after retirement of ESM)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Kendriya Sainik Board, Department of Ex-Servicemen Welfare, Ministry of Defence",
+  "contact_details": "Email: ksbwebsitehelpline@gmail.com | Helpline: 1800115250",
+  "caveats": [
+    "Applications without PPO number will be rejected as basic ESM status would not be fulfilled",
+    "Only original documents are accepted; photocopies or internet-generated mark sheets are not entertained",
+    "Bank account must be with SBI or PNB only for scholarship/welfare disbursement",
+    "Aadhaar must be seeded with bank account for payment processing",
+    "Application must be saved and forwarded; saving without forwarding keeps it pending and not considered"
+  ],
+  "source_cited_notes": [
+    "https://ksb.gov.in/",
+    "https://ksb.gov.in/writereaddata/DownLoad/Check-List-Application.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/Flow-Chart-New-application-revised.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/Check-List-Renewal-Application.pdf",
+    "https://ksb.gov.in/writereaddata/images/pdf/Penury-renewal-Eng.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:41:57.671640+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-374",
+  "scheme_name": "Indian Railways Startup Policy (IRSDC)",
+  "scheme_url": "https://irsdc.gov.in",
+  "ministry_or_category": "Railways",
+  "overview": "The Indian Railways Startup Policy (IRSDC) is a government initiative aimed at fostering innovation and entrepreneurship within the Indian Railways ecosystem by supporting startups that develop solutions for railway operations, infrastructure, safety, and passenger experience. The policy encourages collaboration between Indian Railways and startups through structured engagement, pilot projects, and potential scaling of successful innovations. It seeks to modernize railway systems by leveraging agile, technology-driven solutions from the startup community.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote innovation in Indian Railways by engaging startups",
+    "To identify and pilot technology solutions for railway challenges",
+    "To create a structured pathway for startups to collaborate with Indian Railways",
+    "To enhance safety, efficiency, and passenger experience through startup-led innovations",
+    "To build a sustainable ecosystem for railway-focused entrepreneurship"
+  ],
+  "eligibility": "Startups registered in India under the Companies Act, 2013, LLP Act, 2008, or as a partnership firm, working on innovative products, services, or processes relevant to Indian Railways domains such as rolling stock, infrastructure, signaling, safety, logistics, or passenger amenities.",
+  "benefits": "Access to Indian Railways’ infrastructure and operational environment for piloting solutions, technical guidance from railway experts, potential for scaling successful pilots into long-term contracts, visibility through IRSDC platforms, and facilitation of regulatory and statutory approvals where required.",
+  "financial_support": "The policy does not provide direct financial grants or funding to startups; instead, it facilitates non-financial support such as access to testbeds, pilot opportunities, and technical collaboration. Any financial engagement would be based on mutually agreed terms for pilot projects or contracts derived from successful evaluations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the IRSDC portal at https://irsdc.gov.in 2. Register as a startup on the portal 3. Submit a detailed proposal outlining the innovation, its relevance to Indian Railways, and implementation plan 4. Proposal undergoes initial screening by IRSDC 5. Shortlisted startups are invited for presentation and evaluation 6. Selected startups enter the pilot phase with relevant railway units 7. Performance is monitored during the pilot 8. Based on outcomes, further collaboration or scaling is considered.",
+  "application_portal_url": "https://irsdc.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration certificate (if applicable)",
+    "Detailed project proposal or pitch deck or business plan",
+    "Proof of concept or prototype details (if available)",
+    "Authorization letter from authorized signatory",
+    "Details of any prior funding or partnerships"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Indian Railway Stations Development Corporation Limited (IRSDC)",
+  "contact_details": "",
+  "caveats": [
+    "Selection does not guarantee funding or commercial contract",
+    "Pilot projects are time-bound and subject to performance evaluation",
+    "Intellectual property rights must be clearly defined in agreements",
+    "Startups must comply with safety, security, and operational standards of Indian Railways",
+    "IRSDC reserves the right to accept or reject proposals without assigning reasons"
+  ],
+  "source_cited_notes": [
+    "https://irsdc.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:51:51.464682+00:00"
+}

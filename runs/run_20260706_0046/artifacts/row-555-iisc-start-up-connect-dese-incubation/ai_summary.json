@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-555",
+  "scheme_name": "IISc Start-up Connect & DESE Incubation",
+  "scheme_url": "https://www.iisc.ac.in",
+  "ministry_or_category": "Innovation Ecosystem",
+  "overview": "The IISc Start-up Connect & DESE Incubation scheme is designed to foster innovation and support early-stage startups by providing incubation facilities, mentorship, and access to IISc's research ecosystem. It aims to bridge the gap between academic research and commercialization by enabling startups to leverage IISc's infrastructure, expertise, and industry networks. The program focuses on nurturing technology-driven ventures with high growth potential, particularly those emerging from IISc's research outputs or aligned with its strategic domains.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage ventures",
+    "technology startups",
+    "research-based startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide incubation support to early-stage startups with innovative ideas",
+    "To facilitate access to IISc's research infrastructure, labs, and expertise",
+    "To offer mentorship and guidance from faculty and industry experts",
+    "To connect startups with potential investors, partners, and customers",
+    "To promote technology transfer and commercialization of IISc research",
+    "To build a sustainable startup ecosystem within and around IISc"
+  ],
+  "eligibility": "Startups must be registered entities (Private Limited Company, LLP, or Partnership) with a clear innovative idea or technology, preferably aligned with IISc's research domains. Preference is given to ventures founded by IISc faculty, students, alumni, or those utilizing IISc facilities. The startup should be in the early stage of development, typically pre-revenue or early revenue stage, and demonstrate potential for scalability and impact.",
+  "benefits": "Selected startups receive access to IISc's incubation space, laboratories, and technical facilities; mentorship from IISc faculty and industry experts; networking opportunities with investors and industry partners; support for prototyping and product development; assistance with IP protection and regulatory compliance; and visibility through IISc's innovation events and platforms.",
+  "financial_support": "The scheme primarily offers non-financial support such as incubation, mentorship, and infrastructure access. Direct financial support in the form of grants or seed funding may be available through linked programs like the Society for Innovation and Development (SID) or external grants, but the core incubation program does not guarantee direct financial disbursement to startups.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an online application through the IISc Start-up Connect portal detailing the startup idea, team, and technology. 2. Provide documentation including incorporation certificate, team profiles, and a brief business plan or pitch deck. 3. Applications are reviewed by the IISc incubation committee based on innovation, feasibility, and alignment with IISc's strengths. 4. Shortlisted candidates are invited for an interview or presentation. 5. Final selection is made, and successful startups are onboarded into the incubation program with access to resources and mentorship.",
+  "application_portal_url": "https://www.iisc.ac.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Brief business plan or pitch deck",
+    "Team profiles and resumes",
+    "Details of any existing funding or partnerships"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Indian Institute of Science (IISc), Bengaluru",
+  "contact_details": "Email: office.divdeans@iisc.ac.in | Phone: +91-80-22932478; +91-80-22932286",
+  "caveats": [
+    "Incubation support is subject to periodic review and may be withdrawn if milestones are not met",
+    "Access to certain labs or equipment may require additional approvals or safety clearances",
+    "The program does not guarantee funding; startups must seek external investment independently",
+    "Intellectual property generated during incubation may be subject to IISc's IP policies",
+    "Preference is given to startups with IISc affiliation or those utilizing IISc resources"
+  ],
+  "source_cited_notes": [
+    "https://iisc.ac.in/",
+    "https://iisc.ac.in/about/",
+    "https://iisc.ac.in/about/administration/deans-of-divisions/",
+    "https://iisc.ac.in/careers/post-doctoral-fellowship/",
+    "https://iisc.ac.in/wp-content/uploads/2025/01/Approval-Note_Students-Grievances-Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:31:33.586134+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-217",
+  "scheme_name": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT 1.0)",
+  "scheme_url": "https://amrut.gov.in",
+  "ministry_or_category": "Infrastructure",
+  "overview": "Atal Mission for Rejuvenation and Urban Transformation (AMRUT 1.0) is a centrally sponsored scheme launched by the Ministry of Housing and Urban Affairs (MoHUA) to provide basic infrastructure services such as water supply, sewerage, septage management, storm water drainage, green spaces, and non-motorized urban transport in 500 selected cities across India. The mission aims to ensure that every household has access to a tap with assured water supply and a sewerage connection, thereby improving the quality of life in urban areas, particularly for the poor and disadvantaged.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "urban local bodies",
+    "municipal corporations",
+    "state governments",
+    "urban poor"
+  ],
+  "geographic_scope": "Pan-India (500 selected cities)",
+  "objectives": [
+    "Ensure that every household has access to a tap with assured supply of water and a sewerage connection",
+    "Increase the amenity value of cities by developing greenery and well-maintained open spaces (e.g., parks)",
+    "Reduce pollution by switching to public transport or constructing facilities for non-motorized transport (e.g., walking and cycling)",
+    "Strengthen institutional and financial capacity of Urban Local Bodies (ULBs) for effective service delivery",
+    "Promote reforms in urban governance and service delivery through incentive-based mechanisms"
+  ],
+  "eligibility": "The scheme covers 500 cities selected based on criteria including: all cities and towns with a population of over one lakh with notified Municipalities, including Cantonment Boards; all capital cities of States/Union Territories; cities classified as Heritage Cities by MoHUA under the HRIDAY scheme; and cities located on the stem of major rivers (between 5-50 km). Urban Local Bodies (ULBs) of these selected cities are eligible to receive central assistance under AMRUT 1.0.",
+  "benefits": "Financial assistance from the Government of India for infrastructure projects in water supply, sewerage and septage management, storm water drainage, green spaces and parks, and non-motorized urban transport. The mission promotes convergence with other schemes like Swachh Bharat Mission (Urban), Housing for All (Urban), and Smart Cities Mission. It also encourages public-private partnerships (PPPs) and aims to improve service delivery and urban governance through institutional reforms and capacity building of ULBs.",
+  "financial_support": "AMRUT 1.0 had a total central outlay of INR 50,000 crore for the period 2015-16 to 2019-20, with funding shared between the Centre and States in a ratio of 90:10 for North Eastern and Himalayan States, 80:20 for other States, and 50:50 for Union Territories. Central Assistance is provided as grant-in-aid to States/UTs based on project proposals submitted in State Annual Action Plans (SAAPs), which are appraised and approved by the Apex Committee chaired by the Secretary, MoHUA.",
+  "fund_size_crores": "50000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs prepare State Annual Action Plans (SAAPs) detailing project proposals for water supply, sewerage, drainage, green spaces, and non-motorized transport. 2. SAAPs are submitted to the Ministry of Housing and Urban Affairs (MoHUA) for appraisal. 3. The Apex Committee under MoHUA reviews and approves the SAAPs. 4. Upon approval, central funds are released to States/UTs in installments based on utilization certificates and progress reports. 5. States/UTs further disburse funds to Urban Local Bodies (ULBs) for project implementation. 6. ULBs execute projects through tendering and project management, with monitoring by State and Central authorities.",
+  "application_portal_url": "https://amrut.gov.in",
+  "required_documents": [
+    "State Annual Action Plan (SAAP)",
+    "Utilization Certificates (UCs)",
+    "Progress Reports (Physical and Financial)",
+    "Project Detailed Project Reports (DPRs)",
+    "Land availability and ownership documents",
+    "Environmental and social clearances (if applicable)",
+    "Approval from State Level Sanctioning Committee (SLSC)"
+  ],
+  "deadlines": "AMRUT 1.0 was implemented from 2015-16 to 2019-20. The scheme has been subsumed into AMRUT 2.0, which was launched in 2021. No new applications are being accepted under AMRUT 1.0.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "AMRUT 1.0 has been completed and subsumed into AMRUT 2.0 (launched in 2021)",
+    "Central assistance is released only upon submission of Utilization Certificates and progress reports",
+    "States/UTs must contribute matching share as per prescribed funding pattern",
+    "Projects must conform to approved Service Level Benchmarks (SLBs) and urban reform milestones"
+  ],
+  "source_cited_notes": [
+    "https://amrut.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:20:43.347325+00:00"
+}

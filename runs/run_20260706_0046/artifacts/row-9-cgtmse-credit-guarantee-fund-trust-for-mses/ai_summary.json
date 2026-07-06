@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-9",
+  "scheme_name": "CGTMSE (Credit Guarantee Fund Trust for MSEs)",
+  "scheme_url": "https://www.cgtmse.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "CGTMSE (Credit Guarantee Fund Trust for Micro and Small Enterprises) is a joint initiative of the Ministry of Micro, Small & Medium Enterprises (MSME), Government of India and Small Industries Development Bank of India (SIDBI) to facilitate collateral-free credit to Micro and Small Enterprises (MSEs) by providing guarantee cover to eligible Member Lending Institutions (MLIs). It does not provide direct financial assistance but guarantees loans extended by MLIs to MSEs, thereby enhancing access to institutional credit for unserved and underserved entrepreneurs. Over the past 25 years, CGTMSE has approved 1.15 crore guarantees worth ₹9.34 lakh crore, with 276 MLIs registered under CGS-I and CGS-II as of March 31, 2025.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "Micro and Small Enterprises (MSEs)",
+    "new generation entrepreneurs",
+    "unserved and underserved MSEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Catalyse flow of institutional credit to Micro & Small Enterprises (MSEs)",
+    "Strengthen credit delivery system and facilitate flow of credit to the MSE sector",
+    "Create access to finance for unserved, under-served and underprivileged MSEs",
+    "Make availability of finance from conventional lenders to new generation entrepreneurs",
+    "Provide collateral and/or third party guarantee free credit facilities to MSEs",
+    "Build a vibrant and financially inclusive ecosystem for MSE contributors to the economy"
+  ],
+  "eligibility": "Eligible borrowers include new and existing Micro and Small Enterprises engaged in manufacturing or service activity (excluding Agriculture, Self Help Groups (SHGs), Joint Liability Group (JLG)). Borrowers must obtain IT PAN (mandatory for loans above ₹5 lakh) and Udyam Registration Number. Credit facilities can be extended by multiple institutions up to ₹10 crore per borrower, subject to individual MLI ceilings. Eligible Member Lending Institutions (MLIs) include Scheduled Commercial Banks (PSU, Private, Foreign), selected Regional Rural Banks, state financial corporations, NBFCs, Small Finance Banks (SFBs), Scheduled Urban Co-operative Banks, Microfinance Institutions (MFIs), SIDBI, NSIC, and NEDFi, subject to RBI and GOI guidelines.",
+  "benefits": "CGTMSE provides guarantee cover for collateral-free and third-party guarantee-free credit facilities extended by MLIs to MSEs. It enables access to institutional finance without requiring collateral or third-party guarantees. Special benefits include reduced guarantee fee (minimum 0.37% p.a.), increased guarantee coverage ceiling to ₹10 crore, and special provisions for women entrepreneurs. The guarantee does not involve direct financial assistance, loan disbursement, or subsidy by CGTMSE.",
+  "financial_support": "CGTMSE does not provide any financial assistance, loans, credit facilities, or subsidies. It only provides guarantee cover for credit facilities extended by eligible Member Lending Institutions (MLIs) such as Banks, RRBs, and select financial institutions. The guarantee is issued upon receipt of applicable guarantee fee by the MLI after loan sanction/disbursement. The quantum of guarantee is tied to the loan amount sanctioned by the MLI, with a maximum coverage of ₹10 crore per borrower.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach a Member Lending Institution (MLI) registered with CGTMSE for an MSE loan (Term Loan or Working Capital). 2. The MLI processes the loan application and sanctions/disburses the loan based on internal credit appraisal. 3. After loan sanction/disbursement, the MLI lodges an application for guarantee coverage with CGTMSE. 4. CGTMSE approves the application and issues the guarantee cover to the MLI upon receipt of the applicable guarantee fee.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Latest Annual Report",
+    "Undertaking duly stamped and signed",
+    "Compliance to conditions of MLI registration as per applicable guidance"
+  ],
+  "deadlines": "Rolling basis — MLIs can apply for guarantee cover anytime during the loan tenure, provided the credit facility was not restructured or remained in SMA2 status in the last 1 year from application date.",
+  "implementing_agency": "Ministry of Micro, Small & Medium Enterprises (MSME), Government of India and Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "Toll Free No.: 1800222659 | Contact Nos.: (022): 6722 1553, 6753 1313, 6722 1483 | Email for registration queries: registration@cgtmse.in",
+  "caveats": [
+    "CGTMSE does not provide any financial assistance, loans, credit facilities, or subsidies",
+    "CGTMSE deals only with MLIs (Banks/FIs) directly and does not have agents/agencies for loan arrangement",
+    "Guarantee cover is not available for credit facilities extended to Self Help Groups (SHGs)",
+    "Sharing of securities is not permitted in co-financing arrangements",
+    "Existing credit facilities can be covered only if not restructured or in SMA2 status in the last 1 year",
+    "Websites with deceptively similar names (e.g., www.cgtmse-govt.in) are not official and pose risks"
+  ],
+  "source_cited_notes": [
+    "https://cgtmse.in",
+    "https://cgtmse.in/Home",
+    "https://cgtmse.in/Home/VS/94",
+    "https://cgtmse.in/Home/VS/95",
+    "https://cgtmse.in/Home/VS/50",
+    "https://cgtmse.in/Home/VS/56",
+    "https://cgtmse.in/Home/VS/72",
+    "https://cgtmse.in/Home/VS/8",
+    "https://cgtmse.in/DocumentRepository/ckfinder/files/Undertaking27072023.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:22:53.688884+00:00"
+}

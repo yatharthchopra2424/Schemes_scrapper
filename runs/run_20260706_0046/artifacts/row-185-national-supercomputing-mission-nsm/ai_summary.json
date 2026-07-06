@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-185",
+  "scheme_name": "National Supercomputing Mission (NSM)",
+  "scheme_url": "https://www.nsmindia.in",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "The National Supercomputing Mission (NSM) is a joint initiative by the Department of Science and Technology (DST) and the Ministry of Electronics and Information Technology (MeitY) aimed at achieving self-reliance in supercomputing and enhancing India's capabilities in high-performance computing (HPC). The mission involves installing supercomputers across academic and R&D institutions, integrating them via the National Knowledge Network (NKN), and developing HPC-aware human resources. NSM supports research in diverse domains such as weather prediction, climate modeling, disaster management, computational biology, and AI through indigenous supercomputing systems like PARAM Shakti and PARAM Rudra.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "academic institutions",
+    "R&D labs",
+    "scientific community",
+    "researchers",
+    "students"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve self-reliance in supercomputing technology",
+    "Build a national infrastructure of supercomputing systems distributed across the country",
+    "Integrate supercomputing facilities through the National Knowledge Network (NKN)",
+    "Develop highly professional HPC-aware human resources",
+    "Enable solving multi-disciplinary grand challenge problems",
+    "Support R&D and problem-solving in scientific and technological domains",
+    "Position India's supercomputing ecosystem at a globally competitive level",
+    "Promote indigenous development of HPC systems and software"
+  ],
+  "eligibility": "Academic and R&D institutions as well as key user departments/ministries participate by using NSM facilities to develop applications of national relevance. Access is provided through the National Knowledge Network (NKN).",
+  "benefits": "Access to high-performance computing systems (e.g., PARAM Shakti, PARAM Rudra) for research in AI, quantum phenomena, turbulence simulations, catalyst design, flood prediction, urban modeling, and more. Enables high-impact publications, training of students, development of indigenous HPC software and hardware, and collaboration with agencies like IMD and municipal corporations for decision support systems.",
+  "financial_support": "The Mission is implemented and steered jointly by the Department of Science and Technology (DST) and Ministry of Electronics and Information Technology (MeitY) at an estimated cost of Rs. 4500 crore over a period of seven years.",
+  "fund_size_crores": "4500",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify research problem of national relevance requiring HPC resources. 2. Affiliate with an academic or R&D institution participating in NSM. 3. Submit proposal through institutional channels for access to NSM supercomputing facilities. 4. Proposal reviewed for scientific merit and alignment with NSM objectives. 5. Upon approval, allocate computing time on systems like PARAM Shakti or PARAM Rudra. 6. Utilize allocated resources for simulations, modeling, and analysis. 7. Submit outcomes and publications as part of mission deliverables.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing objectives and methodology",
+    "Institutional affiliation proof",
+    "Scientific justification for HPC requirement",
+    "Expected outcomes and deliverables",
+    "Budget and resource plan"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year based on availability and review cycles.",
+  "implementing_agency": "Department of Science and Technology (DST) and Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "Access is limited to institutions and researchers with approved projects of national relevance",
+    "Allocation of computing time is subject to availability and peer review",
+    "Systems are primarily for academic and R&D use, not commercial exploitation",
+    "Beneficiaries must acknowledge NSM support in publications and outcomes"
+  ],
+  "source_cited_notes": [
+    "https://nsmindia.in/about-nsm",
+    "https://nsmindia.in/",
+    "https://nsmindia.in/infrastructure/",
+    "https://nsmindia.in/applications/projects/",
+    "https://nsmindia.in/testimonials/",
+    "https://nsmindia.in/news-events/"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:01:10.694270+00:00"
+}

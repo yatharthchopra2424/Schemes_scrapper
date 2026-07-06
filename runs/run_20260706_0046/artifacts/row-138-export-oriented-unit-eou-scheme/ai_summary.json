@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-138",
+  "scheme_name": "Export Oriented Unit (EOU) Scheme",
+  "scheme_url": "https://www.dgft.gov.in/CP/?opt=EOU",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "The Export Oriented Unit (EOU) Scheme is a policy initiative under India's Foreign Trade Policy that allows units to undertake export-oriented production with benefits such as duty-free import of capital goods, raw materials, and consumables, as well as exemptions from central excise duty and service tax. The scheme aims to boost exports by providing fiscal incentives and simplifying procedural requirements for units committed to exporting their entire production. EOUs are permitted to sell up to 50% of their output in the Domestic Tariff Area (DTA) under certain conditions, subject to payment of applicable duties.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "manufacturers",
+    "exporters",
+    "MSME",
+    "large enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote export-oriented production and increase India's foreign exchange earnings",
+    "To provide duty-free import of capital goods, raw materials, and consumables for export production",
+    "To exempt EOUs from central excise duty and service tax on goods and services used in the production process",
+    "To allow EOUs to sell a limited portion of their output in the Domestic Tariff Area (DTA) under specified conditions",
+    "To simplify procedural compliance and reduce transaction costs for export-oriented units",
+    "To enhance competitiveness of Indian exports through fiscal incentives and streamlined regulations"
+  ],
+  "eligibility": "Units undertaking to export their entire production of goods and services (except permissible sales in DTA) are eligible under the EOU Scheme. The unit must be engaged in manufacturing, services, software development, agriculture, aquaculture, animal husbandry, floriculture, horticulture, pisciculture, poultry, sericulture, viticulture, or mining. The unit must achieve a positive net foreign exchange earnings cumulatively over a period of five years from the commencement of production. The unit must not be engaged in any activity listed in the negative list of exports as per the Foreign Trade Policy.",
+  "benefits": "EOUs are entitled to duty-free import of capital goods, raw materials, components, consumables, spares, and packaging materials required for the manufacture of goods for export. They are exempt from paying central excise duty on goods manufactured and service tax on services utilized in the production process. EOUs can procure goods from bonded warehouses and export promotion capital goods (EPCG) scheme holders without payment of duties. They are allowed to sell up to 50% of their annual production in the Domestic Tariff Area (DTA) on payment of applicable duties. EOUs can also avail of refunds of duties and taxes paid on inputs used in the manufacture of exported goods under the duty drawback scheme.",
+  "financial_support": "The EOU Scheme does not provide direct financial subsidies or grants. Instead, it offers fiscal incentives through exemptions and concessions: duty-free import of inputs, exemption from central excise and service tax, and eligibility for duty drawback on exported goods. The financial benefit is indirect, arising from reduced input costs and tax liabilities, thereby improving the competitiveness and profitability of export-oriented units.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an application in the prescribed format (Form F) to the Development Commissioner of the concerned Export Processing Zone (EPZ) or the Unit Approval Committee (UAC) under the Department of Commerce. 2. Provide details of the proposed project, including investment, employment, export projections, and foreign exchange earnings. 3. Submit supporting documents such as certificate of incorporation, project report, partnership deed, and bank solvency certificate. 4. Obtain approval from the Unit Approval Committee (UAC) or the Development Commissioner. 5. Execute a Legal Undertaking (LUT) or bond with customs authorities for adherence to export obligations. 6. Upon approval, commence operations and begin availing benefits under the scheme.",
+  "application_portal_url": "https://www.dgft.gov.in/CP/?opt=EOU",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Memorandum and Articles of Association / Partnership Deed",
+    "Project Report detailing investment, employment, export projections, and foreign exchange earnings",
+    "Bank Solvency Certificate",
+    "Income Tax Returns of the promoters (for last 3 years)",
+    "List of Plant and Machinery with CIF value",
+    "Details of Technical Know-how or Collaboration Agreement (if any)",
+    "Undertaking to achieve positive net foreign exchange earnings",
+    "Letter of Authorization for signatory",
+    "Board Resolution authorizing the application (for companies)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Directorate General of Foreign Trade (DGFT), Department of Commerce, Ministry of Commerce and Industry",
+  "contact_details": "Email: dgftedi[at]nic[dot]in | Helpline: 1800-572-1550 / 1800-111-550",
+  "caveats": [
+    "EOUs must achieve positive net foreign exchange earnings cumulatively over five years from commencement of production",
+    "Sale in Domestic Tariff Area (DTA) is limited to 50% of annual export earnings or equivalent value, subject to payment of applicable duties",
+    "Failure to meet export obligations may result in withdrawal of benefits and recovery of duties exempted",
+    "Units must not engage in any activity listed in the negative list of exports under the Foreign Trade Policy",
+    "Benefits are contingent upon adherence to the Legal Undertaking (LUT) or bond executed with customs authorities"
+  ],
+  "source_cited_notes": [
+    "https://www.dgft.gov.in/CP/?opt=EOU"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:34:52.523055+00:00"
+}

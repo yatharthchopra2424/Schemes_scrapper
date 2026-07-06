@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-692",
+  "scheme_name": "National Career Service (NCS) Portal – MSME Hiring",
+  "scheme_url": "https://www.ncs.gov.in",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "National Career Service (NCS) Portal – one-stop destination that provides a one-stop destination that provides a host of career-related services such as dynamic job matching, career-related services such as dynamic job matching, career counselling, job notifications, vocational guidance, information on skill development courses, internships and alike. A national portal (www.ncs.gov.in) is operational and provides a nation-wide platform to connect job seekers and employers.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "jobseekers",
+    "employers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide dynamic job matching services",
+    "Offer career counselling and vocational guidance",
+    "Deliver job notifications and information on skill development courses",
+    "Facilitate internships and career development opportunities",
+    "Connect job seekers and employers through a national platform"
+  ],
+  "eligibility": "Any Jobseeker can register itself on NCS Portal by following the below mentioned steps: Visit www.ncs.gov.in, The Home Page will be displayed - Click on New User? Sign Up button on right side of the Home Page. - Select the Jobseeker option from the “Register As” drop-down. This displays the employer user registration screen. - Fill the complete Registration Form basic details along with Unique Identification Number (either of Pan card, Voter’s Identity Card, Passport, Driving License, or UAN Number) - After successful registration, an OTP will be sent to the registered mobile number. Use the same OTP for successful verification - After entering the OTP, Click on Submit button and the account will been created successfully.",
+  "benefits": "NCS offers two kinds of profiles for Jobseekers (i) Detailed Profile: For Jobseekers with qualification above class 12th (ii) Short Profile: For Jobseekers with qualification below class 12th. Once registered on NCS Portal, the Job seeker should update profile to get Job recommendations and noticed by Employers for relevant openings. - Click on “View/Update NCS Profile” in left navigation panel and update profile (i) Detailed Profile - Personal information, Physical Attributes, Communication, Education and Training, Experience, Other Skills, My references, Preferences all the tabs need to be updated (ii) Short Profile - Only needs to update Personal Information and Communication Tabs - Upload relevant documents under each tab using “DigiLocker connect” Link. Jobseekers who are already registered on DigiLocker , can sign in using existing credentials and those who do not have DigiLocker account can sign up using Mobile no. or Aadhaar no. - Once successfully registered on DigiLocker, NCS will take consent to share certificates with NCS reg",
+  "financial_support": "",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit www.ncs.gov.in, The Home Page will be displayed 2. Click on New User? Sign Up button on right side of the Home Page. 3. Select the Jobseeker option from the “Register As” drop-down. This displays the employer user registration screen. 4. Fill the complete Registration Form basic details along with Unique Identification Number (either of Pan card, Voter’s Identity Card, Passport, Driving License, or UAN Number) 5. After successful registration, an OTP will be sent to the registered mobile number. Use the same OTP for successful verification 6. After entering the OTP, Click on Submit button and the account will been created successfully.",
+  "application_portal_url": "https://www.ncs.gov.in",
+  "required_documents": [
+    "Unique Identification Number (either of Pan card, Voter’s Identity Card, Passport, Driving License, or UAN Number)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Directorate General of Employment, MINISTRY OF LABOUR",
+  "contact_details": "support[dot]ncs[at]gov[dot]in | 1514 (NCS) | 1930 (Cyber Crime)",
+  "caveats": [
+    "NCS services are free of cost. NCS does not charge any fee at any stage of registration, job application, interview processing and other employment related services. Jobseekers should not pay fees to employers. NCS does not endorse or take responsibility for such practices."
+  ],
+  "source_cited_notes": [
+    "https://ncs.gov.in/User_Manuals/Jobseeker%20Handbook.pdf"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:59:11.729073+00:00"
+}

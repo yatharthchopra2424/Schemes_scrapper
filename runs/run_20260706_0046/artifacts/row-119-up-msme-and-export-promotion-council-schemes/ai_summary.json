@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-119",
+  "scheme_name": "UP MSME and Export Promotion Council Schemes",
+  "scheme_url": "https://upmsme.in",
+  "ministry_or_category": "State Level (UP)",
+  "overview": "The UP MSME and Export Promotion Council Schemes, administered by the Uttar Pradesh government, aim to support micro, small, and medium enterprises (MSMEs) and promote exports from the state. The scheme provides financial assistance, infrastructure support, and market access initiatives to enhance competitiveness and growth of MSMEs in Uttar Pradesh. It focuses on strengthening the industrial base, encouraging technology adoption, and facilitating integration into domestic and global value chains.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Uttar Pradesh only",
+  "objectives": [
+    "Promote the growth and competitiveness of MSMEs in Uttar Pradesh",
+    "Enhance export potential of MSMEs through market development assistance",
+    "Provide financial support for technology upgradation and modernization",
+    "Develop infrastructure and common facility centers for cluster-based development",
+    "Encourage entrepreneurship and skill development in the MSME sector",
+    "Facilitate access to credit and financial institutions for MSMEs",
+    "Support participation in domestic and international trade fairs and exhibitions",
+    "Strengthen institutional mechanisms for MSME policy implementation and monitoring"
+  ],
+  "eligibility": "Eligible beneficiaries include micro, small, and medium enterprises as defined under the MSMED Act, 2006, having their registered office or operational unit in Uttar Pradesh. Enterprises must be engaged in manufacturing or service activities and possess valid Udyam Registration. Specific sub-schemes may have additional criteria related to export turnover, investment in plant and machinery, or sector-specific focus.",
+  "benefits": "Benefits include capital subsidy for plant and machinery, interest subsidy on term loans, reimbursement of ISO certification costs, support for patent registration, assistance for participation in trade fairs, market development aid, infrastructure support through cluster development programs, and skill training initiatives. Financial incentives are provided as per the norms of individual sub-schemes under the council.",
+  "financial_support": "Financial support varies across sub-schemes and includes capital subsidy up to a certain percentage of investment in plant and machinery, interest subsidy on bank loans, and reimbursement of expenses for quality certification and export promotion activities. The exact quantum and mechanism depend on the specific scheme under the UP MSME and Export Promotion Council, with disbursement typically made through designated nodal agencies or banks after verification of claims.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant sub-scheme under UP MSME and Export Promotion Council based on enterprise needs. 2. Ensure eligibility and obtain Udyam Registration. 3. Prepare the required documents as per the sub-scheme guidelines. 4. Submit the application either online through the designated portal or offline to the concerned district industry center or nodal agency. 5. Application undergoes scrutiny and verification by the implementing agency. 6. Upon approval, financial assistance is disbursed as per the scheme norms, either directly to the beneficiary or through the lending institution.",
+  "application_portal_url": "https://upmsme.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Aadhaar and PAN of the proprietor/partners/directors",
+    "Certificate of Incorporation / Partnership Deed / MSME Registration",
+    "Project Report or Business Plan",
+    "Quotations for plant and machinery (if applicable)",
+    "Bank sanction letter for term loan (for interest subsidy claims)",
+    "Proof of export realization (for export promotion schemes)",
+    "ISO or other certification certificates (for reimbursement claims)",
+    "Details of bank account",
+    "Address proof of the business unit"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Uttar Pradesh MSME and Export Promotion Council",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are subject to availability of funds under the state budget",
+    "Claims must be submitted within the stipulated time frame after incurring expenditure",
+    "Double benefits under central and state schemes for the same expenditure may not be allowed",
+    "Specific sub-schemes may have sectoral, geographical, or investment ceilings",
+    "Beneficiary must not have availed of similar benefits from other government sources for the same purpose"
+  ],
+  "source_cited_notes": [
+    "https://upmsme.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:21:24.984683+00:00"
+}

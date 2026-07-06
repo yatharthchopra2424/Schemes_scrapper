@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-235",
+  "scheme_name": "Support to Training & Employment Programme (STEP)",
+  "scheme_url": "https://wcd.nic.in/step-scheme",
+  "ministry_or_category": "Social Welfare",
+  "overview": "The Support to Training and Employment Programme (STEP) is a Central Sector Scheme implemented by the Ministry of Women and Child Development to provide skills that enhance employability and entrepreneurship among women aged 16 years and above across India. The scheme focuses on traditional sectors such as agriculture, horticulture, food processing, handlooms, handicrafts, textile and embroidery, zari work, sericulture, fisheries, and allied sectors, aiming to empower women through skill development and self-employment opportunities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "women"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide skills that enhance employability and entrepreneurship among women",
+    "To provide competencies and skills that enable women to become self-employed/entrepreneurs",
+    "To cover traditional sectors such as agriculture, horticulture, food processing, handlooms, handicrafts, textile and embroidery, zari work, sericulture, fisheries, and allied sectors"
+  ],
+  "eligibility": "Women aged 16 years and above across India are eligible to benefit from the scheme. The implementing agencies include Institutions/Organisations set up as Autonomous Bodies under Ministries/Departments of Government of India, State Governments/UT Administrations, Voluntary Organisations, Non-Governmental Organisations, Co-operatives, and other similar entities engaged in training and employment generation for women.",
+  "benefits": "The scheme provides skill training in traditional sectors to enhance employability and entrepreneurship among women, enabling them to become self-employed or start their own enterprises. It supports capacity building and income generation through training and market linkages in identified traditional sectors.",
+  "financial_support": "The scheme provides financial assistance to implementing agencies for setting up training infrastructure, procurement of equipment, raw materials, honorarium to trainers, and other recurring and non-recurring expenses related to training programs. The quantum of support is project-based and sanctioned by the Ministry of Women and Child Development based on detailed project reports submitted by implementing agencies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a project proposal aligned with STEP objectives in traditional sectors. 2. Prepare a Detailed Project Report (DPR) including objectives, beneficiary details, training modules, budget, and sustainability plan. 3. Submit the DPR to the Ministry of Women and Child Development for appraisal and approval. 4. Upon approval, enter into a Memorandum of Understanding (MOU) with the Ministry. 5. Implement the training program as per the approved DPR. 6. Submit periodic progress reports and utilization certificates of accounts to the Ministry. 7. Undergo monitoring and evaluation by the Ministry or its designated agencies.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Memorandum of Understanding (MOU) with the Ministry",
+    "Progress reports",
+    "Utilization certificates",
+    "Accounts and audit reports"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Women and Child Development",
+  "contact_details": "",
+  "caveats": [
+    "The scheme is implemented through project-based sanctions to eligible agencies",
+    "Benefits are extended only to women aged 16 years and above",
+    "Training must be conducted in identified traditional sectors as per scheme guidelines"
+  ],
+  "source_cited_notes": [
+    "https://wcd.nic.in/step-scheme"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:26:09.107626+00:00"
+}

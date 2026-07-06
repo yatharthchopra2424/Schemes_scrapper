@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-698",
+  "scheme_name": "Faceless Assessment & Appeal Scheme for MSMEs",
+  "scheme_url": "https://www.incometaxindia.gov.in",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "The Faceless Assessment & Appeal Scheme for MSMEs is a tax administration initiative by the Income Tax Department of India aimed at providing a transparent, efficient, and technology-driven assessment and appeal process for Micro, Small, and Medium Enterprises (MSMEs). It eliminates physical interface between taxpayers and tax authorities by conducting proceedings electronically through a centralized system. The scheme enhances compliance, reduces litigation, and ensures timely resolution of tax matters for MSMEs under the Income Tax Act, 2025 and related rules.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To conduct faceless assessment and appeal proceedings for MSMEs using digital platforms",
+    "To eliminate human interface between taxpayers and income tax authorities",
+    "To ensure transparency, consistency, and objectivity in tax assessments",
+    "To reduce compliance burden and litigation for MSMEs",
+    "To provide timely disposal of assessment and appeal cases",
+    "To leverage technology for efficient tax administration",
+    "To promote voluntary compliance through a trust-based system"
+  ],
+  "eligibility": "All Micro, Small, and Medium Enterprises (MSMEs) as defined under the Micro, Small and Medium Enterprises Development Act, 2006, who are assessees under the Income Tax Act, 1961 or Income Tax Act, 2025, and whose assessment or appeal proceedings are selected for faceless proceedings under the scheme notified by the Central Board of Direct Taxes (CBDT).",
+  "benefits": "Elimination of physical interface with tax authorities, reduced compliance burden, transparent and standardized assessment process, timely disposal of cases, access to centralized facilitation centers, reduced scope for harassment or discretion, and enhanced trust in tax administration through technology-driven proceedings.",
+  "financial_support": "The scheme does not provide direct financial support, grants, subsidies, or loan benefits. It is a procedural and administrative reform aimed at improving the efficiency and fairness of tax assessment and appeal processes for MSMEs without any monetary disbursement.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. The Income Tax Department initiates faceless assessment or appeal proceedings based on risk management criteria and assigns a unique document identification number (DIN). 2. Notices are served electronically through the registered email ID of the MSME assessee or their authorized representative. 3. The assessee must respond within the stipulated time by uploading required documents and submissions on the designated e-filing portal (incometaxindia.gov.in). 4. All communications, including notices, responses, and orders, are exchanged electronically via the faceless assessment and appeal platform. 5. The assessment or appeal is decided by a designated Faceless Assessment Unit or Faceless Appeal Unit located anywhere in India. 6. Final orders are communicated electronically to the assessee through the e-filing portal.",
+  "application_portal_url": "https://www.incometaxindia.gov.in",
+  "required_documents": [
+    "PAN of the MSME assessee",
+    "Aadhaar of authorized signatory (if applicable)",
+    "Business registration documents (Udyam Registration Certificate)",
+    "Financial statements (Balance Sheet, Profit & Loss Account)",
+    "Tax audit report (if applicable under section 44AB)",
+    "Copy of the notice or communication received under the faceless scheme",
+    "Any supporting documents relevant to the assessment or appeal grounds",
+    "Authorization letter if represented by a tax professional or chartered accountant"
+  ],
+  "deadlines": "As per the timelines specified in the individual notice or communication issued under the Faceless Assessment & Appeal Scheme; responses must be submitted within the stipulated date mentioned in the electronic notice.",
+  "implementing_agency": "Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India",
+  "contact_details": "Email: admin@incometaxindia.gov.in | Helpline: 1800-180-1961 (as per standard Income Tax Department contact details available on the portal)",
+  "caveats": [
+    "The scheme applies only to cases specifically selected for faceless proceedings by the CBDT",
+    "Failure to respond within the stipulated time may result in ex parte assessment or dismissal of appeal",
+    "All proceedings are conducted exclusively in electronic mode; no physical hearings are permitted",
+    "The assessee must maintain a valid and active email ID and mobile number registered on the e-filing portal",
+    "Representation through a tax professional requires proper authorization via Form 28 or similar"
+  ],
+  "source_cited_notes": [
+    "https://www.incometaxindia.gov.in",
+    "https://incometaxindia.gov.in/circulars",
+    "https://incometaxindia.gov.in/notifications"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:03:41.704293+00:00"
+}

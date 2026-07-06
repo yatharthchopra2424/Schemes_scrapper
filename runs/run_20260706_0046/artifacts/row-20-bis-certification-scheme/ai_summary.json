@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-20",
+  "scheme_name": "BIS Certification Scheme",
+  "scheme_url": "https://bis.gov.in",
+  "ministry_or_category": "Compliance & Registration",
+  "overview": "The Bureau of Indian Standards (BIS) is India's national standards body responsible for standardization, hallmarking, and conformity assessment. It develops and publishes Indian standards, implements product certification schemes including compulsory registration for electronics and IT goods, operates hallmarking schemes for gold and silver jewellery, and provides laboratory services and management system certifications. BIS also engages in consumer affairs, training, and international standardization activities.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "manufacturers",
+    "laboratories",
+    "jewellers",
+    "consumers",
+    "industry"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Harmonious development of standardization, marking, and quality certification activities",
+    "Provide thrust to standardization and quality control for industrial growth and consumer protection",
+    "Develop consensus-based voluntary national standards through stakeholder consultation",
+    "Operate product certification, hallmarking, and management systems certification schemes",
+    "Ensure conformity of goods and services to relevant Indian standards through testing and inspection"
+  ],
+  "eligibility": "Eligibility varies by scheme: For product certification, manufacturers must comply with relevant Indian standards; for hallmarking, jewellers and assaying centres must meet BIS requirements; for laboratory recognition, outside labs must meet IS/ISO/IEC 17025 criteria; for compulsory registration, electronics and IT goods manufacturers must register under the order notified by MeitY.",
+  "benefits": "Benefits include legal compliance, consumer trust, market access, quality assurance, hallmarking purity guarantee, ability to use BIS standard mark, access to government tenders, and recognition under various national and international frameworks.",
+  "financial_support": "BIS does not provide direct financial support to beneficiaries; it operates through fees for services such as licensing, testing, and certification. Revenue is generated from product certification marking fees, laboratory services, and hallmarking operations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant Indian Standard for the product or service. 2. Ensure compliance with the standard through appropriate manufacturing and quality control. 3. Apply online via the BIS portal (www.manakonline.in) for licensing or registration. 4. Submit required documents and pay applicable fees. 5. Undergo factory inspection and testing by BIS or recognized labs. 6. Upon successful evaluation, grant of licence or registration is issued.",
+  "application_portal_url": "www.manakonline.in",
+  "required_documents": [
+    "Application form",
+    "Proof of factory address",
+    "Product details and specifications",
+    "Quality control arrangements",
+    "Test reports from BIS or recognized labs",
+    "Fee payment proof"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Bureau of Indian Standards (under Department of Consumer Affairs, Ministry of Consumer Affairs, Food and Public Distribution)",
+  "contact_details": "Email: dg@bis.org.in | Website: www.bis.org.in",
+  "caveats": [
+    "Certification is voluntary except for specific products made compulsory by government orders",
+    "Hallmarking licences are region-specific and require renewal",
+    "Laboratory recognition requires adherence to IS/ISO/IEC 17025 standards",
+    "Compulsory registration applies only to notified electronics and IT goods categories"
+  ],
+  "source_cited_notes": [
+    "https://bis.gov.in",
+    "https://bis.gov.in/index.php/apply-for-a-license",
+    "https://bis.gov.in/wp-content/uploads/2022/03/EC-Notification-16.03.2022.pdf",
+    "https://bis.gov.in/wp-content/uploads/2021/03/Review_Statement_2019-20.pdf",
+    "https://bis.gov.in/wp-content/uploads/2020/03/ReviewStatementofBISAR201819.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:30:56.747086+00:00"
+}

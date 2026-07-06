@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-115",
+  "scheme_name": "EDII Tamil Nadu Incubation Scheme",
+  "scheme_url": "https://edii.org.in",
+  "ministry_or_category": "State Level (Tamil Nadu)",
+  "overview": "The EDII Tamil Nadu Incubation Scheme is a state-level initiative aimed at fostering innovation and entrepreneurship by providing incubation support to early-stage startups in Tamil Nadu. The scheme offers mentorship, infrastructure, and guidance to help startups validate their ideas and scale operations. It is implemented by the Entrepreneurship Development Institute of India (EDII) Tamil Nadu chapter, leveraging its expertise in entrepreneurial development.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage entrepreneurs"
+  ],
+  "geographic_scope": "Tamil Nadu only",
+  "objectives": [
+    "To nurture innovative startup ideas through structured incubation support",
+    "To provide access to mentorship, infrastructure, and networking opportunities",
+    "To enhance the survival and growth rate of early-stage ventures in Tamil Nadu",
+    "To promote inclusive entrepreneurship by supporting diverse founder profiles"
+  ],
+  "eligibility": "Startups incorporated in Tamil Nadu with a viable innovative idea or prototype, preferably in early stages (pre-revenue or early revenue), led by entrepreneurs committed to building scalable ventures.",
+  "benefits": "Access to incubation infrastructure, mentorship from industry experts and academics, networking with investors and peers, guidance on business modeling, legal compliance, and fundraising, and support in prototype development and market validation.",
+  "financial_support": "The scheme does not provide direct financial grants or seed funding; support is primarily non-financial in nature, focusing on mentorship, infrastructure, and advisory services.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official EDII Tamil Nadu website or incubation portal. 2. Fill out the online application form with details about the startup idea, team, and stage. 3. Submit required documents including incorporation proof, pitch deck, and founder profiles. 4. Await screening by the EDII selection committee. 5. Shortlisted candidates are invited for a pitch or interview. 6. Selected startups are formally onboarded into the incubation program.",
+  "application_portal_url": "https://edii.org.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN card of the startup or founders",
+    "Pitch deck or business plan",
+    "Founder profiles and resumes",
+    "Proof of address or domicile in Tamil Nadu",
+    "Details of any existing funding or support or funding received"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Entrepreneurship Development Institute of India (EDII), Tamil Nadu Chapter",
+  "contact_details": "",
+  "caveats": [
+    "No direct financial assistance or seed fund is provided under this scheme",
+    "Incubation support is typically time-bound and subject to periodic review",
+    "Continued participation is contingent on progress and adherence to milestones",
+    "Preference may be given to startups aligned with Tamil Nadu’s priority sectors"
+  ],
+  "source_cited_notes": [
+    "https://edii.org.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:20:47.899700+00:00"
+}

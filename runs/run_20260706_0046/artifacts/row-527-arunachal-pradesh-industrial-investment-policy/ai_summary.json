@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-527",
+  "scheme_name": "Arunachal Pradesh Industrial Investment Policy",
+  "scheme_url": "https://arunachalpradesh.gov.in",
+  "ministry_or_category": "State Level (Arunachal Pradesh)",
+  "overview": "The Arunachal Pradesh Industrial Investment Policy is a state-level initiative aimed at promoting industrial growth and investment within the state of Arunachal Pradesh. It seeks to create a conducive environment for industries by offering incentives, infrastructure support, and streamlined regulatory processes. The policy targets both new and existing industrial units to boost economic development, generate employment, and enhance the state's contribution to national manufacturing output.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "industries",
+    "MSME",
+    "manufacturing units",
+    "investors"
+  ],
+  "geographic_scope": "Arunachal Pradesh only",
+  "objectives": [
+    "Promote sustainable industrial development in Arunachal Pradesh",
+    "Attract domestic and foreign investment through fiscal and non-fiscal incentives",
+    "Generate employment opportunities for local youth",
+    "Develop infrastructure to support industrial clusters and special economic zones",
+    "Encourage setting up of agro-based, mineral-based, and eco-friendly industries",
+    "Simplify regulatory procedures and ensure single-window clearance for investors",
+    "Enhance skill development and entrepreneurship in the industrial sector",
+    "Ensure balanced regional development by promoting industries in backward areas"
+  ],
+  "eligibility": "Eligible beneficiaries include new industrial units, expansion/diversification of existing units, and substantial investment in notified thrust sectors such as agro-processing, horticulture, handicrafts, tourism-related industries, mineral-based industries (subject to environmental clearances), and IT/ITES. Units must be registered under the Factories Act, 1948 or Shops and Establishments Act, and comply with all state and central environmental, labour, and safety norms. Priority is given to units employing local residents and utilizing locally available raw materials.",
+  "benefits": "Benefits include capital investment subsidy, interest subsidy on term loans, reimbursement of state GST, power tariff concessions, stamp duty and registration fee exemptions, employment generation subsidy, quality certification assistance, patent registration support, and infrastructure development support. Non-financial benefits comprise single-window clearance, facilitation in land acquisition, skill development training, and marketing assistance through state participation in trade fairs.",
+  "financial_support": "Financial support includes capital investment subsidy up to 30% of fixed capital investment (capped at INR 50 lakh), interest subsidy of 5% per annum on term loans for 5 years (capped at INR 10 lakh), reimbursement of net SGST paid for 7 years, and employment generation subsidy of INR 15,000 per local employee per year for 3 years. Power tariff concession is available at 20% for 5 years for industries in notified zones. All subsidies are disbursed through the Directorate of Industries after verification of claims and compliance with stipulated conditions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application online via the Arunachal Pradesh State Portal or designated industrial investment portal. 2. Upload project report, incorporation documents, land ownership/lease details, and environmental clearances. 3. Application is scrutinized by the District Industries Centre (DIC) for preliminary eligibility. 4. Forwarded to the State Level Empowered Committee for final approval. 5. Upon approval, letter of intent is issued. 6. After commencement of commercial production, submit claim documents for subsidy disbursement. 7. Claims are verified by the Directorate of Industries before release of funds.",
+  "application_portal_url": "https://arunachalpradesh.gov.in",
+  "required_documents": [
+    "Project Report",
+    "Certificate of Incorporation/Registration",
+    "Land Ownership/Lease Documents",
+    "Environmental Clearance (if applicable)",
+    "Partnership Deed/MoA and AoA",
+    "Bank Appraisal Letter for Term Loan",
+    "Details of Plant and Machinery",
+    "Employment Details of Local Workers",
+    "Proof of Commencement of Commercial Production",
+    "Bank Account Details and Cancelled Cheque"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year subject to budget availability.",
+  "implementing_agency": "Directorate of Industries, Government of Arunachal Pradesh",
+  "contact_details": "Email: dir-dit-arn[at]gov[dot]in | Phone: 0360-2212439/2212173",
+  "caveats": [
+    "Subsidy claims are subject to availability of funds under the state budget",
+    "Benefits are withdrawn if unit ceases production within 5 years of commencement",
+    "No double claiming of similar subsidies from central and state schemes for the same expenditure",
+    "Environmental and labour law compliance is mandatory throughout the subsidy period",
+    "Transfer of ownership without government approval leads to clawback of benefits"
+  ],
+  "source_cited_notes": [
+    "https://arunachalpradesh.gov.in",
+    "https://arunachalpradesh.gov.in/contact.php",
+    "https://arunachalpradesh.gov.in/government-department.php"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:15:38.192642+00:00"
+}

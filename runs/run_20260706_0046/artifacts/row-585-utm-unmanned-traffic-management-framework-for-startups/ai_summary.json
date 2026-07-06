@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-585",
+  "scheme_name": "UTM (Unmanned Traffic Management) Framework for Startups",
+  "scheme_url": "https://www.dgca.gov.in",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The UTM (Unmanned Traffic Management) Framework for Startups is a policy initiative by the Directorate General of Civil Aviation (DGCA) aimed at enabling safe and efficient integration of drones into Indian airspace. It supports startups in developing UTM technologies and services by providing regulatory guidance, testing infrastructure, and operational clearances. The framework encourages innovation in drone traffic management systems, including beyond visual line of sight (BVLOS) operations, and aligns with national drone policy goals.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable safe integration of unmanned aircraft systems (UAS) into Indian airspace",
+    "Support startups in developing UTM technologies and services",
+    "Provide regulatory sandbox for testing drone traffic management solutions",
+    "Facilitate beyond visual line of sight (BVLOS) drone operations",
+    "Promote indigenous innovation in drone navigation and surveillance systems",
+    "Ensure compliance with national drone regulations and international standards",
+    "Create a scalable framework for UTM implementation across India"
+  ],
+  "eligibility": "Startups incorporated in India working on unmanned traffic management (UTM) technologies, including drone navigation, surveillance, communication, and flight planning systems, are eligible to participate in the UTM Framework. Entities must comply with DGCA drone regulations and possess necessary technical capabilities for testing and validation.",
+  "benefits": "Startups gain access to DGCA-regulated test environments, regulatory guidance on UTM operations, facilitation of flight clearances for testing, collaboration opportunities with aviation stakeholders, and recognition under DGCA’s innovation initiatives. The framework supports validation of UTM solutions in real-world scenarios and aids in scaling operations.",
+  "financial_support": "The UTM Framework does not provide direct financial grants or funding. Support is primarily non-financial, focusing on regulatory enablement, access to test infrastructure, and operational clearances for drone traffic management systems developed by startups.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the DGCA website or eGCA portal to express interest in the UTM Framework. 2. Submit company profile and technical details of the UTM solution. 3. Await review by DGCA’s drone policy division. 4. Upon approval, engage in discussions for test environment access and regulatory guidance. 5. Conduct trials under DGCA supervision as per agreed parameters. 6. Submit test results and compliance reports for evaluation.",
+  "application_portal_url": "https://dgca.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "PAN of the entity",
+    "Technical description of the UTM solution",
+    "Details of drone systems to be used in testing",
+    "Data security and privacy compliance documents",
+    "Authorized signatory letter"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Directorate General of Civil Aviation (DGCA), Ministry of Civil Aviation",
+  "contact_details": "Email: pawan.dgca@nic.in | Phone: 011-24641450 Ext 523",
+  "caveats": [
+    "Participation does not guarantee financial support or subsidies",
+    "All drone operations must comply with existing DGCA regulations (Drone Rules, 2021)",
+    "Testing is subject to safety and security clearances",
+    "Startups bear all costs related to prototype development and test execution",
+    "UTM solutions must meet DGCA technical and operational standards"
+  ],
+  "source_cited_notes": [
+    "https://dgca.gov.in",
+    "https://dgca.gov.in/digigov-portal/?baseLocale=en_US%3Fpage%3Djsp%2Fdgca%2FtopHeader%2Fdrone%2FRegistration+of+Non-Type+Certified+UAS.pdf&mainundefined="
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:53:36.513652+00:00"
+}

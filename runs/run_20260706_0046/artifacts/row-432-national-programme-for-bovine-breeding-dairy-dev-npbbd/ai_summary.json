@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-432",
+  "scheme_name": "National Programme for Bovine Breeding & Dairy Dev (NPBBD)",
+  "scheme_url": "https://dahd.nic.in",
+  "ministry_or_category": "Animal Husbandry",
+  "overview": "The National Programme for Bovine Breeding & Dairy Development (NPBBD) is a centrally sponsored scheme aimed at enhancing milk production and productivity of bovines through genetic improvement, conservation of indigenous breeds, and development of dairy infrastructure. It focuses on strengthening semen stations, promoting artificial insemination, and supporting breed improvement programmes across the country. The scheme also supports the establishment of dairy cooperatives and milk processing units to ensure better returns for farmers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "livestock rearers",
+    "dairy cooperatives",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance milk production and productivity of bovines through genetic improvement",
+    "To conserve and develop indigenous bovine breeds",
+    "To strengthen semen production and distribution infrastructure",
+    "To promote artificial insemination and natural service coverage",
+    "To support dairy cooperative societies and milk processing units",
+    "To provide training and capacity building for stakeholders in bovine breeding"
+  ],
+  "eligibility": "Eligible beneficiaries include individual farmers, livestock rearers, dairy cooperative societies, self-help groups, NGOs, and state livestock development boards involved in bovine breeding and dairy development activities, subject to verification by the State Implementing Agency.",
+  "benefits": "Financial assistance for setting up semen stations, strengthening existing semen stations, procurement of breeding bulls, implementation of progeny testing and pedigree selection programmes, establishment of embryo transfer technology (ETT) labs, training of technicians and farmers, and support for dairy cooperative infrastructure and milk processing units.",
+  "financial_support": "The scheme provides financial assistance in the form of grants-in-aid and subsidies to eligible implementing agencies for various components such as semen station strengthening, breeding bull procurement, and dairy infrastructure development, with funding patterns varying by component and beneficiary type as per norms approved by the Government of India.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component under NPBBD for which assistance is sought. 2. Prepare a detailed project proposal as per the guidelines issued by the Department of Animal Husbandry and Dairying. 3. Submit the proposal to the State Implementing Agency (SIA) or State Livestock Development Board. 4. The SIA forwards the proposal to the Department of Animal Husbandry and Dairying, Government of India for appraisal and approval. 5. Upon approval, funds are released in installments based on utilization and submission of progress reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing objectives, methodology, and expected outcomes",
+    "Certificate of registration/incorporation of the applicant organization",
+    "Audited financial statements of the last three years",
+    "Land ownership or lease documents for the proposed site",
+    "Technical details of equipment and infrastructure to be procured",
+    "Undertaking regarding compliance with scheme guidelines",
+    "Bank account details of the applicant"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and approval timelines.",
+  "implementing_agency": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the scheme",
+    "Beneficiaries must adhere to technical norms and guidelines specified for each component",
+    "Utilization certificates and audited statements of expenditure are mandatory for subsequent fund releases",
+    "The scheme may be revised or discontinued based on policy decisions of the Government of India"
+  ],
+  "source_cited_notes": [
+    "https://dahd.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:26:23.200205+00:00"
+}

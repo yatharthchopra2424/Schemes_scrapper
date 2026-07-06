@@ -1,0 +1,44 @@
+{
+  "scheme_id": "row-623",
+  "scheme_name": "Green Climate Fund – India Projects",
+  "scheme_url": "https://moef.gov.in/gcf",
+  "ministry_or_category": "Climate & Environment",
+  "overview": "The Green Climate Fund (GCF) is a dedicated source of climate finance aimed at limiting or reducing greenhouse gas emissions and supporting climate change adaptation in developing countries. The Ministry of Environment, Forest and Climate Change (MoEFCC) has been designated as India's National Designated Authority (NDA) for the GCF, with its Climate Change Division serving as the focal point. The GCF Toolkit has been developed by India's NDA to guide national stakeholders in engaging with the fund, covering policies, governance, stakeholder roles, accreditation processes, and proposal development support.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "government entities",
+    "accredited entities",
+    "national stakeholders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To serve as the interface between the Green Climate Fund and the country to advance a country-driven approach to climate priorities",
+    "To provide guidance on Green Climate Fund investment priorities, national climate change policies, and the NDA's role and responsibilities",
+    "To support the accreditation process for Direct Access Entities (DAEs) through a national procedure",
+    "To assist in funding proposal development and readiness activities for accessing GCF resources",
+    "To promote transformative shifts toward low-emission and climate-resilient development aligned with national climate change priorities"
+  ],
+  "eligibility": "The Green Climate Fund Toolkit does not specify eligibility criteria for beneficiaries, as it is a guidance document intended for National Designated Authorities and national stakeholders to understand and engage with the GCF. Eligibility for GCF funding is determined by the GCF Board based on project proposals submitted by Accredited Entities.",
+  "benefits": "The toolkit provides comprehensive guidance on engaging with the Green Climate Fund, including understanding GCF investment criteria, navigating the accreditation process for Direct Access Entities, developing funding proposals, accessing readiness and preparatory support, and aligning projects with national climate change policies and GCF priorities. It supports national stakeholders in effectively accessing GCF resources for climate action.",
+  "financial_support": "The Green Climate Fund Toolkit itself does not provide financial support. It is a guidance document that assists stakeholders in accessing financial support from the Green Climate Fund, which provides grants, concessional loans, guarantees, and equity investments for climate mitigation and adaptation projects in developing countries.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The Green Climate Fund Toolkit does not outline an application process for the scheme itself, as it is a guidance resource. For accessing GCF funds, the process involves: 1. Identifying a project aligned with national climate priorities and GCF investment criteria; 2. Engaging with the National Designated Authority (MoEFCC Climate Change Division) for no-objection and support; 3. Applying through an Accredited Entity (international or national) or seeking accreditation as a Direct Access Entity; 4. Developing a funding proposal with support from the GCF's readiness and preparatory programs; 5. Submitting the proposal to the GCF Secretariat for review and approval by the GCF Board.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Applications to the Green Climate Fund are accepted throughout the year via Accredited Entities.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "contact_details": "admin[dot]repmis[hyphen]moef[at]gov[dot]in",
+  "caveats": [
+    "The toolkit is a guidance document and does not guarantee access to GCF funding",
+    "Access to GCF resources requires accreditation as an Accredited Entity or partnership with one",
+    "All GCF-funded projects must align with national climate change priorities and GCF investment criteria",
+    "The NDA's role is limited to providing no-objection letters and strategic guidance; it does not implement or fund projects directly"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in/green-climate-fund-toolkit"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:19:45.972951+00:00"
+}

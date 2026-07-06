@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-594",
+  "scheme_name": "National Policy on Biofuels 2018 (Revised 2022)",
+  "scheme_url": "https://petroleum.nic.in/biofuel",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "The National Policy on Biofuels 2018 (Revised 2022) aims to promote the use of biofuels in India by setting indicative blending targets for ethanol and biodiesel, encouraging advanced biofuels, and supporting the development of a sustainable biofuel ecosystem through policy interventions, financial incentives, and institutional mechanisms.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "biofuel producers",
+    "ethanol manufacturers",
+    "biodiesel producers",
+    "agricultural farmers",
+    "MSMEs in bioenergy",
+    "startups in advanced biofuels"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve 20% ethanol blending in petrol and 5% biodiesel blending in diesel by 2030",
+    "Promote production and use of advanced biofuels such as 2G ethanol, bio-CNG, and drop-in fuels",
+    "Reduce dependence on imported crude oil and enhance energy security",
+    "Support farmers by providing remunerative prices for surplus biomass and agricultural residues",
+    "Encourage research, development, and deployment of innovative biofuel technologies",
+    "Create employment opportunities in rural areas through biofuel value chains",
+    "Ensure environmental sustainability by reducing greenhouse gas emissions",
+    "Establish a national biofuel coordination committee for effective policy implementation"
+  ],
+  "eligibility": "Eligibility varies by biofuel type and production pathway. For ethanol: producers must comply with Bureau of Indian Standards (BIS) specifications, have valid licenses from excise authorities, and use approved feedstocks such as sugarcane, maize, damaged food grains, or surplus rice. For biodiesel: producers must use non-edible oils, used cooking oil, or animal fat, and meet BIS standards. Advanced biofuel projects require techno-economic clearance and adherence to sustainability criteria. All applicants must register with the concerned nodal agencies and obtain necessary environmental and statutory clearances.",
+  "benefits": "Financial incentives include interest subvention, viability gap funding, and tax benefits under GST and excise duty schemes. Non-financial benefits encompass priority in government procurement, facilitation of land allocation, single-window clearances, and support for research and development through institutions like DBT, DST, and CSIR. The policy also enables blending obligations for oil marketing companies (OMCs), ensuring a guaranteed market for biofuel producers.",
+  "financial_support": "Financial support is provided through mechanisms such as the Pradhan Mantri JI-VAN Yojana for 2G ethanol, which offers financial assistance of up to ₹600 crores for setting up commercial projects and up to ₹50 crores for demonstration projects. Additional support includes interest subvention on loans, viability gap funding for first-of-its-kind projects, and concessional GST rates. Oil marketing companies are mandated to procure biofuels, ensuring off-take security for producers.",
+  "fund_size_crores": "600",
+  "grant_amount_per_entity": "Up to INR 600 Crores for commercial 2G ethanol projects under Pradhan Mantri JI-VAN Yojana",
+  "application_process": "1. Identify the appropriate scheme under the National Policy on Biofuels (e.g., Pradhan Mantri JI-VAN Yojana for 2G ethanol). 2. Prepare a detailed project report (DPR) including techno-economic analysis, feedstock availability, and environmental impact assessment. 3. Obtain necessary statutory clearances from pollution control boards, forest department, and other relevant agencies. 4. Apply through the designated nodal agency (e.g., Indian Renewable Energy Development Agency - IREDA for JI-VAN Yojana) via their online portal. 5. Submit the DPR along with required documents such as incorporation certificates, land documents, and promoter details. 6. Await technical and financial appraisal by the nodal agency. 7. Upon approval, sign the agreement and fulfill conditions for disbursement of financial support.",
+  "application_portal_url": "https://petroleum.nic.in/biofuel",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Feedstock supply agreement",
+    "Environmental clearance certificate",
+    "Consent to Establish and Operate from Pollution Control Board",
+    "Promoter details and bankability reports",
+    "Cost estimates and means of finance",
+    "No Objection Certificate (NOC) from concerned authorities"
+  ],
+  "deadlines": "Scheme-specific; Pradhan Mantri JI-VAN Yojana invites applications periodically as per notifications issued by the Ministry of Petroleum and Natural Gas",
+  "implementing_agency": "Ministry of Petroleum and Natural Gas",
+  "contact_details": "Email: biofuelcell@petroleum.nic.in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Financial support is subject to availability of funds and approval by the empowered committee",
+    "Projects must adhere to sustainability criteria and avoid competition with food security",
+    "Benefits under the policy are contingent upon meeting blending obligations set by oil marketing companies",
+    "Advanced biofuel projects require techno-economic clearance and may have longer gestation periods",
+    "Support under Pradhan Mantri JI-VAN Yojana is limited to second-generation (2G) ethanol projects using non-food feedstocks"
+  ],
+  "source_cited_notes": [
+    "https://petroleum.nic.in/biofuel"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:55:04.710685+00:00"
+}

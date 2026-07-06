@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-704",
+  "scheme_name": "OIDB – Oil Industry Development Board Grants",
+  "scheme_url": "https://petroleum.nic.in/oidb",
+  "ministry_or_category": "Oil & Gas",
+  "overview": "The Oil Industry Development Board (OIDB) provides financial assistance in the form of grants and loans to support research and development, techno-economic studies, manpower development, and other activities related to the petroleum sector. The scheme aims to promote indigenous technology development, improve refining and marketing operations, and enhance safety and environmental standards in the oil and gas industry. Financial support is extended to entities including public sector undertakings, research institutions, and private companies engaged in petroleum-related activities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "public sector undertakings",
+    "research institutions",
+    "private companies",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote indigenous technology development in the petroleum sector",
+    "Support research and development activities related to oil and gas",
+    "Undertake techno-economic studies for sectoral planning",
+    "Develop skilled manpower for the oil and gas industry",
+    "Enhance safety, health, and environmental standards in petroleum operations",
+    "Improve refining, marketing, and distribution efficiency",
+    "Encourage conservation and optimal utilization of petroleum products"
+  ],
+  "eligibility": "Eligible entities include public sector undertakings under the Ministry of Petroleum and Natural Gas, recognized research and development institutions, educational institutions offering petroleum-related courses, and private companies engaged in petroleum exploration, production, refining, marketing, or related activities. Proposals must align with national energy security goals and demonstrate technical feasibility and economic viability.",
+  "benefits": "Financial support for R&D projects, techno-economic studies, manpower development programs, pilot plant demonstrations, and safety and environmental improvement initiatives. Assistance may cover partial or full project costs depending on the nature and beneficiary type. Non-financial benefits include technical guidance, access to OIDB expertise, and collaboration opportunities with industry stakeholders.",
+  "financial_support": "OIDB provides grants and loans based on the nature of the project and beneficiary. Grants are typically offered for R&D, studies, and manpower development to academic and research institutions, while loans are extended to commercial entities such as PSUs and private companies at concessional interest rates. The quantum of support is determined on a case-by-case basis after technical and financial appraisal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit a detailed project proposal to the Oil Industry Development Board (OIDB) outlining objectives, methodology, budget, and expected outcomes. 2. Proposal undergoes preliminary screening for alignment with OIDB priorities. 3. Technical appraisal by subject matter experts to assess feasibility and innovation. 4. Financial appraisal to evaluate cost-effectiveness and funding requirements. 5. Approval by the OIDB Governing Body based on recommendations. 6. Signing of agreement detailing terms and conditions of support. 7. Disbursement of funds in installments tied to project milestones. 8. Submission of progress reports and utilization certificates during project implementation. 9. Final evaluation and submission of project completion report.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal with detailed objectives and methodology",
+    "Budget estimates and financial plan",
+    "Technical feasibility report",
+    "Organization registration documents",
+    "Audited financial statements of the applicant",
+    "Details of collaborative partners (if any)",
+    "Undertaking regarding utilization of funds",
+    "Environmental and safety compliance certificates (if applicable)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year.",
+  "implementing_agency": "Oil Industry Development Board (OIDB), Ministry of Petroleum and Natural Gas",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is subject to availability of funds and OIDB priorities",
+    "Recurring grants may not be sanctioned for the same activity",
+    "Beneficiaries must submit utilization certificates and progress reports",
+    "OIDB reserves the right to terminate support in case of non-compliance",
+    "Loans must be repaid as per agreed terms; grants are non-repayable"
+  ],
+  "source_cited_notes": [
+    "https://petroleum.nic.in/oidb"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:03:48.846917+00:00"
+}

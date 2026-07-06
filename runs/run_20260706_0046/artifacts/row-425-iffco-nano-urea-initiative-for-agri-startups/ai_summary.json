@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-425",
+  "scheme_name": "IFFCO Nano Urea Initiative for Agri Startups",
+  "scheme_url": "https://www.iffco.in",
+  "ministry_or_category": "Agriculture & AgriTech",
+  "overview": "IFFCO Nano Urea Initiative for Agri Startups is a program by IFFCO to promote nano-based fertilizers like Nano Urea and Nano DAP, which are designed to improve nutrient use efficiency, reduce environmental impact, and support sustainable agriculture. The initiative includes the establishment of nano fertilizer production units at Aonla, Kalol, and Phulpur, with commercial production already underway. It aligns with the Government of India's vision to reduce chemical fertilizer usage and promote eco-friendly agri-inputs.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "agri-startups",
+    "farmers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce usage of chemical fertilisers through nano-technology based agri-inputs",
+    "Improve nutrient use efficiency and crop yield via nano fertilizers",
+    "Minimize environmental footprint by reducing leaching and gaseous emissions",
+    "Support sustainable crop production and soil health",
+    "Enable precision and targeted application of nutrients to plants",
+    "Promote smart agriculture and combat climate change through innovation",
+    "Increase farmer income by reducing input costs and improving produce quality",
+    "Ensure easy storage, transport, and handling of nano fertilizers compared to conventional ones"
+  ],
+  "eligibility": "The initiative is open to agri-startups and MSMEs engaged in sustainable agriculture, nano-based agri-inputs, or related innovations that align with IFFCO’s mission of promoting eco-friendly fertilizers and reducing chemical usage in farming. Specific eligibility criteria for participation are not detailed in the provided evidence.",
+  "benefits": "Nano fertilizers like Nano Urea Plus and Nano DAP offer higher nutrient availability due to small particle size (20-50 nm) and high surface area, leading to over 80% increased availability to crops. They enhance chlorophyll content, photosynthesis, root biomass, and tiller formation, resulting in higher yields and better produce quality. Usage reduces input costs, minimizes nutrient loss from leaching and emissions, supports environmental sustainability, and allows easy storage and transport. Nano DAP can replace 50% of phosphorous requirement from conventional DAP per bottle.",
+  "financial_support": "IFFCO has invested in setting up nano fertilizer production units, including the Nano Fertiliser Plant at Phulpur with a capacity of 2 lakh 500 ml bottles per day of Liquid Nano Urea, and the Nano DAP expansion facility at Kalol with a conceptualized cost of around 300 Crores for 2.0 lakhs bottles per day. Commercial production of Nano DAP started from April 2023 after FCO notification in March 2023. Financial support mechanisms for startups are not explicitly detailed in the evidence.",
+  "fund_size_crores": "300",
+  "grant_amount_per_entity": "",
+  "application_process": "The evidence does not provide a step-by-step application process for agri-startups to participate in the IFFCO Nano Urea Initiative. Information on how startups can apply, register, or engage with the program is not available in the provided sources.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Indian Farmers Fertiliser Cooperative Limited (IFFCO)",
+  "contact_details": "",
+  "caveats": [
+    "Commercial production of Nano DAP at Kalol Expansion Facility is expected to start shortly after conceptualization in 2021",
+    "Nano DAP was notified for inclusion in Fertiliser Control Order (FCO) in March 2023, with commercial production starting from April 2023",
+    "The initiative focuses on IFFCO’s own production and deployment; external startup participation mechanisms are not detailed"
+  ],
+  "source_cited_notes": [
+    "https://iffco.in/en/nano-fertilisers",
+    "https://iffco.in/en/production-unit-nano-fertiliser-plant-kalol",
+    "https://iffco.in/en/production-unit-nano-urea-plant-aonla",
+    "https://iffco.in/en/production-unit-nano-fertiliser-plant-phulpur",
+    "https://iffco.in/production-units"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:27:45.148481+00:00"
+}

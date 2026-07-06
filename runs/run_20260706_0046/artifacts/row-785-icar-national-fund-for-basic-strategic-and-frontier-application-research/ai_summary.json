@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-785",
+  "scheme_name": "ICAR – National Fund for Basic, Strategic and Frontier Application Research",
+  "scheme_url": "https://www.icar.org.in/nfbsfara",
+  "ministry_or_category": "AgriTech Startups",
+  "overview": "The ICAR – National Fund for Basic, Strategic and Frontier Application Research (NFBSFARA) is a scheme under the Indian Council of Agricultural Research (ICAR) aimed at supporting basic, strategic, and frontier application research in agriculture and allied sectors. The scheme focuses on funding high-impact, innovative research projects that address national agricultural challenges and promote technological advancement in the sector. It supports research initiatives that are fundamental, strategic, and frontier in nature, contributing to long-term agricultural development and innovation.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "researchers",
+    "scientists",
+    "agri-startups",
+    "agricultural researchers",
+    "agricultural scientists"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To support basic, strategic, and frontier application research in agriculture and allied sectors",
+    "To promote innovation and technological advancement in agricultural research",
+    "To address national agricultural challenges through fundamental and applied research",
+    "To strengthen the research capabilities of ICAR institutes and agricultural universities",
+    "To foster collaboration between research institutions and stakeholders in the agricultural sector",
+    "To enhance the quality and impact of agricultural research through targeted funding"
+  ],
+  "eligibility": "Researchers, scientists, and institutions under the Indian Council of Agricultural Research (ICAR) system, including ICAR institutes, agricultural universities, and recognized research organizations engaged in agricultural research and education, are eligible to apply for funding under the NFBSFARA scheme.",
+  "benefits": "Financial support for research projects, access to research infrastructure and facilities, opportunities for collaboration with national and international research institutions, capacity building for researchers, and contribution to national agricultural development through innovative research outcomes.",
+  "financial_support": "The scheme provides financial support in the form of grants for approved research projects. The quantum of funding is determined based on the scope, duration, and requirements of the proposed research project, as evaluated by the expert review committee. Funds are disbursed in installments based on project milestones and progress reports.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a research proposal aligned with the objectives of NFBSFARA. 2. Prepare a detailed project proposal including objectives, methodology, budget, and expected outcomes. 3. Submit the proposal through the designated ICAR portal or nodal office. 4. The proposal undergoes technical and financial review by an expert committee. 5. Upon approval, funds are sanctioned and disbursed in phases. 6. Progress reports and utilization certificates are submitted periodically. 7. Final submission of project completion report and audited utilization certificate.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal document",
+    "Detailed budget estimate",
+    "Institutional endorsement letter",
+    "CVs of principal investigator and co-investigators",
+    "Previous research output and publications",
+    "Undertaking of compliance with ICAR guidelines",
+    "Bank account details for fund transfer"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of funds and approval by the competent authority",
+    "Projects must align with national agricultural research priorities",
+    "Utilization of funds must be strictly as per approved budget and guidelines",
+    "Progress reports and utilization certificates are mandatory for continued funding",
+    "Intellectual property rights arising from the project shall be governed by ICAR IPR policy"
+  ],
+  "source_cited_notes": [
+    "https://icar.org.in/nfbsfara"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-06T02:52:10.999309+00:00"
+}

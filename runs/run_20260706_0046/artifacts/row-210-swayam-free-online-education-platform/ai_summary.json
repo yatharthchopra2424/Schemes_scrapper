@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-210",
+  "scheme_name": "SWAYAM Free Online Education Platform",
+  "scheme_url": "https://swayam.gov.in",
+  "ministry_or_category": "Education",
+  "overview": "SWAYAM (Study Webs of Active Learning for Young Aspiring Minds) is a Government of India initiative providing free online courses from school to post-graduation level, hosted by top institutions like IITs, IIMs, and central universities. It aims to achieve access, equity, and quality in education by bridging the digital divide and offering courses in 11 Indian languages. Learners can access video lectures, reading materials, self-assessment tests, and discussion forums at no cost, with optional proctored exams for certification available at a nominal fee.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "faculty",
+    "lifelong learners",
+    "out-of-school students",
+    "working professionals"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide free access to high-quality education resources from Class 9 to post-graduation",
+    "Bridge the digital divide for disadvantaged learners untouched by the digital revolution",
+    "Enable credit transfer for SWAYAM courses into regular academic programmes",
+    "Offer industry-aligned skill-based courses to enhance employability",
+    "Support lifelong learning through curated standalone and awareness programmes",
+    "Ensure quality content via appointed National Coordinators from premier institutions",
+    "Facilitate multi-modal learning through video, text, self-assessment, and discussion forums",
+    "Promote access to education in 11 Indian languages for inclusivity"
+  ],
+  "eligibility": "There is no specific eligibility or age criterion for joining any online course on SWAYAM. Anyone in the world can register for a course. Faculty may recommend basic knowledge for better comprehension, but no formal prerequisites are mandated.",
+  "benefits": "Free access to courses from top Indian institutions; self-paced learning anytime, anywhere; opportunity to earn certifications from recognized universities (nominal fee for exam); possibility to transfer credits to academic records per UGC and AICTE frameworks; access to discussion forums for doubt clearance; availability of courses in 11 Indian languages; industry-relevant skill courses for employability; blended learning ecosystem with optional in-person interaction; faculty development programmes for teacher upskilling.",
+  "financial_support": "All courses on SWAYAM are available free of cost to learners. No tuition or enrollment fee is charged. However, learners seeking certification must pay a nominal fee for the in-person, proctored exam: Rs. 1000 per course for NPTEL offerings and Rs. 750 per course for IIMB offerings. Exam fees are the only financial cost involved.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the SWAYAM portal at https://swayam.gov.in 2. Click on 'Register as Student' 3. Provide essential information: Name and Email ID 4. Optionally sign up using Google or Microsoft login 5. Verify account via email notification from support@swayam.gov.in 6. Browse or search for courses by category, keyword, or university 7. Select a suitable course and click to enroll 8. Access course content immediately after enrollment 9. For certification, register for the proctored exam when announced 10. Pay the exam fee (if applicable) and appear at the designated centre on the specified date.",
+  "application_portal_url": "https://swayam.gov.in",
+  "required_documents": [
+    "Name",
+    "Email ID"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Courses have specific enrollment windows (e.g., enrollment ends 31 Aug, 2026 for many courses), but learners can enroll in self-paced courses anytime. Exam registration has end dates (e.g., 14 Aug, 2026 for many July 2026 semester courses).",
+  "implementing_agency": "Ministry of Education, Government of India",
+  "contact_details": "Email: support@swayam.gov.in | Helpline: Not explicitly stated in evidence for general SWAYAM support; however, NTA helpline for exams is +91-11-40759000",
+  "caveats": [
+    "Certification requires appearing for an in-person, proctored exam at designated centres on specified dates",
+    "Exam fee is applicable for certification (e.g., Rs. 1000 for NPTEL, Rs. 750 for IIMB)",
+    "Credit transfer depends on university adoption of UGC/AICTE Credit Framework regulations",
+    "Some courses have specific enrollment and exam end dates (e.g., enrollment ends 31 Aug, 2026)",
+    "Self-paced courses do not award certificates or credits",
+    "Assignment and quiz submission minimums (e.g., 75%) may be required to appear for university-conducted exams"
+  ],
+  "source_cited_notes": [
+    "https://swayam.gov.in/about",
+    "https://swayam.gov.in/faq",
+    "https://swayam.gov.in/nc_details/",
+    "https://swayam.gov.in/explorer",
+    "https://swayam.gov.in/honor_code",
+    "https://swayam.gov.in/terms_of_use",
+    "https://storage.googleapis.com/swayam2_central/swayam1/UGC_Gazette-Credit_Framework_for_Online_Courses_through_SWAYAM.pdf",
+    "https://storage.googleapis.com/swayam2_central/swayam1/wqimgtest_f8b95943-b963-49b9-85ed-416f2e15d1b4.pdf",
+    "https://storage.googleapis.com/swayam2_central/assets/pdf/Framework%20for%20Universities%20to%20conduct%20Examinations%20for%20SWAYAM%20Courses%2C%20with%20FAQs.pdf",
+    "https://storage.googleapis.com/swayam2_central/assets/pdf/University%20Dashboard%20User%20Guide%20-%20v1.0.pdf",
+    "https://storage.googleapis.com/swayam2_central/assets/pdf/SWAYAM%20Steps%20for%20Credit%20Transfer%20for%20univColl21%20August%202024.pdf",
+    "https://nta.ac.in/Download/Notice/Notice_202601083306.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:19:09.881127+00:00"
+}

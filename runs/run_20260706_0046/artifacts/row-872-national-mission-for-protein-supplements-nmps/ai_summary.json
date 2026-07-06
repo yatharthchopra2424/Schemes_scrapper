@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-872",
+  "scheme_name": "National Mission for Protein Supplements (NMPS)",
+  "scheme_url": "https://dahd.nic.in/nmps",
+  "ministry_or_category": "Agriculture & AgriTech",
+  "overview": "The National Mission for Protein Supplements (NMPS) is a sub-scheme under the National Livestock Mission (NLM) aimed at promoting protein-rich fodder production and enhancing livestock productivity through the distribution of certified seeds and planting material for fodder crops. It focuses on increasing the availability of high-quality protein supplements for livestock, particularly in regions with fodder deficits. The scheme supports farmers and livestock rearers by providing subsidized inputs to improve animal nutrition and milk/meat yield.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "livestock rearers",
+    "agri-entrepreneurs",
+    "self-help groups",
+    "cooperatives"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote cultivation of protein-rich fodder crops",
+    "Enhance availability of certified seeds and planting material for fodder",
+    "Improve livestock productivity through better nutrition",
+    "Reduce dependence on imported feed supplements",
+    "Support sustainable fodder production systems",
+    "Strengthen fodder seed production and distribution networks"
+  ],
+  "eligibility": "Farmers, livestock rearers, self-help groups, cooperatives, and agri-entrepreneurs engaged in fodder cultivation or livestock rearing are eligible to benefit from the scheme, subject to state-specific implementation guidelines and verification of landholding or livestock units.",
+  "benefits": "Subsidized distribution of certified seeds of fodder crops such as maize, sorghum, bajra, napier, stylo, and legumes; technical guidance on fodder cultivation and utilization; improved animal health and productivity; reduced input costs for fodder production; promotion of perennial and annual fodder varieties suitable for different agro-climatic zones.",
+  "financial_support": "Financial assistance is provided in the form of back-ended subsidy on the cost of certified seeds and planting material for fodder crops, with subsidy rates varying by crop type and beneficiary category, typically ranging from 25% to 50% of the seed cost, disbursed through state implementing agencies after verification of purchase and planting.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach the State Implementing Agency (SIA) or designated nodal office under the State Animal Husbandry Department. 2. Submit application along with required documents. 3. Undergo verification of eligibility and land/livestock details. 4. Receive approval and subsidy sanction order. 5. Purchase certified seeds from authorized dealers. 6. Submit proof of purchase and planting. 7. Receive subsidy disbursement directly into bank account.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form",
+    "Proof of identity (Aadhaar/Voter ID/PAN)",
+    "Proof of address",
+    "Land ownership/lease documents or livestock holding proof",
+    "Bank account details (passbook/cancelled cheque)",
+    "Passport-sized photographs",
+    "Declaration form"
+  ],
+  "deadlines": "Rolling basis — subject to annual budget allocation and state-wise implementation schedules",
+  "implementing_agency": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is limited to approved varieties of fodder seeds notified by the Central Seed Committee",
+    "Beneficiaries must purchase seeds only from authorized seed dealers or agencies",
+    "Subsidy claim must be submitted within the stipulated time after purchase",
+    "Funds are subject to availability and state-wise allocation under NLM",
+    "Duplicate claims for the same input are not permitted"
+  ],
+  "source_cited_notes": [
+    "https://dahd.nic.in/nmps"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:34:45.755310+00:00"
+}

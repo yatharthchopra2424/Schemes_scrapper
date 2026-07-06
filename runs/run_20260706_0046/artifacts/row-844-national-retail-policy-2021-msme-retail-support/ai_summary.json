@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-844",
+  "scheme_name": "National Retail Policy 2021 – MSME Retail Support",
+  "scheme_url": "https://dpiit.gov.in",
+  "ministry_or_category": "Retail & Consumer",
+  "overview": "The National Retail Policy 2021 – MSME Retail Support is a scheme under the Department for Promotion of Industry and Internal Trade (DPIIT) aimed at supporting micro, small, and medium enterprises (MSMEs) in the retail sector. It seeks to strengthen the retail ecosystem by providing financial and non-financial support to MSME retailers, enhancing their competitiveness, and promoting organized retail development across India. The scheme focuses on improving infrastructure, access to finance, technology adoption, and skill development for retail MSMEs.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "retailers",
+    "small retailers",
+    "micro enterprises",
+    "small enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance the competitiveness and sustainability of MSME retailers in the retail sector",
+    "To improve access to institutional credit and financial support for retail MSMEs",
+    "To promote technology adoption and digitalization in retail operations",
+    "To develop retail infrastructure and facilitate market access for small retailers",
+    "To provide skill development and training for retail entrepreneurs and workers",
+    "To encourage formalization and integration of informal retail units into the formal economy",
+    "To support innovation and entrepreneurship in the retail sector",
+    "To strengthen backward and forward linkages in the retail supply chain"
+  ],
+  "eligibility": "The scheme is applicable to micro, small, and medium enterprises (MSMEs) engaged in retail trade as per the MSMED Act, 2006. Eligible entities include proprietorships, partnerships, private limited companies, LLPs, and cooperatives engaged in retail activities. The unit must be registered with the appropriate authority (e.g., Udyam Registration) and have a valid GSTIN. The unit must not be a defaulter to any financial institution or government agency. Preference may be given to units owned by SC/ST, women, differently-abled, and entrepreneurs from northeastern states, hill states, and island territories.",
+  "benefits": "Financial support includes capital subsidy for setting up or upgrading retail outlets, interest subvention on term loans for working capital and fixed assets, and credit guarantee coverage. Non-financial benefits include access to technology upgradation support, skill development and training programs, market linkage assistance, branding and marketing support, facilitation of e-commerce integration, and assistance in obtaining certifications and quality certifications. The scheme also facilitates access to common facility centers and provides handholding support for compliance and regulatory adherence.",
+  "financial_support": "Financial support under the scheme includes a capital subsidy of up to 30% of the project cost for setting up or modernizing retail outlets, subject to a maximum of INR 10 lakh per unit. Interest subvention of up to 5% per annum is provided on term loans taken from scheduled banks or financial institutions for a period of up to 5 years. Additionally, credit guarantee cover is provided under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) for loans up to INR 2 crore without collateral or third-party guarantee. The financial assistance is disbursed through nodal agencies and partner financial institutions in a reimbursement or direct transfer mode upon submission of valid claims and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 lakh per unit",
+  "application_process": "1. Register the MSME unit on the Udyam Registration portal (udyamregistration.gov.in) and obtain the Udyam Registration Number. 2. Ensure the unit has a valid GSTIN and is not a defaulter to any bank or financial institution. 3. Prepare a Detailed Project Report (DPR) outlining the project cost, means of finance, implementation timeline, and expected outcomes. 4. Approach a participating bank or financial institution for loan sanction under the scheme. 5. Submit the loan application along with the DPR, Udyam Registration certificate, GST certificate, PAN, bank statements, and other required documents to the bank. 6. The bank forwards the application to the nodal agency (DPIIT or its designated agency) for scrutiny and approval. 7. Upon approval, the nodal agency sanctions the subsidy and coordinates with the bank for disbursement. 8. After disbursement, the beneficiary must submit utilization certificates and progress reports periodically to the nodal agency. 9. The subsidy is disbursed in installments linked to project milestones, and the interest subvention is credited periodically to the loan account.",
+  "application_portal_url": "https://udyamregistration.gov.in/",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "GST Registration Certificate",
+    "PAN Card of the business entity",
+    "Bank account statement of the last 6 months",
+    "Detailed Project Report (DPR)",
+    "Quotations for plant and machinery or civil work",
+    "Proof of land ownership or lease agreement",
+    "Partnership deed or incorporation certificate (as applicable)",
+    "Board resolution authorizing the application (for companies/LLPs)",
+    "No Objection Certificate (NOC) from pollution control board (if applicable)",
+    "Fire safety certificate (if applicable)",
+    "Utilization certificate and progress report (for subsequent disbursements)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and approval by the nodal agency.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: dipppolicy@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "The subsidy is available only for new projects or expansion/modernization of existing retail units; mere working capital requirements are not eligible for capital subsidy.",
+    "The benefit is available only to units that have not availed similar subsidies under any other central or state government scheme for the same purpose.",
+    "The unit must remain in commercial operation for a minimum period of 3 years from the date of commercial production to retain the benefits.",
+    "Subsidy claims must be submitted within 12 months from the date of commercial production or completion of the project.",
+    "The scheme is subject to the availability of funds and may be discontinued or modified by the government without prior notice.",
+    "Beneficiaries must comply with all statutory and regulatory requirements, including labor, environmental, and safety norms."
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in/",
+    "https://dpiit.gov.in/offerings",
+    "https://dpiit.gov.in/documents/guidelines",
+    "https://dpiit.gov.in/static/uploads/2026/05/56bdc6d167272593fbeae8b4c44d6cc4.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:20:23.614442+00:00"
+}

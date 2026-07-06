@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-581",
+  "scheme_name": "National Drone Policy 2021",
+  "scheme_url": "https://www.dgca.gov.in/digigov-portal",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The National Drone Policy 2021, implemented by the Directorate General of Civil Aviation (DGCA) under the Ministry of Civil Aviation, establishes a regulatory framework for the operation of Unmanned Aircraft Systems (UAS) in India. It aims to promote safe, secure, and sustainable drone operations while fostering innovation and growth in the drone ecosystem. The policy covers registration, certification, operational permissions, and safety standards for drones, including provisions for drone corridors, beyond visual line of sight (BVLOS) operations, and drone training organizations. It applies to all categories of drones and stakeholders, including manufacturers, operators, and service providers.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "drone manufacturers",
+    "drone operators",
+    "drone service providers",
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish a safe and secure regulatory framework for drone operations in India",
+    "Promote innovation, research, and development in drone technology",
+    "Enable commercial use of drones across sectors such as agriculture, logistics, and surveillance",
+    "Ensure airspace safety and security through standardized operational procedures",
+    "Facilitate ease of doing business by simplifying drone registration and approval processes",
+    "Support capacity building through drone training and skill development programs",
+    "Encourage indigenous manufacturing and reduce dependence on imports",
+    "Enable beyond visual line of sight (BVLOS) and beyond visual range (BVR) operations under controlled conditions"
+  ],
+  "eligibility": "Any person or entity intending to operate a drone in Indian airspace must comply with the National Drone Policy 2021. This includes obtaining a Unique Identification Number (UIN) for the drone, securing an Unmanned Aircraft Operator Permit (UAOP) for commercial operations, and adhering to operational limitations based on drone category (nano, micro, small, medium, large). Operators must ensure compliance with safety standards, no-drone zones, and height/restriction guidelines. Foreign nationals and entities may operate drones only through an Indian subsidiary or with specific DGCA approval.",
+  "benefits": "The policy provides legal recognition for drone operations, enables access to regulated airspace, supports commercial drone services, facilitates participation in government tenders, encourages innovation through sandbox testing, and promotes skill development via approved drone training organizations. It also allows for conditional exemptions under certain rules (e.g., Rule 133A and Rule 160) for specific use cases like research, training, and surveillance.",
+  "financial_support": "The National Drone Policy 2021 does not include direct financial support, grants, or subsidies. It is a regulatory framework focused on compliance, safety, and operational permissions. Financial incentives, if any, would be administered through separate schemes by other ministries (e.g., Ministry of Defence, Department of Science and Technology) and are not part of this policy.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine the drone category based on weight (nano: ≤250g, micro: 250g–2kg, small: 2kg–25kg, medium: 25kg–150kg, large: >150kg). 2. Obtain a Unique Identification Number (UIN) via the Digital Sky platform by providing drone specifications and owner details. 3. For commercial operations, apply for an Unmanned Aircraft Operator Permit (UAOP) through the Digital Sky portal. 4. Ensure compliance with operational requirements such as pilot training, maintenance checks, and insurance. 5. Submit flight plans and obtain clearance for operations in controlled or restricted airspaces. 6. Adhere to no-drone zones, height limits (typically 400 ft AGL), and visual line-of-sight (VLOS) rules unless granted BVLOS approval. 7. Maintain operational logs and report incidents as required.",
+  "application_portal_url": "https://dgca.gov.in/digigov-portal",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, passport)",
+    "Proof of address",
+    "Drone specifications (make, model, serial number, weight, dimensions)",
+    "Manufacturer’s invoice or self-declaration for indigenous drones",
+    "Details of remote pilot(s) including training certificates",
+    "Insurance certificate (if applicable)",
+    "Security clearance (for certain categories or operations)",
+    "Undertaking of compliance with operational safety procedures"
+  ],
+  "deadlines": "Rolling basis — UIN and UAOP applications can be submitted at any time through the Digital Sky platform.",
+  "implementing_agency": "Directorate General of Civil Aviation (DGCA), Ministry of Civil Aviation, Government of India",
+  "contact_details": "Email: pawan.dgca[at]nic[dot]in | Phone: 011-24641450 Ext 523",
+  "caveats": [
+    "Operations are prohibited in no-drone zones (e.g., near airports, international borders, strategic locations)",
+    "Nano drones (<250g) used for non-commercial purposes are exempt from UIN and UAOP but must follow safety guidelines",
+    "UAOP is valid for a maximum of 10 years and subject to renewal",
+    "Foreign-operated drones require prior DGCA approval and must be operated through an Indian entity",
+    "All drone operations must comply with the Aircraft Act, 1934, and Aircraft Rules, 1937",
+    "Violations may attract penalties under the Aircraft Act, including fines and imprisonment"
+  ],
+  "source_cited_notes": [
+    "https://dgca.gov.in/digigov-portal",
+    "https://dgca.gov.in/digigov-portal/jsp/dgca/topHeader/aZIndex/AtoZindex.jsp",
+    "https://dgca.gov.in/digigov-portal/jsp/dgca/footerLink/WebsitePolicy.jsp",
+    "https://dgca.gov.in/digigov-portal/jsp/dgca/footerLink/PrivacyPolicy.jsp"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:50:00.812024+00:00"
+}

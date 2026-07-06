@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-4",
+  "scheme_name": "State Mini Cluster Development Scheme",
+  "scheme_url": "https://haryanaindustries.gov.in",
+  "ministry_or_category": "State Level (Haryana)",
+  "overview": "The State Mini Cluster Development Scheme is a component of the Haryana Enterprises & Employment Policy-2020, aimed at supporting the development of industrial clusters in the state. It focuses on fostering entrepreneurship, enhancing MSME competitiveness, and promoting balanced regional development through cluster-based interventions. The scheme provides financial and infrastructural support to MSMEs for technology upgradation, market access, and common facility creation.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "entrepreneurs",
+    "startups"
+  ],
+  "geographic_scope": "Haryana only",
+  "objectives": [
+    "Promote cluster development to enhance competitiveness of MSMEs",
+    "Facilitate access to modern technology through common facility centres",
+    "Strengthen market linkages for ancillary units of large industries",
+    "Enhance credit flow to MSMEs via scheme incentives",
+    "Support entrepreneurship and skill development for first-generation youth",
+    "Revive sick MSME units through institutional and policy support",
+    "Develop robust industrial infrastructure for MSMEs",
+    "Promote geographical dispersal of industries to backward regions"
+  ],
+  "eligibility": "Micro, Small and Medium Enterprises (MSMEs) engaged in manufacturing or services, particularly those located in industrially backward districts (Category D blocks) or participating in cluster development initiatives under the Haryana Enterprise Promotion Policy 2015. Enterprises must be registered under the MSMED Act, 2006 and comply with the policy framework for cluster development, technology upgradation, and market linkage enhancement.",
+  "benefits": "Financial assistance for setting up Common Facility Centres (CFCs), technology upgradation, market access enhancement, credit linkage support, infrastructure development, skill development, entrepreneurship promotion, and institutional strengthening. Includes subsidies for plant and machinery, testing labs, raw material banks, design centres, and training facilities within clusters.",
+  "financial_support": "The scheme provides financial support in the form of subsidies for cluster development interventions, including up to 70% grant for setting up Common Facility Centres (CFCs) in MSME clusters, with a maximum ceiling of INR 10 crore per CFC. Additional support includes interest subsidies, credit guarantee coverage, and infrastructure grants as per the Haryana Enterprise Promotion Policy 2015 guidelines, disbursed through nodal agencies like the Directorate of MSME and Haryana Enterprises Promotion Centre (HEPC).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify and form a Special Purpose Vehicle (SPV) or consortium of MSMEs in a defined cluster. 2. Prepare a Detailed Project Report (DPR) outlining cluster interventions, technology needs, market linkages, and financial requirements. 3. Submit the DPR to the Directorate of MSME, Haryana or Haryana Enterprises Promotion Centre (HEPC) for appraisal. 4. Obtain approval from the State Level Steering Committee under HEEP 2020. 5. Execute the project upon sanction and submit utilization reports for fund release in stages. 6. Undergo monitoring and evaluation by the implementing agency for compliance and impact assessment.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration of SPV or member units",
+    "MSME Registration (Udyam) of participating enterprises",
+    "Detailed Project Report (DPR) with technical and financial details",
+    "Land documents or lease agreement for CFC site",
+    "Quotations for plant and machinery",
+    "Bank appraisal letter (if loan component involved)",
+    "Undertaking from SPV regarding contribution and maintenance",
+    "Board resolution authorizing the application"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Directorate of Micro, Small and Medium Enterprises, Haryana",
+  "contact_details": "info-msme@hry.gov.in | 0172-2580707",
+  "caveats": [
+    "Financial support is subject to availability of funds under the state budget",
+    "Benefits are contingent upon satisfactory progress and submission of utilization certificates",
+    "CFCs must be operated and maintained by the SPV for a minimum period of 5 years",
+    "Only clusters with minimum 10 MSME units are eligible for support",
+    "Land for CFC must be provided by the SPV or State Government on lease basis"
+  ],
+  "source_cited_notes": [
+    "https://haryanaindustries.gov.in/schemes-under-startup-policy",
+    "https://haryanaindustries.gov.in/haryana-enterprises-and-employment-policy-2020",
+    "https://cdnbbsr.s3waas.gov.in/s3f48c04ffab49ff0e5d1176244fdfb65c/uploads/2021/01/2021020764.pdf"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:19:02.270851+00:00"
+}

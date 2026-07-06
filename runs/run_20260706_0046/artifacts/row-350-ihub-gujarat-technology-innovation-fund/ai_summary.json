@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-350",
+  "scheme_name": "iHub Gujarat – Technology Innovation Fund",
+  "scheme_url": "https://ihubahemdabad.in",
+  "ministry_or_category": "State Level (Gujarat)",
+  "overview": "iHub Gujarat – Technology Innovation Fund is a state-level initiative under the Government of Gujarat aimed at fostering technology-driven innovation and entrepreneurship. The scheme provides financial and non-financial support to startups and innovators through a dedicated innovation fund. It focuses on scaling early-stage ventures with high growth potential in technology sectors. The program is managed by iHub Ahmedabad, a Section 8 company promoted by the Government of Gujarat.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "technology innovators",
+    "early-stage ventures"
+  ],
+  "geographic_scope": "Gujarat only",
+  "objectives": [
+    "Promote technology innovation and entrepreneurship in Gujarat",
+    "Provide financial support to early-stage startups through grants",
+    "Strengthen the startup ecosystem by connecting innovators with mentors and investors",
+    "Support scalable and sustainable technology-based solutions",
+    "Encourage job creation and economic growth through innovation"
+  ],
+  "eligibility": "Startups and technology innovators registered in Gujarat with a minimum viable product (MVP) or prototype, working in sectors such as AI, IoT, biotech, agritech, cleantech, or deep tech. Applicants must be incorporated as a private limited company, LLP, or partnership firm under Indian laws, and demonstrate potential for scalability and social impact.",
+  "benefits": "Financial grants for product development and market access, mentorship from industry experts, access to prototyping and lab facilities, networking opportunities with investors and corporates, regulatory guidance, and support for intellectual property rights (IPR) filing.",
+  "financial_support": "The scheme provides grant-based financial support of up to INR 25 lakhs per eligible startup for technology development, prototype scaling, and market validation. Funds are disbursed in tranches based on milestone achievement and are non-repayable.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 25 Lakhs",
+  "application_process": "1. Visit the iHub Ahmedabad official website and register as an applicant. 2. Fill out the online application form with details of the startup, innovation, and team. 3. Upload required documents including incorporation certificate, PAN, product description, and prototype details. 4. Submit the application for preliminary screening. 5. Shortlisted applicants are invited for a pitch presentation before the selection committee. 6. Final selection is based on innovation, scalability, team strength, and potential impact. 7. Approved applicants receive a grant sanction letter and undergo due diligence before fund disbursement.",
+  "application_portal_url": "https://ihubahemdabad.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN Card of the entity",
+    "Aadhaar Card of authorized signatory",
+    "Product description or prototype details",
+    "Business plan or pitch deck",
+    "Bank account details of the entity",
+    "Details of any existing funding or grants received",
+    "Authorization letter from the board or partners"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "iHub Ahmedabad (a Section 8 company promoted by the Government of Gujarat)",
+  "contact_details": "Email: info@ihubahmedabad.in | Phone: +91-79-4005 5555",
+  "caveats": [
+    "Grants are disbursed only upon achievement of pre-defined milestones",
+    "Funding is subject to availability of funds under the Technology Innovation Fund",
+    "Startups must maintain proper utilization certificates and financial records",
+    "Intellectual property developed using grant funds may be subject to sharing or licensing norms as per Gujarat government guidelines",
+    "The scheme does not cover working capital, salaries, or general administrative expenses"
+  ],
+  "source_cited_notes": [
+    "https://ihubahemdabad.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:38:32.625590+00:00"
+}

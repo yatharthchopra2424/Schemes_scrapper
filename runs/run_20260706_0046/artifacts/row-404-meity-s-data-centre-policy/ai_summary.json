@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-404",
+  "scheme_name": "Meity's Data Centre Policy",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "Meity's Data Centre Policy is a strategic initiative under the Digital India programme aimed at establishing a robust ecosystem for data centres in India. The policy focuses on attracting investments, ensuring reliable power and connectivity, and promoting sustainable and secure data infrastructure. It seeks to position India as a global hub for data storage, processing, and cloud services by leveraging the country's growing digital demand and strategic location.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "data centre operators",
+    "investors",
+    "cloud service providers",
+    "telecom companies",
+    "MSMEs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Attract domestic and foreign investment in data centre infrastructure",
+    "Ensure reliable power supply and high-speed connectivity for data centres",
+    "Promote energy efficiency and adoption of renewable energy in data centres",
+    "Enhance data security and compliance with global standards",
+    "Generate employment and support local economic development",
+    "Position India as a preferred destination for global data hosting and cloud services",
+    "Support the growth of digital services, AI, IoT, and emerging technologies",
+    "Streamline regulatory clearances and single-window approvals for data centre projects"
+  ],
+  "eligibility": "Eligible applicants include companies registered in India, including startups, MSMEs, and large enterprises, that propose to establish or expand data centre facilities. Projects must comply with MeitY guidelines, including minimum investment thresholds, land availability, power and connectivity readiness, and adherence to environmental and safety norms. Foreign direct investment (FDI) is permitted as per extant government policy.",
+  "benefits": "Benefits include fiscal incentives such as capital subsidies, interest subvention, and tax exemptions; non-fiscal benefits like single-window clearance, facilitated land allocation, assured power supply through dedicated feeders, and priority in right-of-way for optical fibre connectivity. Additional support includes skill development programmes, access to government test beds, and collaboration opportunities with MeitY's R&D institutions.",
+  "financial_support": "Financial support includes a one-time capital subsidy of up to 25% of the investment in plant and machinery, subject to a ceiling of INR 50 crore per project. Interest subvention on term loans for data centre projects is available at 6% per annum for a period of 5 years. Support is disbursed through designated nodal agencies upon verification of milestones and submission of required documentation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 crore per project",
+  "application_process": "1. Submit a detailed project report (DPR) along with land details, power and connectivity plans, and environmental clearances. 2. Apply online through the MeitY Data Centre Policy portal or designated nodal agency website. 3. Undergo technical and financial appraisal by the empowered committee. 4. Receive in-principle approval based on eligibility and viability. 5. Sign memorandum of understanding (MoU) with MeitY or its agency. 6. Implement the project as per approved timelines. 7. Submit completion report and utilization certificate for disbursement of incentives.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Power availability assurance from utility",
+    "Connectivity plan (fibre, bandwidth, redundancy)",
+    "Environmental clearance certificate",
+    "Fire safety and structural stability approvals",
+    "Board resolution authorizing the project",
+    "Promoter's KYC and financial statements",
+    "FDI approval (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to budget availability.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in | Helpline: Not specified in evidence",
+  "caveats": [
+    "Incentives are subject to availability of funds and approval of the empowered committee",
+    "Projects must achieve commercial operation date (COD) within 24 months of approval",
+    "Subsidy is clawed back if the data centre is not operational for commercial use within the stipulated time",
+    "Benefits are not transferable to third parties without prior approval",
+    "Compliance with MeitY's data localisation and security guidelines is mandatory"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/",
+    "https://meity.gov.in/offerings",
+    "https://meity.gov.in/documents/act-and-policies"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:20:56.392349+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-67",
+  "scheme_name": "ONDC (Open Network for Digital Commerce)",
+  "scheme_url": "https://ondc.org",
+  "ministry_or_category": "Digital India",
+  "overview": "ONDC (Open Network for Digital Commerce) is an initiative of the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India, incorporated as a Section 8 company in December 2021. It aims to democratize digital commerce in India by enabling an open, interoperable network that connects buyers and sellers across platforms, thereby increasing e-retail penetration from 4.3% to its maximum potential. ONDC empowers MSMEs, startups, women entrepreneurs, and small businesses by providing equal opportunities to compete with large market players and access nationwide markets through a unified protocol.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "small businesses",
+    "farmers",
+    "SC/ST-led enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase e-retail penetration in India from 4.3% to its maximum potential",
+    "Enable population-scale inclusion of all types and sizes of sellers in digital commerce",
+    "Facilitate scalable and cost-effective e-commerce through an open protocol based on open-source specifications",
+    "Empower startups to grow collaboratively by reducing cost overheads such as acquisition, digital presence, and inventory costs",
+    "Enable easy participation in digital commerce for businesses irrespective of size, location, or digital proficiency",
+    "Expand the digital commerce landscape by amplifying geographic and socio-economic coverage",
+    "Enable increased trade of locally manufactured goods in India, thereby multiplying investment and production of MSMEs",
+    "Formalize businesses by creating active digital history and enabling easier access to finance options"
+  ],
+  "eligibility": "Any business in India, regardless of size, location, or digital proficiency, can join ONDC as a Buyer Network Participant, Seller Network Participant, Technology Service Provider, or Gateway, provided they can deliver high-quality service aligned with their chosen role on the network. There is no restriction based on turnover, years of incorporation, or entity type; eligibility is based on the ability to fulfill role-specific requirements such as integrating with ONDC APIs, digitizing catalogs, or providing buyer/seller applications.",
+  "benefits": "Sellers gain equal opportunity to compete with large market players and become discoverable online. Buyers enjoy a seamless shopping experience from a wide assortment of products across categories in a single checkout experience. Tech companies achieve rapid adoption and scale in go-to-market efforts. FinTechs can provide credit and financing solutions to all entities engaged in e-commerce. Participants benefit from increased visibility, access to wider markets, reduced commissions compared to traditional platforms, and support for growth through network effects. Women-led businesses gain access to broader digital marketplaces and increased visibility across buyer apps. The network enables structured discovery, sustainable execution, and helps brands scale responsibly with flexibility and long-term sustainability.",
+  "financial_support": "ONDC does not provide direct financial support to participants. However, the Ministry of MSME has launched the MSME Trade Enablement and Marketing (TEAM) Initiative in partnership with ONDC, with a budget of ₹277.35 crore over three years, to onboard 5 lakh Micro and Small Enterprises (MSEs), including 50% women-led businesses, by providing training, financial incentives, and support for catalogue creation, operations, and account management through Seller Network Participants. Additionally, ONDC has introduced fully digital, paperless loans available in just 6 minutes, integrated with 9 buyer applications (Lending Service Providers) and 3 lenders, enhancing accessibility and efficiency in credit services.",
+  "fund_size_crores": "277.35",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Sign up on the ONDC Portal and create a profile. 2. Explore introductory resources and attend community webinars. 3. Select your role (Buyer Network Participant, Seller Network Participant, Technology Service Provider, or Gateway) and domain via the portal. 4. Integrate with ONDC APIs and test your solution in Staging, Pre-Production, and Production environments. 5. Qualify the requirements and Go-Live on the ONDC network.",
+  "application_portal_url": "https://portal.ondc.org/merchant-registration",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India",
+  "contact_details": "Email: team@ondc.org | Address: Open Network For Digital Commerce (ONDC) 2nd Floor & 3rd Floor, 7/6, August Kranti Marg, Siri Fort Institutional Area, Near Siri Fort Auditorium, New Delhi - 110049",
+  "caveats": [
+    "ONDC is not an application, platform, intermediary, or software but a set of specifications designed to foster open, unbundled, and interoperable Open Networks.",
+    "The network does not endorse any buyer or seller application; branding and logos are owned by respective network participants.",
+    "ONDC is not a party to any transaction made through buyer applications and does not offer terms, representations, or warranties regarding such transactions.",
+    "Financial support under the TEAM Initiative is facilitated through Seller Network Participants, not directly by ONDC.",
+    "The TEAM Initiative targets Micro and Small Enterprises (MSEs), with 50% reserved for women-led businesses, and includes special attention to SC/ST-led enterprises."
+  ],
+  "source_cited_notes": [
+    "https://ondc.org/about-ondc/",
+    "https://ondc.org/press-releases-details?id=31",
+    "https://ondc.org/ondc-how-to-join/",
+    "https://ondc.org/learn-about-ondc/",
+    "https://ondc.org/press-releases/",
+    "https://ondc.org/contact-ondc/",
+    "https://ondc.org/roles-you-can-play/",
+    "https://ondc.org/sellers/",
+    "https://ondc.org/tech"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:57:09.977341+00:00"
+}

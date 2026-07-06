@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-787",
+  "scheme_name": "ICMR Extramural Research Grants for MedTech",
+  "scheme_url": "https://www.icmr.gov.in",
+  "ministry_or_category": "HealthTech Startups",
+  "overview": "The ICMR Extramural Research Grants for MedTech provide financial assistance to Indian scientists working outside ICMR institutes to conduct research in medicine, public health, and allied disciplines aimed at improving health of Indians. The scheme supports various types of grants including small, intermediate, and Centre for Advanced Research (CAR) grants, with a focus on innovation, validation of interventions, and development of breakthrough health technologies. It encourages multidisciplinary projects and prioritizes research aligned with ICMR's national health priorities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "scientists",
+    "researchers",
+    "medical colleges",
+    "research institutes",
+    "universities",
+    "recognized research and development laboratories",
+    "government and semi-government organizations",
+    "NGOs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To fund research studies to achieve specific and measurable objectives in line with ICMR priorities",
+    "To leverage the transformation of research-leads generated through ICMR’s previous grants to the next steps",
+    "To promote development of new technologies of public health or clinical importance",
+    "To promote advanced research by experienced research teams",
+    "To support high-impact, academic or non-regulatory randomized controlled trials (RCTs) that require data from multiple sites",
+    "To fund research projects on National Health Research Priority (NHRP) and monitor them directly at the level of DG, ICMR",
+    "To foster novel, out of the box, futuristic ideas, new knowledge generation, discovery / development of breakthrough health technologies",
+    "To maximize the benefits on the ICMR's research investments"
+  ],
+  "eligibility": "Non-ICMR Indian Scientists/ Professionals who have a regular employment in the Medical College, Research Institute, University, Recognized Research and Development Laboratory, Govt. and Semi Govt. Organization and NGOs. An eligible co-Principal Investigator should be included in the project i.e. a regular employee in the PI’s organization. ICMR scientists are not eligible to apply under this call. ICMR scientists may be named as co-investigators in these projects, but no funds will be given for ICMR institutions or scientists in these cases.",
+  "benefits": "Financial support for research projects, access to ICMR's research infrastructure, mentorship opportunities, collaboration with ICMR institutes, recognition through ICMR's extramural research programme, and support for translating innovative ideas into impactful healthcare solutions.",
+  "financial_support": "ICMR provides financial assistance through various grant types: ICMR SMALL Extramural Grants (up to 2 crores per project), ICMR SMALL Follow on Extramural Grants (up to 2 crores per project), ICMR Intermediate Extramural Grants (between 2-8 crores per project), ICMR Intermediate Extramural Grants Follow on (between 2-8 crores per project), Investigator Initiated First in World Challenge (FIWC) (up to 8 crore as per stage of innovation), Investigator Initiated Center for Advanced Research (CAR) (15 crores per CAR), Clinical Care Excellence Initiative (maximum 8 crores per project), and NHRP projects (up to Rs 25Cr for each project over the entire period, with funding up to Rs 8 Cr/site). Funds are released in one installment per year, with the first installment released along with the sanction letter for equipment and recurring expenditure up to 31st March of the financial year. Subsequent years' funds are released after receipt of annual progress report and Statement of Expenditure from the previous year.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Before proceeding to submit the proposal, read user manual and ICMR Extramural Research Program guidelines and make ready all relevant information, documents and research plan. 2. Open the ICMR Electronics Project Management System (e-PMS) portal at https://epms.icmr.org.in. The user manual of e-PMS (under Guidelines → e-PMS manual) is available on the portal. 3. Project proposal submission is a three-step process in e-PMS: Step 1: PI registration/Login (https://epms.icmr.org.in/userLogin); Step 2: Verify email ID and complete/update PI profile; Step 3: Proposal submission. 4. After completing mandatory section of PI profile, click on 'Proposal submission → Click on Submit new proposal → Select the program from drop-down box as \"Investigator-initiated Research Proposals\" → Fill the form step by step. 5. It is advised to carefully read the budget provision available under Guidelines for Extramural Research Programme of ICMR and submit the budget in prescribed format. 6. Including at least one Co-PI from PI’s institute is mandatory. 7. PIs are advised to submit proposal well ahead of the last date, since servers may be overloaded and slow to respond. 8. For any technical queries related to the call, please contact PO-EPMS at Division of BMI, ICMR Headquarters, V Ramalingaswami Bhawan, Ansari Nagar, New Delhi-110029, Email: po.epms@icmr.gov.in; Phone No: 011-2658988.",
+  "application_portal_url": "https://epms.icmr.org.in/",
+  "required_documents": [
+    "Declaration & Attestation",
+    "Acceptance (with Revised Budget/Revised Proposal, as applicable)",
+    "Plagiarism Undertaking for proposal",
+    "Bank & Account Details",
+    "Institutional Ethics Committee clearance (if applicable/ Declaration with reason if NA)",
+    "Institutional Animal Ethics Committee clearance (if applicable)",
+    "Clearance from Nuclear Medicine Committee, AERB (if using radio tagged material)",
+    "Institutional Bio-safety Committee (IBSC) – Recombinant or synthetic DNA/RNA/ Risk groupI/II/III organisms and/ or other biohazards",
+    "If the Proposal is for a regulatory clinical trial: Drugs Controller General of India (DCGI) Approval",
+    "If the proposal is for a clinical trial, regulatory or otherwise: CTRI Certificate",
+    "Case Record proforma, study instruments, questionnaires, scales, etc",
+    "Review Committee on Genetic Manipulation (RDNAT)- Recombinant DNA technology or declaration that the same is not required",
+    "Final Report",
+    "List of articles, both expendable and non-expendable",
+    "Raw data (along with descriptions) generated from the project",
+    "Audited Statement of accounts duly audited by the auditors"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Indian Council of Medical Research (ICMR)",
+  "contact_details": "Email: po.epms@icmr.gov.in | Phone No: 011-2658988",
+  "caveats": [
+    "ICMR scientists are not eligible to apply under this call",
+    "ICMR scientists may be named as co-investigators in these projects, but no funds will be given for ICMR institutions or scientists in these cases",
+    "Including at least one Co-PI from PI’s institute is mandatory",
+    "The last year’s fund would be released only after receiving of the SoE and provisional UC for the penultimate year",
+    "Entire fund for the last year would be released in one go with a mandatory condition that the PI would submit final report and UC within next 3 months from the date of completion of project, failing which the PI would be blacklisted for 3 years for the purpose of receiving of project funding from ICMR",
+    "An advisory would also be sent to the Head of the Institute"
+  ],
+  "source_cited_notes": [
+    "https://icmr.gov.in/extramural-grants",
+    "https://icmr.gov.in/icmrobject/custom_data/1720159244_guidelines_for_extramural_research_programme.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:01:46.648204+00:00"
+}

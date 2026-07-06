@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-219",
+  "scheme_name": "HRIDAY – Heritage City Development and Augmentation Yojana",
+  "scheme_url": "https://hridayindia.in",
+  "ministry_or_category": "Infrastructure",
+  "overview": "HRI Day India is a website providing online banking help and financial guides for various Indian banks. It offers step-by-step instructions for banking tasks such as activating debit cards, checking account balances, downloading statements, and managing online banking services. The site covers multiple banks including SBI, IOB, Canara Bank, PNB, and others, with guides on net banking, mobile apps, and account-related procedures.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "bank customers",
+    "individuals",
+    "retail users"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide easy, accurate instructions for banking tasks",
+    "Help users activate debit cards and enable online transactions",
+    "Assist in resetting passwords and managing bank accounts without confusion",
+    "Offer guidance on downloading bank statements online",
+    "Support users in accessing net banking and mobile banking services"
+  ],
+  "eligibility": "Anyone with a bank account at the covered Indian banks who needs assistance with online banking services, statement downloads, or account management can use the guides provided on the website.",
+  "benefits": "Users get access to step-by-step guides for various banking services including balance checks, debit card activation, statement downloads, password recovery, and online banking registration. The guides are designed to be user-friendly and reduce confusion in managing bank accounts through digital channels.",
+  "financial_support": "The website does not provide any financial support, grants, loans, or subsidies. It is an informational platform offering only guidance and tutorials for banking services.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the HRI Day India website at https://hridayindia.in 2. Use the search or filter options to find guides for your specific bank and service need 3. Select the relevant article (e.g., 'How to Download IOB Statement Online', 'How to Download IOB Statement Online') 4. Follow the step-by-step instructions provided in the guide 5. Complete the required actions such as entering credentials, downloading apps, or visiting bank websites as directed",
+  "application_portal_url": "https://hridayindia.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — guides are available year-round with no fixed deadlines for access",
+  "implementing_agency": "HRI Day India (Editorial Team)",
+  "contact_details": "",
+  "caveats": [
+    "The website provides only informational guides and does not offer direct banking services",
+    "Users must have their own bank credentials and registered mobile numbers to perform certain actions",
+    "Some procedures may require visiting official bank websites or using bank-specific apps",
+    "The guides are for assistance only and do not replace official bank support"
+  ],
+  "source_cited_notes": [
+    "https://hridayindia.in",
+    "https://hridayindia.in/how-to-do-iob-statement-download-online/",
+    "https://hridayindia.in/how-to-get-sbi-passbook-statement-online/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:23:13.515263+00:00"
+}

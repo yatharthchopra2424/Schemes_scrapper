@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-545",
+  "scheme_name": "Jharkhand MSME Policy 2015 (Revised)",
+  "scheme_url": "https://jharkhand.gov.in",
+  "ministry_or_category": "State Level (Jharkhand)",
+  "overview": "The Jharkhand MSME Policy 2015 (Revised) is a state-level initiative aimed at promoting the growth and competitiveness of Micro, Small, and Medium Enterprises (MSMEs) in Jharkhand through financial incentives, infrastructure support, and policy interventions. It focuses on enhancing productivity, encouraging technology adoption, and generating employment opportunities across the state. The policy provides a framework for simplifying regulatory processes and improving access to credit and markets for MSMEs.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Jharkhand only",
+  "objectives": [
+    "Promote sustainable growth and competitiveness of MSMEs in Jharkhand",
+    "Enhance access to institutional credit and financial support for MSMEs",
+    "Encourage technology upgradation and modernization of MSME units",
+    "Develop infrastructure and common facility centers for cluster-based development",
+    "Simplify regulatory procedures and reduce compliance burden for MSMEs",
+    "Promote entrepreneurship and skill development among youth and marginalized groups",
+    "Enhance market access and export promotion for MSME products",
+    "Support women, SC/ST, and differently-abled entrepreneurs through special provisions"
+  ],
+  "eligibility": "The policy applies to all Micro, Small, and Medium Enterprises as defined under the MSMED Act, 2006, that are registered or in the process of registration with the District Industries Centre (DIC) or Udyog Aadhaar Memorandum (UAM) in Jharkhand. Enterprises must be engaged in manufacturing or service activities and have valid registration to avail benefits under the policy.",
+  "benefits": "Benefits include capital investment subsidy, interest subsidy on term loans, reimbursement of ISO certification expenses, stamp duty exemption, electricity duty concession, and support for technology upgradation. Additional benefits comprise assistance for patent registration, participation in trade fairs, skill development training, and infrastructure support through common facility centers in industrial clusters.",
+  "financial_support": "Financial support includes capital investment subsidy up to 30% of plant and machinery cost (maximum INR 10 lakhs), interest subsidy of 5% per annum on term loans for 5 years, and reimbursement of up to INR 50,000 for ISO 9000/14001 certification. Subsidy for technology upgradation is provided at 25% of machinery cost (max INR 5 lakhs), and electricity duty exemption is available for 5 years from commencement of production.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register the enterprise with the District Industries Centre (DIC) or obtain Udyog Aadhaar Memorandum (UAM). 2. Submit application for desired subsidy or benefit under the Jharkhand MSME Policy 2015 (Revised) to the General Manager, District Industries Centre. 3. Attach required documents including project report, registration certificate, bank loan sanction letter, and quotation for machinery. 4. Application is scrutinized by DIC officials for eligibility and completeness. 5. Upon approval, subsidy is disbursed through direct bank transfer or reimbursement after verification of installation and commencement of production.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project Report",
+    "Udyog Aadhaar Memorandum (UAM) or SSI Registration Certificate",
+    "Bank Loan Sanction Letter (for loan-linked subsidies)",
+    "Quotation and Invoice for Plant and Machinery",
+    "Proof of Installation and Commencement of Production",
+    "ISO Certification Application and Payment Receipt (if applicable)",
+    "Land Ownership or Lease Agreement",
+    "Partnership Deed or Memorandum of Association (if applicable)",
+    "PAN and Aadhaar of Proprietor/Partners/Directors"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Industries, Government of Jharkhand",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy claims must be submitted within 12 months of commencement of commercial production",
+    "Benefits are not available for enterprises engaged in trading or retail activities",
+    "Double claiming of subsidies under central and state schemes for the same purpose is not permitted",
+    "Subsidy is subject to availability of funds and approval by the State Level Committee",
+    "Enterprises must remain in operation for a minimum of 3 years after availing subsidy to avoid clawback"
+  ],
+  "source_cited_notes": [
+    "https://jharkhand.gov.in/",
+    "https://jharkhand.gov.in/Home/DocumentList?doctype=45c48cce2e2d7fbdea1afc51c7c6ad26&subdoctype=02e74f10e0327ad868d138f2b4fdd6f0"
+  ],
+  "last_updated_date": "2015",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:25:33.095037+00:00"
+}

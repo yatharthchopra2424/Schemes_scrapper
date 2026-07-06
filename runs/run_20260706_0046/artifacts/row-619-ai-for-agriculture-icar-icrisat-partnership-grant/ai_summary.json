@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-619",
+  "scheme_name": "AI for Agriculture – ICAR-ICRISAT Partnership Grant",
+  "scheme_url": "https://www.icar.org.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "The AI for Agriculture – ICAR-ICRISAT Partnership Grant is a collaborative initiative between the Indian Council of Agricultural Research (ICAR) and the International Crops Research Institute for the Semi-Arid Tropics (ICRISAT) aimed at leveraging artificial intelligence and data analytics to enhance agricultural productivity, sustainability, and farmer livelihoods. The scheme supports research and innovation in AI-driven solutions for crop improvement, precision farming, and climate-resilient agriculture, particularly focusing on semi-arid regions. It seeks to bridge the gap between advanced AI technologies and on-ground agricultural challenges through joint research projects, capacity building, and technology transfer.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "researchers",
+    "scientists",
+    "agri-startups",
+    "farmers",
+    "ICAR institutes",
+    "ICRISAT scientists"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop AI-based tools and models for crop yield prediction and disease detection",
+    "Enhance precision agriculture through data-driven decision support systems",
+    "Promote climate-resilient farming practices using AI analytics",
+    "Strengthen capacity building in AI and data science for agricultural researchers",
+    "Facilitate technology transfer and scaling of AI innovations to farmers",
+    "Establish long-term collaboration between ICAR and ICRISAT on AI in agriculture",
+    "Support innovation in agri-tech startups through mentorship and pilot testing",
+    "Improve resource use efficiency (water, fertilizers, pesticides) via AI optimization"
+  ],
+  "eligibility": "Eligible applicants include scientists and researchers from ICAR institutes, ICRISAT, State Agricultural Universities, and recognized agri-tech startups working on AI-driven agricultural solutions. Preference is given to projects focusing on semi-arid tropics, smallholder farmers, and scalable technologies with clear pathways for field validation and adoption.",
+  "benefits": "Financial support for research and development, access to ICAR and ICRISAT research facilities and datasets, technical mentorship from domain experts, opportunities for field trials and pilot testing, potential for technology scaling and commercialization, joint publication and intellectual property rights as per agreement, and networking with national and international agricultural research communities.",
+  "financial_support": "The grant provides financial support for research projects, including funding for personnel, equipment, data acquisition, software tools, and field validation activities. The exact quantum and disbursement mechanism are determined based on project scope and mutual agreement between ICAR and ICRISAT, with funds released in tranches upon milestone achievement.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a collaborative research problem aligned with AI in agriculture and semi-arid tropics. 2. Develop a joint project proposal between ICAR and ICRISAT scientists or affiliated institutions. 3. Submit the proposal through the designated ICAR-ICRISAT coordination cell. 4. Proposal undergoes technical review by a joint expert committee. 5. Shortlisted proposals are presented for final approval. 6. Upon approval, a memorandum of understanding (MoU) is signed. 7. Funds are released in installments based on project milestones. 8. Progress is monitored through quarterly reports and annual reviews.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal document",
+    "CVs of principal investigators",
+    "Institutional endorsement letters",
+    "Detailed budget breakdown",
+    "Timeline and milestones chart",
+    "Data management and sharing plan",
+    "Intellectual property agreement draft",
+    "Ethical and biosafety clearance (if applicable)"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year subject to review cycles.",
+  "implementing_agency": "Indian Council of Agricultural Research (ICAR), Department of Agricultural Research and Education (DARE), Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: dkma@icar.org.in | Phone: +91-11-25843600 (Directorate of Knowledge Management in Agriculture, ICAR)",
+  "caveats": [
+    "Funding is contingent upon mutual agreement between ICAR and ICRISAT",
+    "Intellectual property rights will be governed by the joint agreement",
+    "Projects must align with national agricultural priorities and ICAR’s mandate",
+    "No overhead charges permitted beyond approved budget heads",
+    "Annual progress reports and financial statements are mandatory",
+    "Failure to meet milestones may result in termination of funding"
+  ],
+  "source_cited_notes": [
+    "https://icar.org.in",
+    "https://icar.org.in/en/node",
+    "https://icar.org.in/hi/node",
+    "https://icar.org.in/index.php/hi",
+    "https://icar.org.in/index.php/hi/about-us"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:14:31.752500+00:00"
+}

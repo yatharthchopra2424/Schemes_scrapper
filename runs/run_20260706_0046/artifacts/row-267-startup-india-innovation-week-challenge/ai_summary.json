@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-267",
+  "scheme_name": "Startup India Innovation Week Challenge",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "Startup India Innovation Week Challenge is a program under the Startup India initiative that invites startups to participate in innovation challenges and competitions to showcase their solutions, gain recognition, and access support such as mentorship, networking, and potential funding opportunities. It aims to foster innovation across sectors by connecting startups with industry experts, investors, and government bodies. The challenge is part of broader efforts to strengthen the startup ecosystem through structured programs and events.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a platform for startups to showcase innovative solutions",
+    "To connect startups with mentors, investors, and industry experts",
+    "To promote sector-specific innovation in areas like DeepTech, AgriTech, and SpaceTech",
+    "To offer recognition and support through cash prizes and handholding",
+    "To strengthen the startup ecosystem via structured challenges and events"
+  ],
+  "eligibility": "Startups must be DPIIT recognised to participate in the Innovation Week Challenge. Eligibility for DPIIT recognition includes being incorporated as a Private Limited Company, LLP, or partnership firm, being within 10 years of incorporation (20 years for DeepTech), having turnover not exceeding INR 200 crore (INR 300 crore for DeepTech), and working towards innovation, development, or improvement of products/services with potential for wealth and employment generation.",
+  "benefits": "Participants gain access to mentorship, networking opportunities with investors and industry leaders, potential cash prizes, handholding support, visibility through national platforms, and eligibility for further government schemes such as Seed Fund Scheme, Fund of Funds, and Credit Guarantee Scheme. Winners may also receive support for scaling and market access.",
+  "financial_support": "Financial support varies by challenge and may include cash prizes (e.g., up to ₹10 lakhs in some programs like National Startup Awards), seed funding through linked schemes such as SISFS (up to ₹20 lakhs), or investment facilitation via Startup India Investor Connect. The Innovation Week Challenge itself may not provide direct grants but links startups to funding avenues.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal (startupindia.gov.in) 2. Obtain DPIIT recognition via the 'Get Recognised' section 3. Navigate to the Innovation Week Challenge or specific program page 4. Fill out the application form with startup details and innovation description 5. Upload required documents such as incorporation certificate, PAN, and pitch deck 6. Submit the application and await evaluation 7. If selected, participate in the challenge events and receive benefits",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted year-round for various challenges under Startup India Programs.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Participation requires prior DPIIT recognition",
+    "Benefits such as tax exemptions and funding are subject to separate approvals",
+    "Recognition and eligibility are subject to periodic review and may be revoked for non-compliance",
+    "Financial support is not guaranteed and depends on performance in the challenge"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/",
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/content/sih/en/about-startup-india-initiative.html",
+    "https://startupindia.gov.in/content/sih/en/newsletters.html",
+    "https://startupindia.gov.in/content/sih/en/bloglist/blogs/how-to-use-the-startup-india-portal-from-registration-to-growth.html"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:45:48.685992+00:00"
+}

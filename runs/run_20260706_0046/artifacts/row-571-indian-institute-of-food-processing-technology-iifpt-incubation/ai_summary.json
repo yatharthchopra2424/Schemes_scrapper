@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-571",
+  "scheme_name": "Indian Institute of Food Processing Technology (IIFPT) Incubation",
+  "scheme_url": "https://iifpt.edu.in",
+  "ministry_or_category": "Food Processing",
+  "overview": "The Indian Institute of Food Processing Technology (IIFPT) Incubation program supports entrepreneurs and startups in the food processing sector by providing infrastructure, mentorship, and technical guidance to develop innovative food products and technologies. It aims to foster innovation, enhance product development capabilities, and promote entrepreneurship in food processing through incubation support. The program is hosted by IIFPT, a premier institute under the Ministry of Food Processing Industries, Government of India.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "agri-startups",
+    "food processing startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide incubation support to food processing startups and entrepreneurs",
+    "To offer infrastructure and technical facilities for product development and testing",
+    "To provide mentorship and guidance in technology, business planning, and regulatory compliance",
+    "To promote innovation in food processing technologies and value-added products",
+    "To facilitate market linkages and commercialization of incubated products",
+    "To support skill development and capacity building in food processing entrepreneurship"
+  ],
+  "eligibility": "The incubation program is open to individuals, startups, entrepreneurs, and MSMEs engaged in or planning to enter the food processing sector. Applicants must have an innovative idea, prototype, or early-stage venture related to food processing, value addition, preservation, or packaging. Preference may be given to those focusing on indigenous foods, waste utilization, or nutritional enhancement.",
+  "benefits": "Incubatees receive access to IIFPT's pilot plant facilities, laboratories, and processing equipment for product development and testing. They benefit from technical mentorship by IIFPT scientists, guidance on FSSAI regulations and standards, support in prototype development, assistance with business planning and IPR, and networking opportunities with industry experts and potential investors.",
+  "financial_support": "The incubation program primarily provides infrastructural and technical support rather than direct financial grants. Financial support may be facilitated through linkages with government schemes such as PMFME or other Ministry of Food Processing Industries (MoFPI) programs, but the IIFPT incubation itself does not specify a fixed quantum of direct financial aid per entity.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the IIFPT official website and navigate to the Incubation Centre section. 2. Review the incubation guidelines and eligibility criteria. 3. Prepare a detailed project proposal including idea description, objectives, required support, and expected outcomes. 4. Submit the application form along with the proposal and required documents via email or online portal as specified. 5. Applications are screened by the IIFPT Incubation Committee. 6. Shortlisted candidates may be called for an interview or presentation. 7. Selected incubatees are offered incubation space and support based on availability and suitability.",
+  "application_portal_url": "https://iifpt.edu.in",
+  "required_documents": [
+    "Completed application form",
+    "Detailed project proposal",
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Proof of address",
+    "Educational qualification certificates",
+    "CV/resume of promoters",
+    "Details of any existing registration (if applicable)",
+    "Any prototype or preliminary data (if available)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of incubation space.",
+  "implementing_agency": "Indian Institute of Food Processing Technology (IIFPT), Ministry of Food Processing Industries, Government of India",
+  "contact_details": "Email: incubation@iifpt.edu.in | Phone: +91-431-2500300",
+  "caveats": [
+    "Incubation support is subject to availability of space and resources at IIFPT",
+    "The program does not guarantee funding or commercial success",
+    "Incubatees must comply with IIFPT's rules and regulations during the incubation period",
+    "Intellectual property generated may be subject to IIFPT's IP policy",
+    "Support is typically provided for a limited duration, subject to review and renewal"
+  ],
+  "source_cited_notes": [
+    "https://iifpt.edu.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:43:42.408581+00:00"
+}

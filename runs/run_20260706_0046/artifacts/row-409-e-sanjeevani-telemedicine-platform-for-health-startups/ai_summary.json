@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-409",
+  "scheme_name": "e-Sanjeevani Telemedicine Platform for Health Startups",
+  "scheme_url": "https://esanjeevani.mohfw.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "eSanjeevani is India's National Telemedicine Service, providing accessible and affordable healthcare through a hub-and-spoke model connecting patients at Ayushman Bharat Health & Wellness Centres (spokes) with doctors and specialists at medical college hubs. It enables remote consultations via smartphones or at wellness centres, supporting Universal Health Coverage by bridging the digital health divide. The platform is ABDM compliant, integrates with Ayushman Bharat Health Account (ABHA), and supports electronic health records, e-prescriptions, and SNOMED CT terminology.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "general public",
+    "patients in rural and remote areas",
+    "healthcare providers",
+    "Community Health Officers",
+    "Medical Officers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide quick and easy access to doctors and medical specialists from smartphones",
+    "Enable access to quality health services remotely via Ayushman Bharat Health & Wellness Centres",
+    "Achieve digital health equity and Universal Health Coverage (UHC)",
+    "Link and manage health records through ABHA ID integration",
+    "Support telemedicine services in Health and Wellness Centres under NHM",
+    "Ensure interoperability and standardization of electronic health records",
+    "Facilitate assisted telemedicine through Community Health Officers at spokes",
+    "Promote affordable and accessible healthcare as envisioned by the Prime Minister"
+  ],
+  "eligibility": "Patients can access eSanjeevani by visiting the nearest Ayushman Bharat Health & Wellness Centre or using the platform via smartphone with internet connectivity. Healthcare providers (MBBS doctors, specialists, Medical Officers, Community Health Officers) can onboard as providers after training and registration through the NHM-supported hub-and-spoke model.",
+  "benefits": "Affordable and accessible healthcare, remote consultations reducing travel burden, integration with ABHA for health record linkage, e-prescription functionality, support for SNOMED CT and DICOM standards, seamless integration with CPHC-IT application, SMS alerts, comprehensive dashboard for monitoring, and lifetime archival of health records via MyHealthRecord (PHRMS).",
+  "financial_support": "The platform is implemented under the National Health Mission (NHM) with financial support from MoHFW to State Governments for infrastructure, training, and operational costs. Hubs are established at medical colleges with contractual MBBS doctors and daily-roster specialists. Spokes (HWCs) are upgraded with telemedicine infrastructure. Equipment such as Bluetooth-enabled diagnostic devices (approx. cost Rs. 1 lakh) may be deployed. Funding is provisioned through State proposals under NHM for HR, infrastructure, and application hosting (central or cloud-based).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs conduct a gap analysis of existing infrastructure at HWCs under NHM or other schemes. 2. Prepare a proposal for telemedicine rollout including infrastructure, HR, and budget requirements. 3. Submit proposal to MoHFW under NHM for financial and technical support. 4. Upgrade HWCs (spokes) with required telemedicine infrastructure and train existing manpower (CHO, MPW, ASHA). 5. Establish HUBs at medical colleges or zonal levels with MBBS doctors (contractual) and specialists (daily roster). 6. Deploy the centrally hosted e-Sanjeevani application. 7. Integrate with ABHA, MyHealthRecord, and CPHC-IT application. 8. Launch services and monitor via district/state/centre-level dashboards.",
+  "application_portal_url": "https://esanjeevani.mohfw.gov.in",
+  "required_documents": [
+    "ABHA ID (for health record linkage)",
+    "Proof of identity for patient registration",
+    "Training completion certificate for healthcare providers (if applicable)",
+    "Infrastructure gap analysis report (for State proposals)",
+    "Proposal for infrastructure and HR under NHM (for States/UTs)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted year-round under NHM; service access is available 24x7.",
+  "implementing_agency": "Ministry of Health and Family Welfare (MoHFW), Government of India",
+  "contact_details": "Email: Not explicitly provided in evidence | Helpline: Not explicitly provided in evidence",
+  "caveats": [
+    "ABHA ID must be provided in all consultations for health record linkage",
+    "eSanjeevani complies with EHR Guidelines (2016) and Telemedicine Practice Guidelines (2020)",
+    "Hubs require contractual MBBS doctors and specialist availability on daily roster basis",
+    "States must utilize or upgrade existing IT infrastructure under NHM or other schemes before proposing new infrastructure",
+    "The application is centrally hosted; States may propose server requirements in consultation with CDAC-Mohali"
+  ],
+  "source_cited_notes": [
+    "https://esanjeevani.mohfw.gov.in",
+    "https://esanjeevani.mohfw.gov.in/assets/guidelines/ehr_guidlines.pdf",
+    "https://esanjeevani.mohfw.gov.in/assets/guidelines/Guidelines_for_Telemedicine_Services.pdf",
+    "https://esanjeevani.mohfw.gov.in/assets/guidelines/Telemedicine_Practice_Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:17:56.005030+00:00"
+}

@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-275",
+  "scheme_name": "SIDBI Startup Mitra – Incubation Portal",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-mitra.html",
+  "ministry_or_category": "Incubation & Acceleration",
+  "overview": "SIDBI Startup Mitra – Incubation Portal is a platform under the Startup India initiative designed to support startups by providing access to incubation services, mentorship, and resources. It aims to nurture early-stage startups through structured incubation programs, connecting them with incubators, accelerators, and industry experts. The portal facilitates application to various incubation schemes and offers guidance on accessing government and private funding, regulatory support, and market linkages.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage startups",
+    "technology-enabled startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide access to incubation and acceleration support for startups",
+    "To connect startups with mentors, industry experts, and investors",
+    "To facilitate entry into government incubation and funding schemes",
+    "To support prototype development, market entry, and commercialization",
+    "To strengthen the startup ecosystem through collaboration and knowledge sharing"
+  ],
+  "eligibility": "DPIIT-recognised startups with technology-enabled business ideas are eligible to apply for incubation support through the SIDBI Startup Mitra portal. Startups must be incorporated as a Private Limited Company, Registered Partnership Firm, Limited Liability Partnership, or Cooperative Society. The entity should be working towards innovation, development, or improvement of products, processes, or services, and have a scalable business model with high potential for wealth and employment generation. The startup should not have been formed by splitting up or reconstructing an existing business.",
+  "benefits": "Access to incubation and acceleration programs, mentorship from industry experts, networking opportunities with investors and corporates, guidance on applying for government schemes such as Startup India Seed Fund Scheme (SISFS), Fund of Funds for Startups (FFS), and Credit Guarantee Scheme for Startups (CGSS), support for intellectual property protection, and assistance in market access and regulatory compliance.",
+  "financial_support": "The SIDBI Startup Mitra portal does not directly provide financial support but facilitates access to financial schemes such as the Startup India Seed Fund Scheme (SISFS), which offers grants up to INR 20 lakh, and the Fund of Funds for Startups (FFS), which contributes to SEBI-registered AIFs that invest in startups. It also connects startups to the Credit Guarantee Scheme for Startups (CGSS) for collateral-free debt funding.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Startup India portal at https://www.startupindia.gov.in/ 2. Navigate to the Startup Mitra – Incubation Portal section 3. Register or log in to your Startup India profile 4. Complete the application form with details about your startup, including innovation, business model, and team 5. Upload required documents such as Certificate of Incorporation, PAN, and pitch deck 6. Submit the application for review 7. Await confirmation and further instructions from the incubation partner",
+  "application_portal_url": "https://www.startupindia.gov.in/content/sih/en/startupgov/startup-mitra.html",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of funding received (if any)",
+    "Authorized signatory authorization letter"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "",
+  "caveats": [
+    "The portal does not guarantee admission to incubation programs; selection is based on evaluation by incubators",
+    "Benefits are subject to the terms and conditions of individual incubation partners",
+    "Startups must maintain DPIIT recognition to continue accessing benefits"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/sih/en/startupgov/startup-mitra.html",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action%20Plan.pdf",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Startup%20India_Logo%20Application%20Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:50:16.088489+00:00"
+}

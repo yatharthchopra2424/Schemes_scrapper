@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-744",
+  "scheme_name": "IIT Bombay SINE Incubation Programme",
+  "scheme_url": "https://www.sineiitb.org",
+  "ministry_or_category": "Research Institutions",
+  "overview": "The IIT Bombay SINE Incubation Programme supports early-stage technology startups by providing incubation facilities, mentorship, networking opportunities, and access to funding. It aims to nurture innovative ventures from ideation to market readiness through structured support and industry linkages. The programme is hosted by the Society for Innovation and Entrepreneurship (SINE) at IIT Bombay and focuses on deep-tech and scalable business models.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "technology entrepreneurs",
+    "early-stage ventures"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide incubation support to technology-based startups",
+    "To offer mentorship and guidance from industry experts and faculty",
+    "To facilitate access to funding through investor networks and seed funds",
+    "To provide infrastructure and lab facilities for product development",
+    "To assist in intellectual property protection and regulatory compliance",
+    "To enable market access and industry partnerships"
+  ],
+  "eligibility": "Startups must be technology-driven, have a scalable business model, and be incorporated as a Private Limited Company or LLP. Preference is given to ventures with IIT Bombay affiliation or those working in deep-tech domains such as AI, IoT, biotech, and clean energy. Early-stage startups with a working prototype or MVP are encouraged to apply.",
+  "benefits": "Access to office space, laboratories, and prototyping facilities at IIT Bombay; mentorship from experienced entrepreneurs, investors, and IIT faculty; networking opportunities with investors, corporates, and alumni; assistance in fundraising and pitch preparation; support for IP filing and legal compliance; access to SINE’s seed fund and investor connect programmes.",
+  "financial_support": "SINE provides seed funding of up to INR 25 Lakhs through its SINE Seed Fund for selected startups, typically in exchange for equity. Financial support is disbursed based on milestone achievement and is complemented by access to follow-on funding through SINE’s investor network and demo days.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 25 Lakhs",
+  "application_process": "1. Submit an online application through the SINE website with details of the startup, team, and business idea. 2. Shortlisted applicants are invited for a pitch presentation before the SINE selection committee. 3. Selected startups undergo due diligence and term sheet negotiation. 4. Upon acceptance, startups complete incubation formalities and begin the programme.",
+  "application_portal_url": "https://www.sineiitb.org/apply",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the company",
+    "Aadhaar and PAN of founders",
+    "Business plan or pitch deck",
+    "Details of product/service and technology",
+    "Information on existing funding or grants (if any)",
+    "Founders’ resumes and background"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Society for Innovation and Entrepreneurship (SINE), IIT Bombay",
+  "contact_details": "Email: info@sineiitb.org | Phone: +91-22-2576-7020",
+  "caveats": [
+    "Incubation support is typically limited to a maximum duration of 24 months",
+    "Equity may be taken in exchange for seed funding or intensive support",
+    "Continued participation is subject to periodic performance review",
+    "Startups must comply with IIT Bombay’s safety, security, and IP policies"
+  ],
+  "source_cited_notes": [
+    "https://www.sineiitb.org",
+    "https://www.sineiitb.org/apply"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:30:40.719517+00:00"
+}

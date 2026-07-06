@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-116",
+  "scheme_name": "Gujarat Startup Policy",
+  "scheme_url": "https://ic.gujarat.gov.in",
+  "ministry_or_category": "State Level (Gujarat)",
+  "overview": "The Gujarat Startup Policy is a state-level initiative aimed at fostering innovation and entrepreneurship by providing support to startups through various incentives, incubation, and financial assistance. It seeks to build a robust startup ecosystem in Gujarat by offering recognition, mentorship, infrastructure, and funding opportunities. The policy aligns with the broader 'Atmanirbhar Bharat' vision and leverages Gujarat's strong industrial base and infrastructure to promote innovation-driven growth.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "innovators"
+  ],
+  "geographic_scope": "Gujarat only",
+  "objectives": [
+    "Promote entrepreneurship and innovation in the state",
+    "Strengthen the startup ecosystem through incubation and mentorship",
+    "Provide financial and non-financial support to early-stage startups",
+    "Encourage innovation in thrust sectors and technology-driven ventures",
+    "Facilitate access to funding, mentorship, and market linkages",
+    "Support women, SC/ST, and young entrepreneurs through inclusive provisions",
+    "Enhance ease of doing startups via regulatory simplification and single-window clearance",
+    "Promote research, development, and innovation in collaboration with academic and R&D institutions"
+  ],
+  "eligibility": "Startups incorporated as a Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm in Gujarat, with an innovative business model, scalable potential, and working towards development or improvement of products, processes, or services. The startup must be registered with DPIIT under the Startup India initiative and have been in operation for not more than 10 years from the date of incorporation.",
+  "benefits": "Startups under the Gujarat Startup Policy are eligible for benefits including seed funding, prototype development support, access to incubation centers and co-working spaces, mentorship from industry experts, assistance in intellectual property rights (IPR) filing, fast-tracked approvals, exemption from certain regulatory compliances, participation in startup fairs and investor meets, and support for market access and scaling. Financial support includes grants, equity funding, and loan facilitation through state-backed funds.",
+  "financial_support": "Financial support under the Gujarat Startup Policy includes seed funding of up to INR 25 lakhs for prototype development and validation, equity-based investments through the Gujarat Venture Finance Limited (GVFL) or state-funded Alternate Investment Funds (AIFs), and credit guarantee support for bank loans. The policy also facilitates access to the Fund of Funds for Startups (FFS) and provides interest subvention on loans taken by recognized startups for working capital and capital expenditure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 25 Lakhs",
+  "application_process": "1. Register the startup on the Startup India portal (startupindia.gov.in) to obtain DPIIT recognition. 2. Apply for recognition under the Gujarat Startup Policy via the designated state portal or nodal agency. 3. Submit the application form along with required documents such as Certificate of Incorporation, PAN, pitch deck, and details of innovation. 4. Await evaluation by the appointed committee or incubator. 5. Upon approval, sign the agreement and disbursement of benefits as per the approved plan.",
+  "application_portal_url": "https://startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)",
+    "DPIIT recognition certificate",
+    "Proof of innovation or prototype",
+    "Bank account details"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Industries and Mines Department, Government of Gujarat",
+  "contact_details": "Email: icmsme@gujarat.gov.in | Phone: 079-232-52532/58378",
+  "caveats": [
+    "Benefits are subject to availability of funds and approval by the empowered committee",
+    "Startups must maintain DPIIT recognition to continue availing benefits",
+    "Misrepresentation of facts may lead to rejection and blacklisting",
+    "Equity-based support may involve dilution as per term sheet",
+    "Funds must be utilized only for the approved purpose as per the agreement"
+  ],
+  "source_cited_notes": [
+    "https://ic.gujarat.gov.in/documents/commondoc/2020/Industrial-Policy2020.pdf",
+    "https://ic.gujarat.gov.in/documents/commondoc/2018/Startup_Ranking_Winning_Note.pdf"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:25:51.420775+00:00"
+}

@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-56",
+  "scheme_name": "Rashtriya Gram Swaraj Abhiyan (RGSA)",
+  "scheme_url": "https://rgsa.nic.in",
+  "ministry_or_category": "Rural Development",
+  "overview": "Rashtriya Gram Swaraj Abhiyan (RGSA) is a Centrally Sponsored Scheme approved on 13.04.2022 for implementation from 01.04.2022 to 31.03.2026, co-terminus with the XV Finance Commission period. The scheme focuses on re-imagining Panchayati Raj Institutions as vibrant centers of local self-governance and economic growth, with special emphasis on localization of Sustainable Development Goals (SDGs) at the grassroots level through a thematic approach and collaborative efforts of Central Ministries and State line departments. It ensures basic orientation training for Elected Representatives (ERs) of Panchayats within 6 months of election and refresher training within 2 years, with a funding pattern of 60:40 (Central:State) for general states, 90:10 for NE Hilly States and UT of J&K, and 100% Central share for other UTs.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "Panchayati Raj Institutions",
+    "Elected Representatives (ERs) of Panchayats",
+    "State Governments",
+    "Union Territories"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Re-imagine Panchayati Raj Institutions as vibrant centers of local self-governance and economic growth",
+    "Focus on localization of Sustainable Development Goals (SDGs) at the grassroots level",
+    "Adopt a thematic approach through concerted and collaborative efforts of Central Ministries and State line departments",
+    "Ensure basic orientation training for Elected Representatives (ERs) of Panchayats within 6 months of election",
+    "Provide refresher training for ERs within 2 years",
+    "Strengthen Panchayati Raj Institutions through capacity building and training",
+    "Promote local self-governance and grassroots democracy",
+    "Support economic development at the village level through empowered PRIs"
+  ],
+  "eligibility": "The scheme is implemented by State Governments and Union Territories. The funding pattern for State components is in the ratio of 60:40 (Central:State) respectively, except for NE Hilly States and UT of J & K where the Central and State Share is in the ratio of 90:10. For other UTs, the Central share is 100%. The scheme covers all Panchayati Raj Institutions across the country, including Gram Panchayats, Block Panchayats, and District Panchayats.",
+  "benefits": "Capacity building and training of Panchayati Raj Institution representatives; construction and repair of Panchayat Bhawans; provision of computers to Gram Panchayats; organization of exposure visits; implementation of schemes and initiatives related to SDGs, economic and innovative projects, vibrant Gram Sabha, and Panchayat Awards; training through State Institutes of Rural Development (SIRDs); and overall strengthening of local self-governance infrastructure and human resource capacity.",
+  "financial_support": "The scheme operates as a Centrally Sponsored Scheme with financial support provided to States and Union Territories based on the funding pattern: 60:40 (Central:State) for general states, 90:10 for NE Hilly States and UT of J & K, and 100% Central share for other UTs. Funds are released for activities such as training of Elected Representatives, infrastructure development (Panchayat Bhawans), computerization, and other capacity-building initiatives under the RGSA framework.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "States and Union Territories are required to submit Annual Action Plans (AAPs) through the MIS portal for approval. The process involves: 1. Preparation of State Annual Action Plan (AAP) by the State Government/UT Administration. 2. Submission of AAP via the MIS portal on the RGSA website. 3. Review and approval of AAP by the Ministry of Panchayati Raj. 4. Release of funds based on approved AAP and utilization certificates. 5. Implementation of activities at the district, block, and gram panchayat levels. 6. Monitoring and reporting of progress through the MIS portal. 7. Submission of Utilization Certificates and progress reports for subsequent fund releases.",
+  "application_portal_url": "https://rgsa.nic.in",
+  "required_documents": [
+    "Annual Action Plan (AAP)",
+    "Utilization Certificates",
+    "Progress Reports",
+    "Minutes of Meetings",
+    "Training Reports",
+    "Exposure Visit Reports",
+    "Infrastructure Completion Certificates (for Panchayat Bhawans)",
+    "Computer Installation Reports"
+  ],
+  "deadlines": "Annual Action Plans (AAPs) are to be submitted for each financial year. The scheme is implemented from 01.04.2022 to 31.03.2026. Specific submission deadlines for AAPs are communicated annually by the Ministry of Panchayati Raj.",
+  "implementing_agency": "Ministry of Panchayati Raj, Government of India",
+  "contact_details": "Email ID : mis-rgsa[at]gov[dot]in | Helpdesk : 011-24305284 | Address : Ministry of Panchayati Raj Government of India 11th Floor, J.P. Building, Kasturba Gandhi Marg, Connaught Place, New Delhi - 110001",
+  "caveats": [
+    "Funding is contingent upon submission and approval of Annual Action Plans (AAPs)",
+    "Release of subsequent installments is subject to utilization of previous funds and submission of Utilization Certificates",
+    "The scheme is co-terminus with the XV Finance Commission period (up to 31.03.2026)",
+    "NE Hilly States and UT of J & K have a different funding ratio (90:10 Central:State)",
+    "Other UTs receive 100% Central share",
+    "Training must include basic orientation within 6 months of election and refresher within 2 years"
+  ],
+  "source_cited_notes": [
+    "https://rgsa.nic.in",
+    "https://rgsa.nic.in/getScreenReaderHomePage.htm?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/index.htm",
+    "https://rgsa.nic.in/getsuccessStroiesHomePage.htm?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/getVideoHomePage.htm?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/getPhotoGalleryHomePage.htm?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/actionPlanPhysicalReport.html?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/QPRPhysicalReport.html?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/getPlanStatusReport.html?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/rgsaTmpReconsilationReport.html?OWASP_CSRFTOKEN=Q88V-JCQV-43DL-NG8V-W3GM-3EZL-9LT0-C3TF",
+    "https://rgsa.nic.in/getSIRDListHomePage.htm",
+    "https://rgsa.nic.in/getEcnomicSectionHomePage.htm"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:50:07.218433+00:00"
+}

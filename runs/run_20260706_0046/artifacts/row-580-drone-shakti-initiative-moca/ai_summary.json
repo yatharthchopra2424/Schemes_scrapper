@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-580",
+  "scheme_name": "Drone Shakti Initiative (MoCA)",
+  "scheme_url": "https://www.civilaviation.gov.in/drone",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The Drone Shakti Initiative (MoCA) is a government scheme launched by the Ministry of Civil Aviation to promote the drone and UAV ecosystem in India. It aims to foster innovation, support startups, and create employment opportunities in the drone sector through various initiatives including drone schools, pilot certification, and skill development programs. The initiative focuses on expanding drone applications across sectors such as agriculture, logistics, and surveillance, while ensuring regulatory compliance and safety standards. It also emphasizes skill development through partnerships with institutions like AASSC, IGRUA, and RGNAU to train certified pilots, trainers, and assessors.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "MSME",
+    "drone operators",
+    "certified pilots",
+    "drone schools",
+    "training partners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the growth of the drone and UAV ecosystem in India",
+    "Support startups and MSMEs in the drone sector through incubation and financial support",
+    "Develop skilled manpower through certified training programs",
+    "Expand drone applications in agriculture, logistics, surveillance, and other sectors",
+    "Ensure regulatory compliance and safety in drone operations",
+    "Promote indigenous drone manufacturing and innovation",
+    "Facilitate ease of doing business for drone operators through simplified regulations",
+    "Create employment opportunities in the drone ecosystem"
+  ],
+  "eligibility": "The scheme is open to startups, MSMEs, drone operators, drone schools, training partners, and individuals seeking certification as drone pilots, trainers, or assessors. Entities must be registered in India and comply with the Directorate General of Civil Aviation (DGCA) regulations under the Bharatiya Vayuyan Adhiniyam, 2024. Drone operators must hold valid Unique Identification Numbers (UIN) and Drone Authorization Numbers (DAN) as per DGCA guidelines. Training institutions must be affiliated with recognized bodies such as AASSC, IGRUA, or RGNAU.",
+  "benefits": "The initiative provides financial and non-financial benefits including financial support for drone startups and MSMEs, skill development and certification programs for pilots, trainers, and assessors, facilitation of drone operations through simplified regulatory processes, support for drone applications in agriculture, logistics, and surveillance, promotion of indigenous drone manufacturing, and access to government-backed training and certification programs. It also facilitates ease of doing business through simplified compliance and access to government schemes and incentives.",
+  "financial_support": "The initiative provides financial support to drone startups and MSMEs through various government schemes, including seed funding, seed loans, and credit guarantee schemes. Specific financial support mechanisms include the Credit Guarantee Scheme for Startups (CGSS), Seed Fund Scheme, and Fund of Funds for Startups (FFS) managed by SIDBI. The initiative also facilitates access to loans and credit through public sector banks and financial institutions under government-backed guarantee schemes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility under the Drone Shakti Initiative based on entity type (startup, MSME, drone operator, training partner, etc.). 2. Ensure compliance with DGCA regulations under the Bharatiya Vayuyan Adhiniyam, 2024, including obtaining UIN and DAN where applicable. 3. For training partners, affiliate with recognized bodies such as AASSC, IGRUA, or RGNAU. 4. Apply for relevant government schemes such as the Credit Guarantee Scheme for Startups (CGSS), Seed Fund Scheme, or Fund of Funds for Startups (FFS) through the respective implementing agencies. 5. Submit required documents including incorporation certificates, PAN, business plan, compliance certificates, and training affiliation proofs. 6. Submit application via the respective scheme portal or through the Ministry of Civil Aviation's designated channels. 7. Await verification and approval from the concerned agency.",
+  "application_portal_url": "https://www.civilaviation.gov.in/drone",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Business plan or project proposal",
+    "Unique Identification Number (UIN) for drones",
+    "Drone Authorization Number (DAN) for operations",
+    "Affiliation certificate with AASSC, IGRUA, or RGNAU (for training partners)",
+    "GST registration certificate",
+    "Bank account details",
+    "Authorized signatory authorization letter"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Civil Aviation",
+  "contact_details": "Email: drone@civilaviation.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Financial support is subject to availability of funds and scheme-specific guidelines",
+    "Beneficiaries must comply with DGCA regulations under the Bharatiya Vayuyan Adhiniyam, 2024",
+    "Training partners must be affiliated with recognized bodies such as AASSC, IGRUA, or RGNAU",
+    "Drone operations must adhere to safety and operational guidelines issued by DGCA",
+    "Benefits under government schemes are subject to separate eligibility and approval processes"
+  ],
+  "source_cited_notes": [
+    "https://civilaviation.gov.in/",
+    "https://civilaviation.gov.in/drone"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:50:34.822018+00:00"
+}

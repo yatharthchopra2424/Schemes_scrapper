@@ -1,0 +1,72 @@
+{
+  "scheme_id": "row-661",
+  "scheme_name": "PM Rozgar Yojana for Ex-Servicemen",
+  "scheme_url": "https://ksb.gov.in",
+  "ministry_or_category": "Ex-Servicemen",
+  "overview": "The Prime Minister's Scholarship Scheme (PMSS) for Ex-Servicemen (ESM) is a welfare initiative by the Kendriya Sainik Board (KSB) under the Ministry of Defence, aimed at providing financial assistance to the wards of Ex-Servicemen and Ex-Coast Guard personnel for pursuing professional degree courses. The scheme supports education through scholarships disbursed in installments based on academic performance and renewal criteria.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "wards of Ex-Servicemen",
+    "wards of Ex-Coast Guard personnel"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to the wards of Ex-Servicemen and Ex-Coast Guard personnel for pursuing professional education",
+    "Encourage higher education among dependents of defence personnel through merit-based scholarships",
+    "Ensure timely disbursement of scholarship funds upon meeting academic and documentation requirements",
+    "Support students in completing approved professional courses without financial burden",
+    "Maintain transparency in application and renewal processes via online portal",
+    "Promote accountability through verification of documents and academic performance"
+  ],
+  "eligibility": "The applicant must be a ward (son/daughter) of an Ex-Serviceman or Ex-Coast Guard personnel who has been released/discharged/retired after 01 July 1987 and is in receipt of pension. The student must have secured admission in the first year of an approved professional course between 01 April to 15 November (except lateral entry/integrated courses), possess a valid PPO number, Aadhaar card, bank account (SBI/PNB), and meet the minimum educational qualification (MEQ) for the course. The applicant must score at least 50% aggregate marks in each semester/academic year to continue receiving the scholarship.",
+  "benefits": "Financial assistance of INR 30,000 per annum for boys and INR 36,000 per annum for girls, disbursed in installments upon successful renewal. Non-financial benefits include access to the KSB online portal for application and renewal, document verification support, and helpline assistance for technical and scheme-related queries.",
+  "financial_support": "The scholarship provides INR 30,000 per year for male students and INR 36,000 per year for female students. The amount is disbursed in installments: the first installment is paid upon selection in the merit list, and subsequent installments are released annually upon submission of renewal application with original mark sheets showing at least 50% aggregate marks in each semester/academic year. Payments are made directly to the student's bank account after verification of documents.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 30,000 per annum for boys and INR 36,000 per annum for girls",
+  "application_process": "1. Visit KSB website www.online.ksb.gov.in and register by providing ESM/widow/orphan details including photograph, PPO number, bank account (SBI/PNB), ESM I/Card, Aadhaar, mobile, email, and dates of birth, enrollment, discharge, and death (if applicable). 2. After registration, login using credentials sent to email and activate account via activation link. 3. Log in to the portal, select 'PMSS New Application' from the dashboard. 4. Fill in Part-1 (ESM details: Army No, Rank, Name, PPO, Category) and Part-2 (Student details: Aadhaar, mobile, email, MEQ, marks, course details, bank details). 5. Fill in Part-3: select regulatory body, confirm Aadhaar-bank linkage, provide student name as bank account holder, select bank (SBI/PNB), provide correct account number. 6. Upload scanned original documents: photograph, ESM/Ex-Coast Guard certificate (Annexure-1), Bonafide Certificate (Annexure-2), Bank Manager's certificate (Annexure-3), 10th mark sheet, MEQ mark sheets, first page of bank passbook/cancelled cheque, category-supporting certificate, Aadhaar card, and affidavit if applicable. 7. Click 'Save and Forward' to submit the application. 8. For renewal, visit the portal, login, select 'Renewal Application', enter Selection Serial Number, click 'Get Details', fill renewal form, upload required documents (bonafide, exam passing, bank manager's certificate, mark sheets, bank passbook, Aadhaar), and submit.",
+  "application_portal_url": "https://online.ksb.gov.in",
+  "required_documents": [
+    "Photograph of ESM/Widow/Orphan (soft copy, max 1MB)",
+    "PPO Number",
+    "Bank Account Number (SBI/PNB)",
+    "ESM I/Card Number",
+    "Aadhaar Card Number",
+    "Mobile Number",
+    "Email Id",
+    "Date of birth, date of enrollment & date of discharge",
+    "Date of death of ESM (if applicable)",
+    "Details of Bank Account (Account Number, Branch Name, IFSC Code)",
+    "Digital Photograph of Student (soft copy, max 1MB)",
+    "ESM/Ex Coast Guard Personnel Certificate signed by ZSB/CG HQ (Annexure-1)",
+    "Bonafide Certificate duly signed by Vice Chancellor/Principal/Vice Principal/Dean/Associate Dean/Registrar/Dy Registrar/Director/Dy Director (Annexure-2)",
+    "Certificate from Bank Manager stating that Aadhaar Card of student is seeded with Bank A/C No of student (Annexure-3)",
+    "Mark Sheet of 10th Class to verify date of birth",
+    "Complete Mark Sheets of MEQ (10+2/Graduation/Diploma as applicable)",
+    "First Page of Bank Pass Book of Student",
+    "Aadhaar Card of Student",
+    "Affidavit / Self Certificate of ESM (if ward born after retirement of ESM)"
+  ],
+  "deadlines": "Admission must be taken between 01 April to 15 November (except lateral entry/integrated courses). Renewal application must be submitted within one year of declaration of result of each academic year.",
+  "implementing_agency": "Kendriya Sainik Board, Department of Ex-Servicemen Welfare, Ministry of Defence",
+  "contact_details": "Tele: 011-20862449, 011-20867132, 011-20862447 | Email: ksbwebsitehelpline@gmail.com, jdautomationksb-mod@gov.in, jdpmssksb-mod@gov.in",
+  "caveats": [
+    "Scholarship amount will not be paid if the student scores less than 50% aggregate marks in any semester/academic year",
+    "If renewal application is not submitted within one year of result declaration, the case is closed forever",
+    "Only original documents are accepted; internet-generated mark sheets are not entertained",
+    "Bank account must be with SBI or PNB only for scholarship disbursement",
+    "Aadhaar card must be linked with the student's bank account number",
+    "Application must be saved and forwarded; saving without forwarding keeps it pending and not considered",
+    "Penury grant (if applicable) does not automatically extend to widow; she must apply online after attaining 65 years of age"
+  ],
+  "source_cited_notes": [
+    "https://ksb.gov.in/writereaddata/DownLoad/Check-List-Application.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/Flow-Chart-New-application-revised.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/Check-List-Renewal-Application.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/Flow-Chart-Renewal-Application.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/FAQ-Renewal-Application-converted.pdf",
+    "https://ksb.gov.in/writereaddata/DownLoad/List_of_Authorised_professional_degree_courses_under_PMSS.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:41:14.696889+00:00"
+}

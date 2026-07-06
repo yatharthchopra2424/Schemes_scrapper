@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-23",
+  "scheme_name": "MEIS (Merchandise Exports from India Scheme)",
+  "scheme_url": "https://dgft.gov.in",
+  "ministry_or_category": "Export Promotion",
+  "overview": "The Merchandise Exports from India Scheme (MEIS) is an export promotion initiative by the Directorate General of Foreign Trade (DGFT) under the Ministry of Commerce and Industry, Government of India. It aims to promote the manufacture and export of notified goods/products by providing financial incentives in the form of duty credit scrips to exporters. The scheme supports Indian exporters by offsetting infrastructural inefficiencies and enhancing competitiveness in global markets.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "exporters",
+    "manufacturers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the manufacture and export of notified goods/products",
+    "Offset infrastructural inefficiencies and associated costs involved in exporting goods/products",
+    "Enhance India's export competitiveness in global markets",
+    "Provide incentives through duty credit scrips to eligible exporters",
+    "Support MSME participation in international trade"
+  ],
+  "eligibility": "Exporters of notified goods/products as per the Foreign Trade Policy (FTP) are eligible for MEIS benefits. The scheme applies to exports made under the IEC (Importer Exporter Code) granted by DGFT. Eligibility is determined based on the product description and ITC(HS) code as notified under the scheme from time to time.",
+  "benefits": "MEIS provides duty credit scrips as a percentage of the FOB value of exports, which can be used to pay basic customs duty on import of goods, payment of service tax, and settlement of other dues. The scrips are transferable and can be traded in the market. The rate of incentive varies by product and is notified periodically.",
+  "financial_support": "Financial support under MEIS is provided in the form of duty credit scrips, calculated as a percentage of the FOB value of exports of notified products. The scrips can be utilized for payment of customs duty, excise duty, service tax, and other dues. The incentive rate is product-specific and notified by DGFT.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the DGFT website (https://dgft.gov.in) with a valid email and mobile number. 2. Login to the DGFT portal. 3. Navigate to the MEIS section under Export Promotion Schemes. 4. Submit an application for MEIS benefits along with required documents such as shipping bills, realization proof, and IEC details. 5. The application is processed by DGFT, and upon approval, duty credit scrips are issued electronically.",
+  "application_portal_url": "https://dgft.gov.in",
+  "required_documents": [
+    "Shipping Bill",
+    "Proof of realization of export proceeds",
+    "Importer Exporter Code (IEC) certificate",
+    "Bank realization certificate",
+    "Packing list",
+    "Invoice"
+  ],
+  "deadlines": "Applications are typically submitted within the financial year of export; specific timelines are notified by DGFT from time to time.",
+  "implementing_agency": "Directorate General of Foreign Trade (DGFT), Ministry of Commerce and Industry, Government of India",
+  "contact_details": "1800-572-1550 / 1800-111-550, dgftedi[at]nic[dot]in",
+  "caveats": [
+    "Benefits are available only for notified products as per the Foreign Trade Policy",
+    "The scheme is subject to periodic review and revision by DGFT",
+    "MEIS has been discontinued for exports made on or after 1 January 2021, with RoSCTL replacing it for textiles and garments",
+    "Incentive rates vary by product and are notified periodically"
+  ],
+  "source_cited_notes": [
+    "https://dgft.gov.in",
+    "https://content.dgft.gov.in/Website/dgftprod/f79c64e4-4aa0-461d-82a2-833d33444641/Trade Notice No.09 2026- Amendment to TRACE Guidelines.pdf",
+    "https://content.dgft.gov.in/Website/dgftprod/8c0d25b8-b12d-4b0d-b0ca-c77424a0892f/Trade Notice No.08 2026 dated 01.07.2026- Amendment to MAS Guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:30:37.235357+00:00"
+}

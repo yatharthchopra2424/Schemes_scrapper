@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-392",
+  "scheme_name": "PM SVANidhi Plus (Micro Credit for Street Vendors)",
+  "scheme_url": "https://pmsvanidhi.mohua.gov.in",
+  "ministry_or_category": "Urban Development",
+  "overview": "PM SVANidhi Plus (Micro Credit for Street Vendors) is a special micro-credit facility launched by the Ministry of Housing and Urban Affairs to provide collateral-free working capital loans to street vendors. The scheme aims to support urban street vendors affected by economic hardships, enabling them to resume livelihood activities through accessible credit. It offers loans in tranches with increasing amounts upon successful repayment, along with digital transaction incentives and credit card facilities for eligible beneficiaries.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "street vendors"
+  ],
+  "geographic_scope": "Pan-India (limited to notified States/UTs under Street Vendors Act, 2014)",
+  "objectives": [
+    "Provide affordable working capital loans to street vendors",
+    "Support livelihood restoration post-economic disruption",
+    "Encourage digital transactions through cashback incentives",
+    "Facilitate credit access for vendors from Census Towns",
+    "Enable vendor mobility via ULB transfer facility",
+    "Promote financial inclusion through linked Aadhaar and mobile verification",
+    "Strengthen urban local bodies' role in vendor identification and support"
+  ],
+  "eligibility": "The scheme is available for beneficiaries belonging to only those States/UTs which have notified rules and scheme under Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014. Vendors are categorized into four groups based on survey coverage and documentation: (A) Vendors with Certificate of Vending or ID card from ULB/Town Vending Committee; (B) Vendors covered in ULB survey but without CoV/ID card; (C) Vendors left out of ULB-led survey or who started vending after survey completion, with subcategories based on Letter of Recommendation (LoR) or Covid assistance/association membership; (D) Peri-urban/rural area vendors vending in ULB geographical limits, similarly subdivided based on LoR or declaration of Covid assistance/association membership.",
+  "benefits": "Collateral-free working capital loans in three tranches (₹10,000, ₹20,000, ₹50,000); PM SVANidhi Credit Card facility for second tranche repaid vendors; digital transaction cashback incentives; vendor mobility (ULB transfer) facility to update vending location; access to Udyam Assist for MSME registration; eligibility for PRAISE Awards (national and state level); ability to apply through Common Service Centres (CSCs); doorstep credit delivery via lending partners.",
+  "financial_support": "The scheme provides micro-credit in three progressive tranches: first loan of up to ₹10,000, second loan of up to ₹20,000 upon timely repayment of first, and third loan of up to ₹50,000 upon repayment of second. Loans are disbursed through participating banks (including SBI, Bank of Baroda, Union Bank of India, PNB, Indian Bank) and administered via Urban Local Bodies. Total disbursed amount as per portal data is ₹1,39,25,036 (in thousands, i.e., ₹1,392.50 crores approximately). Interest subsidy of 7% per annum is credited to beneficiaries' accounts on a quarterly basis through Direct Benefit Transfer (DBT).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Check Eligibility: Understand the loan application requirements and determine your vendor category (A, B, C1, C2, D1, D2) based on survey status and documentation. 2. Apply Online: Ensure your mobile number is linked to your Aadhaar for e-KYC validation. 3. Get Digital Approval: Check your eligibility status as per scheme rules after submitting the application with required documents. Applicants can apply directly on the portal or through a Common Service Centre (CSC).",
+  "application_portal_url": "https://pmsvanidhi.mohua.gov.in",
+  "required_documents": [
+    "Certificate of Vending (CoV) or Identity Card (ID Card) issued by ULB or Town Vending Committee",
+    "Survey Reference Number (SRN) from ULB-led survey",
+    "Letter of Recommendation (LoR) from ULB/Town Vending Committee (if applicable)",
+    "Declaration of One Time assistance during Covid lockdown (if applicable)",
+    "Proof of membership in vending/Hawkers association (if applicable)",
+    "Aadhaar-linked mobile number for e-KYC"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs",
+  "contact_details": "",
+  "caveats": [
+    "Loan availability is restricted to States/UTs that have notified the Street Vendors (Protection of Livelihood and Regulation of Street Vending) Act, 2014",
+    "Second and third tranche loans are contingent upon timely repayment of previous tranches",
+    "PM SVANidhi Credit Card facility is available only to vendors who have repaid the second tranche",
+    "Beneficiaries must maintain Aadhaar-linked mobile number for authentication and future benefits"
+  ],
+  "source_cited_notes": [
+    "https://pmsvanidhi.mohua.gov.in",
+    "https://pmsvanidhi.mohua.gov.in/Home/PreApplication",
+    "https://pmsvanidhi.mohua.gov.in/Home/States"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:11:08.347898+00:00"
+}

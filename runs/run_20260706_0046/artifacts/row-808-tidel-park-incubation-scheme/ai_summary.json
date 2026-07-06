@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-808",
+  "scheme_name": "TIDEL Park Incubation Scheme",
+  "scheme_url": "https://tidel.org",
+  "ministry_or_category": "State Level (Tamil Nadu)",
+  "overview": "The TIDEL Park Incubation Scheme is a state-level initiative in Tamil Nadu aimed at supporting early-stage startups by providing incubation facilities, mentorship, and access to infrastructure. It focuses on nurturing innovation and entrepreneurship within the state by offering subsidized workspace and business support services. The scheme is managed by TIDEL Park, a joint venture between the Government of Tamil Nadu and private entities, to promote technology-driven ventures in the evidence.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Tamil Nadu only",
+  "objectives": [
+    "To provide incubation support to early-stage startups",
+    "To offer access to infrastructure and mentorship",
+    "To promote innovation and entrepreneurship in Tamil Nadu",
+    "To facilitate growth of technology-based ventures"
+  ],
+  "eligibility": "Startups incorporated in Tamil Nadu with innovative ideas or technology-based business models are eligible to apply for the incubation scheme.",
+  "benefits": "Selected startups receive access to subsidized office space, high-speed internet, meeting rooms, mentorship from industry experts, networking opportunities, and support in business planning and fundraising.",
+  "financial_support": "The scheme provides financial support in the form of subsidized rental rates for incubation space, though specific quantum or grant amounts are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the TIDEL Park official website to learn about the incubation program. 2. Check eligibility criteria and prepare required documents. 3. Submit an online application through the portal. 4. Await review by the incubation committee. 5. If shortlisted, attend an interview or pitch session. 6. Receive final selection notification and complete onboarding formalities.",
+  "application_portal_url": "https://tidel.org",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "Business plan or pitch deck",
+    "PAN card of the company",
+    "Aadhaar/PAN of founders",
+    "Proof of address of the startup",
+    "Details of any existing funding or partnerships"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "TIDEL Park (a joint venture of Government of Tamil Nadu and private partners)",
+  "contact_details": "",
+  "caveats": [
+    "Incubation support is subject to periodic review and may be withdrawn if performance benchmarks are not met",
+    "Availability of physical space is limited and allocation is on a first-come, first-served basis post-selection",
+    "The scheme does not provide equity funding or direct grants"
+  ],
+  "source_cited_notes": [
+    "https://tidel.org"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:02:49.530476+00:00"
+}

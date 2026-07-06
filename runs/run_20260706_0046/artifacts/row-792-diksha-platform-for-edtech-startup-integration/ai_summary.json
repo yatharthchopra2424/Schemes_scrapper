@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-792",
+  "scheme_name": "DIKSHA Platform for EdTech Startup Integration",
+  "scheme_url": "https://diksha.gov.in",
+  "ministry_or_category": "EduTech Startups",
+  "overview": "DIKSHA (Digital Infrastructure for Knowledge Sharing) is a national platform for school education, an initiative of the National Council of Educational Research and Training (NCERT) under the Ministry of Education, Government of India. Launched in 2017, it serves as a digital learning ecosystem providing energized textbooks, teacher professional development, content authoring, quizzes, virtual labs, and multilingual resources aligned with the National Education Policy 2020. The platform supports students, teachers, parents, and administrators across India with content in 135 languages and enables access to education through diverse modes including online, offline, and broadcast media.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "teachers",
+    "parents",
+    "administrators",
+    "learners"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Create a revolutionary learning ecosystem that empowers students to thrive in the 21st century",
+    "Provide accessible, engaging, and tailored education to individual learner needs",
+    "Transform education delivery by leveraging technology and innovation",
+    "Equip students with skills for academic success and personal growth",
+    "Support equitable and inclusive education for all, including Children With Special Needs (CWSN)",
+    "Promote proficiency in reading, understanding, and numeracy through NIPUN Bharat",
+    "Teach basic sentences in 22 Indian languages through Bhasha Sangam",
+    "Provide foundational stage content via e-Jaadui Pitara with toys, games, and puzzles",
+    "Enhance laboratory experiences through Virtual Lab access",
+    "Integrate vocational training with general education"
+  ],
+  "eligibility": "DIKSHA is accessible to learners and teachers across the country; no specific eligibility criteria are mentioned for general usage. Content contribution is open to individuals, teachers, educationists, subject experts, schools, government and non-government organisations after registering and nominating themselves under the VidyaDaan program.",
+  "benefits": "Access to energized textbooks with QR codes, teacher professional development, question banks, content sourcing and authoring tools, quizzes, data tools and dashboards, chatbot, digital credentials, collaboration features, phygital learning, cQube analytics, surveys, language translations, mentoring, Sunbird Registry and Credentials, virtual labs, and multilingual resources in 135 languages. The platform supports offline access via printed energized textbooks (600 Million+ distributed) and online access through web and mobile applications.",
+  "financial_support": "No direct financial support is provided to end-users under the DIKSHA platform. The platform itself is funded through government budget allocations as part of the Ministry of Education's initiatives, with implementation supported via a Public-Private Partnership (PPP) model involving EkStep Foundation as a technology and program management partner.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Access DIKSHA via website (diksha.gov.in) or mobile app. 2. Select preferred language, board, grade, and subject. 3. Browse or search for textbooks, videos, interactive content, or courses. 4. For content contribution, register under VidyaDaan by nominating oneself as an individual, teacher, school, or organisation. 5. Upload e-learning resources such as explanation videos, teaching videos, practice questions, lesson plans, etc., ensuring open licensing under Creative Commons. 6. Contributions are reviewed by state/UT or CBSE authorities; accepted content is curated and made available on the platform.",
+  "application_portal_url": "https://diksha.gov.in/contribute/",
+  "required_documents": [],
+  "deadlines": "Rolling basis — content contributions and platform usage are accepted year-round with no fixed deadlines.",
+  "implementing_agency": "National Council of Educational Research and Training (NCERT), Ministry of Education, Government of India",
+  "contact_details": "Email: ncert.diksha@ciet.nic.in",
+  "caveats": [
+    "Content contributions must be open-licensed under the Creative Commons license framework",
+    "Accepted content is subject to curation by respective states/UTs or CBSE",
+    "Platform usage requires internet access for online features; offline access limited to downloaded or printed energized textbooks",
+    "Virtual labs and certain advanced features may require compatible devices and bandwidth"
+  ],
+  "source_cited_notes": [
+    "https://diksha.gov.in/about/",
+    "https://diksha.gov.in/contribute/",
+    "https://diksha.gov.in/data/",
+    "https://diksha.gov.in/virtuallabs.html",
+    "https://obj.diksha.gov.in/ntp-content-production/homepage/prod/pdfdata/Secretary_DoSEL_Presentation_World_Bank_Webinar.pdf"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:57:48.077060+00:00"
+}

@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-627",
+  "scheme_name": "National Adaptation Fund for Climate Change (NAFCC)",
+  "scheme_url": "https://moef.gov.in/nafcc",
+  "ministry_or_category": "Climate & Environment",
+  "overview": "The National Adaptation Fund for Climate Change (NAFCC) is a central sector scheme established to support concrete adaptation activities that mitigate the adverse effects of climate change. It provides financial assistance to state governments and union territories for implementing climate change adaptation projects in sectors such as agriculture, water, forestry, and disaster management. The fund aims to enhance resilience and reduce vulnerability to climate change impacts across India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "union territories"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support concrete adaptation activities to reduce the adverse effects of climate change",
+    "Enhance resilience and reduce vulnerability in climate-sensitive sectors",
+    "Fund projects in agriculture, water, forestry, and disaster management",
+    "Promote sustainable development through climate adaptation measures",
+    "Strengthen institutional and technical capacity for climate change adaptation"
+  ],
+  "eligibility": "State governments and union territories are eligible to apply for financial assistance under NAFCC for implementing climate change adaptation projects. Projects must be aligned with the State Action Plan on Climate Change (SAPCC) and focus on sectors vulnerable to climate change impacts.",
+  "benefits": "Financial support for project implementation, technical guidance, monitoring and evaluation, and capacity building for climate change adaptation initiatives.",
+  "financial_support": "The scheme provides grant-based financial support to state governments and union territories for implementing agencies adaptation activities under NAFCC is ₹364 crore for the period 2015-16 to 2019-20, with funds released in installments based on project progress and utilization certificates.",
+  "fund_size_crores": "364",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State governments/UTs prepare project proposals aligned with SAPCC 2. Submit proposals to MoEF&CC for appraisal 3. Obtain approval from the Steering Committee on Climate Change 4. Sign Memorandum of Understanding (MoU) with MoEF&CC 5. Implement project activities 6. Submit periodic progress reports and utilization certificates 7. Receive subsequent installments based on satisfactory progress",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal document",
+    "State Action Plan on Climate Change (SAPCC) alignment",
+    "Detailed Project Report (DPR)",
+    "Utilization certificates",
+    "Progress reports",
+    "Memorandum of Understanding (MoU)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and appraisal cycles.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEF&CC)",
+  "contact_details": "",
+  "caveats": [
+    "Funds are released only after submission of utilization certificates and progress reports",
+    "Projects must be completed within the stipulated timeline",
+    "Continuation of funding is subject to satisfactory performance and fund availability"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in/list-of-approvals-projects-under-nafcc-concept-note-and-project-documents-details-dpr"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:21:15.239734+00:00"
+}

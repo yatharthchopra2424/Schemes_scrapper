@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-130",
+  "scheme_name": "RBI Regulatory Sandbox for Fintech",
+  "scheme_url": "https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3854",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "The RBI Regulatory Sandbox for Fintech is a framework that allows fintech innovators to test their products and services in a controlled environment with regulatory relaxations. It aims to foster innovation in the financial sector while ensuring consumer protection and systemic stability. The sandbox enables live testing of innovative financial technologies under RBI supervision.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "fintech startups",
+    "financial technology companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To foster responsible innovation in fintech",
+    "To enable live testing of innovative financial products and services",
+    "To assess the benefits and risks of new technologies",
+    "To determine if regulatory changes are needed to support innovation",
+    "To provide a sandbox participants access to regulatory guidance and support"
+  ],
+  "eligibility": "Entities must be incorporated in India and have a net worth of at least INR 25 lakh as per the last audited balance sheet. They must demonstrate a genuine need for testing in the sandbox and have a clear exit strategy. The product or service must be innovative and not already widely available in the market.",
+  "benefits": "Regulatory relaxations specific to the tested product/service, access to RBI guidance during the testing period, permission to test with real customers in a controlled environment, and potential pathway to broader regulatory approval upon successful completion.",
+  "financial_support": "The RBI Regulatory Sandbox does not provide direct financial support, grants, or funding to participants. Support is limited to regulatory facilitation and guidance during the testing phase.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an application through the RBI's designated portal with details of the innovative product/service. 2. RBI evaluates the application for eligibility and innovativeness. 3. If approved, enter into a sandbox agreement outlining the scope, duration, and regulatory relaxations. 4. Conduct live testing under RBI supervision. 5. Submit a final report on outcomes and learnings. 6. RBI assesses results and provides feedback on next steps.",
+  "application_portal_url": "https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3854",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Latest audited balance sheet",
+    "Detailed description of the innovative product or service",
+    "Business plan and financial projections",
+    "Details of the technology to be used",
+    "Customer protection and data security measures",
+    "Exit strategy and scalability plan"
+  ],
+  "deadlines": "Applications are accepted on a rolling basis; there are no fixed deadlines.",
+  "implementing_agency": "Reserve Bank of India",
+  "contact_details": "Email: helpdoc@rbi.org.in | Phone: 022 - 2266 0502",
+  "caveats": [
+    "Participation does not guarantee regulatory approval for full-scale launch",
+    "The sandbox is not a source of funding or investment",
+    "Regulatory relaxations are limited to the specific product/service under test",
+    "Participants must comply with all other applicable laws and regulations",
+    "RBI may terminate participation if risks to consumers or systemic stability are identified"
+  ],
+  "source_cited_notes": [
+    "https://www.rbi.org.in/Scripts/bs_viewcontent.aspx?Id=3854"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:31:25.122775+00:00"
+}

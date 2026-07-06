@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-514",
+  "scheme_name": "Mahatma Gandhi NREGA (MGNREGS) Convergence",
+  "scheme_url": "https://nrega.nic.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "Mahatma Gandhi NREGA (MGNREGS) Convergence is a flagship rural employment guarantee scheme under the Mahatma Gandhi National Rural Employment Guarantee Act, 2005, which provides a legal entitlement to at least 100 days of wage employment per financial year to every rural household whose adult members volunteer to do unskilled manual work. The scheme aims to enhance livelihood security, create durable assets, strengthen natural resource management, and promote social inclusion through convergence with other government programs. It operates across rural India and integrates wage employment with infrastructure development, water conservation, and skill-building initiatives.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "rural households",
+    "unskilled manual workers",
+    "women",
+    "SC/ST",
+    "BPL families"
+  ],
+  "geographic_scope": "Pan-India (rural areas only)",
+  "objectives": [
+    "Provide at least 100 days of guaranteed wage employment per year to every rural household",
+    "Strengthen livelihood security through creation of durable assets",
+    "Promote social inclusion by prioritizing SC/ST, women, and marginalized groups",
+    "Enhance natural resource management through water conservation and afforestation works",
+    "Strengthen decentralized planning via Gram Panchayats",
+    "Ensure transparency and accountability through social audits and MIS",
+    "Facilitate convergence with other rural development schemes",
+    "Support skill development and capacity building of workers"
+  ],
+  "eligibility": "Every household residing in any rural area is entitled to a Job Card which contains the names and photographs of all adult members of the household so that they can demand and receive work. The adult member of every household residing in any rural area and willing to do unskilled manual work may submit their names, age and the address of the household to the Gram Panchayat at the village level in whose jurisdiction they reside for registration of their household for issuance of a job card.",
+  "benefits": "Legal entitlement to wage employment within 15 days of demand, unemployment allowance if work not provided within 15 days, right to worksite facilities (drinking water, shade, first-aid), right to notified wage rate, right to receive wages within 15 days, right to conduct social audit, access to skill development and training programs, and creation of durable assets like water conservation structures, rural connectivity, and land development.",
+  "financial_support": "Wages are paid directly into beneficiaries' bank/post office accounts through Direct Benefit Transfer (DBT) and Aadhaar Based Payment System (ABPS). The central government bears 100% of the cost of unskilled labor, 75% of material costs, and administrative expenses, while states bear 25% of material costs. Funds are released in tranches based on approved labor budgets and muster rolls.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply for a Job Card at the Gram Panchayat office with household details. 2. Gram Panchayat verifies and issues Job Card within 15 days. 3. Submit application for work (written or oral) to Gram Panchayat/Programme Officer. 4. Work is allocated within 15 days of application. 5. Attend work site and mark attendance via muster roll. 6. Wages are paid within 15 days of work completion via DBT/ABPS.",
+  "application_portal_url": "https://nrega.nic.in/",
+  "required_documents": [
+    "Proof of residence (No specific documents listed for application beyond self-declaration for Job Card)",
+    "For Job Card: Household details, names, ages, addresses of adult members",
+    "For work demand: No documents required — can be oral or written application"
+  ],
+  "deadlines": "Rolling basis — applications for work can be made throughout the year as per demand.",
+  "implementing_agency": "Department of Rural Development, Ministry of Rural Development, Government of India",
+  "contact_details": "Email: nicdrd@nic.in | Telephone No.: 011-23384338 | Website: https://nrega.nic.in/",
+  "caveats": [
+    "Work must be unskilled manual work as defined in Schedule I of the Act",
+    "Only rural households are eligible — urban areas with 100% urban population are excluded",
+    "Wage payment delay beyond 15 days attracts compensation at 0.05% per day of delayed wages",
+    "Non-compliance with Act provisions is an offence under Section 25 of the Act",
+    "Job Card must remain in possession of the household; misuse is punishable"
+  ],
+  "source_cited_notes": [
+    "https://nrega.nic.in/",
+    "https://nregaplus.nic.in/netnrega/WriteReaddata/Circulars/AMC_2024-25-English.pdf",
+    "https://nregaplus.nic.in/Netnrega/Data/SoP_TimelypaymentMGNREGA.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:07:52.735780+00:00"
+}

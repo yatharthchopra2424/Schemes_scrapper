@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-471",
+  "scheme_name": "IFSCA FinTech Incentive Scheme (GIFT City)",
+  "scheme_url": "https://ifsca.gov.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "The IFSCA FinTech Incentive Scheme (GIFT City) is designed to promote and support FinTech innovation within the International Financial Services Centre at GIFT City, Gandhinagar, Gujarat. It aims to create a conducive ecosystem for FinTech startups and entities by providing regulatory support, access to infrastructure, and facilitation for setting up operations in the IFSC. The scheme encourages the development and testing of innovative financial products and services under a regulated environment, leveraging GIFT IFSC's status as India's maiden international financial services centre.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "FinTech entities"
+  ],
+  "geographic_scope": "GIFT City, Gandhinagar, Gujarat",
+  "objectives": [
+    "Promote innovation in financial technology within the IFSC",
+    "Facilitate the setup and scaling of FinTech startups in GIFT IFSC",
+    "Provide regulatory sandbox facilities for testing innovative financial products",
+    "Enhance access to global markets and investors for FinTech entities",
+    "Support development of a robust FinTech ecosystem through infrastructure and policy support"
+  ],
+  "eligibility": "Entities interested in setting up FinTech operations in GIFT IFSC must engage with the IFSCA Development team for guidance on opportunities and the application process. All entities except Market Infrastructure Institutions, Foreign Universities, and Payment Service Providers are required to fill the Common Application Form (CAF) along with vertical-specific annexures. The application is submitted via the SWIT Portal (https://swit.ifsca.gov.in/).",
+  "benefits": "Benefits include access to a unified regulatory framework, ease of doing business in a regulated IFSC environment, opportunity to operate in India's first international financial services centre, facilitation through the IFSCA Development team for information and presentations, access to networking and collaboration opportunities within the GIFT IFSC ecosystem, and support for regulatory compliance and approvals.",
+  "financial_support": "The scheme does not provide direct financial grants or subsidies. Support is primarily non-financial, focusing on regulatory facilitation, access to infrastructure, and ecosystem enablement. Any financial aspects related to setup or operations (such as fees for application, registration, or ongoing compliance) are to be borne by the applicant entity as per IFSCA's fee structure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Engage with the IFSCA Development team at development[at]ifsca[dot]gov[dot]in to seek information on opportunities and the process for setting up business in GIFT IFSC. 2. Request a presentation on your business plan if needed. 3. Once decided to apply, connect with the concerned regulatory team as per the relevant vertical (e.g., FinTech Sandbox) for queries on the regulatory framework or application process. 4. Fill the Common Application Form (CAF) and download vertical-specific annexures (for FinTech Sandbox: Preliminary Sandbox Application Form and Fintech Sandbox Application form). 5. Submit the final application via the SWIT Portal at https://swit.ifsca.gov.in/. 6. Await outreach from the regulatory team for any further queries within 7 working days of submission. 7. IFSCA will strive to take a final decision on all applications within 45 days.",
+  "application_portal_url": "https://swit.ifsca.gov.in/",
+  "required_documents": [
+    "Common Application Form (CAF)",
+    "Vertical-specific annexures (for FinTech Sandbox: Preliminary Sandbox Application Form and Fintech Sandbox Application form)",
+    "Supporting documents as specified by IFSCA (e.g., business plan, incorporation documents, KYC details)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "International Financial Services Centres Authority (IFSCA)",
+  "contact_details": "Email: development[at]ifsca[dot]gov[dot]in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "All entities except Market Infrastructure Institutions, Foreign Universities, and Payment Service Providers must use the Common Application Form",
+    "Final decision on applications is aimed within 45 days but may vary",
+    "Applicants must refer to relevant regulations, guidelines, and circulars before and during the application process",
+    "No direct financial support is provided under this scheme"
+  ],
+  "source_cited_notes": [
+    "https://ifsca.gov.in/Pages/Contents/HowToApply"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:48:59.213161+00:00"
+}

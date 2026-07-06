@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-402",
+  "scheme_name": "National Electricity Fund (NEF)",
+  "scheme_url": "https://powermin.gov.in",
+  "ministry_or_category": "Power & Electricity",
+  "overview": "The National Electricity Fund (NEF) is an interest subsidy scheme approved by the Government of India to promote capital investment in the distribution sector by providing interest subsidy linked with reform measures on loans taken by public and private power utilities for various capital works under distribution projects. The scheme aims to improve the quality, reliability, and affordability of power supply through a financially sustainable and operationally efficient distribution sector. It supports pre-paid smart metering, system metering, and distribution infrastructure works for loss reduction and modernization.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "public power utilities",
+    "private power utilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote capital investment in the distribution sector",
+    "Provide interest subsidy linked with reform measures on loans taken by power utilities",
+    "Improve the quality, reliability, and affordability of power supply to consumers",
+    "Achieve financially sustainable and operationally efficient distribution sector",
+    "Reduce AT&C losses to pan-India levels of 12-15%",
+    "Reduce ACS-ARR gap to zero by 2024-25",
+    "Support pre-paid smart metering, system metering, and distribution infrastructure works",
+    "Enable DISCOMs to access funds for loss reduction and modernization"
+  ],
+  "eligibility": "Public and private power utilities taking loans for various capital works under distribution projects are eligible for the National Electricity Fund (Interest Subsidy) Scheme, subject to meeting pre-qualifying criteria and achievement of basic minimum benchmarks by the DISCOM, evaluated on the basis of action plans.",
+  "benefits": "The scheme provides interest subsidy on loans for distribution projects, supports pre-paid smart metering, system metering, and distribution infrastructure works for loss reduction and modernization, enables access to funds for improving operational efficiencies and financial sustainability of DISCOMs, and includes annual appraisal of DISCOM performance against predefined performance trajectories including AT&C losses, ACS-ARR gaps, infrastructure upgrade performance, consumer services, hours of supply, and corporate governance.",
+  "financial_support": "The National Electricity Fund (NEF) provides interest subsidy on loans taken by public and private power utilities for various capital works under distribution projects. The financial assistance for distribution infrastructure works under the scheme is subject to meeting pre-qualifying criteria and achievement of basic minimum benchmarks by the DISCOM, evaluated on the basis of action plans. DISCOMs must score a minimum of 60% of marks and clear a minimum bar in respect to certain parameters to be eligible for funding against the scheme in that year.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Government of India, Ministry of Power",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance for distribution infrastructure works under the scheme is subject to meeting pre-qualifying criteria",
+    "Achievement of basic minimum benchmarks by the DISCOM is required, evaluated on the basis of action plans",
+    "DISCOMs must score a minimum of 60% of marks and clear a minimum bar in respect to certain parameters to be eligible for funding against the scheme in that year"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/offerings"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:16:45.352222+00:00"
+}

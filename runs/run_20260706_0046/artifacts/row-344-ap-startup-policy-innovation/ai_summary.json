@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-344",
+  "scheme_name": "AP Startup Policy & Innovation",
+  "scheme_url": "https://apinnovation.ap.gov.in",
+  "ministry_or_category": "State Level (Andhra Pradesh)",
+  "overview": "The AP Startup Policy & Innovation is a state-level initiative by the Government of Andhra Pradesh aimed at fostering a vibrant startup ecosystem through financial support, infrastructure, mentorship, and regulatory facilitation. It focuses on promoting innovation, entrepreneurship, and job creation across key sectors such as IT, biotechnology, agriculture, and manufacturing. The policy provides a comprehensive framework for startups at various stages, from ideation to scaling, with dedicated funds and incubation support.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage ventures",
+    "women entrepreneurs",
+    "SC/ST entrepreneurs",
+    "differently abled entrepreneurs",
+    "agri-startups",
+    "tech startups"
+  ],
+  "geographic_scope": "Andhra Pradesh only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across the state",
+    "Provide financial assistance to startups at various stages of growth",
+    "Establish and strengthen incubation centers and innovation hubs",
+    "Facilitate access to mentorship, networking, and market linkages",
+    "Encourage sector-specific startups in thrust areas like IT, biotech, agri-tech, and manufacturing",
+    "Support inclusive entrepreneurship by focusing on women, SC/ST, and differently abled individuals",
+    "Create a conducive policy and regulatory environment for startups",
+    "Generate employment and drive economic growth through startup-led innovation"
+  ],
+  "eligibility": "The applicant must be a startup registered in Andhra Pradesh as a Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm. The startup should be incorporated not more than 7 years ago from the date of application. It must be working towards innovation, development, deployment, or commercialization of new products, processes, or services driven by technology or intellectual property. The turnover of the entity should not exceed INR 25 Crores in any of the previous financial years. At least 51% of the shareholding should be held by Indian promoters or residents. Startups must be recommended by a recognized incubator or approved by the State Level Committee.",
+  "benefits": "Financial support in the form of grants, seed funding, and reimbursement of costs; access to state-of-the-art incubation infrastructure with subsidized rentals; mentorship and guidance from industry experts and successful entrepreneurs; facilitation of intellectual property rights (IPR) filing with fee reimbursement; assistance in obtaining certifications and regulatory approvals; networking opportunities with investors, corporates, and academia; participation in national and international startup events; fast-track clearance for land, power, and other statutory approvals; and support for market access and pilot projects.",
+  "financial_support": "The policy provides financial assistance through multiple channels: a seed grant of up to INR 10 Lakhs for early-stage startups for prototype development and market validation; reimbursement of up to 50% of costs incurred on patent filing, subject to a maximum of INR 2 Lakhs per Indian patent and INR 5 Lakhs per international patent; 100% reimbursement of fees paid for ISO, CE, HACCP, and other international certifications, up to INR 1 Lakh; and a monthly operational support of INR 10,000 per seat for startups housed in approved incubation centers for a maximum period of 12 months. Additionally, a venture fund of INR 200 Crores has been created to provide follow-on funding through equity or debt instruments.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs as seed grant; up to INR 2 Lakhs for Indian patent and INR 5 Lakhs for international patent reimbursement; up to INR 1 Lakh for certification reimbursement; INR 10,000 per seat per month for incubation support (max 12 months)",
+  "application_process": "1. Register the startup on the official AP Innovation Portal (https://apinnovation.ap.gov.in). 2. Log in and fill out the online application form for the AP Startup Policy & Innovation benefits. 3. Upload the required documents including Certificate of Incorporation, PAN, GST details, pitch deck, and details of innovation. 4. Obtain a recommendation letter from a recognized incubation center in Andhra Pradesh. 5. Submit the completed application online. 6. The application is scrutinized by the State Level Committee. 7. Upon approval, the startup receives an approval letter and can proceed to claim benefits. 8. For financial claims, submit bills and vouchers along with utilization reports to the implementing agency for reimbursement or disbursement.",
+  "application_portal_url": "https://apinnovation.ap.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN Card of the startup",
+    "GST Registration Certificate (if applicable)",
+    "Audited financial statements or CA-certified statement of accounts",
+    "Pitch deck or detailed project report",
+    "Details of innovation, technology, or IP involved",
+    "Recommendation letter from a recognized incubation center in Andhra Pradesh",
+    "Authorization letter from the authorized signatory",
+    "Bank account details of the startup",
+    "Proof of registered office in Andhra Pradesh (e.g., electricity bill, rent agreement)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Andhra Pradesh Innovation Society (APIS), under the Information Technology, Electronics & Communications Department, Government of Andhra Pradesh",
+  "contact_details": "Email: support@apinnovation.ap.gov.in | Phone: 0866-2466666",
+  "caveats": [
+    "Financial benefits are subject to the availability of funds under the state budget",
+    "Startups must retain at least 51% Indian promoter shareholding to remain eligible",
+    "Benefits such as seed grant and incubation support are one-time and non-recurring",
+    "Patent and certification reimbursements are contingent upon successful grant or certification",
+    "The startup must continue to operate in Andhra Pradesh for a minimum of 3 years after availing benefits",
+    "Any misrepresentation or submission of false documents will lead to rejection and blacklisting"
+  ],
+  "source_cited_notes": [
+    "https://apinnovation.ap.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:34:43.133399+00:00"
+}

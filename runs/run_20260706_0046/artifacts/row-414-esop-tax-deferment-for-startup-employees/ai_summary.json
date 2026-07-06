@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-414",
+  "scheme_name": "ESOP Tax Deferment for Startup Employees",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "The ESOP Tax Deferment for Startup Employees scheme allows eligible startups to defer tax on Employee Stock Option Plans (ESOPs) and sweat equity shares, enabling employees to pay tax only upon sale of shares or exit from the company, thereby reducing early financial burden and promoting employee retention and wealth creation in startups.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startup employees"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Defer tax on ESOPs and sweat equity shares for startup employees",
+    "Reduce early-stage financial burden on employees receiving equity compensation",
+    "Promote employee retention and long-term engagement in startups",
+    "Align tax treatment with actual realization of gains from equity holdings",
+    "Support wealth creation for employees in high-growth startups"
+  ],
+  "eligibility": "The employer must be a DPIIT-recognised startup under Section 140 of the Income Tax Act, 2025, incorporated on or after 1st April 2016 and before 1st April 2030, with turnover not exceeding ₹300 crore in the relevant tax year, and engaged in innovation, development, or improvement of products, processes, or services, or having a scalable business model with high potential for employment generation or wealth creation. The employee must receive ESOPs or sweat equity shares from such an eligible startup.",
+  "benefits": "Tax deferment on ESOPs and sweat equity shares until the earlier of: expiry of 60 months from the end of the relevant tax year, sale of shares by the employee, or exit from the company. Employees are not required to pay tax at the time of exercising the option or receiving sweat equity shares, thereby improving cash flow and aligning tax liability with actual financial benefit realization.",
+  "financial_support": "The scheme provides tax deferment, not direct financial support. The benefit lies in postponing tax liability on the perquisite value of ESOPs or sweat equity shares until a liquidity event (sale or exit), allowing employees to use the full value of their equity compensation without immediate tax outgo.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain DPIIT recognition for the startup via the Startup India portal or National Single Window System (NSWS). 2. Obtain certification from the Inter-Ministerial Board (IMB) for eligibility under Section 140 of the Income Tax Act, 2025. 3. Issue ESOPs or sweat equity shares to employees in compliance with company law and scheme guidelines. 4. Employees must declare the deferment claim in their income tax return at the time of filing, specifying the nature of the benefit and the deferment period. 5. Tax is assessed and payable only upon the occurrence of the trigger event: sale of shares, exit from the company, or expiry of the 60-month deferment period.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "DPIIT recognition certificate",
+    "IMB certification for tax exemption under Section 140",
+    "ESOP grant letter or sweat equity agreement",
+    "Proof of exercise of options or allotment of sweat equity shares",
+    "Employee's PAN and tax details",
+    "Company's incorporation documents and financial statements"
+  ],
+  "deadlines": "Rolling basis — applications can be made at any time during the startup's eligibility period.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: sis-dipp@gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Tax deferment is available only for ESOPs and sweat equity shares issued by DPIIT-recognised startups",
+    "The deferment period expires on the earliest of: 60 months from the end of the relevant tax year, sale of shares, or exit from the company",
+    "If the employee exits the company, tax becomes due on the perquisite value of unexercised ESOPs or untransferred sweat equity shares",
+    "The scheme does not exempt tax permanently — it only defers the tax liability",
+    "Startups must obtain separate IMB approval for tax benefits under Section 140"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/dam/invest-india/HomePage/Startup-Playbook-Exclusive-Benefits-for-DPIIT-Recognised-Startups-in-India-April-2026.pdf",
+    "http://startupindia.gov.in/content/dam/startupindia/Tax-Playbook-for-Startup-Ecosystem-May-2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:23:04.218500+00:00"
+}

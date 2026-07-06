@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-367",
+  "scheme_name": "PM Gram Sadak Yojana (PMGSY) Phase III",
+  "scheme_url": "https://pmgsy.nic.in",
+  "ministry_or_category": "Road Transport",
+  "overview": "PM Gram Sadak Yojana (PMGSY) Phase III is a centrally sponsored scheme aimed at consolidating 1,25,000 km of rural roads through upgradation of existing routes to connect habitations to Gramin Agricultural Markets (GrAMs), Higher Secondary Schools, and Hospitals. The scheme focuses on improving rural connectivity and access to socio-economic services by upgrading existing rural roads to all-weather standards. It is implemented in a mission mode to ensure timely completion and quality execution.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural habitations",
+    "farmers",
+    "rural communities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Consolidate 1,25,000 km of rural roads through upgradation",
+    "Connect habitations to Gramin Agricultural Markets (GrAMs)",
+    "Link rural areas to Higher Secondary Schools",
+    "Ensure connectivity to Hospitals and health centres",
+    "Improve all-weather road connectivity in rural areas",
+    "Enhance access to socio-economic services for rural populations",
+    "Promote inclusive growth through better rural infrastructure",
+    "Reduce poverty and isolation in remote villages"
+  ],
+  "eligibility": "The scheme covers rural roads that are part of the Core Network and are required to be upgraded to provide connectivity to habitations with a population of 250+ (in general areas) and 100+ (in tribal, desert, hilly areas, and selected tribal and backward districts) as per Census 2011. Roads must be existing and part of the PMGSY Core Network to qualify for upgradation under Phase III.",
+  "benefits": "Upgradation of rural roads to all-weather standards with proper drainage and safety features; improved access to markets, education, and healthcare; reduced travel time and vehicle operating costs; enhanced agricultural productivity and market access for farmers; increased rural employment opportunities; better connectivity for emergency services; and overall socio-economic development of rural areas.",
+  "financial_support": "The scheme is funded through a 60:40 ratio between the Central Government and State Governments (90:10 for Northeastern and Himalayan states). The Central Share is provided as a subsidy to the States for execution of works. Funds are released in instalments based on physical progress verified through the Online Management, Monitoring and Accounting System (OMMAS).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "States identify eligible roads from the Core Network and prepare Detailed Project Reports (DPRs). DPRs are submitted to the respective State Level Standing Committee for approval. Approved DPRs are then forwarded to the Ministry of Rural Development for sanction. Upon sanction, funds are released to the States in instalments. States then tender and execute the works through contracted agencies. Progress is monitored via OMMAS and field inspections.",
+  "application_portal_url": "https://omms.nic.in/",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land availability certificate",
+    "Environmental clearance (if applicable)",
+    "Forest clearance (if applicable)",
+    "Clearance from Railway authorities (if crossing tracks)",
+    "Clearance from Irrigation department (if crossing canals)",
+    "No Objection Certificate (NOC) from concerned departments",
+    "Certificate of inclusion in Core Network",
+    "Survey and alignment drawings",
+    "Bill of Quantities (BOQ)"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year based on annual planning cycles and fund availability.",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Only roads included in the PMGSY Core Network are eligible for upgradation",
+    "Funding is contingent upon adherence to PMGSY-III specifications and guidelines",
+    "States must bear their respective share of project cost as per funding pattern",
+    "Works must be completed within the stipulated timeframe to avoid fund cancellation",
+    "Third Party Quality Monitoring (TPQM) is mandatory for all works"
+  ],
+  "source_cited_notes": [
+    "https://pmgsy.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:50:49.958111+00:00"
+}

@@ -1,0 +1,44 @@
+{
+  "scheme_id": "row-66",
+  "scheme_name": "e-RUPI Scheme",
+  "scheme_url": "https://www.npci.org.in/what-we-do/erupi",
+  "ministry_or_category": "Digital India",
+  "overview": "The e-RUPI scheme is a digital payment solution launched by the National Payments Corporation of India (NPCI) to enable contactless, cashless transactions through a QR code or SMS-based string. It is designed as a pre-paid, purpose-specific voucher system that ensures targeted delivery of benefits without the need for a bank account, digital wallet, or app. The scheme supports financial inclusion by allowing beneficiaries to redeem services at mapped merchant locations using a unique e-RUPI code.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "general public",
+    "beneficiaries of government welfare schemes"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable contactless and cashless digital transactions",
+    "Ensure targeted delivery of welfare services without leakage",
+    "Promote financial inclusion for unbanked populations",
+    "Reduce dependency on physical vouchers or cash",
+    "Support seamless redemption at merchant locations",
+    "Strengthen the digital payments ecosystem in India"
+  ],
+  "eligibility": "Beneficiaries identified by government or corporate sponsors for specific welfare or promotional schemes; no bank account, smartphone, or internet required to receive or use e-RUPI.",
+  "benefits": "Contactless redemption via QR code or SMS; no need for bank account, digital wallet, or app; ensures purpose-specific usage; real-time tracking by sponsors; zero transaction cost to beneficiary; supports offline redemption at mapped merchant locations.",
+  "financial_support": "e-RUPI is a pre-paid voucher system where the sponsoring entity (government or corporate) loads funds onto the voucher; the beneficiary receives no direct cash but can redeem the voucher for specified goods or services at designated merchants; the financial value is determined by the sponsor and transferred to the merchant upon successful redemption.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Government or corporate sponsor approaches NPCI or its authorized partner to issue e-RUPI vouchers. 2. Sponsor provides beneficiary details (name, mobile number) and purpose/amount of voucher. 3. NPCI generates a unique e-RUPI QR code or SMS string. 4. Sponsor distributes the e-RUPI to beneficiary via SMS or messaging platform. 5. Beneficiary shows the QR code or shares the SMS string at merchant point-of-sale. 6. Merchant validates the e-RUPI through their acquiring bank or PSP. 7. Upon validation, merchant provides the service/goods and settles the amount with NPCI.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — issued as per sponsor requirement",
+  "implementing_agency": "National Payments Corporation of India (NPCI)",
+  "contact_details": "",
+  "caveats": [
+    "e-RUPI is valid only for the specific purpose and merchant(s) mapped by the sponsor",
+    "Voucher expires if not redeemed within the validity period set by the sponsor",
+    "Cannot be transferred to another person or used for cash withdrawal",
+    "Requires merchant to be onboarded with a participating acquirer bank or PSP"
+  ],
+  "source_cited_notes": [
+    "https://npci.org.in/what-we-do/erupi"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:55:32.620044+00:00"
+}

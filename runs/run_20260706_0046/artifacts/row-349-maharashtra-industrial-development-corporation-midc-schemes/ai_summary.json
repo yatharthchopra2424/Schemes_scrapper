@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-349",
+  "scheme_name": "Maharashtra Industrial Development Corporation (MIDC) Schemes",
+  "scheme_url": "https://midcindia.org",
+  "ministry_or_category": "State Level (Maharashtra)",
+  "overview": "MIDC Maharashtra Industrial Development Corporation is the premier industrial infrastructure development agency of the Government of Maharashtra, established in 1962 under the M.I.D.C. Act, 1961. It plays a pivotal role in Maharashtra's industrial and economic growth by providing world-class industrial infrastructure, formulating equitable economic development policies, and supporting industries throughout their investment lifecycle. MIDC has built 300 industrial areas covering approximately 101,171.41 hectares of land and developed specialized parks for sectors including IT, BT, SEZs, Wine (Grape Processing), Silver Zone, and Gems.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "entrepreneurs",
+    "MSME",
+    "investors"
+  ],
+  "geographic_scope": "Maharashtra only",
+  "objectives": [
+    "Set up industrial areas for planned and systematic industrial development",
+    "Function as a special planning authority in development of industrial areas",
+    "Promote equitable economic development through right policies",
+    "Support industries through the entire life-cycle of investment",
+    "Develop industrial infrastructure as the singular focus",
+    "Preserve natural resources and conserve the ecosystem",
+    "Re-invent the paradigm of investment promotion through Magnetic Maharashtra 2.0",
+    "Catapult Maharashtra to be the first trillion dollar economy in India"
+  ],
+  "eligibility": "Eligibility varies by specific scheme or policy; general eligibility for land allotment includes submission of Detailed Project Report (DPR), Constitution of the Applicant, Block Plan, and other applicable documents. For MSME incentives, refer to Industrial Policy 2019 and Package Scheme of Incentives 2019 which classify talukas into categories A, B, C, D, D+ based on industrial development level, with eligibility based on ownership, size, employment, and sector.",
+  "benefits": "Benefits include access to developed industrial plots with infrastructure (roads, water supply, drainage, streetlights), single window clearance for industrial approvals, online payment systems, investor helpdesk, land allotment via direct or e-bidding process, issuance of offer and allotment letters, execution of lease agreement, plot possession, building plan approval via BPAMS portal, and occupancy certificate. Non-financial benefits include ease of doing business, proactive investor grievance redressal through MAITRI, and industry-friendly policies. Financial benefits may include fiscal incentives under state policies like Package Scheme of Incentives 2019, though specific amounts depend on the policy and location.",
+  "financial_support": "MIDC provides land on lease basis (typically 99 years) with associated charges: processing fee (based on area), application advance (5% Earnest Money Deposit calculated as prevailing industrial premium rate per sq.m. × area required × 5%), and balance occupancy premium (BOP) payable within 30 days of allotment letter (extendable up to 150 days with delayed payment charges). Financial support for industries is primarily through state government policies (e.g., Package Scheme of Incentives 2019) offering fiscal incentives like tax exemptions, subsidies, and concessions, which MIDC facilitates but does not directly provide as loans or grants.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Fill Up & Submit Application for land allotment via 'Direct' or 'e-Bidding' process. 2. Pay Processing Fee (based on area) and Application Advance (5% EMD) online via NEFT/RTGS/Net Banking/Credit Card/Debit Card/UPI. 3. Application processed by Land Allotment Committee (LAC); IT park applications processed by head office. 4. LAC meeting held after DPR scrutiny; decision is final; approved minutes published on MIDC website. 5. System generated Offer Letter issued upon LAC approval; applicant must pay 25% EMD (Direct) or 20% EMD (e-Bidding H1 bidder) within 15 days. 6. System generated Allotment Letter issued upon EMD payment; applicant must pay Balance Occupancy Premium (BOP) within 30 days (extendable up to 150 days). 7. Execute Agreement to Lease (A to L) after BOP payment, pay necessary stamp duty. 8. MIDC deputes surveyor for plot handover/takeover document signing. 9. Submit building plan with details to BPAMS portal via appointed Architect; Special Planning Authority scrutinizes plan; challan generated; after payment, commencement certificate issued within 35 days. 10. Complete construction and commence production within specified time period (A/B Zone: 3 years, C Zone: 5 years, D/D+ Zone: 7 years from actual possession). 11. Apply online via SWC portal for Occupancy Certificate after site inspection by SPA (if required). 12. Execute final lease upon receipt of Occupancy Certificate.",
+  "application_portal_url": "https://services.midcindia.org/services/",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Constitution of the Applicant",
+    "Block Plan",
+    "Other documents as applicable"
+  ],
+  "deadlines": "Rolling basis — applications accepted year-round for Direct and e-Bidding allotment.",
+  "implementing_agency": "Maharashtra Industrial Development Corporation (MIDC)",
+  "contact_details": "Email: ceo@midcindia.org | Phone: 022-45758671/45758643 (Express Tower), 022-40160800/47489237 (Andheri) | Emergency Contact: 022-47484679/022-47484699",
+  "caveats": [
+    "Land allotment is subject to conditions in the offer letter; failure to pay EMD within stipulated period may lead to extension (max 15 days) with interest.",
+    "Balance Occupancy Premium (BOP) must be paid within 30 days of allotment letter; extendable up to 150 days with delayed payment charges.",
+    "Building plan approval must be obtained within 35 days from application submission on BPAMS portal.",
+    "Construction and commencement of production must occur within zone-specific time periods (A/B: 3 years, C: 5 years, D/D+: 7 years from actual possession).",
+    "Stamp duty exemption under PSI 2019 is available only for IT and BT manufacturing units in IT and BT Parks in A and B areas.",
+    "Venture Capital facility for SC/ST entrepreneurs available under Dr. Babasaheb Ambedkar Special Package Scheme of Incentives."
+  ],
+  "source_cited_notes": [
+    "https://midcindia.org/guide-to-investing/",
+    "https://midcindia.org/about-midc/",
+    "https://midcindia.org/industrial-policies-and-incentives/",
+    "https://midcindia.org/single-window-clearance/",
+    "https://midcindia.org/wp-content/uploads/2021/09/CITIZEN_CHARTER_2017.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:40:23.881749+00:00"
+}

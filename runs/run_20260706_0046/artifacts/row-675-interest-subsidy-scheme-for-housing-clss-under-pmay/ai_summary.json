@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-675",
+  "scheme_name": "Interest Subsidy Scheme for Housing (CLSS under PMAY)",
+  "scheme_url": "https://pmay-urban.gov.in",
+  "ministry_or_category": "Housing Finance",
+  "overview": "The Interest Subsidy Scheme for Housing (CLSS under PMAY) is a component of the Pradhan Mantri Awas Yojana (Urban) aimed at providing interest subsidies on home loans to eligible urban beneficiaries. It targets Economically Weaker Sections (EWS), Low Income Groups (LIG), and Middle Income Groups (MIG) to facilitate affordable housing through reduced EMI burden. The scheme is implemented via nodal agencies and primary lending institutions (PLIs) across India. Beneficiaries can avail subsidies on loans for purchase, construction, or enhancement of residential properties.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "EWS",
+    "LIG",
+    "MIG",
+    "urban beneficiaries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide interest subsidy on home loans to make housing affordable for urban poor",
+    "Enable EWS/LIG/MIG categories to own pucca houses with basic amenities",
+    "Reduce the effective cost of housing through EMI relief",
+    "Promote inclusive urban development and slum rehabilitation",
+    "Strengthen coordination between central, state, and local governments",
+    "Ensure timely disbursal of subsidies through PLIs and CNAs"
+  ],
+  "eligibility": "Beneficiary families belonging to Economically Weaker Sections (EWS), Low Income Groups (LIG), or Middle Income Groups (MIG) as defined under PMAY(U) are eligible. The family should not own a pucca house anywhere in India. The loan must be taken from a PLI for purchase, construction, or enhancement of a house. The beneficiary must not have availed central assistance under any other housing scheme. The property must be located within statutory towns as per Census 2011 or notified planning areas.",
+  "benefits": "Interest subsidy on home loans up to a maximum tenure of 20 years or loan tenure, whichever is lower. Subsidy is credited upfront to the loan account, reducing EMI burden. Financial support varies by income category: EWS/LIG get 6.5% subsidy on loans up to ₹6 lakh; MIG-I gets 4% on loans up to ₹9 lakh; MIG-II gets 3% on loans up to ₹12 lakh. Subsidy is calculated at net present value (NPV) at a discount rate of 9%. Beneficiaries also gain access to formal credit and improved housing conditions.",
+  "financial_support": "The scheme provides an interest subsidy credited upfront to the home loan account through Primary Lending Institutions (PLIs). The subsidy amount is calculated as the present value of future interest payments at a discount rate of 9%. For EWS/LIG: 6.5% subsidy on loans up to ₹6,00,000. For MIG-I: 4% subsidy on loans up to ₹9,00,000. For MIG-II: 3% subsidy on loans up to ₹12,00,000. The subsidy is released by the Central Nodal Agency (CNA) to PLIs upon verification of eligible claims. There is no direct cash transfer to beneficiaries; benefit is realized via reduced EMI.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligibility based on income category (EWS/LIG/MIG-I/MIG-II) and property location. 2. Approach a Primary Lending Institution (PLI) such as a bank or housing finance company. 3. Submit loan application along with required documents. 4. PLI verifies eligibility and uploads application to the CLSS portal. 5. Central Nodal Agency (CNA) processes the claim and releases subsidy to PLI. 6. PLI credits the subsidy amount to the beneficiary's loan account, reducing the outstanding principal and EMI.",
+  "application_portal_url": "https://pmay-urban.gov.in",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, Voter ID, etc.)",
+    "Proof of address",
+    "Income certificate or Form 16 / salary slips",
+    "Bank account details",
+    "Property documents (sale agreement, title deed, etc.)",
+    "Loan sanction letter from PLI",
+    "Undertaking/self-declaration as per scheme format",
+    "Photograph of beneficiary",
+    "Certificate of no pucca house ownership anywhere in India"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year subject to fund availability and scheme guidelines.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is available only for loans taken from PLIs registered under the scheme",
+    "Beneficiary must not own a pucca house anywhere in India at the time of application",
+    "Subsidy is limited to one-time benefit per family",
+    "Property must be located within statutory towns as per Census 2011 or notified planning areas",
+    "Loan must be for purchase, construction, or enhancement of a residential house",
+    "Subsidy is not available for second homes or commercial properties",
+    "Scheme is subject to availability of funds and may be revised or withdrawn by the government"
+  ],
+  "source_cited_notes": [
+    "https://pmay-urban.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:44:38.669695+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-148",
+  "scheme_name": "National Beekeeping & Honey Mission (NBHM)",
+  "scheme_url": "https://nbhm.dac.gov.in",
+  "ministry_or_category": "Agriculture",
+  "overview": "The National Beekeeping & Honey Mission (NBHM) is a Central Sector Scheme under the Ministry of Agriculture and Farmers Welfare, implemented through the National Agricultural Cooperative Marketing Federation of India Ltd. (NACFED). It aims to promote holistic growth of the beekeeping sector for income and employment generation, particularly for small and marginal farmers, tribals, and women. The mission focuses on scientific beekeeping, honey production, processing, value addition, and market linkage through integrated interventions.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "beekeepers",
+    "self-help groups",
+    "farmer producer organizations",
+    "tribal communities",
+    "women"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote holistic growth of beekeeping sector for income and employment generation",
+    "Support small and marginal farmers, tribals, and women through scientific beekeeping",
+    "Enhance honey production and productivity through adoption of improved technologies",
+    "Develop infrastructure for collection, processing, storage, and marketing of honey and beehive products",
+    "Promote value addition and diversification of beehive products (wax, pollen, propolis, royal jelly, venom)",
+    "Strengthen market linkages and brand promotion for domestic and export markets",
+    "Provide training and capacity building to beekeepers and stakeholders",
+    "Encourage pollination support services to enhance agricultural and horticultural crop yields"
+  ],
+  "eligibility": "Individual farmers, beekeepers, self-help groups (SHGs), joint liability groups (JLGs), farmer producer organizations (FPOs), cooperatives, and tribal communities engaged in or willing to take up beekeeping activities are eligible. Preference is given to small and marginal farmers, SC/ST, and women beneficiaries.",
+  "benefits": "Financial assistance for setting up beekeeping colonies, procurement of equipment (hives, extractors, processing units), training and capacity building, infrastructure support for honey processing and storage, market development support, branding and packaging assistance, quality certification support, and technical guidance on scientific beekeeping practices.",
+  "financial_support": "The scheme provides subsidy-based financial assistance: up to 50% subsidy for general category beneficiaries and up to 90% subsidy for SC/ST, women, and beneficiaries in North Eastern and Himalayan states for beekeeping colonies, equipment, and processing units. Assistance is provided through NACFED as the nodal agency via Direct Benefit Transfer (DBT) mode.",
+  "fund_size_crores": "500",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the nearest NACFED office or designated implementing agency in the state. 2. 2. Submit application form along with required documents. 3. Application is scrutinized by the district-level committee. 4. Upon approval, financial assistance is sanctioned. 5. Beneficiary procures approved items from empaneled suppliers. 6. Submit bills and vouchers for reimbursement. 7. Subsidy amount is transferred directly to beneficiary's bank account via DBT.",
+  "application_portal_url": "https://nbhm.dac.gov.in",
+  "required_documents": [
+    "Application form (available at NACFED offices or website)",
+    "Proof of identity (Aadhaar/Voter ID/PAN)",
+    "Proof of address",
+    "Bank account details (passbook/cancelled cheque)",
+    "Land ownership/lease document (if applicable)",
+    "Project report detailing beekeeping activity plan",
+    "Quotations from empaneled suppliers for equipment/colonies",
+    "Training completion certificate (if training was attended)"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "National Agricultural Cooperative Marketing Federation of India Ltd. (NACFED)",
+  "contact_details": "Email: nbhm@nacfed.org | Phone: 011-24361458",
+  "caveats": [
+    "Subsidy is reimbursement-based after procurement and submission of bills",
+    "Beneficiaries must procure items only from NACFED-empaneled suppliers",
+    "Assistance is subject to availability of funds under the scheme",
+    "Beneficiaries must maintain beekeeping colonies for minimum 3 years post-subsidy",
+    "Duplicate benefits under other central/state schemes for same activity not permitted"
+  ],
+  "source_cited_notes": [
+    "https://nbhm.dac.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:38:06.130809+00:00"
+}

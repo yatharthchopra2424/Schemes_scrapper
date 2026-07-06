@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-772",
+  "scheme_name": "Export Credit Guarantee Corporation (ECGC) Trade Credit Insurance",
+  "scheme_url": "https://www.ecgc.in",
+  "ministry_or_category": "Insurance",
+  "overview": "Export Credit Guarantee Corporation (ECGC) Trade Credit Insurance provides financial assistance to Indian exporters by covering losses arising from non-payment by overseas buyers due to commercial or political risks. It supports exporters through claim settlements, enabling them to recover dues and maintain cash flow. The scheme operates under the Ministry of Commerce and Industry, Government of India, and is implemented by ECGC Limited.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "exporters",
+    "MSME",
+    "banks"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide credit insurance support to exporters against payment defaults",
+    "Facilitate access to international markets by mitigating credit risk",
+    "Support timely recovery of export dues through claim settlements",
+    "Strengthen export competitiveness through risk coverage",
+    "Promote sustainable export growth via financial protection"
+  ],
+  "eligibility": "Indian exporters and banks dealing with export transactions are eligible to avail ECGC's trade credit insurance policies, subject to underwriting norms and compliance with foreign trade regulations.",
+  "benefits": "Financial protection against buyer default, enhanced creditworthiness for accessing finance, support in recovering dues, and facilitation of export transactions through risk mitigation.",
+  "financial_support": "ECGC provides claim settlements to exporters and banks for losses incurred due to buyer default or insolvency, with payouts varying based on policy terms, loss assessment, and recovery efforts. Examples include settlements ranging from ₹13.5 lakh to over ₹10.72 crore, as seen in case disbursements.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach ECGC or authorized intermediaries for policy enquiry. 2. Submit export transaction details and buyer information for risk assessment. 3. Undergo underwriting evaluation based on buyer creditworthiness and country risk. 4. Pay premium and receive policy cover. 5. In case of default, file claim with required documents. 6. ECGC processes claim and settles amount after verification.",
+  "application_portal_url": "https://www.ecgcltd.in",
+  "required_documents": [
+    "Export invoice",
+    "Shipping bill",
+    "Bill of lading or airway bill",
+    "Proof of export realization (if any)",
+    "Correspondence with buyer regarding default",
+    "Legal documents proving buyer insolvency or default",
+    "Policy copy and endorsement details",
+    "Bank realization certificate"
+  ],
+  "deadlines": "Rolling basis — claims can be filed after default occurs, subject to policy terms and limitation periods.",
+  "implementing_agency": "Export Credit Guarantee Corporation of India Limited (ECGC Limited)",
+  "contact_details": "Email: Not explicitly stated in evidence | Helpline: Not explicitly stated in evidence",
+  "caveats": [
+    "Claims are subject to policy terms, exclusions, and deductibles",
+    "Loss must be due to buyer default or insolvency as per policy definition",
+    "Timely notification of default is required for claim admission",
+    "Recovery efforts by ECGC may affect final settlement amount",
+    "Certain markets or buyers may be excluded based on risk classification"
+  ],
+  "source_cited_notes": [
+    "https://ecgc.in/claim-of-rs-65-00-lakhs-was-settled-by-ecgc-kochi-bo-to-m-s-ht-foods-pvt-ltd-on-account-of-non-payment-by-a-bahraini-buyer",
+    "https://ecgc.in/ecgc-bangalore-branch-officials-handing-over-claim-cheque-of-rs-50-00-lakh-to-goodwill-fabrics",
+    "https://ecgc.in/claim-payment-of-rs-13-5-lakh-by-ecgc-bangalore-branch-to-its-policyholder-s-s-groups",
+    "https://ecgc.in/policy-claim-cheque-of-rs-42-64-lakhs-was-handed-over-to-m-s-t-c-terrytex-ltd-the-claim-was-settled-on-account-of-the-default-by-a-buyer-m-s-la-compagnie-safdie-inc-canada",
+    "https://ecgc.in/disbursement-of-claim-cheque-for-amount-107269146-00-to-m-s-matrix-clothing-pvt-ltd-on-account-of-loss-due-to-insolvency-of-buyer-m-s-express-llc-usa"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:21:46.726832+00:00"
+}

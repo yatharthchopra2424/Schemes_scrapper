@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-554",
+  "scheme_name": "IIT Hyderabad Deep Tech Startup Incubator",
+  "scheme_url": "https://iith.ac.in/incubator",
+  "ministry_or_category": "Innovation Ecosystem",
+  "overview": "The IIT Hyderabad Deep Tech Startup Incubator is part of the Institute Innovation and Startup Policy, which supports innovation and entrepreneurship across all stages from germination to scaling. It provides mentorship, infrastructure, funding support, and access to incubation facilities like iTIC, CfHE, and FabCI for students, staff, and faculty. The policy aligns with the National Innovation and Startup Policy (NISP) and enables academic initiatives such as IEP projects, internships, and startup registration.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "students",
+    "staff",
+    "faculty"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Synchronize various innovation and entrepreneurship initiatives to fit the NISP framework",
+    "Enable creation of a robust innovation and startup ecosystem",
+    "Support the entrepreneur through all stages: germination, pre-incubation, incubation, acceleration, and maturing/scaling",
+    "Integrate education activities with enterprise-related activities",
+    "Provide financial support for prototype building and sustenance through schemes like BUILD and Entrepreneurs-in-Residence (EIR)",
+    "Offer mentorship, sitting space, basic business facilities, and VC funding in exchange for equity",
+    "Facilitate technology licensing, consultancy, and paid use of institute facilities by startups",
+    "Set the overall vision for promoting innovation and entrepreneurship through Institution’s Innovation Councils (IICs)"
+  ],
+  "eligibility": "UG & PG Students (see 5.3 for eligibility), Staff, Faculty. For student startups, registration with iTIC is required. Faculty-driven startups must be incubated in one of the institute's incubators (iTIC, CfHE, or FabCI) unless exceptional justification is provided for external incubation.",
+  "benefits": "Mentorship, sitting space, basic business facilities, access to VC funding (in exchange for equity), financial support for prototype building and sustenance, technology licensing, consultancy participation, paid use of institute facilities, growth support on VC funding and revenue increase, professional working environment via rental space in the Technology Research Park (TRP), and reach-out points for queries or support related to innovation and entrepreneurship.",
+  "financial_support": "Financial support is provided for student ideas through the BUILD (Bold Unique Idea Lead Development) project and Entrepreneurs-in-Residence (EIR) schemes under iTIC, CfHE, and FabCI. Faculty and student startups may receive VC funding in exchange for equity. The policy does not specify exact grant amounts or loan details but emphasizes support for prototype development and sustenance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. For student startups: Register the startup at iTIC with oneself as (if pursuing internship in one's own startup). 2. For BUILD project: Pitch idea to obtain financial support (no academic prerequisites or approvals needed). 3. For faculty startups: Obtain approval for incubation in iTIC, CfHE, or FabCI. 4. For academic initiatives: Enroll in IEP (Innovation and Entrepreneurship Project) as free/core/additional elective or register for Minor in Entrepreneurship or Techno-Entrepreneurship Dual Degree. 5. For internships: Pursue sixth-semester internship in a startup (own or incubated at IITH) or other semesters with DUGC approval and satisfactory course plan. 6. For semester leave: Apply through advisor/program coordinator at least one month before semester commencement, evaluated by committee chaired by Dean Academics with HOD and FIC Incubation as members. 7. For deferred placement: Opt out of regular placement season and register for a startup or enroll with an incubation centre.",
+  "application_portal_url": "https://iith.ac.in/incubator",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Indian Institute of Technology Hyderabad",
+  "contact_details": "Email: hos.hr@iith.ac.in | Phone: 040-23596060 (Head of HR Department, Shri Jagadeswara Rao B)",
+  "caveats": [
+    "Faculty startups must be incubated in institute incubators (iTIC, CfHE, FabCI) unless exceptional justification is provided for external incubation",
+    "IEP registration under Core Elective category requires DUGC approval",
+    "Semester leave requires sound proposal and commitment to complete degree within maximum allowed years",
+    "Deferred placement eligibility requires not having appeared in regular placement season and having registered for a startup or enrolled with an incubation centre",
+    "Startup norms for faculty do not apply to roles as mentor or consultant (no equity holding)"
+  ],
+  "source_cited_notes": [
+    "https://iith.ac.in/assets/files/pdf/IITH-Innovation-and-Startup-Policy.pdf",
+    "https://iith.ac.in/incubator",
+    "https://iith.ac.in/people/administration/",
+    "https://iith.ac.in/about/aboutiith/"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:30:19.656699+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-710",
+  "scheme_name": "MRO (Maintenance, Repair & Overhaul) Policy 2021",
+  "scheme_url": "https://www.civilaviation.gov.in/mro",
+  "ministry_or_category": "Aerospace",
+  "overview": "The MRO (Maintenance, Repair & Overhaul) Policy 2021 is a policy initiative by the Ministry of Civil Aviation aimed at promoting India as a global hub for aircraft maintenance, repair, and overhaul services. It seeks to attract investment, create employment, and reduce dependence on foreign MRO facilities by offering incentives and streamlining regulatory processes. The policy focuses on developing infrastructure, providing fiscal incentives, and simplifying procedures to encourage both domestic and foreign investment in the MRO sector.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "entrepreneurs",
+    "domestic and foreign investors",
+    "aircraft maintenance companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To make India a global hub for aircraft Maintenance, Repair and Overhaul (MRO) services",
+    "To attract investment in the MRO sector through fiscal and non-fiscal incentives",
+    "To reduce dependence on foreign MRO facilities and save foreign exchange",
+    "To create employment opportunities in the aviation sector",
+    "To develop world-class MRO infrastructure across the country",
+    "To simplify regulatory procedures and provide single-window clearance for MRO units",
+    "To encourage skill development and training in aviation maintenance",
+    "To promote public-private partnerships in the MRO sector"
+  ],
+  "eligibility": "Entities engaged in or planning to undertake aircraft maintenance, repair, and overhaul activities, including domestic and foreign companies, joint ventures, and special purpose vehicles, provided they meet the regulatory requirements set by the Directorate General of Civil Aviation (DGCA) and other relevant authorities under the Aircraft Act, 1934 and Bharatiya Vayuyan Adhiniyam, 2024.",
+  "benefits": "The policy offers fiscal incentives such as tax holidays, customs duty exemptions on import of tools, equipment, and spare parts, and simplified customs procedures. Non-financial benefits include single-window clearance, infrastructure support through land allocation at airports, and facilitation of skill development programs. It also encourages public-private partnerships and provides a conducive regulatory environment for MRO operations.",
+  "financial_support": "The policy provides fiscal incentives including customs duty exemptions on import of tools, test equipment, spare parts, and components required for MRO activities, along with possible tax holidays or concessions as per applicable government schemes. However, the policy does not specify direct financial grants or subsidies; support is primarily regulatory and fiscal in nature.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a suitable location for setting up an MRO facility, preferably at or near an airport. 2. Ensure compliance with DGCA regulations under the Bharatiya Vayuyan Adhiniyam, 2024 and Aircraft Act, 1934. 3. Apply for necessary security clearances from the Bureau of Civil Aviation Security (BCAS). 4. Obtain necessary clearances from the Airports Authority of India (AAI) or airport operator for land and infrastructure use. 5. Apply for customs duty exemptions and other fiscal benefits through the Directorate General of Foreign Trade (DGFT) or customs authorities. 6. Obtain DGCA approval for the MRO facility and its operations. 7. Commence operations after obtaining all required approvals and clearances.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Memorandum and Articles of Association",
+    "Board resolution authorizing the MRO project",
+    "Detailed project report (DPR) including investment plan, employment generation, and technology to be used",
+    "Proof of financial capability (bank solvency certificate, audited financial statements)",
+    "Security clearance from Bureau of Civil Aviation Security (BCAS)",
+    "No Objection Certificate (NOC) from airport operator or Airports Authority of India (AAI)",
+    "DGCA approval for MRO facility and personnel",
+    "Customs duty exemption application (if applicable)",
+    "Environmental clearance (if required)",
+    "Fire safety clearance from local authorities"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Ministry of Civil Aviation",
+  "contact_details": "Email: moca@nic.in | Helpline: 1800-11-5565 (Ministry of Civil Aviation helpline)",
+  "caveats": [
+    "Incentives are subject to approval by relevant government departments and compliance with prevailing laws and regulations",
+    "Benefits such as tax exemptions are subject to changes in government policy and finance acts",
+    "All MRO operations must comply with DGCA regulations under Bharatiya Vayuyan Adhiniyam, 2024 and Aircraft Act, 1934",
+    "Land allocation, if any, is subject to availability and approval by the airport operator or Airports Authority of India",
+    "Customs duty exemptions are subject to fulfillment of export obligations and other conditions under foreign trade policy"
+  ],
+  "source_cited_notes": [
+    "https://www.civilaviation.gov.in/mro",
+    "https://civilaviation.gov.in/",
+    "https://civilaviation.gov.in/sites/default/files/2026-05/bharatiya-vayuyan-adhiniyam-2024-2_0.pdf",
+    "https://civilaviation.gov.in/sites/default/files/2025-11/an-act-to-make-better-provision-for-the-control-of-the-manufacture-possession-use-operation-sale.pdf"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:09:18.273683+00:00"
+}

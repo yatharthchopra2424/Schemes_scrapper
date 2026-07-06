@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-473",
+  "scheme_name": "IRDAI Regulatory Sandbox for InsurTech",
+  "scheme_url": "https://www.irdai.gov.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "The IRDAI Regulatory Sandbox for InsurTech is a framework established by the Insurance Regulatory and Development Authority of India (IRDAI) to enable innovative insurance products, services, and business models to be tested in a controlled environment with regulatory relaxations. It aims to foster innovation in the insurance sector by allowing startups and insurers to experiment with new technologies under supervision. The sandbox provides a safe space for testing without immediately requiring full compliance with all regulatory norms, subject to safeguards and oversight.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "insurers",
+    "InsurTech companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To encourage innovation in the insurance sector by facilitating the testing of new products and technologies",
+    "To allow InsurTech startups and insurers to experiment with innovative solutions under regulatory supervision",
+    "To assess the viability and safety of new insurance models before full market rollout",
+    "To promote financial inclusion and customer-centric insurance solutions through technology",
+    "To provide a mechanism for regulators to gain insights into emerging risks and trends in InsurTech"
+  ],
+  "eligibility": "Entities eligible to apply include insurance companies registered with IRDAI, InsurTech startups, technology firms, and other organizations proposing innovative insurance-related products, services, or processes. Applicants must demonstrate novelty, technological innovation, and potential benefits to policyholders or the insurance ecosystem. Proposals must include a clear testing plan, risk mitigation measures, and exit strategy.",
+  "benefits": "Participants receive regulatory relaxations tailored to their innovation, enabling testing without full compliance with certain provisions of the Insurance Act, 1938, and IRDAI regulations during the sandbox tenure. They gain access to regulatory guidance, mentorship, and a structured environment to validate their solutions. Successful testing may lead to smoother regulatory approval for wider market launch.",
+  "financial_support": "The IRDAI Regulatory Sandbox does not provide direct financial support, grants, or funding to participating entities. Support is limited to regulatory facilitation, guidance, and waivers of specific compliance requirements during the testing period. Any financial investment or operational costs must be borne by the applicant.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an application to IRDAI with details of the innovative product, service, or technology to be tested. 2. Include a comprehensive testing plan, objectives, duration, resources, and risk mitigation framework. 3. Disclose customer protection measures, data privacy safeguards, and exit strategy. 4. Await evaluation by IRDAI’s Sandbox Evaluation Committee. 5. If approved, enter into a sandbox agreement outlining terms, conditions, and regulatory relaxations. 6. Conduct the test under IRDAI supervision. 7. Submit periodic reports and a final evaluation report upon completion.",
+  "application_portal_url": "https://www.irdai.gov.in",
+  "required_documents": [
+    "Detailed proposal of the innovative product/service/technology",
+    "Testing plan with objectives, methodology, and timeline",
+    "Risk assessment and mitigation framework",
+    "Customer protection and grievance redressal mechanism",
+    "Data privacy and security compliance details",
+    "Exit strategy and post-testing rollout plan",
+    "Information on the applicant entity (incorporation, ownership, etc.)",
+    "Any regulatory approvals already obtained or applied for"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per IRDAI notifications.",
+  "implementing_agency": "Insurance Regulatory and Development Authority of India (IRDAI)",
+  "contact_details": "",
+  "caveats": [
+    "Participation does not guarantee eventual regulatory approval for market launch",
+    "Regulatory relaxations are limited in scope and duration, strictly defined in the sandbox agreement",
+    "Applicants must bear all costs associated with testing and compliance with sandbox conditions",
+    "IRDAI may terminate sandbox participation early if risks to policyholders or systemic concerns arise",
+    "Successful testing does not exempt entities from obtaining necessary approvals for commercial operations"
+  ],
+  "source_cited_notes": [
+    "https://www.irdai.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:46:04.015296+00:00"
+}

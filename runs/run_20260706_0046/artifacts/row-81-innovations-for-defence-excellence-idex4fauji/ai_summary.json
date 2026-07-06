@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-81",
+  "scheme_name": "Innovations for Defence Excellence (iDEX4Fauji)",
+  "scheme_url": "https://idex.gov.in",
+  "ministry_or_category": "Space & Defence",
+  "overview": "Innovations for Defence Excellence (iDEX) is a flagship scheme launched by the Government of India in April 2018 under the Department of Defence Production, Ministry of Defence, to foster innovation and technology development in defence and aerospace by engaging startups, MSMEs, individual innovators, R&D institutes, and academia. It provides grants, funding, and other support to carry out R&D with potential for future adoption in Indian defence and aerospace needs. iDEX operates through the Defence Innovation Organisation (DIO), a Section 8 company formed by HAL and BEL, and runs challenges such as Defence India Startup Challenge (DISC), Open Challenge, and ADITI to support prototype development and commercialization.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSMEs",
+    "individual innovators",
+    "R&D institutes",
+    "academia"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate rapid development of new, indigenized, and innovative technologies for the Indian defence and aerospace sector to meet needs in shorter timelines",
+    "Create a culture of engagement with innovative startups to encourage co-creation for defence and aerospace sectors",
+    "Empower a culture of technology co-creation and co-innovation within the defence and aerospace sectors",
+    "Boost innovation among start-ups and encourage them to be part of the Indian defence and aerospace ecosystem",
+    "Facilitate scale-up, indigenization, and integration in manufacturing facilities for successfully piloted technologies",
+    "Interface with military top brass about key innovative technologies and encourage their adoption into defence establishments",
+    "Organize various challenges/hackathons to shortlist potential technologies and entities for defence and aerospace use",
+    "Enable and fund pilots using innovation funds dedicated to the purpose"
+  ],
+  "eligibility": "Startups as defined and recognized by Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India; any Indian company incorporated under the Companies Act 1956/2013, primarily a Micro, Small and Medium Enterprises (MSME) as defined in the MSME Act, 2006; individual innovators are also encouraged to apply (research & academic institutions can use this category to apply).",
+  "benefits": "Grants/funding, mentorship, access to defence testing facilities and experts, entry to accelerator programs run by iDEX partners, support in technology and business development, and facilitation of scale-up, indigenization, and integration in manufacturing facilities for successfully piloted technologies.",
+  "financial_support": "Applicants showing capability, intent, and promise to be able to produce functional prototypes or to productize existing technologies will be awarded maximum grants of up to Rs. 1.5 crores per applicant, strictly on a milestone basis and starting, in the form of grant/equity/debt/other relevant structures, strictly on a milestone basis. The exact amount and mode of each grant shall be decided by a high-powered committee based on the application, as per the prevailing scheme. In special cases, if deemed necessary by the high-powered committee, the funding amount may be increased beyond the prescribed limit, on a case by case basis.",
+  "fund_size_crores": "498.8",
+  "grant_amount_per_entity": "Up to Rs. 1.5 crores per applicant",
+  "application_process": "1. Provide full details of a Single Point of Contact for the applying entity – these are the full contact details of a single person who will act as the point of contact between iDEX and the applicant. 2. Provide Entity Details – these are the details of the Startup/MSME applying (Individual Innovators do not have to fill these). 3. Provide Proposal Details – these are the details of the proposal in response to the iDEX Challenge problem statements/focus areas. Applicants must select the problem statement they are addressing, what level of funding they want and give technical and financial details of their proposal. This will include mentioning relevant patents and research papers by the applicant, if any as well as a tentative business plan. 4. Submit the application online via the iDEX portal. 5. Applications will be screened by a duly constituted high-powered committee of defence and technology experts for screening and selection of applications for the iDEX Challenge.",
+  "application_portal_url": "https://idex.gov.in/how_to_apply",
+  "required_documents": [
+    "Full Details of a Single Point of Contact for the applying entity",
+    "Entity Details (details of the Startup/MSME applying)",
+    "Proposal Details (details of the proposal in response to the iDEX Challenge problem statements/focus areas)",
+    "Relevant patents and research papers by the applicant (if any)",
+    "Tentative business plan"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Defence Innovation Organisation (DIO), Department of Defence Production, Ministry of Defence, Government of India",
+  "contact_details": "Email: idexdio@ddpmod.gov.in | Phone: 011-23012527 (Office) Room No. 25098-101, Kartavya Bhawan-2, New Delhi",
+  "caveats": [
+    "Individual innovators post-selection need to register as Startup/MSME",
+    "Grant disbursement is based on milestone completion",
+    "No establishment funding provided to any DIO-affiliated incubators",
+    "Funding is subject to due diligence and financial compliance guidelines",
+    "Government may put restrictions on transfer/licensing of technology/IPR developed under the program on considerations of national security or other strategic reasons"
+  ],
+  "source_cited_notes": [
+    "https://idex.gov.in/how_to_apply",
+    "https://idex.gov.in//idex",
+    "https://idex.gov.in/uploads/page/iDEX scheme 04.06.2021_3 (1).pdf",
+    "https://idex.gov.in//uploads/page/aditi_scheeme.pdf",
+    "https://idex.gov.in//uploads/resources/1700215966_01115b225ef4d436c635.pdf"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:07:27.915253+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-610",
+  "scheme_name": "National Cyber Security Policy Implementation Fund",
+  "scheme_url": "https://cert-in.org.in",
+  "ministry_or_category": "Cybersecurity",
+  "overview": "The National Cyber Security Policy Implementation Fund is a financial mechanism established under India's National Cyber Security Policy to support cybersecurity initiatives, capacity building, and infrastructure development across government and critical sectors.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "government departments",
+    "critical information infrastructure sectors",
+    "public sector undertakings",
+    "academic institutions",
+    "startups in cybersecurity"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Strengthen the security posture of critical information infrastructure",
+    "Enhance cyber threat intelligence sharing and incident response capabilities",
+    "Promote research and development in cybersecurity technologies",
+    "Build human resource capacity through training and skill development programs",
+    "Support the establishment of Security Operations Centres (SOCs) and Computer Emergency Response Teams (CERTs)",
+    "Facilitate compliance with cybersecurity standards and best practices",
+    "Encourage public-private partnerships in cybersecurity initiatives",
+    "Develop indigenous cybersecurity solutions and tools"
+  ],
+  "eligibility": "Eligible beneficiaries include central and state government ministries/departments, public sector undertakings, critical information infrastructure sectors (such as power, telecom, banking, finance, transport, etc.), academic and research institutions engaged in cybersecurity R&D, and recognized startups and MSMEs working in the cybersecurity domain, subject to approval by the empowered committee overseeing the fund.",
+  "benefits": "Financial support for cybersecurity projects, access to advanced threat intelligence platforms, funding for setting up Security Operations Centres (SOCs), grants for cybersecurity research and innovation, support for participation in international cybersecurity exercises and collaborations, capacity building through specialized training programs, and assistance in achieving compliance with national and international cybersecurity standards.",
+  "financial_support": "The fund provides financial assistance in the form of grants and subsidies for approved cybersecurity initiatives, with disbursement based on project milestones and outcomes. The quantum of support varies depending on the nature and scale of the project, typically covering a significant portion of eligible costs for infrastructure, technology acquisition, training, and R&D activities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a cybersecurity project or initiative aligned with the National Cyber Security Policy objectives. 2. Prepare a detailed project proposal including objectives, methodology, budget, timeline, and expected outcomes. 3. Submit the proposal through the designated nodal officer or agency as specified by the implementing department. 4. Proposal undergoes technical and financial appraisal by the empowered committee. 5. Upon approval, enter into a memorandum of understanding or agreement outlining terms and conditions. 6. Funds are disbursed in tranches based on project progress and utilization certificates. 7. Submit periodic progress reports and utilization certificates for monitoring and evaluation.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed project proposal",
+    "Budget estimate and financial plan",
+    "Organization registration and incorporation documents",
+    "PAN and GST details of the applicant entity",
+    "Bank account details for fund transfer",
+    "Clearance or endorsement from relevant administrative ministry/department (if applicable)",
+    "Technical specifications and architecture diagrams (for infrastructure projects)",
+    "Memorandum of Understanding or agreement draft",
+    "Utilization certificate format for previous grants (if any)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and committee meeting schedules.",
+  "implementing_agency": "Indian Computer Emergency Response Team (CERT-In), Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations and approval by the empowered committee",
+    "Projects must align with national cybersecurity priorities and strategic objectives",
+    "Beneficiaries must provide utilization certificates and progress reports as per prescribed formats",
+    "Funds cannot be used for recurring operational expenses or salaries of permanent staff",
+    "Intellectual property rights arising from funded projects may be subject to government norms",
+    "Misutilization of funds may lead to recovery with penalties and blacklisting"
+  ],
+  "source_cited_notes": [
+    "https://cert-in.org.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:03:19.778184+00:00"
+}

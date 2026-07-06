@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-452",
+  "scheme_name": "Geospatial Data Liberalisation – NGIS Policy",
+  "scheme_url": "https://dst.gov.in/geospatial-guidelines",
+  "ministry_or_category": "Space Economy",
+  "overview": "The Geospatial Data Liberalisation – NGIS Policy is a policy initiative by the Department of Science and Technology (DST) aimed at liberalizing access to geospatial data in India. The policy seeks to deregulate the acquisition and use of geospatial data, promote innovation in the geospatial sector, and encourage private sector participation in mapping and geospatial services. It aims to democratize access to high-resolution geospatial data for startups, industries, and researchers, fostering innovation in sectors like urban planning, agriculture, disaster management, and infrastructure development.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "private sector",
+    "researchers",
+    "industries",
+    "startups in geospatial technology"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Liberalize access to geospatial data by removing prior approval and licensing requirements",
+    "Promote innovation and entrepreneurship in the geospatial sector",
+    "Enable private sector participation in mapping and geospatial data services",
+    "Democratize access to high-resolution geospatial data for startups, academia, and industry",
+    "Support applications in urban planning, agriculture, disaster management, and infrastructure development",
+    "Align with the vision of Atmanirbhar Bharat and technological self-reliance",
+    "Facilitate the growth of the Indian geospatial economy and space economy"
+  ],
+  "eligibility": "The policy applies to all Indian entities, including startups, private companies, research institutions, and individuals, who wish to access, use, or generate geospatial data. There are no prior approval or licensing requirements for the acquisition, generation, preparation, dissemination, distribution, dissemination, publication, or updating of digital geospatial data and maps within the territory of India.",
+  "benefits": "The policy removes the need for prior approvals, security clearances, licenses, and other restrictions on the collection, generation, preparation, dissemination, distribution, dissemination, publication, or updating of digital geospatial data and maps within India. It enables free access to geospatial data for startups, industries, and researchers, fostering innovation in sectors such as agriculture, urban planning, disaster management, and infrastructure. It supports the growth of the Indian geospatial industry and aligns with the Atmanirbhar Bharat vision by promoting self-reliance in geospatial technologies.",
+  "financial_support": "The policy does not provide direct financial support, grants, loans, or subsidies. It is a policy liberalization initiative that removes regulatory barriers to enable private sector investment and innovation in the geospatial sector. Financial support for geospatial initiatives may be accessed through other DST schemes such as the Research, Development, and Innovation (RDI) Scheme or the Fund of Funds for Startups, but these are not part of the Geospatial Data Liberalisation – NGIS Policy itself.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. No prior approval or license is required for the acquisition, generation, preparation, dissemination, distribution, publication, or updating of digital geospatial data and maps within India.\n2. Entities can directly access geospatial data from government sources such as the Survey of India, National Remote Sensing Centre (NRSC), and other authorized agencies.\n3. Private entities can generate their own geospatial data using drones, satellites, or other technologies without seeking prior permission.\n4. Data can be used, shared, published, or commercialized freely for any lawful purpose.\n5. Entities must comply with applicable laws related to national security, privacy, and data protection, but no separate geospatial licensing is required.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. The policy is in effect and applications or data access requests can be made at any time.",
+  "implementing_agency": "Department of Science and Technology (DST), Ministry of Science and Technology",
+  "contact_details": "",
+  "caveats": [
+    "The policy does not apply to classified or sensitive geospatial data related to national security, defense, or critical infrastructure.",
+    "Users must comply with other applicable laws such as data privacy, security, and sector-specific regulations.",
+    "The policy does not provide financial grants or subsidies; it only deregulates access to geospatial data.",
+    "The policy is subject to periodic review and updates by the Department of Science and Technology."
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/geospatial-guidelines"
+  ],
+  "last_updated_date": "1970",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T23:36:52.995521+00:00"
+}

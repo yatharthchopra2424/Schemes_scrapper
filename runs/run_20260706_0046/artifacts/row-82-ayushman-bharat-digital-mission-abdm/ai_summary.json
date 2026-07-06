@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-82",
+  "scheme_name": "Ayushman Bharat Digital Mission (ABDM)",
+  "scheme_url": "https://abdm.gov.in",
+  "ministry_or_category": "Healthcare",
+  "overview": "Ayushman Bharat Digital Mission (ABDM) aims to develop the backbone necessary to support the integrated digital health infrastructure of the country. It will bridge the existing gap amongst different stakeholders of Healthcare ecosystem through digital highways. ABDM comprises key registries such as the Ayushman Bharat Health Account (ABHA), healthcare professional registry (HPR), health facility registry (HFR), and drug registry.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "citizens",
+    "health facilities",
+    "healthcare professionals",
+    "health tech companies",
+    "states"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop the backbone necessary to support the integrated digital health infrastructure of the country",
+    "Bridge the existing gap amongst different stakeholders of Healthcare ecosystem through digital highways",
+    "Create a system of digital health records which is easily accessible to individuals and health service providers and is purely voluntary in nature, based on the consent of individuals",
+    "Safeguard digital personal data within the ambit of the NDHE, including the Personal Health Identifier, the electronic health records and electronic medical records, by implementing adequate technical and organisational measures across the NDHE",
+    "Increase awareness of the importance of data privacy and instill a privacy-oriented mindset among the members of NDHM and its ecosystem partners",
+    "Ensure portability in the provision of health services",
+    "Establish appropriate institutional mechanisms for auditing of the NDHE as needed and to encourage stakeholders and ecosystem partners to adopt the data protection principles set out in this Policy",
+    "Leverage the information systems existing in the Indian health sector by encouraging conformity with the defined data privacy standards and integrating such existing systems with NDHE"
+  ],
+  "eligibility": "Participation of an individual in the NDHE will be on a purely voluntary basis. Where an individual chooses to participate, he/she will be issued a Health ID (as defined in this Policy) by the NDHM. Where an individual wishes to avail of any health services, the Health ID of the individual may be verified by the use of Aadhaar or any other method of identification as may be specified by the NDHM. The voluntary use of Aadhaar in this Policy is envisaged as per the Aadhaar Authentication for Good Governance (Social Welfare, Innovation, Knowledge) Rules, 2020. The failure or refusal to make use of Aadhaar would not result in the denial of access to any health facility or service.",
+  "benefits": "ABHA allows individuals to link and share their health records. It enables your interaction with participating healthcare providers, and allows you to receive your digital lab reports, prescriptions and diagnosis seamlessly from verified healthcare professionals and health service providers. For Health Facilities: We are creating a comprehensive repository of all the public and private health facilities of the country across different systems of medicine. For Healthcare Professionals: We are empowering healthcare professionals to join the ABDM ecosystem and be part of the healthcare digital transformation in India! For Health Tech Companies: Engagement with Health Service Providers fosters the integration of digital platforms and bridge gaps across the healthcare ecosystem. For States: States Government and Health Authorities play a pivotal role to accelerate the adoption of the Ayushman Bharat Digital Mission (ABDM) in the public and private health system.",
+  "financial_support": "",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on e-Sushrut Clinic website: https://ehmis-lite.in/AHIMSG5/hissso/logoutLogin 2. Sign up using your credentials to create an account 3. Generate or Validate Healthcare Professional Registry (HPR) ID: New Users: Generate your HPR ID using your Aadhaar ID; Existing Users: Validate your HPR ID using your Aadhaar-linked mobile number or HPR-linked mobile number 4. Generate or Validate Health Facility Registry (HFR) ID: New Facilities: Generate your HFR ID by providing essential details such as facility name, location, operational status, services offered, ownership details etc.; Existing Facilities: Validate your facility details like HFR ID, Facility Name, State and District. 5. Complete Onboarding & Get Started: Fill in the required details on e-Sushrut Clinic to complete the onboarding process",
+  "application_portal_url": "https://ehmis-lite.in/AHIMSG5/hissso/Login",
+  "required_documents": [
+    "Aadhaar ID",
+    "Aadhaar-linked mobile number",
+    "HPR-linked mobile number",
+    "Facility name",
+    "Location",
+    "Operational status",
+    "Services offered",
+    "Ownership details"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Health Authority (NHA), Ministry of Health and Family Welfare",
+  "contact_details": "Email: abdm[at]nha[dot]gov[dot]in | Toll-free-number: 1800-11-4477",
+  "caveats": [
+    "The failure or refusal to make use of Aadhaar would not result in the denial of access to any health facility or service, but Aadhaar verification is required for Health ID issuance",
+    "Participation in the NDHE is on a purely voluntary basis"
+  ],
+  "source_cited_notes": [
+    "https://abdm.gov.in/",
+    "https://abdm.gov.in/citizens",
+    "https://abdm.gov.in/health-facilities",
+    "https://abdm.gov.in/healthcare-professionals",
+    "https://abdm.gov.in/health-tech-companies",
+    "https://abdm.gov.in/for-states",
+    "https://abdm.gov.in/strapicms/uploads/health_management_policy_bac9429a79.pdf",
+    "https://abdm.gov.in/strapicms/uploads/health_data_management_policy_77208f0d26.pdf?updated_at=2022-05-27T13%3A27%3A06.812Z",
+    "https://abdm.gov.in/strapicms/uploads/e_Sushrut_Clinic_Brochure_Design_v3_ad23af76fd.pdf",
+    "https://abdm.gov.in/HMIS-lite"
+  ],
+  "last_updated_date": "27/02/2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:07:43.907222+00:00"
+}

@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-69",
+  "scheme_name": "IndiaStack Initiatives",
+  "scheme_url": "https://indiastack.org",
+  "ministry_or_category": "Digital India",
+  "overview": "IndiaStack Initiatives is a collection of open APIs and digital public goods that aim to unlock the economic primitives of identity, data, and payments at population scale. It is a vision for financial and social inclusion, serving as national plumbing for the Internet Age. Inspired by open-source software and interoperability, IndiaStack enables people and businesses to access services like Aadhaar-based identity verification, digital signatures, UPI payments, and consent-based data sharing through DEPA.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "individuals",
+    "businesses",
+    "startups",
+    "MSMEs",
+    "fintechs",
+    "financial institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Unlock economic primitives of identity, data, and payments at population scale",
+    "Promote financial and social inclusion through digital infrastructure",
+    "Enable interoperability and open access to digital services via standardized APIs",
+    "Empower users with control over their personal data via DEPA framework",
+    "Support innovation in fintech, healthtech, and other sectors through open networks",
+    "Facilitate paperless, secure, and cost-effective service delivery"
+  ],
+  "eligibility": "Eligibility varies by component: Aadhaar-based services (e-auth, e-KYC) are available to banks, licensed NBFCs, telecom companies, and government bodies; other entities may use QR code scans, e-Aadhaar, or offline XML. For eSign ASP onboarding, eligible entities include Central/State Government ministries, authorities under Central/State Act, not-for-profit organizations of national importance, banks/financial/telecom companies, or any legal entity registered in India meeting criteria such as incorporation under Companies Act 1956 and no blacklisting by government bodies.",
+  "benefits": "Non-financial benefits include secure digital identity verification, legally valid digital signatures, access to digitally signed documents via DigiLocker, consent-based data sharing, and open network participation. Financial benefits include reduced KYC costs (from ~$23 to ~$0.15), real-time low-cost payments via UPI, and access to credit and financial products through verified data trails.",
+  "financial_support": "IndiaStack does not provide direct financial support such as grants or loans. It enables financial inclusion and access to credit through indirect mechanisms like UPI for real-time payments, Account Aggregators for consent-based data sharing, and e-KYC reducing verification costs for financial institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "For eSign ASP onboarding: 1. Submit application form to ESP. 2. Submit supporting documents for KYC. 3. Accept terms of eSign service. 4. Submit Digital Signature Certificate (public key). 5. Integrate API in testing/preproduction environment. 6. Conduct audit and submit report. 7. Obtain readiness confirmation and Go-Live approval. 8. Obtain production access certificate. For general use: developers can access APIs via sandbox environments provided by intermediaries like Digio, Karza, Signzy, or OnGrid.",
+  "application_portal_url": "https://indiastack.org",
+  "required_documents": [
+    "Application form (specific to ESP)",
+    "Supporting documents for KYC verification",
+    "Digital Signature Certificate (public key)",
+    "Audit report",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Multiple agencies: Unique ID Authority of India (UIDAI) for Aadhaar, Ministry of Communications and Information Technology for eSign, Ministry of Electronics and Information Technology for Digilocker, National Payments Corporation of India (NPCI) for UPI, RBI for Account Aggregator framework",
+  "contact_details": "Email: annaroy@nic.in (for DEPA comments as per NITI Aayog document), volunteer with iSPIRT at ispirt.in",
+  "caveats": [
+    "e-auth and e-KYC services are only available to banks, licensed NBFCs, telecom companies, and government bodies",
+    "DEPA framework was draft for discussion as of August 2020, with comments requested by 1st October 2020",
+    "Account Aggregator framework went live with 8 banks in 2021",
+    "UPI transaction volumes crossed 4 billion monthly in 2021"
+  ],
+  "source_cited_notes": [
+    "https://indiastack.org",
+    "https://indiastack.org/index.html",
+    "https://indiastack.org/identity.html",
+    "https://indiastack.org/payments.html",
+    "https://indiastack.org/data.html",
+    "https://indiastack.org/open-networks.html",
+    "https://indiastack.org/faq.html",
+    "https://uidai.gov.in/images/aadhaar_ekyc_api_2_0.pdf",
+    "https://cca.gov.in/sites/files/pdf/esign/CCA-ASP.pdf",
+    "https://niti.gov.in/sites/default/files/2020-09/DEPA-Book_0.pdf"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:55:50.156785+00:00"
+}

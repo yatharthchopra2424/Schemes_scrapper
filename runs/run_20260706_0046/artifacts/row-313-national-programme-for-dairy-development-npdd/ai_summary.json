@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-313",
+  "scheme_name": "National Programme for Dairy Development (NPDD)",
+  "scheme_url": "https://dahd.nic.in/npdd",
+  "ministry_or_category": "Animal Husbandry",
+  "overview": "The National Programme for Dairy Development (NPDD) is a centrally sponsored scheme launched by the Department of Animal Husbandry and Dairying (DAHD) to strengthen dairy infrastructure, enhance milk quality, and increase organized milk procurement across India. It focuses on creating and strengthening infrastructure for production, procurement, processing, and marketing of milk and milk products through financial and technical assistance to state governments and implementing agencies.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "state governments",
+    "milk unions",
+    "milk producer companies",
+    "dairy cooperatives",
+    "private dairy enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance quality of milk and milk products",
+    "Increase share of organized milk procurement",
+    "Upgrade dairy processing infrastructure",
+    "Strengthen value-added milk product manufacturing",
+    "Improve access to markets for milk producers",
+    "Promote dairy entrepreneurship and employment generation"
+  ],
+  "eligibility": "State governments, milk unions, milk producer companies, dairy cooperatives, and private dairy enterprises are eligible to apply for financial assistance under NPDD for setting up or strengthening dairy infrastructure projects related to milk production, procurement, processing, and marketing.",
+  "benefits": "Financial assistance for setting up new dairy projects and strengthening existing ones, including infrastructure for milk chilling, processing, value addition, packaging, and marketing. Technical support for quality improvement, training, and capacity building. Assistance for creating forward and backward linkages in the dairy value chain.",
+  "financial_support": "The scheme provides financial assistance in the form of grants-in-aid and subsidies to eligible implementing agencies. The funding pattern varies by component and beneficiary type, with central government contributing up to 60% of project cost (90% for hilly and northeastern states), and the balance borne by the state government or implementing agency. Assistance is released in installments based on project progress and utilization certificates.",
+  "fund_size_crores": "1790",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State governments or eligible entities submit project proposals to the Department of Animal Husbandry and Dairying (DAHD). 2. Proposals are appraised by the Project Sanctioning Committee (PSC) under DAHD. 3. Upon approval, sanction letters are issued specifying the financial assistance and terms. 4. Funds are released in installments against utilization certificates and physical progress reports. 5. Projects are monitored through periodic inspections and third-party evaluations.",
+  "application_portal_url": "https://dahd.nic.in/npdd",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "No Objection Certificate (NOC) from concerned authorities",
+    "Financial appraisal report from bank/financial institution",
+    "Environmental clearance (if applicable)",
+    "Undertaking on compliance with scheme guidelines",
+    "Utilization certificates and progress reports (for installment release)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and approval by the Project Sanctioning Committee.",
+  "implementing_agency": "Department of Animal Husbandry and Dairying (DAHD), Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the scheme",
+    "Projects must comply with technical standards and guidelines issued by DAHD",
+    "Beneficiaries must submit utilization certificates and progress reports for subsequent installments",
+    "Land must be in possession of the implementing agency before project approval"
+  ],
+  "source_cited_notes": [
+    "https://dahd.nic.in/npdd"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:13:51.457204+00:00"
+}

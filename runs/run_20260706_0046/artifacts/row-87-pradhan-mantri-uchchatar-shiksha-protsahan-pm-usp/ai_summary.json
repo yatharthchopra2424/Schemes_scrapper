@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-87",
+  "scheme_name": "Pradhan Mantri Uchchatar Shiksha Protsahan (PM-USP)",
+  "scheme_url": "https://scholarship.up.gov.in",
+  "ministry_or_category": "Education & Skilling",
+  "overview": "The Uttar Pradesh Scholarship Portal provides financial assistance to students from various categories including SC, ST, General, Minority, and OBC for pre-matric (classes 9-10) and post-matric (classes 11-12 and beyond) education. The scheme covers tuition fees, maintenance allowances, and other educational expenses through direct benefit transfer to eligible students.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "SC",
+    "ST",
+    "General",
+    "Minority",
+    "OBC"
+  ],
+  "geographic_scope": "Uttar Pradesh only",
+  "objectives": [
+    "Provide financial assistance to students from disadvantaged sections for pre-matric education",
+    "Support post-matric education through scholarships and fee reimbursement",
+    "Ensure timely disbursement of scholarship funds via Direct Benefit Transfer (DBT)",
+    "Promote education among SC, ST, Minority, and OBC communities",
+    "Reduce dropout rates by alleviating financial burden on students"
+  ],
+  "eligibility": "Students belonging to SC, ST, General, Minority, and OBC categories studying in recognized educational institutions in Uttar Pradesh are eligible. For pre-matric (classes 9-10), the scheme covers students from SC, ST, General, Minority, and OBC. For post-matric (classes 11-12 and beyond), eligibility extends to SC, ST, General, Minority, and OBC students pursuing intermediate, graduation, post-graduation, or professional courses. Applicants must have a bank account linked with Aadhaar and complete One Time Registration (OTR) before applying.",
+  "benefits": "Financial benefits include maintenance allowance, tuition fee reimbursement, and other educational expenses. Non-financial benefits include access to education for disadvantaged groups, reduced dropout rates, and empowerment through educational support. Specific amounts vary by category and course: pre-matric scholarship provides up to ₹150 per month for 10 months, while post-matric includes fee reimbursement and maintenance allowance as per government norms.",
+  "financial_support": "Financial support is provided through Direct Benefit Transfer (DBT) to students' Aadhaar-linked bank accounts. The scheme covers maintenance allowance, tuition fees, and other educational charges. For pre-matric (classes 9-10), the rate is ₹150 per month for 10 months. For post-matric, it includes full tuition fee reimbursement and maintenance allowance as per government norms, with disbursement tracked via the Public Financial Management System (PFMS).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Complete One Time Registration (OTR) on the Uttar Pradesh Scholarship Portal. 2. Log in using registered credentials. 3. Fill the online application form for the respective scholarship category (pre-matric or post-matric). 4. Upload required documents including caste certificate, income certificate, mark sheets, and bank details. 5. Submit the application online. 6. Take a printout of the submitted application. 7. Submit the hard copy with attached documents to the educational institution. 8. Institution verifies and forwards the application online. 9. University/affiliating agency verifies student details and course eligibility. 10. NIC conducts scrutiny of applications. 11. District committee locks verified data. 12. Funds are transferred to beneficiaries' accounts after verification.",
+  "application_portal_url": "https://scholarship.up.gov.in",
+  "required_documents": [
+    "Caste certificate",
+    "Income certificate",
+    "Mark sheets of previous qualifying examination",
+    "Bank passbook showing Aadhaar seeding",
+    "Aadhaar card",
+    "Admission proof from educational institution",
+    "Fee receipt (if applicable)",
+    "Domicile certificate",
+    "Passport size photograph",
+    "Declaration form"
+  ],
+  "deadlines": "Application window: July 10, 2025 to January 14, 2026 for student registration/online application for session 2025-26. Hard copy submission deadline: July 02, 2025 to January 21, 2026. Final printout: July 12, 2025 to January 17, 2026.",
+  "implementing_agency": "Department of Social Welfare, Government of Uttar Pradesh",
+  "contact_details": "Email: Not explicitly provided | Helpline: CM Helpline no. (as mentioned in Important Links section)",
+  "caveats": [
+    "Aadhaar seeding in bank account is mandatory for scholarship disbursement",
+    "One Time Registration (OTR) is compulsory from academic session 2025-26 before applying",
+    "Applications must be submitted online first, followed by hard copy submission to the institution",
+    "Incomplete or erroneous applications must be corrected by students within the stipulated time",
+    "Scholarship is subject to verification of student attendance, course continuation, and eligibility by educational institutions and authorities"
+  ],
+  "source_cited_notes": [
+    "https://scholarship.up.gov.in",
+    "https://scholarship.up.gov.in/index-hi.aspx",
+    "https://scholarship.up.gov.in/RegisterInstitute.aspx",
+    "https://scholarship.up.gov.in/RegistrationNew.aspx",
+    "https://scholarship.up.gov.in/Student2425/RegistrationNew.aspx"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:10:22.521304+00:00"
+}

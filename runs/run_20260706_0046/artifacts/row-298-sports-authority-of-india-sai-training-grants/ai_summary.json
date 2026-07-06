@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-298",
+  "scheme_name": "Sports Authority of India (SAI) Training Grants",
+  "scheme_url": "https://sai.gov.in",
+  "ministry_or_category": "Sports",
+  "overview": "The Sports Authority of India (SAI) Training Grants scheme provides financial assistance to athletes, coaches, and sports institutions for training, equipment, and competition participation. It aims to support the development of sporting talent across various disciplines and levels, from grassroots to elite. The scheme is implemented by SAI under the Ministry of Youth Affairs and Sports to enhance India's performance in national and international sports events.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "athletes",
+    "coaches",
+    "sports institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial support for training and development of athletes",
+    "Assist in procurement of sports equipment and kit",
+    "Support participation in national and international competitions",
+    "Enhance coaching standards through training and development programs",
+    "Promote sports excellence at sub-junior, junior, and senior levels"
+  ],
+  "eligibility": "Eligible beneficiaries include individual athletes, coaches, and sports institutions recognized by SAI or affiliated with National Sports Federations (NSFs). Athletes must be registered with SAI or recommended by NSFs. Coaches must possess recognized qualifications. Institutions must be SAI-accredited training centers or recognized sports academies.",
+  "benefits": "Financial assistance for training expenses, sports equipment, competition travel, coaching fees, and stipends. Non-financial benefits include access to SAI facilities, expert coaching, sports science support, and exposure to national/international competitions.",
+  "financial_support": "Grants are provided based on the athlete's level, sport discipline, and training requirements. The quantum of support varies and is determined by SAI's expert committees. Funds are disbursed directly to beneficiaries or institutions after approval of training plans and expenditure proposals.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the appropriate SAI training grant scheme based on athlete level and sport. 2. Obtain recommendation from the respective National Sports Federation (NSF) or SAI regional center. 3. Submit application along with required documents to the concerned SAI office. 4. Application is reviewed by SAI's expert committee. 5. Upon approval, sanction letter is issued. 6. Funds are released in installments as per the approved training plan and utilization certificates.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form (as prescribed by SAI)",
+    "Recommendation letter from National Sports Federation (NSF) or SAI regional center",
+    "Proof of age and identity (Aadhaar, birth certificate, etc.)",
+    "Sports achievement certificates and performance records",
+    "Training plan and budget estimate",
+    "Bank account details for fund transfer",
+    "Previous utilization certificates (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year based on training cycles and competition schedules.",
+  "implementing_agency": "Sports Authority of India (SAI), Ministry of Youth Affairs and Sports",
+  "contact_details": "",
+  "caveats": [
+    "Grants are subject to availability of funds and SAI's annual budget allocation",
+    "Beneficiaries must submit utilization certificates and progress reports",
+    "Support may be withdrawn for non-compliance with training plans or false information",
+    "Priority is given to Olympic, Paralympic, Asian Games, and Commonwealth Games disciplines"
+  ],
+  "source_cited_notes": [
+    "https://sai.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:03:28.524139+00:00"
+}

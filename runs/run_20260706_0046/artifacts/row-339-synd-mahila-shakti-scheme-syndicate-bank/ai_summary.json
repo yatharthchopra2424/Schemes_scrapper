@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-339",
+  "scheme_name": "Synd Mahila Shakti Scheme (Syndicate Bank)",
+  "scheme_url": "https://www.canarabank.com",
+  "ministry_or_category": "Women Entrepreneurship",
+  "overview": "The Synd Mahila Shakti Scheme is a loan product offered by Syndicate Bank (now merged with Canara Bank) specifically designed to support women entrepreneurs. It provides financial assistance to women for starting or expanding business ventures, with a focus on promoting women's economic empowerment and entrepreneurship. The scheme is part of the bank's priority sector lending initiatives aimed at fostering inclusive growth.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote entrepreneurship among women",
+    "To provide financial assistance for setting up and expanding women-owned businesses",
+    "To enhance economic empowerment and self-reliance of women",
+    "To support women-led micro, small, and medium enterprises (MSMEs)",
+    "To encourage women's participation in economic development"
+  ],
+  "eligibility": "The scheme is available to women entrepreneurs who are Indian citizens and wish to start or expand a business venture. Applicants must be sole proprietors, partners in a partnership firm, or directors of a private limited company where women hold majority stake. The business activity should be viable and fall under permissible sectors as per bank guidelines.",
+  "benefits": "Financial support for business setup, expansion, or working capital needs; concessional interest rates compared to standard loans; simplified documentation process; quick loan approval and disbursal; no collateral requirement for loans up to a certain limit (as per bank's policy); and support for various business activities including manufacturing, services, and trading.",
+  "financial_support": "The scheme provides term loans and working capital finance to women entrepreneurs. The loan amount, interest rate, and repayment tenure are determined based on the project cost, viability, and borrower's repayment capacity. Specific quantum and terms are assessed on a case-by-case basis by the bank.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest Canara Bank branch (formerly Syndicate Bank) or access the bank's online portal. 2. Obtain and fill out the loan application form for the Synd Mahila Shakti Scheme. 3. Submit the completed application along with required documents. 4. Bank officials will verify the documents and assess the project viability. 5. Upon approval, the loan amount will be sanctioned and disbursed as per the agreed terms.",
+  "application_portal_url": "https://www.canarabank.com",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, Voter ID, Passport)",
+    "Proof of address (Aadhaar, utility bill, passport)",
+    "Business plan or project report",
+    "Proof of business ownership/partnership/directorship",
+    "Bank statements (if existing account)",
+    "Quotations for machinery/equipment (if applicable)",
+    "Licenses and permits related to business activity",
+    "Income tax returns (if applicable)",
+    "Collateral documents (if loan amount exceeds collateral-free limit)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Canara Bank",
+  "contact_details": "",
+  "caveats": [
+    "Loan approval is subject to credit assessment and project viability",
+    "Interest rates may vary based on credit score and loan amount",
+    "Collateral may be required for higher loan amounts",
+    "The scheme is subject to the bank's internal policies and RBI guidelines",
+    "Merger of Syndicate Bank with Canara Bank may have led to product integration or rebranding"
+  ],
+  "source_cited_notes": [
+    "https://www.canarabank.com",
+    "https://canarabank.com/priority-portal"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:34:41.756268+00:00"
+}

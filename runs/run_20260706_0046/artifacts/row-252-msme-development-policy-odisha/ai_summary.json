@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-252",
+  "scheme_name": "MSME Development Policy Odisha",
+  "scheme_url": "https://msme.odisha.gov.in",
+  "ministry_or_category": "State Level (Odisha)",
+  "overview": "The Odisha MSME Development Policy, 2016 is a state-level initiative by the Government of Odisha to promote the growth and competitiveness of Micro, Small, and Medium Enterprises (MSMEs) through a comprehensive framework of enabling, supporting, and financial incentives. It aims to encourage new manufacturing capacity, provide a conducive ecosystem for MSMEs in potential sectors, maximize employment generation for youth, facilitate access to domestic and export markets, and make focused efforts for revival of sick enterprises and sustainable, inclusive growth. The policy integrates state and central government schemes, develops infrastructure like MSME parks and product-specific clusters, and offers financial support including capital investment subsidies, seed capital assistance, and trade mark assistance.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Odisha only",
+  "objectives": [
+    "Encourage new manufacturing capacity based on improved competitiveness",
+    "Provide a conducive eco-system for promotion and growth of MSMEs in potential sectors",
+    "Provide opportunities to local entrepreneurial talent",
+    "Maximize avenues of employment generation for the youth",
+    "Facilitate MSMEs in accessing domestic and export markets",
+    "Make concerted efforts for revival of sick enterprises",
+    "Make focussed efforts for sustainable, inclusive & balanced growth"
+  ],
+  "eligibility": "Eligibility varies by incentive type. For Capital Investment Subsidy, new Micro & Small Enterprises are eligible @25% of capital investment in Plant & Machinery subject to an upper limit of Rs.1 crore; new Micro & Small Enterprises owned by SC, ST are eligible @33% subject to Rs.1.5 crore; new Micro & Small Enterprises owned by women are eligible @30% subject to Rs.1.25 crore. For Seed Capital Assistance, assistance up to Rs.10 lakh per unit is available for project report preparation and other pre-operative expenses. General eligibility requires enterprises to be registered under the MSME Act, have commenced fixed capital investment on or after the policy's effective date, and commence production within three years for MSMEs and five years for large industries from the date of starting fixed capital investment.",
+  "benefits": "Benefits include Capital Investment Subsidy (up to Rs.1 crore for general enterprises, higher for SC/ST/women), Seed Capital Assistance (up to Rs.10 lakh), Project Report Subsidy (50% of cost, max Rs.25,000), Reimbursement of Audit Cost for Water Conservation (50% of cost, max Rs.10,000), Assistance for raising capital through SME Exchange (50% of listing expenses, max Rs.2 lakh), Trade Mark Assistance (50% of fees for domestic registration, max Rs.10,000; 50% for international, max Rs.50,000), Reimbursement of Training Expenditure (50% of cost, max Rs.5,000 per person), and Awards to MSME Enterprises/Entrepreneurs (cash prizes up to Rs.1 lakh). Non-financial benefits include infrastructure development via MSME parks, cluster development, credit flow facilitation, marketing assistance through MSME e-Bazaar portal, export promotion support, raw material supply through OSIC/NSIC, and technology up-gradation awareness.",
+  "financial_support": "Financial support is delivered through various subsidies and assistances. Capital Investment Subsidy provides @25% of capital investment in Plant & Machinery for new Micro & Small Enterprises, subject to an upper limit of Rs.1 crore (higher limits for SC/ST/women enterprises). Seed Capital Assistance offers up to Rs.10 lakh per unit for project report preparation and pre-operative expenses. Project Report Subsidy covers 50% of cost, max Rs.25,000. Reimbursement of Audit Cost for Water Conservation provides 50% of cost, max Rs.10,000. Assistance for raising capital through SME Exchange covers 50% of listing expenses, max Rs.2 lakh. Trade Mark Assistance provides 50% of fees for domestic registration (max Rs.10,000) and international (max Rs.50,000). Reimbursement of Training Expenditure offers 50% of cost, max Rs.5,000 per person. Awards to MSME Enterprises/Entrepreneurs include cash prizes up to Rs.1 lakh. These are administered via an online mechanism for time-bound sanction and release of incentives.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Enterprises must first register under the MSME Act and obtain Udyam Registration. 2. Identify the specific incentive scheme under the Odisha MSME Development Policy, 2016 (e.g., Capital Investment Subsidy, Seed Capital Assistance). 3. Prepare the required documents including project reports, quotations, bank sanction letters, and proof of investment. 4. Submit the application online through the MSME Department's designated portal or offline at the District Industries Centre (DIC) or Regional Industries Centre (RIC). 5. The application is scrutinized by the State Directorate Level Committee (SDLC) or relevant committee based on investment size. 6. Upon approval, the incentive is sanctioned and released through direct benefit transfer or reimbursement after verification of expenditure and installation.",
+  "application_portal_url": "https://msme.odisha.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Project Report",
+    "Quotations for Plant & Machinery",
+    "Bank Sanction Letter for Loan (if applicable)",
+    "Proof of Payment for Capital Investment",
+    "Certificate of Commencement of Production",
+    "Partnership Deed / Certificate of Incorporation",
+    "PAN Card of the Enterprise",
+    "Aadhaar of Proprietor/Partner/Director",
+    "Factory License / Trade License",
+    "Site Plan / Layout Plan",
+    "Pollution Clearance Certificate (if applicable)",
+    "Caste Certificate (for SC/ST beneficiaries)",
+    "Gender Certificate (for women beneficiaries)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per the Operational Guidelines and notifications issued from time to time.",
+  "implementing_agency": "Micro, Small & Medium Enterprises Department, Government of Odisha",
+  "contact_details": "Email: secy-msme.od@od.gov.in | Phone: 0674-2391384",
+  "caveats": [
+    "Incentives are not available if similar incentives are availed under any other State or Central Government policies",
+    "Enterprises must file claims complete in all respects within 2 years of commencement of production to remain eligible (as amended in 2023)",
+    "One-time relaxation allows MSMEs that commenced production but missed the deadline to file claims by 30.06.2023 to become eligible",
+    "Government may consider condonation of delay beyond 2 years due to force majeure on case-to-case basis via Empowered Committee recommendation",
+    "Capital Investment Subsidy upper limits vary: Rs.1 crore (general), Rs.1.5 crore (SC/ST), Rs.1.25 crore (women)",
+    "Assistance is subject to availability of funds and approval by the respective Level Committee (DLC/SDLC/SLC)"
+  ],
+  "source_cited_notes": [
+    "https://msme.odisha.gov.in/sites/default/files/2020-05/FINALbyDI%28O%29-Odisha_MSME_Dev._Policy1.pdf",
+    "https://msme.odisha.gov.in/sites/default/files/2020-05/FINALbyDI%28O%29-Odisha_MSME_Dev_Policy.pdf",
+    "https://msme.odisha.gov.in/sites/default/files/2023-02/1292_0_0.pdf",
+    "https://msme.odisha.gov.in/sites/default/files/2023-02/1287_compressed.pdf"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:41:04.840764+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-250",
+  "scheme_name": "MP MSME Development Policy",
+  "scheme_url": "https://mpmsme.gov.in",
+  "ministry_or_category": "State Level (Madhya Pradesh)",
+  "overview": "The MP MSME Development Policy 2025 is a state-level initiative by the Government of Madhya Pradesh aimed at promoting the growth and competitiveness of Micro, Small, and Medium Enterprises (MSMEs) through financial assistance, infrastructure support, and policy incentives. It focuses on strengthening MSMEs by providing access to credit, technology, and market opportunities, while also encouraging rural entrepreneurship and employment generation. The policy includes provisions for land allotment, cluster development, and support for self-employment schemes, with implementation through the Department of Micro, Small & Medium Enterprises.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "rural entrepreneurs"
+  ],
+  "geographic_scope": "Madhya Pradesh only",
+  "objectives": [
+    "Strengthen MSMEs to make them competent and foster their development",
+    "Promote socio-economic growth and employment opportunities in Madhya Pradesh",
+    "Encourage rural entrepreneurship and empower rural people, especially women",
+    "Provide access to credit, technology, and local and global markets for MSMEs",
+    "Develop industrial clusters to provide common minimum facilities to MSMEs",
+    "Support youth in establishing enterprises at their hometowns/villages through self-employment schemes"
+  ],
+  "eligibility": "Eligible beneficiaries include Micro, Small, and Medium Enterprises (MSMEs) as defined under the MSMED Act, 2006, operating in Madhya Pradesh. The policy applies to new and existing MSMEs engaged in manufacturing, services, and agro-based activities. Specific schemes under the policy may have additional criteria such as investment limits, employment generation, and location-based preferences for rural or backward areas.",
+  "benefits": "Benefits include financial assistance for industrial land allotment, support for cluster development, access to infrastructure and testing facilities, assistance under self-employment schemes, support for technology upgradation and quality certification, marketing assistance, and facilitation of credit linkage. The policy also provides incentives for women entrepreneurs, SC/ST beneficiaries, and units in backward areas, along with support for export promotion and participation in national/international events.",
+  "financial_support": "Financial assistance is provided through schemes like the MP MSME Promotion Scheme 2025 and MP MSME Incentive Scheme 2025, which include subsidies for land allotment, interest subvention, capital investment support, and reimbursement for quality certification and patent filing. Assistance is disbursed through a single-click mechanism via the department’s online portal, with funds transferred directly to eligible beneficiaries’ bank accounts after verification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official MP MSME website (https://mpmsme.gov.in). 2. Navigate to the relevant scheme section (e.g., MP MSME Promotion Scheme 2025 or Incentive Scheme). 3. Download the application proforma and guidelines. 4. Fill in the required details and attach supporting documents. 5. Submit the application online through the designated portal or offline at the District Trade and Industries Centre. 6. Applications are scrutinized by the concerned authorities. 7. Upon approval, financial assistance is disbursed through direct bank transfer.",
+  "application_portal_url": "https://mpmsme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "PAN of the entity",
+    "Aadhaar of the authorized signatory",
+    "Bank account details (cancelled cheque or passbook)",
+    "Project report or business plan",
+    "Quotations for machinery/equipment",
+    "Land allotment order or lease agreement (if applicable)",
+    "Caste certificate (for SC/ST beneficiaries)",
+    "Gender certificate (for women entrepreneurs)",
+    "Affidavit as per prescribed format"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per scheme notifications.",
+  "implementing_agency": "Department of Micro, Small & Medium Enterprises, Government of Madhya Pradesh",
+  "contact_details": "Email: Not explicitly mentioned in evidence | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Financial assistance is subject to availability of funds and budget allocation",
+    "Benefits under the scheme are contingent upon compliance with Udyam Registration and MSMED Act, 2006",
+    "Assistance may be withdrawn if false information or documents are submitted",
+    "Land allotment benefits are subject to availability in notified industrial areas",
+    "Certain incentives are only available for new units commencing production after the policy’s effective date"
+  ],
+  "source_cited_notes": [
+    "https://mpmsme.gov.in",
+    "https://mpmsme.gov.in/website/how-to-apply",
+    "https://mpmsme.gov.in/mpmsmecms/Uploaded%20Document/Documents/MP%20MSME%20Incentive%20Scheme%202025.pdf",
+    "https://mpmsme.gov.in/mpmsmecms/Uploaded%20Document/Documents/Application%20Proforma%20and%20Affidavit.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:38:04.834201+00:00"
+}

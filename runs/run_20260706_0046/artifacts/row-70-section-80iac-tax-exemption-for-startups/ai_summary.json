@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-70",
+  "scheme_name": "Section 80IAC – Tax Exemption for Startups",
+  "scheme_url": "https://www.incometax.gov.in",
+  "ministry_or_category": "Tax Incentives",
+  "overview": "Section 80IAC of the Income Tax Act provides a tax exemption to eligible startups for three consecutive assessment years out of their first ten years from incorporation. The scheme aims to promote innovation and entrepreneurship by reducing the tax burden on startups during their early growth phase. To qualify, startups must obtain recognition from the Department for Promotion of Industry and Internal Trade (DPIIT) and secure approval from the Inter-Ministerial Board (IMB). The exemption applies to 100% of profits and gains from eligible business activities.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide tax relief to startups during their initial years of operation",
+    "Encourage innovation and entrepreneurship in India",
+    "Support early-stage startups by reducing their tax liability",
+    "Promote sustainable business growth through fiscal incentives"
+  ],
+  "eligibility": "The startup must be a private limited company or a limited liability partnership (LLP) registered under the Companies Act, 2013 or the Limited Liability Partnership Act, 2008. It must have been incorporated on or after 1st April 2016. The turnover of the startup must not exceed INR 100 crore in any of the financial years since incorporation. The startup must be working towards innovation, development or improvement of products or processes or services, or if it is a scalable business model with a high potential of employment generation or wealth creation. The startup must obtain DPIIT recognition and subsequently secure approval from the Inter-Ministerial Board (IMB) set up by DPIIT.",
+  "benefits": "100% tax exemption on profits and gains derived from eligible business for three consecutive assessment years out of the first ten years from incorporation. The exemption is available at the option of the assessee for any three assessment years out of the ten years. This benefit reduces the effective tax liability to zero for the selected years, thereby improving cash flow and retained earnings for reinvestment.",
+  "financial_support": "The scheme provides a direct financial benefit in the form of tax savings, where eligible startups can claim exemption from paying income tax on their profits for up to three years. The quantum of support is equivalent to the tax amount that would have been payable on the profits from eligible business during the exempted years, calculated at the applicable corporate tax rate. There is no upper monetary cap on the exemption amount, as it is based on actual profits.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Incorporate the business as a Private Limited Company or LLP. 2. Obtain DPIIT recognition by registering on the Startup India portal (https://www.startupindia.gov.in) and submitting the recognition application. 3. After receiving DPIIT recognition, apply for approval from the Inter-Ministerial Board (IMB) via Form 1 of the Income Tax Rules. 4. Submit Form 1 along with required documents to the IMB through the designated channel. 5. Upon IMB approval, claim the tax exemption under Section 80IAC while filing the income tax return for the relevant assessment year(s).",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the startup",
+    "Audited financial statements",
+    "Details of nature of business highlighting innovation, scalability, and employment/wealth creation potential",
+    "Declaration regarding turnover not exceeding INR 100 crore",
+    "DPIIT recognition certificate",
+    "Any other documents as may be required by the IMB"
+  ],
+  "deadlines": "Applications for IMB approval can be made at any time; there is no fixed deadline. However, the tax exemption must be claimed in the income tax return for the relevant assessment year within the time allowed under the Income Tax Act.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "The tax exemption under Section 80IAC is contingent upon obtaining prior approval from the Inter-Ministerial Board (IMB)",
+    "The benefit is available for only three consecutive assessment years out of the first ten years from incorporation",
+    "If the turnover exceeds INR 100 crore in any financial year, the startup loses eligibility for future tax benefits under this section",
+    "The startup must continue to meet the innovation and scalability criteria to maintain eligibility"
+  ],
+  "source_cited_notes": [
+    "https://www.incometax.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:55:53.232809+00:00"
+}

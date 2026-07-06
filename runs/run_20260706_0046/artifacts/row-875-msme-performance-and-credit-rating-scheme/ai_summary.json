@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-875",
+  "scheme_name": "MSME Performance and Credit Rating Scheme",
+  "scheme_url": "https://msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The MSME Performance and Credit Rating Scheme aims to enhance the creditworthiness and market perception of Micro, Small, and Medium Enterprises (MSMEs) by providing independent credit ratings and performance assessments. The scheme facilitates easier access to credit at favorable terms by certifying the financial health and operational capabilities of participating enterprises. It supports MSMEs in building credibility with lenders, investors, and business partners through standardized evaluation mechanisms.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide independent credit rating and performance assessment of MSMEs",
+    "To enhance creditworthiness and facilitate easier access to institutional credit",
+    "To improve market perception and credibility of MSMEs with lenders and investors",
+    "To support MSMEs in obtaining favorable loan terms based on certified performance",
+    "To promote transparency and standardization in MSME evaluation across sectors"
+  ],
+  "eligibility": "Manufacturing or service sector MSMEs with valid Udyam Registration (UR) Certificate are eligible to apply under the scheme. Enterprises must be operational and engaged in legitimate business activities as per MSME classification criteria.",
+  "benefits": "Benefits include improved access to credit at preferential interest rates, enhanced credibility with financial institutions and buyers, better negotiation power for loan terms, increased visibility in government procurement and trade platforms, and support for market expansion through certified performance ratings.",
+  "financial_support": "The scheme provides financial assistance in the form of a subsidy for the cost of obtaining credit rating and performance assessment from accredited agencies. The subsidy covers a significant portion of the rating fee, reducing the financial burden on MSMEs seeking certification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain valid Udyam Registration (UR) Certificate. 2. Select an accredited credit rating agency empaneled under the scheme. 3. Submit application through the designated MSME portal or implementing agency. 4. Provide required documents including Udyam Registration, financial statements, and business details. 5. Undergo evaluation by the rating agency. 6. Receive credit rating and performance certificate. 7. Claim reimbursement of eligible expenses as per subsidy norms.",
+  "application_portal_url": "https://my.msme.gov.in/MyMsme/Reg/COM_ViewEvent.aspx",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Audited financial statements for the last 2-3 years",
+    "Bank account statements",
+    "Business registration documents (Partnership deed, Incorporation certificate, etc.)",
+    "Details of promoters and directors",
+    "Project report or business profile",
+    "Proof of address of business unit",
+    "PAN card of the enterprise",
+    "GST registration certificate (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Office of the Development Commissioner (MSME), Ministry of Micro, Small & Medium Enterprises",
+  "contact_details": "Email: pms[dot]division[at]dcmsme[dot]gov[dot]in | Phone: 011-23061198",
+  "caveats": [
+    "Subsidy is available only for ratings obtained from empaneled agencies",
+    "Benefits are subject to availability of funds under the scheme",
+    "Enterprises must not have availed similar subsidy from other government sources for the same purpose",
+    "The scheme applies only to Micro and Small Enterprises (MSEs), not medium enterprises",
+    "Claims must be submitted within 30 days of completion of the rating process"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-1-QzMzETMtQWa",
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-2-YjNzETMtQWa",
+    "https://msme.gov.in/static/uploads/2026/06/89c36d04131a60b200a88177b91317c8.pdf"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:39:18.061889+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-445",
+  "scheme_name": "PLI for Large Scale Electronics Manufacturing",
+  "scheme_url": "https://www.meity.gov.in/pli",
+  "ministry_or_category": "Electronics Manufacturing",
+  "overview": "The Production Linked Incentive (PLI) Scheme for Large Scale Electronics Manufacturing is a Government of India initiative aimed at boosting domestic manufacturing and exports in the electronics sector. It provides financial incentives to eligible companies based on incremental sales of goods manufactured in India over a period of five years. The scheme targets large-scale electronics manufacturing units to enhance India's position in global electronics value chains.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "large-scale electronics manufacturers",
+    "domestic companies",
+    "foreign companies with manufacturing units in India"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance India's manufacturing capabilities in electronics",
+    "To attract large investments in electronics manufacturing",
+    "To reduce dependence on electronics imports",
+    "To promote exports of manufactured electronics goods",
+    "To create employment opportunities in the electronics sector",
+    "To integrate India into global electronics supply chains"
+  ],
+  "eligibility": "Eligible applicants include companies engaged in manufacturing of specified electronic goods in India, with a minimum threshold of investment and incremental sales as defined under the scheme guidelines. Both domestic and foreign companies setting up new manufacturing units or expanding existing ones in India are eligible to apply.",
+  "benefits": "Financial incentives in the form of production-linked incentives on incremental sales of manufactured goods over the base year. Non-financial benefits include facilitation of clearances, single-window approvals, and support for setting up manufacturing units through coordination with central and state agencies.",
+  "financial_support": "The scheme provides incentives ranging from 4% to 6% on incremental sales (over base year) of goods manufactured in India, for a period of five years. The incentive is disbursed annually based on verified sales and investment claims submitted by the approved applicants.",
+  "fund_size_crores": "40951",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application online through the designated portal 2. Provide details of proposed investment, manufacturing capacity, and employment generation 3. Upload required documents including incorporation certificates, project reports, and bank details 4. Application reviewed by the Project Management Agency (PMA) 5. Shortlisted applicants invited for presentation before the Empowered Committee 6. Final approval granted by the Empowered Committee based on evaluation criteria 7. Signing of approval letter and commencement of production 8. Annual submission of claims for incentive based on verified incremental sales",
+  "application_portal_url": "https://www.meity.gov.in/pli",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association",
+    "Board resolution authorizing application",
+    "Project report detailing investment, capacity, and timelines",
+    "Details of promoters and directors",
+    "Bank account details and audited financial statements",
+    "Land documents or lease agreement for manufacturing unit",
+    "Details of proposed plant and machinery",
+    "Employment generation plan",
+    "Undertaking regarding compliance with scheme guidelines"
+  ],
+  "deadlines": "Application window varies by component; specific timelines are notified through official circulars on the MeitY website.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: cei[at]meity[dot]gov[dot]in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Incentive is disbursed only after verification of claims and achievement of threshold incremental sales",
+    "Approval is contingent upon achieving committed investment within the stipulated timeframe",
+    "Scheme period is limited to five years from the date of approval",
+    "Only companies manufacturing in the specified target segments are eligible"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/pli",
+    "https://meity.gov.in/documents/guidelines",
+    "https://meity.gov.in/documents/gazettes-notifications"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:35:32.607937+00:00"
+}

@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-400",
+  "scheme_name": "PM Surya Ghar Subsidy – Rooftop Solar",
+  "scheme_url": "https://pmsuryaghar.gov.in",
+  "ministry_or_category": "Power & Electricity",
+  "overview": "The PM Surya Ghar Subsidy – Rooftop Solar scheme is a government initiative under the Ministry of New and Renewable Energy to promote the installation of rooftop solar systems across India. It provides financial subsidies to residential consumers for adopting solar energy, aiming to reduce electricity costs and increase renewable energy usage. The scheme operates through a national portal that facilitates application, approval, and subsidy disbursement processes.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "residential consumers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote widespread adoption of rooftop solar systems in residential sectors",
+    "Reduce dependence on grid electricity and lower household energy costs",
+    "Increase renewable energy capacity in line with national climate goals",
+    "Simplify access to solar subsidies through a centralized digital portal",
+    "Ensure transparent and timely disbursement of financial incentives"
+  ],
+  "eligibility": "Residential consumers who own or have authority to install rooftop solar systems on their property are eligible. The beneficiary must be an individual household owner or resident welfare association applying for solar installation on a self-owned or occupied residence.",
+  "benefits": "Financial subsidy on installation costs, reduced electricity bills through self-generation, potential income from excess power export via net metering, low maintenance and long lifespan of solar systems, contribution to carbon footprint reduction.",
+  "financial_support": "The scheme provides a central financial subsidy directly credited to the beneficiary's bank account after installation and inspection. The subsidy amount varies based on system capacity and is disbursed through the implementing agency upon verification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the national portal at https://pmsuryaghar.gov.in 2. Register as a beneficiary using mobile number and email 3. Log in and fill the application form with property and consumer details 4. Upload required documents including proof of ownership and identity 5. Select an empaneled vendor for solar installation 6. Submit the application for technical feasibility check 7. Upon approval, proceed with installation by the selected vendor 8. After installation, submit completion report and inspection request 9. Once inspected and approved, subsidy is disbursed to the beneficiary's bank account.",
+  "application_portal_url": "https://pmsuryaghar.gov.in",
+  "required_documents": [
+    "Proof of property ownership or occupancy authorization",
+    "Identity proof (Aadhaar, PAN, etc.)",
+    "Address proof",
+    "Latest electricity bill",
+    "Sanctioned load details from electricity distribution company",
+    "Roof ownership or installation consent document"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability.",
+  "implementing_agency": "Ministry of New and Renewable Energy",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is available only for residential installations and not for commercial or industrial use",
+    "Beneficiary must use only empaneled vendors approved under the scheme",
+    "Subsidy amount is subject to availability of funds and may vary by state or system size",
+    "Installation must meet technical standards and be inspected before subsidy release",
+    "Net metering approval from the local DISCOM is required for export of surplus power"
+  ],
+  "source_cited_notes": [
+    "https://pmsuryaghar.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:11:46.395125+00:00"
+}

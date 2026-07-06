@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-305",
+  "scheme_name": "NCLT Fast Track Insolvency for MSMEs",
+  "scheme_url": "https://nclt.gov.in",
+  "ministry_or_category": "Legal & Regulatory",
+  "overview": "The National Company Law Tribunal (NCLT) is a quasi-judicial body constituted under section 408 of the Companies Act, 2013, effective from 1st June 2016, to adjudicate company law and insolvency matters. It functions as the Adjudicating Authority under the Insolvency and Bankruptcy Code (IBC), 2016, and aims to streamline corporate dispute resolution by consolidating functions of erstwhile bodies like CLB, BIFR, and AAIFR. NCLT operates through multiple benches across India, handling cases related to oppression, mismanagement, amalgamations, winding up, and Corporate Insolvency Resolution Process (CIRP).",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "corporates",
+    "creditors",
+    "shareholders",
+    "employees",
+    "personal guarantors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a unified forum for adjudication of disputes under Companies Act and Insolvency and Bankruptcy Code",
+    "To promote corporate governance and legal compliance while safeguarding stakeholder interests",
+    "To facilitate revival and rehabilitation of financially distressed companies through timely insolvency resolution",
+    "To maximize asset value and promote entrepreneurship and availability of credit",
+    "To balance stakeholder interests including alteration in government dues payment priority",
+    "To establish Insolvency and Bankruptcy Board of India and handle connected matters",
+    "To reduce NPAs substantially as an ancillary benefit of IBC implementation",
+    "To resolve insolvency of individual debtors (personal guarantors) and restore their financial viability"
+  ],
+  "eligibility": "The National Company Law Tribunal (NCLT) has jurisdiction over company law cases transferred from Hon’ble High Courts and the erstwhile Company Law Tribunal, and insolvency cases under the Insolvency and Bankruptcy Code, 2016. It adjudicates matters relating to oppression and mismanagement, class action suits, reduction of share capital, rectification of register of members, amalgamations, mergers, restoration of company name, winding up, and other functions under the Companies Act. It has exclusive jurisdiction to commence and adjudicate Corporate Insolvency Resolution Process (CIRP) cases and Insolvency Resolution Process for Personal Guarantors to Corporate Debtors.",
+  "benefits": "NCLT ensures timely and effective adjudication of company law, corporate insolvency, and individual insolvency cases. It promotes a legally secure environment supporting good corporate governance and stakeholder confidence. It facilitates maximization of asset value, promotes entrepreneurship, enhances credit availability, balances stakeholder interests, strengthens corporate regulatory framework, fosters trust and discipline, advances ease of doing business, and reduces NPAs through IBC implementation.",
+  "financial_support": "NCLT does not provide direct financial support such as grants, loans, or subsidies. It is a judicial tribunal that adjudicates insolvency and company law cases. Financial outcomes arise from court-ordered resolutions, such as debt restructuring, liquidation proceeds, or repayment plans under IBC, but NCLT itself does not disburse funds.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the appropriate NCLT bench based on geographical jurisdiction. 2. File the relevant petition or application (e.g., Company Petition, Company Appeal, Insolvency Petition) under the applicable provision of Companies Act, 2013 or Insolvency and Bankruptcy Code, 2016. 3. Submit the application along with required documents at the NCLT registry or through e-filing portal. 4. Pay the prescribed court fees. 5. Serve notice to the opposite party as per rules. 6. Attend hearings as scheduled by the Tribunal. 7. Await judgment or order from the NCLT bench.",
+  "application_portal_url": "https://nclt.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Memorandum and Articles of Association (MOA/AOA)",
+    "Board Resolution authorizing the filing",
+    "Statement of Accounts and Audit Reports",
+    "Details of creditors and dues owed",
+    "Evidence of default (for IBC cases)",
+    "Proposed Resolution Plan (for CIRP)",
+    "Affidavit verifying the contents of the petition",
+    "Vakalatnama (if represented by counsel)",
+    "Proof of payment of court fees",
+    "Any other document as directed by the Tribunal"
+  ],
+  "deadlines": "Rolling basis — applications can be filed throughout the year as per cause of action arising.",
+  "implementing_agency": "Ministry of Corporate Affairs, Government of India",
+  "contact_details": "Email: dr1-nclt@nclt.gov.in, ar4-nclt@nclt.gov.in | Helpline: 011-24363846 (as per objection list, though noted as non-functional during relocation)",
+  "caveats": [
+    "Jurisdiction is bench-specific; cases must be filed before the bench having territorial and subject-matter jurisdiction",
+    "Certain procedural defects (e.g., incorrect case type, missing documents, improper indexing, lack of OCR, unsigned pages) may lead to objections and rejection",
+    "During office relocation, helpdesk numbers may be temporarily non-functional",
+    "NCLT does not provide financial assistance; outcomes depend on judicial orders",
+    "Parties must comply with timelines prescribed under IBC for insolvency proceedings"
+  ],
+  "source_cited_notes": [
+    "https://nclt.gov.in/about-nclt",
+    "https://nclt.gov.in/national-company-law-tribunal",
+    "https://nclt.gov.in/sites/default/files/2026-02/Anual%20Report%2022-23_web%20file.pdf",
+    "https://nclt.gov.in/sites/default/files/2026-02/AR23-24%20web_file.pdf",
+    "https://nclt.gov.in/sites/default/files/objection_list/OBJECTIONS%20LIST%20DATED%2004.06.2026%20TO%20%2002.07.2026.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:09:59.216012+00:00"
+}

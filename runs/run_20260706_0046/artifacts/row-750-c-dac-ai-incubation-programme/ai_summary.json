@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-750",
+  "scheme_name": "C-DAC AI Incubation Programme",
+  "scheme_url": "https://www.cdac.in",
+  "ministry_or_category": "Research Institutions",
+  "overview": "C-DAC AI Incubation Programme is an initiative by the Centre for Development of Advanced Computing (C-DAC) under the Ministry of Electronics & Information Technology (MeitY) to support startups and MSMEs in leveraging advanced computing technologies such as AI, HPC, and quantum computing for innovation and product development. The programme provides access to C-DAC's infrastructure, expertise, and collaborative opportunities to foster technology transfer and entrepreneurship. It aims to strengthen the startup ecosystem by enabling access to high-end computational resources and mentorship.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support startups and MSMEs in leveraging advanced computing technologies for innovation",
+    "Provide access to C-DAC's infrastructure and expertise in AI, HPC, and quantum computing",
+    "Facilitate technology transfer and collaboration between C-DAC and industry",
+    "Strengthen the startup ecosystem through mentorship and industry-oriented learning",
+    "Enable participation in MeitY-sponsored projects and hands-on development activities",
+    "Promote indigenous technological development under Atmanirbhar Bharat vision"
+  ],
+  "eligibility": "Startups and MSMEs interested in collaborating with C-DAC on technology transfer, product development, or utilizing advanced computing facilities such as HPC, AI, and quantum computing resources are eligible to apply through Expressions of Interest (EOI) for specific domains like AI, VLSI, embedded systems, and health informatics.",
+  "benefits": "Access to C-DAC's advanced computing infrastructure, technical mentorship, collaboration opportunities with research scientists, participation in MeitY-sponsored projects, support for prototype development, and facilitation of industry-academia partnerships. Startups also gain visibility through C-DAC's networks and potential pathways to scale via Chips to Startup (C2S) programme.",
+  "financial_support": "The programme does not provide direct financial grants or funding. Support is primarily in-kind through access to computational resources, technical expertise, infrastructure, and collaborative R&D opportunities. Financial aspects, if any, are handled through specific project-based collaborations or MeitY-sponsored initiatives.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify relevant Expressions of Interest (EOIs) published by C-DAC on its website under domains such as AI, HPC, quantum computing, or health informatics. 2. Prepare a proposal detailing the intended collaboration, technology transfer, or product development goal. 3. Submit the EOI response via email to the designated contact (e.g., ab2026@cdac.in for biology-AI symposium) or through the specified portal. 4. Include required documents such as company profile, authorization letter, and proof of MSME/startup status if applicable. 5. Await evaluation by C-DAC experts; shortlisted applicants may be invited for discussions or pilot collaboration. 6. Upon acceptance, formalize collaboration through MoU or agreement as per C-DAC guidelines.",
+  "application_portal_url": "https://cdac.in/index.aspx?id=tenders_eoi",
+  "required_documents": [
+    "Company profile or incorporation certificate",
+    "Authorization letter from authorized signatory",
+    "Proof of startup/MSME status (if applicable)",
+    "Project proposal or concept note",
+    "Proof of payment (if any fees apply)",
+    "ID card or authorization document with department head signature and seal (for special discounts)"
+  ],
+  "deadlines": "Varies per EOI; examples include 17 October 2025 for startup innovation interest, 31 December 2026 for AI-based healthcare solutions, and rolling basis for some technology transfer opportunities. Specific deadlines are listed against each EOI.",
+  "implementing_agency": "Centre for Development of Advanced Computing (C-DAC), Ministry of Electronics & Information Technology (MeitY)",
+  "contact_details": "Email: ab2026@cdac.in (for biology-AI symposium and related EOIs), mtech-mohali@cdac.in (for PG programmes), or as specified in individual EOIs. Phone: +91-172-6619078, 6619081 (C-DAC Mohali), 020-25503272 (for events like Accelerating Biology 2026)",
+  "caveats": [
+    "No direct financial funding is provided; support is primarily technical and infrastructural",
+    "Participation is subject to evaluation and availability of resources",
+    "Specific EOIs have fixed deadlines after which applications are not accepted",
+    "Benefits like special discounts (e.g., for BRRAF users) require mandatory submission of abstract and documentation",
+    "Collaboration terms are subject to MoU and IP guidelines of C-DAC"
+  ],
+  "source_cited_notes": [
+    "https://cdac.in/index.aspx?id=tenders_eoi",
+    "https://cdac.in/index.aspx?id=ev_symposium_2026",
+    "https://cdac.in/index.aspx?id=service_details&serviceId=PGDegreeProgrammes%40CDACMohali",
+    "https://cdac.in/index.aspx?id=about",
+    "https://cdac.in/index.aspx?id=tap&tapcat=AI_Multilingual_Computing"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:33:36.477769+00:00"
+}

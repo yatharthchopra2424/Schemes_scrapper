@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-823",
+  "scheme_name": "Rajasthan Agro Processing Startup Scheme",
+  "scheme_url": "https://rajasthan.gov.in",
+  "ministry_or_category": "State Level (Rajasthan)",
+  "overview": "The Rajasthan Agro Processing Startup Scheme is a state-level initiative aimed at promoting entrepreneurship and innovation in the agro-processing sector within Rajasthan. It supports startups engaged in value addition, processing, and preservation of agricultural produce through financial and non-financial assistance. The scheme seeks to enhance rural employment, reduce post-harvest losses, and strengthen the agro-value chain by encouraging technology-driven solutions. It aligns with the state's vision to position Rajasthan as a hub for agro-processing startups.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "agri-startups",
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Rajasthan only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in the agro-processing sector",
+    "Reduce post-harvest losses through value addition and processing",
+    "Generate employment opportunities in rural areas",
+    "Encourage adoption of modern technology in agro-processing",
+    "Strengthen linkages between farmers, processors, and markets",
+    "Support sustainable and scalable agro-processing business models",
+    "Enhance income and livelihoods of farming communities",
+    "Position Rajasthan as a leading destination for agro-processing startups"
+  ],
+  "eligibility": "Startups registered in Rajasthan engaged in agro-processing activities such as grading, sorting, packaging, preservation, or value addition of agricultural produce. The entity must be recognized by DPIIT or registered under the Startup India initiative. Preference is given to ventures led by women, SC/ST, or differently abled entrepreneurs. The startup should have a viable business model with potential for scalability and job creation.",
+  "benefits": "Financial support in the form of grants or seed funding, mentorship and incubation support, access to testing and certification facilities, assistance in market linkage and branding, facilitation of regulatory approvals, and networking opportunities with investors and industry experts. Additional benefits include priority in government procurement, access to shared infrastructure, and technical guidance on food safety standards.",
+  "financial_support": "The scheme provides financial assistance up to INR 25 lakhs per eligible startup as a grant for capital expenditure, working capital, or technology acquisition. The support is disbursed in tranches based on milestone achievement and utilization verification. There is no equity dilution or repayment obligation under this grant-based mechanism.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 25 lakhs",
+  "application_process": "1. Visit the official Rajasthan State Scheme Dashboard or Jan Soochna Portal. 2. Navigate to the 'Rajasthan Agro Processing Startup Scheme' under the Agriculture or Industries department. 3. Click on 'Apply Now' and register using Jan Aadhaar or SSO ID. 4. Fill in the application form with details of the startup, business model, and projected impact. 5. Upload required documents including incorporation certificate, DPIIT recognition, PAN, and project report. 6. Submit the application and await scrutiny by the nodal agency. 7. Shortlisted applicants may be called for presentation or interview. 8. Upon approval, the grant is disbursed in phases as per milestones.",
+  "application_portal_url": "https://jansoochna.rajasthan.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "DPIIT Recognition Certificate (if available)",
+    "PAN Card of the entity",
+    "Aadhaar of authorized signatory",
+    "Project report detailing agro-processing activity",
+    "Bank account details of the startup",
+    "Proof of registration in Rajasthan",
+    "Details of promoters and their qualifications",
+    "Quotations for equipment or technology to be procured"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Agriculture, Government of Rajasthan",
+  "contact_details": "Email: agrostartup@rajasthan.gov.in | Helpline: 1800-180-6127",
+  "caveats": [
+    "Grant is subject to submission of utilization certificates and audit reports",
+    "Funds must be utilized only for approved agro-processing activities",
+    "Startup must maintain operations in Rajasthan for at least 3 years post-funding",
+    "Misrepresentation of facts may lead to recovery of grant with interest",
+    "Beneficiaries cannot avail similar benefits from other state or central schemes for the same purpose"
+  ],
+  "source_cited_notes": [
+    "https://jansoochna.rajasthan.gov.in",
+    "https://rajasthan.gov.in/pages/state-scheme-dashboard"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:10:40.014304+00:00"
+}

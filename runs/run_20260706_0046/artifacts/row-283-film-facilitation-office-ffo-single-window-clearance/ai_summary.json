@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-283",
+  "scheme_name": "Film Facilitation Office (FFO) – Single Window Clearance",
+  "scheme_url": "https://ffo.gov.in",
+  "ministry_or_category": "Media & Entertainment",
+  "overview": "The Film Facilitation Office (FFO) – Single Window Clearance is a government initiative under the Ministry of Information and Broadcasting that provides a single point of contact for filmmakers seeking permissions and clearances for shooting films in India. It streamlines the process of obtaining various no-objection certificates (NOCs) and approvals from central and state government agencies, thereby reducing delays and administrative burden for film production activities across the country.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "filmmakers",
+    "production houses",
+    "media and entertainment professionals"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a single window clearance system for film shooting permissions",
+    "To coordinate with various central and state government agencies for issuing NOCs",
+    "To reduce time and effort required for obtaining multiple clearances",
+    "To facilitate smooth filming operations across India",
+    "To promote ease of doing business in the media and entertainment sector"
+  ],
+  "eligibility": "Filmmakers, production houses, or any entity intending to shoot films in India that require permissions from central or state government authorities for locations, drone usage, road closures, or other regulatory clearances.",
+  "benefits": "Single point of contact for all film shooting-related permissions; coordination with ministries and departments such as Ministry of Defence, Ministry of Home Affairs, Ministry of Civil Aviation, Archaeological Survey of India, and state governments; time-bound processing of applications; reduced procedural complexity; support for both Indian and foreign film productions.",
+  "financial_support": "The Film Facilitation Office does not provide direct financial support such as grants, loans, or subsidies. Its primary function is facilitative — offering clearance and coordination services without monetary disbursement to beneficiaries.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the FFO portal at https://ffo.gov.in 2. Register as a user on the portal 3. Fill out the online application form for the required clearances 4. Upload necessary documents such as script, production details, location information, and identification proofs 5. Submit the application 6. FFO forwards the application to relevant concerned agencies 7. Track application status through the portal 8. Receive NOCs/clearances from respective agencies via FFO coordination.",
+  "application_portal_url": "https://ffo.gov.in",
+  "required_documents": [
+    "Script or synopsis of the film",
+    "Production details including dates and schedule",
+    "Location details and maps",
+    "Drone/UAV details (if applicable)",
+    "Identification proof of applicant",
+    "Certificate of incorporation (for production companies)",
+    "Details of equipment and crew",
+    "Any other documents as required by specific agencies"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year as per project requirements.",
+  "implementing_agency": "Ministry of Information and Broadcasting, Government of India",
+  "contact_details": "Email: info@ffo.gov.in | Phone: +91-11-2338 6445",
+  "caveats": [
+    "FFO does not grant permissions itself but facilitates coordination with relevant agencies",
+    "Final approval rests with the respective concerned authorities (e.g., MoD, MHA, ASI, etc.)",
+    "Processing time depends on response time from individual agencies",
+    "Certain clearances (e.g., drone flights, border areas) may have additional restrictions or lead times"
+  ],
+  "source_cited_notes": [
+    "https://ffo.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:49:59.847114+00:00"
+}

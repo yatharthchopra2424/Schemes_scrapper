@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-98",
+  "scheme_name": "Pradhan Mantri Suraksha Bima Yojana (PMSBY)",
+  "scheme_url": "https://jansuraksha.gov.in",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "Pradhan Mantri Suraksha Bima Yojana (PMSBY) is an accident insurance scheme offering accidental death and disability cover for death or disability on account of an accident. It provides a one-year cover, renewable from year to year, and is administered through Public Sector General Insurance Companies (PSGICs) and other general insurance companies with necessary approvals and tie-ups with banks/post offices. The scheme offers financial protection to account holders in the age group of 18 to 70 years through auto-debit of premium from their bank/post office accounts.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide accidental death and disability cover to bank/post office account holders",
+    "Offer affordable insurance at a low premium of Rs. 20/- per annum",
+    "Ensure coverage for death or disability due to accident",
+    "Enable auto-debit facility for premium payment",
+    "Allow renewal of cover year to year",
+    "Provide financial security to economically weaker sections",
+    "Promote financial inclusion through insurance penetration"
+  ],
+  "eligibility": "Individual bank/Post office account holders of participating banks/Post office aged between 18 years (completed) and 70 years (age nearer birthday) who give their consent to join/enable auto-debit, as per the above modality, will be enrolled into the scheme.",
+  "benefits": "As per the following table: Table of Benefits Sum Insured a Death Rs. 2 Lakh b Total and irrecoverable loss of both eyes or loss of use of both hands or feet or loss of sight of one eye and loss of use of hand or foot Rs. 2 Lakh c Total and irrecoverable loss of sight of one eye or loss of use of one hand or foot Rs. 1 Lakh",
+  "financial_support": "Premium: Rs. 20/- per annum per member. The premium will be deducted from the account holder’s bank/Post office account through ‘auto debit’ facility in one instalment on or before 1st June of each annual coverage period under the scheme. However, in cases where auto debit takes place after 1st June, the cover shall commence from the date of auto debit of premium by Bank/Post office. The premium would be reviewed based on annual claims experience.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure you have an individual bank or Post office account in a participating bank/Post office. 2. Be within the age group of 18 to 70 years (completed 18 years, age nearer birthday not exceeding 70). 3. Give consent to join the scheme and enable auto-debit facility. 4. Visit your bank/Post office branch or use their digital channels to enrol. 5. Fill the enrolment form and provide auto-debit authorization. 6. Submit the form and ensure the premium of Rs. 20/- is deducted annually via auto-debit. 7. Enrolment must be completed by 31st May each year for coverage from 1st June to 31st May. 8. For delayed enrolment after 31st May, cover starts from the date of auto-debit of premium.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Enrolment form",
+    "Auto-debit authorization",
+    "Consent cum Declaration form"
+  ],
+  "deadlines": "Enrolment/auto-debit option must be given by 31st May of every year for coverage from 1st June to 31st May. Joining subsequently on payment of full annual premium is possible.",
+  "implementing_agency": "Department of Financial Services, Ministry of Finance",
+  "contact_details": "Email: usins2-dfs@nic.in | Tel. 011-23748789",
+  "caveats": [
+    "Insurance cover terminates on attaining age 70 years (age nearest birthday)",
+    "Cover ceases on closure of account or insufficiency of balance to keep insurance in force",
+    "If covered through multiple accounts and premium received inadvertently, cover restricted to one account only and duplicate premium liable to be forfeited",
+    "If cover ceases due to technical or administrative reasons, reinstatement possible on receipt of full annual premium, but risk cover suspended and reinstatement at sole discretion of Insurance Company",
+    "Participating banks deduct premium in the same month when auto-debit option is given, preferably in May, and remit amount to Insurance Company that month"
+  ],
+  "source_cited_notes": [
+    "https://jansuraksha.gov.in/Files/PMSBY/ENGLISH/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Hindi/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Punjabi/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Marathi/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Kannada/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Tamil/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Telugu/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Gujarati/Rules.pdf",
+    "https://jansuraksha.gov.in/Files/PMSBY/Bangla/Rules.pdf"
+  ],
+  "last_updated_date": "2022",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:15:09.934597+00:00"
+}

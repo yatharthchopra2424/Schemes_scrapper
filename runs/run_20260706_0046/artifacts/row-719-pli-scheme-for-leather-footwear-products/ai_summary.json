@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-719",
+  "scheme_name": "PLI Scheme for Leather & Footwear Products",
+  "scheme_url": "https://dpiit.gov.in",
+  "ministry_or_category": "Footwear & Leather",
+  "overview": "The PLI Scheme for Leather & Footwear Products is a Production Linked Incentive scheme aimed at boosting domestic manufacturing, enhancing exports, and attracting investment in the leather and footwear sector. It provides financial incentives based on incremental sales to eligible manufacturers. The scheme is part of the broader PLI initiatives under the Department for Promotion of Industry and Internal Trade (DPIIT) to make India a global manufacturing hub.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturers",
+    "MSME",
+    "large enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance manufacturing capabilities in the leather and footwear sector",
+    "Increase domestic value addition and reduce import dependence",
+    "Boost exports and global competitiveness of Indian leather and footwear products",
+    "Attract fresh investment in the sector",
+    "Generate employment opportunities",
+    "Support technological upgradation and innovation",
+    "Develop a robust domestic supply chain"
+  ],
+  "eligibility": "Eligible applicants include companies engaged in manufacturing of leather and footwear products, with a minimum threshold of investment and turnover as specified in the scheme guidelines. Applicants must be registered under the Companies Act, 2013 or equivalent, and must commit to incremental sales growth over the base year to qualify for incentives.",
+  "benefits": "Financial incentives in the form of a percentage of incremental sales over the base year, tax benefits under relevant provisions, support for technology upgradation, and facilitation of access to credit and markets. The scheme also provides non-financial support such as guidance on compliance, quality standards, and export promotion.",
+  "financial_support": "The scheme provides production-linked incentives calculated as a percentage of incremental sales (over the base year) incurred by eligible manufacturers. The incentive rate varies by product category and is disbursed annually based on verified sales and investment claims. The financial support is directly tied to performance and incremental growth in manufacturing and sales.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the designated PLI portal for Leather & Footwear Products. 2. Submit the application form with details of existing investment, production capacity, and base year sales. 3. Upload required documents including Certificate of Incorporation, PAN, GST details, audited financial statements, and details of plant and machinery. 4. Provide a commitment letter for achieving targeted incremental sales. 5. Await evaluation by the Project Management Agency (PMA) and approval by the Empowered Committee. 6. Upon approval, sign the agreement and begin operations to claim incentives based on verified incremental sales.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "PAN of the entity",
+    "GST registration certificate",
+    "Audited financial statements of the last 3 years",
+    "Details of existing plant and machinery",
+    "Bank account details",
+    "Undertaking for incremental sales commitment",
+    "Details of proposed investment and production capacity"
+  ],
+  "deadlines": "Rolling basis — applications are accepted periodically as per notifications issued by DPIIT.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are disbursed only after verification of incremental sales and investment",
+    "The scheme is subject to annual budgetary allocations",
+    "Failure to meet committed incremental sales may result in withdrawal of benefits",
+    "Only incremental sales over the defined base year are eligible for incentives"
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in/offerings/schemes-and-services/details/production-linked-incentive-pli-scheme-for-leather-footwear-products-"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:17:14.523661+00:00"
+}

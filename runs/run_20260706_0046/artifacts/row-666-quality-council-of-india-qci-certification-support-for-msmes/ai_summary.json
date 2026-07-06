@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-666",
+  "scheme_name": "Quality Council of India (QCI) Certification Support for MSMEs",
+  "scheme_url": "https://www.qcin.org",
+  "ministry_or_category": "Certification & Standards",
+  "overview": "Quality Council of India (QCI) Certification Support for MSMEs is a recognition scheme aimed at enhancing the quality and competitiveness of Micro, Small, and Medium Enterprises through certification under various QCI boards such as NABL, NABH, NABCB, NABET, and NBQP. The scheme supports MSMEs in adopting quality standards, improving service delivery, and gaining national and international acceptance of their products and services. It is implemented through QCI’s constituent boards and divisions, with DPIIT serving as the nodal ministry. The initiative aligns with national goals like Viksit Bharat 2047 and Zero Defect, Zero Effect manufacturing vision.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of quality standards among MSMEs",
+    "Enable credible conformity assessment for MSME products and services",
+    "Strengthen institutional trust in MSME outputs",
+    "Support continuous improvement across MSME sectors",
+    "Enhance stakeholder competence in quality management",
+    "Facilitate national and international acceptance of MSME certifications",
+    "Contribute to national development and citizen well-being through quality interventions"
+  ],
+  "eligibility": "MSMEs engaged in manufacturing or services seeking third-party assessment of their products, services, or processes for quality compliance under QCI’s constituent boards such as NABL (testing/calibration labs), NABH (hospitals/healthcare), NABCB (certification bodies), NABET (education/training), or NBQP (quality promotion). Eligibility is based on the specific criteria of the respective accreditation or certification scheme under which the MSME applies.",
+  "benefits": "Enhanced credibility and trust among customers, regulators, and global partners; transparent and consistent processes aligned with international best practices; national and international recognition of certifications; improved market access and competitiveness; eligibility for government tenders and procurement; access to QCI’s training and capacity-building programmes; inclusion in QCI’s directory of accredited entities; support for export readiness and quality-led growth.",
+  "financial_support": "The scheme does not provide direct financial support such as grants, loans, or subsidies. Instead, it offers non-financial benefits through certification and recognition. Any costs associated with assessment, application, or accreditation fees are borne by the applying MSME, though rationalised fee structures (e.g., for NABH Entry Level Ayush Hospitals) may apply based on scale and scope.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant QCI board or scheme based on the MSME’s sector (e.g., NABL for labs, NABH for healthcare, NABCB for certification bodies). 2. Visit the respective board’s website or QCI’s accreditation portal to review eligibility and documentation requirements. 3. Submit the application online via the designated portal (e.g., nabh.co for NABH, nabl-india.org for NABL). 4. Upload required documents such as legal registration, quality manuals, test reports, and operational records. 5. Pay the applicable assessment fee as per the fee structure. 6. Undergo document review and/or on-site assessment by QCI-appointed assessors. 7. Address any non-conformities raised during assessment. 8. Upon successful compliance, receive accreditation/certification from the respective QCI board. 9. Maintain compliance through periodic surveillance and re-certification as per scheme validity (typically 2–3 years).",
+  "application_portal_url": "https://qcin.org/accreditation/",
+  "required_documents": [
+    "Legal registration certificate of the MSME",
+    "Quality manual or documented quality management system",
+    "Test reports or calibration certificates (if applicable)",
+    "Internal audit reports",
+    "Management review minutes",
+    "Staff qualification and training records",
+    "Equipment calibration records",
+    "Customer complaint and feedback records",
+    "Process validation documents",
+    "Any sector-specific statutory licences or approvals"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on the specific scheme and board schedules.",
+  "implementing_agency": "Quality Council of India (QCI), operating under the nodal oversight of the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce & Industry",
+  "contact_details": "Email: faaqci@qcin.org | Phone: 011-26186680 to 011-26186683",
+  "caveats": [
+    "Certification validity is time-bound (typically 2–3 years) and requires periodic surveillance and re-certification",
+    "Assessment and accreditation fees are applicable and vary by scheme, scope, and size of the MSME",
+    "The MSME must maintain ongoing compliance with the standards; failure may lead to suspension or withdrawal of certification",
+    "Some schemes (e.g., NABH Emergency Department Certification) have edition-specific timelines and may not accept older versions after a cutoff date",
+    "Benefits are contingent upon successful assessment and adherence to QCI’s rules and regulations"
+  ],
+  "source_cited_notes": [
+    "https://qcin.org/",
+    "https://qcin.org/accreditation/",
+    "https://qcin.org/who-we-are/",
+    "https://qcin.org/bodies-of-qci/",
+    "https://qcin.org/members/",
+    "https://qcin.org/ppid-projects/",
+    "https://qcin.org/notices-updates/",
+    "https://qcin.org/achievements/",
+    "https://qcin.org/right-to-information/",
+    "https://qcin.org/qci-in-news/",
+    "https://qcin.org/wp-content/uploads/2026/03/Notification-Implementation-Plan-of-NABH-Emergency-Certification-Standards.pdf",
+    "https://qcin.org/wp-content/uploads/2026/03/Notification-Rationalised-Fee-for-Ayush-Entry-Level-Certification-program.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:41:24.159758+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-825",
+  "scheme_name": "JIDCO – Jharkhand Industrial Dev Corp Scheme",
+  "scheme_url": "https://jidco.co.in",
+  "ministry_or_category": "State Level (Jharkhand)",
+  "overview": "JIDCO (Jharkhand Industrial Development Corporation) is a state-level agency under the Government of Jharkhand tasked with promoting industrial development in the state. It facilitates investment, provides infrastructure support, and assists entrepreneurs and industries in setting up and expanding operations within Jharkhand. The corporation acts as a nodal agency for various state and central government schemes aimed at boosting industrial growth and employment generation.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "entrepreneurs",
+    "MSME",
+    "investors"
+  ],
+  "geographic_scope": "Jharkhand only",
+  "objectives": [
+    "Promote industrial development in Jharkhand",
+    "Facilitate investment in priority sectors",
+    "Provide infrastructure and land support for industries",
+    "Assist in setting up and expansion of industrial units",
+    "Generate employment opportunities through industrial growth",
+    "Act as a nodal agency for central and state government schemes"
+  ],
+  "eligibility": "Eligibility criteria vary depending on the specific scheme or incentive being availed through JIDCO. Generally, applicants must be registered industrial units, entrepreneurs, or investors proposing to set up or expand operations in Jharkhand. Compliance with state industrial policies, environmental norms, and land allocation rules is required.",
+  "benefits": "JIDCO provides support in land acquisition, infrastructure development, facilitation of statutory clearances, and access to financial incentives under various central and state government schemes. It acts as a single-window clearance mechanism and assists in project formulation and implementation.",
+  "financial_support": "JIDCO does not directly provide financial support but facilitates access to subsidies, grants, and loans under central and state government schemes such as the Prime Minister's Employment Generation Programme (PMEGP), Credit Guarantee Scheme, and Jharkhand State Industrial Policy incentives. The quantum and mechanism depend on the specific scheme being accessed.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant scheme or incentive through JIDCO or state industrial policy. 2. Prepare project proposal and required documents. 3. Submit application to JIDCO either online or at its office. 4. JIDCO reviews the application for completeness and eligibility. 5. Upon approval, JIDCO facilitates land allotment, clearances, and linkage to financial incentives. 6. Monitor project implementation as per scheme guidelines.",
+  "application_portal_url": "https://jidco.co.in",
+  "required_documents": [
+    "Project report",
+    "Certificate of incorporation/registration",
+    "PAN and Aadhaar of promoters/directors",
+    "Land ownership or lease documents",
+    "Environmental clearance (if applicable)",
+    "No Objection Certificate from Pollution Control Board",
+    "Details of plant and machinery",
+    "Employment generation details",
+    "Bank appraisal note (if seeking loan)"
+  ],
+  "deadlines": "Rolling basis — subject to availability of funds and land under specific schemes",
+  "implementing_agency": "Jharkhand Industrial Development Corporation (JIDCO), Government of Jharkhand",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are scheme-specific and subject to availability of funds",
+    "Land allotment is contingent upon project viability and compliance with zoning regulations",
+    "Financial incentives require separate approval from respective sanctioning authorities",
+    "Projects must adhere to Jharkhand State Industrial Policy and environmental norms"
+  ],
+  "source_cited_notes": [
+    "https://jidco.co.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:34:25.586333+00:00"
+}

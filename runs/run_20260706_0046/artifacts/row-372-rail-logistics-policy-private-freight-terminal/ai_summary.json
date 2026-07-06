@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-372",
+  "scheme_name": "Rail Logistics Policy – Private Freight Terminal",
+  "scheme_url": "https://indianrailways.gov.in",
+  "ministry_or_category": "Railways",
+  "overview": "The Rail Logistics Policy – Private Freight Terminal is a policy initiative by the Ministry of Railways aimed at enhancing freight logistics efficiency by encouraging private sector participation in developing and operating freight terminals. It seeks to decongest existing railway infrastructure, improve first and last-mile connectivity, and boosts across the Indian Railways network.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private operators",
+    "logistics companies",
+    "MSMEs",
+    "industries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance freight logistics efficiency through private sector participation",
+    "To develop and operate private freight terminals for improved rail connectivity",
+    "To decongest existing railway infrastructure and improve first/last-mile logistics",
+    "To promote multimodal integration and shift freight from road to rail",
+    "To attract private investment in rail logistics infrastructure",
+    "To improve cargo handling capacity and reduce transit times",
+    "To support Make in India and Atmanirbhar Bharat initiatives through better logistics"
+  ],
+  "eligibility": "Private companies, consortiums, SPVs, or logistics providers registered under the Companies Act, 2013 or LLP Act, 2008, with net worth as per RBI guidelines, and capable of meeting technical and financial criteria for developing and operating private freight terminals on railway land or siding.",
+  "benefits": "Access to railway land for terminal development on long-term lease, priority in path allocation for freight trains, customs clearance facilitation, single-window clearance through Indian Railways, potential for revenue sharing, and integration with Dedicated Freight Corridors (DFCs) and industrial corridors.",
+  "financial_support": "No direct financial subsidy or grant is provided; support is in the form of land allocation on lease basis, regulatory facilitation, and operational privileges. Private entities bear the capital and operational costs of terminal development and management.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify suitable railway siding or land for terminal development. 2. Submit a detailed project report (DPR) including technical, financial, and operational plans to the concerned Divisional Railway Manager (DRM). 3. Obtain in-principle approval from Railway Board after technical scrutiny. 4. Execute a Lease Agreement for land use. 5. Acquire necessary statutory clearances (environmental, local bodies, etc.). 6. Construct terminal infrastructure as per approved plans. 7. Commission operations and sign a Freight Terminal Agreement for traffic handling.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Memorandum and Articles of Association / LLP Agreement",
+    "Board Resolution authorizing the project",
+    "Detailed Project Report (DPR)",
+    "Net worth certificate from Chartered Accountant",
+    "Bank solvency certificate",
+    "Land ownership or lease documents (if applicable)",
+    "Environmental clearance (if required)",
+    "No Objection Certificate (NOC) from local authorities",
+    "Technical layout and design of terminal facility"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of land and technical feasibility.",
+  "implementing_agency": "Ministry of Railways, Railway Board",
+  "contact_details": "Email: cpio@rb.railnet.gov.in | Helpline: 139 (Rail Madad) | Public Grievance Portal: https://railmadad.indianrailways.gov.in/madad/final/home.jsp",
+  "caveats": [
+    "Land allocation is subject to availability and technical suitability",
+    "Private entities must bear all capital and operational expenditures",
+    "Operations must comply with Indian Railways safety and operational norms",
+    "Terminal must be operational within a stipulated time frame post land allotment",
+    "Failure to commence operations may lead to termination of agreement"
+  ],
+  "source_cited_notes": [
+    "https://indianrailways.gov.in/",
+    "https://indianrailways.gov.in/railwayboard/",
+    "https://indianrailways.gov.in/contactUs.html"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:01:24.821002+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-28",
+  "scheme_name": "Transport & Marketing Assistance (TMA)",
+  "scheme_url": "https://apeda.gov.in/tma",
+  "ministry_or_category": "Export Promotion",
+  "overview": "The Transport & Marketing Assistance (TMA) scheme is an export promotion initiative under the Export Promotion Mission (EPM) of the Government of India, aimed at providing financial assistance for international freight and marketing expenses to boost agricultural and processed food exports. It supports exporters of APEDA-scheduled products by reimbursing a portion of freight and marketing costs incurred for exports to specified destinations. The scheme is implemented by APEDA under the Department of Commerce, Ministry of Commerce and Industry.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "exporters",
+    "MSME",
+    "agri-exporters",
+    "processed food exporters"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To mitigate the disadvantage of higher freight costs faced by Indian exporters",
+    "To enhance the competitiveness of Indian agricultural and processed food products in international markets",
+    "To support marketing and brand promotion activities for export promotion",
+    "To assist exporters in accessing distant markets by reducing logistics cost burden",
+    "To promote exports of APEDA-scheduled products under the Export Promotion Mission (EPM)"
+  ],
+  "eligibility": "Exporters of APEDA-scheduled products who have a valid Registration-cum-Membership Certificate (RCMC) from APEDA and an Import Export Code (IEC) from DGFT are eligible. The scheme applies to exports made to notified countries under the TMA guidelines, with specific product and destination eligibility as per periodic notifications issued by DGFT under the Foreign Trade Policy.",
+  "benefits": "Financial assistance in the form of reimbursement for a portion of international freight and marketing expenses incurred on eligible exports. The support is provided as a subsidy to reduce the cost burden on exporters and improve price competitiveness in global markets. Non-financial benefits include enhanced market access and brand visibility through supported marketing activities.",
+  "financial_support": "The scheme provides reimbursement of a specified percentage of international freight and marketing costs incurred on eligible exports, as per the rates and conditions notified by DGFT from time to time under the Foreign Trade Policy. The assistance is disbursed post-shipment upon submission of required documents and verification by APEDA.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain IEC from DGFT and RCMC from APEDA. 2. Ensure the exported product and destination are covered under the current TMA notification. 3. Submit the application for TMA claim along with shipping bills, proof of payment of freight and marketing expenses, and other required documents. 4. APEDA verifies the claim and processes the reimbursement. 5. Funds are transferred to the exporter’s bank account upon approval.",
+  "application_portal_url": "https://apeda.gov.in/tma",
+  "required_documents": [
+    "Import Export Code (IEC)",
+    "Registration-cum-Membership Certificate (RCMC) from APEDA",
+    "Shipping bills",
+    "Proof of payment of international freight",
+    "Proof of payment of marketing expenses",
+    "Bank details for reimbursement",
+    "Self-declaration form as per TMA guidelines"
+  ],
+  "deadlines": "As per notifications issued under Foreign Trade Policy; claims must be submitted within the stipulated time frame post-shipment as specified in the respective TMA notification.",
+  "implementing_agency": "Agricultural and Processed Food Products Export Development Authority (APEDA), Department of Commerce, Ministry of Commerce and Industry",
+  "contact_details": "Email: bharati[AT]apeda[DOT]gov[DOT]in | Phone: 91-11-41486013/ 20863919/ 20867008/ 20867007",
+  "caveats": [
+    "Only exports to notified countries under the TMA scheme are eligible",
+    "Assistance is subject to availability of funds and budgetary allocations",
+    "Claims must be submitted within the time limit specified in each notification",
+    "The scheme is reviewed and revised periodically based on budget and policy",
+    "Incomplete or incorrect documentation may lead to rejection of claims"
+  ],
+  "source_cited_notes": [
+    "https://apeda.gov.in/tma",
+    "https://apeda.gov.in/bharati/How_to_Apply.html",
+    "https://apeda.gov.in/RCMC",
+    "https://apeda.gov.in/sites/default/files/documents/2026-06/Registration_Procedure.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:36:03.603268+00:00"
+}

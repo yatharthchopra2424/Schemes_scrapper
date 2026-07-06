@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-417",
+  "scheme_name": "Presumptive Taxation Scheme (Section 44AD) for MSMEs",
+  "scheme_url": "https://www.incometaxindia.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "The Presumptive Taxation Scheme under Section 44AD of the Income-tax Act, 1961 is designed for small businesses, including MSMEs, to simplify tax compliance by allowing them to declare income at a prescribed rate (8% of turnover or 6% for digital transactions) without maintaining detailed books of accounts. It applies to eligible taxpayers whose total turnover or gross receipts do not exceed INR 2 crores in a financial year. The scheme reduces the burden of audit and record-keeping while promoting ease of taxation for small enterprises.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "MSME",
+    "small businesses",
+    "self-employed individuals",
+    "partnership firms"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Simplify tax compliance for small businesses by eliminating the need to maintain detailed books of accounts",
+    "Reduce the burden of tax audit under Section 44AB for eligible taxpayers",
+    "Promote ease of doing business through a presumptive income taxation model",
+    "Encourage digital transactions by offering a lower presumptive rate (6%) for income received via digital modes",
+    "Broaden the tax base by bringing small traders and service providers into the tax net with minimal compliance"
+  ],
+  "eligibility": "The scheme is available to resident individuals, Hindu Undivided Families (HUFs), and partnership firms (excluding Limited Liability Partnerships) who are engaged in eligible business. The total turnover or gross receipts from the business must not exceed INR 2 crores in the financial year. Professionals (as defined under Section 44AA) are not eligible. The business must not be involved in agency, brokerage, or commission-based activities.",
+  "benefits": "Taxpayers opting for Section 44AD are exempt from maintaining books of account as required under Section 44AA and are not required to get their accounts audited under Section 44AB. Income is computed presumptively at 8% of turnover (or 6% for turnover received through digital modes). This reduces compliance costs and simplifies return filing. The scheme also allows advance tax to be paid in a single installment by March 15 instead of quarterly installments.",
+  "financial_support": "Under Section 44AD, the income is deemed to be 8% of the total turnover or gross receipts for the financial year (6% if received through account payee cheque, bank draft, or electronic clearing system). No actual expenses are allowed for deduction. The taxpayer must declare this presumed income in their income tax return and pay tax accordingly. There is no direct financial outlay or subsidy; the benefit is in reduced tax liability due to simplified computation and exemption from audit.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Compute presumptive income at 8% of turnover (6% for digital receipts) under Section 44AD. 2. Ensure total turnover does not exceed INR 2 crores. 3. File Income Tax Return (ITR-4 Sugam) declaring the presumed income. 4. No need to maintain books of accounts or undergo tax audit. 5. Pay advance tax in full by March 15 if applicable. 6. Submit the return before the due date (usually July 31 for non-audit cases).",
+  "application_portal_url": "https://www.incometaxindia.gov.in",
+  "required_documents": [
+    "PAN of the taxpayer",
+    "Aadhaar number (for individuals)",
+    "Bank statement or proof of turnover",
+    "Details of digital receipts (if claiming 6% rate)",
+    "Books of account are not required but turnover records should be retained"
+  ],
+  "deadlines": "Income Tax Return (ITR-4) must be filed by July 31 of the assessment year for non-audit cases. Advance tax, if applicable, must be paid in full by March 15.",
+  "implementing_agency": "Central Board of Direct Taxes (CBDT), Department of Revenue, Ministry of Finance, Government of India",
+  "contact_details": "Email: admin@cbdtdomain.gov.in (generic CBDT contact as per evidence) | Helpline: 1800-180-1961 (standard Income Tax Department helpline)",
+  "caveats": [
+    "The scheme is not available to Limited Liability Partnerships (LLPs)",
+    "Professionals covered under Section 44AA(1) (e.g., doctors, lawyers, architects) are ineligible",
+    "Businesses earning income from agency, brokerage, or commission are excluded",
+    "If actual profits are higher than the presumptive rate, the taxpayer cannot claim actual expenses",
+    "Once opted out, the taxpayer cannot re-enter the scheme for the next 5 assessment years"
+  ],
+  "source_cited_notes": [
+    "https://www.incometaxindia.gov.in",
+    "https://incometaxindia.gov.in/web/guest/notifications",
+    "https://incometaxindia.gov.in/notifications"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:23:59.955682+00:00"
+}

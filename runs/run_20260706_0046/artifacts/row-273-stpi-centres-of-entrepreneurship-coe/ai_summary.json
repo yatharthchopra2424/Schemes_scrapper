@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-273",
+  "scheme_name": "STPI Centres of Entrepreneurship (CoE)",
+  "scheme_url": "https://www.stpi.in/en-in/coe",
+  "ministry_or_category": "Incubation & Acceleration",
+  "overview": "STPI Centres of Entrepreneurship (CoEs) are domain-specific specialized incubation facilities established by Software Technology Parks of India (STPI) under the Ministry of Electronics and Information Technology (MeitY) to support startups in emerging technologies. These CoEs provide infrastructure, mentoring, funding opportunities, networking, and technical support to nurture innovative startups in areas such as IoT, AI, FinTech, AR/VR, ESDM, and others. The initiative aligns with the Start-up India vision to build a vibrant startup ecosystem and position India as a 'Product Nation'.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Deliver a vibrant platform & 360 degree support to start-ups",
+    "Foster Entrepreneurship, Innovation, and knowledge exchange",
+    "Build Leadership in Emerging Technologies",
+    "Help start-ups create world-class IT / EDSM products indigenously",
+    "Generating direct & indirect employment",
+    "Spreading awareness about the CoE through various media & channels",
+    "Acceptance of Proposals",
+    "Selection on the basis of pre-defined criteria",
+    "Mentorship from eminent personalities from Academia and Industry to nurture the ideas",
+    "Evaluation of the POC Product development Market-connect and interaction with angel investors/VCs for funding",
+    "Collaborative ecosystem for Start-ups"
+  ],
+  "eligibility": "Startups operating in emerging technology domains such as Internet of things (IoT), Block Chain, FinTech, Artificial Intelligence (AI), Augmented & Virtual Reality (AR/VR), ESDM, Data Science & Analytics, Medical Electronics & Healthcare, Gaming & Animation, Machine Learning, Cyber Security etc., are eligible for support at STPI Centres of Entrepreneurship (CoEs). Selection is based on pre-defined criteria including innovativeness, team strength, and business proposal soundness.",
+  "benefits": "STPI CoEs provide Infrastructure (Hardware & Software labs), Knowledge & handholding, Funding & Investment opportunities, Mentoring & Networking to nurture innovative start-ups in emerging technologies. Additional benefits include access to domain-specific labs, mentoring from academia and industry, market connect with angel investors/VCs, and collaborative ecosystem support involving Government, Industry, Academia, and Investors.",
+  "financial_support": "STPI CoEs facilitate funding and investment opportunities for startups through connections with angel investors, venture capitalists, and investment funding agencies. Specific financial support mechanisms such as seed funds or grants are managed under linked schemes like the Next Generation Incubation Scheme (NGIS), which provides seed funding of up to Rs. 25 Lakhs per startup.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit proposals for incubation at STPI Centres of Entrepreneurship (CoEs). 2. Proposals are accepted based on pre-defined criteria. 3. Selected startups receive mentorship from eminent personalities from Academia and Industry. 4. Undergo evaluation of Proof of Concept (POC), product development, and market connect. 5. Interact with angel investors/VCs for funding opportunities. 6. Benefit from collaborative ecosystem involving Government, Industry, Academia, and Investors.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Software Technology Parks of India (STPI), Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "",
+  "caveats": [
+    "Support is domain-specific and limited to emerging technology areas",
+    "Selection is competitive and based on predefined criteria",
+    "Funding and investment opportunities are facilitated but not guaranteed"
+  ],
+  "source_cited_notes": [
+    "https://stpi.in/en/centre-of-entrepreneurship",
+    "https://stpi.in/en/about-stpi",
+    "https://stpi.in/en/stpi-labs-network"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:54:57.421372+00:00"
+}

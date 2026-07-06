@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-535",
+  "scheme_name": "Punjab Skill Development Mission",
+  "scheme_url": "https://pbskills.gov.in",
+  "ministry_or_category": "State Level (Punjab)",
+  "overview": "The Punjab Skill Development Mission (PSDM) is a state-level initiative aimed at enhancing employability and entrepreneurship by providing skill training to youth across Punjab. It focuses on aligning training with industry demands and promoting self-employment through various vocational programs. The mission operates under the Department of Technical Education & Industrial Training, Punjab, and collaborates with training partners to deliver certified courses. It seeks to bridge the skill gap and support inclusive growth, particularly for marginalized and rural communities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "youth",
+    "unemployed",
+    "rural populations",
+    "SC/ST",
+    "women",
+    "persons with disabilities"
+  ],
+  "geographic_scope": "Punjab only",
+  "objectives": [
+    "Provide industry-relevant skill training to enhance employability",
+    "Promote self-employment and entrepreneurship among trained youth",
+    "Align training programs with current and future industry needs",
+    "Ensure inclusion of socially and economically disadvantaged groups",
+    "Strengthen institutional capacity for skill delivery across Punjab",
+    "Monitor and evaluate training outcomes for continuous improvement"
+  ],
+  "eligibility": "Eligibility varies by course but generally includes Punjab residents aged 18–35 years, with preference given to unemployed youth, school dropouts, and individuals from SC/ST, women, and economically weaker sections. Specific educational qualifications depend on the trade or course selected.",
+  "benefits": "Benefits include free or subsidized skill training, certification recognized by NCVT/SCVT, placement assistance, post-training support for self-employment, and stipends in certain schemes. Trainees also gain access to industry exposure, soft skills training, and entrepreneurship development modules where applicable.",
+  "financial_support": "Financial support varies by course and partner, with many training programs offered free of cost or at highly subsidized rates. In some cases, stipends are provided during training, especially for disadvantaged groups. The mission does not typically offer direct loans or grants but facilitates access to government-sponsored skill schemes where financial aid may be available.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Punjab Skill Development Mission website or authorized training center. 2. Check available courses and eligibility criteria. 3. Register online or in person by filling the application form. 4. Submit required documents such as ID proof, residence proof, and educational certificates. 5. Attend counseling or selection process if applicable. 6. Enroll in the selected course and begin training.",
+  "application_portal_url": "https://pbskills.gov.in",
+  "required_documents": [
+    "Aadhaar Card",
+    "Proof of Punjab residence proof",
+    "Educational qualification certificates",
+    "Passport-sized photographs",
+    "Category certificate (if applicable: SC/ST/OBC/PWD)",
+    "Bank account details (for stipend, if applicable)"
+  ],
+  "deadlines": "Rolling basis — admissions are open throughout the year depending on course availability and training partner schedules.",
+  "implementing_agency": "Department of Technical Education & Industrial Training, Government of Punjab",
+  "contact_details": "Email: info@pbskills.gov.in | Helpline: 1800-1800-256",
+  "caveats": [
+    "Placement is not guaranteed and depends on individual performance and market conditions",
+    "Stipends, if offered, are subject to attendance and course completion",
+    "Course availability varies by region and training partner",
+    "Benefits may differ across schemes under PSDM (e.g., PMKVY, state-funded programs)"
+  ],
+  "source_cited_notes": [
+    "https://pbskills.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:16:19.103251+00:00"
+}

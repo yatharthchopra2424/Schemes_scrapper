@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-154",
+  "scheme_name": "National Food Security Mission (NFSM)",
+  "scheme_url": "https://nfsm.gov.in",
+  "ministry_or_category": "Agriculture",
+  "overview": "The National Food Security and Nutrition Mission (NFSNM) is a Centrally Sponsored Scheme launched in October 2007 to increase production of rice, wheat, pulses, coarse cereals, commercial crops, and nutri-cereals through area expansion, productivity enhancement, and sustainable practices. It aims to restore soil fertility, enhance farm-level economy, improve seed replacement rates, and strengthen seed sector infrastructure. The mission has been continued under Krishonnati Yojana till 31.03.2026 and comprises seven components: NFSNM-Rice, NFSNM-Wheat, NFSNM-Pulses, NFSNM-Coarse Cereals (Maize & Barley), NFSNM-Sub Mission on Nutri Cereals (Shree Anna), NFSNM-Commercial Crops, and NFSNM-Seed Components.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increasing production of Rice, Wheat, Pulses, Coarse Cereals (Maize & Barley), Commercial Crops (Cotton, Jute & Sugarcane) and Nutri-Cereals (Shree Anna) through area expansion, adoption of different cropping patterns and productivity enhancement in a sustainable manner.",
+    "Restoring soil fertility and productivity at farm level.",
+    "Enhancing farm level economy to enhance farmer’s income.",
+    "Enhancing post-harvest value addition at the farm gate for better price realization to farmers through efficient market linkages.",
+    "Enhancing the Seed Replacement Rate (SRR) and Varietal Replacement Rate (VRR).",
+    "Improving the infrastructure of the Seed Sector in the country."
+  ],
+  "eligibility": "Farmers cultivating rice, wheat, pulses, coarse cereals (maize & barley), commercial crops (cotton, jute, sugarcane), and nutri-cereals (shree anna) in identified districts of the country are eligible for benefits under the mission. The mission prioritizes districts with low productivity yet high potential, especially focusing on food-grain crops cultivated in rain-fed regions.",
+  "benefits": "Benefits include demonstrations, need-based inputs (seed, INM & IPM), cropping system trainings, flexi interventions, seed hubs, strategic adaptive research support, exposure visits to international organizations, assistance for seed transportation, fostering seeds of new varieties, creation & modernization of seed infrastructure, boosting seed production of traditional varieties, strengthening seed production infrastructure in potato, seed processing and storage units at gram panchayat level, strengthening seed quality control components, national seed reserve, and assistance for boosting seed production in private sector. Financial assistance is provided through Direct Benefit Transfer (DBT) by the States.",
+  "financial_support": "Funds are released to States/UTs based on Annual Action Plans approved by the Department of Agriculture & Farmers Welfare (DA&FW) as per extant guidelines of DA&FW, MoA&FW and Department of Expenditure, Ministry of Finance. The mechanism of fund flow follows the prevailing guidelines of the Department of Expenditure, Ministry of Finance, Government of India. Financial assistance is provided through Direct Benefit Transfer (DBT) by the States.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Prepare Annual Action Plan aligned with the Mission’s goals and objectives. 2. Execute the Approved Action Plan using funds provided by Government of India, along with matching State Share. 3. Maintain designated scheme accounts through the Public Financial Management System (PFMS). 4. Release of Central Share to States shall be in accordance with prevailing guidelines of the Department of Expenditure, Ministry of Finance, Government of India. 5. States/UTs should adopt the fund flow mechanism as communicated by the Government of India and ensure that the accounts thus maintained are audited annually by the Designated Authority/Agency of the State/UT.",
+  "application_portal_url": "https://nfsm.gov.in",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Agriculture & Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "The mission is implemented through States/UTs, and States/UTs shall maintain designated scheme accounts through the Public Financial Management System (PFMS).",
+    "The release of the Central Share to States shall be in accordance with prevailing guidelines of the Department of Expenditure, Ministry of Finance, Government of India.",
+    "States/UTs should adopt the fund flow mechanism as communicated by the Government of India and ensure that the accounts thus maintained are audited annually by the Designated Authority/Agency of the State/UT."
+  ],
+  "source_cited_notes": [
+    "https://nfsm.gov.in/Guidelines/NFSNM GUIDELINES APPROVED FY 2025-2026.pdf",
+    "https://nfsm.gov.in/Guidelines/NFSMXII.pdf",
+    "https://nfsm.gov.in/Guidelines/Guideline_nfsmandoilseed201819to201920.pdf",
+    "https://nfsm.gov.in/Guidelines/ContentE.pdf"
+  ],
+  "last_updated_date": "2025-26",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:21.390350+00:00"
+}

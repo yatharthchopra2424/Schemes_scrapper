@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-197",
+  "scheme_name": "Standards & Labelling Programme (BEE)",
+  "scheme_url": "https://beeindia.gov.in/sl",
+  "ministry_or_category": "Energy Efficiency",
+  "overview": "The Standards & Labelling Programme (BEE) is a flagship initiative of the Bureau of Energy Efficiency (BEE) under the Ministry of Power, Government of India. It aims to provide consumers with an informed choice about energy-saving and cost-saving potential of appliances through star labeling. The programme covers a wide range of appliances and equipment, promoting energy efficiency by enabling comparison and encouraging the adoption of energy-efficient products in the market.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "manufacturers",
+    "consumers",
+    "retailers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide consumers an informed choice about energy-saving and cost-saving potential of appliances",
+    "To promote energy efficiency in appliances and equipment through star labeling",
+    "To enable comparison of products based on energy and cost savings",
+    "To encourage the adoption of energy-efficient processes, equipment, devices and systems",
+    "To develop testing and certification procedures and promote testing facilities",
+    "To promote innovative financing of energy efficiency projects",
+    "To give financial assistance to institutions for promoting efficient use of energy and its conservation",
+    "To prepare educational curriculum on efficient use of energy and its conservation"
+  ],
+  "eligibility": "Manufacturers can file their applications online for star labelling of appliances under the S&L programme. The list of BEE approved models is available in the public domain through linkage of the S & L application with the website of BEE.",
+  "benefits": "Star Labels on an appliance enable a Consumer to know the performance of an appliance, eventually helping a Consumer to make informed decisions on cost and energy saving potential at the time of purchase. With the adoption of Unique QR code on every appliance under the S & L scheme, BEE wants to ensure the authenticity of the labels used in the market, so that misuse of Star Labels can be obviated by empowering the Consumer to retrieve and verify the technical specifications displayed on the star label affixed on an appliance with ease from registered appliance database of BEE using a phone by scanning or a text message. Manufacturers would be mandated to affix QR codes for every appliance bearing a BEE star label. Moreover, the adoption of QR Code eco-system should portray a relevant picture of the Indian Appliance Market scenario, by tracking the sales in different categories of appliances at various stages in respective supply chains with the help of QR Codes. Further, it is expected that this QR Code based eco-system shall enable manufacturers/ distributors/ retailers, log the sale of appliances with the help of existing BEE star label mobile app directly in the BEE database. BEE aims to deploy QR Code as a fail-proof way to adopt and implement anti counterfeit of BEE labels and to capture appliance sales. Mobile App: Bureau of Energy Efficiency (BEE) has developed a mobile application for Standards and Labeling (S & L) program for consumers. The app is linked with S & L database of BEE, thus it provides a platform to receive real-time feedback from consumers and other stakeholders. The data in the app is updated daily. Currently, consumers rely on energy efficiency information that is presented on star label. Mobile application will allow consumers to instantly compare personalized energy savings across all products of a specific class and thus enabling consumers to choose more efficient products that are available in the market. The app can be downloaded on android and iOS (BEE Star Label). BEE also published advertisement in national newspapers to promote the usage of the app and is using the app as an awareness and outreach medium under the S & L program as well as guide to consumers for purchasing decision.",
+  "financial_support": "The promotional role of BEE includes giving financial assistance to institutions for promoting efficient use of energy and its conservation. However, specific financial support details for the Standards & Labelling Programme are not explicitly mentioned in the provided evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Manufacturers can file their applications online. 2. Easy tracking of applications filed by manufacturers. 3. Reports can be downloaded easily. 4. Minimizes paperwork. 5. The list of BEE approved models is available in the public domain through linkage of the S & L application with the website of BEE. 6. More effective communication between manufacturers and BEE. 7. Analysis of energy savings and generation of reports thereof. 8. Integration of SMS gateways and Payment gateways for smoother operations.",
+  "application_portal_url": "https://www.beestarlabel.com/",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Bureau of Energy Efficiency (BEE), Ministry of Power, Govt. of India",
+  "contact_details": "Please contact BEE help desk at helpdesk[at]beenet[dot]in and 011-26766700, for any issues.",
+  "caveats": [
+    "Building Star Labeling Program- is under revision. No application shall be accepted by BEE with effect from 25th September 2025 until further notice."
+  ],
+  "source_cited_notes": [
+    "https://beeindia.gov.in/sl",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=2&lid=393&ls_id=245"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:13:47.839366+00:00"
+}

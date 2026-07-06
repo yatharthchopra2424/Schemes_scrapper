@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-679",
+  "scheme_name": "National Intellectual Property Awareness Mission (NIPAM)",
+  "scheme_url": "https://nipam.in",
+  "ministry_or_category": "Legal & IP",
+  "overview": "The National Intellectual Property Awareness Mission (NIPAM) is a flagship program launched by the Government of India to promote intellectual property (IP) awareness and education across the country. It aims to inculcate the spirit of creativity and innovation among students, faculty, and innovators in higher educational institutions and schools. The mission provides training and capacity-building programs on various aspects of IP rights, including patents, trademarks, copyrights, and designs. NIPAM is implemented by the Intellectual Property Office, India under the Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM).",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "students",
+    "faculty",
+    "innovators",
+    "educational institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create awareness about intellectual property rights (IPR) among students and faculty in higher educational institutions",
+    "To train and sensitize teachers and students on the basics of IPR and its importance in innovation and entrepreneurship",
+    "To promote a culture of innovation and creativity in academic institutions across India",
+    "To provide foundational knowledge on patents, trademarks, copyrights, designs, and geographical indications",
+    "To encourage the filing of IP applications by fostering an enabling environment in universities and colleges"
+  ],
+  "eligibility": "Students, faculty members, and innovators from recognized higher educational institutions (universities, colleges) and schools across India are eligible to participate in NIPAM training programs. Institutions must register to host or participate in the awareness sessions conducted under the mission.",
+  "benefits": "Participants gain foundational knowledge of intellectual property rights, including patents, trademarks, copyrights, and designs. The program enhances awareness about the importance of IP in innovation, entrepreneurship, and economic development. It provides training on IP processes, procedures, and benefits, helping individuals and institutions protect their innovations. NIPAM also encourages a culture of creativity and supports the national goal of strengthening India’s IP ecosystem.",
+  "financial_support": "NIPAM does not provide direct financial support, grants, or subsidies to beneficiaries. The program is focused on awareness, training, and capacity building in the field of intellectual property rights. All training sessions and educational resources are provided free of cost to eligible participants and institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Educational institutions interested in participating in NIPAM must register on the official NIPAM portal. 2. After registration, institutions can schedule IP awareness sessions for their students and faculty. 3. Sessions are conducted by trained resource persons or IP officials either virtually or in person, as per mutual convenience. 4. Participants attend the training sessions covering various aspects of IPR. 5. Upon completion, participants may receive certificates of participation issued by the Intellectual Property Office, India.",
+  "application_portal_url": "https://nipam.in",
+  "required_documents": [
+    "Institution registration details",
+    "Authorization letter from the head of institution",
+    "Details of nodal officer coordinating the program",
+    "Proposed schedule and number of participants for the awareness session"
+  ],
+  "deadlines": "Rolling basis — institutions can apply throughout the year based on availability of resource persons and scheduling convenience.",
+  "implementing_agency": "Intellectual Property Office, India, Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: nipam@cipam.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "The program is strictly for awareness and training purposes; it does not provide legal advice or IP filing assistance",
+    "Participation is subject to availability of trained resource persons and institutional scheduling",
+    "Certificates are issued only upon successful completion of the awareness session",
+    "The mission does not fund or support IP filing costs or prosecution"
+  ],
+  "source_cited_notes": [
+    "https://nipam.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:45:08.492990+00:00"
+}

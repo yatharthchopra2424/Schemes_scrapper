@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-671",
+  "scheme_name": "India Post Logistics – e-Commerce Integration Scheme",
+  "scheme_url": "https://www.indiapost.gov.in",
+  "ministry_or_category": "Postal & Logistics",
+  "overview": "India Post Logistics – e-Commerce Integration Scheme is a government initiative under the Department of Posts aimed at integrating India Post's extensive logistics network with e-commerce platforms to enhance last-mile delivery, improve supply chain efficiency, and support small and medium enterprises in accessing national and international markets through postal infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "e-commerce sellers",
+    "startups",
+    "rural entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Leverage India Post's nationwide network for efficient e-commerce logistics",
+    "Provide seamless integration between postal services and e-commerce platforms",
+    "Enhance last-mile delivery capabilities in urban and rural areas",
+    "Support MSMEs and small traders in accessing digital markets",
+    "Improve supply chain efficiency through technology-enabled postal infrastructure",
+    "Promote financial inclusion by linking logistics with banking services",
+    "Strengthen India Post's role in the digital economy"
+  ],
+  "eligibility": "Eligible beneficiaries include MSMEs, e-commerce sellers, startups, and rural entrepreneurs engaged in online retail or logistics services who wish to utilize India Post's network for shipping, delivery, and fulfillment services across India.",
+  "benefits": "Benefits include access to India Post's extensive postal network for reliable and cost-effective shipping, integration with e-commerce platforms for automated order processing, real-time tracking of shipments, cash-on-delivery services, reverse logistics support, warehousing facilities at select post offices, and assistance with customs documentation for international shipments.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants; instead, it offers logistics services at competitive rates through India Post's existing infrastructure, with pricing based on weight, distance, and service type (e.g., Speed Post, Parcel, Logistics Post).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the India Post official website or visit a designated post office offering e-commerce logistics services. 2. Register as a business user on the India Post Logistics portal or through the concerned post office. 3. Submit required documents including business registration, GSTIN, PAN, and KYC details. 4. Sign a service agreement outlining terms, rates, and service levels. 5. Integrate your e-commerce platform with India Post's API or use manual booking via portal/post office. 6. Begin shipping orders using India Post's logistics network.",
+  "application_portal_url": "https://www.indiapost.gov.in",
+  "required_documents": [
+    "Business registration certificate",
+    "GSTIN",
+    "PAN card",
+    "KYC documents (Aadhaar, address proof)",
+    "Cancelled cheque or bank statement",
+    "Authorized signatory letter"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Department of Posts, Ministry of Communications",
+  "contact_details": "Email: adgfs[at]indiapost[dot]gov[dot]in | Phone: 011-23096102 | Helpline: 18002666868",
+  "caveats": [
+    "Service availability may vary by location and post office capacity",
+    "Certain remote areas may have limited service frequency",
+    "Customs and international shipping compliance is the responsibility of the sender",
+    "Insurance for high-value items must be opted separately",
+    "Service charges are subject to revision based on operational costs"
+  ],
+  "source_cited_notes": [
+    "https://www.indiapost.gov.in/",
+    "https://indiapost.gov.in/banking-services/mutualfunds",
+    "https://indiapost.gov.in/documents/offerings/schemesandservices/UTI_CNBC.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:44:36.788670+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-262",
+  "scheme_name": "J&K New Industrial Development Scheme (J&K NIDS)",
+  "scheme_url": "https://jkindustrialdev.nic.in",
+  "ministry_or_category": "State Level (J&K)",
+  "overview": "The J&K New Industrial Development Scheme (J&K NIDS) is a state-level initiative launched by the Government of Jammu and Kashmir to promote industrial development, attract investment, and generate employment in the Union Territory. The scheme offers financial incentives and support to eligible industrial units for setting up new enterprises or expanding existing ones. It focuses on thrust sectors such as manufacturing, agro-processing, tourism-related industries, and services. The scheme aims to boost economic growth and industrialization in Jammu and Kashmir through structured fiscal and policy support.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "large industries",
+    "new industrial units",
+    "expanding units"
+  ],
+  "geographic_scope": "Jammu and Kashmir only",
+  "objectives": [
+    "Promote industrial investment in Jammu and Kashmir",
+    "Generate employment opportunities for local youth",
+    "Develop infrastructure and support services for industries",
+    "Encourage setting up of new industrial units in the UT",
+    "Support expansion and modernization of existing industrial units",
+    "Boost export-oriented and import-substituting industries",
+    "Develop thrust sectors including manufacturing, agro-processing, and tourism"
+  ],
+  "eligibility": "Eligible units include new industrial units setting up operations in Jammu and Kashmir and existing units undertaking substantial expansion. Units must be registered under the Factories Act, 1948 or as a company/LLP and engaged in manufacturing, agro-processing, mining, or services. The unit must commence commercial production within the stipulated time frame and adhere to environmental and labor norms. Preference is given to units in identified industrially backward blocks and those employing local workforce.",
+  "benefits": "Financial incentives include capital investment subsidy, interest subsidy on term loans, GST reimbursement, power tariff concession, and employment generation subsidy. Additional benefits consist of stamp duty exemption, land cost subsidy, and subsidy on quality certification. The scheme also provides support for skill development, infrastructure development, and single-window clearance for faster approvals.",
+  "financial_support": "Under J&K NIDS, eligible units can receive a capital investment subsidy of up to 30% of investment in plant and machinery, subject to a ceiling of INR 50 lakhs. Interest subsidy is provided at 6% per annum on term loans for a period of 5 years. GST reimbursement is available for a period of 5 years from the date of commencement of commercial production. Employment generation subsidy is offered at INR 15,000 per annum per employee for a period of 3 years for local domiciled workers. Power tariff concession is available at 50% for a period of 5 years.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakhs for capital investment subsidy",
+  "application_process": "1. Submit application online through the single-window portal of the Jammu and Kashmir Industries and Commerce Department. 2. Upload required documents including project report, incorporation certificates, land documents, and bank appraisal note. 3. Application is scrutinized by the District Industries Centre (DIC) for preliminary verification. 4. Forwarded to the Empowered Committee for evaluation and approval. 5. Upon approval, letter of intent is issued. 6. After commencement of commercial production, final disbursement of subsidies is made upon submission of proof of investment and production.",
+  "application_portal_url": "https://jkindustrialdev.nic.in",
+  "required_documents": [
+    "Project Report",
+    "Certificate of Incorporation / Registration",
+    "Memorandum and Articles of Association / Partnership Deed",
+    "Land Allotment / Lease / Sale Deed",
+    "Bank Appraisal Note on Term Loan",
+    "No Objection Certificate from Pollution Control Board",
+    "Clearance from Fire Department",
+    "Details of Plant and Machinery",
+    "Employment Plan with local workforce details",
+    "Affidavit regarding compliance with scheme norms"
+  ],
+  "deadlines": "Applications are accepted throughout the year on a rolling basis subject to availability of funds.",
+  "implementing_agency": "Industries and Commerce Department, Government of Jammu and Kashmir",
+  "contact_details": "Email: info@jkindustrialdev.nic.in | Phone: 0191-2566555",
+  "caveats": [
+    "Subsidy disbursement is contingent upon commencement of commercial production within 2 years of approval",
+    "Benefits are available only for new investment in plant and machinery",
+    "Units must employ a minimum percentage of local domiciled workforce",
+    "Incentives are subject to annual budgetary allocations and fund availability",
+    "Misrepresentation of facts leads to rejection and recovery of disbursed amount with interest"
+  ],
+  "source_cited_notes": [
+    "https://jkindustrialdev.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:40:47.922290+00:00"
+}

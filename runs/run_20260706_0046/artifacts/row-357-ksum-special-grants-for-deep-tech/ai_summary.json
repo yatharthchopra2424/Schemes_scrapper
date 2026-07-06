@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-357",
+  "scheme_name": "KSUM Special Grants for Deep Tech",
+  "scheme_url": "https://startupmission.kerala.gov.in",
+  "ministry_or_category": "State Level (Kerala)",
+  "overview": "KSUM Special Grants for Deep Tech is a state-level initiative by Kerala Startup Mission to support deep technology startups through financial assistance in the form of grants and seed funding. The scheme aims to help innovators move from idea validation to prototype development and early market readiness by reducing financial risk in early stages. It focuses on first-time founders, student innovators, women-led startups, and technology-driven ventures to ensure inclusive access to capital and build a strong pipeline of future-ready startups from Kerala.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "student innovators",
+    "women entrepreneurs",
+    "technology-driven ventures"
+  ],
+  "geographic_scope": "Kerala only",
+  "objectives": [
+    "Support innovators and startups at the critical phase when ideas are taking shape and products are yet to reach the market",
+    "Provide non-dilutive grants and seed funding to help founders move from idea validation to prototype development and early market readiness",
+    "Reduce financial risk in early stages to empower startups to focus on building robust solutions, validating demand, and preparing for scale",
+    "Ensure inclusive access to capital for first-time founders, student innovators, women-led startups, and technology-driven ventures",
+    "Strengthen the pipeline of future-ready startups from Kerala"
+  ],
+  "eligibility": "The scheme is designed to support innovators and startups at the most critical phase of their journey—when ideas are taking shape and products are yet to reach the market. It is especially focused on first-time founders, student innovators, women-led startups, and technology-driven ventures, ensuring inclusive access to capital and a strong pipeline of future-ready startups from Kerala.",
+  "benefits": "The scheme provides non-dilutive grants and seed funding. Specific grant types include: Idea Grant (up to ₹3 lakhs), Productisation Grant (up to ₹7 lakhs), Market Acceleration Grant (up to ₹10 lakhs), Scale-up Grant (up to ₹15 lakhs), R&D Grant (up to ₹30 lakhs), Idea Grant for Student Innovators (up to ₹2 lakhs), and Women/Transgender Productisation Grant (up to ₹12 lakhs). Benefits also include support for prototype development, market readiness, and scaling operations.",
+  "financial_support": "The scheme provides non-dilutive grants and seed funding. Grants range from ₹2 lakhs for student innovators to ₹30 lakhs for R&D in deep tech/hardware startups. Seed funding includes loans such as the Seed Loan (up to ₹15 lakhs), Scaleup Seed Fund (up to ₹25 lakhs), and Women Soft Loan Scheme (up to ₹15 lakhs). Financial support is disbursed in milestone-based tranches, often with 50% released initially and the balance after progress review and utilisation certificate.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to ₹30 lakhs for R&D Grant; up to ₹15 lakhs for Scale-up Grant; up to ₹12 lakhs for Women/Transgender Productisation Grant; up to ₹10 lakhs for Market Acceleration and Productisation Grants; up to ₹7 lakhs for Productisation Grant; up to ₹3 lakhs for Idea Grant; up to ₹2 lakhs for Idea Grant (Student Innovator)",
+  "application_process": "1. Apply through the KSUM website during the official call for applications. 2. Application is scrutinised by KSUM officials as part of initial screening; shortlisted applicants are notified via email. 3. Shortlisted startups present their idea and fund utilisation plan before the Expert Committee. 4. The Expert Committee evaluates based on Team, Product Innovation, Marketing, Financials, and Grant Utilisation Plan. 5. Approval recommendations are submitted for approval by the CEO/Chairman, KSUM. 6. Submit required documents (CA-certified No Dues & Margin Money Certificate with UDIN, revenue/investment proof, incorporation documents, PAN, KSUM Unique ID, bank details, balance sheet for last two years, stamp paper, etc.). 7. Execute agreement with KSUM at designated offices before fund release. 8. Grant is disbursed in milestone-based tranches (generally 50% first tranche, balance after progress review and utilisation certificate). 9. Submit interim progress report and utilisation certificate for second tranche release.",
+  "application_portal_url": "https://startupmission.kerala.gov.in",
+  "required_documents": [
+    "CA-certified No Dues & Margin Money Certificate with UDIN",
+    "Utilisation certificate, if already availed the idea grant/Productization grant/KSUM Seed loan",
+    "Documents in connection with Revenue generation/ Investment raised",
+    "Company Incorporation details (COI, MoA/Deed)",
+    "Company PAN card",
+    "KSUM unique ID certificate",
+    "ID proof of the founders",
+    "Company Bank Account details",
+    "Goodwill certificate",
+    "Company Balance sheet for the last two years",
+    "Rs.200 worth Stamp paper in the name of the company"
+  ],
+  "deadlines": "Rolling basis — applications are accepted year-round as per demand, with calls for proposals issued periodically and published through official channels.",
+  "implementing_agency": "Kerala Startup Mission (KSUM)",
+  "contact_details": "Email: info@startupmission.in | Phone: 08047180470 | Address: Kerala Startup Mission, G3B, Thejaswini, Technopark, Trivandrum",
+  "caveats": [
+    "Founder salaries, purchase of fixed assets (land, building, high-end equipment, costly software above ₹2 lakhs), rent, and major infrastructure setup are not permitted under the grant",
+    "Startups must bring margin money (20% for Productisation Grant, 30% for Market Acceleration Grant, 50% for Scale-up Grant)",
+    "The grant is not generally given for service startups and SMEs working in trade and commerce",
+    "Startups shall not have any other pending dues with any of the Government agencies, KSUM, Other incubators in the state and shall not be blacklisted by any Govt. agency in India",
+    "The startup director should have a good CIBIL Score, preferably more than 750"
+  ],
+  "source_cited_notes": [
+    "https://startupmission.kerala.gov.in/schemes/early-stage-funding",
+    "https://grants.startupmission.in/img/guidelines.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:44:17.430227+00:00"
+}

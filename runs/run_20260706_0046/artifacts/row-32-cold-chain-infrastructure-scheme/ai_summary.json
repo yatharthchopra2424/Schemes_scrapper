@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-32",
+  "scheme_name": "Cold Chain Infrastructure Scheme",
+  "scheme_url": "https://mofpi.gov.in/coldchain",
+  "ministry_or_category": "Agriculture Processing",
+  "overview": "The Cold Chain Infrastructure Scheme is a component of the Pradhan Mantri Kisan SAMPADA Yojana (PMKSY) aimed at developing integrated cold chain and value addition infrastructure to reduce post-harvest losses, enhance processing levels, and boost exports of perishable products. It supports the setting up of multi-product food irradiation units and cold chain projects across India. The scheme provides financial assistance in the form of grants-in-aid for infrastructure development in the food processing sector.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "MSME",
+    "agri-startups",
+    "SC/ST",
+    "NER Region"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce post-harvest losses of horticultural and non-horticultural produce",
+    "Enhance processing and value addition of agricultural products",
+    "Provide seamless cold chain and preservation infrastructure from farm gate to consumer",
+    "Boost exports of processed and perishable food products",
+    "Create modern infrastructure with efficient supply chain management",
+    "Generate employment opportunities in rural areas",
+    "Increase farmers' income through better returns and reduced wastage"
+  ],
+  "eligibility": "Prospective entrepreneurs, including those from SC/ST Category and NER Region, are eligible to apply under various Sub-Schemes of PMKSY. Eligibility also extends to units proposed under the Integrated Cold Chain and Value Addition Infrastructure scheme. Applications are invited through Expression of Interest (EoI) for setting up of multi-product food irradiation units and cold chain projects. Specific eligibility criteria for R&D and other sub-schemes may apply as per respective guidelines.",
+  "benefits": "Financial assistance in the form of grants-in-aid for setting up infrastructure projects in the food processing sector. Support includes pattern of assistance for project implementation, release of funds in instalments, and technical guidance. The scheme facilitates access to cold chain infrastructure, value addition facilities, and irradiation units. It also enables beneficiaries to leverage investment, improve market linkages, and enhance product shelf life and safety.",
+  "financial_support": "Financial assistance is provided as grants-in-aid for infrastructure projects under the Food Processing Sector. The release of funds follows a two-installment pattern: 50% upon compliance with initial conditions (including acceptance letter, land documents, and term loan details), and the remaining 50% upon submission of utilization certificate and verification of expenditure. Funds are released through the PFMS EAT module. The scheme also outlines requirements for bank accounts, surety bonds, and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit Expression of Interest (EoI) for setting up of multi-product food irradiation units or cold chain projects under the scheme. 2. Await pre-bid meeting notices and participate in clarification sessions. 3. Respond to RFPs for engagement of Programme Management Agency (PMA) if applicable. 4. Submit detailed proposals through the designated portal/link. 5. Undergo evaluation by Technical Committee and Project Approval Committee. 6. Receive approval from Inter-Ministerial Approval Committee (IMAC). 7. Fulfill compliance requirements including land documents, bank account details, and surety bond. 8. Receive first instalment of grant (50%) upon submission of acceptance letter and compliance. 9. Submit utilization certificate and expenditure details for second instalment (50%).",
+  "application_portal_url": "",
+  "required_documents": [
+    "Acceptance Letter (Annexure-VI)",
+    "Land document (ownership/registered leasehold) in name of PIA",
+    "Details of three bank accounts (for private PIAs) or two bank accounts (for Govt PIAs)",
+    "Term loan sanction letter from the Bank",
+    "Building plan/Blue Print/Lay-out/photo of the building",
+    "Utilization certificate of grant availed earlier from MoFPI (if any)",
+    "Copies of Bank statements showing payments to suppliers",
+    "Detailed list of approved equipment procured and installed (Annexure-VIII a and b)",
+    "Self-attested English/Hindi version of land document",
+    "Notarised Surety Bond (Annexure-IX) on non-judicial stamp paper of not less than Rs. 100/-",
+    "Self-declaration of project completion and commercialization (Annexure-X)",
+    "Proof of prominent display stating 'Project is assisted by the Ministry of Food Processing Industries, Government of India'"
+  ],
+  "deadlines": "Rolling basis — EoIs and proposals are invited periodically with specific closing dates (e.g., EoI dated 27.05.2025 for irradiation units closing 28.02.2026; EoI dated 20.05.2026 for irradiation units).",
+  "implementing_agency": "Ministry of Food Processing Industries",
+  "contact_details": "",
+  "caveats": [
+    "Land on registered leasehold must have a lease duration of not less than 15 years",
+    "Surety Bond is not required for Central/State Government Departments",
+    "Original Surety Bond must be submitted to the Ministry through speed post",
+    "Blacklisting/debarring may occur for misuse of grant-in-aid (e.g., M/s Paras Spices, M/s Vision Fresh and Frozen)",
+    "Extension of timelines may be granted for submission of proposals/EOIs",
+    "Ineligible lists are published for non-compliant proposals (e.g., Ineligible list of 20 applications under Cold Chain Scheme)"
+  ],
+  "source_cited_notes": [
+    "https://mofpi.gov.in/Schemes/cold-chain/download-circulars-0",
+    "https://mofpi.gov.in/Schemes/cold-chain/download-guidelines-0",
+    "https://mofpi.gov.in/en/Schemes/about-pmksy-scheme",
+    "http://mofpi.gov.in/Schemes/food-safety-quality-assurance-infrastructure/setting-gradation-quality-control-food-testing-laboratory/release-funds"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:39:09.678553+00:00"
+}

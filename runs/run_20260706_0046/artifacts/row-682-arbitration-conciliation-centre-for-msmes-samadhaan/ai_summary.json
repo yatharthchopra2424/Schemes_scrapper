@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-682",
+  "scheme_name": "Arbitration & Conciliation Centre for MSMEs (SAMADHAAN)",
+  "scheme_url": "https://samadhaan.msme.gov.in",
+  "ministry_or_category": "Legal & IP",
+  "overview": "MSME SAMADHAAN is a Delayed Payment Monitoring System designed to help Micro, Small, and Medium Enterprises (MSMEs) track and resolve delayed payments from buyers, including government departments and public sector undertakings. The system enables MSMEs to file complaints online regarding delayed payments and facilitates conciliation and arbitration through the Arbitration & Conciliation Centre for MSMEs. It aims to ensure timely payment realization and reduce financial stress on MSMEs by providing a digital platform for grievance redressal.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable MSMEs to file online complaints regarding delayed payments",
+    "Facilitate conciliation and arbitration for resolution of payment disputes",
+    "Monitor and track delayed payment cases across India",
+    "Ensure timely realization of payments due to MSMEs",
+    "Reduce financial stress on MSMEs caused by delayed payments",
+    "Provide a transparent and accessible digital grievance redressal mechanism"
+  ],
+  "eligibility": "Any Micro, Small, or Medium Enterprise (MSME) registered under the MSME Act, 2006, facing delayed payments from buyers including central government departments, state governments, public sector undertakings, or private companies, is eligible to file a complaint through the SAMADHAAN portal.",
+  "benefits": "Online filing of delayed payment complaints, tracking of complaint status, facilitation of conciliation and arbitration processes, access to the Arbitration & Conciliation Centre for MSMEs, and support in realizing delayed payments through a structured grievance redressal mechanism.",
+  "financial_support": "The scheme does not provide direct financial support such as grants, loans, or subsidies. Instead, it offers procedural and institutional support to help MSMEs recover delayed payments through legal and administrative channels, including conciliation and arbitration.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the SAMADHAAN portal at https://samadhaan.msme.gov.in 2. Register as an MSME by providing Udyam Registration details 3. Log in to the portal using credentials 4. File a complaint by entering buyer details, invoice information, and amount due 5. Submit the complaint for processing 6. Track the status of the complaint through the portal 7. Await conciliation or arbitration proceedings as initiated by the Arbitration & Conciliation Centre for MSMEs.",
+  "application_portal_url": "https://samadhaan.msme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Copy of invoices or bills against which payment is delayed",
+    "Details of the buyer (name, address, GSTIN if available)",
+    "Communication records related to payment follow-up (if any)",
+    "Bank account details for payment realization (if applicable)"
+  ],
+  "deadlines": "Rolling basis — complaints can be filed at any time as there is no fixed deadline.",
+  "implementing_agency": "Office of the Development Commissioner (MSME), Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "The system facilitates complaint filing and monitoring but does not guarantee payment recovery",
+    "Resolution depends on the willingness of the buyer to participate in conciliation or arbitration",
+    "Legal enforcement of arbitral awards may require separate court proceedings",
+    "Only MSMEs with valid Udyam Registration can file complaints"
+  ],
+  "source_cited_notes": [
+    "https://samadhaan.msme.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:51:29.005786+00:00"
+}

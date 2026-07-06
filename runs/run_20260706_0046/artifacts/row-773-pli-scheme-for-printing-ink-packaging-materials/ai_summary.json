@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-773",
+  "scheme_name": "PLI Scheme for Printing Ink & Packaging Materials",
+  "scheme_url": "https://dpiit.gov.in",
+  "ministry_or_category": "Printing & Packaging",
+  "overview": " : The PLI Scheme for Printing Ink & Packaging Materials is a Production Linked Incentive scheme aimed at boosting domestic manufacturing and reducing imports in the printing ink and packaging materials sector. It provides financial incentives based on incremental sales to eligible manufacturers, encouraging investment, technology upgradation, and value addition in the industry. The scheme supports the Make in India initiative by enhancing competitiveness and creating employment opportunities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturers",
+    "MSME",
+    "domestic producers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance domestic manufacturing capacity in printing ink and packaging materials",
+    "Reduce import dependence through incentivizing local production",
+    "Encourage investment in technology and infrastructure upgradation",
+    "Promote value addition and quality improvement in the sector",
+    "Generate employment opportunities in the manufacturing sector",
+    "Support the Make in India initiative for self-reliance",
+    "Strengthen the supply chain for printing and packaging industries"
+  ],
+  "eligibility": "Eligible applicants include companies engaged in the manufacturing of printing ink and packaging materials, having a minimum threshold of investment in plant and machinery, and committing to incremental sales growth over the base year. The scheme is open to domestic manufacturers who meet the eligibility criteria as per the PLI guidelines, including MSMEs and large enterprises, subject to verification of production and sales data.",
+  "benefits": "Financial incentives in the form of subsidies based on incremental sales over a base year, tax benefits under relevant sections, support for technology upgradation, access to credit facilitation, and encouragement for export-oriented production. The scheme also provides non-financial benefits such as recognition under government initiatives and support for skill development.",
+  "financial_support": "The scheme provides a production-linked incentive (subsidy) calculated as a percentage of incremental sales over the base year, disbursed annually based on verified sales and investment claims. The incentive is credited directly to the beneficiary's bank account after scrutiny and approval by the implementing agency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the designated PLI portal for Printing Ink & Packaging Materials. 2. Submit the application form with details of existing investment and production capacity. 3. Provide audited financial statements and proof of incremental sales. 4. Upload documents such as Certificate of Incorporation, PAN, GST registration, and bank details. 5. Submit the application for scrutiny by the Project Management Agency. 6. Upon approval, sign the agreement and begin production to claim incentives based on verified incremental sales.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST Registration Certificate",
+    "Audited Financial Statements",
+    "Details of existing plant and machinery investment",
+    "Sales and production data for base and claim years",
+    "Bank account details for incentive disbursement",
+    "Undertaking regarding incremental sales and investment"
+  ],
+  "deadlines": "Applications are accepted within the specified window as per the scheme notification; exact dates are subject to annual guidelines issued by DPIIT.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are disbursed only after verification of incremental sales and investment claims",
+    "The scheme is subject to annual budget allocation and may be modified or withdrawn",
+    "Benefits are contingent upon meeting yearly performance targets",
+    "Only domestic manufacturers are eligible; importers or traders are excluded"
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in/offerings/schemes-and-services/details/production-linked-incentive-pli-scheme-for-printing-ink-packaging-materials-"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:46:01.660334+00:00"
+}

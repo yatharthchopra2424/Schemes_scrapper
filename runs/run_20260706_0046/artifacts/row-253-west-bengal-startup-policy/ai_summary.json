@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-253",
+  "scheme_name": "West Bengal Startup Policy",
+  "scheme_url": "https://msmewb.gov.in",
+  "ministry_or_category": "State Level (West Bengal)",
+  "overview": "The West Bengal Startup Policy is a state-level initiative aimed at fostering innovation and entrepreneurship within the state of West Bengal. It seeks to create a conducive ecosystem for startups by providing support in areas such as funding, mentorship, infrastructure, and regulatory ease. The policy focuses on promoting technology-driven and innovation-led enterprises across various sectors. It is implemented by the Department of MSME & Textiles, Government of West Bengal.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "MSME"
+  ],
+  "geographic_scope": "West Bengal only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in West Bengal",
+    "Provide financial and non-financial support to startups",
+    "Create incubation and co-working infrastructure",
+    "Facilitate access to funding and investment",
+    "Simplify regulatory compliance for startups",
+    "Encourage sector-specific innovation (e.g., IT, biotech, agri)",
+    "Develop skilled manpower for startup ecosystem",
+    "Establish West Bengal as a preferred startup destination"
+  ],
+  "eligibility": "Entities must be registered as a Private Limited Company, Limited Liability Partnership (LLP), or Partnership Firm under relevant Indian laws. The startup should be incorporated in West Bengal or have at least 50% of its operations based in the state. The entity must be working on innovative products, services, or processes with potential for scalability and employment generation. Preference may be given to startups led by women, SC/ST, or differently-abled entrepreneurs.",
+  "benefits": "Registered startups under the policy may access seed funding, prototype development grants, and reimbursement of patent filing fees. They are eligible for subsidies on lease rental for incubation centers, priority in government procurement, and fast-track clearance for licenses and approvals. Additional benefits include mentorship from industry experts, access to investor networks, participation in startup fairs and roadshows, and support for international market access.",
+  "financial_support": "Financial support includes seed funding of up to INR 25 lakhs for prototype development and product commercialization. Grants are also provided for intellectual property rights (IPR) protection, with reimbursement of up to INR 2 lakhs for domestic patent filing and INR 10 lakhs for international patent filing. Incubation support includes subsidy on seat rent in government-recognized incubators.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 25 lakhs for seed funding; up to INR 2 lakhs for domestic patent and INR 10 lakhs for international patent reimbursement",
+  "application_process": "1. Visit the official MSME West Bengal website or designated startup portal. 2. Register as a startup by providing basic entity and promoter details. 3. Fill out the online application form under the West Bengal Startup Policy. 4. Upload required documents including Certificate of Incorporation, business plan, and proof of innovation. 5. Submit the application for review by the designated committee. 6. Upon approval, receive acknowledgment and further instructions for benefit disbursement.",
+  "application_portal_url": "https://msmewb.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Aadhaar of promoters/directors",
+    "Business plan or project report",
+    "Proof of innovation (prototype details, IPR documents, etc.)",
+    "Bank account details of the entity",
+    "Address proof of the startup's principal place of business",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year",
+  "implementing_agency": "Department of MSME & Textiles, Government of West Bengal",
+  "contact_details": "",
+  "caveats": [
+    "Benefits are subject to availability of funds and approval by the state-level committee",
+    "Startups must maintain operational presence in West Bengal to continue availing benefits",
+    "Misrepresentation of facts may lead to rejection and blacklisting",
+    "Certain benefits like seed funding may require matching contribution from the startup",
+    "Policy benefits may be revised or withdrawn based on government directives"
+  ],
+  "source_cited_notes": [
+    "https://msmewb.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:37:08.637915+00:00"
+}

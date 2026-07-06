@@ -1,0 +1,64 @@
+{
+  "scheme_id": "row-724",
+  "scheme_name": "National Action Plan for Forest Products (NAPFP)",
+  "scheme_url": "https://moef.gov.in",
+  "ministry_or_category": "Furniture & Wood",
+  "overview": "The National Action Plan for Forest Products (NAPFP) is a scheme under the Ministry of Environment, Forest and Climate Change aimed at promoting sustainable development and value addition in the forest products sector, particularly focusing on furniture and wood-based industries. It seeks to enhance the competitiveness of the sector through technological upgradation, skill development, market promotion, and sustainable resource management. The scheme supports MSMEs, artisans, and entrepreneurs engaged in forest-based enterprises by providing financial and technical assistance for modernization, certification, and market access. It aligns with national goals of sustainable forest management and livelihood generation in forest-dependent communities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "artisans",
+    "entrepreneurs",
+    "forest-based industries",
+    "furniture and wood sector units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote sustainable utilization of forest resources for value-added products",
+    "Enhance competitiveness of the furniture and wood industry through technology upgradation",
+    "Support skill development and capacity building of artisans and workers",
+    "Facilitate market access and promotion of forest products domestically and internationally",
+    "Encourage adoption of eco-friendly practices and certification in the wood processing sector",
+    "Strengthen linkages between forest produce collectors, processors, and markets",
+    "Generate employment and livelihood opportunities in forest-dependent communities"
+  ],
+  "eligibility": "The scheme is open to Micro, Small, and Medium Enterprises (MSMEs), artisans, self-help groups, cooperatives, and entrepreneurs engaged in the furniture, wood, and forest products sector. Applicants must be registered entities with valid registration documents such as Udyam Registration, partnership deed, or company incorporation certificate. Priority is given to units located in forest fringe areas and those engaged in sustainable harvesting and processing of non-timber forest products (NTFPs) and timber from approved sources.",
+  "benefits": "Financial assistance in the form of subsidies for technology upgradation, procurement of modern machinery, and adoption of eco-friendly technologies. Technical support for product design, quality improvement, and certification (e.g., FSC, PEFC). Assistance for market development, participation in trade fairs, and branding. Support for setting up common facility centers (CFCs) for shared infrastructure like seasoning, treatment, and testing facilities. Training programs for skill upgradation of workers and artisans. Assistance in obtaining statutory clearances and compliance with environmental regulations.",
+  "financial_support": "The scheme provides financial assistance in the form of subsidies, typically covering up to 50% of the project cost for eligible activities such as machinery procurement, technology upgradation, and setting up of common facility centers. The subsidy is disbursed in installments based on milestone achievement and verification. The funding mechanism involves submission of project proposals through the designated portal, appraisal by technical committees, and release of funds via Direct Benefit Transfer (DBT) to the beneficiary's bank account after verification of expenditure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official scheme portal or the Ministry of Environment, Forest and Climate Change website. 2. Register as a beneficiary by providing basic details and uploading required documents such as Udyam Registration, PAN, GSTIN, and bank details. 3. Prepare and submit a detailed project proposal including project cost, implementation plan, expected outcomes, and sustainability measures. 4. Submit the application online along with all supporting documents. 5. The proposal is screened by the designated committee for eligibility and technical feasibility. 6. Upon approval, the applicant receives an approval letter and is required to submit a bank guarantee if applicable. 7. After incurring expenditure, submit utilization certificates and bills for reimbursement. 8. Subsidy is released in installments based on verification of progress and expenditure.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "PAN Card of the applicant/entity",
+    "GST Registration Certificate (if applicable)",
+    "Bank account details and cancelled cheque",
+    "Project report detailing objectives, cost, timeline, and expected outcomes",
+    "Quotations for machinery/equipment to be procured",
+    "Land ownership/lease documents",
+    "Environmental clearances (if applicable)",
+    "Partnership deed or certificate of incorporation (for companies/partnerships)",
+    "Affidavit of compliance with scheme guidelines"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is subject to availability of funds and approval by the sanctioning committee",
+    "Beneficiaries must ensure compliance with environmental and forest laws",
+    "Funds must be utilized only for the approved purpose within the stipulated timeframe",
+    "Subsequent installments are released only upon submission of utilization certificates and expenditure proof",
+    "Misutilization of funds may lead to recovery with penalty",
+    "The scheme may be revised or discontinued based on policy review"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in",
+    "https://moef.gov.in/scheme-guidelines-of-revised-rd-scheme-for-conservation-and-development",
+    "https://moef.gov.in/revised-guidelines-of-erdp",
+    "https://moef.gov.in/scheme-sanction-orders"
+  ],
+  "last_updated_date": "",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-06T02:24:08.016389+00:00"
+}

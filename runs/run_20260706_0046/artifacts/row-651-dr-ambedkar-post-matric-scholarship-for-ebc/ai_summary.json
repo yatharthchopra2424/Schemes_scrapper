@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-651",
+  "scheme_name": "Dr. Ambedkar Post-Matric Scholarship for EBC",
+  "scheme_url": "https://scholarships.gov.in",
+  "ministry_or_category": "OBC Development",
+  "overview": "Dr. Ambedkar Post-Matric Scholarship for EBC is a welfare-based scholarships belonging to the Economically Backward Classes (EBC) category, providing financial assistance to pursue post-matriculation or post-secondary studies. The scheme is implemented through the National Scholarship Portal (NSP) and aims to support students from economically weaker sections in continuing their education beyond the matriculation level.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "EBC"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial assistance to students belonging to Economically Backward Classes (EBC) for pursuing post-matriculation or post-secondary studies.",
+    "To support students from economically weaker sections in continuing their education beyond the matriculation level.",
+    "To promote educational empowerment of EBC students through access to higher education and professional courses.",
+    "To reduce dropout rates among EBC students at the post-matric level by alleviating financial burden."
+  ],
+  "eligibility": "The candidate should be from the Economically Backward Classes (EBC) category. Family income from all sources should not be more than Rs. 1 lakh per annum during the financial year of the application. The candidate should be currently studying in a recognized educational institution at the post-matriculation or post-secondary level. The candidate should not be in receipt of any other central government, state government, or AICTE-sponsored scholarship.",
+  "benefits": "The scholarship provides financial assistance for payment of college fee, purchase of computer, stationeries, books, equipment, software, etc. No other additional grant will be payable in lieu of hostel charges and medical charges. The scholarship is disbursed through Direct Benefit Transfer (DBT) mode on an annual basis. Aadhaar card and Aadhaar-seeded bank account in the name of the candidate are mandatory for submitting the online application.",
+  "financial_support": "The scholarship amount is Rs. 50,000 per annum for every year of study, with a maximum duration of 4 years for first-year admitted degree students and 3 years for diploma students. For students currently studying in the 2nd/3rd/4th year at degree level, the duration is reduced to 3/2/1 year respectively. Similarly, for diploma students in the 2nd/3rd year, the duration is reduced to 2/1 year respectively. The amount is provided as a lump sum towards payment of college fee, purchase of computer, stationeries, books, equipment, software, etc.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Rs. 50,000 per annum",
+  "application_process": "1. Visit the National Scholarship Portal (NSP) at https://scholarships.gov.in/. 2. Register or log in using your OTR (One Time Registration) number. 3. Fill in the online application form with accurate personal, academic, and financial details. 4. Upload the required documents, including income certificate, bonafide certificate, category certificate, and mark sheets. 5. Submit the application before the deadline. 6. Await verification and approval from the concerned authorities.",
+  "application_portal_url": "https://scholarships.gov.in/",
+  "required_documents": [
+    "Income certificate issued by State/UT Government",
+    "Bonafide certificate issued by the institution",
+    "Category certificate (EBC)",
+    "10+2/equivalent and 10th mark sheet for degree level",
+    "10th/equivalent mark sheet for diploma level",
+    "Aadhaar card or Aadhaar Enrolment ID",
+    "Bank account details (Aadhaar-seeded)"
+  ],
+  "deadlines": "Student Application Open till: 31-10-2026",
+  "implementing_agency": "Department of Social Justice & Empowerment(Backward Classes)",
+  "contact_details": "Email: helpdesk[at]nsp[dot]gov[dot]in | Helpline: 0120 - 6619540 (8:00 AM to 8:00 PM on all days, except government holidays)",
+  "caveats": [
+    "The candidate should NOT be a recipient of any of the Central Govt./State Govt./AICTE Sponsored scholarships.",
+    "If a candidate fails/drops out in subsequent year, they will not be eligible for further scholarship.",
+    "The grant of scholarship is subject to the condition that the student does not receive any financial assistance in shape of scholarship/any emoluments, salary, stipend, etc., from any other source during her/his course of study in the Institute.",
+    "In case of receipt of any financial assistance from any other sources, the scholarship shall be discontinued and the entire amount of scholarship will have to be refunded."
+  ],
+  "source_cited_notes": [
+    "https://scholarships.gov.in/All-Scholarships",
+    "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_G.pdf",
+    "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3039_F.pdf",
+    "https://scholarships.gov.in/public/schemeGuidelines/AICTE/AICTE_3038_G.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:35:53.119143+00:00"
+}

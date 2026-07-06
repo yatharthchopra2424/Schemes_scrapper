@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-216",
+  "scheme_name": "DSIR Recognition for In-house R&D Units",
+  "scheme_url": "https://www.dsir.gov.in",
+  "ministry_or_category": "Defence & Space",
+  "overview": "The Department of Scientific and Industrial Research (DSIR) operates a scheme for granting recognition and registration to in-house R&D units established by corporate industry. The scheme aims to benchmark industrial R&D, provide eligibility for fiscal incentives, and facilitate access to R&D funding from other government departments. Recognition is granted to units engaged in innovative R&D activities related to the firm's line of business, excluding routine activities like market research or quality control.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "corporate industry",
+    "in-house R&D units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Grant recognition & registration to in-house R&D units established by corporate industry",
+    "Benchmark industrial R&D across the government setup",
+    "Enable eligibility for fiscal incentives for R&D implemented through DSIR",
+    "Facilitate access to R&D funds from other government departments such as DST, DBT, DeitY, MoEF, MNRE, MoFPI, CSIR, ICMR, ICAR, TDB",
+    "Promote innovative research & development activities related to the line of business of the firm",
+    "Encourage development of new technologies, design & engineering, process/product improvements, and new methods of analysis & testing",
+    "Support research for increased efficiency in use of resources such as capital equipment, materials & energy",
+    "Promote pollution control, effluent treatment & recycling of waste products"
+  ],
+  "eligibility": "The applicant should be a company registered under the Companies Act, 1956 or 2013. The company shall be eligible for consideration only after the completion of three financial years after formation. The applicant should have regular source of income at least during the last two years to sustain the business. Companies seeking recognition should be engaged in manufacture or production or rendering technical services. Companies fully engaged in contract research are eligible if independent infrastructure is available for research activities. Those engaged in research only at present but with plans to start manufacture later may be considered if there is potential. The R&D unit(s) should not be located in residential areas but should operate in premises authorized by relevant Central/State Government. Independent infrastructure for research activities and adequate technically qualified manpower should be available (minimum area for R&D activities should be at least 1000 Sq. ft.). At the time of application, the R&D unit(s) should be functional and have well-defined, time-bound R&D programmes leading to development of innovative products and/or technology.",
+  "benefits": "Recognized in-house R&D units are eligible for fiscal incentives for research and development implemented through DSIR (wherever applicable). They also become eligible to receive funds for R&D from other government departments and agencies such as Department of Science and Technology (DST), Department of Biotechnology (DBT), Department of Electronics and Information Technology (DeitY), Ministry of Environment, Forest and Climate Change (MoEF), Ministry of New and Renewable Energy (MNRE), Ministry of Food Processing Industries (MoFPI), Council of Scientific and Industrial Research (CSIR), Indian Council of Medical Research (ICMR), Indian Council of Agricultural Research (ICAR), and Technology Development Board (TDB), where DSIR recognition is a requirement.",
+  "financial_support": "The scheme itself does not provide direct financial support but enables access to financial support for R&D from other government departments and agencies. DSIR recognition is a prerequisite for accessing such funds.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Companies interested in applying for DSIR in-house R&D recognition need not submit hard copy. 2. Submit a covering letter, completely filled-in application form (signed by Managing Director or any Director on Board) along with requisite Annexures in PDF format (single attachment less than 20 MB). 3. For Fresh Recognition, submit the signed PDF application to the email: rdi-fresh@gov.in. 4. For Renewal of Recognition, submit the signed PDF application to the email: rdi-renewal@gov.in. 5. Applications can be submitted throughout the year. 6. No hard copy of the application needs to be submitted; only soft copy is processed.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Covering letter",
+    "Filled-in application form (signed by MD/Director)",
+    "Annexures (in PDF format, single file <20 MB)",
+    "Latest Annual Report of the company",
+    "Note on R&D activities highlighting ongoing & proposed research, past achievements/completed projects",
+    "Brief write-up on major past achievements, ongoing and future projects",
+    "Details of scientific personnel working in the R&D unit(s) with qualifications & designation",
+    "Details of infrastructure available for research with date of installation & value of major facilities",
+    "Layout drawing of the R&D unit vis-à-vis the plant/production unit",
+    "Copy of Memorandum & Articles of Association (for newly formed companies)",
+    "All attachments in a single PDF file <20 MB"
+  ],
+  "deadlines": "Applications can be submitted throughout the year. No fixed deadline.",
+  "implementing_agency": "Department of Scientific and Industrial Research (DSIR), Ministry of Science and Technology, Government of India",
+  "contact_details": "Head, RDI, Department of Scientific & Industrial Research, Technology Bhawan, New Mehrauli Road, New Delhi-110016. Phone: 011-26529742, 011-26590496. Email: vinaykumar[at]nic[dot]in. For additional information: Dr (Ms) Sarika Madan, Scientist – E, Phone: 26960629, 26590534, Email: sarika[dot]madan[at]nic[dot]in",
+  "caveats": [
+    "Market research, work & methods study, operations & management research, testing & analysis of routine nature for operation, process control, quality control and maintenance of day-to-day production, maintenance of plant are not considered as R&D activities.",
+    "Recognition is subject to evaluation by DSIR based on submitted documents and may involve discussions with the chief of the R&D unit and executives of the firm.",
+    "The Chairman of the Screening Committee can relax any of the given conditions for consideration of recognition.",
+    "For Biotech start-ups: relaxation in 3 years of existence for granting short-term fresh recognition if established in Incubation Centre or Technology Parks.",
+    "For Deep Tech start-ups: relaxation in 3 years of existence for granting short-term fresh recognition if preferably established in Incubation Centre or Technology Parks."
+  ],
+  "source_cited_notes": [
+    "https://dsir.gov.in/offerings/schemes-and-services/details/recognition-of-in-house-rd-units-rdi-AjM0ETMtQWa",
+    "https://dsir.gov.in/static/uploads/2026/01/05d514e07138bda3a342a1837dfde57d.pdf",
+    "https://dsir.gov.in/offerings/schemes-and-services/details/online-application-submission-cjNzITMtQWa"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:20:16.269246+00:00"
+}

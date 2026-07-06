@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-886",
+  "scheme_name": "DigiLocker API Integration for Fintech KYC",
+  "scheme_url": "https://digilocker.gov.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "DigiLocker is a flagship initiative of the Ministry of Electronics & IT (MeitY) under the Digital India programme. It provides a secure cloud-based platform for storage, sharing, and verification of digital documents and certificates. DigiLocker aims at 'Digital Empowerment' of citizens by enabling access to authentic digital documents anytime, anywhere, with legal validity at par with original physical documents as per IT Rules 2016.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "citizens",
+    "organizations",
+    "government agencies",
+    "financial institutions",
+    "educational institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide access to authentic digital documents to citizens' digital document wallet",
+    "Enable secure storage, sharing, and verification of documents & certificates",
+    "Reduce administrative overhead through paperless governance",
+    "Facilitate real-time verification of documents from issuing agencies",
+    "Promote digital transformation and secure document exchange between trusted issuers and requesters"
+  ],
+  "eligibility": "To access the DigiLocker platform, users must register using a valid Indian mobile number, Driving License, PAN or Aadhaar. Registration may require verification via an OTP. Users are using Aadhaar voluntarily.",
+  "benefits": "For Citizens: Access Anytime, Anywhere; Legally Valid, Widely Trusted Digital documents; Effortless Sharing with explicit consent; Accelerate Services for jobs, government benefits, banking, healthcare, and education. For Agencies: Reduced Administrative Overhead; Digital Transformation; Trusted issued documents fetched in real-time; Secure Document Gateway; Real Time Verification enabling government agencies to verify data directly from issuers after obtaining user consent.",
+  "financial_support": "No financial support is provided under DigiLocker as it is a free digital document wallet service. The platform does not charge fees for access to issued documents through DigiLocker.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register yourself using a valid Indian mobile number, Driving License, PAN or Aadhaar. 2. Verify yourself via OTP sent to your mobile number. 3. Fetch your documents from linked issuers. 4. Share your documents with consent. 5. Become a DigiLocker Partner Organization by getting registered as a DigiLocker Issuer or Requester.",
+  "application_portal_url": "https://digilocker.gov.in",
+  "required_documents": [
+    "Valid Indian mobile number",
+    "Driving License",
+    "PAN",
+    "Aadhaar"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Registration is accepted year-round.",
+  "implementing_agency": "Ministry of Electronics & IT (MeitY), Government of India",
+  "contact_details": "Email: support@digilocker.gov.in | Address: National e-Governance Division (NeGD), Ministry of Electronics and Information Technology (MeitY), Government of India, New Delhi, India",
+  "caveats": [
+    "Users retain complete ownership of uploaded content and are liable for ensuring uploads do not infringe Indian laws",
+    "NeGD reserves the right to suspend or block the User's account without prior notice in case of non-compliance, security concerns, or directions from competent authorities",
+    "Users must explicitly consent before fetching or sharing any documents in their account",
+    "No fees shall be charged by NeGD for access to issued documents through DigiLocker",
+    "DigiLocker does not knowingly collect personal data from individuals under the age of 18 without verifiable parental or guardian consent"
+  ],
+  "source_cited_notes": [
+    "https://digilocker.gov.in/",
+    "https://digilocker.gov.in/web/about/about-digilocker",
+    "https://digilocker.gov.in/web/partners/introductions",
+    "https://digilocker.gov.in/web/about/tos",
+    "https://digilocker.gov.in/web/resources",
+    "https://cdn.digilocker.gov.in/circulars/Acceptance_of_e-Documents_from_DigiLocker-PMLA.pdf",
+    "https://cdn.digilocker.gov.in/circulars/SEBI circular on KYC process and use of technology for KYC  24-Apr-20.pdf",
+    "https://cdn.digilocker.gov.in/circulars/morthcircular.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:44:55.475999+00:00"
+}

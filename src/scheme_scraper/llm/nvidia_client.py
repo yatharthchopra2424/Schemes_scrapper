@@ -7,13 +7,18 @@ Supports:
   • Plain Markdown report generation
   • Exponential backoff via tenacity
   • Robust JSON extraction from fenced and raw responses
+  • Multi-key round-robin rotation for free-tier accounts
+    (reads NVIDIA_API_KEY, NVIDIA_API_KEY_1, NVIDIA_API_KEY_2 … from .env)
+    Rotates on every request AND immediately on 429 rate-limit errors.
 """
 from __future__ import annotations
 
+import itertools
 import json
 import logging
 import os
 import re
+import threading
 import time
 from typing import Any, cast
 
@@ -38,6 +43,105 @@ from .schema import SchemeInsight
 
 logger = logging.getLogger(__name__)
 
+
+# ── Key Rotator ────────────────────────────────────────────────────────────────
+
+class _KeyRotator:
+    """
+    Thread-safe round-robin rotator across multiple NVIDIA API keys.
+
+    Reads keys from environment in this order:
+      NVIDIA_API_KEY        — original / primary key
+      NVIDIA_API_KEY_1      — first extra key
+      NVIDIA_API_KEY_2      — second extra key
+      NVIDIA_API_KEY_3 …    — any additional keys
+
+    Usage:
+      rotator = _KeyRotator(base_url, timeout)
+      client  = rotator.current_client()   # get active OpenAI client
+      rotator.rotate(reason="429")          # force switch to next key
+    """
+
+    def __init__(self, base_url: str, timeout: float):
+        self.base_url = base_url
+        self.timeout = timeout
+        self._lock = threading.Lock()
+
+        self._keys: list[str] = self._collect_keys()
+        if not self._keys:
+            raise RuntimeError(
+                "No NVIDIA API keys found. Set NVIDIA_API_KEY (and optionally "
+                "NVIDIA_API_KEY_1, NVIDIA_API_KEY_2 …) in your .env file."
+            )
+
+        # Build one OpenAI client per key (clients are thread-safe)
+        self._clients: list[OpenAI] = [
+            OpenAI(base_url=base_url, api_key=k, timeout=timeout, max_retries=0)
+            for k in self._keys
+        ]
+        self._cycle = itertools.cycle(range(len(self._keys)))
+        self._current_idx: int = next(self._cycle)
+
+        self._request_count = 0  # total requests dispatched (for logging)
+
+        logger.info(
+            "KeyRotator: %d NVIDIA API key(s) loaded. Key indices: %s",
+            len(self._keys),
+            list(range(len(self._keys))),
+        )
+        for i, k in enumerate(self._keys):
+            logger.info("  Key [%d]: %s…%s", i, k[:8], k[-4:])
+
+    @staticmethod
+    def _collect_keys() -> list[str]:
+        """Collect all non-empty NVIDIA keys from environment."""
+        keys: list[str] = []
+
+        # Primary key (no suffix)
+        primary = os.environ.get("NVIDIA_API_KEY", "").strip()
+        if primary:
+            keys.append(primary)
+
+        # Numbered keys: _1, _2, _3 … up to _20
+        for i in range(1, 21):
+            k = os.environ.get(f"NVIDIA_API_KEY_{i}", "").strip()
+            if k and k not in keys:   # deduplicate in case someone repeats primary
+                keys.append(k)
+
+        return keys
+
+    def current_client(self) -> tuple[OpenAI, int]:
+        """Return the current (client, index) without rotating."""
+        with self._lock:
+            return self._clients[self._current_idx], self._current_idx
+
+    def rotate(self, reason: str = "next request") -> tuple[OpenAI, int]:
+        """Advance to the next key and return (client, new_index)."""
+        with self._lock:
+            self._current_idx = next(self._cycle)
+            logger.info(
+                "KeyRotator: rotated to key [%d] (%s)",
+                self._current_idx,
+                reason,
+            )
+            return self._clients[self._current_idx], self._current_idx
+
+    def rotate_on_rate_limit(self) -> tuple[OpenAI, int]:
+        """Called on 429 — rotate immediately and log clearly."""
+        with self._lock:
+            old_idx = self._current_idx
+            self._current_idx = next(self._cycle)
+            logger.warning(
+                "KeyRotator: 429 rate-limit hit on key [%d] — switching to key [%d]",
+                old_idx,
+                self._current_idx,
+            )
+            return self._clients[self._current_idx], self._current_idx
+
+    @property
+    def key_count(self) -> int:
+        return len(self._keys)
+
 # Fields that, if all empty, will trigger a gap-fill secondary call
 _KEY_FIELDS = [
     "eligibility",
@@ -49,24 +153,21 @@ _KEY_FIELDS = [
 
 
 class NvidiaLLMClient:
-    """Thread-safe NVIDIA LLM client for scheme intelligence extraction."""
+    """Thread-safe NVIDIA LLM client with multi-key round-robin rotation."""
 
     def __init__(self, settings: AppSettings):
         self.settings = settings
-        api_key = os.environ.get("NVIDIA_API_KEY", "")
-        if not api_key:
-            raise RuntimeError(
-                "NVIDIA_API_KEY is missing. Set it in your .env file or environment."
-            )
-
-        self.client = OpenAI(
+        self._rotator = _KeyRotator(
             base_url=self.settings.llm.base_url,
-            api_key=api_key,
             timeout=self.settings.llm.timeout_seconds,
-            max_retries=0,                      # We handle retries via tenacity
         )
         self.model = self.settings.llm.model
-        logger.info("LLM client initialised. Model: %s | Base: %s", self.model, self.settings.llm.base_url)
+        logger.info(
+            "LLM client initialised. Model: %s | Base: %s | Keys: %d",
+            self.model,
+            self.settings.llm.base_url,
+            self._rotator.key_count,
+        )
 
     # ── Core completion ────────────────────────────────────────────────────────
 
@@ -76,59 +177,115 @@ class NvidiaLLMClient:
         max_tokens: int | None = None,
     ) -> str:
         """
-        Call the API with tenacity retries for transient errors.
-        Returns the raw string content of the first choice.
+        Call the API with tenacity retries and automatic key rotation.
+
+        Key rotation strategy:
+          - Each new call gets the current key (already rotated on the previous call's end)
+          - On 429 rate-limit: immediately rotate to next key, then retry
+          - On 5xx / timeout: retry with same key (transient server issue)
+          - After a successful call: rotate key so the next request uses the next key
         """
-        retrying = Retrying(
-            retry=retry_if_exception_type((APIConnectionError, APITimeoutError, APIStatusError)),
-            stop=stop_after_attempt(self.settings.llm.max_retries + 1),
-            wait=wait_exponential(multiplier=2, min=2, max=30),
-            reraise=True,
-        )
-
         effective_max_tokens = max_tokens or self.settings.llm.max_tokens
+        max_attempts = self.settings.llm.max_retries + 1
 
-        for attempt in retrying:
-            with attempt:
-                t0 = time.perf_counter()
-                try:
-                    kwargs = {
-                        "model": self.model,
-                        "messages": cast(Any, messages),
-                        "temperature": self.settings.llm.temperature,
-                        "top_p": self.settings.llm.top_p,
-                        "max_tokens": effective_max_tokens,
-                        "stream": False,
-                    }
-                    if "nemotron" in self.model.lower():
-                        kwargs["extra_body"] = {"chat_template_kwargs": {"enable_thinking": False}, "reasoning_budget": 0}
-                    elif "deepseek" in self.model.lower():
-                        kwargs["extra_body"] = {"chat_template_kwargs": {"thinking": False, "reasoning_effort": "low"}}
+        # Each outer attempt may switch keys on 429; inner tenacity handles 5xx/timeout
+        last_exc: Exception | None = None
+        # We try each key at least once before giving up
+        total_attempts = max(max_attempts, self._rotator.key_count * 2)
 
-                    completion = self.client.chat.completions.create(**kwargs)
-                    content = completion.choices[0].message.content or ""
-                    elapsed = time.perf_counter() - t0
-                    usage = completion.usage
-                    if usage:
+        for attempt_num in range(total_attempts):
+            client, key_idx = self._rotator.current_client()
+
+            retrying = Retrying(
+                retry=retry_if_exception_type((APIConnectionError, APITimeoutError)),
+                stop=stop_after_attempt(2),          # 2 tries per key for network issues
+                wait=wait_exponential(multiplier=2, min=2, max=15),
+                reraise=True,
+            )
+
+            try:
+                for inner_attempt in retrying:
+                    with inner_attempt:
+                        t0 = time.perf_counter()
+                        kwargs: dict[str, Any] = {
+                            "model": self.model,
+                            "messages": cast(Any, messages),
+                            "temperature": self.settings.llm.temperature,
+                            "top_p": self.settings.llm.top_p,
+                            "max_tokens": effective_max_tokens,
+                            "stream": False,
+                        }
+                        if "nemotron" in self.model.lower():
+                            kwargs["extra_body"] = {
+                                "chat_template_kwargs": {"enable_thinking": False},
+                                "reasoning_budget": 0,
+                            }
+                        elif "deepseek" in self.model.lower():
+                            kwargs["extra_body"] = {
+                                "chat_template_kwargs": {"thinking": False, "reasoning_effort": "low"}
+                            }
+
                         logger.debug(
-                            "LLM response: %d prompt + %d completion tokens in %.1fs",
-                            usage.prompt_tokens,
-                            usage.completion_tokens,
-                            elapsed,
+                            "LLM request attempt %d/%d using key [%d]",
+                            attempt_num + 1, total_attempts, key_idx,
                         )
-                    else:
-                        logger.debug("LLM response received in %.1fs", elapsed)
-                    return content
-                except APIStatusError as exc:
-                    if exc.status_code >= 500 or exc.status_code == 429:
-                        logger.warning("LLM API transient error %d: %s. Retrying...", exc.status_code, exc.message)
-                        raise  # Let tenacity retry it
-                    
-                    # 4xx errors (other than 429) are not retryable — log and abort
-                    logger.warning("LLM API fatal status error %d: %s", exc.status_code, exc.message)
+                        completion = client.chat.completions.create(**kwargs)
+                        content = completion.choices[0].message.content or ""
+                        elapsed = time.perf_counter() - t0
+                        usage = completion.usage
+                        if usage:
+                            logger.debug(
+                                "LLM key[%d]: %d prompt + %d completion tokens in %.1fs",
+                                key_idx,
+                                usage.prompt_tokens,
+                                usage.completion_tokens,
+                                elapsed,
+                            )
+                        else:
+                            logger.debug(
+                                "LLM key[%d]: response received in %.1fs", key_idx, elapsed
+                            )
+
+                        # ✓ Success — rotate to next key for the NEXT request
+                        self._rotator.rotate(reason="next request after success")
+                        return content
+
+            except APIStatusError as exc:
+                last_exc = exc
+                if exc.status_code == 429:
+                    # Rate-limited — immediately switch to next key
+                    client, key_idx = self._rotator.rotate_on_rate_limit()
+                    # Brief pause before hitting the new key
+                    time.sleep(1)
+                    continue  # retry outer loop with new key
+                elif exc.status_code >= 500:
+                    logger.warning(
+                        "LLM key[%d]: server error %d — rotating key and retrying",
+                        key_idx, exc.status_code,
+                    )
+                    client, key_idx = self._rotator.rotate(reason=f"5xx error {exc.status_code}")
+                    continue
+                else:
+                    # 4xx (not 429) — not retryable
+                    logger.warning(
+                        "LLM key[%d]: fatal status error %d: %s",
+                        key_idx, exc.status_code, exc.message,
+                    )
                     raise ValueError(f"LLM API Error {exc.status_code}: {exc.message}") from exc
 
-        raise RuntimeError("LLM completion failed after all retries")
+            except (APIConnectionError, APITimeoutError) as exc:
+                last_exc = exc
+                logger.warning(
+                    "LLM key[%d]: connection/timeout error: %s — rotating key",
+                    key_idx, exc,
+                )
+                client, key_idx = self._rotator.rotate(reason="connection error")
+                continue
+
+        raise RuntimeError(
+            f"LLM completion failed after {total_attempts} attempts across "
+            f"{self._rotator.key_count} key(s). Last error: {last_exc}"
+        )
 
     # ── JSON extraction utilities ──────────────────────────────────────────────
 

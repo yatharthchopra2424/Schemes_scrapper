@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-534",
+  "scheme_name": "MSME Assistance Programme Gujarat",
+  "scheme_url": "https://ic.gujarat.gov.in",
+  "ministry_or_category": "State Level (Gujarat)",
+  "overview": "The MSME Assistance Programme Gujarat is an award-based recognition scheme for Micro, Small and Medium Enterprises (MSMEs) in Gujarat, administered by the Office of the MSME Commissionerate. It aims to identify and honor outstanding MSMEs across categories such as Women Entrepreneur, Young Entrepreneur, SC/ST Entrepreneur, and General through a formal application process involving documentation, verification, and committee evaluation. The scheme does not provide direct financial grants but offers recognition via awards, trophies, and certificates.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "MSME",
+    "women entrepreneurs",
+    "young entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Gujarat only",
+  "objectives": [
+    "To recognize and promote excellence among MSMEs in Gujarat",
+    "To encourage women, young, SC/ST, and general category entrepreneurs",
+    "To validate Udyam registration and operational continuity of enterprises",
+    "To assess enterprise performance based on investment, turnover, employment, and net profit",
+    "To verify first-generation entrepreneur status and product/service achievements",
+    "To ensure compliance with statutory clearances and tax obligations",
+    "To promote transparency and authenticity in award selection process"
+  ],
+  "eligibility": "Applicants must be MSMEs registered under Udyam (Micro/Small/Medium) with valid registration, engaged in manufacturing or service activities, and have been in continuous production for the previous three years. Enterprises must have valid statutory clearances, no pending legal or tax liabilities, and must have paid all government dues. Applicants must be first-generation entrepreneurs (if applying under Young Entrepreneur category), belong to SC/ST/women/general category as applicable, and submit audited financials for 2021-22 to 2024-25. The unit must be owned by 51% or more women for Women Entrepreneur category, and applicants must be under 35 years for Young Entrepreneur category.",
+  "benefits": "Recognition through state-level awards, trophy, certificate, and public acknowledgment. Awardees gain credibility and visibility, which may support business growth, market access, and networking opportunities. The award serves as a mark of excellence and can enhance reputation among customers, financial institutions, and government bodies.",
+  "financial_support": "No direct financial support, grant, loan, or subsidy is provided under this scheme. The assistance is purely recognition-based in the form of awards, trophies, and certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Download the application form from the official MSME Commissionerate website. 2. Fill in entrepreneur and enterprise details including name, address, Udyam registration, constitution, and product details. 3. Attach required documents such as Udyam Udyam certificate, audited balance sheets, constitution proof, photographs, and category-specific documents. 4. Submit a write-up of up to 300 words justifying the enterprise’s achievements. 5. Obtain GM Certificate from District Industries Center verifying eligibility. 6. Submit the completed application in duplicate to the MSME Commissionerate before the deadline. 7. Await evaluation by the appointed committee. 8. If selected, receive award, trophy, and certificate.",
+  "application_portal_url": "https://ic.gujarat.gov.in/msme-facilitation-desk.aspx",
+  "required_documents": [
+    "Copy of Udyam Registration Certificate (Updated Year 2024-25)",
+    "Copy of Constitution of enterprise",
+    "Chartered Accountant/Statutory Auditor Certificate w.r.t. point no.16 of application form",
+    "Audited Balance sheet Year 2021-22, 2022-23, 2023-24 for 2024-25, Provisional Balance sheet 2024-25",
+    "Cast certificate from competent Authority for SC/ST entrepreneur (all partners), if applied in SC/ST category",
+    "Copy of school leaving certificate or relevant document regarding entrepreneur is not more than 35 years old, if applied in Young Entrepreneur category",
+    "Details if first generation entrepreneur (Verified & validate by GM)",
+    "Justification/Write up (for why the Unit Should be Awarded.) (Verified & validate by GM)",
+    "(Broacher of Enterprise)/Two Photographs of the Products Manufactured by the enterprise",
+    "High Resolution photo of Front/Rear View of Enterprise showing name Board etc.",
+    "(Score Certificate) for Credit Rating Proof",
+    "ZED Certificate"
+  ],
+  "deadlines": "Last date for receipt of application is [date not specified in evidence]",
+  "implementing_agency": "Office of the MSME Commissionerate, Government of Gujarat",
+  "contact_details": "Tele. No. 079-232-52532/58378 | E-Mail ID- icmsme@gujarat.gov.in",
+  "caveats": [
+    "Application must be submitted in duplicate",
+    "will be considered subject to deduction of delayed period from the date"
+  ],
+  "source_cited_notes": [
+    "https://ic.gujarat.gov.in/documents/commondoc/2025/MSME%20Special%20category%20award%20form.pdf",
+    "https://ic.gujarat.gov.in/documents/commondoc/2025/MSME%20Special%20category%20award%20Checklist.pdf",
+    "https://ic.gujarat.gov.in/documents/commondoc/2025/MSME%20Special%20Category%20GM%20Certificate.pdf",
+    "https://ic.gujarat.gov.in/msme-facilitation-desk.aspx"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:31:07.290656+00:00"
+}

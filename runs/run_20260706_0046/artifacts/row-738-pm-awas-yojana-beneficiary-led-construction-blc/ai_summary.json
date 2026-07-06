@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-738",
+  "scheme_name": "PM Awas Yojana – Beneficiary-Led Construction (BLC)",
+  "scheme_url": "https://pmay-urban.gov.in",
+  "ministry_or_category": "Construction",
+  "overview": "PM Awas Yojana – Beneficiary-Led Construction (BLC) is a component of the Pradhan Mantri Awas Yojana (Urban) aimed at providing financial assistance to eligible urban poor families for the construction or enhancement of their houses. Under this scheme, beneficiaries who own land can construct their houses with central government support. The scheme focuses on enabling self-driven house construction through direct benefit transfer to the bank accounts of eligible beneficiaries.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "urban poor",
+    "slum dwellers",
+    "low-income groups",
+    "economically weaker sections"
+  ],
+  "geographic_scope": "Pan-India (Urban areas)",
+  "objectives": [
+    "Provide central assistance to urban poor families for construction of houses",
+    "Enable beneficiary-led construction or enhancement of houses on their own land",
+    "Promote affordable housing through direct financial support",
+    "Ensure shelter for all urban households by 2022",
+    "Support in-situ redevelopment and housing for all"
+  ],
+  "eligibility": "Beneficiary families must not own a pucca house (either in their name or that of any family member) in any part of India. The family should include husband, wife, and unmarried children. The beneficiary must own a plot of land or have legal rights to the land. The annual household income should not exceed INR 3 lakhs for EWS and INR 6 lakhs for LIG categories. The scheme is applicable only in statutory towns as per Census 2011.",
+  "benefits": "Financial assistance of INR 1.5 lakh per house for construction or enhancement. The amount is transferred in installments directly to the beneficiary's bank account linked to Aadhaar. The scheme promotes ownership of pucca houses with basic amenities like water, electricity, and sanitation. It supports inclusive urban development and reduces housing shortage in cities.",
+  "financial_support": "Under the BLC component, a fixed financial assistance of INR 1.5 lakh is provided per house for new construction or enhancement of existing houses. The funds are released in 2-3 installments based on construction progress, verified through geo-tagged photographs and uploaded on the PMAY(U) MIS. The transfer is made directly to the beneficiary's bank account via DBT (Direct Benefit Transfer).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "1.5 lakh",
+  "application_process": "1. Identify eligible beneficiaries through ULB-led surveys using SECC data or voluntary submission. 2. Validate land ownership and income eligibility. 3. Obtain beneficiary consent and Aadhaar linkage. 4. Upload beneficiary details on PMAY(U) MIS. 5. Obtain administrative approval from State Level Sanctioning and Monitoring Committee (SLSMC). 6. Release first installment of funds to beneficiary's bank account. 7. Monitor construction progress via geo-tagged photos. 8. Release subsequent installments upon verification. 9. Certify house completion and close the project.",
+  "application_portal_url": "https://pmay-urban.gov.in",
+  "required_documents": [
+    "Aadhaar card",
+    "Proof of land ownership or land rights",
+    "Income certificate",
+    "Affidavit stating no pucca house ownership",
+    "Bank account details (linked to Aadhaar)",
+    "Passport size photograph",
+    "Undertaking for construction as per norms"
+  ],
+  "deadlines": "Rolling basis — subject to annual budget allocation and project sanction cycles",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "Email: pmayu@mohua.gov.in | Helpline: 1800-11-3377, 1800-11-3388",
+  "caveats": [
+    "Assistance is limited to one house per beneficiary family",
+    "Funds are released only after verification of construction progress",
+    "Beneficiary must complete construction within 15 months of sanction",
+    "Scheme benefits are not transferable",
+    "Misrepresentation of facts leads to recovery of amount with penalty"
+  ],
+  "source_cited_notes": [
+    "https://pmay-urban.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:29:08.893472+00:00"
+}

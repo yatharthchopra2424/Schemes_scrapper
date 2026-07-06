@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-590",
+  "scheme_name": "National Electric Mobility Mission Plan (NEMMP)",
+  "scheme_url": "https://dhi.nic.in",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "The National Electric Mobility Mission Plan (NEMMP) 2020 is a comprehensive initiative launched by the Government of India to promote electric and hybrid vehicles, reduce dependence on fossil fuels, and address environmental concerns related to vehicular emissions. It aims to achieve national fuel security by encouraging the adoption of electric vehicles (EVs) and developing indigenous manufacturing capabilities for EV components and batteries. The plan sets a target of 6-7 million sales of hybrid and electric vehicles year on year from 2020 onwards and includes incentives for both manufacturers and consumers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturers",
+    "consumers",
+    "fleet operators",
+    "public transport agencies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve national fuel security by promoting electric and hybrid vehicles",
+    "Reduce the adverse impact of vehicular emissions on the environment",
+    "Grow domestic manufacturing capabilities across the entire EV value chain",
+    "Establish India as a global hub for electric vehicle manufacturing",
+    "Incentivize the adoption of 6-7 million hybrid and electric vehicles annually from 2020",
+    "Develop charging infrastructure and battery swapping facilities",
+    "Support research and development in battery technology and power electronics",
+    "Create a favorable policy and regulatory ecosystem for EV adoption"
+  ],
+  "eligibility": "Eligibility varies by component: For manufacturers, eligibility includes domestic production of electric/hybrid vehicles, batteries, or key components with minimum localization requirements; for consumers, eligibility requires purchase of eligible electric or hybrid vehicles as defined under the Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME) India scheme, which operationalizes NEMMP; fleet operators and public transport agencies are eligible for subsidies on electric buses and commercial vehicles under specified conditions.",
+  "benefits": "Financial incentives include upfront purchase subsidies for electric two-wheelers, three-wheelers, passenger cars, and buses; tax benefits under GST and income tax; exemptions from road tax and registration fees in select states; non-financial benefits include preferential treatment in government procurement, access to dedicated EV lanes (where available), and support for setting up charging infrastructure through public-private partnerships.",
+  "financial_support": "Financial support is delivered primarily through the FAME India scheme, which offers demand incentives (upfront purchase subsidies) to consumers and institutional buyers, and supports charging infrastructure development. Under FAME II, incentives include INR 15,000 per kWh for electric two-wheelers (up to 40% of cost), INR 10,000 per kWh for electric three-wheelers and passenger cars (up to 40% of cost), and INR 20,000 per kWh for electric buses (up to 50% of cost), with additional incentives for advanced batteries and locally manufactured components.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "Up to 50% of vehicle cost for electric buses, 40% for other EVs, capped at INR 20 lakhs for cars and proportionally lower for two/three-wheelers",
+  "application_process": "1. Identify eligible electric or hybrid vehicle models listed under FAME India; 2. Purchase the vehicle from a dealer registered with the FAME scheme; 3. The dealer uploads sale details and documents to the FAME portal; 4. The Department of Heavy Industry (DHI) verifies the claim; 5. Subsidy amount is transferred directly to the dealer, who passes on the benefit to the consumer as a discount.",
+  "application_portal_url": "https://fame2.heavyindustry.gov.in/",
+  "required_documents": [
+    "Invoice of vehicle purchase",
+    "Registration certificate (Form 20/21/22/23)",
+    "FAME compliance certificate from the manufacturer",
+    "Bank account details of the beneficiary/dealer",
+    "Aadhaar card of the individual buyer (for individuals)",
+    "GSTIN and PAN of the buyer (for institutional buyers)"
+  ],
+  "deadlines": "FAME II scheme is operational from April 1, 2019, to March 31, 2024, or until exhaustion of funds, whichever is earlier; applications are accepted on an ongoing basis during this period.",
+  "implementing_agency": "Department of Heavy Industry, Ministry of Heavy Industries and Public Enterprises",
+  "contact_details": "Email: nemmp@dhi.nic.in | Phone: 011-2306-1322",
+  "caveats": [
+    "Subsidy is available only for vehicles models approved and listed under FAME India",
+    "Benefits are subject to availability of funds and may be discontinued upon fund exhaustion",
+    "Localization norms for battery and components must be met to qualify for higher incentives",
+    "FAME II scheme has a defined end date of March 31, 2024, unless extended"
+  ],
+  "source_cited_notes": [
+    "https://dhi.nic.in/",
+    "https://fame2.heavyindustry.gov.in/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:51:47.170002+00:00"
+}

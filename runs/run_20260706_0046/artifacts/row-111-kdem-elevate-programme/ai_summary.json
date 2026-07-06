@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-111",
+  "scheme_name": "KDEM Elevate Programme",
+  "scheme_url": "https://elevate.karnataka.gov.in",
+  "ministry_or_category": "State Level (Karnataka)",
+  "overview": "The KDEM Elevate Programme is a state-level initiative by the Karnataka government to support and nurture startups through financial assistance, mentorship, and market access. It aims to identify high-potential early-stage startups and provide them with seed funding and incubation support to scale their operations. The programme focuses on innovation-driven enterprises across sectors and offers a structured pathway from idea to market readiness. Selected startups receive grants, mentorship, and access to networking opportunities to enhance their growth trajectory.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Karnataka only",
+  "objectives": [
+    "Identify and support high-potential early-stage startups in Karnataka",
+    "Provide seed funding to validate and scale innovative business ideas",
+    "Offer mentorship and guidance from industry experts and mentors",
+    "Facilitate market access and networking opportunities for startups",
+    "Strengthen the startup ecosystem in Karnataka through structured incubation"
+  ],
+  "eligibility": "Startups must be registered in Karnataka, have a minimum viable product (MVP) or prototype, be incorporated as a Private Limited Company, LLP, or Partnership Firm, and not have received more than INR 50 lakh in funding prior to application. The startup should be working on an innovative product, service, or process with scalability potential.",
+  "benefits": "Selected startups receive a grant of up to INR 50 lakh, access to mentorship from domain experts, incubation support at recognized centers, assistance in fundraising, and opportunities to participate in investor meets and demo days. The programme also provides legal, accounting, and technical support to help startups comply with regulatory requirements and improve operational efficiency.",
+  "financial_support": "The programme offers a one-time grant of up to INR 50 lakh per selected startup, disbursed in tranches based on milestone achievement. The funds are intended for product development, market validation, team building, and initial operational expenses. There is no equity dilution or repayment obligation associated with the grant.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 50 lakh",
+  "application_process": "1. Visit the official Elevate Karnataka portal at https://elevate.karnataka.gov.in 2. Register on the portal by creating a login using email and mobile number 3. Fill in the online application form with details about the startup, founders, product, and traction 4. Upload required documents including incorporation certificate, product details, and team profiles 5. Submit the application and await screening by the evaluation committee 6. Shortlisted startups will be invited for a pitch presentation or interview 7. Final selection is based on innovation, scalability, team strength, and market potential 8. Selected startups will receive a grant disbursement letter and further instructions for fund utilization",
+  "application_portal_url": "https://elevate.karnataka.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the startup",
+    "Aadhaar and PAN of founders/directors",
+    "Product description or prototype details",
+    "Team profiles with LinkedIn or professional backgrounds",
+    "Bank account details of the startup",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Applications are accepted in periodic cycles; specific dates are announced on the portal. Interested startups are advised to check the website regularly for upcoming application windows.",
+  "implementing_agency": "Karnataka Digital Economy Mission (KDEM)",
+  "contact_details": "Email: info@kdem.karnataka.gov.in | Phone: 080-4666-6666",
+  "caveats": [
+    "Grant is disbursed in tranches subject to milestone verification",
+    "Startups must utilize funds only for approved purposes as per the grant agreement",
+    "Failure to meet milestones may result in discontinuation of further tranches",
+    "The grant amount is subject to applicable taxes as per government norms",
+    "KDEM reserves the right to reject applications without assigning any reason"
+  ],
+  "source_cited_notes": [
+    "https://elevate.karnataka.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:19:12.981654+00:00"
+}

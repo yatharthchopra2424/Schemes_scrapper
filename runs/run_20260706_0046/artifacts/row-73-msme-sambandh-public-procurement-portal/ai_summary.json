@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-73",
+  "scheme_name": "MSME SAMBANDH (Public Procurement Portal)",
+  "scheme_url": "https://msme.gov.in/sambandh",
+  "ministry_or_category": "Tax Incentives",
+  "overview": "MSME SAMBANDH is a public procurement portal launched by the Ministry of Micro, Small & Medium Enterprises to facilitate government procurement from MSMEs. It enables central and state government ministries, departments, and public sector undertakings to publish tenders and procurement opportunities specifically for MSMEs. The portal aims to enhance market access, promote transparency, and increase participation of MSMEs in government procurement processes.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate government procurement from MSMEs through a centralized online portal",
+    "Enhance market access and visibility for MSME products and services",
+    "Promote transparency and efficiency in public procurement processes",
+    "Increase participation of MSMEs in government tenders and contracts",
+    "Support the growth and competitiveness of MSMEs through assured procurement opportunities"
+  ],
+  "eligibility": "MSMEs with valid Udyam Registration are eligible to participate in procurement opportunities published on the SAMBANDH portal. The portal is accessible to all registered MSMEs across manufacturing and service sectors.",
+  "benefits": "MSMEs gain access to government procurement opportunities, increased visibility for their products/services, transparent bidding processes, and potential for assured orders from government buyers. The portal reduces information asymmetry and search costs for MSMEs seeking government contracts.",
+  "financial_support": "The scheme does not provide direct financial support. It facilitates access to government procurement contracts where financial benefits accrue through successful bid awards and contract execution.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. MSMEs must first obtain Udyam Registration via https://udyamregistration.gov.in 2. Visit the SAMBANDH portal at https://msme.gov.in/sambandh 3. Browse available government tenders and procurement opportunities 4. Select relevant tenders based on business category and location 5. Download tender documents and review eligibility criteria 6. Prepare and submit bids as per tender specifications 7. Track application status through the portal 8. Upon award, execute contract as per terms",
+  "application_portal_url": "https://msme.gov.in/sambandh",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "PAN of the enterprise",
+    "GST Registration Certificate",
+    "Bank account details",
+    "Authorization letter for bid submission",
+    "Technical and financial bid documents as per tender requirements"
+  ],
+  "deadlines": "Tender-specific deadlines apply; the portal hosts ongoing procurement opportunities with varying submission dates.",
+  "implementing_agency": "Ministry of Micro, Small & Medium Enterprises",
+  "contact_details": "",
+  "caveats": [
+    "Access to procurement opportunities depends on active tender publication by government entities",
+    "MSMEs must comply with individual tender eligibility and technical specifications",
+    "Award of contracts is subject to competitive bidding processes",
+    "Udyam Registration is mandatory for participation"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/sambandh"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:02:44.212347+00:00"
+}

@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-838",
+  "scheme_name": "Quantum Computing Applications Lab (QCAL)",
+  "scheme_url": "https://dst.gov.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The Quantum Computing Applications Lab (QCAL) is a scheme under the Department of Science & Technology (DST) aimed at advancing quantum computing research and applications in India. It supports innovation in deep technology areas including quantum computing, robotics, space, and AI, with a focus on strategic technologies and self-reliance. The scheme is part of the broader Research, Development, and Innovation (RDI) initiative approved by the Union Cabinet in July 2025, which has a total outlay of ₹1 lakh crore. QCAL likely operates under this framework to foster private sector participation and technological development in quantum applications.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "research institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encouraging Private Sector Involvement in cutting-edge research and innovation",
+    "Promoting Strategic Technologies including quantum computing, robotics, and space",
+    "Fostering Self-Reliance and Economic Security in line with Atmanirbhar Bharat vision",
+    "Ensuring Flexibility in Sectoral Support for public interest technologies",
+    "Supporting transformative R&D projects at Technology Readiness Levels (TRLs) 4 and above",
+    "Facilitating funding through long-term loans, equity infusion, and contributions to Deep-Tech Fund of Funds"
+  ],
+  "eligibility": "Eligible Technology Entities means any legal entity engaged in developing RDI-intensive technology (TRL4 and above). These could include companies registered under the Companies Act 2013, partnerships registered under the Indian Partnership Act, 1932, and limited liability partnerships registered under the Limited Liability Partnership Act, 2008, engaged in scale-up of RDI-intensive technologies beyond Technology Readiness Level 4. These shall include startups as defined in the Department for Promotion of Industry and Internal Trade Notification G.S.R. 127(E) dated 19 February 2019, as may be modified from time to time.",
+  "benefits": "Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS). Funding modes include long-term loan at low or nil interest rates, equity infusion (especially for startups), and contributions to Deep-Tech Fund of Funds. Disbursements are routed exclusively through designated Second-Level Fund Managers (SLFMs). Ownership of physical and intellectual property created or acquired out of RDIF funds vests with Eligible Technology Entities.",
+  "financial_support": "Total Budget: ₹1 lakh crore. Modes of Financing: Long-term loan at low or nil interest rates. Equity infusion, especially in case of startups. Contributions to Deep-Tech Fund of Funds. Exclusions: Grants and short-term loans are not supported. Coverage: Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs) in due course through separate advertisement. Interested Second Level Fund Managers (SLFMs) are invited to express their interest in partnering with this fund by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. Existing NBFCs planning to establish AIFs are also encouraged to contact DST regarding potential participation.",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Science & Technology (DST)",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in",
+  "caveats": [
+    "Grants and short-term loans are not supported under the RDI scheme",
+    "All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs)",
+    "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "https://dst.gov.in/sites/default/files/SFR%20RDI%20FUND%20Gazzette%20Notification.pdf",
+    "https://dst.gov.in/sites/default/files/Publication%20of%20Special%20Financial%20Financial%20Rules%202026%20for%20utilization%20of%20the%20amounts%20in%20the%20Research%20Development%20and%20Innovation%28RDI%29%20Fund%20in%20the%20official%20Gazette%20-%20reg..pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:15:56.672359+00:00"
+}

@@ -1,0 +1,38 @@
+{
+  "scheme_id": "row-532",
+  "scheme_name": "Haryana Udhyam Memorandum Digital Portal",
+  "scheme_url": "https://msme.haryana.gov.in",
+  "ministry_or_category": "State Level (Haryana)",
+  "overview": "The Haryana Udhyam Memorandum Digital Portal (HUM) is a single portal launched by the Directorate of Micro, Small and Medium Enterprise (MSME), Haryana for registration of all types of enterprises and businesses operating in Haryana. The portal aims to create and maintain a centralised consolidated repository of all enterprises and businesses in the state to aid effective decision making. Enterprises and businesses in Haryana, irrespective of size and type, can register and obtain an Udhyam ID by following the procedure on the HUM Registration Portal.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "MSME",
+    "enterprises",
+    "businesses"
+  ],
+  "geographic_scope": "Haryana only",
+  "objectives": [
+    "Create a centralised consolidated repository of all enterprises and businesses operating in Haryana",
+    "Enable effective decision making for the State through the repository",
+    "Provide a single portal for registration of all types of enterprises and businesses in Haryana",
+    "Issue Udhyam ID to registered enterprises and businesses"
+  ],
+  "eligibility": "Enterprises and businesses operating in Haryana, irrespective of size and type, may register and obtain Udhyam ID by following the procedure on the HUM Registration Portal.",
+  "benefits": "Centralised repository for effective decision making by the State; Udhyam ID registration for enterprises and businesses in Haryana; facilitation of registration process through a single portal.",
+  "financial_support": "No financial support is mentioned in the evidence for the Haryana Udhyam Memorandum Digital Portal; it is a registration portal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Haryana Udhyam Memorandum (HUM) Registration Portal via the link provided on the HUM Registration page. 2. Follow the procedure on the portal to register the enterprise or business. 3. Obtain Udhyam ID upon successful registration.",
+  "application_portal_url": "https://msme.haryana.gov.in/hum-registration/",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Directorate of Micro, Small and Medium Enterprise (MSME), Haryana",
+  "contact_details": "",
+  "caveats": [],
+  "source_cited_notes": [
+    "https://msme.haryana.gov.in/hum-registration/"
+  ],
+  "last_updated_date": "",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:17:10.702400+00:00"
+}

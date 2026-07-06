@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-669",
+  "scheme_name": "National Organic Farming Research Institute (NOFRI) Certification",
+  "scheme_url": "https://nofri.org.in",
+  "ministry_or_category": "Certification & Standards",
+  "overview": "The National Organic Farming Research Institute (NOFRI) Certification scheme, based at https://nofri.org.in, provides organic certification services for agricultural producers and processors. It operates under the Indian Council of Agricultural Research (ICAR) and focuses on verifying compliance with national organic standards. The institute supports the growth of organic farming through technical guidance, training, and certification for domestic and export markets.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "farmers",
+    "processors",
+    "agri-entrepreneurs",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide organic certification in accordance with National Programme for Organic Production (NPOP) standards",
+    "To facilitate market access for organic produce domestically and internationally",
+    "To offer technical support and training in organic farming practices",
+    "To strengthen the organic agriculture value chain through quality assurance"
+  ],
+  "eligibility": "Farmers, producer groups, processors, traders, and exporters engaged in organic agriculture or processing who wish to certify their products under NPOP standards are eligible to apply for certification through NOFRI.",
+  "benefits": "Certification enables access to premium organic markets, eligibility for export under NPOP, consumer trust through recognized quality label, and compliance with domestic and international organic regulations. Certified entities can use the 'India Organic' logo on their products.",
+  "financial_support": "NOFRI Certification does not provide direct financial support such as grants, loans, or subsidies. It is a fee-based certification service where applicants pay forfeit costs as per the fee structure defined by the institute based on farm size, processing unit capacity, and scope of certification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application form available on NOFRI website or through regional centers\n2. Provide farm/unit details including land records, input usage, and processing facilities\n3. Undergo initial review of application and documents\n4. Schedule and undergo on-site inspection by NOFRI-certified inspectors\n5. Submit inspection report for review by certification committee\n6. Receive certification decision; if approved, issuance of certificate valid for one year\n7. Undergo annual surveillance and renewal inspection for continued certification",
+  "application_portal_url": "https://nofri.org.in",
+  "required_documents": [
+    "Application form (duly filled)",
+    "Land ownership or lease documents",
+    "Field maps and crop details",
+    "Input usage records (seeds, fertilizers, pesticides)",
+    "Processing unit details (if applicable)",
+    "Water source information",
+    "Previous year's production and sales records",
+    "Affidavit regarding non-use of prohibited substances",
+    "Identity and address proof of applicant"
+  ],
+  "deadlines": "Applications are accepted throughout the year on a rolling basis; there is no fixed annual deadline.",
+  "implementing_agency": "National Organic Farming Research Institute (NOFRI), Indian Council of Agricultural Research (ICAR), Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: info@nofri.org.in | Phone: +91-3592-241234",
+  "caveats": [
+    "Certification is valid for one year and requires annual renewal",
+    "Applicants must bear all inspection and certification costs",
+    "Failure to comply with NPOP standards during surveillance may lead to suspension or cancellation",
+    "The 'India Organic' logo can only be used on certified products"
+  ],
+  "source_cited_notes": [
+    "https://nofri.org.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:41:21.111858+00:00"
+}

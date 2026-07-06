@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-332",
+  "scheme_name": "ICAR – Agri Startup Grants",
+  "scheme_url": "https://www.icar.org.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The ICAR – Agri Startup Grants scheme is an innovation grant program under the Indian Council of Agricultural Research (ICAR) aimed at supporting agri-startups through financial assistance and capacity building. It focuses on fostering innovation in agriculture and allied sectors by providing grants to early-stage startups developing solutions in areas such as crop science, animal husbandry, fisheries, and natural resource management. The scheme is implemented by ICAR under the Ministry of Agriculture and Farmers Welfare and targets entrepreneurs and startups engaged in agri-based innovations. It forms part of ICAR’s broader mandate to promote agricultural entrepreneurship and technology transfer.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "agri-startups",
+    "startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote innovation and entrepreneurship in agriculture and allied sectors",
+    "Support early-stage agri-startups with financial grants for product development and validation",
+    "Strengthen the linkage between research institutions and agri-based startups",
+    "Encourage development of sustainable and scalable agri-tech solutions",
+    "Facilitate technology transfer from ICAR laboratories to the field through startup incubation",
+    "Enhance income and livelihood opportunities for farmers through startup-led innovations"
+  ],
+  "eligibility": "Startups incorporated in India, working in the domain of agriculture and allied sectors, with innovative ideas or prototypes in areas such as crop improvement, animal husbandry, fisheries, natural resource management, or agri-processing. The startup must be recognized by DPIIT or recommended by an ICAR institute, and should not have received more than a specified limit of funding from other government sources. Preference is given to startups led by women, SC/ST, or those working in aspirational districts.",
+  "benefits": "Financial support for prototype development, field testing, and scaling; access to ICAR’s research facilities, laboratories, and expert mentorship; opportunity to collaborate with ICAR scientists and KVKs for validation; assistance in intellectual property rights (IPR) filing and technology commercialization; networking with investors, incubators, and agri-industry partners; visibility through ICAR’s platforms and events.",
+  "financial_support": "The scheme provides grant-based financial support to selected agri-startups for activities such as prototype development, field trials, and market validation. The quantum of support is determined based on the project proposal and stage of innovation, with disbursement made in milestones upon achievement of predefined deliverables. Funds are released directly to the startup’s account after due appraisal and approval by the ICAR screening committee.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official ICAR website or designated portal for agri-startup grants. 2. Check eligibility and ensure the startup is DPIIT-recognized or endorsed by an ICAR institute. 3. Prepare a detailed project proposal including innovation description, objectives, methodology, budget, and expected outcomes. 4. Submit the application online along with required documents. 5. Applications are screened by an ICAR committee for technical feasibility and innovation quotient. 6. Shortlisted startups may be invited for a presentation or interview. 7. Final selection is made based on merit, and approved grantees receive a sanction letter. 8. Funds are disbursed in installments as per milestones. 9. Grantees are required to submit progress reports and utilization certificates.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "DPIIT startup recognition certificate (if available)",
+    "Detailed project proposal",
+    "Budget breakdown and utilization plan",
+    "Proof of concept or prototype details",
+    "PAN card of the startup",
+    "Bank account details",
+    "Authorization letter from the signatory",
+    "Any prior funding or award details",
+    "Recommendation letter from an ICAR institute or KVK (if applicable)"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Indian Council of Agricultural Research (ICAR), Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Grants are subject to technical feasibility and innovation assessment by ICAR",
+    "Funds must be utilized strictly for the approved project objectives",
+    "Grantees must submit periodic progress reports and utilization certificates",
+    "Intellectual property arising from the project may be subject to ICAR’s IPR policy",
+    "The scheme does not support pure trading or non-innovative agri-business activities"
+  ],
+  "source_cited_notes": [
+    "https://icar.org.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T22:29:57.252232+00:00"
+}

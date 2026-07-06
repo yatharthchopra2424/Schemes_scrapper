@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-296",
+  "scheme_name": "Target Olympic Podium Scheme (TOPS)",
+  "scheme_url": "https://yas.nic.in/tops",
+  "ministry_or_category": "Sports",
+  "overview": "The Target Olympic Podium Scheme (TOPS) is a flagship initiative of the Ministry of Youth Affairs and Sports, Government of India, aimed at identifying and supporting potential medal prospects for the Olympic Games. It provides financial assistance for customized training, foreign exposure, equipment, and support staff to elite athletes. The scheme focuses on athletes who have demonstrated consistent performance and medal-winning potential in international competitions.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "elite athletes",
+    "Olympic medal prospects"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Identify and support athletes with medal-winning potential for the Olympic Games",
+    "Provide financial assistance for customized training and foreign exposure",
+    "Ensure access to high-performance support staff and sports science services",
+    "Supply necessary equipment and infrastructure for optimal preparation",
+    "Monitor and evaluate athlete progress through structured performance tracking"
+  ],
+  "eligibility": "Athletes who have achieved top-8 finishes in World Championships/Olympics or top-3 finishes in Asian Games/Commonwealth Games in individual events, or medal-winning performance in team events, are considered for inclusion in the TOPS core group. Developmental athletes showing consistent improvement and potential may also be included in the TOPS development group.",
+  "benefits": "Financial support for foreign training, international competition participation, equipment, sports science and medical support, hiring of foreign coaches and support staff, and a monthly out-of-pocket allowance. Athletes also receive personalized training plans and performance monitoring.",
+  "financial_support": "The scheme provides customized financial assistance based on individual athlete needs, covering expenses for foreign training, competition exposure, equipment, support staff, and a monthly stipend. The quantum of support is determined by the TOPS Mission Directorate based on the athlete's requirements and performance potential.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identification of potential athletes by National Sports Federations (NSFs) and the Sports Authority of India (SAI). 2. Evaluation by the TOPS Mission Directorate based on performance benchmarks and potential. 3. Approval of inclusion in the TOPS core or development group. 4. Formulation of a customized annual training plan (ATP) for each athlete. 5. Disbursement of funds as per the approved ATP upon submission of utilization certificates and progress reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Performance records and certificates from national/international competitions",
+    "Annual Training Plan (ATP) approved by the TOPS Mission Directorate",
+    "Utilization certificates for previous fund disbursements",
+    "Progress reports and medical/fitness certificates",
+    "Details of foreign training/competition exposure proposed"
+  ],
+  "deadlines": "Rolling basis — athletes can be considered for inclusion throughout the year based on performance and potential.",
+  "implementing_agency": "Ministry of Youth Affairs and Sports, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Continued support is contingent upon satisfactory performance, adherence to the ATP, and submission of required reports",
+    "Funding may be withdrawn or reduced for non-compliance with training plans or anti-doping violations",
+    "Inclusion in TOPS does not guarantee Olympic selection, which remains the prerogative of respective National Sports Federations"
+  ],
+  "source_cited_notes": [
+    "https://yas.nic.in/tops"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:01:54.373484+00:00"
+}

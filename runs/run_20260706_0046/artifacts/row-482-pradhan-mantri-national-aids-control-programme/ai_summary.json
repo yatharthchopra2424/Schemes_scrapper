@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-482",
+  "scheme_name": "Pradhan Mantri National AIDS Control Programme",
+  "scheme_url": "https://naco.gov.in",
+  "ministry_or_category": "Healthcare & MedTech",
+  "overview": "The Pradhan Mantri National AIDS Control Programme (PMNACP) is a centrally sponsored scheme implemented by the National AIDS Control Organisation (NACO) under the Ministry of Health and Family Welfare, Government of India. It aims to prevent and control HIV/AIDS through targeted interventions, awareness campaigns, and provision of antiretroviral therapy (ART) and other healthcare services. The programme focuses on high-risk groups, general population awareness, and strengthening healthcare infrastructure for HIV management across the country.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "people living with HIV/AIDS",
+    "high-risk groups",
+    "general population",
+    "healthcare workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce new HIV infections through targeted prevention strategies",
+    "Provide comprehensive care, support, and treatment to people living with HIV",
+    "Strengthen institutional capacity for effective programme implementation",
+    "Enhance strategic information management for monitoring and evaluation",
+    "Promote community participation and reduce stigma and discrimination"
+  ],
+  "eligibility": "Eligibility varies by component: for ART services, individuals must be diagnosed HIV-positive and registered at designated ART centres; for targeted interventions, beneficiaries include female sex workers, men who have sex with men, transgender persons, injecting drug users, and migrants; for general awareness, the entire population is targeted; healthcare workers and institutions involved in HIV service delivery are also eligible for training and capacity-building support.",
+  "benefits": "Benefits include free antiretroviral therapy (ART) for eligible HIV-positive individuals, diagnostic services (CD4 testing, viral load monitoring), treatment for opportunistic infections, psychosocial support, nutritional support in select cases, prevention of parent-to-child transmission (PPTCT) services, harm reduction measures for injecting drug users, behaviour change communication, condom promotion, and capacity building for healthcare providers.",
+  "financial_support": "Financial support under PMNACP is primarily in the form of subsidized or free healthcare services rather than direct cash transfers. The Government of India provides grants-in-aid to State AIDS Control Societies (SACS) for programme implementation, including procurement of ART kits, diagnostics, consumables, and operational costs. The central government bears a significant portion of the costs, with states contributing a share as per the funding pattern.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Individuals seeking ART must visit a designated ART centre with HIV-positive test report. 2. Registration is done at the ART centre after counselling and baseline investigations. 3. Eligibility for free ART is assessed based on clinical and immunological criteria. 4. Upon registration, monthly ART drug kits are dispensed free of cost. 5. Regular follow-up visits are scheduled for monitoring and adherence counselling. 6. For targeted interventions, high-risk groups access services through NGOs or TI sites after outreach and mobilization.",
+  "application_portal_url": "",
+  "required_documents": [
+    "HIV-positive test report from a designated ICTC or laboratory",
+    "Proof of identity (Aadhaar card, voter ID, PAN, etc.)",
+    "Proof of address (ration card, utility bill, etc.)",
+    "Referral slip (if applicable)",
+    "Consent form for HIV testing and treatment"
+  ],
+  "deadlines": "Rolling basis — services are available throughout the year at designated centres.",
+  "implementing_agency": "National AIDS Control Organisation (NACO), Ministry of Health and Family Welfare, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Free ART is available only to those registered at government-designated ART centres",
+    "Benefits under targeted interventions are restricted to identified high-risk groups",
+    "Continued access to ART requires regular follow-up and adherence to treatment",
+    "Services may vary slightly across states based on local implementation"
+  ],
+  "source_cited_notes": [
+    "https://naco.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:52:54.864528+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-778",
+  "scheme_name": "Tele-Law Scheme – Legal Services Startup Integration",
+  "scheme_url": "https://telelaw.gov.in",
+  "ministry_or_category": "LegalTech Startups",
+  "overview": "The Tele-Law Scheme – Legal Services Startup Integration aims to provide legal aid and advice to marginalized communities through a technology-driven platform, connecting citizens with panel lawyers via video conferencing, telephone, and chat services. It leverages Common Service Centres (CSCs) and mobile applications to deliver pre-litigation legal consultation, particularly in rural and remote areas. The scheme promotes access to justice by integrating legal services startups and law firms into its network of service providers. It is implemented under the Department of Justice, Ministry of Law and Justice, Government of India.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "startups",
+    "law firms",
+    "legal services providers",
+    "marginalized communities",
+    "rural populations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide free legal advice to marginalized sections of society",
+    "Utilize technology to connect citizens with lawyers via video conferencing and telephone",
+    "Integrate legal services startups and law firms into the Tele-Law network",
+    "Strengthen pre-litigation dispute resolution through Common Service Centres (CSCs)",
+    "Enhance access to justice in rural and remote areas",
+    "Promote legal awareness and empowerment among underserved populations"
+  ],
+  "eligibility": "Legal services startups, law firms, advocates, and legal aid organizations that are registered entities and willing to empanel with the Tele-Law Scheme to provide legal consultation services through the platform are eligible to participate. They must comply with the scheme’s guidelines and quality standards for service delivery.",
+  "benefits": "Empanelled legal services startups and law firms receive visibility and access to a national user base seeking legal advice. They contribute to social impact by providing pro bono or subsidized legal consultation. The scheme offers a structured platform for service delivery, training modules, and technical support for integration. Non-financial benefits include participation in a government-backed initiative enhancing credibility and reach.",
+  "financial_support": "The scheme provides financial support to empanelled legal service providers in the form of honorarium or payment per consultation session delivered through the Tele-Law platform. The exact remuneration structure is determined by the Department of Justice and may vary based on session type, duration, and provider category. Payments are processed through the designated implementing agency upon verification of service delivery.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Tele-Law website or contact the Department of Justice for empanelment details. 2. Submit an expression of interest or application for empanelment as a legal service provider. 3. Provide required documents including registration certificates, PAN, GST details, and other relevant credentials. 4. Undergo verification and approval by the Tele-Law Scheme authorities. 5. Upon approval, integrate with the Tele-Law platform through technical onboarding. 6. Start accepting consultation requests and delivering legal advice via video, phone, or chat.",
+  "application_portal_url": "https://telelaw.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration certificate (if applicable)",
+    "Bank account details",
+    "Authorization letter from authorized signatory",
+    "Details of advocates/lawyers on roll with Bar Council registration",
+    "Infrastructure and technical capability details for platform integration"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Department of Justice, Ministry of Law and Justice",
+  "contact_details": "",
+  "caveats": [
+    "Empanelment is subject to verification and approval by the Department of Justice",
+    "Service providers must adhere to quality, confidentiality, and ethical standards",
+    "Payments are made only for verified consultations delivered through the official platform",
+    "The scheme does not guarantee a minimum volume of consultation requests",
+    "Empanelment may be reviewed periodically and can be terminated for non-compliance"
+  ],
+  "source_cited_notes": [
+    "https://telelaw.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:46:02.398476+00:00"
+}

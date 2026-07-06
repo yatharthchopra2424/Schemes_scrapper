@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-171",
+  "scheme_name": "Champions Portal for MSME Grievance Resolution",
+  "scheme_url": "https://champions.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The Champions Portal for MSME Grievance Resolution is a technology-driven platform launched by the Ministry of MSME to help MSMEs resolve grievances related to finance, raw materials, labor, regulatory permissions, and other issues, particularly in the context of the Covid-19 situation. It aims to capture new opportunities, identify and encourage potential MSMEs, and provide handholding and support through a unified system. The portal integrates with other grievance redressal systems like CPGRAMS and uses AI, machine learning, and data analytics to reduce human intervention and delay.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Grievance Redressal: resolve the problems of MSMEs including those of finance, raw materials, labor, regulatory permissions etc particularly in the Covid created difficult situation",
+    "To help them capture new opportunities: including manufacturing of medical equipments and accessories like PPEs, masks, etc and supply them in National and International markets",
+    "To identify and encourage the sparks: i.e. the potential MSMEs who are able to withstand the current rough weather and can become national and international champions",
+    "To provide handholding, guide, empower, ease and encourage the MSME sector of India",
+    "To capture and encourage ideas and collaborative, supportive ecosystem of experts and technocrats who can guide in the technical, managerial and financial issues faced by the MSMEs",
+    "To capture the self pro-active administrative interventions by the functionaries of the Ministry of MSME",
+    "To capture the VIP References coming from Hon. Ministers and other dignitaries"
+  ],
+  "eligibility": "Micro, Small and Medium Enterprises (MSMEs) and other related stakeholders can voice their issues and grievances through the portal.",
+  "benefits": "The portal provides facilities to MSMEs and other related stakeholders to voice their issues and grievances and get resolution and way forward; extensive use of AI, Machine learning and Data analytics to avoid and reduce human intervention, delay and duplication; seamless integration with other grievance related portals of GOI like CPGRAMS and other portals of the MSME Ministry; auto-generated unique ID numbers for different types of grievances (GR, CP, CO, IN, VI); timely resolution with matters not remaining unattended for more than three days and not inconclusive after seven days; access to Champion Control Rooms (Central and State Level) for monitoring and resolving issues; and support for MSMEs to avail benefits of Government schemes and access various inputs and requirements.",
+  "financial_support": "The Champions Portal does not provide direct financial support such as grants, loans, or subsidies. It is a grievance redressal and handholding platform focused on non-financial support like issue resolution, guidance, and facilitation of access to government schemes.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Champions Portal at https://champions.gov.in 2. Register or log in to the portal 3. Submit grievances related to finance, raw materials, labor, regulatory permissions, or other issues 4. Receive an auto-generated unique ID (starting with GR for general grievances, CP for CPGRAMS-fetched, CO for collaborative ideas, IN for administrative interventions, VI for VIP references) 5. The issue is automatically segregated subject-wise and officer-wise and transferred to concerned officials under the MSME Ministry 6. Concerned officers deal with the issue with promptness, sensitivity, and seriousness 7. If unresolved, the matter can be escalated to the Champion Control Room (CCR) for further intervention 8. The Secretary MSME reviews the functioning and holds fortnightly sessions with applicants whose grievances are not settled.",
+  "application_portal_url": "https://champions.gov.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Grievances can be submitted year-round.",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "Email: champions@gov.in",
+  "caveats": [
+    "Grievances will not be invited on telephone. They will be enlisted ONLY on and through the Portal.",
+    "The matter should NOT remain unattended for more than three days and should NOT remain inconclusive after seven days.",
+    "In case of extreme humanitarian case or a case of injustice and/or harassment or undue delay, if the decision is against the individual or unit, the unit or its promoters must be heard telephonically or in person.",
+    "The Champion Control Room (CCR) functions from 8 AM to 10 PM every day.",
+    "State level Champion Control rooms require at least 4-6 officials (preferably from Group A and B officials) from nominated institutions."
+  ],
+  "source_cited_notes": [
+    "https://champions.gov.in/mailor/w_champions.htm",
+    "https://champions.gov.in/MyMsme/grievance/Register_GrievanceVoiceEnable.aspx",
+    "https://champions.gov.in/MSME_complaint/MSME_Grievance/resolution_solution_status.htm",
+    "https://champions.gov.in/Ministry-of-MSME/central-state-help_line_desk-single_window_system/Control_Rooms.htm"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:51:20.662010+00:00"
+}

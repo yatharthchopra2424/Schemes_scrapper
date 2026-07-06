@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-371",
+  "scheme_name": "Indian Railways Station Redevelopment Programme",
+  "scheme_url": "https://irsdc.gov.in",
+  "ministry_or_category": "Railways",
+  "overview": "The Indian Railways Station Redevelopment Programme (IRSRD) aims to modernize and upgrade railway stations across India through public-private partnerships, leveraging commercial development of station land and airspace to fund infrastructure improvements. The initiative focuses on enhancing passenger amenities, improving safety and accessibility, and transforming stations into world-class transit hubs while maintaining operational efficiency.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "passengers",
+    "railway users",
+    "local communities",
+    "private developers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Modernize railway stations with improved passenger amenities and infrastructure",
+    "Enhance safety, security, and accessibility at railway stations",
+    "Develop stations as multi-modal transit hubs with commercial integration",
+    "Leverage land value capture through commercial development to fund redevelopment",
+    "Improve operational efficiency and passenger experience",
+    "Create sustainable and environmentally friendly station environments"
+  ],
+  "eligibility": "The programme invites private sector participation through competitive bidding for station redevelopment projects. Eligible bidders include companies, consortia, and special purpose vehicles (SPVs) with relevant experience in infrastructure development, real estate, urban planning, and construction. Participation is governed by transparent bidding processes managed by Indian Railways Station Development Corporation Limited (IRSDC).",
+  "benefits": "Passengers benefit from upgraded facilities including waiting areas, sanitation, food courts, retail spaces, and improved circulation. Private developers gain long-term lease rights for commercial development of station premises and airspace. Indian Railways achieves infrastructure modernization without direct budgetary expenditure through land value capture mechanisms.",
+  "financial_support": "The programme operates on a public-private partnership model where private developers invest in station redevelopment and recover costs through commercial development rights over a concession period. No direct government grants or subsidies are provided; funding is generated through monetization of station land and airspace via commercial real estate development.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Monitor IRSDC website for tenders and requests for proposals (RFPs) for specific station redevelopment projects. 2. Review project details, eligibility criteria, and bidding documents published in tender notices. 3. Prepare technical and financial bids as per RFP requirements. 4. Submit bids through the designated e-procurement portal before the deadline. 5. Participate in bid opening and evaluation process. 6. If selected, enter into concession agreement with IRSDC and fulfill contractual obligations.",
+  "application_portal_url": "https://irsdc.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association",
+    "Audited financial statements for last three-year track record in infrastructure/real estate development",
+    "Net worth certificate from a chartered accountant",
+    "Details of ongoing and completed projects",
+    "Authorization letter for bid submission",
+    "Power of attorney for lead member (in case of consortium)",
+    "Bid security/Earnest Money Deposit (EMD)",
+    "Technical proposal including development plan and designs",
+    "Financial proposal with bid amount"
+  ],
+  "deadlines": "Project-specific — varies per tender notice published on the IRSDC website",
+  "implementing_agency": "Indian Railways Station Development Corporation Limited (IRSDC), a joint venture of Rail Land Development Authority (RLDA) and IRCON International Limited",
+  "contact_details": "",
+  "caveats": [
+    "Project timelines and commercial viability depend on local real estate market conditions",
+    "Successful bidders must comply with safety, heritage, and operational requirements of active railway stations",
+    "Concession agreements include performance benchmarks and penalties for non-compliance",
+    "Land use is restricted to permissible activities as per railway safety and zoning norms"
+  ],
+  "source_cited_notes": [
+    "https://irsdc.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:50:50.554213+00:00"
+}

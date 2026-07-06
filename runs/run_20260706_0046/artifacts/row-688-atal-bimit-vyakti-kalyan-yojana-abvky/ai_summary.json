@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-688",
+  "scheme_name": "Atal Bimit Vyakti Kalyan Yojana (ABVKY)",
+  "scheme_url": "https://www.esic.gov.in/abvky",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "Atal Beemit Vyakti Kalyan Yojana (ABVKY) is a welfare measure for employees covered under Section 2(9) of ESI Act, 1948, providing relief payment up to 90 days once in a lifetime. Introduced on a pilot basis from 01-07-2018, the scheme has been extended up to 30 June 2024, with enhanced benefits including unemployment relief at 50% of wages (up from 25%) and relaxed eligibility conditions. Claims can be submitted online at www.esic.gov.in along with physical submission of affidavit, Aadhaar copy, and bank details to the designated ESIC Branch Office/DCBO.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "employees covered under Section 2(9) of ESI Act, 1948"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide relief payment to insured persons during unemployment",
+    "Enhance unemployment relief rate to 50% of wages from earlier 25%",
+    "Relax eligibility conditions to require one year of insurable employment and 78 days of contribution in 12 months prior to unemployment",
+    "Allow relief to become due for payment after 30 days from date of unemployment",
+    "Enable online claim submission with physical document submission to ESIC Branch Office/DCBO"
+  ],
+  "eligibility": "The Insured Person should have been in insurable employment for a minimum period of one year immediately before her/his unemployment and should have contributed for not less than 78 days in the completed contribution period in 12 months immediately prior to unemployment.",
+  "benefits": "Relief payment up to 90 days once in a lifetime at 50% of wages (enhanced from 25%), relief becomes due for payment after 30 days from date of unemployment, claim can be submitted online at www.esic.gov.in along with physical submission of affidavit, photocopy of Aadhaar Card and Bank Account details to the designated ESIC Branch Office/DCBO by post or in person.",
+  "financial_support": "The scheme provides relief payment at the rate of 50% of wages for a maximum period of 90 days once in a lifetime. The enhanced benefit and relaxed conditions are applicable up to 30 June 2024.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Make claim online at the website www.esic.gov.in 2. Submit physical claim with an affidavit, photocopy of Aadhaar Card and Bank Account details 3. Submit to the designated ESIC Branch Office / DCBO by post or in person.",
+  "application_portal_url": "www.esic.gov.in",
+  "required_documents": [
+    "Affidavit",
+    "Photocopy of Aadhaar Card",
+    "Bank Account details"
+  ],
+  "deadlines": "The enhanced benefit and relaxed conditions are applicable upto 30 th June, 2024.",
+  "implementing_agency": "Employees' State Insurance Corporation (ESIC)",
+  "contact_details": "",
+  "caveats": [
+    "The scheme is available once in a lifetime",
+    "Enhanced benefit and relaxed conditions are applicable only up to 30 June 2024",
+    "Relief shall become due for payment after 30 days from date of unemployment"
+  ],
+  "source_cited_notes": [
+    "https://esic.gov.in/abvky",
+    "https://esic.gov.in/information-benefits"
+  ],
+  "last_updated_date": "2025-04-04",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:56:37.548712+00:00"
+}

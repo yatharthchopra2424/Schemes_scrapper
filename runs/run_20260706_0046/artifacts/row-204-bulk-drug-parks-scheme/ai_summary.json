@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-204",
+  "scheme_name": "Bulk Drug Parks Scheme",
+  "scheme_url": "https://pharmaceuticals.gov.in/bulk-drug-parks",
+  "ministry_or_category": "Healthcare",
+  "overview": "The Bulk Drug Parks Scheme aims to develop world-class infrastructure for bulk drug manufacturing in India by establishing dedicated parks with common facilities. It seeks to reduce manufacturing costs, enhance competitiveness, and ensure a steady supply of critical drugs. The scheme supports the creation of integrated infrastructure including common effluent treatment plants, solvent recovery systems, and logistics hubs. It is designed to promote self-reliance in pharmaceutical manufacturing and reduce dependence on imports.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "bulk drug manufacturers",
+    "pharmaceutical companies",
+    "MSME",
+    "large enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create world-class infrastructure for bulk drug manufacturing",
+    "To reduce the cost of production through common facilities",
+    "To ensure availability of critical drugs and reduce import dependence",
+    "To promote environmental sustainability via common effluent treatment",
+    "To attract investment in the pharmaceutical sector",
+    "To generate employment in the manufacturing sector"
+  ],
+  "eligibility": "Entities eligible for setting up Bulk Drug Parks include State Government agencies, Government-owned corporations, joint ventures with equity participation from State Governments, and private sector companies selected through a transparent bidding process. The implementing agency will be a Special Purpose Vehicle (SPV) formed by the State Government or its nominee.",
+  "benefits": "Financial support in the form of grant-in-aid for common infrastructure facilities. Non-financial benefits include plug-and-play infrastructure, common effluent treatment plants, solvent recovery systems, steam and power supply, water supply, logistics support, and safety and security services. The scheme enables economies of scale and reduces capital expenditure for individual units.",
+  "financial_support": "The Government of India provides grant-in-aid limited to 70% of the project cost for common infrastructure facilities, with a maximum of INR 1000 Crore per Bulk Drug Park. For Himachal Pradesh and other hill states, the grant is increased to 90% of the project cost. The remaining 30% (or 10% for hill states) is to be contributed by the State Government and the SPV.",
+  "fund_size_crores": "3000",
+  "grant_amount_per_entity": "Up to INR 1000 Crore per Bulk Drug Park",
+  "application_process": "1. State Governments submit proposals for setting up Bulk Drug Parks to the Department of Pharmaceuticals. 2. Proposals are evaluated based on predefined criteria including land availability, water and power connectivity, environmental clearance status, and industrial ecosystem. 3. Selected proposals are accorded 'In-Principle' approval. 4. After obtaining necessary statutory clearances, the State Governments form a Special Purpose Vehicle (SPV). 5. The SPV submits a Detailed Project Report (DPR) for final approval. 6. Upon approval, funds are released in installments based on progress milestones. 7. The SPV undertakes implementation of common infrastructure facilities. 8. Facilities are made operational and allotted to bulk drug manufacturers on lease or ownership basis.",
+  "application_portal_url": "https://pharmaceuticals.gov.in/bulk-drug-parks",
+  "required_documents": [
+    "Project proposal from State Government",
+    "Land details and ownership documents",
+    "Environmental clearance or status of application",
+    "Water and power availability certificates",
+    "Project feasibility report",
+    "Details of proposed SPV structure",
+    "Undertaking on cost sharing by State Government",
+    "Letter of consent from potential bulk drug manufacturers"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year as per notifications issued by the Department of Pharmaceuticals.",
+  "implementing_agency": "Department of Pharmaceuticals, Ministry of Chemicals and Fertilizers",
+  "contact_details": "Email: bulkdrugparks@nic.in | Phone: 011-2306-1756",
+  "caveats": [
+    "Grant is released only after achievement of physical progress milestones",
+    "Land must be in possession of the State Government or SPV before fund release",
+    "All statutory clearances (environmental, etc.) must be obtained by the SPV",
+    "The scheme is subject to periodic review and modification by the Government",
+    "Beneficiary allotment within the park must follow transparent and non-discriminatory procedures"
+  ],
+  "source_cited_notes": [
+    "https://pharmaceuticals.gov.in/bulk-drug-parks"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:13:13.520538+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-125",
+  "scheme_name": "Delhi Startup Policy",
+  "scheme_url": "https://investdelhionline.com",
+  "ministry_or_category": "State Level (Delhi)",
+  "overview": "The Delhi Startup Policy is a state-level initiative launched by the Government of Delhi to foster innovation, support early-stage startups, and promote entrepreneurship within the National Capital Territory. It aims to create a conducive ecosystem for startups through financial assistance, infrastructure support, regulatory simplification, and access to mentorship and markets. The policy focuses on sectors such as technology, manufacturing, services, and social enterprises, with special emphasis on women entrepreneurs and marginalized communities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "SC/ST",
+    "MSME"
+  ],
+  "geographic_scope": "Delhi only",
+  "objectives": [
+    "Promote innovation and entrepreneurship in Delhi",
+    "Provide financial and non-financial support to early-stage startups",
+    "Create incubation and co-working infrastructure",
+    "Simplify regulatory compliance for startups",
+    "Enhance access to markets and mentorship",
+    "Support underrepresented groups including women and SC/ST entrepreneurs",
+    "Strengthen industry-academia collaboration",
+    "Position Delhi as a preferred startup destination in India"
+  ],
+  "eligibility": "Startups incorporated as a Private Limited Company, Limited Liability Partnership (LLP), or Registered Partnership Firm in Delhi, with at least one founder domiciled in Delhi, working on innovative products, services, or processes, and not older than 7 years from date of incorporation. The startup must have annual turnover not exceeding INR 25 Crore in any preceding financial year.",
+  "benefits": "Financial support in the form of grants, reimbursement of patent and certification costs, access to subsidized incubation and co-working spaces, mentorship from industry experts, assistance in market access and government procurement, facilitation of funding linkages with investors and financial institutions, and regulatory handholding through single-window clearance.",
+  "financial_support": "The policy provides a one-time grant of up to INR 10 Lakhs for product development and prototype creation, reimbursement of up to INR 2 Lakhs for patent filing and certification costs, and access to seed fund support through the Delhi Startup Seed Fund Scheme (DSSFS) for eligible startups. Financial disbursement is made upon achievement of predefined milestones and submission of utilization certificates.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs for product development; up to INR 2 Lakhs for patent/reimbursement",
+  "application_process": "1. Register on the Delhi Startup Policy portal (investdelhionline.com) 2. Fill the online application form with startup details and innovation description 3. Upload required documents including Certificate of Incorporation, PAN, GST registration, and address proof 4. Submit pitch deck or prototype details 5. Await preliminary screening by the Delhi Startup Policy Committee 6. Present before the evaluation committee for final assessment 7. Upon approval, sign agreement and submit utilization plan 8. Receive grant in tranches based on milestone completion",
+  "application_portal_url": "https://investdelhionline.com",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration certificate",
+    "Address proof of the registered office in Delhi",
+    "Aadhaar and PAN of at least one founder",
+    "Pitch deck or business plan",
+    "Details of prototype or product under development",
+    "Bank account details of the startup",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds",
+  "implementing_agency": "Department of Industries, Government of National Capital Territory of Delhi",
+  "contact_details": "Email: startup@delhi.gov.in | Helpline: 011-23392205",
+  "caveats": [
+    "Grant is disbursed in tranches based on milestone achievement and submission of utilization certificates",
+    "Startups receiving support under other central or state government schemes for the same purpose may not be eligible for duplicate benefits",
+    "The grant must be utilized strictly for the approved purpose within the stipulated timeline",
+    "Failure to achieve milestones or submit required reports may lead to recovery of funds",
+    "The policy is subject to budgetary allocation and may be revised or withdrawn by the Government of Delhi"
+  ],
+  "source_cited_notes": [
+    "https://investdelhionline.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:23:28.713336+00:00"
+}

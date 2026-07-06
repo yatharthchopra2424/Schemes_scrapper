@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-14",
+  "scheme_name": "Mahila Udyam Nidhi Scheme (SIDBI)",
+  "scheme_url": "https://www.sidbi.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The Mahila Udyam Nidhi Scheme (SIDBI) is a financial assistance program designed to support women entrepreneurs in establishing or expanding their micro and small enterprises. It provides term loans and working capital assistance to promote self-employment and income generation among women. The scheme aims to enhance access to credit for women who face barriers in obtaining conventional financing. It is implemented by SIDBI as part of its commitment to inclusive financial development.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "women entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide financial assistance to women entrepreneurs for setting up new projects",
+    "To support expansion, modernization, and technology upgradation of existing women-owned enterprises",
+    "To promote self-employment and sustainable livelihoods among women",
+    "To enhance access to institutional credit for women in the MSME sector",
+    "To encourage entrepreneurship among women from economically weaker sections"
+  ],
+  "eligibility": "The scheme is available to women entrepreneurs who are sole proprietors, partners in a partnership firm, or directors of women-owned private limited company with women having not less than 51% shareholding. The enterprise must be engaged in manufacturing, service, or agro-processing, The applicant must not be a defaulter to any bank or financial institution. The unit should have been in operation for at least two years for existing enterprises, while new projects are also eligible.",
+  "benefits": "Financial assistance in the form of term loans and working capital loans. Collateral-free lending under CGTMSE coverage where applicable. Competitive interest rates linked to SIDBI's internal rating model. Flexible repayment tenure based on project viability. Support for both new project setup and expansion of existing enterprises. Assistance in building credit history and financial discipline for women entrepreneurs.",
+  "financial_support": "The scheme provides term loans for project cost and working capital loans for operational needs. The quantum of assistance is need-based and subject to the project's viability and the borrower's repayment capacity. Loans are sanctioned based on the project report, financial projections, and creditworthiness of the applicant. The assistance may be covered under the Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE) to facilitate collateral-free lending. Interest rates are determined as per SIDBI's internal risk assessment and are competitive for the MSME segment.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the project and prepare a detailed project report including technical, financial, and economic aspects. 2. Ensure compliance with eligibility criteria, including women entrepreneurship status and Udyam registration. 3. Approach the nearest SIDBI branch or authorized channel with the project report and required documents. 4. Submit the application along with KYC documents, business registration proof, and financial statements. 5. SIDBI conducts technical and financial appraisal of the project. 6. Upon approval, loan sanction is communicated, and disbursement is made in stages as per project progress. 7. Complete documentation and create security as per loan terms. 8. Begin repayment as per the agreed schedule after moratorium, if any.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project Report",
+    "KYC documents of the woman entrepreneur (PAN, Aadhaar, etc.)",
+    "Proof of business registration/proprietorship/partnership deed/incorporation certificate",
+    "Udyam Registration Certificate",
+    "Land and building documents (ownership/lease agreement)",
+    "Machinery/equipment quotations and invoices",
+    "Last two years' audited financial statements (for existing units)",
+    "Bank account statement",
+    "Income tax returns (if applicable)",
+    "No dues certificate from existing bankers (if any)",
+    "Details of promoters and their background"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "Email: info@sidbi.in | Helpline: 180-022-6753",
+  "caveats": [
+    "Loan assistance is subject to credit appraisal and project viability assessment by SIDBI.",
+    "The quantum of loan is limited to the project cost and working capital requirement as assessed by SIDBI.",
+    "Benefits under CGTMSE are subject to the guarantee cover availability and applicable norms.",
+    "The scheme does not provide subsidy or grant; it is a pure loan product.",
+    "Default on repayment may affect future credit eligibility with SIDBI and other financial institutions."
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/",
+    "https://sidbi.in/en/government-programmes"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:26:05.612414+00:00"
+}

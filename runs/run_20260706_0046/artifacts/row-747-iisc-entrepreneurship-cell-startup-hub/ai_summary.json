@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-747",
+  "scheme_name": "IISc Entrepreneurship Cell & Startup Hub",
+  "scheme_url": "https://www.iisc.ac.in",
+  "ministry_or_category": "Research Institutions",
+  "overview": "The IISc Entrepreneurship Cell & Startup Hub is an initiative by the Indian Institute of Science to foster innovation and support startups through incubation, mentorship, and industry collaboration. It aims to translate research into marketable products and services by providing a platform for student and faculty entrepreneurs. The hub facilitates networking with investors, industry experts, and alumni to scale ventures. It operates under the Institute's broader mission of promoting translational research and social impact.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "student entrepreneurs",
+    "faculty entrepreneurs",
+    "research scholars"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster innovation and entrepreneurship among students and faculty",
+    "Provide incubation support for early-stage startups",
+    "Facilitate industry-academia collaboration for technology transfer",
+    "Offer mentorship and networking opportunities with investors and experts",
+    "Support translational research and commercialization of IISc innovations",
+    "Build a vibrant startup ecosystem within the IISc campus"
+  ],
+  "eligibility": "Open to IISc students, faculty, staff, and alumni with innovative ideas or early-stage startups. Preference is given to ventures rooted in IISc research or technology. Applicants must demonstrate potential for scalability and social impact.",
+  "benefits": "Access to incubation space, mentorship from faculty and industry experts, networking with investors and alumni, legal and IP support, prototyping facilities, and participation in pitch events and demo days. Non-financial benefits include guidance on business modeling, fundraising, and go-to-market strategies.",
+  "financial_support": "The hub facilitates access to seed funding through IISc’s internal grants, alumni networks, and external venture connections. Specific financial support includes nominal grants for prototyping and assistance in applying for government schemes like BIRAC, DST-NIDHI, and SISFS. Direct fund disbursement is managed through partnered incubators or external agencies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an online application via the IISc Entrepreneurship Cell portal with a brief idea or startup description. 2. Undergo initial screening by the hub team for novelty and feasibility. 3. Shortlisted applicants present their pitch to a selection panel of faculty and industry mentors. 4. Selected ventures are onboarded into the incubation program with assigned mentors. 5. Progress is reviewed quarterly, and continued support is based on milestones achieved.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Idea or startup description",
+    "Team details and roles",
+    "Proof of IISc affiliation (student/faculty/alumni ID)",
+    "Preliminary business model or value proposition",
+    "Any existing prototype or research output"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Indian Institute of Science, Bengaluru",
+  "contact_details": "Email: office.divdeans@iisc.ac.in | Phone: +91-80-22932478; +91-80-22932286",
+  "caveats": [
+    "Financial support is facilitative and not guaranteed; actual funding depends on external sources",
+    "Incubation support is contingent on active participation and progress review",
+    "Priority is given to technology-driven ventures with IISc research linkage",
+    "Use of IISc facilities and branding requires prior approval"
+  ],
+  "source_cited_notes": [
+    "https://iisc.ac.in/",
+    "https://iisc.ac.in/about/",
+    "https://iisc.ac.in/centres/",
+    "https://iisc.ac.in/about/administration/deans-of-divisions/",
+    "https://iisc.ac.in/post-doctoral-fellowship/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:32:53.929150+00:00"
+}

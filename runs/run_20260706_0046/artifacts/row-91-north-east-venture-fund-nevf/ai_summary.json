@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-91",
+  "scheme_name": "North East Venture Fund (NEVF)",
+  "scheme_url": "https://sidbi.in/ne",
+  "ministry_or_category": "Tribal Development",
+  "overview": "The North East Venture Fund (NEVF) is a scheme managed by SIDBI to support startups and early-stage enterprises in the North Eastern region of India. It aims to promote entrepreneurship and innovation by providing financial assistance through venture capital investments. The fund focuses on high-growth potential startups in sectors such as technology, manufacturing, and services. NEVF operates as a Fund of Funds, investing in SEBI-registered Alternative Investment Funds (AIFs) that in turn invest in eligible startups.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage enterprises",
+    "MSME"
+  ],
+  "geographic_scope": "North Eastern Region",
+  "objectives": [
+    "Promote entrepreneurship and innovation in the North Eastern region",
+    "Provide financial assistance to high-potential startups through venture capital",
+    "Support technology-driven and innovation-led enterprises",
+    "Strengthen the startup ecosystem in underserved regions",
+    "Facilitate access to capital for early-stage ventures",
+    "Encourage private sector participation via Fund of Funds structure",
+    "Generate employment and economic growth in the North East",
+    "Enable startups to scale and achieve market readiness"
+  ],
+  "eligibility": "Startups and early-stage enterprises based in the North Eastern region of India with innovative business models, high growth potential, and compliance with SIDBI's investment criteria. Enterprises must be registered as private limited companies, LLPs, or partnership firms and demonstrate scalability and market readiness.",
+  "benefits": "Access to venture capital funding without immediate equity dilution in some cases, mentorship and strategic guidance from fund managers, networking opportunities with investors and industry experts, validation of business model through institutional investment, and potential follow-on funding from other sources.",
+  "financial_support": "NEVF operates as a Fund of Funds, investing in SEBI-registered Alternative Investment Funds (AIFs) that provide capital to startups. The fund does not directly lend to enterprises but channels investments through professional venture capital funds. Investment is made in the form of equity or quasi-equity instruments based on the startup's stage and growth potential.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify and approach SEBI-registered AIFs partnered with NEVF. 2. Submit business plan, pitch deck, and financial projections to the AIF. 3. Undergo due diligence and investment committee review. 4. Receive term sheet and negotiate investment terms. 5. Complete legal documentation and fund disbursement. 6. Utilize funds for business growth as per agreed milestones.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Audited financial statements (if any)",
+    "Business plan and pitch deck",
+    "Details of promoters and management team",
+    "Proof of registration in North Eastern Region",
+    "IP or technology documentation (if applicable)",
+    "Bank statements and cash flow projections"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Small Industries Development Bank of India (SIDBI)",
+  "contact_details": "+91 86930 33333 | Toll Free Number: 180-022-6753",
+  "caveats": [
+    "Investments are subject to due diligence and approval by partner AIFs",
+    "Funding is not guaranteed and depends on market conditions and investment thesis",
+    "Startups must comply with reporting and monitoring requirements post-investment",
+    "NEVF does not provide direct loans; investments are channeled through AIFs",
+    "Priority may be given to sectors aligned with national development goals"
+  ],
+  "source_cited_notes": [
+    "https://sidbi.in/ne"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:09:09.787743+00:00"
+}

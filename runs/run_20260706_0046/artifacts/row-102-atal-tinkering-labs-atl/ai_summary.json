@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-102",
+  "scheme_name": "Atal Tinkering Labs (ATL)",
+  "scheme_url": "https://aim.gov.in/atl",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "Atal Tinkering Labs (ATL) is an initiative under the Atal Innovation Mission (AIM) by NITI Aayog to foster curiosity, creativity, and imagination in young minds by establishing tinkering labs in schools across India. The program aims to inculcate skills such as design mindset, computational thinking, adaptive learning, and physical computing among students from grades 6 to 12. ATL provides a workspace where students can shape their ideas through hands-on do-it-yourself mode and learn innovation skills.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "schools",
+    "students"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create workspaces where young minds can learn innovation skills",
+    "To foster curiosity, creativity, and imagination in students",
+    "To inculcate skills such as design mindset, computational thinking, adaptive learning, and physical computing",
+    "To provide a platform for students to develop solutions to local problems",
+    "To promote STEM education through experiential learning"
+  ],
+  "eligibility": "Schools (Government, Government-aided, or private) seeking to establish an Atal Tinkering Lab must apply through the online application portal. Eligible institutions include those managed by Government, local bodies, or private trusts/societies. The school must have minimum required infrastructure and commit to running the lab for at least 3-4 hours per week beyond regular school hours.",
+  "benefits": "Selected schools receive grant-in-aid for establishment and operation of ATL, including one-time establishment charge of up to INR 10 lakh and operational expenses of up to INR 10 lakh for a maximum period of 5 years. Schools also get access to mentorship, training programs, innovation challenges, and opportunities to participate in national-level exhibitions and competitions.",
+  "financial_support": "Financial support includes a one-time establishment grant of up to INR 10,00,000 (INR 10 lakh) for setting up the lab with equipment, tools, and consumables, plus operational expenses of up to INR 10,00,000 (INR 10 lakh) spread over a maximum of 5 years (INR 2 lakh per annum). The grant is released in installments based on milestones and utilization reports submitted by the school.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 20 Lakhs (INR 10 lakh establishment + INR 10 lakh operational over 5 years)",
+  "application_process": "1. Visit the official ATL application portal at https://aim.gov.in/atl 2. Register the school by filling in basic details such as school name, address, contact information, and UDISE code 3. Fill out the online application form with details about infrastructure, faculty, and commitment to run the lab 4. Upload required documents including school registration certificate, UDISE details, and photographs of proposed lab space 5. Submit the application and await evaluation by the AIM selection committee 6. If selected, sign the Memorandum of Understanding (MoU) and receive grant disbursement in phases",
+  "application_portal_url": "https://aim.gov.in/atl",
+  "required_documents": [
+    "School registration certificate",
+    "UDISE code of the school",
+    "PAN card of the school/trust",
+    "Photographs of the proposed lab space",
+    "Details of infrastructure available (computers, internet, electricity)",
+    "Undertaking to run the lab for minimum 3-4 hours per week beyond school hours"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and periodic review cycles.",
+  "implementing_agency": "Atal Innovation Mission (AIM), NITI Aayog",
+  "contact_details": "Email: atl@aim.gov.in | Helpline: 011-23096565",
+  "caveats": [
+    "Grant is disbursed only upon achieving predefined milestones and submission of utilization certificates",
+    "The lab must be operational for a minimum of 3-4 hours per week beyond regular school hours",
+    "Failure to utilize funds or operate the lab may lead to withdrawal of grant and blacklisting",
+    "The grant is non-transferable and can be used only for the designated ATL activities"
+  ],
+  "source_cited_notes": [
+    "https://aim.gov.in/atl"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:15:21.242669+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-691",
+  "scheme_name": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM)",
+  "scheme_url": "https://maandhan.in",
+  "ministry_or_category": "Labour & Employment",
+  "overview": "Pradhan Mantri Shram Yogi Maandhan (PM-SYM) is a voluntary and contributory pension scheme launched by the Government of India for old age protection and social security of unorganized workers. It provides an assured monthly pension of Rs. 3000/- after attaining the age of 60 years, with matching contributions from the government. The scheme also includes a National Pension Scheme for Traders and Self-Employed persons with similar benefits.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "unorganized workers",
+    "self-employed persons",
+    "traders",
+    "street vendors",
+    "home-based workers",
+    "agricultural workers",
+    "construction workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide old age protection and social security to unorganized workers",
+    "Ensure a minimum assured pension of Rs. 3000/- per month after age 60",
+    "Offer family pension of 50% to the spouse upon beneficiary's death",
+    "Promote voluntary and contributory pension participation",
+    "Provide matching government contributions to beneficiary contributions",
+    "Cover workers in informal sectors such as street vendors, domestic workers, and agricultural laborers"
+  ],
+  "eligibility": "For Unorganized Workers (UW): Entry age between 18 to 40 years, monthly income up to Rs 15000/-, should not be engaged in organized sector (member of EPFO/NPS/ESIC), should not be an income tax payer, must possess Aadhaar card and savings bank account/Jana Dhan account with IFSC. For self-employed shop owners, retail owners and other vyaparis: Entry age between 18 to 40 years, annual turnover should not exceed Rs 1.5 crore, should not be covered under any National Pension Scheme contributed by the Central Government or member of EPFO/NPS/ESIC, must be an income tax payer, enrolled under PM-SYM or PM-Kisan Maandhan, and possess Aadhaar card and savings bank account with IFSC.",
+  "benefits": "Assured monthly pension of Rs. 3000/- after attaining age 60; family pension of 50% of the pension amount to spouse upon beneficiary's death; voluntary and contributory pension scheme with matching contribution by the Government of India; no administrative cost to beneficiary; nomination facility available; option to continue scheme by spouse in case of beneficiary's death before pension start; refund of member's contribution with interest if spouse opts out.",
+  "financial_support": "The scheme is a voluntary and contributory pension scheme where beneficiaries make monthly contributions ranging from Rs 55 to Rs 200 based on entry age, and the Government of India provides an equal matching contribution. The total monthly contribution (beneficiary + government) ranges from Rs 110 to Rs 400 as per the contribution chart. The pension amount of Rs. 3000/- per month is paid from the accumulated corpus after age 60.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest Common Service Centre (CSC) or access the online portal. 2. Provide Aadhaar card and savings bank account/Jana Dhan account details with IFSC. 3. Self-certify eligibility regarding age, income, and non-coverage under statutory social security schemes. 4. Fill out the enrollment form and provide consent for auto-debit facility. 5. Make the first contribution in cash at the CSC. 6. Subsequent contributions can be made via auto-debit, quarterly, half-yearly, or yearly modes. 7. Upon successful enrollment, receive a laminated colour scheme-card and acknowledgment receipt.",
+  "application_portal_url": "https://maandhan.in",
+  "required_documents": [
+    "Aadhar card",
+    "Savings bank passbook",
+    "Self-Certified form",
+    "Consent form for auto-debit facility"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of Labour & Employment",
+  "contact_details": "Helpline: 18002676888",
+  "caveats": [
+    "Beneficiary must contribute till age 60 to receive pension",
+    "If beneficiary joins organized sector (EPFO), government contribution stops and member must pay additional amount equal to government's share",
+    "In case of false declaration during enrollment, appropriate penalty may apply",
+    "Family pension is applicable only to spouse",
+    "Beneficiary should not be covered under any statutory social security scheme (NPS, ESIC, EPFO) or be an income tax payer (for unorganized workers category)"
+  ],
+  "source_cited_notes": [
+    "https://maandhan.in",
+    "https://maandhan.in/show_content.php?lang=1&level=1&lid=28&ls_id=28&page=6",
+    "https://maandhan.in/show_content.php?lang=1&level=1&lid=29&ls_id=29&page=6",
+    "https://maandhan.in/show_content.php?lang=1&level=1&lid=63&ls_id=79&page=74",
+    "https://maandhan.in/show_content.php?lang=1&level=1&lid=75&ls_id=95&page=90",
+    "https://maandhan.in/show_content.php?lang=1&level=1&lid=115&ls_id=138&page=6"
+  ],
+  "last_updated_date": "28/11/2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:57:25.707001+00:00"
+}

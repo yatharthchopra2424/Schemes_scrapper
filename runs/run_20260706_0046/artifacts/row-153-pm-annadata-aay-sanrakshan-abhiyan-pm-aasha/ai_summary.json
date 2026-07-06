@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-153",
+  "scheme_name": "PM Annadata Aay Sanrakshan Abhiyan (PM-AASHA)",
+  "scheme_url": "https://agricoop.nic.in/en/pm-aasha",
+  "ministry_or_category": "Agriculture",
+  "overview": "PM Annadata Aay Sanrakshan Abhiyan (PM-AASHA) is an umbrella scheme launched by the Government of India to ensure remunerative prices to farmers for their produce. It comprises three components: Price Support Scheme (PSS), Price Deficiency Payment Scheme (PDPS), and Pilot of Private Procurement & Stockist Scheme (PPPS). The scheme aims to protect farmers from distress sales and ensure minimum support prices (MSP) are realized through direct procurement or compensation mechanisms.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure remunerative prices to farmers for their produce",
+    "Prevent distress sale of agricultural commodities",
+    "Effective implementation of Minimum Support Price (MSP) through procurement",
+    "Provide income support to farmers via price deficiency payments",
+    "Encourage private sector participation in procurement and stocking",
+    "Stabilize agricultural prices and ensure food security"
+  ],
+  "eligibility": "All farmers selling notified agricultural commodities under the scheme are eligible. The scheme applies to crops covered under MSP as declared by the Government of India from time to time. Farmers must sell their produce through authorized agencies or registered private traders under the PPPS component to avail benefits.",
+  "benefits": "Farmers receive MSP for their produce under PSS via direct procurement by Central/State agencies. Under PDPS, farmers get direct payment of the difference between MSP and actual selling/modal price. Under PPPS, private players procure at MSP and are compensated with service charges. Benefits include assured income, reduced post-harvest losses, and timely payments.",
+  "financial_support": "Financial support is provided through direct procurement at MSP (PSS), direct payment of price deficiency (PDPS), and service charges to private players (PPPS). The Central Government bears the financial liability as per norms. Funds are released to nodal agencies for procurement and payments. The exact quantum varies based on market prices, production, and MSP declarations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Farmer sells notified crop to authorized procurement agency (PSS) or registered private trader (PPPS). 2. For PDPS, farmer registers sale and submits claim for price difference. 3. State/UT nodal agency verifies sale and MSP eligibility. 4. Payment is made directly to farmer’s bank account via DBT. 5. Private traders under PPPS submit procurement bills for service charge reimbursement.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Farmer’s identity proof (Aadhaar/Voter ID)",
+    "Land ownership or tenancy documents",
+    "Bank account details (for DBT)",
+    "Sale receipt or procurement slip",
+    "Crop details and quantity sold"
+  ],
+  "deadlines": "Based on harvest season and market arrival of notified crops; varies by state and commodity",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Benefits limited to notified crops under MSP",
+    "Implementation depends on state/UT participation and readiness",
+    "PPPS is currently under pilot in select districts",
+    "PDPS payments are subject to verification of modal prices",
+    "Farmers must sell through authorized channels to avail benefits"
+  ],
+  "source_cited_notes": [
+    "https://agricoop.nic.in/en/pm-aasha"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:39:46.577602+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-164",
+  "scheme_name": "National Horticulture Board (NHB) Schemes",
+  "scheme_url": "https://nhb.gov.in",
+  "ministry_or_category": "Horticulture",
+  "overview": "The National Horticulture Board (NHB) implements the Cluster Development Programme (CDP) to leverage geographical specialization of horticulture clusters and make them globally competitive. The scheme aims to facilitate suitable economies of scale in production and post-harvest activities, improve price realization, and empower farming communities by enhancing income through increased competitiveness across the value chain. It operates in challenge mode where interested parties identify clusters, demonstrate feasibility, and submit proposals for development of existing or induced clusters. The programme supports multi-commodity high-value clusters and peri-urban vegetable clusters under revised CDP guidelines.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Farmer Producer Organisations (FPOs/FPCs)",
+    "Cooperatives/Societies",
+    "Partnership Firms",
+    "Companies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Address the concerns of the horticulture cluster value chain from pre-production, production, post-harvest management and value addition to logistics, marketing and branding in an integrated manner.",
+    "Facilitate the introduction of innovative technologies and practices to help enhance the global competitiveness of focus cluster crops and thereby promote exports.",
+    "Enhance farmers’ wallet share (reduction in cost and increase in revenue)."
+  ],
+  "eligibility": "Implementing Agency (IA) must be a legal entity excluding proprietorships or natural persons, including Farmer Producer Organisations (FPOs/FPCs), Cooperatives/Societies, Partnership Firms, Companies, or combination thereof. The applicant must demonstrate net worth at least equivalent to the equity contribution of the IA proposed in the project, contribute a minimum of 20% of the IA’s Cost Component as equity, possess substantial and relevant experience in agricultural or horticultural input supply, production, aggregation, trading, food processing, exporting, retailing, or logistics provision, have an annual turnover at least equal to the total cost of the project, secure a term loan from RBI Approved Scheduled Commercial Bank or Financial Institution constituting at least 20% of the IA’s Cost Component, provide a detailed Appraisal Note from the Bank/FI, ensure the farmer component is minimum 40% of the total project cost, and maintain a clean financial record with no defaults on debt obligations or non-performing asset classification over the past three years.",
+  "benefits": "Financial assistance under the Programme for project execution, support for achieving financial closure, facilitation in obtaining statutory approvals and clearances, guidance on utilization of funds in a transparent and judicious manner, support for maintaining proper books of accounts, dovetailing with other ministries and departments for holistic cluster development, coordination with State Horticulture Mission (SHM) for timely implementation, adherence to Central Vigilance Commission (CVC) guidelines and Ministry of Finance procurement manuals, and provision of technical guidance on package of practices and good agriculture practices (GAPs) to producers in the cluster.",
+  "financial_support": "The applicant must provide a financing plan clearly identifying sources of funds and indicating equity: debt split for the IA component of project cost. The farmer component shall be minimum 40% of the total project cost. The IA must secure a term loan from RBI Approved Scheduled Commercial Bank or Financial Institution that constitutes at least 20% of the IA’s Cost Component, confirmed by relevant banking institutions and documented appropriately. The applicant entity must contribute a minimum of 20% of the IA’s Cost Component as equity in the proposed project.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit concept note in response to Expression of Interest (EoI) via online portal at https://cdp.nhb.gov.in. 2. Await responsiveness check and technical evaluation of concept notes received on or before the cut-off date. 3. If shortlisted, submit detailed business plan/ Detailed Project Report (DPR) within six weeks. 4. Post evaluation of the business case/DPR, projects will be awarded to the IA and contract will be signed between NHB and IA. 5. No deadline date extensions will be provided for DPR submission.",
+  "application_portal_url": "https://cdp.nhb.gov.in",
+  "required_documents": [
+    "Concept note",
+    "Detailed Project Report (DPR)",
+    "Business case",
+    "Financial documentation substantiating equity contribution",
+    "Proof of term loan sanction letter from RBI Approved Scheduled Commercial Bank or Financial Institution",
+    "Bank/ FI Appraisal Note",
+    "Documents demonstrating net worth",
+    "Evidence of relevant experience in agricultural or horticultural fields",
+    "Audited balance sheet and Statutory Auditor Certificate for turnover verification",
+    "Self-declaration of no blacklisting or debarring by Central/State Government, PSU, or autonomous body"
+  ],
+  "deadlines": "Last date for submission of application is 31st July 2026 (6:00 PM, Friday). Last date for submission of Detailed Project Reports (DPRs) by shortlisted applicants is 17th April 2026 (06:00 PM).",
+  "implementing_agency": "National Horticulture Board (NHB), Ministry of Agriculture & Farmers Welfare, Government of India",
+  "contact_details": "Email: clusters.nhb@gov.in | Help Desk: 0124-2343414",
+  "caveats": [
+    "Submission of application physically or through any other means shall not be accepted; only online submission at https://cdp.nhb.gov.in is allowed.",
+    "Detailed Project Report/ Techno-Economic Viability Report merely stamped or endorsed by the Scheduled Commercial Bank without detailed Appraisal Note shall not be considered valid.",
+    "The applicant entity, including its shareholder(s), partner(s), director(s), and key management personnel, must have a clean financial record with no defaults on debt obligations over the past three years and must not have been classified as ‘non-performing assets’ by any lender during this period."
+  ],
+  "source_cited_notes": [
+    "https://nhb.gov.in/writereaddata/0138260438072ndEoI2026.pdf",
+    "https://nhb.gov.in/writereaddata/1008260508084EOIDPR10Apr2026.pdf",
+    "https://nhb.gov.in/writereaddata/060226120202Prebid Norice 06.04.2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:51:26.831765+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-387",
+  "scheme_name": "Exploration Licence for Private Players",
+  "scheme_url": "https://mines.gov.in",
+  "ministry_or_category": "Mining & Minerals",
+  "overview": "The Exploration Licence for Private Players is a scheme introduced under the Mines and Minerals (Development and Regulation) Amendment Act, 2023, which empowers the Central Government to auction exploration licences for critical and deep-seated minerals. The scheme allows private sector participation in reconnaissance and prospecting operations for minerals listed in the new Seventh Schedule of the Act. Exploration licences are granted through a transparent, non-discretionary online auction process, with a validity of 5 years extendable by another 2 years.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "private companies",
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote private sector participation in exploration of critical and deep-seated minerals",
+    "Ensure transparent and non-discretionary allocation of exploration rights through auction",
+    "Facilitate reconnaissance and prospecting operations for minerals in the Seventh Schedule",
+    "Strengthen domestic supply chain resilience for strategic minerals",
+    "Enable access to geo-scientific data for informed bidding",
+    "Encourage technological innovation in mineral exploration",
+    "Support Atmanirbhar Bharat by reducing import dependency on critical minerals"
+  ],
+  "eligibility": "Comply with eligibility conditions specified in Section 5 of the MMDR Act: Indian National and Company Registered under Companies Act, 1956. Maximum area limit: One or more exploration licences covering a total area of more than 5000 Sq Km. Net worth requirement for Exploration Licence: Bidder should have net worth of more than or equal to Rs. 25 Crore.",
+  "benefits": "Opportunity to undertake reconnaissance and prospecting for critical and deep-seated minerals; access to National Mineral Exploration Trust (NMET) funding for partial reimbursement of exploration expenses (up to 50% of direct costs with ceilings ranging from ₹1.50 Crore to ₹10.00 Crore depending on activity type); potential for higher reimbursement (up to 60%) if G2 blocks are handed over for auction and successfully auctioned within three years; seamless access to geo-scientific data via National Geoscience Data Repository (NGDR); 100% FDI allowed under automatic route.",
+  "financial_support": "Scheme for partial reimbursement of exploration expenses from National Mineral Exploration Trust (NMET) for holders of Exploration Licence granted through auction: 50% of direct costs reimbursed for geological mapping and sampling (max ₹1.50 Crore), geophysical investigations (max ₹3.00 Crore), exploratory drilling (max ₹10.00 Crore), chemical and petrological analysis/mineral beneficiation (max ₹2.50 Crore), research collaboration/consultancy/advisory (max ₹1.50 Crore), and logistics (max ₹1.50 Crore, subject to ₹30 Lakhs per year). If EL holder hands over G2 block(s) for auction within three years and they are successfully auctioned, reimbursement increases to 60% of direct costs with increased ceilings.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State/Central Government issues notice inviting tender to commence auction process and identify/demarcate area. 2. Submission of Technical Bids and Initial Price Offer (IPO) as percentage of value of mineral despatched. 3. Top 50% technically qualified bidders (TQB) or 5 whichever is higher proceed to Round II. 4. If TQBs < 3, auction process annulled. 5. Opening of IPO and live forward auction with minimum increment of 0.05%. 6. At least one Final Price Offer (FPO) required for successful auction. 7. Bidder submitting highest FPO declared as Preferred Bidder (PB). 8. If no qualified bidder submits FPO, auction annulled. 9. For second attempt, terms remain same as first annulled attempt.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Technical Bid",
+    "Initial Price Offer (IPO)",
+    "Final Price Offer (FPO)",
+    "Proof of Indian Nationality",
+    "Certificate of Incorporation under Companies Act, 1956",
+    "Net worth certificate (≥ Rs. 25 Crore)",
+    "Geo-scientific data for the area (if available)"
+  ],
+  "deadlines": "Auctions conducted as per notices issued by State/Central Government; no fixed rolling window specified in evidence.",
+  "implementing_agency": "Ministry of Mines, Government of India",
+  "contact_details": "Email: ngawards-mines@gov.in | Telefax: 011-23385329 (based on National Geoscience Awards contact, as no specific scheme contact provided)",
+  "caveats": [
+    "Exploration licence valid for 5 years, extendable by 2 years only",
+    "No mining lease deed executed if not done within 3 years from letter of intent (extendable to 5 years if delay beyond bidder's control)",
+    "Auction process annulled if fewer than 3 technically qualified bidders in Round I",
+    "Must comply with Minerals (Evidence of Mineral Contents) Rules, 2015 for area eligibility",
+    "Reimbursement from NMET subject to audit and compliance with SoC guidelines"
+  ],
+  "source_cited_notes": [
+    "https://mines.gov.in/admin/download/685a87f126d2b1750763505.pdf",
+    "https://mines.gov.in/admin/download/685a862b2519d1750763051.pdf",
+    "https://mines.gov.in/admin/download/685a874e549cd1750763342.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:10:25.861400+00:00"
+}

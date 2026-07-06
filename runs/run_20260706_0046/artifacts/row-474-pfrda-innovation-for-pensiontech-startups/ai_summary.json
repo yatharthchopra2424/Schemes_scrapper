@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-474",
+  "scheme_name": "PFRDA Innovation for PensionTech Startups",
+  "scheme_url": "https://www.pfrda.org.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "PFRDA Innovation for PensionTech Startups is a scheme launched by the Pension Fund Regulatory and Development Authority (PFRDA) to support startups innovating in the pension technology space. The initiative aims to foster innovation in pension services through regulatory sandbox frameworks and digital platforms. It encourages the development of solutions that enhance accessibility, efficiency, and user experience in pension systems. The scheme is part of PFRDA’s broader efforts to modernize pension delivery and promote financial inclusion.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster innovation in pension technology (PensionTech) through regulatory sandbox support",
+    "Encourage development of digital solutions for pension accessibility and efficiency",
+    "Support startups in testing innovative pension products and services under regulatory supervision",
+    "Promote financial inclusion by enabling broader access to pension schemes via technology",
+    "Strengthen the pension ecosystem through collaboration between regulators and innovators"
+  ],
+  "eligibility": "Startups incorporated in India working on innovative pension technology solutions, including but not limited to digital onboarding, grievance redressal, pension analytics, and subscriber education platforms, are eligible to apply under the PFRDA Innovation for PensionTech Startups scheme.",
+  "benefits": "Selected startups gain access to PFRDA’s regulatory sandbox environment, enabling live testing of innovations with real users under supervision. They receive mentorship from PFRDA officials, technical guidance, and potential pathways for scaling solutions across national pension schemes like NPS and APY. The scheme also offers visibility through PFRDA’s official channels and opportunities to collaborate with intermediaries such as CRAs, pension funds, and Points of Presence.",
+  "financial_support": "The scheme does not provide direct financial grants or funding to startups. Support is primarily non-financial, focusing on regulatory facilitation, sandbox access, and technical collaboration. Any financial engagement would be subject to separate agreements outside the scope of this innovation initiative.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PFRDA official website and navigate to the Innovation or Regulatory Sandbox section. 2. Review the guidelines for the PensionTech Startups initiative. 3. Prepare a detailed proposal outlining the innovation, its relevance to pension systems, and testing requirements. 4. Submit the application through the designated portal or email as specified in the guidelines. 5. Await review by the PFRDA Innovation Committee. 6. If shortlisted, present the solution for evaluation. 7. Upon approval, enter the regulatory sandbox for testing and refinement.",
+  "application_portal_url": "https://www.pfrda.org.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Detailed project proposal or pitch deck",
+    "Description of the innovation and its application in pension technology",
+    "Information on the founding team and their expertise",
+    "Any existing prototypes or pilot results",
+    "Compliance and data security measures (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year.",
+  "implementing_agency": "Pension Fund Regulatory and Development Authority (PFRDA)",
+  "contact_details": "Email: info@pfrda.org.in | Helpline: 1800 110 708 (NPS Toll Free)",
+  "caveats": [
+    "Participation in the regulatory sandbox does not guarantee regulatory approval or future adoption by PFRDA",
+    "Startups must comply with data privacy, security, and confidentiality norms during testing",
+    "PFRDA reserves the right to modify or withdraw sandbox access based on regulatory or operational considerations",
+    "The scheme does not constitute an endorsement or guarantee of commercial success"
+  ],
+  "source_cited_notes": [
+    "https://www.pfrda.org.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:46:54.301322+00:00"
+}

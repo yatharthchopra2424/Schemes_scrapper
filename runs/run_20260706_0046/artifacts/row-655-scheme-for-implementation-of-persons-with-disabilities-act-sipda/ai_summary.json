@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-655",
+  "scheme_name": "Scheme for Implementation of Persons with Disabilities Act (SIPDA)",
+  "scheme_url": "https://disabilityaffairs.gov.in",
+  "ministry_or_category": "Divyangjan & Senior Citizens",
+  "overview": "The Scheme for Implementation of Persons with Disabilities Act (SIPDA) is a central sector scheme aimed at empowering persons with disabilities through various interventions including rehabilitation, education, skill development, and accessibility initiatives. It supports the implementation of the Rights of Persons with Disabilities Act, 2016 across India by providing financial assistance to states, NGOs, and institutions for disability-inclusive programs.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "persons with disabilities",
+    "NGOs",
+    "state governments",
+    "educational institutions",
+    "rehabilitation centers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Empower persons with disabilities through rehabilitation, education, and skill development",
+    "Promote accessibility and inclusion in public infrastructure and services",
+    "Support implementation of the Rights of Persons with Disabilities Act, 2016",
+    "Strengthen institutional capacity for disability welfare at state and district levels",
+    "Encourage participation of persons with disabilities in social, economic, and cultural life",
+    "Facilitate early intervention and therapeutic services for children with disabilities",
+    "Promote research, training, and human resource development in disability sector",
+    "Support national awards and recognition for outstanding work in disability empowerment"
+  ],
+  "eligibility": "State governments, union territory administrations, local bodies, institutions established by central or state governments, NGOs registered under the Societies Registration Act, 1860 or Indian Trusts Act, 1882, and other organizations working in the field of disability rehabilitation and empowerment are eligible to apply for financial assistance under SIPDA, subject to fulfilling scheme-specific guidelines and submission of required documents.",
+  "benefits": "Financial assistance for setting up and running rehabilitation centers, special schools, vocational training units, and accessible infrastructure; support for assistive devices, scholarships, and skill development programs; funding for awareness campaigns, early intervention services, and community-based rehabilitation; grants for organizing national events, workshops, and training programs; assistance for research and development in disability sector.",
+  "financial_support": "Under SIPDA, grants-in-aid are provided to eligible organizations for specific projects, with funding patterns varying by component — typically 90% central assistance for northeastern and hill states, and 60% for other states, subject to upper ceilings and utilization certificates. The scheme operates through annual proposals submitted by states and institutions, which are appraised and sanctioned by the Department of Empowerment of Persons with Disabilities (DEPwD).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Eligible organizations prepare project proposals as per SIPDA guidelines. 2. Proposals are submitted through the respective state government or directly to DEPwD, depending on the component. 3. State governments forward recommendations for NGO/institution proposals. 4. DEPwD appraises proposals technically and financially. 5. Approved proposals are sanctioned with specific terms and conditions. 6. Funds are released in installments based on progress and utilization certificates. 7. Beneficiaries must submit audited accounts and performance reports for continued funding.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing objectives, activities, and budget",
+    "Registration certificate of the organization",
+    "Audited financial statements of the previous year",
+    "Utilization certificate for previous grants (if any)",
+    "List of managing committee or board members",
+    "Bank account details of the organization",
+    "No Objection Certificate (NOC) from state government (for NGOs)",
+    "Land/building ownership or lease documents",
+    "Quotations for equipment and materials",
+    "Undertaking regarding non-duplication of funding"
+  ],
+  "deadlines": "Annual basis — proposals are invited once a year, typically aligned with the financial year cycle.",
+  "implementing_agency": "Department of Empowerment of Persons with Disabilities (DEPwD), Ministry of Social Justice and Empowerment",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budget and satisfactory utilization of previous grants",
+    "NGOs must be registered and operational for a minimum period as specified",
+    "Assets created under the scheme cannot be disposed of without government permission",
+    "Central assistance is released only after receipt of utilization certificates and audit reports",
+    "The scheme does not cover recurring expenses like salaries unless specifically permitted under a component"
+  ],
+  "source_cited_notes": [
+    "https://disabilityaffairs.gov.in",
+    "https://disabilityaffairs.gov.in/hi/सिपडा/"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:34:36.600368+00:00"
+}

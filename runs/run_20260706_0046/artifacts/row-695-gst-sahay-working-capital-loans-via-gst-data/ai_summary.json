@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-695",
+  "scheme_name": "GST Sahay – Working Capital Loans via GST Data",
+  "scheme_url": "https://www.gst.gov.in",
+  "ministry_or_category": "GST & Taxation",
+  "overview": "GST Sahay is a working capital loan scheme that leverages GST data to provide financial support to businesses. It aims to improve access to credit for MSMEs and other enterprises by using their GST compliance and transaction history as a basis for lending decisions. The scheme is designed to enhance liquidity and support business continuity through data-driven lending.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide working capital loans to businesses based on GST data",
+    "Improve credit access for MSMEs using digital transaction history",
+    "Enhance financial inclusion through alternative credit scoring",
+    "Support business liquidity and continuity",
+    "Promote formalization of economy via GST compliance"
+  ],
+  "eligibility": "Businesses registered under GST with compliant return filing history and verifiable transaction data through GSTN are eligible to apply for loans under GST Sahay.",
+  "benefits": "Access to working capital loans based on GST data, faster loan processing due to digital verification, reduced reliance on traditional collateral, improved creditworthiness assessment through transaction history, and support for business expansion and operational needs.",
+  "financial_support": "Working capital loans are extended based on the analysis of GST returns and transaction data, with loan quantum determined by the business's turnover, compliance history, and financial health as reflected in GSTN records. The mechanism involves fintech or NBFC partners using GSTN APIs to assess creditworthiness.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Ensure GST registration and regular filing of returns 2. Approach participating lenders (banks/NBFCs) offering GST Sahay loans 3. Share GSTN consent for data access 4. Lender verifies GST data and assesses creditworthiness 5. Loan amount is sanctioned based on eligibility 6. Funds are disbursed to the borrower's account",
+  "application_portal_url": "",
+  "required_documents": [
+    "GST registration certificate",
+    "PAN of the business",
+    "Bank account details",
+    "GST return filings (GSTR-1, GSTR-3B) for relevant period",
+    "Authorization for GSTN data sharing"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Goods and Services Tax Network (GSTN)",
+  "contact_details": "Help Desk Number: 1800-103-4786",
+  "caveats": [
+    "Loan approval depends on participating lenders' internal policies",
+    "Data sharing consent is mandatory for processing",
+    "Past GST defaults or irregular filings may affect eligibility",
+    "Scheme is facilitated through private financial institutions, not direct government lending"
+  ],
+  "source_cited_notes": [
+    "https://gst.gov.in/",
+    "https://gst.gov.in/help/refund",
+    "https://gst.gov.in/help/enrollmentwithgst"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:00:31.350936+00:00"
+}

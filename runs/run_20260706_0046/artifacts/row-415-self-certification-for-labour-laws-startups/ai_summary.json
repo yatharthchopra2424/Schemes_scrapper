@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-415",
+  "scheme_name": "Self-Certification for Labour Laws (Startups)",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "Self-Certification for Labour Laws (Startups) is a regulatory simplification initiative under the Startup India initiative that allows DPIIT-recognised startups to self-certify compliance with specified labour and environmental laws, reducing the need for routine inspections and lowering compliance burden. Startups can self-certify through the Startup India portal or mobile app, with no inspections conducted for a specified period unless a credible complaint is filed. The scheme aims to foster innovation by enabling startups to focus on core business activities rather than regulatory formalities.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce the regulatory burden on Startups thereby allowing them to focus on their core business and keep compliance cost low",
+    "Make compliance for Startups friendly and flexible through simplifications in the regulatory regime",
+    "Allow Startups to self-certify compliance with labour and environment laws through a simple online procedure",
+    "Ensure inspections are conducted only on receipt of credible and verifiable complaints",
+    "Promote ease of doing business for startups in India"
+  ],
+  "eligibility": "DPIIT recognised startups that are within 10 years from date of incorporation (20 years if deeptech recognized). To apply for DPIIT recognition, click “Get Recognised” below.",
+  "benefits": "Startups shall be allowed to self-certify compliance with 6 labour laws and 3 environmental laws through a simple online procedure. In the case of labour laws, no inspections will be conducted for a period of 5 years. Startups may be inspected only on receipt of a credible and verifiable complaint of violation, filed in writing and approved by at least one level senior to the inspecting officer. In the case of environment laws, startups that fall under the ‘white category’ (as defined by the Central Pollution Control Board (CPCB)) would be able to self-certify compliance, and only random checks would be carried out in such cases.",
+  "financial_support": "No direct financial support is provided under this scheme; it is a regulatory simplification measure that reduces compliance costs and administrative burden.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal. 2. Log in to your dashboard. 3. Navigate to the 'Get Recognised' section. 4. Fill out the DPIIT recognition application form with business details. 5. Upload required documents including Certificate of Incorporation, PAN, and business description. 6. Submit the application for review. 7. Upon recognition, access the Shram Suvidha Portal of the Ministry of Labour and Employment. 8. Register at the Shram Suvidha Portal and log in. 9. Click the link 'Is Any of your Establishment a Startup'. 10. Follow the instructions to complete self-certification for labour laws.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Self-certification under labour laws is valid for a period of 5 years from recognition",
+    "Inspections may be conducted only on receipt of credible and verifiable complaints",
+    "Startups must be DPIIT recognised to avail this benefit",
+    "The benefit applies only to startups falling under the 'white category' for environment laws as defined by CPCB"
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action%20Plan.pdf",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action_Plan.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:22:52.810106+00:00"
+}

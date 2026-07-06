@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-640",
+  "scheme_name": "Lakshadweep Development Corporation Schemes",
+  "scheme_url": "https://lakshadweep.gov.in",
+  "ministry_or_category": "Island Development",
+  "overview": "The Lakshadweep Development Corporation Limited (LDCL) is a key implementing agency under the Administration of Lakshadweep, responsible for executing development schemes and managing public utilities in the Union Territory. It functions as a government-owned corporation under the administrative control of the Lakshadweep Administration, with its Managing Director appointed from the Indian Administrative Service (IAS) cadre. LDCL oversees infrastructure, industrial, and socio-economic development initiatives across the islands, including fisheries, tourism, power, and cooperative sectors. The corporation operates under the guidance of the Secretary (Finance, Planning Statistics & Taxation) who also serves as its Chairman cum Managing Director.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "residents of Lakshadweep",
+    "local entrepreneurs",
+    "fishermen",
+    "cooperative societies",
+    "MSMEs"
+  ],
+  "geographic_scope": "Lakshadweep only",
+  "objectives": [
+    "Promote industrial and economic development in Lakshadweep",
+    "Manage and develop public utilities and infrastructure",
+    "Support fisheries, tourism, and cooperative sectors",
+    "Implement government schemes and centrally sponsored programs",
+    "Facilitate financial and technical assistance to local enterprises",
+    "Enhance livelihood opportunities through skill development and capacity building",
+    "Ensure sustainable utilization of island resources",
+    "Strengthen institutional framework for local governance and service delivery"
+  ],
+  "eligibility": "Eligibility varies depending on the specific scheme implemented by LDCL; generally open to residents of Lakshadweep, registered cooperative societies, self-help groups, local entrepreneurs, and MSMEs engaged in permissible economic activities within the UT, subject to scheme-specific criteria such as project viability, local employment generation, and compliance with environmental and regulatory norms.",
+  "benefits": "Benefits include access to financial support, technical guidance, infrastructure development, market linkages, subsidies on inputs, training and capacity building, and implementation of government welfare and livelihood schemes. LDCL also facilitates access to central and state government schemes, promotes entrepreneurship, and supports the development of key sectors like fisheries, tourism, and handicrafts through targeted interventions.",
+  "financial_support": "Financial support is provided through various mechanisms including grants, loans, subsidies, and equity participation, depending on the scheme. LDCL implements centrally sponsored schemes and UT-specific programs, disbursing funds as per guidelines from the Ministry of Home Affairs, NITI Aayog, or other central agencies. The quantum and terms of support are scheme-specific and outlined in respective guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Application processes vary by scheme. Generally, applicants must submit proposals through the concerned department or LDCL office, accompanied by required documents such as project reports, identity proof, land documents (if applicable), bank details, and scheme-specific forms. Applications are reviewed by LDCL or the relevant administrative department for technical and financial feasibility before approval.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Lakshadweep Development Corporation Limited (LDCL)",
+  "contact_details": "Email: lk-mdldcl[at]utl[dot]gov[dot]in | Phone: 04896262278",
+  "caveats": [
+    "Scheme-specific eligibility and benefits apply; details must be verified from individual scheme guidelines",
+    "Funding is subject to availability of budgetary allocations and central/state government approvals",
+    "Projects must comply with environmental, coastal zone, and local regulations applicable to Lakshadweep",
+    "Preference may be given to projects promoting local employment and sustainable development"
+  ],
+  "source_cited_notes": [
+    "https://lakshadweep.gov.in/lakshadweep-administration/",
+    "https://lakshadweep.gov.in/about-lakshadweep/administrative-setup/"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:27:58.791974+00:00"
+}

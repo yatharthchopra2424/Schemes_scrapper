@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-192",
+  "scheme_name": "Small Hydro Power Programme",
+  "scheme_url": "https://mnre.gov.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "The Small Hydro Power Programme (SHP) under the Ministry of New and Renewable Energy (MNRE) supports the development of small hydro projects (up to 25 MW capacity) to enhance renewable energy capacity in India. The scheme provides Central Financial Assistance (CFA) for project implementation, including survey and investigation, and aims to promote clean energy generation in remote and hilly areas. It is implemented in coordination with State Nodal Agencies and focuses on grid-connected and off-grid applications.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "state governments",
+    "private developers",
+    "public sector undertakings",
+    "cooperative societies"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote development of small hydro power projects (up to 25 MW) for renewable energy generation",
+    "Enhance energy access in remote, hilly, and inaccessible regions through decentralized power",
+    "Support survey and investigation of potential small hydro sites",
+    "Encourage private and public sector participation in small hydro development",
+    "Reduce dependence on fossil fuels and contribute to India's clean energy targets",
+    "Strengthen grid connectivity and stability in rural and mountainous areas"
+  ],
+  "eligibility": "Eligible entities include State Governments, State Power Utilities, Public Sector Undertakings, private developers, and cooperative societies. Projects must have a capacity of up to 25 MW and be technically feasible as per CEA guidelines. Preference is given to projects in hilly and remote areas. The implementing agency must submit a Detailed Project Report (DPR) and obtain necessary clearances.",
+  "benefits": "Financial support through Central Financial Assistance (CFA) for survey, investigation, and project implementation. Technical guidance from MNRE and its institutes. Facilitation of clearances and approvals. Promotion of renewable energy in underserved regions. Contribution to national renewable energy targets and reduction in greenhouse gas emissions.",
+  "financial_support": "Central Financial Assistance (CFA) is provided at 90% of the project cost for survey and investigation (up to ₹10 lakh per project) and up to ₹5 crore per MW for project implementation, subject to a ceiling of ₹20 crore per project. For special category states (North Eastern and Himalayan states), CFA is enhanced to 100% for survey and investigation and up to ₹7 crore per MW for implementation. Funds are released in instalments based on project milestones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a potential small hydro site and prepare a Detailed Project Report (DPR) as per CEA guidelines. 2. Obtain necessary clearances from concerned authorities (e.g., forest, environment, irrigation). 3. Submit the DPR along with application to the State Nodal Agency (SNA). 4. SNA forwards the proposal to MNRE for appraisal. 5. MNRE appraises the proposal through the Project Appraisal Committee (PAC). 6. Upon approval, administrative sanction is issued by MNRE. 7. Funds are released in instalments based on project progress and submission of utilization certificates.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Clearances from forest, environment, and irrigation departments",
+    "Geological and hydrological survey reports",
+    "Single line diagram and layout plan",
+    "Power Purchase Agreement (PPA) or consent from State Utility",
+    "Incorporation/registration documents of the applicant",
+    "Financial viability report",
+    "Undertaking for completion of project within stipulated time"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year.",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE)",
+  "contact_details": "Email: spankaj@nic.in | Helpline: 011-20849116",
+  "caveats": [
+    "Projects exceeding 25 MW capacity are not eligible under SHP",
+    "CFA is subject to availability of funds and approval by the Project Appraisal Committee",
+    "Beneficiaries must submit utilization certificates and progress reports for subsequent instalments",
+    "Projects must be commissioned within the stipulated timeline; extensions require approval with penalties"
+  ],
+  "source_cited_notes": [
+    "https://mnre.gov.in/",
+    "https://mnre.gov.in/en/",
+    "https://mnre.gov.in/about-department/%e0%a4%aa%e0%a5%8d%e0%a4%b0%e0%a4%b8%e0%a5%8d%0%a4%a4%e0%a4%be%0%a4%b5%e0%a4%a8%e0%a4%be/",
+    "https://mnre.gov.in/vartman-suchana/",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/05/202605131556091014.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:06:22.200474+00:00"
+}

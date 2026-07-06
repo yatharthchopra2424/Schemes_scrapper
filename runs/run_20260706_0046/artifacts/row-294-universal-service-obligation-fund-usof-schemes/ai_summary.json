@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-294",
+  "scheme_name": "Universal Service Obligation Fund (USOF) Schemes",
+  "scheme_url": "https://usof.gov.in",
+  "ministry_or_category": "Telecom",
+  "overview": "The Universal Service Obligation Fund (USOF), renamed as Digital Bharat Nidhi (DBN) under the Telecommunications Act, 2023, is a Government of India initiative aimed at providing universal access to quality ICT services at affordable prices in rural and remote areas. It supports telecom service providers through subsidy mechanisms to bridge the digital divide by funding projects such as BharatNet, 4G saturation in uncovered villages, mobile tower installations in Left Wing Extremism-affected areas, and international bandwidth hiring. The fund is administered by the Department of Telecommunications, Ministry of Communications, and is financed through the Universal Access Levy (UAL) on telecom operators' adjusted gross revenue.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "People of rural and remote areas",
+    "Underserved rural, remote and urban areas",
+    "Telecom service providers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide widespread and non-discriminatory access to quality ICT services at affordable prices in rural & remote areas",
+    "Promote universal access to telecommunication services in underserved rural, remote, and urban areas",
+    "Facilitate research and development of telecommunication services, technologies, and products",
+    "Provide support for pilot projects, consultancy services, and advisory assistance for service provision",
+    "Encourage the adoption of new telecommunication services, technologies, and products",
+    "Narrow the access gaps and remove barriers to information dissemination and access to knowledge",
+    "Reduce the digital divide within the country and promote economic growth through augmenting digital connectivity and digital services in rural and remote India",
+    "Mainstream the underserved and unserved areas or groups by bridging the 'Access Gaps'",
+    "Address the 'Lack of a business case’ for telecom companies and the market gap or failure for ICT services in rural and remote areas"
+  ],
+  "eligibility": "Telecom service providers undertaking projects in areas where ICT services are not available due to commercial non-viability, on account of sparse population, remoteness of areas, absence of supporting infrastructure, low income of inhabitants and insurgency, as determined by the Universal Service Obligation Fund (USOF) / Digital Bharat Nidhi (DBN).",
+  "benefits": "Subsidy support to incentivize telecom service providers to venture into commercially non-viable areas; funding for BharatNet, 4G saturation, mobile tower projects in LWE-affected areas, CTDP for NER, international bandwidth hiring, and Digital Satellite Phone Terminals; non-discriminatory access to telecommunication services; promotion of R&D in telecom technologies; support for pilot projects and consultancy services; encouragement of adoption of new telecom services.",
+  "financial_support": "The Universal Service Obligation Fund (USOF) provides financial support through subsidy disbursements to implementing agencies such as BSNL, Reliance Jio Infocomm Limited, Bharti Airtel Limited, and Bharti Hexacom Limited for various projects. Funds are sourced from the Universal Access Levy (UAL) collected from telecom operators. As per the fund status as of 31.03.2026, total UAL accretion is ₹201,690.52 crore, total disbursement is ₹95,138 crore, and the potentially available fund balance is ₹106,552.50 crore. Specific project allocations include: ₹7,330 crore for LWE Phase II (excluding taxes), ₹2,426 crore for LWE Phase I 4G upgradation, ₹17.15 crore for international bandwidth hiring to BSNL, ₹2028.80 crore for CTDP in Arunachal Pradesh and two districts of Assam, ₹726.65 crore for uncovered villages and national highways of Meghalaya, ₹686.71 crore for 502 uncovered villages in aspirational districts, ₹3,685 crore for 7,287 aspirational villages, and ₹26,316 crore for saturation of 4G mobile services in uncovered villages across the country.",
+  "fund_size_crores": "201690.52",
+  "grant_amount_per_entity": "",
+  "application_process": "",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications",
+  "contact_details": "Email: admn[dot]dbn[dash]dot[at]gov[dot]in | Telephone/Fax No.: 23372144, 23372150",
+  "caveats": [
+    "Subsidy disbursement is subject to the terms and conditions specified in agreements with implementing agencies",
+    "Fund utilization is exclusively for meeting the Universal Service Obligation as per the Indian Telegraph Act, 1885 (as amended)",
+    "Projects must adhere to the Telecommunications (Administration of Digital Bharat Nidhi) Rules, 2024",
+    "Financial support is contingent upon verification of progress and compliance with project milestones",
+    "Certain projects have validity periods (e.g., Rural Wireline Broadband Scheme had a validity of nine years, extended by one year)"
+  ],
+  "source_cited_notes": [
+    "https://usof.gov.in",
+    "https://usof.gov.in/en/ongoing-schemes",
+    "https://usof.gov.in/en/fund-status",
+    "https://usof.gov.in/fund-status",
+    "https://usof.gov.in/en/genesis",
+    "https://usof.gov.in/en/know-your-minister",
+    "https://usof.gov.in/en/act-rules",
+    "https://usof.gov.in/en/who-s-who",
+    "https://usof.gov.in/en/list-of-administrator",
+    "https://usof.gov.in/assets/acts_policies_rules/1722234198_e31b8c3da5ff25f6340b.pdf",
+    "https://usof.gov.in/assets/acts_policies_rules/1725114164_f960febb0292e9c0618a.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:01:55.555030+00:00"
+}

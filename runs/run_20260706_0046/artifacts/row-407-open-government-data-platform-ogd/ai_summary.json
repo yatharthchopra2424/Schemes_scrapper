@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-407",
+  "scheme_name": "Open Government Data Platform (OGD)",
+  "scheme_url": "https://data.gov.in",
+  "ministry_or_category": "Digital India",
+  "overview": "The Open Government Data (OGD) Platform India, accessible at data.gov.in, is a national initiative under the Digital India program to proactively publish government datasets in open, machine-readable formats for public use, innovation, and transparency. It serves as a centralized repository where ministries, departments, and state governments share non-sensitive data across sectors such as health, education, agriculture, and finance. The platform enables citizens, researchers, developers, and startups to access, visualize, and reuse government data for societal and economic benefit.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "researchers",
+    "developers",
+    "citizens",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Proactively publish government datasets in open formats",
+    "Enable innovation and entrepreneurship through open data reuse",
+    "Enhance transparency and accountability in governance",
+    "Support evidence-based policy making and research",
+    "Facilitate development of data-driven applications and services",
+    "Promote collaboration between government, academia, and industry",
+    "Ensure data accessibility in machine-readable formats",
+    "Create a unified national data repository"
+  ],
+  "eligibility": "Any individual, organization, startup, researcher, or developer can access and use the datasets available on the OGD Platform (data.gov.in) without restriction, subject to the terms of the National Data Sharing and Accessibility Policy (NDSAP) and applicable licenses.",
+  "benefits": "Free access to thousands of government datasets in machine-readable formats (CSV, JSON, XML, etc.), data visualization tools, APIs for developers, metadata cataloging, multilingual interface, and the ability to create, share, and reuse data-driven applications and insights for commercial or non-commercial purposes.",
+  "financial_support": "The OGD Platform does not provide direct financial support to users. It is a free-to-use digital public infrastructure offering open data access at no cost. Any financial support for data-driven innovation would come through linked government schemes or grants accessed independently by users leveraging the platform.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the OGD Platform at https://data.gov.in 2. Browse or search for datasets using keywords, sectors, or tags 3. Select a dataset to view its metadata, preview, and download options 4. Click 'Download' to access the dataset in preferred format (CSV, JSON, XML, etc.) 5. Optionally, register for personalized features such as saving favorites or tracking updates 6. Developers can access APIs via the developer section for programmatic data retrieval.",
+  "application_portal_url": "https://data.gov.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Data is published and accessible continuously as it is released by government sources.",
+  "implementing_agency": "National Informatics Centre (NIC), Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ogd@nic.in | Helpline: 1800-11-6666",
+  "caveats": [
+    "Datasets are subject to the terms of the National Data Sharing and Accessibility Policy (NDSAP)",
+    "Some datasets may have usage restrictions or licensing conditions specified by the data-providing agency",
+    "Sensitive or classified data is not published on the platform",
+    "Users must ensure compliance with applicable laws and data privacy norms when reusing data"
+  ],
+  "source_cited_notes": [
+    "https://data.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:17:22.708719+00:00"
+}

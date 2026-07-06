@@ -1,0 +1,73 @@
+{
+  "scheme_id": "row-90",
+  "scheme_name": "Tribal Innovation & Entrepreneurship Fund (TIEF)",
+  "scheme_url": "https://trifed.tribal.gov.in",
+  "ministry_or_category": "Tribal Development",
+  "overview": "Tribal Innovation & Entrepreneurship Fund (TIEF) is a scheme under TRIFED aimed at fostering entrepreneurship among tribal communities by supporting the establishment of Van Dhan Producer Enterprises (VDPEs) through resource allocation, capacity building, and market access. It seeks to transform Van Dhan Vikas Kendras (VDVKs) into profit-oriented legal entities to enhance tribal income and economic resilience. The scheme integrates tribal communities into formal economic systems by promoting collective processing, value addition, and marketing of forest, farm, and non-farm products.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "tribal entrepreneurs",
+    "Van Dhan Vikas Kendras (VDVKs)",
+    "Self Help Groups (SHGs)",
+    "tribal communities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Formalizing and strengthening VDVKs, ensuring socio-economic empowerment",
+    "Promoting entrepreneurship among Tribals",
+    "Increasing the livelihood opportunities for individual members of VDPEs",
+    "Developing sustainable value chains for Minor Forest Produce (MFP)",
+    "Integrating tribal communities into formal economic systems",
+    "Enhancing tribal income through collective processing and market access",
+    "Supporting establishment of Van Dhan Producer Enterprises (VDPEs) as profit-oriented legal entities",
+    "Facilitating access to institutional finance and scaling operations"
+  ],
+  "eligibility": "Van Dhan Vikas Kendras (VDVKs) established under the PMJVM scheme, formed by the merger of four or more geographically proximate VDVKs, are eligible to be transformed into Van Dhan Producer Enterprises (VDPEs). VDPEs may be registered under any legally recognized structure including Societies, Co-operative Societies, Multi-State Co-operative Societies, Producer Companies, or MSMEs with UDYAM Registration.",
+  "benefits": "VDPEs gain formal recognition, access to institutional finance, improved collective bargaining power, capacity building, infrastructure support, market linkage facilitation, product development support, logistics support, reporting mechanisms, monitoring and evaluation, and social return on investment (SRoI) assessment. They also benefit from value chain integration, quality assurance, and market readiness, enabling long-term sustainability and scalability and enhanced socio-economic impact.",
+  "financial_support": "TRIFED adopts a three-tranche fund release model for State Implementing Agencies (SIAs): 10% upon proposal approval, 40% upon submission of Utilization Certificate (UC) for initial 10%, proof of VDPE registration, and Detailed Project Report (DPR), and 50% upon full utilization of the second tranche, verified implementation, and submission of supporting documentation. For Implementation Support Agencies (ISAs), fund release follows a deliverable-based model across pre-planning, implementation, and post-implementation phases, with percentages mutually agreed upon at the MoU/Agreement stage.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Implementing Agency (SIA) or Implementation Support Agency (ISA) prepares project proposal in coordination with State Nodal Department (SND) and respective Regional Office of TRIFED. 2. Project proposal is submitted to TRIFED for approval, including detailed profiling of constituent VDVKs, geographical and resource mapping, activities for awareness generation and handholding support, revival plan of defunct VDVKs, assessments of production potential, infrastructure, market prospects, and post-implementation plan. 3. Upon approval, funds are released in tranches based on milestones. 4. SIA/ISA is delegated administrative and financial powers to execute VDPE activities. 5. TRIFED Regional Offices assist in proposal formulation, field-level coordination, verification visits, compliance checks, and monitoring & evaluation. 6. VDPEs must undergo formation prerequisites including infrastructure assessment, compliance gaps, capacity-building needs, and market linkages, documented in a Detailed Project Report (DPR). 7. VDPEs are established through legal registration under recognized structures such as Societies, Co-operatives, Producer Companies, or MSMEs. 8. Operationalization includes market linkage, branding, full-scale operations, monitoring & evaluation, and SRoI assessment.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Utilization Certificate (UC)",
+    "Progress reports",
+    "Monthly Progress Reports (MPRs)",
+    "Annual Reports",
+    "Supporting documentation including progress report and UC",
+    "Field verification reports",
+    "Audited statements of accounts",
+    "Business plan",
+    "Legal documents",
+    "Revival plan of defunct VDVKs",
+    "Capacity building plan",
+    "Infrastructure setup details",
+    "Market linkage and branding plan",
+    "Product development plan",
+    "Logistics facilitation plan",
+    "Monitoring and evaluation (M&E) plan",
+    "Social Return on Investment (SRoI) evaluation plan"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Tribal Cooperative Marketing Development Federation of India Limited (TRIFED)",
+  "contact_details": "Email: pers[dot]div[dot]trifed[at]gmail[dot]com | Ph.-091(11) 20883014, 20883015, 20883016",
+  "caveats": [
+    "VDPEs must be formed by federating four or more geographically proximate VDVKs; relaxation may be granted by TRIFED if justified and feasible.",
+    "At least one-third of women's representation on the Board of Directors (BoD), with at least 50% of women from the tribal community.",
+    "At least 70% of BoD members must be from the tribal community.",
+    "BoD must convene at least two formal meetings annually.",
+    "All governance structures must operate in alignment with the legal form adopted by the VDPE.",
+    "TRIFED and concerned district/state authorities conduct periodic reviews and audits to uphold transparency and compliance.",
+    "Fund release is contingent upon verified completion of deliverables and milestones.",
+    "VDPEs are not standalone manufacturing/storage/procurement facilities but holistic enterprises under one legal umbrella."
+  ],
+  "source_cited_notes": [
+    "https://trifed.tribal.gov.in/sites/default/files/2025-07/VDPE%20Guidelines.pdf",
+    "https://trifed.tribal.gov.in",
+    "https://trifed.tribal.gov.in/en"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:12:22.948403+00:00"
+}

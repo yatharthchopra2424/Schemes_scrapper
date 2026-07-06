@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-22",
+  "scheme_name": "DPIIT Recognition for Startups",
+  "scheme_url": "https://www.startupindia.gov.in/content/sih/en/recognition.html",
+  "ministry_or_category": "Compliance & Registration",
+  "overview": "DPIIT Recognition for Startups is a flagship initiative under the Startup India program launched by the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry. It enables eligible startups to gain official recognition, unlocking access to tax benefits, easier compliance, IPR fast-tracking, and various government schemes. Recognition is granted based on criteria such as incorporation type, age, turnover, innovation, and scalability, and is valid for up to 10 years (20 years for deeptech startups) or until turnover exceeds turnover exceeds specified limits.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To reduce the regulatory burden on Startups, thereby allowing them to focus on their core business and keep compliance costs low.",
+    "To create a single point of contact for the entire Startup ecosystem and enable knowledge exchange and access to funding.",
+    "To promote awareness and adoption of IPRs by Startups and facilitate them in protecting and commercializing the IPRs by providing access to high quality Intellectual Property services and resources, including fast-track examination of patent applications and rebate in fees.",
+    "To provide an equal platform to Startups (in the manufacturing sector) vis-à-vis the experienced entrepreneurs/companies in public procurement.",
+    "To make it easier for Startups to wind up operations.",
+    "To provide funding support for development and growth of innovation driven enterprises.",
+    "To catalyse entrepreneurship by providing credit to innovators across all sections of society.",
+    "To promote investments into Startups by mobilizing the capital gains arising from sale of capital assets."
+  ],
+  "eligibility": "The startup should be incorporated as a Private Limited Company or registered as a Partnership Firm, Limited Liability Partnership, or Cooperative Society. Turnover should be less than INR 200 Crores (INR 300 Crores for DeepTech startups) in any of the previous financial years. An entity shall be considered a startup for up to 10 years (20 years for DeepTech startups) from the date of its incorporation. The startup should be working towards innovation or improvement of existing products, services, and processes, and should have the potential to generate employment or create wealth. An entity formed by splitting up or reconstruction of an existing business shall not be considered a 'Startup'.",
+  "benefits": "DPIIT recognised startups can get the following benefits under the Startup India Initiative: Self-certification compliance with 6 labour laws and 3 environmental laws through a simple online procedure (no inspections for 5 years for labour laws, random checks for environment laws under 'white category'); Fast-tracking of Startup Patent Applications; Panel of facilitators to assist in filing of IP applications with government bearing facilitation cost and 80% rebate on filing of patents; Income tax exemption for 3 consecutive financial years out of the first ten years since incorporation under Section 80-IAC; Easy winding up of company as per Insolvency and Bankruptcy Code, 2016 (within 90 days for simple debt structures); Opportunity to list product on Government e-Marketplace (GeM); Exemption from Prior Experience/Turnover in public procurement for manufacturing sector startups; Exemption from submitting Earnest Money Deposit (EMD) or bid security while filling government tenders.",
+  "financial_support": "The scheme itself does not provide direct financial support. However, DPIIT recognition enables access to various funding schemes such as the Startup India Seed Fund Scheme (SISFS) offering up to INR 20 lakhs grant, Fund of Funds for Startups (FFS) with a corpus of INR 10,000 crore managed by SIDBI investing in SEBI-registered AIFs that fund startups, and Credit Guarantee Scheme for Startups (CGSS) providing guarantee cover up to ₹20 crore per borrower for loans from Member Institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the Startup India portal. 2. Post registration, apply for DPIIT (Department for Industrial Policy and Promotion) recognition. 3. Access the Section 80 IAC exemption application form here. 4. Fill in all details with the below mentioned documents uploaded and submit the application form. 5. Refer to your Dashboard on the Startup India Portal for the status of your application.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Memorandum of Association for Pvt. Ltd. / LLP Deed",
+    "Board Resolution (If Any)",
+    "Annual Accounts of the startup for the last three financial years",
+    "Income Tax returns for the last three financial years"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Tax benefits under 80-IAC require separate Inter-Ministerial Board (IMB) approval",
+    "Startup status expires when turnover exceeds INR 200 Cr (or INR 300 Cr for DeepTech) or after 10 years (20 years for DeepTech)",
+    "Recognition only makes a startup eligible to apply for benefits; each incentive or exemption is governed by its own rules, guidelines, and application process, and startups may be required to separately apply and qualify in order to avail them."
+  ],
+  "source_cited_notes": [
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/content/sih/en/startupgov/startup_recognition_page.html",
+    "https://startupindia.gov.in/",
+    "https://startupindia.gov.in/content/sih/en/profile.html",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action%20Plan.pdf",
+    "https://startupindia.gov.in/content/dam/invest-india/HomePage/Startup-Playbook-Exclusive-Benefits-for-DPIIT-Recognised-Startups-in-India-April-2026.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:30:45.682214+00:00"
+}

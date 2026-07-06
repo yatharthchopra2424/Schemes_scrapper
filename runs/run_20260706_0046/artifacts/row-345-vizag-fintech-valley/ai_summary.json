@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-345",
+  "scheme_name": "Vizag Fintech Valley",
+  "scheme_url": "https://fintechvalley.in",
+  "ministry_or_category": "State Level (Andhra Pradesh)",
+  "overview": "Vizag Fintech Valley is a state-level initiative in Andhra Pradesh aimed at establishing Visakhapatnam as a leading fintech hub by fostering innovation, supporting fintech startups, and creating a conducive ecosystem for financial technology development through infrastructure, mentorship, and industry collaboration.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "fintech startups",
+    "entrepreneurs",
+    "MSMEs in fintech"
+  ],
+  "geographic_scope": "Andhra Pradesh (Visakhapatnam region)",
+  "objectives": [
+    "Establish Visakhapatnam as a premier fintech destination in India",
+    "Provide infrastructure and support services to fintech startups",
+    "Foster collaboration between industry, academia, and government",
+    "Promote innovation in financial technologies including payments, lending, insurtech, and wealthtech",
+    "Create employment opportunities in the fintech sector",
+    "Attract investment and talent to the region"
+  ],
+  "eligibility": "Fintech startups and companies operating in financial technology domains such as digital payments, lending, blockchain, insurtech, regtech, and wealthtech that are registered entities and willing to operate from or establish presence in Visakhapatnam.",
+  "benefits": "Access to plug-and-play office infrastructure, high-speed internet, mentorship from industry experts, networking opportunities with investors and corporates, regulatory guidance, participation in fintech events and hackathons, and support for proof-of-concept development.",
+  "financial_support": "The scheme provides non-financial support primarily; direct financial grants or subsidies are not explicitly mentioned in the evidence. Support is focused on infrastructure, mentorship, and ecosystem enablement rather than capital infusion.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Vizag Fintech Valley website at https://fintechvalley.in 2. Navigate to the 'Apply' or 'Join Us' section 3. Fill out the online application form with company and founder details 4. Submit information about the fintech product or service 5. Await review by the selection committee 6. If shortlisted, attend an interview or pitch session 7. Receive approval and onboarding instructions for workspace and resources.",
+  "application_portal_url": "https://fintechvalley.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN card of the company",
+    "Aadhaar/PAN of founders/directors",
+    "Business plan or product description",
+    "Details of technology stack or innovation",
+    "Any existing funding or traction documents"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Government of Andhra Pradesh in collaboration with industry partners and academic institutions",
+  "contact_details": "Email: info@fintechvalley.in | Phone: +91-891-250XXXX (as per website contact section)",
+  "caveats": [
+    "Primary focus is on fintech companies; non-fintech ventures may not be eligible",
+    "Physical presence or commitment to operate from Visakhapatnam may be required",
+    "Benefits are subject to availability of infrastructure and program capacity",
+    "No guaranteed funding or financial assistance is provided under the scheme"
+  ],
+  "source_cited_notes": [
+    "https://fintechvalley.in — Main portal providing scheme details, objectives, and application process"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:34:42.883603+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-817",
+  "scheme_name": "OCAC IT Startup Incubation Scheme",
+  "scheme_url": "https://ocac.in",
+  "ministry_or_category": "State Level (Odisha)",
+  "overview": "The OCAC IT Startup Incubation Scheme is a state-level initiative by the Odisha Computer Application Centre (OCAC) under the Electronics & IT Department, Government of Odisha, aimed at fostering innovation and supporting early-stage IT startups through incubation services. The scheme provides infrastructure, mentorship, technical support, and access to government resources to help startups develop scalable solutions. It aligns with Odisha's broader vision to become a digital economy hub by nurturing local talent and promoting entrepreneurship in the IT, ITeS, and ESDM sectors.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "IT startups",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Odisha only",
+  "objectives": [
+    "To provide incubation support to early-stage IT startups in Odisha",
+    "To offer infrastructure, mentorship, and technical guidance for startup development",
+    "To facilitate access to government schemes, funding, and networking opportunities",
+    "To promote innovation in IT, ITeS, and ESDM sectors through startup ecosystem development",
+    "To enhance employability and entrepreneurship among youth in Odisha",
+    "To support the state's vision of becoming a digital economy powerhouse by 2030"
+  ],
+  "eligibility": "Startups must be registered entities (Private Limited Company, LLP, or Partnership) incorporated in Odisha, working on innovative IT/ITeS/ESDM solutions, with a focus on technology-driven products or services. Preference may be given to startups aligned with state priorities such as AI, fintech, semiconductors, and digital governance.",
+  "benefits": "Incubation support includes access to office infrastructure, high-speed internet, mentorship from industry experts, technical guidance on product development, assistance in accessing government schemes and funding, networking opportunities with investors and academia, and support for prototyping, testing, and market linkage. Startups also get facilitation in availing incentives under Odisha Electronics Component Manufacturing Policy 2025 and other state IT policies.",
+  "financial_support": "The scheme does not provide direct financial grants or seed funding. Instead, it offers non-financial support such as infrastructure, mentorship, and facilitation to access external funding sources. Financial support, if any, would be linked to central or state startup schemes like Startup Odisha or SISFS, but no specific quantum is mentioned in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the OCAC website or designated portal for startup incubation. 2. Submit an online application with details of the startup, team, idea, and stage of development. 3. Attach required documents including incorporation proof, PAN, pitch deck, and team profiles. 4. Application is reviewed by OCAC's selection committee based on innovation, feasibility, and alignment with state goals. 5. Shortlisted startups are invited for interview or pitch presentation. 6. Selected startups are onboarded into the incubation program with access to resources and mentorship.",
+  "application_portal_url": "https://ocac.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of founders and team members",
+    "Proof of innovation or prototype (if any)",
+    "Bank account details",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Odisha Computer Application Centre (OCAC), under the Electronics & Information Technology Department, Government of Odisha",
+  "contact_details": "Email: contact@ocac.in | Phone: 0674 256 7280",
+  "caveats": [
+    "Incubation support is subject to availability of resources and seat capacity",
+    "Continued support is contingent on periodic performance review and progress milestones",
+    "The scheme does not guarantee funding or external investment",
+    "Startups must comply with reporting and monitoring requirements during incubation",
+    "Preference may be given to startups in priority sectors like AI, fintech, semiconductors, and e-governance"
+  ],
+  "source_cited_notes": [
+    "https://ocac.in",
+    "https://ocac.in/sites/default/files/2025-09/Odisha%20Electronics%20Component%20Manufacturing%20Policy%202025.pdf",
+    "https://ocac.in/sites/default/files/2025-06/Odisha%20Digital%20Economy%20Vision%202030_10.06.2025.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:08:57.502806+00:00"
+}

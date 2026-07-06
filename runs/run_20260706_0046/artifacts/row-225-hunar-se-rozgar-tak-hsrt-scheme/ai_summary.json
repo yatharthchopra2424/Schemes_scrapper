@@ -1,0 +1,67 @@
+{
+  "scheme_id": "row-225",
+  "scheme_name": "Hunar Se Rozgar Tak (HSRT) Scheme",
+  "scheme_url": "https://tourism.gov.in/hsrt",
+  "ministry_or_category": "Tourism",
+  "overview": "The Hunar Se Rozgar Tak (HSRT) Scheme is a skill development initiative by the Ministry of Tourism aimed at providing hospitality training to youth from economically weaker sections to enhance employability in the tourism sector. It offers short-term courses in various hospitality trades such as Multi Cuisine Cook, Food & Beverage Service Steward, Room Attendant, Front Office Associate, and others, aligned with the National Skill Qualification Framework (NSQF). The scheme focuses on wage and self-employment outcomes, with stipends, certification, and placement support provided to trainees.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "youth",
+    "economically weaker sections",
+    "unemployed persons",
+    "persons seeking skill development in hospitality"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide skill development training in hospitality trades to enhance employability",
+    "To target persons with limited means who need skills facilitative to employment",
+    "To ensure at least 70% of successfully certified trainees are employed (wage or self) within three months of training completion",
+    "To promote wage employment with remuneration at least equal to minimum wages",
+    "To support self-employment through livelihood enhancement and enterprise development",
+    "To up-skill persons already engaged in hospitality occupations with at least 3% remuneration increase within 14 months",
+    "To integrate soft skills like computer literacy, language, and workplace interpersonal skills into training",
+    "To standardize training implementation across providers using Common Norms of the Ministry of Skill Development & Entrepreneurship"
+  ],
+  "eligibility": "The scheme targets persons with not much means and in need to acquire skills facilitative to employment. For fresh entrants to the job market, training duration must be minimum 200 hours (including practical and/or on-the-job training). For re-skilling or skill up-gradation of persons already engaged in an occupation, training programmes must have a minimum duration of 16 hours or more of trainings including practical and/or on-the-job training. Persons who have acquired skill through informal, non-formal or experiential training in any vocational trade or craft are eligible if formal recognition and certification of such skill is obtained after imparting bridge courses.",
+  "benefits": "Trainees receive a stipend (e.g., Rs.1,000/- for certain courses under Entrepreneurship Programme, or Rs.300/- per day under Tourism Awareness Programme), certification upon successful completion with minimum 80% attendance, placement tracking for one year, support for self-employment via loans/licenses, and third-party assessment and certification. The scheme also provides training of trainers, curriculum, equipment, raw material, and trainer salaries as part of the funding norms.",
+  "financial_support": "Funding norms are based on trade/job role classification. For example, under the Entrepreneurship Programme (EP), the total cost per trainee is Rs.11,340/-, comprising training fee (Rs.5,000), course material (Rs.500), certification fee (Rs.1,000), apron (Rs.300), lunch (Rs.3,000), stipend (Rs.1,000), and administrative expenses (5% of total cost, Rs.540). Funds are released to implementing agencies in instalments based on outcomes achieved outcomes, with 10% released upon tracking 90% of candidates in a batch (or Rs.5,000 per candidate, whichever is less).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible trainees meeting attendance and eligibility criteria. 2. Enroll trainees in NSQF-approved hospitality courses under HSRT. 3. Conduct training with minimum 6 hours daily for five/six days a week. 4. Maintain attendance records and ensure minimum 80% attendance for eligibility to appear in final assessment. 5. Conduct internal and external assessment by independent examiners. 6. Award certification to successful trainees. 7. Track trainees for one year post-certification for career progression and retention. 8. Submit utilization reports and progress reports to the Ministry of Tourism. 9. Ensure Aadhaar and bank account linkage for stipend transfer via PFMS. 10. Upload video clippings on 10th and concluding day of training to the Programme Monitoring Unit (Skill Development) at pmuhsrt@gmail.com.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form with trainee details",
+    "Proof of Aadhar card",
+    "Educational qualification certificates",
+    "Bank account details linked to Aadhar",
+    "Course-specific infrastructure proof (for training providers)",
+    "Attendance register",
+    "Assessment and certification records",
+    "Placement and employment proof",
+    "Utilization certificate",
+    "Monthly progress reports",
+    "Video clippings of training sessions"
+  ],
+  "deadlines": "Rolling basis — applications are accepted quarterly (upto 31st March, 30th June, 30th September, and 31st December every year) for empanelment of training providers; training batches are conducted as per institutional capacity and prior permission from the Ministry.",
+  "implementing_agency": "Ministry of Tourism, Government of India",
+  "contact_details": "Email: pmuhsrt@gmail.com (Programme Monitoring Unit - Skill Development)",
+  "caveats": [
+    "Stipend is payable only to trainees with minimum 80% attendance",
+    "Assessment and certification require one internal and one external examiner from relevant industry",
+    "Training providers must not use the same entity as both trainer and assessor to avoid conflict of interest",
+    "Funding is released based on outcomes achieved, not mere enrollment",
+    "Private training providers must undergo inspection and meet infrastructure requirements for at least two HSRT courses",
+    "Security deposit of Rs.20,000/- is required for new applicants seeking empanelment as training providers",
+    "Blacklisted entities from MSDE, NSDA, or MoT are ineligible to apply",
+    "Re-inspection fee of Rs.10,000/- applies if rejected due to lack of infrastructure"
+  ],
+  "source_cited_notes": [
+    "https://master-tourism.digifootprint.gov.in/static/uploads/2025/06/4339f22795be4fe87a7b9c2ebe87761a.pdf",
+    "https://master-tourism.digifootprint.gov.in/static/uploads/2025/06/5def192bc5408131df03d7c1fa59bc86.pdf",
+    "https://master-tourism.digifootprint.gov.in/static/uploads/2025/06/219fa7fc3427c09fd97ea61faab24a83.pdf",
+    "https://master-tourism.digifootprint.gov.in/static/uploads/2025/06/090a0b6418f4eff50f520e1fb7b3993b.pdf"
+  ],
+  "last_updated_date": "2019",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:26:46.814554+00:00"
+}

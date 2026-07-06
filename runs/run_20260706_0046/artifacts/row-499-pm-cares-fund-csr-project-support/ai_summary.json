@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-499",
+  "scheme_name": "PM CARES Fund CSR Project Support",
+  "scheme_url": "https://pmcares.gov.in",
+  "ministry_or_category": "Social Entrepreneurship",
+  "overview": "PM CARES Fund is a public charitable trust established on 27th March 2020 to provide relief and assistance during emergencies or distress situations, such as the COVID-19 pandemic. It supports relief efforts including healthcare infrastructure, research funding, and financial assistance to affected populations. The fund operates through voluntary contributions and qualifies for CSR expenditure under the Companies Act, 2013 and 80G tax benefits under the Income Tax Act, 1961.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "affected population",
+    "individuals",
+    "organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To undertake and support relief or assistance of any kind relating to a public health emergency or any other kind of emergency, calamity or distress, either man-made or natural",
+    "To render financial assistance, provide grants of payments of money or take such other steps as may be deemed necessary by the Board of Trustees to the affected population",
+    "To undertake any other activity, which is not inconsistent with the above Objects"
+  ],
+  "eligibility": "Voluntary contributions from individuals/organizations and contributions as part of CSR from Companies/Public Sector Undertakings (PSUs) are accepted. However, contributions flowing out of budgetary sources of the PSUs are not accepted.",
+  "benefits": "Donations to PM CARES Fund qualify for 80G benefits for 100% exemption under the Income Tax Act, 1961. Contributions also qualify as Corporate Social Responsibility (CSR) expenditure under the Companies Act, 2013. The fund is exempted from paying Income Tax as per Section 10(23)(c) of Income Tax Act, 1961. Donors can download formal donation receipts after successful transaction via the Print Receipt section on the portal.",
+  "financial_support": "The fund consists entirely of voluntary contributions from individuals/organizations and does not get any budgetary support. The fund will be utilised in meeting the objectives as stated above. The Trustees have powers to formulate rules/criteria for carrying out any of the Objectives of the Trust.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PM CARES Fund website (pmcares.gov.in) 2. Select the mode of donation (Net Banking, Card Payments, UPI, NEFT/RTGS, Cheque/DD, etc.) 3. Complete the transaction through the chosen channel 4. Go to the 'Print Receipt' section on the website 5. Select the channel used for donation 6. Enter mobile number and bank reference number 7. Enter Transaction Order Number/Merchant Order Number or Bank Reference Number 8. Click on Get OTP and enter the OTP received on mobile 9. Click on Submit to download the receipt",
+  "application_portal_url": "https://www.pmcares.gov.in/",
+  "required_documents": [
+    "Mobile number",
+    "Transaction Order Number / Merchant Order Number (for website/UPI donations)",
+    "Bank Reference Number (for direct bank transactions)",
+    "UTR/DD/Cheque/Bank Reference Number (for NEFT/RTGS/IMPS/DD/Cheque/Cash)",
+    "Donor's Bank Account Number",
+    "Donor's Bank IFSC Code (not mandatory)",
+    "Amount donated",
+    "Payment Date"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Donations are accepted year-round.",
+  "implementing_agency": "Prime Minister's Office (PMO)",
+  "contact_details": "Email: pmcares[at]gov[dot]in [For Domestic Donation] pmcares.fcra[at]gov[dot]in [For Foreign Donation] | Telephone: +91-11-23013683 | Address: Under Secretary (Funds), Prime Minister's Office, Seva Teerth, New Delhi-110011",
+  "caveats": [
+    "Contributions flowing out of budgetary sources of PSUs are not accepted",
+    "Form No. 10BE is not required to be issued in case of the PM CARES Fund for 80G claims",
+    "Donation receipt generation may take up to 7 days for certain modes like UPI, SBI Internet Banking, NEFT/RTGS/IMPS/Cheque/Demand Draft/Cash"
+  ],
+  "source_cited_notes": [
+    "https://pmcares.gov.in/en/web/page/about_us",
+    "https://pmcares.gov.in/en/web/page/faq",
+    "https://pmcares.gov.in/en/web/contact_us",
+    "https://pmcares.gov.in/assets/donation/pdf/Receipt_Download_User_Manual.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:01:04.450437+00:00"
+}

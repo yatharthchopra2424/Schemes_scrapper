@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-770",
+  "scheme_name": "IRDAI Motor Third Party Pooling for EV Startups",
+  "scheme_url": "https://www.irdai.gov.in",
+  "ministry_or_category": "Insurance",
+  "overview": "The IRDAI Motor Third Party Pooling for EV Startups is a regulatory framework established by the Insurance Regulatory and Development Authority of India (IRDAI) to facilitate third-party liability insurance coverage for electric vehicle (EV) startups through a pooling mechanism. This scheme aims to address the challenges faced by EV startups in obtaining affordable and accessible motor third-party insurance by spreading risk across insurers. It supports the growth of the EV ecosystem by ensuring compliance with mandatory insurance requirements under the Motor Vehicles Act.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "EV startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure availability of third-party liability insurance for electric vehicles",
+    "Reduce insurance procurement challenges for EV startups",
+    "Promote adoption of electric vehicles by mitigating financial barriers",
+    "Distribute risk among insurers through a pooling mechanism",
+    "Support IRDAI’s mandate to develop inclusive insurance markets"
+  ],
+  "eligibility": "Electric vehicle startups operating in India that require third-party motor insurance coverage as mandated under the Motor Vehicles Act, 1988, and are seeking coverage through the IRDAI-administered pooling mechanism.",
+  "benefits": "Access to compulsory third-party liability insurance for EVs through a centralized pooling arrangement; compliance with legal insurance requirements; potential for standardized premium rates; support for EV market entry and operational continuity.",
+  "financial_support": "The scheme does not provide direct financial subsidies or grants; instead, it facilitates access to third-party motor insurance via a risk-pooling mechanism where premiums are determined based on actuarial principles and shared across participating insurers, reducing volatility and availability issues for EV startups.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. EV startups must approach IRDAI-authorized insurers participating in the motor third-party pool. 2. Submit required documentation including vehicle details, registration, and business incorporation proof. 3. Insurers underwrite the policy as per the pooled tariff and terms set by IRDAI. 4. Policy is issued upon payment of premium. 5. Renewal follows standard procedures under the pooling framework.",
+  "application_portal_url": "https://www.irdai.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation or Business Registration",
+    "Vehicle Registration Certificate (RC)",
+    "Details of electric vehicle(s) to be insured",
+    "PAN of the business entity",
+    "Proof of address",
+    "Any additional documents as specified by the participating insurer"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year as per insurer underwriting cycles.",
+  "implementing_agency": "Insurance Regulatory and Development Authority of India (IRDAI)",
+  "contact_details": "",
+  "caveats": [
+    "Only third-party liability coverage is available under this pool; comprehensive coverage must be sought separately",
+    "Premium rates are subject to IRDAI approval and actuarial review",
+    "Participation is limited to insurers authorized by IRDAI to underwrite in the pool",
+    "Scheme does not waive or subsidize insurance premiums"
+  ],
+  "source_cited_notes": [
+    "https://www.irdai.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:42:02.465683+00:00"
+}

@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-751",
+  "scheme_name": "NCBS – National Centre for Biological Sciences Biotech Incubation",
+  "scheme_url": "https://www.ncbs.res.in",
+  "ministry_or_category": "Research Institutions",
+  "overview": "The National Centre for Biological Sciences (NCBS) Biotech Incubation program supports early-stage biotechnology startups through mentorship, infrastructure, and access to research facilities. It is part of the Bangalore Life Science Cluster (BLiSC) and aims to foster innovation by translating scientific research into viable biotech ventures. The incubation initiative leverages NCBS's expertise in life sciences and collaborates with inStem and C-CAMP to create a supportive ecosystem for startups.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "biotech startups",
+    "early-stage ventures"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Foster innovation by translating scientific research into biotech ventures",
+    "Provide mentorship and infrastructure support to early-stage startups",
+    "Create a supportive ecosystem through collaboration with inStem and C-CAMP",
+    "Enable access to cutting-edge research facilities and expertise",
+    "Promote entrepreneurship in the life sciences sector",
+    "Strengthen the Bangalore Life Science Cluster as a hub for biotech innovation"
+  ],
+  "eligibility": "Early-stage biotechnology startups or ventures founded by researchers, scientists, or entrepreneurs working in areas aligned with NCBS's expertise in life sciences, including but not limited to molecular biology, genetics, neurobiology, ecology, and computational biology. Applicants must demonstrate potential for scientific innovation and translational impact.",
+  "benefits": "Access to NCBS research infrastructure, laboratories, and core facilities; mentorship from experienced scientists and entrepreneurs; networking opportunities within the Bangalore Life Science Cluster (BLiSC); support for regulatory compliance and intellectual property management; visibility through NCBS's academic and industry networks; potential for follow-on funding and collaboration with research groups.",
+  "financial_support": "The incubation program provides non-financial support such as lab space, equipment access, and mentorship. Direct financial support details such as grants or seed funding are not specified in the evidence. Financial assistance may be available through linked initiatives or external funding partners, but no quantum or mechanism is described in the provided sources.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify alignment with NCBS research areas and incubation goals. 2. Prepare a proposal outlining the biotech innovation, team, and resource requirements. 3. Submit application through the designated channel (specific portal not detailed in evidence). 4. Undergo review by NCBS incubation committee. 5. Receive feedback and potential invitation for discussion. 6. Finalize incubation agreement upon selection.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proposal document outlining the biotech innovation",
+    "Team details and qualifications",
+    "Proof of concept or preliminary data (if available)",
+    "Incorporation documents (if applicable)",
+    "Resource and infrastructure requirements"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "National Centre for Biological Sciences (NCBS), Tata Institute of Fundamental Research (TIFR), under the Department of Atomic Energy (DAE), Government of India",
+  "contact_details": "Email: comms@ncbs.res.in (for general inquiries; specific incubation contact not detailed in evidence)",
+  "caveats": [
+    "Incubation support is primarily non-financial and resource-based",
+    "Direct funding or seed investment is not guaranteed through the program",
+    "Selection depends on alignment with NCBS research priorities and availability of mentorship",
+    "Startups may need to secure external funding for scaling beyond incubation phase"
+  ],
+  "source_cited_notes": [
+    "https://ncbs.res.in/",
+    "https://ncbs.res.in/our-funders",
+    "https://ncbs.res.in/cbm/funding-opportunities",
+    "https://ncbs.res.in/about-us",
+    "https://ncbs.res.in/who-we-are-and-what-we-do"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:46:17.887841+00:00"
+}

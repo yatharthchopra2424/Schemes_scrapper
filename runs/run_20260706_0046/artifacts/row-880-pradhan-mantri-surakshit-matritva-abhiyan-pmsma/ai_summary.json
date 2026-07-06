@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-880",
+  "scheme_name": "Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA)",
+  "scheme_url": "https://pmsma.mohfw.gov.in",
+  "ministry_or_category": "Social Welfare",
+  "overview": "The Pradhan Mantri Surakshit Matritva Abhiyan (PMSMA) is a flagship initiative launched by the Ministry of Health & Family Welfare (MoHFW), Government of India, to provide assured, comprehensive, and quality antenatal care free of cost to all pregnant women on the 9th of every month. The program targets pregnant women in their 2nd or 3rd trimester and aims to improve antenatal care coverage and quality, detect and manage high-risk pregnancies, and reduce maternal and neonatal mortality. It engages private sector healthcare providers on a voluntary basis to supplement government efforts at designated public health facilities.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "pregnant women"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure at least one antenatal checkup for all pregnant women in their second or third trimester by an OBGY specialist/physician",
+    "Improve the quality of care during ante-natal visits by ensuring provision of all applicable diagnostic services, screening for clinical conditions, appropriate management of existing conditions, counselling, and documentation",
+    "Provide additional service opportunities to pregnant women who have missed ante-natal visits",
+    "Identify and line-list high-risk pregnancies based on obstetric/medical history and existing clinical conditions",
+    "Ensure appropriate birth planning and complication readiness for each pregnant woman, especially those with risk factors or comorbidities",
+    "Place special emphasis on early diagnosis and adequate management of women with malnutrition",
+    "Focus on adolescent and early pregnancies requiring specialized care"
+  ],
+  "eligibility": "All pregnant women in their 2nd or 3rd trimester of pregnancy are eligible to receive services under PMSMA at designated government health facilities on the 9th of every month. There are no exclusions based on socioeconomic status, geography, or prior registration status. The program universally covers all pregnant women across India seeking antenatal care during the specified trimester.",
+  "benefits": "Pregnant women receive a minimum package of antenatal care services including all applicable diagnostic services (e.g., hemoglobin, urine albumin and sugar, malaria, VDRL/HIV/blood sugar, blood grouping, GDM screening), essential drugs (IFA supplements, calcium supplements, tetanus toxoid, etc.), and one ultrasound during the 2nd trimester. High-risk pregnant women (HRPs) receive additional benefits: Rs. 100/- per visit for transportation costs (up to three visits) and Rs. 500/- upon achieving a healthy outcome for mother and baby at 45 days post-delivery. ASHAs receive Rs. 100/- per HRP for mobilization (up to three follow-ups) and Rs. 500/- for healthy outcomes. Volunteers (private sector doctors) receive recognition through awards, virtual 'Hall of Fame', and social media acknowledgment.",
+  "financial_support": "Financial support under PMSMA is primarily in the form of case-based incentives for high-risk pregnancies (HRPs) and ASHAs. For HRPs: Rs. 100/- per visit for transportation (max three visits) and Rs. 500/- for healthy maternal and neonatal outcomes at 45 days post-delivery. For ASHAs: Rs. 100/- per HRP for mobilization (max three follow-ups) and Rs. 500/- for healthy outcomes. These funds are sourced from the National Health Mission (NHM) annual programme implementation plans under RCH/NHM flexible pool, JSSK, and Free Diagnostics Initiative. Districts receive Rs. 50,000–200,000/year and states receive Rs. 3–5 lakhs/year for sensitization, meetings, and IEC campaigns under E-PMSMA.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PMSMA portal at https://pmsma.mohfw.gov.in 2. Click on 'Register Now' or 'Join Us' 3. Select your role: Obstetrician/Radiologist/Physician, Government Organization, Professional Association, or Pregnant Woman 4. Fill in the required details (name, contact, profession, etc.) 5. Submit the registration form 6. Alternatively, register via SMS by sending 'PMSMA <space> your name' to 5616115 7. Call the toll-free number 1800-180-1104 for assistance 8. Download the mobile app from Play Store or iOS App Store for volunteer engagement 9. Upon registration, volunteers are matched with government health facilities for service on the 9th of each month 10. After service, volunteers submit monthly data via the portal for credit and recognition",
+  "application_portal_url": "https://pmsma.mohfw.gov.in",
+  "required_documents": [],
+  "deadlines": "Rolling basis — services are provided on the 9th of every month; volunteer registration is open year-round with no fixed deadline.",
+  "implementing_agency": "Ministry of Health & Family Welfare (MoHFW), Government of India",
+  "contact_details": "Email: drpawan[dot]mohfw[at]gmail[dot]com | Toll Free Number: 1800-180-1104 | SMS: PMSMA <space> Name to 5616115",
+  "caveats": [
+    "Services are available only on the 9th of every month (or next working day if 9th is a holiday)",
+    "Benefits are limited to antenatal care services; delivery and postnatal care are not covered under PMSMA",
+    "High-risk pregnancy incentives (Rs. 100/- per visit, Rs. 500/- for healthy outcome) are applicable only after HRP identification and verification",
+    "Volunteer services are strictly voluntary; no honorarium or salary is provided for participation",
+    "Transportation incentives for HRPs are capped at three follow-up visits"
+  ],
+  "source_cited_notes": [
+    "https://pmsma.mohfw.gov.in/",
+    "https://pmsma.mohfw.gov.in/about-scheme/",
+    "https://pmsma.mohfw.gov.in/i-am/pregnant-woman/what-is-the-program-2/",
+    "https://pmsma.mohfw.gov.in/help/",
+    "https://pmsma.mohfw.gov.in/contact/",
+    "https://pmsma.mohfw.gov.in/pmsma-app/VolunteerController/volunteerRegistration",
+    "https://pmsma.mohfw.gov.in/download-mobile-application/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:41:54.710485+00:00"
+}

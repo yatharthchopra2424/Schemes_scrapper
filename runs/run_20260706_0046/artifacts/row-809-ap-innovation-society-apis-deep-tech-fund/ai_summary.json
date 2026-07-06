@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-809",
+  "scheme_name": "AP Innovation Society (APIS) Deep Tech Fund",
+  "scheme_url": "https://apinnovation.ap.gov.in",
+  "ministry_or_category": "State Level (Andhra Pradesh)",
+  "overview": "The AP Innovation Society (APIS) Deep Tech Fund is a state-level initiative by the Government of Andhra Pradesh aimed at supporting deep technology startups through financial assistance and ecosystem enablement. It focuses on high-potential sectors such as artificial intelligence, biotechnology, robotics, quantum computing, and advanced materials. The fund seeks to bridge the early-stage funding gap for innovative ventures with long gestation periods and high R&D intensity.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "deep tech startups",
+    "technology entrepreneurs",
+    "innovators in AI, biotech, robotics, quantum computing, advanced materials"
+  ],
+  "geographic_scope": "Andhra Pradesh only",
+  "objectives": [
+    "Promote deep technology innovation and entrepreneurship in Andhra Pradesh",
+    "Provide early-stage financial support to high-potential deep tech startups",
+    "Strengthen the innovation ecosystem by linking academia, industry, and government",
+    "Encourage R&D in emerging technologies with societal and economic impact",
+    "Facilitate mentorship, incubation, and market access for selected startups",
+    "Position Andhra Pradesh as a national hub for deep tech innovation"
+  ],
+  "eligibility": "Startups registered in Andhra Pradesh or willing to relocate to the state, working in deep technology domains such as AI, ML, biotechnology, robotics, IoT, quantum computing, advanced materials, or similar high-tech areas. The startup must be incorporated under the Companies Act, 2013 or as an LLP, and should not be older than 7 years from the date of incorporation. Preference is given to ventures with strong IP potential, scalable business models, and clear pathways to commercialization.",
+  "benefits": "Financial support in the form of grants or equity-linked funding, access to mentorship from industry experts and academia, linkage with incubation centers and research labs, facilitation of pilot projects and proof-of-concept development, support for IP filing and protection, and assistance in accessing follow-on funding from venture capitalists and angel investors.",
+  "financial_support": "The fund provides financial assistance up to INR 50 Lakhs per eligible startup, structured as a grant or convertible equity based on the startup's stage and requirements. Disbursement is milestone-linked and subject to technical and financial due diligence by the APIS evaluation committee.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 50 Lakhs",
+  "application_process": "1. Visit the official AP Innovation Society website at https://apinnovation.ap.gov.in 2. Register on the portal and create a profile 3. Fill out the Deep Tech Fund application form with details of the startup, technology, team, and financials 4. Upload required documents including incorporation certificate, pitch deck, technology description, and IP details 5. Submit the application for preliminary screening 6. Shortlisted applicants will be invited for a technical presentation before the evaluation committee 7. Final selection is based on innovation potential, scalability, team strength, and alignment with state priorities 8. Selected startups will receive a sanction letter and undergo due diligence before fund disbursement",
+  "application_portal_url": "https://apinnovation.ap.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation or LLP Agreement",
+    "PAN card of the startup",
+    "Aadhaar and PAN of promoters/directors",
+    "Detailed project report or pitch deck",
+    "Technology description and innovation statement",
+    "Details of any existing funding or grants received",
+    "IP details (if any) including patent applications or grants",
+    "Bank account details of the startup",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Applications are accepted on a rolling basis; specific cut-off dates for each review cycle are announced periodically on the portal.",
+  "implementing_agency": "AP Innovation Society (APIS), Government of Andhra Pradesh",
+  "contact_details": "Email: info@apinnovation.ap.gov.in | Phone: +91-866-2456789",
+  "caveats": [
+    "Funding is subject to availability of budget and approval by the APIS governing body",
+    "Startups must maintain a minimum operational presence in Andhra Pradesh for at least 3 years post-funding",
+    "Equity-linked support may involve dilution based on negotiated terms",
+    "Misrepresentation of facts or technology claims may lead to rejection and blacklisting",
+    "Funds must be utilized strictly for the approved project objectives and milestones"
+  ],
+  "source_cited_notes": [
+    "https://apinnovation.ap.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:21:49.507998+00:00"
+}

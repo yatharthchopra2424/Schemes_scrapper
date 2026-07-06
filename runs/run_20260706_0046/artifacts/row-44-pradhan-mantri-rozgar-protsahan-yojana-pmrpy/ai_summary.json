@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-44",
+  "scheme_name": "Pradhan Mantri Rozgar Protsahan Yojana (PMRPY)",
+  "scheme_url": "https://pmrpy.gov.in",
+  "ministry_or_category": "Women Entrepreneurship",
+  "overview": "Pradhan Mantri Rozgar Protsahan Yojana (PMRPY) is a central government scheme launched to incentivize employers for generating new employment by paying the employer's contribution to the Employees' Provident Fund (EPF) and Employees' State Insurance (ESI) for new employees. The scheme aims to encourage job creation in the formal sector, particularly benefiting first-time employees and supporting workforce formalization. It was operational from 2016 to 2019 and has since been subsumed into other initiatives like the Aatmanirbhar Bharat Rozgar Yojana (ABRY).",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "employers",
+    "new employees",
+    "formal sector workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Incentivize employers to generate new employment",
+    "Reduce the financial burden of social security contributions on employers",
+    "Encourage hiring of first-time employees",
+    "Formalize the workforce by bringing workers under EPF and ESI coverage",
+    "Support job creation in manufacturing and services sectors"
+  ],
+  "eligibility": "Employers who have registered new employees with EPFO and/or ESIC on or after 1 April 2016, with a Universal Account Number (UAN) assigned to the employee, and who have not previously benefited from similar schemes for the same employee. The employee must be drawing a monthly wage of less than INR 15,000.",
+  "benefits": "The government pays the employer's full contribution (12% towards EPF and ESI) for a period of three years for new employees earning less than INR 15,000 per month. This reduces the employer's cost of hiring and encourages formal employment generation.",
+  "financial_support": "Under PMRPY, the Government of India pays the employer's contribution of 12% towards the Employees' Provident Fund (EPF) and Employees' State Insurance (ESI) for new employees for a duration of three years from the date of registration. The support is provided directly to EPFO and ESIC on behalf of the employer.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Employer registers new employees with EPFO and/or ESIC and obtains their Universal Account Number (UAN). 2. Employer ensures the employee's monthly wage is below INR 15,000. 3. Employer submits the details of such new employees through the EPFO employer portal. 4. EPFO verifies the eligibility and processes the government's share of EPF and ESI contributions. 5. The government remits the employer's contribution directly to EPFO and ESIC accounts.",
+  "application_portal_url": "https://www.epfindia.gov.in/site_en/Employer.php",
+  "required_documents": [
+    "Employer registration with EPFO/ESIC",
+    "Employee Universal Account Number (UAN)",
+    "Wage records showing monthly salary < INR 15,000",
+    "Date of joining of the employee",
+    "Proof of first-time employment (no prior EPF/EPS membership)"
+  ],
+  "deadlines": "Scheme was applicable for employees registered up to 31 March 2019; benefits provided for three years from date of registration. No longer accepting new registrations.",
+  "implementing_agency": "Ministry of Labour and Employment, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Scheme closed for new registrations effective 1 April 2019",
+    "Benefits limited to three years per employee from date of registration",
+    "Only applicable to employees earning less than INR 15,000 per month",
+    "Employer must be compliant with EPFO and ESIC regulations",
+    "Subsumed under Aatmanirbhar Bharat Rozgar Yojana (ABRY) for subsequent periods"
+  ],
+  "source_cited_notes": [
+    "https://pmrpy.gov.in",
+    "https://www.epfindia.gov.in/site_en/Employer.php"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:43:32.833170+00:00"
+}

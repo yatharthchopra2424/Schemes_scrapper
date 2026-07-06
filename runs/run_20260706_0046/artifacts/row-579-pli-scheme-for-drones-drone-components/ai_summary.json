@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-579",
+  "scheme_name": "PLI Scheme for Drones & Drone Components",
+  "scheme_url": "https://dpiit.gov.in/pli-drones",
+  "ministry_or_category": "Drone & UAV",
+  "overview": "The PLI Scheme for Drones & Drone Components is a Production Linked Incentive scheme aimed at boosting domestic manufacturing of drones and drone components in India. It seeks to enhance India's position as a global drone manufacturing hub by providing financial incentives on incremental sales of eligible products. The scheme is part of the broader PLI initiative to promote self-reliance and reduce imports in strategic sectors.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "domestic manufacturers",
+    "MSME",
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote domestic manufacturing of drones and drone components",
+    "Reduce dependence on imports in the drone sector",
+    "Attract investment in drone manufacturing value chain",
+    "Enhance competitiveness of Indian drone manufacturers globally",
+    "Create employment opportunities in the drone manufacturing sector",
+    "Support innovation and technology development in drone technology",
+    "Achieve self-reliance (Atmanirbhar Bharat) in critical drone technologies"
+  ],
+  "eligibility": "Domestic manufacturers of drones and drone components who are registered in India and have commenced commercial production are eligible. Applicants must meet minimum investment thresholds and incremental sales criteria and commit to specific production targets as outlined in the scheme guidelines.",
+  "benefits": "Financial incentives on incremental sales of eligible drone and drone component products manufactured in India. Non-financial benefits include facilitation of clearances, single-window support, and promotion of domestic value addition in the drone ecosystem.",
+  "financial_support": "The scheme provides production linked incentives as a percentage of incremental sales of eligible products over a base year, disbursed annually based on verified sales and investment claims. The incentive rate varies by product category and is subject to annual caps.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the designated PLI portal for drones 2. Submit application with details of proposed investment and production plan 3. Provide documents including incorporation certificate, GST details, and project report 4. Application reviewed by the Project Management Agency 5. Upon approval, sign agreement with the government 6. Commence production and file quarterly claims for incentives 7. Claims verified and incentives disbursed annually",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation",
+    "GST Registration Certificate",
+    "Project Report detailing investment and production plan",
+    "Bank Statement or Financial Commitment Letter",
+    "Details of Plant and Machinery",
+    "Undertaking regarding compliance with scheme guidelines"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "Incentives are contingent on achieving minimum annual incremental sales",
+    "Claims subject to audit and verification by independent agencies",
+    "Scheme period is fixed; no extensions beyond notified timeline",
+    "Only domestic value addition qualifies for incentives"
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in/pli-drones"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:48:34.019681+00:00"
+}

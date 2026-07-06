@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-885",
+  "scheme_name": "India Stack Developer Access Programme",
+  "scheme_url": "https://indiastack.org",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "India Stack Developer Access Programme is a vision for financial and social inclusion through a collection of open APIs and digital public goods that unlock economic primitives of identity, data, and payments at population scale. It enables developers to build applications using Aadhaar-based identity verification, UPI payments, eSign, Digilocker, and Account Aggregator frameworks. The programme aims to empower individuals and businesses with secure, consent-based data sharing and interoperable digital infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "developers",
+    "startups",
+    "fintechs",
+    "MSMEs",
+    "businesses"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Unlock economic primitives of identity, data, and payments at population scale",
+    "Promote financial and social inclusion through open APIs",
+    "Enable interoperability between money custodians, payment rails, and front-end applications",
+    "Establish a secure consent-based data sharing framework (DEPA)",
+    "Empower individuals with control over their personal data",
+    "Support innovation in credit, healthcare, and telecom sectors via open networks",
+    "Provide digital infrastructure for seamless access to financial and government services"
+  ],
+  "eligibility": "Developers, startups, fintechs, and businesses interested in building on India Stack can access APIs, sandboxes, and documentation through intermediaries like Digio, Karza, Signzy, OnGrid, or by volunteering with iSPIRT. Access is granted by respective government agencies or institutions owning each component (e.g., UIDAI for Aadhaar, NPCI for UPI, MeitY for Digilocker, RBI for Account Aggregators).",
+  "benefits": "Access to open APIs for Aadhaar authentication, e-KYC, eSign, Digilocker, UPI payments, and Account Aggregator framework. Enables paperless KYC, legally valid digital signatures, secure document storage, real-time bank-to-bank transfers, and consent-based data sharing. Reduces cost of identity verification, eliminates paper documentation, and supports innovation in financial inclusion, healthcare, and credit access.",
+  "financial_support": "India Stack Developer Access Programme does not provide direct financial support, grants, loans, or subsidies. It offers free access to open APIs, technical documentation, sandboxes, and developer resources. Financial benefits are indirect, such as reduced operational costs for identity verification and payment processing through UPI and e-KYC.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the India Stack component of interest (e.g., Aadhaar, UPI, eSign, Digilocker, Account Aggregator). 2. Visit the respective agency website (UIDAI, NPCI, MeitY, RBI) or intermediary platforms like Digio, Karza, Signzy, OnGrid. 3. Register as a developer or Application Service Provider (ASP). 4. Submit required documents for KYC verification and eligibility. 5. Agree to terms of service and obtain API access. 6. Integrate APIs in testing/pre-production environment. 7. Complete audit and compliance checks. 8. Receive production access to deploy applications.",
+  "application_portal_url": "https://indiastack.org/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)",
+    "Bank account details",
+    "Digital Signature Certificate (for eSign ASPs)",
+    "e-KYC compliance documents"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Multiple agencies: Unique ID Authority of India (UIDAI) for Aadhaar, National Payments Corporation of India (NPCI) for UPI, Ministry of Electronics and Information Technology (MeitY) for Digilocker and eSign, Reserve Bank of India (RBI) for Account Aggregator framework",
+  "contact_details": "Email: info@indiastack.org | Volunteer with iSPIRT at ispirt.in",
+  "caveats": [
+    "Access to certain APIs (e.g., e-auth, e-KYC) is restricted to banks, licensed NBFCs, telecom companies, and government bodies",
+    "Developers must comply with data protection and consent regulations under DEPA",
+    "Production access requires audit compliance and security checks",
+    "API usage may be subject to rate limits and terms of service of individual service providers",
+    "India Stack is a collection of disparate technologies owned by different agencies; no single point of contact for all components"
+  ],
+  "source_cited_notes": [
+    "https://indiastack.org/",
+    "https://indiastack.org/index.html",
+    "https://indiastack.org/identity.html",
+    "https://indiastack.org/payments.html",
+    "https://indiastack.org/data.html",
+    "https://indiastack.org/open-networks.html",
+    "https://indiastack.org/faq.html",
+    "https://uidai.gov.in/images/aadhaar_ekyc_api_2_0.pdf",
+    "https://cca.gov.in/sites/files/pdf/esign/CCA-ASP.pdf",
+    "https://niti.gov.in/sites/default/files/2020-09/DEPA-Book_0.pdf"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:41:31.066978+00:00"
+}

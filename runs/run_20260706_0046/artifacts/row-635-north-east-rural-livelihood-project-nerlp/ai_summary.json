@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-635",
+  "scheme_name": "North East Rural Livelihood Project (NERLP)",
+  "scheme_url": "https://nerlp.gov.in",
+  "ministry_or_category": "North East Special",
+  "overview": "The North East Rural Livelihood Project (NERLP) is a World Bank-assisted initiative aimed at improving rural livelihoods in the North Eastern states of India. It focuses on empowering rural poor, especially women, through the promotion of self-help groups (SHGs), capacity building, and access to microfinance and livelihood opportunities. The project operates in Mizoram, Nagaland, Sikkim, and Tripura, supporting sustainable economic development through community-driven interventions.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "rural poor",
+    "women",
+    "self-help groups (SHGs)",
+    "marginalized communities"
+  ],
+  "geographic_scope": "Mizoram, Nagaland, Sikkim, and Tripura",
+  "objectives": [
+    "To improve rural livelihoods through sustainable natural resource management",
+    "To strengthen community institutions and promote self-help groups (SHGs)",
+    "To enhance access to microfinance and financial services for the rural poor",
+    "To support skill development and income-generating activities",
+    "To promote women's empowerment and social inclusion",
+    "To develop rural infrastructure and support market linkages",
+    "To build capacity of local communities and implementing agencies",
+    "To monitor and evaluate project outcomes for continuous improvement"
+  ],
+  "eligibility": "The project targets rural poor households, particularly women, in the participating North Eastern states. Beneficiaries are identified through participatory rural appraisal and are typically members of self-help groups (SHGs) or community-based organizations. Priority is given to marginalized groups including Scheduled Tribes, Scheduled Castes, and economically weaker sections.",
+  "benefits": "Beneficiaries receive capacity building and training, access to microcredit through SHGs, support for livelihood activities such as agriculture, horticulture, livestock, and non-farm enterprises, infrastructure support like rural roads and market sheds, and social empowerment initiatives. The project also facilitates convergence with other government schemes and provides technical assistance for sustainable resource management.",
+  "financial_support": "Financial support is provided through a community-driven development approach where self-help groups (SHGs) access revolving funds and microcredit from project-supported financial intermediaries. The project promotes savings and internal lending within SHGs, and facilitates bank linkage for larger loans. Grants are also provided for community infrastructure and skill training, while livelihood investments are often made through matching grants or subsidized loans.",
+  "fund_size_crores": "496",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Community mobilization and formation of self-help groups (SHGs) at the village level. 2. Training of SHG members in group management, bookkeeping, and livelihood planning. 3. Preparation of micro-investment plans (MIPs) by SHGs for livelihood activities. 4. Appraisal and approval of MIPs by village-level committees and project facilitators. 5. Disbursement of funds as revolving fund, grant, or loan based on the MIP. 6. Monitoring and support for implementation of livelihood activities. 7. Repayment and recycling of funds within the SHG system.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Identity proof (Aadhaar/Voter ID)",
+    "Residence proof",
+    "Bank account details (if applicable)",
+    "Group registration documents (for SHGs)",
+    "Livelihood activity plan or micro-investment plan (MIP)",
+    "Quotations for equipment or materials (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the project period based on community readiness and village-level planning cycles.",
+  "implementing_agency": "North Eastern Council (NEC), Ministry of Development of North Eastern Region (DoNER)",
+  "contact_details": "Email: nerlp@nec.gov.in | Phone: +91-361-2237212",
+  "caveats": [
+    "Benefits are limited to the four participating states: Mizoram, Nagaland, Sikkim, and Tripura",
+    "Fund utilization is subject to World Bank guidelines and project-specific financial management rules",
+    "SHGs must maintain regular savings and internal lending to remain eligible for external funding",
+    "Asset creation under the project may have restrictions on transfer or sale for a specified period",
+    "The project is time-bound and benefits are subject to continuation or closure as per World Bank agreement"
+  ],
+  "source_cited_notes": [
+    "https://nerlp.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:25:36.642609+00:00"
+}

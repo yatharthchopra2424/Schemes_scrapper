@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-680",
+  "scheme_name": "IP India – Patent Filing Fee Reduction for Startups",
+  "scheme_url": "https://ipindia.gov.in",
+  "ministry_or_category": "Legal & IP",
+  "overview": "The IP India – Patent Filing Fee Reduction for Startups scheme provides a 50% reduction in patent filing fees for startups and small entities under Section 54 of the Patents Act, 1970, as part of the government's effort to promote innovation and reduce the cost of intellectual property protection for early-stage ventures. The scheme is administered by the Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM) under the Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry. Eligible applicants include startups, small entities, educational institutions, and natural persons filing patent applications in India. The fee reduction applies to various stages of the patent process, including application filing, request for examination, and renewal, with specific fee structures outlined in the First Schedule of the Patents Rules, 2003.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "startups",
+    "small entity",
+    "educational institution",
+    "natural person"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce the financial burden of patent filing for startups and small entities",
+    "Promote innovation and intellectual property creation among early-stage ventures",
+    "Encourage startups to protect their inventions through the formal patent system",
+    "Align with national innovation goals such as Startup India and Make in India",
+    "Increase patent filings from Indian startups and MSMEs",
+    "Provide equitable access to IP protection regardless of entity size"
+  ],
+  "eligibility": "Eligible applicants include natural persons, startups, small entities, or educational institutions filing patent applications in India. The fee reduction under Section 54 of the Patents Act, 1970 applies when the applicant is a natural person, startup, small entity, or educational institution, either alone or in combination with others. The applicant must specify their category in Form 1 under 'Category of Applicant' by ticking the appropriate box (Natural Person, Startup, Small Entity, Educational Institution).",
+  "benefits": "The primary benefit is a 50% reduction in statutory fees for various patent-related procedures as specified in the First Schedule of the Patents Rules, 2003. This includes reduced fees for filing a patent application (Form 1), request for examination (Form 18), request for expedited examination (Form 18A), patent renewal, and other procedural steps. For example, the fee for filing a patent application is reduced from ₹1600 to ₹800 for natural persons/startups/small entities/educational institutions, and from ₹8000 to ₹4000 for others. Similar reductions apply to examination requests (₹4000 to ₹2000), renewal fees, and other formalities, significantly lowering the overall cost of obtaining and maintaining a patent in India.",
+  "financial_support": "The scheme provides a 50% fee concession on statutory payments under the Patents Rules, 2003 for eligible applicants. The reduction is applied directly at the time of fee payment via the e-filing portal or physical submission, with no intermediary disbursement. The applicant pays the reduced fee as per the First Schedule, which outlines separate fee structures for 'Natural person or startup or small entity or educational institution' versus 'Other(s)'. For instance, the base fee for filing a patent application (Form 1) is ₹800 for eligible entities versus ₹1600 for others, and the request for examination (Form 18) is ₹2000 versus ₹4000. The concession is automatic upon correct categorization in the application form and does not require separate approval or funding allocation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine eligibility as a natural person, startup, small entity, or educational institution under the Patents Act, 1970. 2. Complete Form 1 (Application for Grant of Patent) and tick the appropriate category under 'Category of Applicant'. 3. Prepare and attach required documents including Form 2 (Provisional/Complete Specification), Form 3 (Statement and Undertaking under Section 8), Form 5 (Declaration as to Inventorship), and others as applicable. 4. Calculate the reduced fee based on the First Schedule of the Patents Rules, 2003 for the selected category. 5. File the application online via the IP India e-filing portal (https://ipindia.gov.in) or submit physically at the appropriate patent office. 6. Pay the prescribed reduced fee through online banking, UPI, cheque, demand draft, or cash, or demand draft. 7. Submit the application and await acknowledgment and further processing by the Patent Office.",
+  "application_portal_url": "https://ipindia.gov.in",
+  "required_documents": [
+    "Form 1: Application for Grant of Patent",
+    "Form 2: Provisional or Complete Specification",
+    "Form 3: Statement and Undertaking under Section 8",
+    "Form 5: Declaration as to Inventorship",
+    "Power of Authority (if applicable)",
+    "Priority document(s) (if claiming priority)",
+    "Translation of priority document (if applicable)",
+    "Drawings (as required)",
+    "Abstract",
+    "Sequence listing (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Office of the Controller General of Patents, Designs and Trade Marks (CGPDTM), Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: cgoffice[dot]in[at]gov[dot]in | Phone: 011-28034302 (Director, Administration and Establishment) | Helpdesk: Available via IP India portal",
+  "caveats": [
+    "The 50% fee reduction under Section 54 applies only if the applicant is a natural person, startup, small entity, or educational institution — either alone or in combination with others.",
+    "If the applicant includes 'Other(s)' (e.g., large corporations, foreign entities not falling under the eligible categories), the full fee applies without reduction.",
+    "The applicant must correctly specify their category in Form 1; incorrect categorization may lead to fee denial or refund complications.",
+    "The fee reduction is limited to statutory fees under the Patents Rules, 2003 and does not cover professional fees, attorney charges, or international filing costs.",
+    "Renewal fees after patent grant also benefit from the 50% reduction if the patentee retains eligibility as a small entity/startup (subject to turnover and employment limits).",
+    "The benefit is not available for applications filed under the PCT National Phase route unless the applicant meets eligibility criteria at the time of entry into India."
+  ],
+  "source_cited_notes": [
+    "https://ipindia.gov.in/storage/uploads/docs-operator/bf10437e-a59f-4cfe-bc09-e1ee3e15602d.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/86c74a8b-b029-4b79-812a-d260b2f90368.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/4652ade0-c8b8-487b-95a4-6fea424590a0.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/3a58952a-2f82-40c7-8e61-36c192f0762a.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:53:06.756219+00:00"
+}

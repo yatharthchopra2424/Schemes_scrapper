@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-394",
+  "scheme_name": "Transit Oriented Development (TOD) Policy",
+  "scheme_url": "https://mohua.gov.in",
+  "ministry_or_category": "Urban Development",
+  "overview": "The Urban Challenge Fund (UCF) is a centrally sponsored scheme under the Ministry of Housing and Urban Affairs (MoHUA) designed to catalyze market-based financing for urban infrastructure projects. It provides Central Assistance (CA) as catalytic support to leverage larger investments from bonds, bank loans, and public-private partnerships (PPPs). The fund supports projects across three verticals: 'Cities as Growth Hubs', 'Creative Redevelopment of Cities', and 'Water and Sanitation', with a focus on Transit-Oriented Development (TOD) infrastructure development as an admissible project type.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "Urban Local Bodies (ULBs)",
+    "States",
+    "Union Territories (UTs)"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Position cities as a bankable asset class through targeted reforms",
+    "Strengthen institutional capacity and improve governance and planning frameworks",
+    "Develop sustainable revenue-generating urban infrastructure",
+    "Encourage transition towards market-based financing and integrated regional development",
+    "Leverage significantly larger investments from market-based sources using Central Assistance as catalytic support",
+    "Support projects under the three verticals: Cities as Growth Hubs, Creative Redevelopment of Cities, and Water and Sanitation",
+    "Promote Transit-Oriented Development (TOD) infrastructure development for planned densification around transit hubs",
+    "Ensure financially viable and sustainable urban infrastructure investments across the project life cycle"
+  ],
+  "eligibility": "All States and UTs are eligible to participate in UCF with a specific focus on strengthening Tier II and Tier III cities. Eligible categories include: all cities with a projected 2025 population of 10 lakh or more; capital cities of State/UT not included in the first category; major industrial cities (Manufacturing & Services) with a projected 2025 population of 1,00,000 or more; and all Urban Local Bodies (ULBs) in Hilly States/UTs, Northeastern States, and ULBs with population below 1,00,000 in other States/UTs. As per the guidelines, all ULBs are eligible to participate in UCF.",
+  "benefits": "Central Assistance (CA) acts as catalytic support to leverage market-based financing from bonds, bank loans, and PPPs. The fund enables structured project implementation, timely execution, and financial viability of urban infrastructure projects. It supports capacity building at national, State/UT, and city levels through the Project Preparation and Capacity Building Fund (PPCBF). The Credit Repayment Guarantee Sub-Scheme (CRGSS) enhances creditworthiness and facilitates market borrowing. Projects must be designed as part of a comprehensive, integrated intervention with well-structured implementation plans to deliver large-scale transformative impact.",
+  "financial_support": "The Urban Challenge Fund provides a total Central Assistance (CA) of ₹1,00,000 crore over the Mission period (FY 2025–26 to FY 2030–31, extendable by three years). The CA is structured as: ₹90,000 crore for the Project Fund, ₹5,000 crore for the Project Preparation and Capacity Building Fund (PPCBF), and ₹5,000 crore for the Credit Repayment Guarantee Sub-Scheme (CRGSS). The CA for projects is limited to 25 percent of the cost of bankable projects, with a stipulation that at least 50 percent of the project cost must be funded from bonds, bank loans, and PPPs. Fund release occurs in tranches: first tranche (30%), second tranche (50%), and third tranche (20%) based on physical and financial progress.",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States/UTs submit project proposals under the three UCF verticals: Cities as Growth Hubs, Creative Redevelopment of Cities, and Water and Sanitation (including TOD infrastructure development). 2. Proposals undergo appraisal at national level by the National Apex Committee (NAC) and National Project Management Unit. 3. Independent Review and Monitoring Agencies (IRMA) evaluate projects for technical and financial viability. 4. Upon approval, funds are released in tranches: 30% first tranche upon sanction, 50% second tranche after utilization of at least 70% of first tranche, and 20% third tranche after utilization of at least 70% of second tranche and 100% of first tranche. 5. State/UT level implementation involves State High Powered Steering Committee (SHPSC), State Level Technical Committee (SLTC), and ULB/Implementing Agency. 6. Project Development and Management Consultant (PDMC) or Project Preparation and Support Unit assists in planning and execution. 7. Monitoring occurs at national and state levels through NAC, NAC, IRMA, SHPSC, SLTC, and ULB.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land encumbrance clearance",
+    "Environmental clearance",
+    "Land use zoning clearance as per Master Plan/building bye-laws",
+    "Endorsement by the concerned Municipal Body (Urban Local Body) for city/town level projects",
+    "Endorsement by the Government of the State for state-wide projects",
+    "Utilization Certificates (UCs) for fund release in subsequent tranches",
+    "Quarterly Progress Reports (QPRs)"
+  ],
+  "deadlines": "The Mission will be implemented from Financial Year (FY) 2025–26 to FY 2030–31, extendable by three years. Applications are accepted during the Mission period as per annual guidelines and fund allocation cycles.",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "Central Assistance for projects is limited to 25% of the cost of bankable projects",
+    "At least 50% of the project cost must be funded from bonds, bank loans, and PPPs",
+    "Fund release is contingent upon utilization of previous tranches (70% utilization required for next tranche)",
+    "States must endeavour to take up projects equivalent to at least 25% of their allocated amount within six months from issuance of guidelines",
+    "After two years, State/UT-wise progress will be reviewed by the National Apex Committee (NAC)",
+    "Projects must be designed as part of a comprehensive and may affect future allocations"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in/static/uploads/2026/06/38e9e0c9958c529474cc874d4846e6e9.pdf",
+    "https://mohua.gov.in/documents/guidelines"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:11:24.563186+00:00"
+}

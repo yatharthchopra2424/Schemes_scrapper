@@ -36,12 +36,16 @@ env/
 
 # Project Specific
 .env
-# runs/             <-- User requested inclusion
-# data/output/      <-- User requested inclusion
-# artifacts/        <-- User requested inclusion
-# *.log             <-- User requested inclusion
-# checkpoint.json    <-- User requested inclusion
-# enriched_schemes.csv <-- User requested inclusion
+# runs/ raw crawl data (html pages + downloaded PDFs) — too large for GitHub
+# .md reports, ai_summary.json, CSV, checkpoint ARE included
+runs/**/html/
+runs/**/documents/
+runs/**/evidence_bundle.json
+# data/output/      <- User requested inclusion
+# artifacts/        <- User requested inclusion
+# *.log             <- User requested inclusion
+# checkpoint.json    <- User requested inclusion
+# enriched_schemes.csv <- User requested inclusion
 
 # Testing
 .pytest_cache/

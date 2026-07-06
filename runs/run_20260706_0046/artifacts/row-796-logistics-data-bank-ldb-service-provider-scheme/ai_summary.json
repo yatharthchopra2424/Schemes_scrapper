@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-796",
+  "scheme_name": "Logistics Data Bank (LDB) Service Provider Scheme",
+  "scheme_url": "https://www.logisticsdatabank.in",
+  "ministry_or_category": "LogisticsTech Startups",
+  "overview": "The Logistics Data Bank (LDB) Service Provider Scheme is a government initiative aimed at enhancing supply chain visibility and efficiency in India's logistics sector by providing real-time tracking of container movements through RFID technology. It enables stakeholders such as shippers, consignees, transporters, and port authorities to access accurate, unified data on EXIM container transit times and bottlenecks. The scheme supports data-driven decision-making to reduce dwell times, improve port productivity, and strengthen India's trade logistics infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "logistics service providers",
+    "technology providers",
+    "port operators",
+    "shipping lines",
+    "customs brokers",
+    "freight forwarders"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide end-to-end visibility of EXIM container movement across India",
+    "Reduce port dwell time and improve supply chain efficiency",
+    "Enable data-driven policy and operational decisions in logistics",
+    "Integrate data from multiple stakeholders including ports, railways, and customs",
+    "Enhance transparency and predictability in international trade logistics",
+    "Support the development of a unified logistics interface for EXIM trade"
+  ],
+  "eligibility": "Entities providing logistics technology solutions, including RFID-based tracking, data integration, and analytics services, that meet technical and operational standards set by the Logistics Data Bank Limited (LDBL) and are capable of integrating with the LDB platform to deliver real-time container tracking services.",
+  "benefits": "Access to a unified, real-time EXIM container tracking platform; improved operational efficiency through reduced dwell times and optimized routing; enhanced transparency for shippers and consignees; data analytics for performance benchmarking; integration with port, customs, and railway systems; support for policy formulation and infrastructure planning; and contribution to national logistics cost reduction goals.",
+  "financial_support": "The scheme does not provide direct financial support, grants, or subsidies to service providers. Participation is based on technical qualification and service delivery under commercial or contractual arrangements with LDBL or its authorized partners. Revenue is generated through service fees paid by users of the LDB platform.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Logistics Data Bank website at https://www.logisticsdatabank.in 2. Review the eligibility and technical requirements for service providers 3. Submit an expression of interest or application through the designated channel on the portal 4. Undergo technical evaluation by LDBL for compatibility with the LDB platform 5. Sign a service agreement or memorandum of understanding upon approval 6. Complete integration and testing of services with the LDB system 7. Go live as an authorized service provider and begin offering tracking solutions.",
+  "application_portal_url": "https://www.logisticsdatabank.in",
+  "required_documents": [
+    "Company incorporation certificate",
+    "PAN card of the entity",
+    "GST registration certificate",
+    "Technical architecture and system documentation of the logistics solution",
+    "Details of RFID or tracking technology used",
+    "Data security and privacy compliance certificates",
+    "References or past project credentials in logistics or supply chain technology",
+    "Authorized signatory details and board resolution for application"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to technical evaluation cycles.",
+  "implementing_agency": "Logistics Data Bank Limited (LDBL), a special purpose vehicle promoted by the Ministry of Railways and Ministry of Commerce and Industry",
+  "contact_details": "Email: info@logisticsdatabank.in | Phone: +91-22-6656 3000",
+  "caveats": [
+    "Service providers must meet stringent technical and data security standards",
+    "Approval is subject to technical compatibility with the LDB platform",
+    "No financial guarantee or minimum volume commitment is provided by LDBL",
+    "Continued empanelment depends on service quality, uptime, and adherence to SLAs",
+    "The scheme does not confer any fiscal incentives or tax benefits"
+  ],
+  "source_cited_notes": [
+    "https://www.logisticsdatabank.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:57:26.063137+00:00"
+}

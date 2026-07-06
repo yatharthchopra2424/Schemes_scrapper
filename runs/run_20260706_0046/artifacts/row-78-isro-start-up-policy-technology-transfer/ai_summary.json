@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-78",
+  "scheme_name": "ISRO Start-up Policy & Technology Transfer",
+  "scheme_url": "https://www.isro.gov.in",
+  "ministry_or_category": "Space & Defence",
+  "overview": "The ISRO Start-up Policy & Technology Transfer initiative aims to foster innovation and entrepreneurship in the space sector by enabling startups to access ISRO's expertise, facilities, and technologies. It supports the development of space-related products and services through collaboration, mentorship, and technology licensing from ISRO centres. The policy encourages startups to contribute to India's space economy by leveraging ISRO's intellectual property and infrastructure.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote private sector participation in space activities",
+    "Facilitate technology transfer from ISRO to startups",
+    "Provide access to ISRO facilities and expertise for testing and validation",
+    "Encourage innovation in space technologies and applications",
+    "Support the growth of a self-reliant space ecosystem in India"
+  ],
+  "eligibility": "Startups registered in India working on space technologies, applications, or allied sectors that can benefit from ISRO's expertise, facilities, or intellectual property are eligible to apply under the ISRO Start-up Policy.",
+  "benefits": "Access to ISRO facilities for testing and validation, mentorship from ISRO scientists, guidance on technology development, opportunities for technology transfer and licensing of ISRO-developed technologies, and support in navigating regulatory and technical requirements for space activities.",
+  "financial_support": "The policy does not specify direct financial grants or funding; support is primarily in-kind through access to facilities, expertise, and technology transfer. Any financial aspects would be negotiated case-by-case based on the nature of collaboration or technology licensing agreements.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant ISRO centre or unit based on the technology or domain of interest. 2. Submit a proposal detailing the startup's technology, objectives, and proposed collaboration with ISRO. 3. Proposal is reviewed by the ISRO centre for technical feasibility and alignment with policy goals. 4. If approved, discussions are held to define the scope of collaboration, including access to facilities, mentorship, or technology transfer. 5. A formal agreement (MoU or similar) is executed outlining terms of engagement, IP rights, and responsibilities.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Detailed project proposal",
+    "Technology description and innovation claims",
+    "Team profile and expertise",
+    "Any existing IP or prior work documentation"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year.",
+  "implementing_agency": "Indian Space Research Organisation (ISRO), Department of Space, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Access to facilities is subject to availability and prior commitments",
+    "Technology transfer is governed by ISRO's IP policies and may involve licensing fees or royalties",
+    "Collaboration does not guarantee equity investment or direct funding from ISRO",
+    "Startups must comply with safety, security, and regulatory protocols at ISRO facilities"
+  ],
+  "source_cited_notes": [
+    "https://www.isro.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:01:15.170994+00:00"
+}

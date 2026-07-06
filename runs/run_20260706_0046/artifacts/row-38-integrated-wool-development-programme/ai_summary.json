@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-38",
+  "scheme_name": "Integrated Wool Development Programme",
+  "scheme_url": "https://texmin.nic.in/iwdp",
+  "ministry_or_category": "Textiles",
+  "overview": "The Integrated Wool Development Programme (IWDP) is a centrally sponsored scheme under the Ministry of Textiles aimed at the holistic development of the wool sector in India. It focuses on improving productivity, quality, and value addition across the wool value chain, from sheep rearing to finished products. The programme supports activities such as breed improvement, processing, marketing, and skill development to enhance the competitiveness of Indian wool and wool products in domestic and international markets.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "sheep rearers",
+    "artisans",
+    "weavers",
+    "small entrepreneurs",
+    "self-help groups",
+    "NGOs",
+    "state wool development boards"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve the productivity and quality of indigenous wool through breed improvement and animal health management",
+    "Strengthen the wool processing sector by modernizing processing units and introducing value addition",
+    "Enhance marketing and promotion of wool and wool products through branding, market linkages, and participation in trade fairs",
+    "Develop skills and provide training to stakeholders in the wool value chain",
+    "Support the establishment of common facility centres for wool processing",
+    "Encourage the use of wool in technical textiles and diversified applications",
+    "Ensure sustainable and remunerative returns for sheep rearers and wool-based artisans"
+  ],
+  "eligibility": "Eligible beneficiaries include individual sheep rearers, self-help groups, cooperatives, NGOs, state wool development boards, and entrepreneurs engaged in wool rearing, processing, marketing, or value addition activities. Preference is given to beneficiaries from economically weaker sections, women, SC/ST communities, and residents of hilly and backward areas where wool production is traditionally practiced.",
+  "benefits": "Beneficiaries receive financial assistance in the form of subsidies for breed improvement (e.g., import of elite rams), establishment of processing units, skill development training, marketing support, and setting up of common facility centres. Additional support includes technical guidance, access to improved breeding stock, and assistance for participation in national and international exhibitions to promote wool products.",
+  "financial_support": "Financial support is provided as a subsidy ranging from 50% to 80% of the project cost, depending on the beneficiary category and activity type. For general beneficiaries, the subsidy is 50%, while for SC/ST, women, and beneficiaries from hilly and backward areas, it can go up to 80%. The subsidy is disbursed through implementing agencies after verification of project completion and submission of required documents.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component of the IWDP under which the activity falls (e.g., breed improvement, processing, marketing). 2. Prepare a detailed project proposal including objectives, budget, implementation plan, and expected outcomes. 3. Submit the proposal to the State Wool Development Board or the designated implementing agency in the state. 4. The proposal is reviewed by the State Level Committee for technical and financial feasibility. 5. Upon approval, the implementing agency sanctions the subsidy amount. 6. The beneficiary implements the project as per the approved plan. 7. After completion, the beneficiary submits utilization certificates, bills, and completion report. 8. The subsidy is released after verification of documents and field inspection by the implementing agency.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal with detailed objectives and budget",
+    "Certificate of incorporation/registration (for NGOs, cooperatives, companies)",
+    "Proof of land or shed ownership/lease for setting up units",
+    "Quotations for equipment and civil work",
+    "Bank account details of the beneficiary",
+    "Authorization letter from authorized signatory",
+    "Past performance report or experience certificate (if applicable)",
+    "Environmental and pollution clearance (if required for processing units)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and approval by the State Level Committee.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is released only after successful completion and verification of the project",
+    "Beneficiaries must utilize the subsidy strictly for the approved purpose",
+    "Any deviation from the approved project scope may lead to rejection or recovery of funds",
+    "The scheme is subject to the availability of budgetary allocations under the Ministry of Textiles",
+    "Beneficiaries from SC/ST, women, and hilly areas must provide relevant certificates to avail higher subsidy rates"
+  ],
+  "source_cited_notes": [
+    "https://texmin.nic.in/iwdp"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:37:18.561572+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-162",
+  "scheme_name": "National Horticulture Mission (NHM)",
+  "scheme_url": "https://nhm.nic.in",
+  "ministry_or_category": "Horticulture",
+  "overview": "The National Horticulture Mission (NHM) is a centrally sponsored scheme launched in 2005-06 to promote holistic growth of the horticulture sector through regionally differentiated strategies. It aims to enhance horticultural production, improve nutritional security, and provide income support to farm households. The mission focuses on increasing productivity, promoting post-harvest management, and developing market infrastructure for horticultural crops.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "self-help groups",
+    "farmer producer organizations",
+    "entrepreneurs",
+    "NGOs",
+    "cooperatives"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase horticultural production and productivity",
+    "Improve nutritional security and income support to farm households",
+    "Promote and develop post-harvest management and processing",
+    "Develop market infrastructure for horticultural produce",
+    "Encourage adoption of improved varieties and technologies",
+    "Strengthen institutional capacity and human resource development",
+    "Promote export of horticultural products",
+    "Ensure convergence with other related programs"
+  ],
+  "eligibility": "The scheme is open to farmers, self-help groups, farmer producer organizations, entrepreneurs, NGOs, cooperatives, and other entities engaged in horticulture activities. Beneficiaries must be involved in cultivation, processing, marketing, or post-harvest management of horticultural crops. Specific eligibility may vary by component and state-level implementation guidelines.",
+  "benefits": "Financial assistance for setting up nurseries, tissue culture units, vegetable seed production, and floriculture units. Support for protected cultivation (polyhouses, shade nets), organic farming, vermicompost production, and mushroom cultivation. Assistance for beekeeping, post-harvest management (pack houses, cold storage, ripening chambers), and market infrastructure (wholesale markets, rural primary markets). Training, demonstration, and exposure visits for farmers and technicians.",
+  "financial_support": "Financial support is provided as back-ended subsidies ranging from 40% to 50% of the project cost, with higher assistance (up to 50%) for SC/ST, small, marginal, and women farmers. Subsidy is released in installments based on verification of field-level progress. The assistance is credit-linked and routed through nodal banks or implementing agencies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component under NHM for which assistance is sought. 2. Prepare a project proposal as per the guidelines of the component. 3. Submit the application to the State Horticulture Mission (SHM) or District Horticulture Office. 4. Application is scrutinized by the technical committee at the SHM/District Office. 5. Upon approval, administrative sanction is issued. 6. Beneficiary initiates the project and submits progress reports. 7. Subsidy is released in installments after verification of field progress.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form",
+    "Project proposal",
+    "Land ownership/lease documents",
+    "Bank account details",
+    "Aadhaar card",
+    "PAN card (if applicable)",
+    "Quotations for inputs/equipment",
+    "Training certificates (if required)",
+    "Other documents as specified by SHM"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year as per State Horticulture Mission notifications.",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare, Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is back-ended and released only after verification of field progress",
+    "Assistance is subject to availability of funds and state-specific allocation",
+    "Beneficiaries must maintain the asset for a minimum period as specified",
+    "Duplicate assistance for the same activity/component is not permitted",
+    "Implementation and monitoring are done at the state level through SHMs"
+  ],
+  "source_cited_notes": [
+    "https://nhm.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:07.139690+00:00"
+}

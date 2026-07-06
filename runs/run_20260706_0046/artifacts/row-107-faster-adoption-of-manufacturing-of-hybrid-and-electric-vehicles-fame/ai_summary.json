@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-107",
+  "scheme_name": "Faster Adoption of Manufacturing of Hybrid and Electric Vehicles (FAME)",
+  "scheme_url": "https://fame2.heavyindustries.gov.in",
+  "ministry_or_category": "Carbon & Environment",
+  "overview": "Faster Adoption and Manufacturing of Hybrid and Electric Vehicles (FAME) is a Government of India scheme aimed at promoting electric mobility by providing financial incentives for the adoption of hybrid and electric vehicles. The scheme supports the development of charging infrastructure and encourages domestic manufacturing of electric vehicles and their components. FAME-II, the current phase, focuses on incentivizing electric buses, three-wheelers, four-wheelers used for public transport or registered for commercial purposes, and two-wheelers. It also aims to create demand for electric vehicles through upfront incentives and to establish a robust charging ecosystem.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "public transport operators",
+    "fleet operators",
+    "institutional buyers",
+    "individual consumers",
+    "manufacturers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To incentivize the adoption of hybrid and electric vehicles in India",
+    "To develop charging infrastructure for electric vehicles",
+    "To encourage domestic manufacturing of electric vehicles and components",
+    "To reduce dependence on fossil fuels and curb vehicular emissions",
+    "To create demand for electric vehicles through upfront incentives",
+    "To support pilot projects for electric buses and other commercial vehicles"
+  ],
+  "eligibility": "Eligibility varies by vehicle segment: for electric two-wheelers, three-wheelers, and four-wheelers, vehicles must be approved by the Automotive Research Association of India (ARAI) or other designated testing agencies and meet specified performance and localization criteria. For electric buses and trucks, eligibility is restricted to vehicles used for public transport or commercial purposes. Manufacturers must be registered under FAME-II and their models must be on the approved list. Individual beneficiaries must purchase vehicles from OEMs enrolled under the scheme.",
+  "benefits": "Upfront incentive at the point of purchase for eligible electric vehicles; support for setting up charging infrastructure; promotion of domestic manufacturing through localization requirements; reduction in operating costs due to lower electricity and maintenance expenses; contribution to environmental sustainability by reducing tailpipe emissions.",
+  "financial_support": "Financial support is provided as a direct subsidy to buyers of eligible electric vehicles, disbursed to manufacturers who then pass on the benefit to consumers. The incentive amount varies by vehicle category and is based on battery capacity. For charging infrastructure, subsidies are provided to government entities, public sector undertakings, and private players for setting up charging stations. The scheme operates through a reimbursement model where OEMs claim incentives after selling eligible vehicles.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "Incentives range from INR 10,000 per kWh for two-wheelers (up to 15 kWh), INR 20,000 per kWh for three-wheelers (up to 10 kWh), INR 10,000 per kWh for four-wheelers (up to 15 kWh), and up to INR 20 lakhs per electric bus (for buses above 12 meters).",
+  "application_process": "1. OEMs must register their eligible vehicle models on the FAME-II portal after obtaining ARAI certification. 2. Manufacturers submit monthly claims for incentives based on vehicles sold. 3. Claims are verified by the implementing agency. 4. Upon approval, funds are disbursed to the manufacturer’s account. 5. End consumers benefit through reduced ex-showroom prices at the time of purchase.",
+  "application_portal_url": "https://fame2.heavyindustries.gov.in",
+  "required_documents": [
+    "Vehicle type approval certificate from ARAI or designated agency",
+    "Invoice of sale",
+    "Registration certificate of the vehicle",
+    "Proof of subsidy passing to end consumer",
+    "Bank account details of the OEM for fund transfer",
+    "Monthly sales report of eligible vehicles"
+  ],
+  "deadlines": "The scheme is valid until March 31, 2024, or until the exhaustion of funds, whichever occurs earlier.",
+  "implementing_agency": "Department of Heavy Industry, Ministry of Heavy Industries and Public Enterprises",
+  "contact_details": "Email: fame2@dhi.nic.in | Phone: 011-2306-1342",
+  "caveats": [
+    "Incentives are available only for vehicles manufactured by OEMs enrolled under FAME-II",
+    "Subsidy is passed on to the consumer and cannot be claimed directly by end users",
+    "Funds are limited and subject to availability; the scheme may close early if the budget is exhausted",
+    "Only vehicles with specified battery capacity and performance criteria are eligible",
+    "Charging infrastructure subsidies are subject to separate guidelines and approvals"
+  ],
+  "source_cited_notes": [
+    "https://fame2.heavyindustries.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:18:48.202065+00:00"
+}

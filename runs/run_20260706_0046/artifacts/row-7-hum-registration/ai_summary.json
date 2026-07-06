@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-7",
+  "scheme_name": "HUM Registration",
+  "scheme_url": "https://haryana.gov.in",
+  "ministry_or_category": "State Level (Haryana)",
+  "overview": "The HUM Registration scheme is a state-level initiative by the Government of Haryana aimed at registering and recognizing entities under the Haryana Udyami Mitra (HUM) program. It serves as a formal enrollment mechanism for beneficiaries to access various state government schemes, subsidies, and support services. The registration enables individuals and enterprises to be part of Haryana's entrepreneurial and MSME development ecosystem.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Haryana only",
+  "objectives": [
+    "To create a centralized database of beneficiaries for effective implementation of state schemes",
+    "To facilitate access to financial and non-financial support under Haryana government programs",
+    "To promote ease of doing business through digital registration and verification",
+    "To enhance transparency and accountability in disbursement of government benefits",
+    "To support inclusive growth by enabling marginalized groups to register and avail benefits"
+  ],
+  "eligibility": "Eligibility criteria for HUM Registration include individuals, startups, MSMEs, and enterprises based in Haryana, particularly those engaged in entrepreneurial activities, manufacturing, services, or agri-allied sectors. Priority may be given to women entrepreneurs, SC/ST categories, and persons with disabilities as per state government directives.",
+  "benefits": "Registered beneficiaries gain access to state government schemes, subsidies, financial assistance, skill development programs, market linkages, and priority in government procurement. They also receive updates on new initiatives, eligibility for incubation support, and facilitation in obtaining clearances and approvals.",
+  "financial_support": "Financial support varies depending on the specific scheme linked to HUM Registration, such as seed funding, interest subsidies, or capital grants under programs like Startup Haryana or MSME incentives. The registration itself does not provide direct financial aid but enables eligibility for such support.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official Haryana government portal or designated HUM registration platform. 2. Click on the HUM Registration or Udyami Mitra enrollment link. 3. Fill in the online application form with personal, business, and enterprise details. 4. Upload required documents such as identity proof, address proof, business registration, and PAN. 5. Submit the application and await verification by the concerned authority. 6. Upon approval, receive a unique HUM registration number and certificate.",
+  "application_portal_url": "https://haryana.gov.in",
+  "required_documents": [
+    "Identity Proof (Aadhaar/PAN/Voter ID)",
+    "Address Proof (Utility bill, rental agreement, etc.)",
+    "Business Registration Certificate (if applicable)",
+    "PAN of the entity or proprietor",
+    "Bank account details",
+    "Photograph of the applicant",
+    "Details of business activity or project proposal"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Industries and Commerce, Government of Haryana",
+  "contact_details": "Email: industry@haryana.gov.in | Helpline: 1800-180-2128",
+  "caveats": [
+    "Registration does not guarantee automatic approval of financial benefits under linked schemes",
+    "Beneficiaries must comply with specific eligibility criteria of individual schemes they apply for post-registration",
+    "Information provided must be accurate and verifiable; false details may lead to rejection or blacklisting",
+    "Registration may need periodic renewal or updating as per government directives"
+  ],
+  "source_cited_notes": [
+    "https://haryana.gov.in",
+    "https://haryana.gov.in/schemes-programmes/",
+    "https://haryana.gov.in/documents/"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:22:18.363253+00:00"
+}

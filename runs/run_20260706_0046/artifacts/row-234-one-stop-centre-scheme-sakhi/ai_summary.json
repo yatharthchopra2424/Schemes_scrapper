@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-234",
+  "scheme_name": "One Stop Centre Scheme (Sakhi)",
+  "scheme_url": "https://wcd.nic.in/schemes/one-stop-centre-scheme",
+  "ministry_or_category": "Social Welfare",
+  "overview": "The One Stop Centre Scheme (Sakhi) is a centrally sponsored scheme under the Ministry of Women and Child Development aimed at providing integrated support and assistance to women affected by violence, both in private and public spaces, under one roof. It facilitates immediate emergency response, medical, legal, psychological, and counselling support to survivors of gender-based violence. The scheme operates through One Stop Centres (OSCs) set up across the country to ensure access to essential services for women in distress.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "women affected by violence",
+    "survivors of gender-based violence",
+    "women in distress"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide integrated support and assistance to women affected by violence under one roof",
+    "Facilitate immediate emergency response and access to medical, legal, psychological, and counselling services",
+    "Ensure coordination with existing mechanisms such as police, hospitals, and legal aid services",
+    "Create a safe and secure environment for women to seek help without fear or stigma",
+    "Strengthen the response system for addressing gender-based violence through convergence of services"
+  ],
+  "eligibility": "Any woman affected by violence, including domestic violence, sexual assault, trafficking, or any other form of gender-based violence, irrespective of age, class, caste, education, marital status, race, or culture, is eligible to access services at the One Stop Centre. The scheme also extends support to girls below 18 years of age in cases of sexual assault.",
+  "benefits": "Services provided include emergency medical aid, police assistance (FIR filing, NCR recording), legal aid and counselling, psycho-social counselling, temporary shelter for up to 5 days, video conferencing facility for court proceedings, and referral linkages to other services such as skill training, employment, and long-term rehabilitation. All services are provided free of cost.",
+  "financial_support": "The scheme provides financial support for the setting up and functioning of One Stop Centres through a centrally sponsored model. The Government of India bears 100% of the cost for the non-recurring and recurring components. Financial assistance is provided to State Governments/UT Administrations for construction, renovation, equipment, manpower, and operational expenses as per approved norms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Women affected by violence can directly walk into the nearest One Stop Centre or be referred by any individual or organization. 2. Upon arrival, the centre provides immediate medical, legal, and psychological first aid. 3. A case is registered and a needs assessment is conducted. 4. Based on assessment, coordinated with police, hospitals, legal services, and shelter homes as required. 5. Follow-up and tracking of the case is ensured for timely resolution and rehabilitation.",
+  "application_portal_url": "",
+  "required_documents": [
+    "No documents are mandatory for availing services at the One Stop Centre",
+    "Services are accessible without any precondition of documentation"
+  ],
+  "deadlines": "Services are available 24x7, 365 days a year on a walk-in basis",
+  "implementing_agency": "Ministry of Women and Child Development",
+  "contact_details": "Helpline: 181 (Women Helpline integrated with OSC in many states)",
+  "caveats": [
+    "Temporary shelter is provided for a maximum of 5 days",
+    "Services are contingent on the operational status of the One Stop Centre in the respective district",
+    "The scheme does not provide long-term residential care beyond initial emergency support"
+  ],
+  "source_cited_notes": [
+    "https://wcd.nic.in/schemes/one-stop-centre-scheme"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:25:04.108328+00:00"
+}

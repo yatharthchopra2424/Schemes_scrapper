@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-861",
+  "scheme_name": "National Smart Grid Mission (NSGM)",
+  "scheme_url": "https://nsgm.gov.in",
+  "ministry_or_category": "Smart Infrastructure",
+  "overview": "The National Smart Grid Mission (NSGM) is a Government of India initiative under the Ministry of Power aimed at planning and monitoring the implementation of smart grid-related activities in the power distribution sector. It focuses on modernizing the electricity grid through advanced technologies to improve efficiency, reliability, efficiency, reliability, and sustainability of power supply across the country.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "power distribution utilities",
+    "state governments",
+    "public sector undertakings",
+    "private sector entities involved in power distribution"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To plan and monitor the implementation of smart grid-related activities in the power distribution sector",
+    "To improve operational efficiency and reliability of power distribution networks",
+    "To enable better demand-side management and energy conservation",
+    "To integrate renewable energy sources into the grid effectively",
+    "To reduce aggregate technical and commercial (AT&C) losses",
+    "To enhance customer service and satisfaction through smart metering and grid automation"
+  ],
+  "eligibility": "Power distribution utilities (both public and private), state governments, and their designated agencies involved in electricity distribution are eligible to participate in NSGM-supported projects. Projects must align with the smart grid framework and contribute to grid modernization goals.",
+  "benefits": "Financial support for smart grid projects, technical guidance and monitoring, capacity building and training programs, standardization of smart grid technologies, improved grid reliability and efficiency, reduction in AT&C losses, better integration of renewable energy, and enhanced consumer engagement through smart metering.",
+  "financial_support": "NSGM provides financial support in the form of grants to eligible projects, covering a portion of the project cost. The quantum of support is determined based on project specifics and adherence to mission guidelines, with funds disbursed through the implementing agency after project approval and milestone verification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify and formulate a smart grid project aligned with NSGM objectives. 2. Prepare a detailed project report (DPR) including technical, financial, and implementation details. 3. Submit the proposal to the designated nodal agency or utility. 4. The proposal is reviewed by the NSGM Secretariat for technical and financial appraisal. 5. Upon approval, a memorandum of understanding (MoU) is signed. 6. Funds are released in tranches based on project milestones. 7. Project implementation is monitored and evaluated by NSGM.",
+  "application_portal_url": "https://nsgm.gov.in",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Technical specifications and system architecture",
+    "Financial plan and cost estimates",
+    "Implementation timeline and milestones",
+    "Clearances and approvals from relevant authorities",
+    "Undertaking from the utility or implementing agency",
+    "Memorandum of Understanding (MoU) format (post-approval)"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted and reviewed periodically as per NSGM notification cycles.",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is subject to availability of funds and approval by the NSGM Inter-Ministerial Steering Committee",
+    "Projects must comply with technical standards and guidelines issued by NSGM and relevant regulatory bodies",
+    "Utilization of funds is monitored and subject to audit; misutilization may lead to recovery",
+    "Beneficiary entities must ensure operation and maintenance of assets post-project completion"
+  ],
+  "source_cited_notes": [
+    "https://nsgm.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:30:34.904216+00:00"
+}

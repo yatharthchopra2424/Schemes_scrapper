@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-144",
+  "scheme_name": "PM Kisan Samman Nidhi (PM-KISAN)",
+  "scheme_url": "https://pmkisan.gov.in",
+  "ministry_or_category": "Agriculture",
+  "overview": "Pradhan Mantri Kisan Samman Nidhi (PM-KISAN) is a Central Sector Scheme launched by the Government of India to provide income support to all landholding farmer families in the country. The scheme aims to supplement the financial needs of farmers for procuring agricultural inputs and domestic needs, ensuring proper crop health and yields. Under the scheme, eligible beneficiaries receive a direct payment of Rs. 6000 per year in three equal installments of Rs. 2000 each, transferred directly into their Aadhaar-seeded bank accounts.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "landholding farmer families",
+    "Small and Marginal Farmers (SMFs)",
+    "all farmer families irrespective of landholding size"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To augment the income of Small and Marginal Farmers (SMFs)",
+    "To supplement the financial needs of SMFs in procuring various inputs for proper crop health and appropriate yields",
+    "To protect farmers from falling into the clutches of moneylenders for meeting agricultural expenses",
+    "To ensure continuance of farmers in farming activities",
+    "To provide income support to all landholding farmer families in the country",
+    "To transfer financial benefit directly into bank accounts of eligible farmers under Direct Benefit Transfer (DBT) mode"
+  ],
+  "eligibility": "All landholding farmer families having cultivable land in their names are eligible to get benefit under the scheme. The landholder farmer's family is defined as 'a family comprising of husband, wife and minor children who collectively own cultivable land as per land records of the concerned State/UT'. However, certain categories are excluded: Institutional land holders; farmer families with members holding constitutional posts, serving/retired government employees (excluding Multi Tasking Staff/Class IV/Group D), superannuated/retired pensioners with monthly pension of Rs. 10,000 or more, income tax payees in the last assessment year, and professionals like doctors, engineers, lawyers, chartered accountants, and architects registered with professional bodies.",
+  "benefits": "Financial benefit of Rs. 6000 per annum per family payable in three equal installments of Rs. 2000 each every four months; direct transfer of funds into beneficiaries' bank accounts via Direct Benefit Transfer (DBT) mechanism; no duplication of payments; benefit allowed in cases of land transfer due to succession after the cut-off date; provision for proportionate benefit in case of land transfer between 01.12.2018 and 31.01.2019; facility for farmers to check beneficiary status through portal, SMS, or Panchayat displays; grievance redressal mechanism via District Level Grievance Redressal Monitoring Committees.",
+  "financial_support": "Under the Scheme, a direct payment of Rs. 6000 per year is transferred in three equal installments of Rs. 2000 each every four months into the Aadhaar-seeded bank accounts of eligible landholding Small and Marginal Farmer (SMF) families. The first installment for the period 01.12.2018 to 31.03.2019 was transferred immediately on identification of beneficiaries. The entire financial liability towards transfer of benefit is borne by the Government of India. Funds are released via PFMS through State Notional Account (similar to MNREGS) to beneficiaries' bank accounts, with Aadhaar Payment Bridge used where available, and alternate verification for first installment in certain States/UTs.",
+  "fund_size_crores": "75000",
+  "grant_amount_per_entity": "Rs. 6000 per annum per family",
+  "application_process": "1. States/UTs identify eligible beneficiary landholding farmer families using land records. 2. Prepare database capturing Name, Age, Gender, Category (SC/ST), Aadhaar Number (or Enrollment Number with alternate documents in Assam, Meghalaya, J&K), Bank Account Number, IFSC Code, and Mobile Number (optional). 3. Ensure no duplication of payments and speedy reconciliation for wrong/incomplete bank details. 4. Upload certified beneficiary lists on PM-Kisan portal in batches/phases. 5. State Nodal Officers authenticate and upload data on the portal. 6. Data undergoes multi-level verification by NIC, PFMS, and banks. 7. State Nodal Officers sign Request For Transfer (RFT) containing beneficiary count and total amount. 8. PFMS issues Fund Transfer Order (FTO) based on RFT. 9. Department of Agriculture, Cooperation & Farmers Welfare issues sanction order. 10. Amount transferred to beneficiaries' bank accounts via accredited and sponsoring banks using PFMS portal, managed by NPCI.",
+  "application_portal_url": "http://pmkisan.gov.in",
+  "required_documents": [
+    "Name, Age, Gender, Category (SC/ST)",
+    "Aadhaar Number (or Aadhaar Enrollment Number in Assam, Meghalaya, J&K till 31.03.2020)",
+    "Alternate identity documents (Driving Licence, Voter ID Card, NREGA Job Card, etc.) where Aadhaar not available",
+    "Bank Account Number",
+    "IFSC Code",
+    "Mobile Number (advised but not mandatory)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round based on State/UT submission of beneficiary lists.",
+  "implementing_agency": "Department of Agriculture, Cooperation & Farmers Welfare (DAC&FW), Ministry of Agriculture & Farmers’ Welfare",
+  "contact_details": "Contact us :: PMKisan Samman Nidhi",
+  "caveats": [
+    "Aadhaar number is mandatory for availing benefit from second installment onwards (from 01.04.2019), except in Assam, Meghalaya, and J&K where exemption till 31.03.2020",
+    "Incorrect declaration leads to recovery of transferred benefit and penal actions as per law",
+    "Benefit not available to institutional land holders, serving/retired government employees (excluding Multi Tasking Staff/Class IV/Group D), income tax payees, constitutional post holders, pensioners with Rs. 10,000+ monthly pension, and professionals like doctors, engineers, etc.",
+    "Land must be in the beneficiary's own name; tenant farmers not eligible unless land transferred via succession",
+    "Micro land holdings (non-cultivable) excluded",
+    "Agricultural land used for non-agricultural purposes not covered",
+    "Cut-off date for eligibility is 01.02.2019, with no changes for next 5 years except land transfer via succession",
+    "States/UTs must ensure no duplicate payments and reconcile wrong/incomplete bank details"
+  ],
+  "source_cited_notes": [
+    "https://pmkisan.gov.in/Documents/PMKisanSamanNidhi.PDF",
+    "https://pmkisan.gov.in/Documents/RevisedFAQ.pdf",
+    "https://pmkisan.gov.in/Documents/FAQPMKISAN.PDF",
+    "https://pmkisan.gov.in/Documents/ADDITIONAL-FAQ-IN-RESPECTIVE-OF-THE-PM2.pdf",
+    "https://pmkisan.gov.in/Documents/RevisedPM-KISANOperationalGuidelines(English).pdf",
+    "https://pmkisan.gov.in/Documents/OPERATIONAL GUIDELINES.pdf",
+    "https://pmkisan.gov.in/Documents/Amendment to OG-converted.pdf",
+    "https://pmkisan.gov.in/Documents/clarification_on_OGs_of_PMKISAN.PDF",
+    "https://pmkisan.gov.in/Documents/ClarificationsrelatingtoClauses.PDF",
+    "https://pmkisan.gov.in/Documents/OperationalGuidelinesManipur.PDF"
+  ],
+  "last_updated_date": "2020",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:37:53.356426+00:00"
+}

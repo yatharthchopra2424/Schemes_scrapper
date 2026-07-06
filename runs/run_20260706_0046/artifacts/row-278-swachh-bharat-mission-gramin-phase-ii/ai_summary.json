@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-278",
+  "scheme_name": "Swachh Bharat Mission – Gramin Phase II",
+  "scheme_url": "https://swachhbharatmission.gov.in",
+  "ministry_or_category": "Water & Sanitation",
+  "overview": "Swachh Bharat Mission – Gramin Phase II (SBM-G Phase II) is a flagship Government of India initiative launched post-2019 to sustain Open Defecation Free (ODF) status and achieve 'Sampoorn Swachhata' through comprehensive solid and liquid waste management in rural India. Building on Phase I’s success of constructing over 100 million individual household toilets and declaring 6 lakh villages ODF, Phase II focuses on waste-to-wealth initiatives, behavioral change, and infrastructure for long-term sanitation sustainability. The mission integrates multiple ministries, promotes innovative campaigns like Swachhata Green Leaf Rating and GOBARdhan, and aims to transform rural sanitation into a holistic, sustainable public health model.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural households",
+    "gram panchayats",
+    "villages",
+    "self-help groups",
+    "ngos",
+    "csr entities"
+  ],
+  "geographic_scope": "Rural India",
+  "objectives": [
+    "Sustain Open Defecation Free (ODF) status achieved under Phase I",
+    "Achieve 'Sampoorn Swachhata' through comprehensive solid and liquid waste management",
+    "Promote waste-to-wealth initiatives like GOBARdhan to convert organic waste into resources",
+    "Innovate and scale cleanliness campaigns such as Swachhata Green Leaf Rating and Swachhata Hi Sewa",
+    "Establish educational and developmental infrastructure like Dr. Syama Prasad Mookerjee National Institute of Water and Sanitation (SPM-NIWAS)",
+    "Mobilize community participation through shramdaan and advocacy campaigns",
+    "Strengthen monitoring and evaluation via Swachh Survekshan Grameen and Swachhata Samachar",
+    "Enable ODF Plus status across villages through progressive stages: Aspiring, Rising, and Model"
+  ],
+  "eligibility": "Rural households, Gram Panchayats, villages, self-help groups, NGOs, and Corporate Social Responsibility (CSR) entities including Central Public Sector Enterprises (CPSEs) are eligible to participate in or implement SBM-G Phase II activities such as construction of individual household latrines, community sanitary complexes, solid and liquid waste management systems, and GOBARdhan projects, subject to guidelines issued by the Department of Drinking Water and Sanitation under Ministry of Jal Shakti.",
+  "benefits": "Financial and non-financial benefits include sustained ODF status, improved health outcomes (reduction in diarrheal deaths), economic savings (INR 50,000 annually per household on health costs), environmental benefits (reduced groundwater contamination), enhanced safety and dignity for women (93% reported feeling safer), employment generation through waste management and GOBARdhan initiatives, production of organic manure and biogas, access to clean energy via Compressed Biogas (CBG), and recognition under Swachhata Green Leaf Rating system for hospitality and tourism units.",
+  "financial_support": "The mission's current phase is supported by an investment of Rs.1.40 lakh crores, which integrates various governmental schemes to enhance sanitation infrastructure further. Financial assistance is provided for projects such as GOBARdhan, with up to Rs. 50 Lakh per district available for setting up model projects at community and cluster levels under SBM(G) Phase-II until 2024–25. Funds are channeled through central and state government mechanisms, including convergence with other ministries and utilization of CSR funds from CPSEs and corporate houses as per guidelines.",
+  "fund_size_crores": "140000",
+  "grant_amount_per_entity": "Up to Rs. 50 Lakh per district for GOBARdhan model projects",
+  "application_process": "1. Identify eligible sanitation project (e.g., IHHL, CSC, SWM, LWM, GOBARdhan) as per SBM-G Phase II guidelines. 2. Gram Panchayat or implementing agency submits proposal through the Swachh Bharat Mission Gramin portal or to the District Water and Sanitation Committee. 3. Project is appraised by the Block/ District level officials for technical and financial feasibility. 4. Upon approval, funds are released in installments linked to physical progress. 5. Implementation is carried out by Gram Panchayat, SHG, NGO, or CSR partner. 6. Operation and maintenance plan is established, often with CPSEs/NGOs for 10 years. 7. Project is monitored via Swachh Survekshan Grameen and reported through MIS. 8. Upon completion, village is assessed for ODF Plus status (Aspiring, Rising, Model).",
+  "application_portal_url": "https://swachhbharatmission.gov.in/",
+  "required_documents": [
+    "Project proposal detailing scope, location, and beneficiaries",
+    "Land availability proof or Gram Panchayat resolution for land use",
+    "Cost estimate and bill of quantities",
+    "Implementation plan and timeline",
+    "Monitoring and operation & maintenance (O&M) plan",
+    "Bank account details of implementing agency",
+    "Registration certificate of NGO/CSR entity (if applicable)",
+    "Gram Panchayat resolution endorsing the project",
+    "Environmental and social safeguards compliance (if required)"
+  ],
+  "deadlines": "Available until 2024–25 for GOBARdhan financial assistance; overall Phase II implementation ongoing until 2025",
+  "implementing_agency": "Department of Drinking Water and Sanitation, Ministry of Jal Shakti, Government of India",
+  "contact_details": "Email: Not explicitly stated in evidence | Helpline: Not explicitly stated in evidence",
+  "caveats": [
+    "Financial assistance for GOBARdhan is available only until 2024–25",
+    "Funds are subject to availability and adherence to guidelines issued by the Department of Drinking Water and Sanitation",
+    "CSR funding from CPSEs must comply with Section 135 of the Companies Act and CSR Guidelines",
+    "Projects must be implemented in rural areas only",
+    "ODF Plus status requires sustained ODF status plus solid/liquid waste management and visual cleanliness"
+  ],
+  "source_cited_notes": [
+    "https://swachhbharatmission.gov.in/",
+    "https://swachhbharatmission.ddws.gov.in/sites/default/files/Technical-Notes/10Years_of_SBM_Brochure.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:49:38.117344+00:00"
+}

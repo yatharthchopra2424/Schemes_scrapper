@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-839",
+  "scheme_name": "National Centre for Photonics Technology (NCPG)",
+  "scheme_url": "https://dst.gov.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The National Centre for Photonics Technology (NCPG) is a scheme under the Department of Science & Technology (DST) focused on advancing deep technology and innovation in the field of photonics. It aims to strengthen India's capabilities in strategic technologies, promote technological self-reliance, and support research and development in photonics through financial and institutional mechanisms. The scheme is part of DST's broader mandate to foster innovation and align with the Atmanirbhar Bharat vision.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "research institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encouraging Private Sector Involvement in cutting-edge research and innovation",
+    "Promoting Strategic Technologies including photonics and deep technologies",
+    "Fostering Self-Reliance and Economic Security through indigenous technology development",
+    "Ensuring Flexibility in Sectoral Support for emerging technologies",
+    "Supporting technologies where indigenization is essential for strategic or economic reasons"
+  ],
+  "eligibility": "Eligible Technology Entities means any legal entity which is engaged in developing RDI-intensive technology (TRL4 and above). These could include companies registered under the Companies Act 2013, partnerships registered under the Indian Partnership Act, 1932, and limited liability partnerships registered under the Limited Liability Partnership Act, 2008, engaged in scale-up of RDI-intensive technologies beyond Technology Readiness Level 4. These shall include startups as defined in the Department for Promotion of Industry and Internal Trade Notification G.S.R. 127(E) dated 19 February 2019, as may be modified from time to time.",
+  "benefits": "Financial support through long-term loans at low or nil interest rates, equity infusion, and contributions to Deep-Tech Fund of Funds. Non-financial benefits include access to Second-Level Fund Managers (SLFMs) such as Alternate Investment Funds (AIFs), Development Finance Institutions (DFIs), NBFCs, or Focused Research Organizations (FROs) like TDB, BIRAC, IIT Research Parks. The scheme also provides intellectual property rights to Eligible Technology Entities and operational flexibility through the Anusandhan National Research Foundation (ANRF) structure.",
+  "financial_support": "Funding and Financial Support: Total Budget: ₹1 lakh crore. Modes of Financing: Long-term loan at low or nil interest rates. Equity infusion, especially in case of startups. Contributions to Deep-Tech Fund of Funds. Exclusions: Grants and short-term loans are not supported. Coverage: Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs) in due course through separate advertisement. Interested Second Level Fund Managers (SLFMs) are invited to express their interest in partnering with this fund by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. Existing NBFCs planning to establish AIFs are also encouraged to contact DST regarding potential participation.",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Science & Technology (DST)",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in",
+  "caveats": [
+    "Grants and short-term loans are not supported under the RDI scheme",
+    "Financing is routed exclusively through Second-Level Fund Managers (SLFMs), not directly from DST",
+    "Industry stakeholders must not send proposals directly to DST",
+    "Funding is contingent on approval by Empowered Group of Secretaries (EGoS) for exceptions beyond 50% project cost coverage"
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "https://dst.gov.in/sites/default/files/SFR%20RDI%20FUND%20Gazzette%20Notification.pdf",
+    "https://dst.gov.in/sites/default/files/Publication%20of%20Special%20Financial%20Rules%202026%20for%20utilization%20of%20the%20amounts%20in%20the%20Research%20Development%20and%20Innovation%28RDI%29%20Fund%20in%20the%20official%20Gazette%20-%20reg..pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:17:05.290932+00:00"
+}

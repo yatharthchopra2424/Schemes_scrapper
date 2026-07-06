@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-570",
+  "scheme_name": "APEDA Export Facilitation for Organic Products",
+  "scheme_url": "https://apeda.gov.in",
+  "ministry_or_category": "Food Processing",
+  "overview": "APEDA Export Facilitation for Organic Products is a scheme under the Agricultural and Processed Food Products Export Development Authority (APEDA) aimed at promoting the export of organic products from India. It supports exporters through certification, market access, and participation in international trade fairs. The scheme focuses on enhancing the global competitiveness of Indian organic produce by providing technical and financial assistance.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "agri-startups",
+    "exporters",
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote export of organic agricultural and processed food products",
+    "Facilitate certification under National Programme for Organic Production (NPOP)",
+    "Provide market access through participation in international trade fairs",
+    "Offer financial assistance for infrastructure and quality development",
+    "Strengthen supply chain and export readiness for organic products",
+    "Enhance brand visibility of Indian organic products in global markets"
+  ],
+  "eligibility": "Exporters of APEDA-scheduled organic products with valid Import-Export Code (IEC) and Registration-cum-Membership Certificate (RCMC) from APEDA are eligible. Farmers, Farmer Producer Organizations (FPOs), MSMEs, and agri-startups engaged in organic production and processing can apply. Applicants must comply with NPOP standards and have a valid organic certification.",
+  "benefits": "Financial assistance for infrastructure development, quality certification, and market development. Support for participation in international trade fairs and buyer-seller meets. Assistance in obtaining organic certification and compliance with international standards. Access to APEDA’s market intelligence reports and export promotion services. Facilitation of RCMC and IEC registration. Support for branding, packaging, and traceability solutions.",
+  "financial_support": "Under the Financial Assistance Scheme (FAS), APEDA provides grants for market development, quality development, and export infrastructure. The quantum of support varies based on the project proposal and is subject to availability of funds. Assistance is provided as a percentage of the project cost, typically up to 50% for MSMEs and 75% for North Eastern and Himalayan states, as per government norms.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain Import-Export Code (IEC) from DGFT. 2. Apply for Registration-cum-Membership Certificate (RCMC) from APEDA via https://apeda.gov.in/Registration-Procedure. 3. Ensure organic certification under NPOP. 4. Submit application for financial assistance under the relevant FAS component (Market Development, Quality Development, or Export Infrastructure). 5. Upload required documents including IEC, RCMC, organic certificate, project report, and financials. 6. Await scrutiny and approval by APEDA. 7. Upon approval, submit bank guarantee and receive sanction letter. 8. Implement project and submit utilization report with expenditure details.",
+  "application_portal_url": "https://apeda.gov.in/FinancialAssistanceSchemes",
+  "required_documents": [
+    "Import-Export Code (IEC)",
+    "Registration-cum-Membership Certificate (RCMC)",
+    "Organic certification under NPOP",
+    "Project report detailing objectives, budget, and timeline",
+    "Audited or provisional financial statements",
+    "Bank details for fund transfer",
+    "Undertaking of non-blacklisting by government",
+    "CA-certified turnover certificate (if applicable)",
+    "Proforma invoice or contract with buyer (for market development)",
+    "Quotations from vendors for infrastructure projects"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability.",
+  "implementing_agency": "Agricultural and Processed Food Products Export Development Authority (APEDA), Ministry of Commerce and Industry, Government of India",
+  "contact_details": "Email: bharati[at]apeda[dot]gov[dot]in | Phone: 91-11-41486013/20863919/20867008/20867007",
+  "caveats": [
+    "Financial assistance is subject to availability of funds under the scheme",
+    "Beneficiaries must submit utilization reports and expenditure proof",
+    "Projects must be completed within the stipulated timeline",
+    "Assistance may be clawed back if funds are misused or objectives not met",
+    "Only APEDA-scheduled products are eligible for support"
+  ],
+  "source_cited_notes": [
+    "https://apeda.gov.in/FinancialAssistanceSchemes",
+    "https://apeda.gov.in/Registration-Procedure",
+    "https://apeda.gov.in/bharati/How_to_Apply.html",
+    "https://apeda.gov.in/sites/default/files/announcements/The_Saudi_Food_Show_Saudi_Arabia_2026.pdf",
+    "https://apeda.gov.in/sites/default/files/press_release/2233856.pdf",
+    "https://apeda.gov.in/sites/default/files/press_release/2216372.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:43:35.152878+00:00"
+}

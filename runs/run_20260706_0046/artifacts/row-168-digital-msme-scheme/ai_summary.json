@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-168",
+  "scheme_name": "Digital MSME Scheme",
+  "scheme_url": "https://digital.msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The Digital MSME Scheme aims to promote the adoption of digital technologies among Micro, Small, and Medium Enterprises (MSMEs) to enhance their competitiveness, productivity, and market reach. It supports MSMEs in integrating digital tools such as cloud computing, AI, IoT, and digital marketing into their operations. The scheme is implemented by the Ministry of Micro, Small and Medium Enterprises (MoMSME) and focuses on enabling digital transformation across various sectors. It encourages MSMEs to leverage technology for innovation, scalability, and sustainability.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of digital technologies in MSMEs",
+    "Enhance productivity and competitiveness through digital tools",
+    "Support integration of cloud computing, AI, IoT, and digital marketing",
+    "Enable MSMEs to access digital infrastructure and services",
+    "Foster innovation and scalability in MSME sector",
+    "Improve market access and customer reach via digital platforms"
+  ],
+  "eligibility": "The scheme is open to all Micro, Small, and Medium Enterprises (MSMEs) registered under the MSME Act, 2006, including manufacturing and service enterprises. Enterprises must have a valid Udyam Registration Certificate. There are no restrictions based on sector, location, or ownership profile, as long as the enterprise meets the MSME classification criteria.",
+  "benefits": "Financial assistance in the form of subsidy for adopting digital technologies; access to digital infrastructure and services; improved operational efficiency and productivity; enhanced market reach through e-commerce and digital marketing; better data management and analytics capabilities; support for innovation and technology upgradation; reduced operational costs through automation.",
+  "financial_support": "The scheme provides a subsidy of up to 50% of the project cost for adopting digital technologies, with a maximum ceiling of INR 10 Lakhs per MSME. The subsidy is disbursed after successful implementation and verification of the digital solution. The remaining 50% of the cost is to be borne by the beneficiary enterprise.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 Lakhs",
+  "application_process": "1. Register on the Udyam portal and obtain Udyam Registration Certificate. 2. Identify the digital technology solution to be adopted (e.g., cloud, AI, IoT, digital marketing). 3. Select a certified vendor or service provider from the empanelled list. 4. Submit the project proposal along with cost estimates through the Digital MSME portal. 5. Obtain approval from the designated authority. 6. Implement the digital solution with the vendor. 7. Submit completion report and invoices for verification. 8. Receive subsidy disbursement directly into the bank account after validation.",
+  "application_portal_url": "https://digital.msme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Project proposal detailing the digital technology to be adopted",
+    "Cost estimates and quotations from the vendor",
+    "Proof of implementation (completion report)",
+    "Invoices and payment receipts",
+    "Bank account details for subsidy transfer",
+    "Authorization letter from the proprietor/partner/director"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises (MoMSME)",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is limited to 50% of project cost, maximum INR 10 Lakhs per unit",
+    "Only digital technologies from empanelled vendors are eligible for subsidy",
+    "Subsidy is released post-implementation and verification",
+    "Enterprises must bear 50% of the project cost",
+    "Funds are subject to availability and allocated on first-come-first-served basis"
+  ],
+  "source_cited_notes": [
+    "https://digital.msme.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:57.993818+00:00"
+}

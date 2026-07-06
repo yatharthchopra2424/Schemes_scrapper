@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-489",
+  "scheme_name": "Jan Shikshan Sansthan (JSS) Vocational Training",
+  "scheme_url": "https://jss.nic.in",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "Jan Shikshan Sansthan (JSS) Vocational Training is a centrally sponsored scheme implemented by the Ministry of Skill Development and Entrepreneurship to provide vocational skills to non-literate, neo-literate, and persons with rudimentary level of education up to 8th standard, with priority to women, SC, ST, minorities, and other disadvantaged groups. The scheme aims to enhance employability and promote self-employment through need-based, life-enriching, and income-generating vocational training programs delivered at the doorstep of beneficiaries.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "women",
+    "SC",
+    "ST",
+    "minorities",
+    "disadvantaged groups",
+    "neo-literates",
+    "semi-literates"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide vocational skills to non-literate, neo-literate, and school dropouts up to 8th standard",
+    "To prioritize training for women, SC, ST, minorities, and other disadvantaged groups",
+    "To link vocational training with life skills and awareness programs",
+    "To promote self-employment and wage employment through market-relevant skills",
+    "To strengthen the network of Jan Shikshan Sansthans for sustainable skill delivery",
+    "To converge with other skill development programs for optimal resource utilization"
+  ],
+  "eligibility": "Beneficiaries must be non-literate, neo-literate, or persons with education level up to 8th standard, with priority given to women, SC, ST, minorities, and other disadvantaged groups. There is no upper age limit, but the focus is on adults and out-of-school youth. Training is conducted through registered Jan Shikshan Sansthans (JSSs) which are NGOs or voluntary organizations accredited by the National Institute of Open Schooling (NIOS) or State Resource Centres (SRCs).",
+  "benefits": "Beneficiaries receive free vocational training in market-relevant trades, life skills education, awareness on health, hygiene, and civic rights, and post-training placement or self-employment support. Training includes toolkits or raw material support where applicable. Successful trainees are awarded certificates jointly by JSS and NIOS or State Open Schools, enhancing employability and credibility in the job market.",
+  "financial_support": "The scheme provides 100% financial assistance to Jan Shikshan Sansthans (JSSs) for conducting vocational training programs. The Government of India bears the full cost of training, including honorarium to trainers, raw materials, contingency, and administrative expenses. Funds are released in installments based on utilization certificates of utilization and performance. There is no direct financial transfer to beneficiaries; support is in-kind through free training and materials.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. NGOs/voluntary organizations apply to State Resource Centres (SRCs) or NIOS for accreditation as a Jan Shikshan Sansthan (JSS). 2. Upon accreditation, JSS submits annual action plan and budget to the State Directorate of Employment & Craftsmen Training or State Skill Development Mission. 3. After approval, funds are released in installments by the State Government based on utilization certificates. 4. JSS identifies beneficiaries, conducts training, and submits progress reports. 5. Central Ministry monitors performance through periodic reviews and third-party evaluations.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Registration of NGO/Voluntary Organization",
+    "Memorandum of Association and Bye-laws",
+    "PAN Card of the Organization",
+    "Bank Account Details",
+    "Annual Report and Audited Financial Statements of previous year",
+    "Details of Governing Body Members",
+    "Proposed Training Trades and Curriculum",
+    "Infrastructure Details (Training Centre)",
+    "Undertaking of Non-Profit Status"
+  ],
+  "deadlines": "Rolling basis — applications for accreditation and funding are accepted throughout the year subject to budget availability and state-specific timelines.",
+  "implementing_agency": "Ministry of Skill Development and Entrepreneurship, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Only accredited Jan Shikshan Sansthans (JSSs) are eligible to receive funds",
+    "Training must conform to norms set by NIOS or State Open Schools for certification",
+    "Priority must be given to women, SC, ST, minorities, and disadvantaged groups in beneficiary selection",
+    "Funds are released subject to submission of utilization certificates and progress reports",
+    "JSSs must maintain proper records and are subject to audit by CAG or State Government"
+  ],
+  "source_cited_notes": [
+    "https://jss.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:52:58.426782+00:00"
+}

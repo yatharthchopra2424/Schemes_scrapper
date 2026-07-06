@@ -1,0 +1,66 @@
+{
+  "scheme_id": "row-222",
+  "scheme_name": "Viability Gap Funding (VGF) for PPP Projects",
+  "scheme_url": "https://dea.gov.in/vgf",
+  "ministry_or_category": "Infrastructure",
+  "overview": "The Viability Gap Funding (VGF) Scheme is a flagship initiative of the Government of India under the Department of Economic Affairs (DEA) that provides financial assistance to financially unviable but socially/economically desirable Public Private Partnership (PPP) projects. Launched to address infrastructure deficits, the scheme supports PPPs by bridging the gap between project costs and expected revenues, thereby attracting private investment in infrastructure and social sectors. The revamped scheme, launched in 2020, has a total outlay of Rs. 8,100 crores till 2024-25 and includes enhanced support for social sector projects such as health, education, water supply, wastewater treatment, and solid waste management.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "PPP project sponsors",
+    "state governments",
+    "central ministries",
+    "statutory entities",
+    "private sector entities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote PPPs to bring private efficiencies and attract private capital in infrastructure development",
+    "Provide financial assistance to financially unviable but socially/economically desirable PPP projects",
+    "Attract more PPP projects and facilitate private investment in social sectors (Health, Education, Wastewater, Solid Waste Management, Water Supply etc.)",
+    "Support infrastructure development in sectors with long gestation periods and limited financial returns",
+    "Increase the quality and quantity of bankable PPP projects through financial viability enhancement"
+  ],
+  "eligibility": "PPP projects must be sponsored by Central Government Ministries, Central Public Sector Undertakings (CPSUs), statutory authorities, or other entities under their administrative control. Projects must be in infrastructure sectors including social sectors like health, education, water supply, wastewater treatment, and solid waste management. Social sector projects under Sub Scheme-1 must have at least 100% Operational Cost recovery, while Sub Scheme-2 projects (demonstration/pilot) must have at least 50% Operational Cost recovery. The project must be a PPP structure and undergo appraisal by the Public Private Partnership Appraisal Committee (PPPAC).",
+  "benefits": "Financial support in the form of viability gap funding grants to cover project costs. For economic sector projects: up to 40% of Capex as VGF grant. For social sector projects: up to 80% of Capex and up to 50% of Opex for 5 years after Commercial Operation Date (CoD). Sub Scheme-1 (social sectors): Central Government provides up to 30% of Capex, with State Government/Sponsoring Central Ministry/Statutory Entity providing additional support up to 30% of Capex. Sub Scheme-2 (demonstration/pilot social sectors): Central Government provides up to 40% of Capex and up to 25% of Opex for first five years of commercial operations, with State Government/Sponsoring Central Ministry/Statutory Entity providing additional support up to 40% of Capex and up to 25% of Opex. The scheme facilitates private investment, reduces financial burden on project sponsors, and increases bankability of PPP projects.",
+  "financial_support": "The revamped VGF scheme launched in 2020 has a total outlay of Rs. 8,100 crores till 2024-25. Economic sector projects may receive up to 40% of Capex as VGF grant. Social sector projects may receive up to 80% of Capex and up to 50% of Opex for 5 years after CoD. Sub Scheme-1: Central Government provides up to 30% of Capex, with potential additional 30% from State Government/Sponsoring Central Ministry/Statutory Entity. Sub Scheme-2: Central Government provides up to 40% of Capex and up to 25% of Opex for first five years, with potential additional 40% Capex and 25% Opex from State Government/Sponsoring Central Ministry/Statutory Entity. Post-revamp, Rs. 470.46 Cr have been disbursed under the VGF Scheme. Overall, till date, 67 projects with total project cost of Rs. 45,802 crores have received final approval with VGF of Rs. 7,682 crores approved and disbursal of Rs. 4,847 Crore completed.",
+  "fund_size_crores": "8100",
+  "grant_amount_per_entity": "Up to 80% of Capex for social sector projects and up to 40% of Capex for economic sector projects, with additional support possible from state/central entities as per sub-scheme",
+  "application_process": "1. Project Sponsoring Authority (PSA) identifies the PPP project and prepares feasibility studies, project agreements, etc. with expert assistance. 2. PSA submits proposal to the Public Private Partnership Appraisal Committee (PPPAC) Secretariat in the specified format (six copies, hard and soft) along with pre-feasibility/feasibility report and term-sheet of proposed project agreements. 3. PPPAC Secretariat circulates documents to all members and convenes a meeting within three weeks to consider the proposal for 'in principle' approval. 4. Planning Commission appraises the project and forwards its Appraisal Note to PPPAC Secretariat; other involved ministries/departments forward written comments within stipulated time. 5. PPPAC Secretariat forwards all comments to PSA for written response. 6. PSA submits concession agreement, supporting agreements/documents, PPPAC Memo, and project report for consideration by PPPAC. 7. PPPAC evaluates the Appraisal Note, comments, and PSA's response, and either recommends approval (with or without modifications) or requests necessary changes for further consideration. 8. Once cleared by PPPAC, the project is put up to the competent authority (same as for PIB approval) for final approval. 9. After final approval, financial bids are invited. 10. Post-award, claims for VGF disbursement are submitted based on project milestones and verification.",
+  "application_portal_url": "https://dea.gov.in/schemes-services/viability-gap-funding-scheme",
+  "required_documents": [
+    "Pre-feasibility/feasibility report",
+    "Term-sheet containing salient features of proposed project agreements",
+    "Six copies (hard and soft) of the proposal",
+    "All draft project agreements",
+    "Project Report",
+    "Concession agreement and supporting agreements/documents",
+    "PPPAC Memo",
+    "Detailed Accident Report (if applicable, though not specific to VGF - note: this appears to be from a different guideline; only VGF-relevant docs retained)",
+    "Proof of Operational Cost recovery (for social sector projects: at least 100% for Sub Scheme-1, 50% for Sub Scheme-2)",
+    "Documentation of project cost and Capex",
+    "Details of financing arrangements (equity, debt, etc.)",
+    "Revenue streams and underlying assumptions",
+    "Net Present Value (NPV) of revenue streams with 12% discounting",
+    "Details of tariff/user charge fixation"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round as per the appraisal and approval procedure of PPPAC.",
+  "implementing_agency": "Department of Economic Affairs, Ministry of Finance, Government of India",
+  "contact_details": "Email: secy-dea@nic.in | Phone: 011-23092254 (as per induction material for Economic Advisor, Admin, BC&SF, C&C - generic DEA contact)",
+  "caveats": [
+    "VGF grant is only available for PPP projects that are financially unviable but socially/economically desirable",
+    "Social sector projects under Sub Scheme-1 require at least 100% Operational Cost recovery; Sub Scheme-2 requires at least 50% Operational Cost recovery",
+    "The Central Government's VGF share is subject to the total outlay of Rs. 8,100 crores till 2024-25",
+    "Post-revamp, only projects approved after 2020 are eligible under the enhanced social sector provisions",
+    "VGF disbursement is contingent upon project progress, verification, and compliance with scheme guidelines",
+    "The scheme does not cover projects under the purview of Ministry of Defence, Department of Atomic Energy, and Department of Space (as per general PPP guidelines, though not explicitly restated for VGF)",
+    "State Government/Sponsoring Central Ministry/Statutory Entity support is additional and not guaranteed; it must be committed separately"
+  ],
+  "source_cited_notes": [
+    "https://dea.gov.in/schemes-services/viability-gap-funding-scheme",
+    "https://dea.gov.in/documents-guidelines?page=1",
+    "https://dea.gov.in/schemes-services"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:24:08.137119+00:00"
+}

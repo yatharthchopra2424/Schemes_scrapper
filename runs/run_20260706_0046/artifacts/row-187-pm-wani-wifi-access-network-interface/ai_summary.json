@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-187",
+  "scheme_name": "PM-WANI (WiFi Access Network Interface)",
+  "scheme_url": "https://dot.gov.in/pm-wani",
+  "ministry_or_category": "Electronics & IT",
+  "overview": "PM-WANI (WiFi Access Network Interface) is a scheme launched by the Department of Telecommunications under the Ministry of Communications to provide public Wi-Fi services through Public Data Offices (PDOs) and PDO aggregators, aiming to expand broadband access across India by enabling last-mile connectivity via Wi-Fi hotspots. The scheme promotes interoperability and ease of access for users through a centralized registry and authentication system, encouraging the proliferation of Wi-Fi networks in public spaces.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "small businesses"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide public Wi-Fi services through Public Data Offices (PDOs) and PDO aggregators",
+    "To expand broadband access and enhance last-mile connectivity across India",
+    "To promote interoperability and ease of access for users via a centralized registry",
+    "To encourage the proliferation of Wi-Fi networks in public and semi-public spaces",
+    "To support digital inclusion by enabling affordable internet access",
+    "To create employment and entrepreneurial opportunities in the telecom sector"
+  ],
+  "eligibility": "Any entity, including startups, MSMEs, entrepreneurs, or small businesses, can apply to become a Public Data Office (PDO) or PDO aggregator under PM-WANI, provided they comply with the technical and operational guidelines issued by the Department of Telecommunications, including registration on the designated portal and adherence to security and service quality standards.",
+  "benefits": "PM-WANI enables easy setup and operation of Wi-Fi hotspots without requiring individual licensing for each access point, provides a centralized authentication and billing system through PDO aggregators, offers revenue-sharing opportunities for PDO owners, promotes digital inclusion by expanding internet access in underserved areas, and supports the growth of a distributed Wi-Fi ecosystem across India.",
+  "financial_support": "PM-WANI does not provide direct financial subsidies or grants to entities; instead, it enables revenue generation through user fees collected at Public Data Offices (PDOs), with PDO aggregators facilitating billing, settlement, and reimbursement processes. Financial returns depend on user uptake and service usage, with no guaranteed or fixed financial support from the government.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PM-WANI portal on the Department of Telecommunications website. 2. Register as a Public Data Office (PDO) or PDO aggregator by providing entity details. 3. Submit required documents including proof of identity, address, and business registration. 4. Await verification and approval from the designated authority. 5. Upon approval, deploy Wi-Fi access points and integrate with the PM-WANI ecosystem for authentication and service delivery.",
+  "application_portal_url": "https://dot.gov.in/pm-wani",
+  "required_documents": [
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Proof of address",
+    "Business registration certificate",
+    "Bank account details",
+    "Technical details of Wi-Fi equipment to be deployed"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications",
+  "contact_details": "",
+  "caveats": [
+    "No direct financial subsidy or grant is provided under the scheme",
+    "Entities must bear the cost of setting up and maintaining Wi-Fi infrastructure",
+    "Compliance with technical guidelines and security standards is mandatory",
+    "Revenue generation depends on user adoption and service usage"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/pm-wani",
+    "https://dot.gov.in/offerings"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:07:12.137703+00:00"
+}

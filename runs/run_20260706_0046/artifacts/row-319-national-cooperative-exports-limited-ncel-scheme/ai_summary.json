@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-319",
+  "scheme_name": "National Cooperative Exports Limited (NCEL) Scheme",
+  "scheme_url": "https://www.nafed-india.com",
+  "ministry_or_category": "Cooperative Sector",
+  "overview": "The National Cooperative Exports Limited (NCEL) Scheme is a government initiative aimed at promoting cooperative exports, particularly in the agricultural sector, by leveraging NAFED's infrastructure and expertise. It supports Farmer Producer Organizations (FPOs) and cooperative societies in accessing international markets through market linkages, quality assurance, and export facilitation. The scheme aligns with the vision of 'Sahakar se Samriddhi' and contributes to doubling farmers' income by enhancing their participation in global value chains.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "FPOs",
+    "cooperative societies",
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote cooperative exports through Farmer Producer Organizations (FPOs)",
+    "Strengthen market linkages for agricultural cooperatives in international trade",
+    "Support value addition and quality certification for export-oriented produce",
+    "Facilitate access to global markets for small and marginal farmers",
+    "Enhance farmers' income through export opportunities",
+    "Promote sustainable and ethical agricultural practices for global compliance",
+    "Build capacity of cooperatives in export documentation and logistics",
+    "Create brand identity for Indian cooperative products in global markets"
+  ],
+  "eligibility": "Eligible beneficiaries include Farmer Producer Organizations (FPOs), cooperative societies, and agricultural producer collectives registered under relevant Acts, engaged in production and processing of agricultural commodities for export, with valid documentation and compliance with quality and food safety standards.",
+  "benefits": "Benefits include access to international markets, technical support for quality compliance, branding and packaging assistance, export documentation facilitation, logistics support, market intelligence, and convergence with other government schemes like FPO promotion and organic farming missions.",
+  "financial_support": "Financial support is provided through convergence with existing schemes such as the Formation and Promotion of 10,000 FPOs, MIDH, and PSF, including matching equity, grants for infrastructure, and subsidy for certification and branding, though specific quantum under NCEL is not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register as an FPO or cooperative society under the relevant Act. 2. Engage with NAFED as the National Implementing Agency for export promotion. 3. Submit product details and quality compliance documents. 4. Undergo capacity building and training on export procedures. 5. Receive support for branding, packaging, and market linkage. 6. Export facilitation through NAFED’s international trade network and portals like e-Samridhi and NAFEX.",
+  "application_portal_url": "https://nafex.in/#/",
+  "required_documents": [
+    "Registration certificate of FPO/cooperative society",
+    "PAN of the entity",
+    "Bank account details",
+    "Product details and quality certification",
+    "Export licence (if applicable)",
+    "GST registration",
+    "Board resolution authorizing export activity",
+    "Details of production capacity and raw material sourcing"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Agricultural Cooperative Marketing Federation of India Ltd. (NAFED)",
+  "contact_details": "Email: mdcell@nafed-india.com | Telephone: EPABX: 011-26340019",
+  "caveats": [
+    "Export benefits are subject to compliance with international quality and phytosanitary standards",
+    "Support is contingent on active participation in NAFED-led FPO and cooperative development programs",
+    "Financial assistance is routed through converging schemes and not direct grants under NCEL",
+    "Benefits may vary based on commodity type and export destination"
+  ],
+  "source_cited_notes": [
+    "https://nafed-india.com/public/20250527110540.pdf",
+    "https://nafed-india.com/public/tender/1/2026-07/2026-07-05_23-36-07.pdf",
+    "https://nafed-india.com/public/tender/1/2026-07/2026-07-05_23-34-33.pdf",
+    "https://nafed-india.com/public/media_library/1/English-2024-25.pdf",
+    "https://nafed-india.com/public/media_library/1/AR.pdf"
+  ],
+  "last_updated_date": "2024-25",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:20:08.273411+00:00"
+}

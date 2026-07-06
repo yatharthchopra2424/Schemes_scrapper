@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-176",
+  "scheme_name": "Handloom Weavers Comprehensive Welfare Scheme",
+  "scheme_url": "https://handlooms.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Handloom Weavers Comprehensive Welfare Scheme (HWCWS) is a component of the National Handloom Development Programme (NHDP) aimed at ensuring the welfare of handloom workers through provision of life and financial support to indigent handloom awardees. It is implemented by the Office of the Development Commissioner for Handlooms under the Ministry of Textiles. The scheme targets handloom weavers and their families, particularly those from disadvantaged sections of society, to provide social security and improve their livelihoods.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "handloom weavers",
+    "women",
+    "SC/ST",
+    "transgender",
+    "allied workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To ensure welfare of handloom workers through provision of life & accidental insurance cover",
+    "To provide scholarships for school and higher education to the wards of handloom workers",
+    "To provide financial support to indigent handloom awardees",
+    "To enhance capabilities including social security, better healthcare, life insurance, work sheds",
+    "To ensure easy credit flow at low interest rate",
+    "To provide easy access to raw material at subsidized prices",
+    "To develop a strong, competitive and vibrant handloom sector",
+    "To provide sustainable employment to handloom weavers particularly belonging to disadvantaged sections"
+  ],
+  "eligibility": "Handloom weavers and allied workers engaged in pre-loom (winding, warping, dyeing etc.) and post-loom activities (finishing, calendaring etc.), including Self Help Groups, producer companies, and other handloom agencies, particularly those belonging to disadvantaged sections of society such as SC, ST, women, transgender, and differently-abled individuals.",
+  "benefits": "Life and accidental insurance cover under Pradhan Mantri Jeevan Jyoti Bima Yojana and Pradhan Mantri Suraksha Bima Yojana, scholarships for school and higher education for wards of weavers, financial support to indigent handloom awardees, easy access to raw material at subsidized prices, enhanced capabilities including social security, better healthcare, life insurance, work sheds, and easy credit flow at low interest rate.",
+  "financial_support": "Financial support is provided through life and accidental insurance coverage, scholarships for education of wards, and direct financial assistance to indigent handloom awardees. The scheme operates under the National Handloom Development Programme (NHDP) and is implemented via State Directorates of Handlooms and Textiles, Weavers' Service Centres, and other eligible handloom agencies. Funds are released in installments based on utilization certificates and project progress.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Directorate of Handlooms and Textiles submits project proposals to the Office of the Development Commissioner for Handlooms (O/o DC HL). 2. Proposals are scrutinized and approved by O/o DC HL based on recommendations from State Level Project Committees (SLPC). 3. Funds are released in two equal installments: 50% of GoI share as advance, and the second installment upon receipt of Utilization Certificate (UC) for at least 70% of the first installment. 4. Implementation is carried out by State Directorates, Weavers' Service Centres, National/State Level Handloom Organizations, Apex/Primary Handloom Weavers’ Co-operative Societies, Self Help Groups, and Producers’ Companies. 5. Monitoring and evaluation are conducted by State Implementation Monitoring & Review Committee (SIMRC) and National Implementation Monitoring & Review Committee (NIMRC).",
+  "application_portal_url": "",
+  "required_documents": [
+    "Minutes of SLPC duly signed by the Chairman and Members",
+    "Baseline Survey in prescribed proforma (Annexure A1)",
+    "Diagnostic study and Intervention-wise Action Plan (Annexure A2)",
+    "Profile of IA indicating name, address, contact, PAN/TAN, Bank account details (Annexure A3)",
+    "Profit & Loss Account and Balance Sheet of IA for last two years (if applicable)",
+    "Score pattern for grading and certificate of registration on NITI Aayog Darpan Portal (if IA is NGO)",
+    "List of weavers for availing benefit of individual interventions (Annexure A7(I))",
+    "Details of land for Common workshed with area, location, and title documents",
+    "Cost break-up, lighting capacity, warranty, and installation details for Solar Lighting System"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year as per State Directorate timelines.",
+  "implementing_agency": "Office of the Development Commissioner for Handlooms, Ministry of Textiles",
+  "contact_details": "Email: wscguw@gmail.com (example from WSC Guwahati) | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Funds are released only upon receipt of Utilization Certificate showing at least 70% utilization of first installment",
+    "Land cost is excluded from GoI funding for certain interventions",
+    "NGOs must be registered on NITI Aayog Darpan Portal and submit PAN and Aadhar of trustees",
+    "Profit & Loss Account and Balance Sheet required for last two years unless IA is Central/State Govt. office like WSC/IIHT or State Directorate",
+    "At least 50% of weavers in the cluster must be non-members of the Implementing Agency"
+  ],
+  "source_cited_notes": [
+    "https://handlooms.nic.in/assets/img/Handloom Schemes/NHDP_English Compendium_2024.pdf",
+    "https://handlooms.nic.in/assets/img/Statistics/2486.pdf",
+    "https://handlooms.nic.in/assets/img/About Us/Vision and Mission/vision_and_mission.php"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:54:35.239700+00:00"
+}

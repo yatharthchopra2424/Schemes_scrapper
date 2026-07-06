@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-461",
+  "scheme_name": "National Action Plan on Climate Change (NAPCC) Schemes",
+  "scheme_url": "https://moef.gov.in/napcc",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "The National Action Plan on Climate Change (NAPCC) is a comprehensive framework launched by the Government of India to address climate change through eight national missions focusing on solar energy, enhanced energy efficiency, sustainable habitat, water, sustaining the Himalayan ecosystem, Green India, sustainable agriculture, and strategic knowledge for climate change. It aims to promote ecological sustainability while supporting economic development.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "agri-startups",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote understanding of climate change, adaptation and mitigation, energy efficiency and natural resource conservation",
+    "Enhance ecological sustainability of India's development path",
+    "Achieve sustained economic growth while addressing climate change concerns",
+    "Promote advanced research on climate change",
+    "Enhance and improve natural resource conservation",
+    "Develop and deploy new technologies for climate change mitigation and adaptation",
+    "Create awareness among stakeholders about climate change impacts and responses",
+    "Strengthen institutional and individual capacity to address climate change"
+  ],
+  "eligibility": "The NAPCC is a policy framework and not a direct beneficiary scheme; its missions are implemented by various central ministries and state governments, with benefits flowing to sectors such as renewable energy, agriculture, water, forestry, and urban development through respective mission guidelines.",
+  "benefits": "The NAPCC provides a coordinated approach to climate action, enabling access to financial and technical support under its eight missions, promoting renewable energy adoption, energy efficiency, sustainable agriculture, water conservation, afforestation, and climate-resilient infrastructure development across sectors.",
+  "financial_support": "Financial support under NAPCC is channeled through its eight national missions, each with dedicated budget allocations; for example, the National Solar Mission and National Mission on Enhanced Energy Efficiency have specific funding mechanisms, while others rely on central and state budgetary provisions, external funding, and public-private partnerships.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "As NAPCC is an overarching policy framework comprising multiple missions, there is no single application process; interested entities must apply to individual missions (e.g., Jawaharlal Nehru National Solar Mission, National Mission for a Green India) through their respective implementing agencies and portals.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Varies by mission; each of the eight national missions under NAPCC has its own timelines and application windows.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "contact_details": "",
+  "caveats": [
+    "NAPCC is a policy framework; direct benefits depend on specific mission guidelines and implementation",
+    "Funding and support are mission-specific and not centralized under a single NAPCC window",
+    "State-level implementation may vary based on state action plans for climate change"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in/",
+    "https://moef.gov.in/schemes-and-programmes"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:42:38.208590+00:00"
+}

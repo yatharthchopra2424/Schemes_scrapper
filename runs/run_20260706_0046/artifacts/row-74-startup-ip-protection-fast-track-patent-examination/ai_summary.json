@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-74",
+  "scheme_name": "Startup IP Protection – Fast Track Patent Examination",
+  "scheme_url": "https://ipindia.gov.in",
+  "ministry_or_category": "Intellectual Property",
+  "overview": "The Startup IP Protection – Fast Track Patent Examination scheme is designed to expedite the patent examination process for startups in India. It enables eligible startups to avail of accelerated examination of their patent applications, reducing the time taken for grant. The scheme is part of the broader Intellectual Property Protection (SIPP) initiative under the Department for Promotion of Industry and Internal Trade (DPIIT).",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To reduce the time taken for patent examination for startups",
+    "To encourage innovation and IP filing among startups",
+    "To provide expedited examination under the SIPP scheme",
+    "To support startups in securing early patent rights",
+    "To align with national goals of fostering innovation and entrepreneurship"
+  ],
+  "eligibility": "Startups recognized by DPIIT are eligible to avail of the fast track patent examination facility under the Startup Intellectual Property Protection (SIPP) scheme. The applicant must be a DPIIT-recognized startup and must submit Form 28 (Declaration for Startups) along with the patent application.",
+  "benefits": "Expedited examination of patent applications, leading to faster grant of patents. Startups also benefit from an 80% rebate on official fees for patents, designs, and trademarks under the SIPP scheme. The facility helps in early protection of innovations, which is crucial for attracting investment and commercialization.",
+  "financial_support": "The scheme provides an 80% rebate on official fees for patent filing, examination, and related procedures for DPIIT-recognized startups. There is no direct grant or loan; the support is in the form of fee reduction. The exact quantum depends on the number of claims, pages, and other factors as per the First Schedule of the Patents Rules.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain DPIIT recognition as a startup via the Startup India portal. 2. Prepare the patent application with Form 1 (Application for Grant of Patent) and Form 2 (Provisional/Complete Specification). 3. Fill and submit Form 28 (Declaration for Startups) to avail of startup benefits. 4. File the application online through the IP India e-filing portal or physically at the appropriate patent office. 5. Pay the prescribed fees (with 80% rebate applicable for startups). 6. Request expedited examination by filing Form 18A (Request for Expedited Examination). 7. Track application status via the IP India portal. 8. Respond to examination reports (FER) within the prescribed time. 9. Upon compliance, the patent proceeds to grant and publication.",
+  "application_portal_url": "https://ipindia.gov.in",
+  "required_documents": [
+    "Form 1: Application for Grant of Patent",
+    "Form 2: Provisional/Complete Specification",
+    "Form 3: Statement and Undertaking under Section 8",
+    "Form 5: Declaration as to Inventorship",
+    "Form 28: Declaration for Startups (to be submitted for claiming startup status)",
+    "Form 18A: Request for Expedited Examination of Application for Patent",
+    "Priority documents (if claiming priority)",
+    "Drawings and abstract (as applicable)",
+    "Power of authority (if filed through patent agent)",
+    "Proof of DPIIT recognition (startup recognition certificate)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "The 80% fee rebate is available only for DPIIT-recognized startups",
+    "Form 28 must be submitted to avail of startup benefits",
+    "Expedited examination under Form 18A is not available in physical filing mode; only e-filing is allowed",
+    "The benefit is available only for a limited period as per the startup's eligibility (turnover < INR 100 Cr and age < 10 years)",
+    "The scheme does not provide financial grant; only fee reduction is offered"
+  ],
+  "source_cited_notes": [
+    "https://ipindia.gov.in",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/bf10437e-a59f-4cfe-bc09-e1ee3e15602d.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/86c74a8b-b029-4b79-812a-d260b2f90368.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/4652ade0-c8b8-487b-95a4-6fea424590a0.pdf",
+    "https://ipindia.gov.in/storage/uploads/docs-operator/3a58952a-2f82-40c7-8e61-36c192f0762a.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:03:19.717712+00:00"
+}

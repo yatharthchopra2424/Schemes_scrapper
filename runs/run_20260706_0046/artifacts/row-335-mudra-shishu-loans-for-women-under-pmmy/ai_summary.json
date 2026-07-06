@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-335",
+  "scheme_name": "Mudra Shishu Loans for Women (Under PMMY)",
+  "scheme_url": "https://www.mudra.org.in",
+  "ministry_or_category": "Women Entrepreneurship",
+  "overview": "Mudra Shishu Loans for Women (Under PMMY) is a component of the Pradhan Mantri Mudra Yojana (PMMY) launched on April 8, 2015, providing loans up to ₹50,000 to non-corporate, non-farm small/micro enterprises, with a focus on women entrepreneurs. The scheme operates through a refinancing model where MUDRA extends refinance support to Banks, NBFCs, and MFIs, which in turn lend to beneficiaries. It aims to promote inclusive and sustainable entrepreneurial culture, particularly among women and weaker sections of society.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "women entrepreneurs",
+    "micro enterprises",
+    "small businesses",
+    "non-corporate entities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To create an inclusive, sustainable and value-based entrepreneurial culture",
+    "To provide funding support to the non-corporate small business sector through last-mile financial institutions",
+    "To extend refinance support to Banks, NBFCs, and MFIs for lending to micro units",
+    "To monitor the implementation of PMMY through a dedicated portal",
+    "To facilitate credit access for women entrepreneurs and weaker sections (SC/ST/OBC)",
+    "To promote financial inclusion and livelihood generation at the grassroots level"
+  ],
+  "eligibility": "Any Indian Citizen who has a business plan for a non-farm income generating activity such as manufacturing, processing, trading or service sector whose credit need is up to 20 lakh can approach either a Bank, MFI or NBFC for availing of MUDRA loans under PMMY. The usual terms and conditions of the lending agency may have to be followed for availing of loans under PMMY.",
+  "benefits": "Access to collateral-free loans up to ₹20 lakh under PMMY (with Shishu category covering up to ₹50,000), availability through Banks, NBFCs, and MFIs, online application via Udyamimitra portal, no agents or middlemen engaged by MUDRA, interest subvention schemes for specific categories (e.g., 2% for Shishu loans under Aatmanirbhar Bharat Package), and support for income-generating activities in manufacturing, processing, trading, service, and agri-allied sectors.",
+  "financial_support": "MUDRA provides refinance support to Banks/NBFCs/MFIs for lending to micro units having loan requirements up to ₹20 lakh. The refinance is available for term loan and working capital loan up to an amount of ₹20 lakh per unit. MUDRA does not exceeding the sanctioned limit. The eligible Banks/NBFCs/MFIs, who comply with the requirements as notified, can avail refinance from MUDRA for the loans given by them for eligible MUDRA compliant activities under Shishu, Kishore, Tarun and Tarun Plus categories.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to ₹50,000",
+  "application_process": "1. Approach any of the lending institutions (Commercial Banks, RRBs, Small Finance Banks, MFIs, NBFCs) mentioned above. 2. Alternatively, apply online through the Udyamimitra portal (www.udyamimitra.in). 3. Submit the required documents as per the lending institution's guidelines. 4. Await approval and disbursement from the lending institution.",
+  "application_portal_url": "https://www.udyamimitra.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Micro Units Development & Refinance Agency Ltd. (MUDRA)",
+  "contact_details": "",
+  "caveats": [
+    "MUDRA does not lend directly to micro entrepreneurs/individuals; it provides refinance to lending institutions",
+    "There are no agents or middlemen engaged by MUDRA for availing of Mudra Loans",
+    "Borrowers are advised to keep away from persons posing as Agents/facilitators of MUDRA/PMMY",
+    "Loans are restricted to non-farm income generating activities",
+    "The Shishu category covers loans up to ₹50,000 only"
+  ],
+  "source_cited_notes": [
+    "https://mudra.org.in",
+    "https://mudra.org.in/FAQ",
+    "https://mudra.org.in/Offerings",
+    "https://mudra.org.in/Default/DownloadFile/Annual-Report-2023-24.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:31:13.271918+00:00"
+}

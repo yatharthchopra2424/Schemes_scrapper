@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-109",
+  "scheme_name": "MNRE Off-grid Solar Power Schemes",
+  "scheme_url": "https://mnre.gov.in",
+  "ministry_or_category": "Carbon & Environment",
+  "overview": "The MNRE Off-grid Solar Power Schemes support decentralized solar energy solutions for areas without reliable grid access. These schemes aim to promote solar electrification in rural and remote regions through financial assistance and implementation support. They focus on standalone solar systems, solar pumps, and other off-grid applications to enhance energy access and sustainability.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural households",
+    "farmers",
+    "remote communities",
+    "off-grid areas"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide electricity access to unelectrified households and villages",
+    "Promote solar-powered irrigation through solar water pumps",
+    "Support decentralized renewable energy applications in remote areas",
+    "Reduce dependence on diesel generators and fossil fuels in off-grid settings",
+    "Enhance livelihoods and productivity through reliable solar power supply"
+  ],
+  "eligibility": "Beneficiaries include individuals, farmers, cooperatives, panchayats, and government institutions in off-grid or poorly electrified areas. Systems must comply with MNRE technical standards and be installed by authorized channel partners. Priority is given to SC/ST, women, and border regions.",
+  "benefits": "Financial subsidies for solar home lights, solar street lights, solar pumps, and mini-grids; reduced electricity costs; reliable power supply; environmental benefits through reduced emissions; and support for agricultural productivity via solar-powered irrigation.",
+  "financial_support": "Central Financial Assistance (CFA) is provided as a subsidy ranging from 30% to 90% of the benchmark cost, depending on beneficiary category and region (e.g., higher for NE/hilly/island areas). Funds are disbursed through State Nodal Agencies or implementing agencies after installation and inspection.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible off-grid solar system (home light, street light, pump, etc.) 2. Contact State Nodal Agency or authorized channel partner 3. Submit application with required documents 4. System installed by authorized vendor 5. Inspection by concerned authority 6. Subsidy disbursed to beneficiary or vendor",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of identity (Aadhaar/Voter ID/PAN)",
+    "Proof of address",
+    "Land ownership or consent document (for community/installation site)",
+    "Technical specification of the proposed system",
+    "Bank account details for subsidy transfer",
+    "Photographs of installation site (before and after)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE)",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is limited to approved models and manufacturers under ALMM",
+    "Systems must be installed by MNRE-authorized channel partners",
+    "Beneficiary must not have availed subsidy for the same purpose under any other government scheme",
+    "Post-installation monitoring and maintenance responsibility lies with the beneficiary"
+  ],
+  "source_cited_notes": [
+    "https://mnre.gov.in/",
+    "https://mnre.gov.in/en/",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/03/202603191833866183.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:22:27.138126+00:00"
+}

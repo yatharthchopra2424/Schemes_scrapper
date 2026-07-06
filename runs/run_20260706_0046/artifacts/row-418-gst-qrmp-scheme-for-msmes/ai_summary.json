@@ -1,0 +1,42 @@
+{
+  "scheme_id": "row-418",
+  "scheme_name": "GST QRMP Scheme for MSMEs",
+  "scheme_url": "https://www.gst.gov.in/qrmp",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "The GST QRMP Scheme for MSMEs allows eligible small taxpayers to file GSTR-3B and GSTR-1 returns on a quarterly basis while paying taxes monthly. It is designed to reduce compliance burden for small businesses by simplifying return filing frequency. Taxpayers under this scheme must pay tax through Form PMT-06 for the first two months of each quarter and file returns only once per quarter. The scheme is optional and available to taxpayers with an aggregate annual turnover of up to INR 5 crores.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce compliance burden for small taxpayers",
+    "Allow quarterly filing of GSTR-1 and GSTR-3B returns",
+    "Enable monthly tax payment via PMT-06 for better cash flow management",
+    "Simplify GST return process for MSMEs with turnover up to INR 5 crores"
+  ],
+  "eligibility": "Taxpayers having an aggregate annual turnover of up to INR 5 crores in the preceding financial year are eligible to opt into the QRMP scheme. The scheme is optional and applies to all categories of registered taxpayers under GST, including MSMEs, who wish to file returns quarterly while paying tax monthly.",
+  "benefits": "Quarterly filing of GSTR-1 and GSTR-3B returns reduces the frequency of return submission from monthly to quarterly. Taxpayers pay tax monthly using Form PMT-06, ensuring steady cash outflow compliance. The scheme reduces the administrative burden of frequent filings while maintaining regular tax payment discipline. It is particularly beneficial for small businesses seeking simpler compliance under GST.",
+  "financial_support": "The QRMP scheme does not provide direct financial support, subsidies, or grants. Instead, it offers a procedural benefit by allowing eligible taxpayers to file returns quarterly while continuing to pay tax on a monthly basis through Form PMT-06. There is no fund allocation, grant amount, or loan component associated with this scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Log in to the GST portal at https://www.gst.gov.in. 2. Navigate to the 'Services' section. 3. Select 'Returns' > 'Quarterly Return Monthly Payment (QRMP)'. 4. Opt into the QRMP scheme for the desired quarter. 5. Confirm selection and save the choice. 6. For the first two months of the quarter, pay tax using Form PMT-06. 7. At the end of the quarter, file GSTR-1 and GSTR-3B returns quarterly.",
+  "application_portal_url": "https://www.gst.gov.in/",
+  "required_documents": [],
+  "deadlines": "Tax payment via PMT-06 is due monthly by the 25th of the following month. Quarterly returns (GSTR-1 and GSTR-3B) must be filed by the 22nd or 24th of the month following the quarter, depending on the taxpayer's category and state/UT. The option to opt into or opt out of the QRMP scheme must be exercised before the last day of the opening month of a quarter.",
+  "implementing_agency": "Goods and Services Tax Network (GSTN) under the oversight of the GST Council and the Central Board of Indirect Taxes and Customs (CBIC)",
+  "contact_details": "Help Desk Number: 1800-103-4786",
+  "caveats": [
+    "Taxpayers must pay tax monthly using Form PMT-06 for the first two months of each quarter",
+    "Failure to pay monthly tax via PMT-06 may attract interest and penalties",
+    "The quarterly return filing facility is only available if monthly tax payments are made on time",
+    "Opting out of the scheme is allowed only at the start of a quarter",
+    "Not available to taxpayers under the composition scheme"
+  ],
+  "source_cited_notes": [
+    "https://www.gst.gov.in/"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:23:45.485606+00:00"
+}

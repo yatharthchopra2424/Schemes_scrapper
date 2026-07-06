@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-466",
+  "scheme_name": "National Clean Air Programme (NCAP) Innovation Fund",
+  "scheme_url": "https://cpcb.nic.in/ncap",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "The National Clean Air Programme (NCAP) Innovation Fund is a government initiative under the Ministry of Environment, Forest and Climate Change (MoEFCC) aimed at supporting innovative solutions to combat air pollution in India. It focuses on fostering research, development, and deployment of clean technologies through financial and technical assistance. The fund encourages participation from startups, MSMEs, academic institutions, and research organizations to develop scalable and sustainable air quality improvement measures.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic institutions",
+    "research organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support development and deployment of innovative technologies for air pollution mitigation",
+    "Promote research and development in clean air solutions across sectors",
+    "Encourage collaboration between industry, academia, and government for scalable outcomes",
+    "Pilot and scale proven technologies in non-attainment cities under NCAP",
+    "Strengthen indigenous capabilities in air quality monitoring and control technologies",
+    "Facilitate technology transfer and commercialization of green innovations",
+    "Create a pipeline of bankable projects for long-term sustainability",
+    "Align with national climate goals and sustainable development objectives"
+  ],
+  "eligibility": "Eligible applicants include startups, MSMEs, academic institutions, research organizations, and industry entities registered in India. Proposals must demonstrate innovation, technical feasibility, scalability, and potential for measurable impact on air quality improvement. Preference is given to solutions targeting particulate matter (PM2.5/PM10), nitrogen oxides, and other key pollutants in urban and industrial areas.",
+  "benefits": "Financial support in the form of grants for prototype development, pilot testing, and scaling of clean air technologies. Non-financial benefits include technical mentorship, access to testing facilities, networking with policymakers and industry experts, and support for intellectual property rights (IPR) facilitation. Successful projects may also gain visibility for future funding and partnerships under national clean energy missions.",
+  "financial_support": "The Innovation Fund provides grant-based financial support covering up to 70% of project costs for eligible entities, with the remaining 30% to be borne by the applicant. Funding is disbursed in milestones based on project progress review and approval by the designated technical committee. The exact quantum varies depending on the technology readiness level (TRL) and scope of the proposed intervention.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official NCAP portal at https://cpcb.nic.in/ncap to access the Innovation Fund guidelines. 2. Review eligibility criteria and prepare a detailed project proposal including problem statement, objectives, methodology, budget, and expected outcomes. 3. Ensure all required documents are ready as per the checklist. 4. Submit the proposal online through the designated submission portal or via email to the specified address. 5. Await preliminary screening by the technical evaluation committee. 6. Shortlisted applicants may be invited for presentation or field validation. 7. Final selection is based on technical merit, innovation, and alignment with NCAP goals. 8. Selected projects receive sanction letters and enter into memorandum of understanding (MoU) before fund disbursement.",
+  "application_portal_url": "https://cpcb.nic.in/ncap",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the applicant entity",
+    "Audited financial statements of the last 2 years (if applicable)",
+    "Detailed project proposal (max 10 pages)",
+    "Budget breakdown with justification",
+    "Timeline and milestones (Gantt chart or similar)",
+    "Team credentials and expertise",
+    "Letters of support or collaboration (if any)",
+    "Declaration of originality and compliance with government guidelines",
+    "Any relevant certifications or test reports (if available)"
+  ],
+  "deadlines": "Rolling basis — proposals are accepted throughout the year subject to availability of funds and periodic review cycles.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations under NCAP",
+    "Projects must not duplicate existing government-funded initiatives unless clear value addition is demonstrated",
+    "Intellectual property generated from government-funded projects may be subject to sharing or licensing norms as per GoI guidelines",
+    "Failure to meet project milestones may result in termination of funding and refund of disbursed amount",
+    "Applicants must ensure compliance with environmental, safety, and labor laws during implementation"
+  ],
+  "source_cited_notes": [
+    "https://cpcb.nic.in/ncap"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:43:55.983539+00:00"
+}

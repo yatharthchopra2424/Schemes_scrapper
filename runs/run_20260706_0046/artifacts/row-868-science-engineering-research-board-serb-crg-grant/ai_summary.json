@@ -1,0 +1,69 @@
+{
+  "scheme_id": "row-868",
+  "scheme_name": "Science & Engineering Research Board (SERB) CRG Grant",
+  "scheme_url": "https://www.serbonline.in",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The Science & Engineering Research Board (SERB) CRG Grant is part of the Anusandhan National Research Foundation (ANRF) framework, established under the ANRF Act, 2023, to support investigator-driven research in natural sciences, engineering, technology, and interdisciplinary domains. It aims to strengthen India’s R&D ecosystem, promote high-impact and transformative research, and align with national goals like Viksit Bharat 2047. The grant supports fundamental frontier research, use-inspired basic research, and applied/translational research with emphasis on outcomes, impact, and collaboration across academia, industry, and government.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "researchers",
+    "academicians",
+    "scientists",
+    "faculty members",
+    "post-doctoral fellows",
+    "research scholars"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support high impact research that strengthens India’s R&D ecosystem and contributes to elevating the country’s global standing in science, technology, and innovation",
+    "Enable investigator-driven (individual and small team) research across foundational, applied, and translational domains",
+    "Strengthen core scientific domains by supporting fundamental frontier research with potential for transformative long-term impact",
+    "Catalyse interdisciplinary research and cross-sectoral collaboration, fostering convergence across disciplines to address complex scientific questions",
+    "Promote early-stage academia–industry–research ecosystem collaboration to accelerate translation, technology development, and societal impact"
+  ],
+  "eligibility": "Applicants (Principal Investigator and Co-Principal Investigator(s)) must be Indian citizens; foreign nationals (including OCI and NRI) are eligible if they meet notified criteria. Applicants must hold a Ph.D. in Sciences, Mathematics, and Engineering, or M.D./M.S./M.D.S./M.V.Sc. with two years post-degree experience. Under Quantitative Social Sciences, PI/Co-PI must hold Ph.D. in Science, Mathematics, Engineering, M.D./M.S./M.D.S./M.V.Sc., or Ph.D. in any Social Sciences. Applicants must hold a regular position in a recognized academic institution, National Research Laboratory, or recognized research organization in India. Private academic institutions with UGC/AICTE/PCI approval, private R&D institutions with DSIR-SIRO recognition, and NGOs registered under NITI-AAYOG Darpan portal with DSIR SIRO recognition are eligible to host projects. Research Associates, Post-doctoral fellows, Ad-hoc/Guest faculties, Visiting Scientists, Consultants, Project Fellows, and those with annually renewed contracts are not eligible. INSPIRE, Ramanujan, and Ramalingaswamy Fellowship holders are eligible as PI/Co-PI if meeting service criteria. PI must have at least 'project duration plus one year' of service remaining; superannuating PIs may apply if a Co-PI with sufficient service is associated. Investigators cannot hold more than two ANRF (or erstwhile SERB) projects simultaneously. Eligibility for another project arises six months after completion of ongoing project.",
+  "benefits": "Financial support for project execution; flexibility in utilizing funds under recurring head for research personnel, consumables, travel, field work, contingencies, cloud compute credits, software licenses, publication costs, and analytical/facility access charges; support for non-recurring heads including equipment, software, and long-term cloud/remote facility access; travel budget up to Rs. 5 Lakhs; contingency funds up to Rs. 5 Lakhs (usable for international conference registration); permission for open access publication and patent filing charges from recurring head; industry/international collaboration encouraged with cost-sharing optional; administrative responsibility with host institution, technical responsibility with PI; funding disbursed to PI’s institution and up to two additional institutions; impact assessment scorecard with real-time dashboard; requirement to share data in appropriate depositories and pre-prints in public domain.",
+  "financial_support": "The upper limit for project funding under the ARG Program is ₹ 5 Crores. The research grant is provided under two budget heads: Recurring (research personnel, consumables, travel, field work, contingencies, cloud compute credits, software licenses, publication costs, analytical/facility access charges) and Non-Recurring (equipment, software purchases, long-term cloud/remote facility access). No reallocation of funds between recurring and non-recurring heads is permissible. Operational flexibility is available under recurring head subject to norms. Travel budget: up to Rs. 5 Lakhs. Contingency: up to Rs. 5 Lakhs. Publication and patent filing charges permitted from recurring head. Equipment changes require prior ANRF approval. For projects over ₹1 Cr, Co-PI from PI’s institution is mandatory. Funding is disbursed to the PI’s institution and up to two additional institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "₹ 5 Crores",
+  "application_process": "1. Visit www.anrfonline.in to access the proposal submission portal. 2. Register as a new user if not already registered (PI/Co-PI/Mentor/Referee). 3. Fill registration form with required details and submit. 4. Click verification link sent to email to complete registration. 5. Log in and fill mandatory fields under User Profile (bio data, photo, institute address, etc.). 6. Prepare proposal with Project Title (max 500 chars), Project summary (max 3000 chars), Keywords (max 6), Objectives (max 1500 chars), Expected output/outcome (max 1500 chars), and Budget (Research Personnel, Consumables, Travel, Equipment, Contingency, Overheads). 7. Upload technical document (TD) as single PDF ≤10 MB. 8. Submit pre-proposal by deadline via www.anrfonline.in. 9. If shortlisted, submit full proposal. 10. Proposals undergo review by subject matter experts; PIs may be called for presentation. 11. Larger proposals (>₹1 Cr) undergo third-level evaluation by Empowered Technical Committee focusing on impact and collaboration depth.",
+  "application_portal_url": "https://www.anrfonline.in/",
+  "required_documents": [
+    "Biodata (under user profile section)",
+    "Certificate from Principal Investigator",
+    "Endorsement Letter from the Head of Institution",
+    "Category Certificate",
+    "Plagiarism undertaking",
+    "Project Title (max 500 characters)",
+    "Project summary (max 3000 characters)",
+    "Keywords (max 6)",
+    "Objectives of project (max 1500 characters)",
+    "Expected output and outcome of the proposal (max 1500 characters)",
+    "Budget details (Research Personnel, Consumables, Travel, Equipment, Contingency, Overheads)",
+    "Technical Document (TD) as single PDF file ≤10 MB"
+  ],
+  "deadlines": "Call for Proposals notified via www.anrfonline.in; specific windows vary by program (e.g., ARG: May 15–Jun 10, 2026; MAHA Water: Jun 1–Jul 10, 2026; Ramanujan Fellowship: Jan 1–Dec 31, 2026). Applications must be submitted within announced windows; no rolling basis mentioned for ARG in this evidence.",
+  "implementing_agency": "Anusandhan National Research Foundation (ANRF)",
+  "contact_details": "Dr. A.V. Balachandar (Scientist F) 011-26511091 venkatbala[at]serb[dot]gov[dot]in",
+  "caveats": [
+    "No reallocation of funds permitted between non-recurring and recurring heads",
+    "Investigators can hold maximum of two ANRF (or erstwhile SERB) projects at any point",
+    "PI who will be superannuating during project must associate a Co-PI with sufficient service remaining",
+    "ANRF projects not allowed to continue with PI or Co-PI aged 70 or above",
+    "Overlaps in proposals submitted to other GoI funding programs will be discouraged and not considered",
+    "ANRF’s decisions are final and binding; no requests for review or reconsideration entertained",
+    "For projects costing ₹1 Cr and above, inclusion of Co-PI from PI’s institution is mandatory",
+    "Honorary Investigators from industry/academia allowed without funding support",
+    "PI must ensure administrative nodal point of contact with host institution for ANRF coordination"
+  ],
+  "source_cited_notes": [
+    "https://serbonline.in/",
+    "https://serbonline.in/ANRF/registration_guidelines",
+    "https://serbonline.in/ANRF/arg_anrf?HomePage=New",
+    "https://serbonline.in/ANRF/inrg_anrf?HomePage=New",
+    "https://serbonline.in/ANRF/its"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:36:02.040917+00:00"
+}

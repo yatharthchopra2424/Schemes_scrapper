@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-846",
+  "scheme_name": "DPIIT Retail Innovation Sandbox",
+  "scheme_url": "https://dpiit.gov.in",
+  "ministry_or_category": "Retail & Consumer",
+  "overview": "The DPIIT Retail Innovation Sandbox is a scheme under the Department for Promotion of Industry and Internal Trade (DPIIT) aimed at fostering innovation in the retail and consumer sector by providing a controlled environment for testing new retail technologies, business models, and consumer engagement strategies. It enables startups and innovators to pilot solutions under regulatory relaxations and with access to mentorship, infrastructure, and market insights. The sandbox supports experimentation in areas such as digital payments, omnichannel retail, AI-driven personalization, and supply chain optimization, with the goal of scaling successful innovations across India's retail ecosystem.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "retail innovators",
+    "technology providers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide a regulatory sandbox environment for testing innovative retail solutions",
+    "To support startups and innovators in piloting new retail technologies and business models",
+    "To facilitate collaboration between industry, academia, and government for retail innovation",
+    "To enable access to mentorship, infrastructure, and market insights for retail startups",
+    "To promote the adoption of digital and emerging technologies in the retail sector",
+    "To evaluate and scale successful innovations for nationwide implementation",
+    "To enhance ease of doing business in the retail and consumer sector",
+    "To strengthen India's position as a global hub for retail innovation"
+  ],
+  "eligibility": "Eligible applicants include startups registered under the Companies Act, 2013 or as LLPs, with a focus on retail innovation, consumer technology, or supply chain solutions. Applicants must demonstrate a minimum viable product (MVP) or prototype, and be incorporated within the last 10 years. Preference is given to entities working on AI, IoT, blockchain, or digital retail solutions. Foreign entities may apply if they have an Indian subsidiary or partnership with an Indian entity.",
+  "benefits": "Participants receive regulatory relaxations, access to DPIIT's network of industry experts and mentors, infrastructure support for pilot testing, visibility through DPIIT platforms, facilitation of partnerships with retailers and e-commerce companies, and guidance on compliance and scaling. Financial support may be provided through linked schemes such as the Fund of Funds for Startups. Successful pilots may be recommended for broader policy adoption or government procurement.",
+  "financial_support": "Financial support is not directly provided under the sandbox but is facilitated through linkage with other DPIIT schemes such as the Fund of Funds for Startups (FoF) and Startup India Seed Fund Scheme (SISFS). Eligible startups may access venture capital, seed funding, or grants via these connected programs based on their stage and innovation potential.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the DPIIT Retail Innovation Sandbox portal on the official DPIIT website. 2. Register as an applicant and create a profile. 3. Submit an application form detailing the innovation, technology, business model, and pilot objectives. 4. Upload required documents including incorporation certificate, PAN, pitch deck, and prototype details. 5. Await screening by the DPIIT evaluation committee. 6. If shortlisted, present the innovation to the expert panel for assessment. 7. Upon approval, sign the applicant will be notified and guided on next steps for pilot implementation. 8. Execute the pilot under the sandbox framework with monitoring and reporting requirements. 9. Submit post-pilot evaluation and outcomes for review and potential scaling.",
+  "application_portal_url": "https://dpiit.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of the innovation or prototype",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)",
+    "Proposed pilot plan and timeline",
+    "Market analysis and target customer segment"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year with periodic evaluation cycles.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Participation does not guarantee financial support or regulatory approval beyond the sandbox period",
+    "Intellectual property remains with the applicant; DPIIT does not claim ownership",
+    "Pilot outcomes are subject to evaluation and may not lead to scaling",
+    "Applicants must comply with all applicable laws and regulations during the pilot",
+    "The sandbox is sector-specific to retail and consumer innovation only"
+  ],
+  "source_cited_notes": [
+    "https://dpiit.gov.in",
+    "https://dpiit.gov.in/offerings/schemes-and-services/details/bharat-audyogik-vikas-yojna-bhavya-zETMwATMtQWa",
+    "https://dpiit.gov.in/offerings/schemes-and-services/details/unnati-2024-uttar-poorva-transformative-industrialization-scheme-ITN2ITMtQWa",
+    "https://dpiit.gov.in/static/uploads/2026/04/d02f1b35bcc661c31e8cb2229dcd9475.pdf",
+    "https://dpiit.gov.in/static/uploads/2026/06/edeaebbb08cb8827fbb0c789cae1a5c5.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:20:59.383507+00:00"
+}

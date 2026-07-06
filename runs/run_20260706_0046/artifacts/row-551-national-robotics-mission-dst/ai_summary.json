@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-551",
+  "scheme_name": "National Robotics Mission (DST)",
+  "scheme_url": "https://dst.gov.in",
+  "ministry_or_category": "Innovation Ecosystem",
+  "overview": "The National Robotics Mission (DST) is a transformative initiative under the Department of Science & Technology (DST) aimed at catalyzing private sector participation in high-impact research and development, with a focus on strategic technologies including robotics. It seeks to strengthen India's capabilities in deep technologies, promote technological self-reliance, and align with the Atmanirbhar Bharat vision. The mission operates through the Research, Development, and Innovation (RDI) Scheme, which provides long-term loans, equity infusion, and contributions to Deep-Tech Fund of Funds, excluding grants and short-term loans.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "industry players",
+    "private sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Encouraging Private Sector Involvement: Incentivize active participation from industry players in cutting-edge research and innovation.",
+    "Promoting Strategic Technologies: Focus on mission-critical areas vital for national development and global competitiveness, including energy security and transition, climate action, deep technologies (quantum computing, robotics, space), AI applications in agriculture, health, education, biotechnology, biomanufacturing, synthetic biology, pharma, medical devices, and digital economy including digital agriculture.",
+    "Fostering Self-Reliance and Economic Security: Support technologies where indigenization is essential for strategic or economic reasons, in line with the vision of Atmanirbhar Bharat.",
+    "Ensure Flexibility in Sectoral Support: Allow support for any additional sectors or technologies deemed essential for public interest."
+  ],
+  "eligibility": "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs) in due course through separate advertisement. Eligible Technology Entities means any legal entity engaged in developing RDI-intensive technology (TRL4 and above), including companies registered under the Companies Act 2013, partnerships under the Indian Partnership Act 1932, limited liability partnerships under the Limited Liability Partnership Act 2008, and startups as defined in the Department for Promotion of Industry and Internal Trade Notification G.S.R. 127(E) dated 19 February 2019, engaged in scale-up of RDI-intensive technologies beyond Technology Readiness Level 4.",
+  "benefits": "Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS). Funding modes include long-term loan at low or nil interest rates, equity infusion (especially for startups), and contributions to Deep-Tech Fund of Funds. The scheme promotes technological self-reliance, strengthens capabilities in strategic technologies, and supports private sector participation in high-impact R&D.",
+  "financial_support": "Total Budget: ₹1 lakh crore. Modes of Financing: Long-term loan at low or nil interest rates. Equity infusion, especially in case of startups. Contributions to Deep-Tech Fund of Funds. Exclusions: Grants and short-term loans are not supported. Coverage: Financing can cover up to 50% of assessed project cost for transformative RDI projects at Technology Readiness Levels (TRLs) 4 and above; exceptions may be approved by the Empowered Group of Secretaries (EGoS).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "Industry stakeholders seeking funding for projects under the RDI scheme are requested not to send proposals or emails directly to DST. All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs) in due course through separate advertisement. Interested Second Level Fund Managers (SLFMs) are invited to express their interest in partnering with this fund by writing to Dr Jyoti Sharma, Head, RDI Cell at sharma[dot]jyoti[at]nic[dot]in. Existing NBFCs planning to establish AIFs are also encouraged to contact the Department of Science & Technology (DST) regarding potential participation.",
+  "application_portal_url": "https://rdifund.anrf.gov.in/",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Science & Technology (DST)",
+  "contact_details": "Email: sharma[dot]jyoti[at]nic[dot]in",
+  "caveats": [
+    "Grants and short-term loans are not supported under the RDI Scheme.",
+    "All disbursements will be routed exclusively through the designated Second-Level Fund Managers (SLFMs); direct proposals to DST are not accepted.",
+    "Financing is limited to up to 50% of assessed project cost for transformative RDI projects at TRL 4 and above, unless exceptions are approved by the Empowered Group of Secretaries (EGoS)."
+  ],
+  "source_cited_notes": [
+    "https://dst.gov.in/rdi-scheme/research-development-and-innovation-rdi-cell",
+    "https://rdifund.anrf.gov.in/"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:28:00.472481+00:00"
+}

@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-734",
+  "scheme_name": "Rubber Plantation Development Scheme",
+  "scheme_url": "https://rubberboard.gov.in",
+  "ministry_or_category": "Rubber & Plastics",
+  "overview": "The Rubber Plantation Development Scheme is a government initiative aimed at supporting rubber growers through financial assistance and technical guidance to enhance rubber cultivation and productivity. It focuses on providing subsidies, training, and infrastructure support to small and marginal farmers engaged in rubber plantation. The scheme is implemented by the Rubber Board under the Ministry of Commerce and Industry to strengthen the domestic rubber sector and improve livelihoods of plantation workers.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "small rubber growers",
+    "marginal farmers",
+    "plantation workers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase rubber productivity through scientific cultivation practices",
+    "Provide financial assistance for new plantation and replanting",
+    "Improve quality of rubber produce through training and extension services",
+    "Support small and marginal farmers with subsidies and inputs",
+    "Promote sustainable rubber farming practices",
+    "Enhance livelihoods of rubber tappers and plantation workers",
+    "Strengthen domestic rubber production to reduce import dependence"
+  ],
+  "eligibility": "Small and marginal rubber growers, plantation workers, and farmers engaged in rubber cultivation across India are eligible for assistance under the Rubber Plantation Development Scheme, subject to landholding limits and verification by the Rubber Board or its authorized agencies.",
+  "benefits": "Financial subsidies for planting material, land preparation, and maintenance; technical guidance on clonal selection and farming practices; training in rubber sheet processing and grading; access to soil and leaf testing facilities; support for pest and disease management; and assistance in accessing markets through market intelligence and price information services.",
+  "financial_support": "The scheme provides financial assistance in the form of subsidies for planting materials, land development, and maintenance activities, with specific quantum and disbursement mechanisms determined by the Rubber Board based on project proposals and field verification, though exact per-entity amounts and total fund size are not specified in the available evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Contact the Rubber Board or its regional offices for scheme details and application forms. 2. Submit application along with required documents including land ownership/lease proof and identity verification. 3. Undergo field verification by Rubber Board officials to assess eligibility and plantation suitability. 4. Receive approval and disbursement of subsidy in installments as per project progress. 5. Submit utilization reports and completion certificates for final settlement.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Land ownership or lease documents",
+    "Identity proof of applicant (Aadhaar, PAN, etc.)",
+    "Bank account details for subsidy transfer",
+    "Passport size photographs",
+    "Project proposal or plantation plan"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Rubber Board, Ministry of Commerce and Industry",
+  "contact_details": "Email: piyush[dot]goyal[at]gov[dot]in | Ph: 011 23039110, 011 23039111 (Minister's office) | Contact Call Centre for labour welfare schemes and financial assistance inquiries",
+  "caveats": [
+    "Subsidy disbursement is subject to field verification and progress reporting",
+    "Benefits may vary based on state-specific implementation and fund availability",
+    "Applicants must maintain plantation for a minimum period to retain eligibility",
+    "Scheme guidelines may be updated periodically by the Rubber Board"
+  ],
+  "source_cited_notes": [
+    "https://rubberboard.gov.in/",
+    "https://rubberboard.gov.in/public",
+    "https://rubberboard.gov.in/contactus?lang=E",
+    "https://rubberboard.gov.in/articleview?item_id=223320230509",
+    "https://rubberboard.gov.in/dailynews"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:26:55.719552+00:00"
+}

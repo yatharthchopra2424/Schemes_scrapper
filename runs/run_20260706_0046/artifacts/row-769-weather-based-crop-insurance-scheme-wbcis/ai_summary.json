@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-769",
+  "scheme_name": "Weather Based Crop Insurance Scheme (WBCIS)",
+  "scheme_url": "https://pmfby.gov.in",
+  "ministry_or_category": "Insurance",
+  "overview": "Weather Based Crop Insurance Scheme (WBCIS) aims to mitigate the hardship of insured farmers against financial loss from anticipated crop loss due to adverse weather conditions such as rainfall, temperature, wind, and humidity. It uses weather parameters as a proxy for crop yields to compensate cultivators for deemed crop losses. The scheme operates on an 'Area Approach' basis and is implemented through the National Crop Insurance Portal (NCIP). WBCIS is part of the broader Pradhan Mantri Fasal Bima Yojana (PMFBY) framework and is administered by the Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Mitigate financial loss of farmers due to anticipated crop loss from adverse weather conditions",
+    "Use weather parameters as proxy for crop yields to compensate cultivators",
+    "Provide financial support to farmers suffering crop loss/damage from unforeseen events",
+    "Stabilize farmers' income to ensure continuance in farming",
+    "Encourage adoption of innovative and modern agricultural practices",
+    "Ensure flow of credit to the agriculture sector",
+    "Promote innovation and research in insurance and allied products"
+  ],
+  "eligibility": "All farmers growing notified crops in a notified area during the season who have insurable interest in the crop are eligible. Compulsory coverage applies to loanee farmers (those with Crop Loan/KCC account) and voluntary coverage is available for non-loanee farmers with insurable interest.",
+  "benefits": "Financial support for crop loss due to weather perils; premium subsidy shared equally by Centre and State; use of technology for yield estimation and claim settlement; access to National Crop Insurance Portal for application and grievance redressal; coverage for prevented sowing, post-harvest losses, localized calamities, and yield losses; claim settlement based on actual weather data from notified Reference Weather Stations.",
+  "financial_support": "The Actuarial Premium Rate (APR) is charged by the Implementing Agency. The rate of insurance charges payable by farmers is: 2% of Sum Insured for Kharif foodgrain and oilseed crops, 1.5% for Rabi foodgrain and oilseed crops, and 5% for annual commercial/horticultural crops, whichever is less than the actuarial rate. The difference between the actuarial premium rate and the farmer's share is treated as normal premium subsidy, shared equally by Centre and State. Claims are settled based on actual weather data from Reference Weather Stations, with payouts calculated as per term sheets triggered by weather deviations.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the National Crop Insurance Portal (https://pmfby.gov.in). 2. Click on 'Farmer Corner' and select 'Apply for Crop Insurance by yourself'. 3. Enroll as a new user by selecting stakeholder type (e.g., Farmer). 4. Provide required details and upload necessary documents. 5. Submit the application and note the application ID for tracking. 6. Pay the applicable premium as per the notified rates. 7. Await confirmation and policy issuance.",
+  "application_portal_url": "https://pmfby.gov.in/selfRegistration",
+  "required_documents": [
+    "Land ownership or tenancy documents",
+    "Sowing declaration",
+    "Bank account details for premium payment and claim settlement",
+    "Identity proof (Aadhaar/Voter ID/PAN)",
+    "Crop details (name, variety, area sown)",
+    "Loan account/KCC details (for loanee farmers)"
+  ],
+  "deadlines": "Cut-off date for receipt of proposals: 31st July for Kharif season and 31st December for Rabi season. Declarations from loanee farmers must be submitted within 15 working days after cut-off date, and for non-loanee farmers within seven working days after cut-off date.",
+  "implementing_agency": "Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+  "contact_details": "Email: muktanand[dot]ias08[at]nic[dot]in | Telephone/landline: 23382444",
+  "caveats": [
+    "Claims are settled only based on actual data recorded by notified Reference Weather Stations (RWS)",
+    "No protocol to revise or alter actual weather data recorded by Reference AWS",
+    "Add-on coverage for perils like hailstorm or cloudburst is optional and premium borne by farmer",
+    "State Government must notify specific 'Adverse Weather Incidence' with timing/duration for each notified crop",
+    "Weather data must be uploaded on NCIP or submitted to insurance company within notified cut-off date"
+  ],
+  "source_cited_notes": [
+    "https://pmfby.gov.in/",
+    "https://pmfby.gov.in/selfRegistration",
+    "https://pmfby.gov.in/guidelines",
+    "https://pmfby.gov.in/aboutUs",
+    "https://pmfby.gov.in/faq",
+    "https://pmfby.gov.in/pdf/PMFBY_Features.pdf",
+    "https://pmfby.gov.in/pdf/FINAL_WBCIS_OGs_23.03.2016.pdf",
+    "https://pmfby.gov.in/pdf/Revamped Operational Guidelines_17th August 2020.pdf",
+    "https://pmfby.gov.in/pdf/operational_guidelines_pmfby.pdf"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T02:44:21.527905+00:00"
+}

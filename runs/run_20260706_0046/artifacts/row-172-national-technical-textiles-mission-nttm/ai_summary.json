@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-172",
+  "scheme_name": "National Technical Textiles Mission (NTTM)",
+  "scheme_url": "https://technicaltext.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The National Technical Textiles Mission (NTTM) is a flagship initiative launched by the Ministry of Textiles, Government of India, to position India as a global leader in technical textiles. It aims to enhance domestic manufacturing, promote innovation, increase exports, and develop skilled human resources in the technical textiles sector. The mission focuses on research and development, market development, export promotion, and skill development across various sub-segments of technical textiles.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "manufacturers",
+    "research institutions",
+    "startups",
+    "MSME",
+    "entrepreneurs",
+    "skill development trainees"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Position India as a global leader in technical textiles",
+    "Enhance domestic manufacturing and reduce import dependence",
+    "Promote innovation and research & development in technical textiles",
+    "Increase exports of technical textiles products",
+    "Develop skilled manpower for the technical textiles sector",
+    "Support market development and brand promotion",
+    "Encourage sustainable and eco-friendly technical textiles",
+    "Strengthen industry-academia collaboration"
+  ],
+  "eligibility": "Eligible beneficiaries include Indian companies, startups, MSMEs, research institutions, universities, and industry associations engaged in technical textiles manufacturing, research, innovation, or skill development activities. Specific eligibility varies by component and is defined under each sub-mission.",
+  "benefits": "Benefits include financial support for R&D projects, market development assistance, export promotion incentives, skill development training, infrastructure support for common facility centers, and recognition for innovation. The mission also facilitates technology transfer, industry-academia collaboration, and access to testing and certification facilities.",
+  "financial_support": "Financial support is provided through grants-in-aid, subsidies, and equity participation depending on the component. Support includes up to 50% of project cost for R&D, 25-50% for market development, and 100% government funding for infrastructure in certain cases. Funds are disbursed through implementing agencies after project approval and milestone-based verification.",
+  "fund_size_crores": "1480",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component of NTTM (R&D, market development, export promotion, etc.) 2. Prepare project proposal as per guidelines 3. Submit application through the designated nodal agency or online portal 4. Application undergoes technical and financial appraisal 5. Approved projects are sanctioned and funds released in installments 6. Progress monitored through periodic reports and site visits 7. Final submission and utilization certificate required for closure",
+  "application_portal_url": "https://technicaltext.in",
+  "required_documents": [
+    "Project proposal document",
+    "Certificate of Incorporation/Registration",
+    "PAN and GST details of the applicant",
+    "Audited financial statements of last 3 years",
+    "Technical details and innovation aspect of the project",
+    "Land/building documents (if infrastructure component)",
+    "Partnership/MoU documents (if collaboration involved)",
+    "Undertaking and declaration forms"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and approval cycles.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "Email: nttm@texmin.nic.in | Phone: +91-11-2306 3456",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations",
+    "Projects must align with national technical textiles priorities",
+    "Beneficiaries must comply with GFR and CVC guidelines",
+    "Utilization certificates and audited statements are mandatory for fund release",
+    "Mission period is co-terminus with the 15th Finance Commission cycle (2021-26)"
+  ],
+  "source_cited_notes": [
+    "https://technicaltext.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:49:24.005271+00:00"
+}

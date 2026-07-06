@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-509",
+  "scheme_name": "National Rural Economic Transformation Project (NRETP)",
+  "scheme_url": "https://aajeevika.gov.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "The National Rural Economic Transformation Project (NRETP) is a World Bank-assisted initiative under the Deendayal Antyodaya Yojana – National Rural Livelihoods Mission (DAY-NRLM) aimed at promoting rural enterprises, enhancing value chains, and supporting women’s collectives in farm and non-farm sectors. It focuses on scaling up successful livelihood interventions, strengthening producer enterprises, and facilitating access to finance and markets for rural poor households. The project operates across 13 high-poverty states and supports innovation, skill development, and digital inclusion in rural economies.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "rural poor households",
+    "women's collectives",
+    "self-help groups (SHGs)",
+    "producer enterprises",
+    "rural entrepreneurs"
+  ],
+  "geographic_scope": "13 high-poverty states across India",
+  "objectives": [
+    "Promote rural enterprises and enhance value chains in farm and non-farm sectors",
+    "Support women’s collectives and strengthen their livelihoods",
+    "Scale up successful livelihood interventions under DAY-NRLM",
+    "Strengthen producer enterprises and improve market linkages",
+    "Facilitate access to finance, credit, and financial services for rural poor",
+    "Enhance skill development and digital inclusion in rural areas",
+    "Support innovation and entrepreneurship in rural economies",
+    "Monitor and evaluate impact through robust MIS and learning systems"
+  ],
+  "eligibility": "The project targets rural poor households, particularly women, belonging to Self-Help Groups (SHGs) and their federations under DAY-NRLM. Benefits are extended to producer enterprises and collectives engaged in agricultural, livestock, handicrafts, and other non-farm activities. Implementation is focused on 13 high-priority states identified based on poverty and livelihood indicators.",
+  "benefits": "Beneficiaries receive support for enterprise development, access to revolving funds and credit linkages, technical assistance for value chain development, training and capacity building, market access facilitation, and infrastructure support for rural enterprises. The project also promotes digital tools for SHG management and financial inclusion through convergence with banking and financial institutions.",
+  "financial_support": "Financial support is provided through revolving funds, community investment funds, and matching grants to SHGs and their federations for livelihood activities and enterprise development. Funds are channeled via State Rural Livelihoods Missions (SRLMs) and disbursed based on micro-investment plans approved at the community level. The project leverages both grant and loan components to ensure sustainability and scalability of rural enterprises.",
+  "fund_size_crores": "5136",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Mobilization and formation of Self-Help Groups (SHGs) at the village level under DAY-NRLM. 2. Training and capacity building of SHGs on financial literacy, livelihood planning, and enterprise development. 3. Preparation of micro-investment plans (MIPs) by SHGs for livelihood activities. 4. Appraisal and approval of MIPs by Village Organizations (VOs) and Cluster Level Federations (CLFs). 5. Disbursement of revolving funds or community investment funds to SHGs based on approved plans. 6. Monitoring and hand-holding support by SRLMs and community resource persons. 7. Linkage with banks, markets, and value chains for enterprise growth and sustainability.",
+  "application_portal_url": "https://aajeevika.gov.in",
+  "required_documents": [
+    "Self-Help Group (SHG) registration documents",
+    "Micro-Investment Plan (MIP) detailing livelihood activity",
+    "Resolution from SHG approving the MIP",
+    "Bank account details of the SHG",
+    "Identity and address proof of SHG members",
+    "Utilization certificates for previous fund disbursements (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on community planning cycles",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "Email: info@aajeevika.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Funds are subject to availability and approval of micro-investment plans at the community level",
+    "Benefits are restricted to households covered under DAY-NRLM in the 13 project states",
+    "Enterprise support is contingent on viability assessment and market linkage potential",
+    "Digital and innovation components may have separate eligibility and implementation timelines"
+  ],
+  "source_cited_notes": [
+    "https://aajeevika.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:04:57.973109+00:00"
+}

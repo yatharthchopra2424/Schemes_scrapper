@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-629",
+  "scheme_name": "Compensatory Afforestation Fund (CAMPA) Grants",
+  "scheme_url": "https://campa.gov.in",
+  "ministry_or_category": "Climate & Environment",
+  "overview": "The Compensatory Afforestation Fund Management and Planning Authority (CAMPA) Grants are part of a national mechanism established under the Compensatory Afforestation Fund Act, 2016 to manage funds collected for compensatory afforestation in lieu of forest land diverted for non-forest purposes. The scheme aims to promote afforestation and regeneration activities as a way of compensating for forest land diversion. Funds are utilized by State/UT CAMPAs for plantation, conservation, protection and management of forests and wildlife.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "State Governments",
+    "Union Territory Administrations",
+    "State/UT CAMPAs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote afforestation and regeneration activities as compensation for forest land diverted for non-forest purposes",
+    "To conserve, protect and manage forests and wildlife",
+    "To compensate for the loss of ecological goods and services due to forest land diversion",
+    "To undertake activities related to compensatory afforestation, assisted natural regeneration, forest fire prevention, pest and disease control",
+    "To support soil and moisture conservation works in forests",
+    "To improve wildlife habitat and manage protected areas",
+    "To strengthen forest-related infrastructure, capacity building, and monitoring & evaluation"
+  ],
+  "eligibility": "State Governments and Union Territory Administrations are eligible to receive funds from the National Compensatory Afforestation Fund under the CAMPA scheme. The funds are released to State/UT CAMPAs based on approved Annual Plans of Operations (APOs) for undertaking afforestation and conservation activities.",
+  "benefits": "Financial support for afforestation, reforestation, forest conservation, protection and management activities. Includes support for plantation, assisted natural regeneration, pest and disease control, forest fire prevention, soil and moisture conservation, wildlife habitat improvement, protected area management, capacity building, monitoring and evaluation, and forest-related infrastructure development.",
+  "financial_support": "Funds are released from the National Compensatory Afforestation Fund (NCAF) to State/UT CAMPAs based on their approved Annual Plans of Operations (APOs). The quantum of support depends on the funds collected from user agencies for compensatory afforestation and the approved APOs. There is no fixed per-entity grant amount; support is project-based and subject to availability of funds in the NCAF.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State/UT CAMPAs prepare Annual Plans of Operations (APOs) detailing proposed afforestation and conservation activities. 2. APOs are submitted to the National Authority, CAMPA for approval. 3. Upon approval, funds are released from the National Compensatory Afforestation Fund (NCAF) to the respective State/UT CAMPAs. 4. State/UT CAMPAs implement the approved activities and submit utilization certificates and progress reports. 5. The National Authority monitors utilization and may conduct audits.",
+  "application_portal_url": "https://campa.gov.in",
+  "required_documents": [
+    "Annual Plan of Operations (APO)",
+    "Utilization Certificates",
+    "Progress Reports",
+    "Audit Reports",
+    "Geotagged photographs of plantation sites",
+    "Maps showing plantation and activity locations"
+  ],
+  "deadlines": "Annual Plans of Operations (APOs) are typically submitted yearly for approval, with funds released upon sanction. Specific dates vary by state and are not fixed nationally.",
+  "implementing_agency": "National Compensatory Afforestation Fund Management and Planning Authority (National Authority, CAMPA), Ministry of Environment, Forest and Climate Change",
+  "contact_details": "",
+  "caveats": [
+    "Funds can only be used for specific activities listed under the Compensatory Afforestation Fund Act, 2016",
+    "Utilization must be in accordance with approved Annual Plans of Operations (APOs)",
+    "State/UT CAMPAs must submit utilization certificates and progress reports for fund release",
+    "Activities must be commensurate with the area of forest land diverted and the approved project",
+    "Monetary compensation for net present value (NPV) of forest land diverted is also deposited and used separately under the same framework"
+  ],
+  "source_cited_notes": [
+    "https://campa.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:15:36.661240+00:00"
+}

@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-133",
+  "scheme_name": "NSIC Bill Discounting Scheme",
+  "scheme_url": "https://www.nsic.co.in/scheme/bill-discounting",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "The Bill Discounting Scheme by NSIC provides financial assistance to Micro, Small and Medium Enterprises (MSMEs) engaged in manufacturing or service activities by discounting bills arising from genuine trade transactions with reputed buyers such as Public Limited Companies, Government Departments, and Private Limited Companies. The scheme facilitates working capital financing against the security of Bank Guarantee, with bills having a maximum usance period of 180 days. It excludes traders and focuses on enabling MSMEs to improve cash flow and manage receivables efficiently.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to MSMEs by discounting bills from genuine trade transactions",
+    "Facilitate working capital financing against Bank Guarantee security",
+    "Support MSMEs in managing receivables and improving cash flow",
+    "Enable MSMEs to avail credit up to 180 days usance period",
+    "Offer concessional discounting rates for MSMEs with valid SME ratings",
+    "Ensure timely repayment benefits through structured interest and penalty charges"
+  ],
+  "eligibility": "Micro, Small & Medium Enterprises engaged in manufacturing / service activities (Traders will be excluded). The Unit must mandatorily have Udyam Registration. The scheme covers discounting of bills arising out of genuine trade transactions i.e. supplies made by MSMEs to reputed Public Limited Companies / State and Central Govt. Departments / Undertakings / Private Limited Companies (not traders), engaged in manufacturing / service activities.",
+  "benefits": "Facilitates procurement of Raw Material with credit support up to 180 days. MSMEs helped to avail Economics of Purchases like bulk purchase, cash discount etc. The scheme provides financial assistance against Bank Guarantee security. Processing fees are applicable: 1.00% p.a. for Micro and Small & Medium on new sanctions, 0.50% p.a. for Micro and 1.00% p.a. for Small & Medium on renewal. Concessional discounting rates are available for units with valid SME 1 or SME 2 ratings, subject to timely repayment.",
+  "financial_support": "The Scheme will cover discounting of bills arising out of genuine trade transactions i.e. supplies made by Micro, Small and Medium Enterprises (MSMEs) to reputed Public Limited Companies / State and Central Govt. Departments / Undertakings / Private Limited Companies (not traders), engaged in manufacturing / service activities. Bills (Bill of exchange) drawn by MSMEs for the supplies made by them and duly accepted by the Purchaser will be discounted against security of Bank Guarantee to be provided either by the Buyer or Seller, in favour of NSIC. Annual limits can be fixed for such units by obtaining information as per the prescribed application form. The maximum usance period of the bills (Bill of Exchange) shall not exceed 180 days. Security: Bank guarantees issued by approved banks equivalent to the value of assistance. Personal guarantee of proprietor, partners of firms and Directors of the company.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. The Entrepreneurs are required to apply for Bill Discounting only on the prescribed application forms. 2. The application forms downloaded from the link given below may be filled and can be submitted to the nearest Branch Office. 3. The blank forms are also available free of charge from the Branch offices. 4. Duly filled application form is to be submitted along with the Application. 5. Preliminary appraisal and Unit inspection is carried out by NSIC. 6. Sanction of Limit to the Unit. 7. Signing of agreement between NSIC and Unit. 8. Disbursement of assistance to the unit.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application Form",
+    "List of documents to be enclosed with Application Form"
+  ],
+  "deadlines": "",
+  "implementing_agency": "National Small Industries Corporation Ltd. (NSIC)",
+  "contact_details": "",
+  "caveats": [
+    "Traders are excluded from the scheme.",
+    "The concessional rate of discounting charges for good rated units is applicable only if units make timely repayments of NSIC’s dues.",
+    "Units which have not re-paid dues within usance period shall not be eligible for concessional rate and will be charged the normal rate.",
+    "The concession continues till the validity of the rating awarded by rating agencies and ceases on expiry unless renewed.",
+    "Processing fees apply on new sanctions and renewals as per Micro and Small & Medium categories."
+  ],
+  "source_cited_notes": [
+    "https://nsic.co.in/Schemes/BillDiscountingAgainstBG"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:31:03.513153+00:00"
+}

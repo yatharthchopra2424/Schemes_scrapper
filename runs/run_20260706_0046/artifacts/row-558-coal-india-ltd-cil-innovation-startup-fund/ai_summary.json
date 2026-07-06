@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-558",
+  "scheme_name": "Coal India Ltd (CIL) Innovation & Startup Fund",
+  "scheme_url": "https://www.coalindia.in",
+  "ministry_or_category": "PSU Support",
+  "overview": "The Coal India Ltd (CIL) Innovation & Startup Fund is a dedicated initiative by Coal India Limited to support innovation and entrepreneurship in the coal and allied sectors. It aims to foster startups working on technological solutions, sustainability, and operational efficiency relevant to the coal industry. The fund provides financial and non-financial support to selected startups through a structured selection and mentorship process.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote innovation in the coal and energy sector",
+    "To support startups developing solutions for coal mining, safety, and environmental sustainability",
+    "To encourage entrepreneurship and technological advancement in PSU-associated domains",
+    "To provide funding and mentorship to early-stage startups with scalable ideas",
+    "To strengthen collaboration between CIL and the startup ecosystem"
+  ],
+  "eligibility": "Startups incorporated in India working on innovative solutions in areas such as coal mining technology, safety, environmental management, energy efficiency, and allied sectors. The startup must be registered under the Companies Act, 2013 or as an LLP, and should have a viable prototype or minimum viable product (MVP). Preference is given to those aligned with CIL’s operational challenges and sustainability goals.",
+  "benefits": "Financial support in the form of grants or equity-based funding, mentorship from CIL experts, access to CIL’s infrastructure and pilot testing facilities, technical guidance, and potential for long-term collaboration or procurement opportunities with Coal India Limited.",
+  "financial_support": "The fund provides financial support up to INR 50 Lakhs per selected startup, either as a grant or through equity investment, depending on the nature of the project and mutual agreement. The disbursement is milestone-based and tied to project progress and deliverables.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 50 Lakhs",
+  "application_process": "1. Visit the official CIL Innovation & Startup Fund portal or designated application page. 2. Register and fill out the online application form with details of the startup, innovation, and team. 3. Upload required documents including incorporation certificate, pitch deck, and technical details. 4. Submit the application for initial screening. 5. Shortlisted startups are invited for presentation and evaluation before a selection committee. 6. Final selection is based on innovation, feasibility, scalability, and alignment with CIL’s objectives. 7. Selected startups undergo due diligence before fund disbursement.",
+  "application_portal_url": "https://www.coalindia.in",
+  "required_documents": [
+    "Certificate of Incorporation or Registration",
+    "PAN of the startup",
+    "Pitch deck or business plan",
+    "Details of technology or innovation",
+    "Prototype or MVP demonstration (if available)",
+    "Team details and CVs of founders",
+    "Bank account details",
+    "Authorization letter from authorized signatory"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability and review cycles.",
+  "implementing_agency": "Coal India Limited (CIL)",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of funds and approval by the CIL Innovation Committee",
+    "Startups must comply with CIL’s intellectual property and confidentiality norms",
+    "Continued support is contingent on meeting project milestones",
+    "CIL reserves the right to modify or withdraw the scheme without prior notice"
+  ],
+  "source_cited_notes": [
+    "https://www.coalindia.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:29:45.785577+00:00"
+}

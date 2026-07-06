@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-247",
+  "scheme_name": "Punjab Startup and Entrepreneurship Policy",
+  "scheme_url": "https://invest.punjab.gov.in",
+  "ministry_or_category": "State Level (Punjab)",
+  "overview": "The Punjab Startup and Entrepreneurship Policy is a state-level initiative launched by the Government of Punjab to foster innovation, support early-stage startups, and build a vibrant entrepreneurial ecosystem across the state. It aims to provide financial, infrastructural, and regulatory support to startups in key sectors such as IT, agro-processing, manufacturing, and biotechnology. The policy emphasizes ease of doing business, access to funding, and collaboration between industry, academia, and government.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "MSME"
+  ],
+  "geographic_scope": "Punjab only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across Punjab",
+    "Provide financial assistance and incentives to early-stage startups",
+    "Create incubation and co-working infrastructure",
+    "Facilitate access to mentorship, networking, and market linkages",
+    "Encourage sector-specific startups in IT, agro-processing, biotech, and manufacturing",
+    "Simplify regulatory compliance and approval processes for startups",
+    "Establish a Punjab Startup Fund for seed and early-stage investments",
+    "Strengthen industry-academia collaboration for research and innovation"
+  ],
+  "eligibility": "Startups incorporated as Private Limited Company, LLP, or Partnership Firm under relevant Indian laws, with headquarters or significant operations in Punjab, working on innovative products, services, or processes, and recognized by the Department of Industries, Government of Punjab, or an approved incubator.",
+  "benefits": "Financial support through seed funding and grants, access to state-funded incubators and co-working spaces, mentorship from industry experts, fast-track approvals and single-window clearance, assistance in intellectual property rights (IPR) filing, participation in state-organized startup events and exhibitions, and facilitation of linkages with investors and markets.",
+  "financial_support": "The policy provides for the creation of a Punjab Startup Fund with a corpus to be contributed by the state government and financial institutions, offering seed funding of up to INR 25 Lakhs per startup in the form of grants or convertible equity, along with reimbursement of up to 50% of costs incurred on patent filing, subject to a maximum of INR 2 Lakhs per startup.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 25 Lakhs",
+  "application_process": "1. Register the startup with the Department of Industries, Government of Punjab, or an approved incubator. 2. Submit the incorporation documents, business plan, and details of innovation. 3. Apply for recognition as an eligible startup under the policy. 4. Submit application for financial support along with required documents such as project report, cost estimates, and bank details. 5. Application is reviewed by the designated committee. 6. Upon approval, financial support is disbursed in stages based on milestones. 7. Submit periodic progress reports and utilization certificates.",
+  "application_portal_url": "https://invest.punjab.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Business plan or project report",
+    "Details of innovation or technology involved",
+    "Bank account details",
+    "Incorporation documents (MoA, AoA, Partnership deed)",
+    "Proof of office address in Punjab",
+    "Details of funding received (if any)",
+    "Patent or IPR application details (if applicable)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Industries, Government of Punjab",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is subject to availability of funds under the Punjab Startup Fund",
+    "Startups must maintain operations in Punjab for a minimum period of 3 years after receiving support",
+    "Funding may be withdrawn if milestones are not met or if false information is provided",
+    "Benefits under the policy may be revised or withdrawn by the state government",
+    "Only startups recognized by the Department of Industries or approved incubators are eligible"
+  ],
+  "source_cited_notes": [
+    "https://invest.punjab.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:32:21.246413+00:00"
+}

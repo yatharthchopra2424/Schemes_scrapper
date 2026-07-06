@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-462",
+  "scheme_name": "Startup India Climate Action Challenge",
+  "scheme_url": "https://www.startupindia.gov.in",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "Startup India Climate Action Challenge is a program under the Startup India initiative aimed at supporting startups working on climate technology and green innovation. It provides a platform for startups to showcase solutions addressing climate change, with opportunities for funding, mentorship, and visibility. The challenge is part of broader efforts to promote sustainable entrepreneurship and align with national climate goals.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups",
+    "climate-tech startups",
+    "green-tech startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Identify and support innovative startups working on climate change mitigation and adaptation",
+    "Provide a platform for green-tech startups to showcase scalable solutions",
+    "Facilitate access to funding, mentorship, and investor connections for climate-focused ventures",
+    "Promote sustainable entrepreneurship aligned with India’s climate action goals",
+    "Strengthen the CleanTech and GreenTech ecosystem through targeted challenges and recognition"
+  ],
+  "eligibility": "Startups must be DPIIT-recognised, working on innovative solutions in climate technology, green technology, or related sectors such as renewable energy, energy efficiency, waste management, or sustainable agriculture. The entity should be incorporated as a Private Limited Company, LLP, or partnership firm, with turnover not exceeding INR 200 crore (INR 300 crore for DeepTech) and within 10 years of incorporation (20 years for DeepTech).",
+  "benefits": "Recognition under Startup India, access to funding schemes like Seed Fund Scheme and Fund of Funds, mentorship via MAARG, investor connect opportunities, tax benefits under Section 80-IAC, IPR fast-tracking with 80% rebate on patent filing, easier public procurement norms, and self-certification under labour and environmental laws.",
+  "financial_support": "Financial support is provided through linked schemes such as the Startup India Seed Fund Scheme (SISFS) offering up to INR 20 lakhs as grant, and the Fund of Funds for Startups (FFS) with a corpus of INR 10,000 crore, which invests in SEBI-registered AIFs that fund startups. Credit guarantee support is also available via CGSS for collateral-free debt up to INR 20 crore.",
+  "fund_size_crores": "10000",
+  "grant_amount_per_entity": "Up to INR 20 Lakhs",
+  "application_process": "1. Register on the Startup India portal (startupindia.gov.in) 2. Apply for DPIIT recognition via the 'Get Recognised' section 3. Submit incorporation documents, PAN, and business description 4. Await recognition approval (typically 2-7 business days) 5. Once recognised, apply for the Climate Action Challenge through the Startup India Programs section 6. Submit proposal detailing climate innovation, impact, and scalability 7. Await evaluation and selection by the jury panel",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)",
+    "Proof of innovation in climate or green technology"
+  ],
+  "deadlines": "Rolling basis — applications accepted year-round based on challenge cycles",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "Email: startupindia@dipp.gov.in | Helpline: 1800-11-5565",
+  "caveats": [
+    "Benefits are contingent on maintaining DPIIT recognition status",
+    "Tax benefits under Section 80-IAC require separate Inter-Ministerial Board (IMB) approval",
+    "Funding under SISFS and FFS is subject to availability and due diligence",
+    "Recognition does not guarantee automatic disbursement of funds"
+  ],
+  "source_cited_notes": [
+    "https://www.startupindia.gov.in/",
+    "https://startupindia.gov.in/content/sih/en/startup-scheme.html",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Action%20Plan.pdf",
+    "https://startupindia.gov.in/content/dam/startupindia/Startup-India-Fund-of-Funds-2.0-Scheme.pdf",
+    "https://startupindia.gov.in/content/dam/invest-india/Templates/public/Gazette_060226.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:42:36.812291+00:00"
+}

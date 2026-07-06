@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-292",
+  "scheme_name": "Telecom Technology Development Fund (TTDF)",
+  "scheme_url": "https://dot.gov.in/ttdf",
+  "ministry_or_category": "Telecom",
+  "overview": "The Telecom Technology Development Fund (TTDF) is a scheme under the Department of Telecommunications, Ministry of Communications, Government of India, aimed at promoting research, development, and innovation in telecom technologies. It supports indigenous development of telecom equipment and solutions to reduce import dependence and strengthen India's position in global telecom standards. The fund encourages collaboration between industry, academia, and research institutions to advance 5G, 6G, and other emerging telecom technologies.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic institutions",
+    "research organizations"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote indigenous research and development in telecom technologies",
+    "Support innovation in 5G, 6G, and future telecom standards",
+    "Reduce import dependence on telecom equipment through domestic manufacturing",
+    "Strengthen India's participation in global telecom standard-setting bodies",
+    "Encourage industry-academia collaboration for technology development",
+    "Provide financial support for proof-of-concept, prototyping, and field trials",
+    "Facilitate technology transfer and commercialization of telecom innovations",
+    "Enhance competitiveness of Indian telecom manufacturers in global markets"
+  ],
+  "eligibility": "Eligible applicants include Indian companies, startups, MSMEs, academic institutions, and research organizations engaged in telecom technology development. Applicants must be registered in India and demonstrate capability to develop and deploy telecom solutions. Preference is given to projects with clear commercialization potential and alignment with national telecom priorities such as 5G/6G, rural connectivity, and secure communications.",
+  "benefits": "Financial support for R&D projects, access to testing and certification facilities, technical guidance from DoT experts, opportunities for field trials with telecom service providers, assistance in intellectual property rights (IPR) filing, and support for participation in international telecom standards forums. Successful projects may also gain recognition for inclusion in government procurement lists and access to pilot deployment opportunities.",
+  "financial_support": "The scheme provides grant-based financial support to eligible entities for telecom technology development projects. Funding covers costs related to research, prototyping, testing, and field trials. The quantum of support is determined based on project scope, technical merit, and commercialization potential, subject to availability of funds under the TTDF corpus.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit a detailed project proposal outlining objectives, methodology, timeline, and budget. 2. Include technical specifications, expected outcomes, and plan for technology transfer or commercialization. 3. Provide details of the applicant organization, including registration, technical team, and past experience. 4. Attach supporting documents such as certificates of incorporation, audited financial statements, and letters of collaboration (if applicable). 5. Submit the application through the designated portal or as specified in the official notification. 6. Await evaluation by the expert committee constituted by the Department of Telecommunications. 7. If approved, sign the grant agreement and commence project execution. 8. Submit periodic progress reports and utilization certificates as per scheme guidelines.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Audited financial statements of the applicant",
+    "Detailed project report with technical specifications",
+    "Budget breakdown and utilization plan",
+    "Letters of collaboration or MoUs (if applicable)",
+    "CVs of key technical personnel",
+    "Proof of prior work or prototypes (if any)",
+    "Declaration of fund utilization and no-duplication of funding"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Department of Telecommunications, Ministry of Communications, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budget under the Telecom Technology Development Fund",
+    "Projects must demonstrate clear alignment with national telecom priorities",
+    "Grantees must comply with reporting and audit requirements",
+    "Intellectual property developed under the scheme may be subject to government-use rights",
+    "Failure to meet project milestones may result in termination of funding"
+  ],
+  "source_cited_notes": [
+    "https://dot.gov.in/ttdf"
+  ],
+  "last_updated_date": "",
+  "confidence": "low",
+  "analysis_timestamp": "2026-07-05T21:59:55.096634+00:00"
+}

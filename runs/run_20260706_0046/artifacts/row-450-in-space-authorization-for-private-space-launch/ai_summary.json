@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-450",
+  "scheme_name": "IN-SPACe Authorization for Private Space Launch",
+  "scheme_url": "https://www.inspaceindia.org",
+  "ministry_or_category": "Space Economy",
+  "overview": "IN-SPACe Authorization for Private Space Launch is a regulatory framework established by the Indian National Space Promotion and Authorization Center (IN-SPACe) to enable private sector participation in space activities. It provides authorization for private entities to conduct space launches, establish space infrastructure, and operate space-based services in India. The scheme aims to promote private investment and innovation in the space sector by streamlining regulatory processes and ensuring compliance with national and international space laws.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "private space companies",
+    "startups",
+    "MSMEs",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote private sector participation in space activities",
+    "Provide a single-window authorization system for space launches and operations",
+    "Ensure compliance with national and international space laws and safety standards",
+    "Facilitate access to ISRO facilities and expertise for private entities",
+    "Encourage innovation and competitiveness in the Indian space economy",
+    "Streamline regulatory processes to reduce time and cost for private space ventures"
+  ],
+  "eligibility": "Private entities including companies, startups, and MSMEs registered under Indian law, seeking to undertake space activities such as launch vehicle operations, satellite manufacturing, ground station establishment, or space-based services. Applicants must demonstrate technical capability, financial viability, and adherence to safety and regulatory norms as specified by IN-SPACe.",
+  "benefits": "Authorization to conduct space launches and operations in India, access to ISRO infrastructure and technical support, regulatory clarity and single-window clearance, facilitation of technology transfer and collaboration with ISRO, and recognition as a authorized non-governmental entity (NGE) in the space sector.",
+  "financial_support": "The scheme does not provide direct financial grants or subsidies. Financial support is indirect through access to ISRO facilities on cost-sharing basis, potential for private investment, and opportunities for commercial contracts. No specific fund corpus or per-entity grant amount is allocated under this authorization framework.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the IN-SPACe official website at https://www.inspaceindia.org 2. Review the authorization guidelines and eligibility criteria 3. Prepare the required documentation including project report, technical details, safety plan, and company registration 4. Submit the application online through the IN-SPACe portal 5. Await preliminary review and feedback from IN-SPACe 6. Address any queries or modifications as required 7. Receive final authorization upon compliance with all regulatory requirements.",
+  "application_portal_url": "https://www.inspaceindia.org",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association",
+    "Project report detailing space activity objectives",
+    "Technical specifications of launch vehicle or space system",
+    "Safety and risk assessment report",
+    "Financial viability and funding plan",
+    "Details of key personnel and their qualifications",
+    "Clearance from relevant statutory bodies (if applicable)",
+    "Undertaking of compliance with national and international space laws"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year with no fixed deadline.",
+  "implementing_agency": "Indian National Space Promotion and Authorization Center (IN-SPACe), Department of Space",
+  "contact_details": "Email: info@inspaceindia.org | Phone: +91-80-2217 2000",
+  "caveats": [
+    "Authorization is subject to periodic review and renewal",
+    "Applicants must comply with the Space Activities Bill (pending) and existing space policy guidelines",
+    "Use of ISRO facilities is subject to availability and separate agreements",
+    "National security clearance may be required for certain sensitive space activities",
+    "Authorization does not guarantee access to funding or market opportunities"
+  ],
+  "source_cited_notes": [
+    "https://www.inspaceindia.org"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:32:02.131210+00:00"
+}

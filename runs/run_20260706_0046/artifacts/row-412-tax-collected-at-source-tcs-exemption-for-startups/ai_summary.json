@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-412",
+  "scheme_name": "Tax Collected at Source (TCS) Exemption for Startups",
+  "scheme_url": "https://www.incometax.gov.in",
+  "ministry_or_category": "Tax & Compliance",
+  "overview": "Tax Collected at Source (TCS) Exemption for Startups is a tax benefit under the Income Tax Act, 1961 that allows eligible startups to be exempt from TCS on certain specified transactions, reducing their compliance burden and improving cash flow during early growth stages.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce tax compliance burden on startups",
+    "Improve working capital availability for early-stage enterprises",
+    "Encourage formalization and digital transactions among startups",
+    "Support ease of doing business for innovative ventures"
+  ],
+  "eligibility": "Startups recognized by the Department for Promotion of Industry and Internal Trade (DPIIT) under the Startup India initiative are eligible for TCS exemption on specified goods and services as per the provisions of the Income Tax Act, 1961.",
+  "benefits": "Exemption from Tax Collected at Source (TCS) on specified transactions such as sale of overseas tour packages, foreign remittances, and sale of alcohol, thereby reducing upfront tax outflow and improving liquidity for eligible startups.",
+  "financial_support": "The scheme provides indirect financial support by exempting eligible startups from paying TCS on certain specified transactions, thereby retaining more working capital that would otherwise be blocked as tax deducted at source.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Obtain DPIIT recognition for the startup via the Startup India portal. 2. Ensure the startup is engaged in specified transactions attracting TCS. 3. Furnish Form 27EQ or relevant TCS exemption certificate to the collector of tax. 4. The collector shall not collect TCS if a valid exemption certificate is furnished. 5. Maintain documentation for audit and compliance purposes.",
+  "application_portal_url": "https://www.startupindia.gov.in/",
+  "required_documents": [
+    "DPIIT recognition certificate",
+    "PAN of the startup",
+    "Certificate of Incorporation/Registration",
+    "Form 27EQ or TCS exemption application",
+    "Details of specified transactions attracting TCS"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the financial year as and when TCS-liable transactions occur.",
+  "implementing_agency": "Income Tax Department, Ministry of Finance, Government of India",
+  "contact_details": "Email: support@startupindia.gov.in | Helpline: 1800-115-565",
+  "caveats": [
+    "TCS exemption is applicable only on specified goods and services as notified under the Income Tax Act, 1961",
+    "Exemption is valid only for DPIIT-recognized startups",
+    "The collector of tax must be furnished with a valid exemption certificate before the transaction",
+    "Exemption does not apply if the startup exceeds turnover or age limits defined under Startup India policy"
+  ],
+  "source_cited_notes": [
+    "https://www.incometax.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:18:49.658374+00:00"
+}

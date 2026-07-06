@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-50",
+  "scheme_name": "National Minorities Development & Finance Corp (NMDFC)",
+  "scheme_url": "https://nmdfc.org",
+  "ministry_or_category": "Social Justice",
+  "overview": "The National Minorities Development & Finance Corporation (NMDFC) is a Government of India undertaking under the Ministry of Minority Affairs, incorporated on 30th September 1994 as a not-for-profit company under Section 8 of the Companies Act, 2013. It functions as a National Level Apex Body to provide concessional finance to notified minority communities (Muslims, Christians, Sikhs, Buddhists, Parsis, and Jains) for self-employment and income generation activities, with preference given to artisans and women. NMDFC implements its schemes through State Channelizing Agencies (SCAs) and offers various loan schemes including Term Loan, Education Loan, Virasat (for artisans), and Micro Finance, along with promotional and fellowship schemes.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "minorities",
+    "artisans",
+    "women"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide concessional finance to minorities for self-employment/income generation",
+    "Promote economic empowerment of weaker sections amongst minorities",
+    "Extend loans through State Channelizing Agencies (SCAs) for income generation activities",
+    "Support artisans and women beneficiaries under NMDFC programmes",
+    "Implement schemes such as Term Loan, Education Loan, Virasat, and Micro Finance",
+    "Disburse fellowships like Maulana Azad National Fellowship (MANF) for minority students",
+    "Strengthen marketing and promotional support for minority artisans",
+    "Facilitate refinancing of loans through partner banks like Canara Bank"
+  ],
+  "eligibility": "Beneficiaries must belong to notified minority communities (Muslims, Christians, Sikhs, Buddhists, Parsis, and Jains as per National Commission for Minorities Act, 1992, with Jains added in January 2014). Annual family income eligibility: Credit Line-1 for income up to ₹3.00 lakhs per annum; Credit Line-2 for income up to ₹8.00 lakhs per annum (enhanced from November 2020 using 'Creamy Layer' criterion). Preference is given to artisans and women. For education loans, applicants must pursue job-oriented technical/vocational courses. For Virasat scheme, beneficiaries must be craftspersons. For MANF, candidates must have cleared UGC-NET or Joint CSIR-UGC NET and belong to minority communities.",
+  "benefits": "Concessional interest rates on loans: Term Loan (Credit Line-1: 6% p.a., Credit Line-2: 8% p.a. with 2% rebate for women); Education Loan (Credit Line-1: 3% p.a., Credit Line-2: 8% p.a. with 3% rebate for women); Micro Finance (Credit Line-1: 7% p.a., Credit Line-2: 10% p.a. with 2% rebate for women); Virasat (Credit Line-1: 5% p.a., Credit Line-2: 6% p.a. for men, 5% for women). Loan tenures: Term Loan and Education Loan up to 5 years, Micro Finance and Virasat up to 3-5 years. Moratorium period: 6 months for Term Loan, Education Loan, and Virasat; 3 months for Micro Finance. Additional benefits include marketing assistance through exhibitions, grant for promotional schemes (90% NMDFC, 10% SCA), and fellowships with stipend, HRA, contingency, and escorts/reader assistance for disabled candidates.",
+  "financial_support": "NMDFC provides concessional loans through State Channelizing Agencies (SCAs). Under Term Loan scheme: up to ₹20.00 lakhs for Credit Line-1 and ₹30.00 lakhs for Credit Line-2. Education Loan: up to ₹20.00 lakhs for domestic courses and ₹30.00 lakhs for foreign courses under both credit lines. Virasat scheme: up to ₹10.00 lakhs under both credit lines. Micro Finance: up to ₹1.00 lakh per SHG member under Credit Line-1 and ₹1.50 lakh under Credit Line-2. Interest rates vary by scheme and beneficiary gender, with rebates for women. Repayment periods range from 3 to 5 years with moratorium periods of 3-6 months. Loans are disbursed via SCAs after submission of required documents including self-attested income, residence, religious certificates, and project reports.",
+  "fund_size_crores": "3000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant scheme (Term Loan, Education Loan, Virasat, Micro Finance, etc.) based on eligibility and purpose. 2. Check annual family income to determine Credit Line-1 (up to ₹3.00 lakhs) or Credit Line-2 (up to ₹8.00 lakhs). 3. Approach the State Channelizing Agency (SCA) nominated by your State Government. 4. Prepare required documents: self-attested income certificate, residence proof (with AADHAAR/Ration Card/Voter ID/Passport/Phone/Electricity Bill), religious certificate (if loan > ₹1 lakh), and brief project report. 5. For loans exceeding ₹1 lakh, arrange security: self-guarantee & post-dated cheques (up to ₹1 lakh); guarantee of one Govt./PSU/Bank employee or income tax payer & post-dated cheques (₹1-5 lakhs); guarantee of two Govt./PSU/Bank employees or two income tax payers/public representatives or collateral (₹5-10 lakhs). 6. Submit application form and documents to the SCA. 7. SCA verifies documents and forwards approved proposals to NMDFC for sanction. 8. Upon approval, loan is disbursed by SCA to beneficiary. 9. Repay loan as per agreed schedule (typically 3-5 years) after moratorium period.",
+  "application_portal_url": "https://nmdfc.org/home/nmdfc_schemes",
+  "required_documents": [
+    "Self Attested Income Certificate",
+    "Self Attested Residence Proof enclosing AADHAAR Card/Ration Card/Voter ID/Passport/Phone Bill/Electricity Bill etc.",
+    "Self Attested Religious Certificate (only if loan amount > ₹1 lakh)",
+    "Brief Project Report"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Minorities Development & Finance Corporation (NMDFC)",
+  "contact_details": "Email: abha[dot]111796[dot]cbdt[at]nic[dot]in | cmd[dot]nmdfc[at]gmail[dot]com | Phone: +91-11-22441635 | Toll Free Helpline No. 14402",
+  "caveats": [
+    "Loans exceeding ₹1 lakh require religious certificate and appropriate security/Guarantee",
+    "Manufacturing of loan application does not guarantee approval; subject to SCA and NMDFC verification",
+    "In case of dormant status, beneficiaries may approach nearest Canara Bank branch for loan under their scheme, which can later be refinanced through NMDFC",
+    "Maulana Azad National Fellowship (MANF) scheme has been discontinued from 2022-23 onward; existing fellows continue till end of tenure",
+    "Exception claims for MANF arrears not entertained after 31st December 2024 for scholars registered/joined on or before 31.12.2018"
+  ],
+  "source_cited_notes": [
+    "https://nmdfc.org/nmdfcschemes",
+    "https://nmdfc.org/about_nmdfc",
+    "https://nmdfc.org/home/nmdfc_schemes",
+    "https://nmdfc.org/target-groups",
+    "https://nmdfc.org/promotionalschemes",
+    "https://nmdfc.org/MANFscheme",
+    "https://nmdfc.org/uploads/files/Discontinuation-NOTICE-MANF-124bc0aad-a542-4894-82d0-8b78d036247apdf-4cde4f773a56bf6a7fb2dbdd8680f87b.pdf",
+    "https://nmdfc.org/uploads/bulletin/noticepdf-adc57c3c748b3afc46e4443c65a43fd1.pdf",
+    "https://nmdfc.org/uploads/update/noticepdf-ead74eceb221cb167747d80dbfbc48ee.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:50:34.001466+00:00"
+}

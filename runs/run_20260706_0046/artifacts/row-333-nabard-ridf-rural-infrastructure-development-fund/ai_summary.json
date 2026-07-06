@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-333",
+  "scheme_name": "NABARD RIDF (Rural Infrastructure Development Fund)",
+  "scheme_url": "https://www.nabard.org/ridf",
+  "ministry_or_category": "Innovation Grants",
+  "overview": "The Rural Infrastructure Development Fund (RIDF) is a scheme administered by NABARD to provide financial support for rural infrastructure projects. It aims to bridge the gap in rural infrastructure by financing projects related to agriculture, irrigation, soil conservation, and other rural development initiatives. The fund is contributed by commercial banks and managed by NABARD for disbursement to state governments and other implementing agencies.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "state governments",
+    "state-owned corporations",
+    "local self-governments",
+    "NGOs",
+    "cooperatives"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide loans to state governments and state-owned corporations for ongoing rural infrastructure projects",
+    "To support projects in agriculture and allied sectors, irrigation, soil conservation, drinking water, rural roads, and bridges",
+    "To encourage private sector participation in rural infrastructure through public-private partnerships",
+    "To augment resources for rural infrastructure where normal bank credit flow is inadequate",
+    "To promote sustainable and inclusive rural development"
+  ],
+  "eligibility": "State governments, state-owned corporations, local self-governments, NGOs, and cooperatives are eligible to avail loans under RIDF for rural infrastructure projects. Projects must be technically feasible, economically viable, and socially acceptable, and should fall under the approved list of activities under the fund.",
+  "benefits": "Long-term financing at concessional interest rates for rural infrastructure projects; support for completion of ongoing projects; contribution to rural employment generation; improvement in agricultural productivity and rural livelihoods; enhanced access to basic rural infrastructure.",
+  "financial_support": "RIDF provides loans to state governments and implementing agencies for rural infrastructure projects. The loan amount is typically up to 95% of the project cost for special category states and 80-85% for general states, with the balance to be contributed by the state government or implementing agency. The funds are disbursed in installments based on project progress.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify eligible rural infrastructure project under approved RIDF activities. 2. Prepare detailed project report (DPR) including technical, financial, and economic aspects. 3. Submit application through the state government nodal officer to NABARD. 4. NABARD appraises the project for technical feasibility and financial viability. 5. Upon approval, loan agreement is executed. 6. Funds are released in stages based on project progress and utilization certificates.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Clearances from relevant authorities (e.g., irrigation, forest, pollution)",
+    "Financial viability and cost estimates",
+    "Implementation schedule",
+    "Undertaking from state government or implementing agency",
+    "Previous utilization certificates (for ongoing projects)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year based on annual allocations.",
+  "implementing_agency": "National Bank for Agriculture and Rural Development (NABARD)",
+  "contact_details": "",
+  "caveats": [
+    "Loan is available only for ongoing projects, not for new land acquisition",
+    "Projects must be from the approved list of activities under RIDF",
+    "State government contribution is mandatory as per prescribed ratio",
+    "Utilization certificates and progress reports are mandatory for subsequent disbursements",
+    "Interest rates and terms are revised periodically by NABARD"
+  ],
+  "source_cited_notes": [],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:25:14.545832+00:00"
+}

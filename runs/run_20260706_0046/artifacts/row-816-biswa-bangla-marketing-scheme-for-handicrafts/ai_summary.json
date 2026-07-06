@@ -1,0 +1,70 @@
+{
+  "scheme_id": "row-816",
+  "scheme_name": "Biswa Bangla Marketing Scheme for Handicrafts",
+  "scheme_url": "https://biswabangla.in",
+  "ministry_or_category": "State Level (West Bengal)",
+  "overview": "Biswa Bangla Marketing Scheme for Handicrafts is a West Bengal state-level initiative aimed at promoting and marketing traditional handicrafts, handloom, and heritage products through Biswa Bangla showrooms and warehouses across India and abroad. The scheme supports artisans and weavers by providing them a platform to sell their products via institutional procurement, tenders, and promotional orders. It operates under the Department of MSME & Textiles, Government of West Bengal, and focuses on creating market access for local crafts through e-tendering and direct sales channels.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "artisans",
+    "weavers",
+    "MSME",
+    "self-help groups",
+    "handicraft manufacturers",
+    "handloom producers"
+  ],
+  "geographic_scope": "West Bengal (with national and international market access)",
+  "objectives": [
+    "To market traditional handicrafts, handloom, and heritage products of West Bengal",
+    "To provide a platform for artisans and weavers to sell their products through Biswa Bangla showrooms",
+    "To support MSMEs and self-help groups via promotional orders and e-tendering",
+    "To ensure quality and compliance through standardized procurement processes",
+    "To expand market reach across India and abroad through institutional buyers",
+    "To preserve and promote indigenous crafts and cultural heritage"
+  ],
+  "eligibility": "Artisans, weavers, self-help groups (SHGs), clusters, co-operative societies, and MSMEs registered in West Bengal engaged in handicrafts, handloom, or heritage product manufacturing are eligible to participate. They must be capable of supplying products as per approved specifications and may need to meet turnover, experience, and documentation criteria depending on the specific tender or promotional order.",
+  "benefits": "Beneficiaries gain access to institutional buyers, government procurement opportunities, promotional orders, and direct sales through Biswa Bangla showrooms. They receive support in product listing, quality compliance, and market linkage. Selected vendors may get work orders based on L1 rates, with provisions for MSE price preference and performance-based allocation. Payments are made upon delivery and verification, with performance security refunds where applicable.",
+  "financial_support": "Financial support is provided through work orders and promotional orders issued after e-tendering. Payments are made per unit at the L1 (lowest) rate discovered through bidding, inclusive of GST and delivery charges. For promotional orders, MSE units may receive up to 20% of total quantity. Performance security (typically 3-10% of order value) is required and refunded upon successful completion. No upfront grants or subsidies are provided; compensation is strictly against delivered goods/services.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify relevant tender or promotional order notice on https://wbtenders.gov.in or https://biswabangla.in. 2. Register and obtain Digital Signature Certificate (DSC) for e-tendering. 3. Download tender documents from the e-procurement portal. 4. Prepare technical bid with required documents (e.g., audited financials, GST, PAN, experience certificates). 5. Prepare financial bid (BOQ) quoting rates per unit. 6. Submit both bids simultaneously on https://wbtenders.gov.in before the deadline. 7. Attend pre-bid meeting if scheduled. 8. Await technical evaluation; only qualified bidders proceed to financial bid opening. 9. L1 bidder is selected based on lowest rate; work order issued. 10. Supply goods as per schedule and specifications. 11. Submit invoice and performance security. 12. Receive payment after verification and deductibles.",
+  "application_portal_url": "https://wbtenders.gov.in",
+  "required_documents": [
+    "Audited Balance Sheet and Profit & Loss Account",
+    "GST Registration Certificate",
+    "PAN Card",
+    "Income Tax Returns",
+    "Trade License",
+    "Proof of EMD payment",
+    "Certificate of Incorporation / Partnership Deed / LLP Agreement",
+    "Completion Certificate for past supply",
+    "Undertaking on rate validity",
+    "Affidavit (for promotional orders)",
+    "Samples of product (if required)",
+    "Power of Attorney (if applicable)"
+  ],
+  "deadlines": "Varies per tender; typically bid submission closes 3-4 weeks after notice publication. Promotional orders have fixed last dates (e.g., 7 October 2025 for school bags). Some tenders allow rolling basis or extensions via corrigendum.",
+  "implementing_agency": "Biswa Bangla Marketing Corporation Limited, under Department of MSME & Textiles, Government of West Bengal",
+  "contact_details": "Phone: (033) 2430 3595 | Email: info@biswabangla.in",
+  "caveats": [
+    "Bids are rejected if samples do not match approved reference specimens",
+    "EMD may be forfeited for withdrawal, false documents, or failure to supply",
+    "Financial bid considered only if technical bid qualifies (min. 40-60% score)",
+    "MSE price preference up to 15% higher rate if willing to supply at L1 rate",
+    "Supply must be completed within stipulated delivery period (e.g., 60 days)",
+    "Performance security (3-10%) required and may be forfeited for non-compliance",
+    "Bids valid for 12 months, extendable by 3 months",
+    "Quantity may vary by ±25% based on requirement changes"
+  ],
+  "source_cited_notes": [
+    "https://biswabangla.in/artisan-weaver-registration/",
+    "https://biswabangla.in/tender-advertisement/",
+    "https://biswabangla.in/wp-content/uploads/2025/04/Tendernotice_1-16.pdf",
+    "https://biswabangla.in/wp-content/uploads/2025/07/Tendernotice_1-1.pdf",
+    "https://biswabangla.in/wp-content/uploads/2025/09/Promotional-Order-Application-Format-1.docx",
+    "https://biswabangla.in/wp-content/uploads/2025/04/Newspaper-Advertisement-for-Promotional-Order-1.docx"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:08:17.323884+00:00"
+}

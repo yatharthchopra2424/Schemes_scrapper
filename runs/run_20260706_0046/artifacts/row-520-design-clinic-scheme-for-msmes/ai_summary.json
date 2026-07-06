@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-520",
+  "scheme_name": "Design Clinic Scheme for MSMEs",
+  "scheme_url": "https://designclinic.in",
+  "ministry_or_category": "MSME Clusters",
+  "overview": "The Design Clinic Scheme for MSMEs is a government initiative aimed at enhancing the competitiveness of micro, small, and medium enterprises by providing access to professional design services. It supports product development, innovation, and value addition through expert design interventions. The scheme focuses on improving aesthetics, functionality, and market readiness of products manufactured by MSMEs.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide professional design expertise to MSMEs for product development and innovation",
+    "To enhance the competitiveness of MSME products in domestic and international markets",
+    "To promote design awareness and its strategic importance among MSMEs",
+    "To facilitate collaboration between MSMEs and professional designers or design institutes",
+    "To improve product quality, aesthetics, functionality, and user experience",
+    "To support MSMEs in adopting modern design practices for sustainable growth"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises (MSMEs) registered under the MSME Act, 2006 are eligible to apply for the Design Clinic Scheme. The enterprise must be engaged in manufacturing or production of goods and seek design intervention for product development or improvement.",
+  "benefits": "MSMEs receive subsidized access to professional design services, including product conceptualization, design development, prototyping, and testing. The scheme covers a significant portion of the design consultancy fees, reducing the financial burden on MSMEs. Beneficiaries gain improved product design, enhanced market appeal, and increased potential for commercialization and export.",
+  "financial_support": "Under the Design Clinic Scheme, the government provides a subsidy of up to 75% of the total project cost for design consultancy services, with the remaining 25% to be borne by the MSME. The maximum financial support per project is capped at INR 40,000 for micro enterprises and INR 60,000 for small and medium enterprises.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 60,000 per MSME (based on enterprise category)",
+  "application_process": "1. MSMEs must first register on the official Design Clinic Scheme portal at https://designclinic.in. 2. Submit an online application detailing the product requiring design intervention and the expected outcomes. 3. Upon preliminary screening, the application is forwarded to empaneled design institutes or professionals. 4. A design problem statement is formulated and agreed upon between the MSME and the design expert. 5. The design work is carried out as per the agreed scope and timelines. 6. Final designs and deliverables are submitted, and the subsidy is disbursed after verification and approval.",
+  "application_portal_url": "https://designclinic.in",
+  "required_documents": [
+    "MSME Registration Certificate (Udyam Registration)",
+    "PAN Card of the Enterprise",
+    "GST Registration Certificate (if applicable)",
+    "Bank Account Details of the Enterprise",
+    "Product Details and Specifications",
+    "Project Proposal outlining design requirements and expected benefits"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and empaneled design partners.",
+  "implementing_agency": "Office of the Development Commissioner (MSME), Ministry of Micro, Small and Medium Enterprises",
+  "contact_details": "Email: designclinic@dcmsme.gov.in | Phone: 011-23063265",
+  "caveats": [
+    "The subsidy is available only for design consultancy services provided by empaneled design institutes or professionals",
+    "Travel, material, and prototyping costs are not covered under the scheme",
+    "Each MSME can avail the benefit only once under this scheme",
+    "The design project must be completed within the stipulated timeline as agreed in the work order",
+    "Funds are limited and subject to availability; approval does not guarantee subsidy disbursement"
+  ],
+  "source_cited_notes": [
+    "https://designclinic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:07:28.905027+00:00"
+}

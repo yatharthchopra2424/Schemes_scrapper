@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-356",
+  "scheme_name": "Mukhya Mantri Udyam Kranti Yojana",
+  "scheme_url": "https://samast.mponline.gov.in",
+  "ministry_or_category": "State Level (Madhya Pradesh)",
+  "overview": "SAMAST is a single-window online system initiated by the Government of Madhya Pradesh to facilitate access to bank-financed government schemes. It enables citizens to apply for various state-level schemes through a unified portal after completing eKYC and profile registration. The platform supports multiple departments and banks, providing application tracking and technical support services.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "citizens",
+    "entrepreneurs",
+    "MSME",
+    "startups"
+  ],
+  "geographic_scope": "Madhya Pradesh only",
+  "objectives": [
+    "Provide a single-window online system for bank-financed government schemes",
+    "Enable citizens to view and apply for schemes based on eligibility",
+    "Facilitate eKYC and profile registration for scheme access",
+    "Allow application status tracking and technical grievance redressal",
+    "Integrate multiple departments and banks under one platform"
+  ],
+  "eligibility": "Citizens must have a valid Samagra ID with active and available registered mobile number. Aadhaar e-KYC must be completed on the Samagra portal (https://samagra.gov.in). Applicants must fully fill all sections of their profile on the SAMAST portal before submitting for any scheme benefit.",
+  "benefits": "Access to apply for multiple bank-financed government schemes through a single online system. Enables eKYC verification, profile management, application submission, status tracking, and technical grievance redressal. Integrates services from 13 departments, 35 banks, and 6,530 bank branches across Madhya Pradesh.",
+  "financial_support": "SAMAST is a facilitation portal and does not directly provide financial support. It enables access to bank-financed schemes offered by various government departments, where financial support (such as loans, subsidies, or grants) is provided according to the respective scheme's terms by partner banks and implementing agencies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Complete Aadhaar e-KYC on the Samagra portal (https://samagra.gov.in). 2. Register a new applicant profile on the SAMAST portal using the Samagra ID. 3. Fill all required sections of the profile with accurate and complete information. 4. Submit the profile for validation. 5. After successful profile submission, apply for desired schemes through the portal. 6. Track application status via the portal. 7. Raise technical grievances if needed through the helpdesk.",
+  "application_portal_url": "https://samast.mponline.gov.in/portal/",
+  "required_documents": [
+    "Aadhaar number",
+    "Updated date of birth documents (if required by UIDAI)",
+    "Active mobile number linked to Samagra ID",
+    "Bank account details (for scheme-specific applications)"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted year-round after profile completion.",
+  "implementing_agency": "Government of Madhya Pradesh",
+  "contact_details": "Email: Not explicitly provided | Helpline: Tel No. : 0755-6720200 | Time : (08:30AM - 08:30PM)",
+  "caveats": [
+    "Aadhaar e-KYC must be completed on Samagra portal before SAMAST registration",
+    "Profile must be fully filled and submitted before applying for any scheme",
+    "Status update after e-KYC may take up to 24 hours",
+    "Only bank-financed government schemes of Madhya Pradesh are accessible",
+    "Technical issues must be reported via the helpdesk"
+  ],
+  "source_cited_notes": [
+    "https://samast.mponline.gov.in/",
+    "https://samast.mponline.gov.in/portal/",
+    "https://samast.mponline.gov.in/portal/SamagraRegister",
+    "https://samast.mponline.gov.in/portal/register"
+  ],
+  "last_updated_date": "22/05/2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:42:00.971272+00:00"
+}

@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-146",
+  "scheme_name": "Paramparagat Krishi Vikas Yojana (PKVY) – Organic Farming",
+  "scheme_url": "https://pgsindia-ncof.gov.in/PKVY",
+  "ministry_or_category": "Agriculture",
+  "overview": "Paramparagat Krishi Vikas Yojana (PKVY) – Organic Farming is a sub-scheme under the National Mission on Sustainable Agriculture (NMSA) aimed at promoting organic farming through cluster-based approaches and Participatory Guarantee System (PGS) certification. It supports farmers in adopting organic practices, improving soil health, and accessing domestic and export markets for organic produce. The scheme emphasizes capacity building, input support, market linkage, and certification assistance to ensure sustainable agricultural livelihoods.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "farmer groups",
+    "self-help groups",
+    "producers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote organic farming through cluster approach and PGS certification",
+    "Improve soil health and fertility through organic practices",
+    "Enhance farmer income via premium prices for organic produce",
+    "Develop domestic and export markets for organic products",
+    "Provide financial and technical assistance for organic input production",
+    "Strengthen certification and quality assurance mechanisms",
+    "Encourage sustainable agricultural practices and reduce chemical dependency"
+  ],
+  "eligibility": "Farmer groups, self-help groups, producers, and other collectives engaged in agriculture and willing to adopt organic farming practices under the Participatory Guarantee System (PGS-India) are eligible. Individual farmers can also benefit through group participation. Preference is given to small and marginal farmers, women farmers, and those from SC/ST communities.",
+  "benefits": "Financial assistance for organic input production, certification, labeling, packaging, and marketing; capacity building and training on organic practices; exposure visits; handholding support for certification; market linkage development; and access to organic premium markets. Non-financial benefits include technical guidance, quality assurance, and institutional support for PGS certification.",
+  "financial_support": "Under PKVY, financial assistance is provided to farmer groups at the rate of Rs. 50,000 per hectare for a period of three years, out of which 62% (Rs. 31,000) is given as incentive for organic conversion, input production, labeling, packaging, transportation, and marketing, and the remaining 38% (Rs. 19,000) is allocated for mobilization, capacity building, training, exposure visits, documentation, and certification expenses. The support is released in installments based on progress and verification.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Form a farmer group or self-help group with minimum 5 members practicing or willing to adopt organic farming. 2. Register the group with the concerned State Nodal Agency or Regional Council under PGS-India. 3. Submit application along with required documents including group details, farm history, and pledge. 4. Undergo verification and approval by the Regional Council. 5. Upon approval, receive user ID and password to upload data on the PGS-India portal. 6. Begin organic farming practices and maintain records for peer review and certification. 7. After completion of conversion period, apply for PGS certification through the group.",
+  "application_portal_url": "https://pgsindia-ncof.gov.in/",
+  "required_documents": [
+    "Application form",
+    "Farm history sheet",
+    "Farmers pledge",
+    "Mobile number",
+    "Aadhar number",
+    "Bank account details (optional)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department of Agriculture, Cooperation and Farmers Welfare, Ministry of Agriculture & Farmers Welfare, Government of India",
+  "contact_details": "Email: nbdc[AT]nic[DOT]in | Phone No. +91 120-2764906 +91 120-2764212 | Fax +91 120-2764901",
+  "caveats": [
+    "Financial support is provided only to organized farmer groups, not individuals directly",
+    "Benefits are contingent upon adherence to PGS-India standards and active participation in group activities",
+    "Certification is subject to verification and compliance with organic production norms",
+    "Support is limited to a maximum of 3 years per beneficiary group"
+  ],
+  "source_cited_notes": [
+    "https://pgsindia-ncof.gov.in/",
+    "https://pgsindia-ncof.gov.in/about-us",
+    "https://pgsindia-ncof.gov.in/pgs-india",
+    "https://pgsindia-ncof.gov.in/operational-structure",
+    "https://pgsindia-ncof.gov.in/Default/assets/front/PDF/Revised_PGS_India_Guidlines.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:40:41.168262+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-80",
+  "scheme_name": "Defence India Startup Challenge (DISC) – iDEX",
+  "scheme_url": "https://idex.gov.in/disc",
+  "ministry_or_category": "Space & Defence",
+  "overview": "Defence India Startup Challenge (DISC) is a sub-scheme under the Innovations for Defence Excellence (iDEX) initiative, launched by the Ministry of Defence in partnership with Atal Innovation Mission. It aims to support startups, MSMEs, and individual innovators in creating prototypes and commercializing products/solutions relevant to national defence and security. The challenge provides grant funding and additional support such as access to defence testing facilities, mentorship, and accelerator programs through iDEX partners.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "MSMEs",
+    "individual innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Help create functional prototypes of products/technologies relevant for national security (prototyping)",
+    "Spur fast-moving innovation in the India Defence sector",
+    "Help new tech products/technologies find a market and early customer (commercialization) in the form of the Indian Defence Establishment",
+    "Facilitate co-creation of novel, indigenized, and innovative technologies",
+    "Create pathways for incorporation of cutting-edge technologies to be used by Armed Forces, DPSUs and other Nodal Agencies",
+    "Transform defence innovation in India with the ultimate goal of delivering military-grade products that solve critical defence needs",
+    "Create a culture of innovation in Indian defence & aerospace by engaging innovators through encouraging co-creation & co-innovation"
+  ],
+  "eligibility": "Startups, as defined and recognized by Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India. Any Indian company incorporated under the Companies Act 1956/2013, primarily a Micro, Small and Medium Enterprises (MSMEs) as defined in the MSME Act, 2006. Individual Innovators are also encouraged to apply (research & academic institutions can also use this category).",
+  "benefits": "Grant funding up to ₹1.5 crores, access to defence testing facilities and experts for product/technology development, entry to accelerator programs run by iDEX partners for mentorship in technology and business development, and support in prototyping, pilot implementation, and market assessment.",
+  "financial_support": "Selected applications are funded up to ₹1.5 crores in the form of grant/equity/debt/other relevant structures, disbursed in tranches based on milestones decided by a high-powered selection committee. The grant is provided under the SPARK (Support for Prototype and Research Kickstart in Defence) framework.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to ₹1.5 crores",
+  "application_process": "1. Register on the iDEX website and login using credentials. 2. Complete the application form providing full details of a Single Point of Contact, Entity Details (for Startups/MSMEs), and Proposal Details including problem statement selection, funding level, technical and financial details, patents/research papers, and tentative business plan. 3. Upload required documents. 4. Submit the application. 5. Applications are screened by a duly constituted high-powered committee of defence and technology experts. 6. Shortlisted applications undergo evaluation by the High Powered Screening Committee (HPSC) on parameters including relevance, comprehensiveness, innovation, feasibility, capability, and viability. 7. Final winners are declared based on HPSC recommendations.",
+  "application_portal_url": "https://idex.gov.in/",
+  "required_documents": [
+    "Full Details of a Single Point of Contact",
+    "Entity Details (for Startups/MSMEs)",
+    "Proposal Details including problem statement selection, funding level, technical and financial details",
+    "Mention of relevant patents and research papers by the applicant (if any)",
+    "Tentative business plan"
+  ],
+  "deadlines": "Rolling basis — specific challenge deadlines vary (e.g., DISC 12 Re Open: Last Date - 30 Sep, 2026 11:59 PM; Open Challenge: Last Date - 04 May, 2026 5:00 PM)",
+  "implementing_agency": "Defence Innovation Organisation (DIO)",
+  "contact_details": "idexdio[at]ddpmod[dot]gov[dot]in | 011-23012527 (Office)",
+  "caveats": [
+    "Individual innovators must establish a legal entity (public limited company, private limited company, partnership firm, LLP, one-person company, or sole proprietorship) prior to execution of the iDEX Grant Agreement",
+    "A Startup/MSME can hold a maximum of five (5) active iDEX contracts at any given time, including one (1) contract under an ADITI Challenge",
+    "Entities with common founders/promoters/related parties are collectively subject to the five-contract limit",
+    "An entity holding three (3) or more active iDEX contracts where at least two (2) contracts have not received technical concurrence for Milestone 3 closure is ineligible for new challenges",
+    "Grant amount may be increased beyond prescribed limit in special cases by the high-powered committee",
+    "Funding is subject to milestone-based disbursement and cannot be used for prohibited expenditures like cost of land/buildings, establishment of R&D centres, writing books/reports, investments, interest on loans, bad debts, contributions/donations, fines/penalties, advocacy, losses from other businesses, or unapproved capital/operating expenditures"
+  ],
+  "source_cited_notes": [
+    "https://idex.gov.in/challenges",
+    "https://idex.gov.in/en/challenges",
+    "https://idex.gov.in/how_to_apply",
+    "https://idex.gov.in/faq",
+    "https://idex.gov.in/financial-faq",
+    "https://idex.gov.in/uploads/resources/1726729375_a706d8ad0ebe4d13abac.pdf",
+    "https://idex.gov.in/uploads/resources/1700215966_01115b225ef4d436c635.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:05:49.877298+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-500",
+  "scheme_name": "Corporate Social Responsibility (CSR) Innovation Fund",
+  "scheme_url": "https://www.mca.gov.in/csr",
+  "ministry_or_category": "Social Entrepreneurship",
+  "overview": "The Corporate Social Responsibility (CSR) Innovation Fund is a scheme under the Ministry of Corporate Affairs aimed at promoting CSR activities and innovation in corporate compliance. The scheme is part of the broader CSR framework governed by the Companies Act, 2013 and related circulars, encouraging companies to allocate funds toward social welfare and sustainable development initiatives.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "companies",
+    "corporations",
+    "NGOs",
+    "social enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote corporate social responsibility initiatives across India",
+    "Encourage innovation in CSR projects and implementation",
+    "Facilitate compliance with CSR provisions under the Companies Act, 2013",
+    "Support scalable and impactful social welfare programs",
+    "Strengthen partnerships between corporates and implementing agencies"
+  ],
+  "eligibility": "Companies meeting the CSR applicability criteria under Section 135 of the Companies Act, 2013 (net worth of ₹500 crore or more, or turnover of ₹1000 crore or more, or net profit of ₹5 crore or more during any financial year) are required to constitute a CSR Committee and spend at least 2% of their average net profits of the preceding three financial years on CSR activities.",
+  "benefits": "Compliance with legal CSR obligations, enhanced brand reputation, contribution to sustainable development, access to government-recognized CSR projects, and potential tax benefits under applicable provisions of the Income Tax Act.",
+  "financial_support": "Companies are required to spend at least 2% of their average net profits from the preceding three financial years on CSR activities. The funds are to be utilized through registered trusts, societies, or Section 8 companies engaged in CSR projects, or directly by the company for approved initiatives.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Constitute a CSR Committee as per Section 135 of the Companies Act, 2013. 2. Formulate a CSR policy and approve projects aligned with Schedule VII of the Act. 3. Ensure expenditure of at least 2% of average net profits on CSR. 4. Monitor and report CSR spending annually in the Board’s Report. 5. File CSR-related forms (e.g., CSR-2) on the MCA portal.",
+  "application_portal_url": "https://www.mca.gov.in/csr",
+  "required_documents": [
+    "CSR Policy document",
+    "CSR Committee meeting minutes",
+    "Details of CSR projects undertaken",
+    "Utilization certificates from implementing agencies",
+    "CSR-2 form filed annually",
+    "Board’s Report disclosing CSR expenditure"
+  ],
+  "deadlines": "Annual filing — CSR-2 form to be filed within 30 days from the close of the financial year.",
+  "implementing_agency": "Ministry of Corporate Affairs",
+  "contact_details": "",
+  "caveats": [
+    "CSR expenditure must align with activities listed in Schedule VII of the Companies Act, 2013",
+    "Unspent CSR funds must be transferred to a specified fund (e.g., Schedule VII funds) within six months of the financial year end",
+    "Penalties apply for non-compliance with CSR spending and reporting requirements",
+    "Direct contributions to political parties are not considered valid CSR expenditure"
+  ],
+  "source_cited_notes": [
+    "https://www.mca.gov.in/csr"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:00:29.883851+00:00"
+}

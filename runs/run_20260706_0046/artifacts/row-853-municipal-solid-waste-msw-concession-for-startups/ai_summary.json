@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-853",
+  "scheme_name": "Municipal Solid Waste (MSW) Concession for Startups",
+  "scheme_url": "https://mohua.gov.in",
+  "ministry_or_category": "Waste Management",
+  "overview": "The Municipal Solid Waste (MSW) Concession for Startups is a scheme under the Ministry of Housing and Urban Affairs (MoHUA) aimed at supporting startups in the waste management sector. It is part of broader urban sanitation initiatives like Swachh Bharat Mission-Urban (SBM-U) and the Urban Challenge Fund (UCF), which promote scientific solid waste management and innovation in urban infrastructure. The scheme encourages private sector participation, including startups, to contribute to garbage-free cities under SBM-U 2.0.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Achieve 100% scientific solid waste management in urban areas",
+    "Promote innovation and private sector participation in waste management",
+    "Support the vision of 'Garbage Free' cities under Swachh Bharat Mission-Urban 2.0",
+    "Leverage market-based financing through the Urban Challenge Fund for sustainable infrastructure",
+    "Encourage public-private partnerships in solid waste and sanitation projects"
+  ],
+  "eligibility": "Startups engaged in municipal solid waste management, processing, recycling, or related innovative technologies are eligible. They must be registered entities under Indian law and operate within statutory towns as per Census 2011 or subsequently notified areas. Preference may be given to those contributing to SBM-U 2.0 goals and UCF-admissible projects in waste processing, waste-to-energy, or material recovery facilities.",
+  "benefits": "Selected startups may receive concessions in the form of subsidies, priority access to UCF-funded projects, technical support, and facilitation in public-private partnerships. They can benefit from capacity building, access to MoHUA’s digital platforms, and inclusion in national urban sanitation initiatives. Non-financial benefits include recognition, networking with ULBs, and support in scaling innovative waste management solutions.",
+  "financial_support": "Financial support is provided through the Urban Challenge Fund (UCF), where Central Assistance (CA) acts as catalytic support, covering up to 25% of project cost, with at least 50% of the remaining cost to be funded via bonds, bank loans, or PPPs. Startups can participate as private partners in UCF-admissible projects such as waste recycling facilities, waste-to-energy plants, and material recovery facilities (MRFs).",
+  "fund_size_crores": "100000",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify an admissible project under UCF verticals such as 'Circularity' (which includes waste recycling, waste-to-energy, and MRFs). 2. Partner with an Urban Local Body (ULB) or State nodal agency to develop a Detailed Project Report (DPR). 3. Submit the DPR for appraisal through the State Level Technical Committee (SLTC) and State High Powered Steering Committee (SHPSC). 4. Obtain approval from the National Apex Committee (NAC). 5. Secure funding with 25% Central Assistance, 50%+ from market sources (bonds, loans, PPP), and the remainder from State/ULB share. 6. Implement the project with monitoring via National Project Management Unit and IRMA.",
+  "application_portal_url": "https://mohua.gov.in/offerings/schemes-and-services/details/urban-challenge-fund-MDNzUzMtQWa",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Detailed Project Report (DPR)",
+    "Board resolution authorizing the application",
+    "Audited financial statements (if applicable)",
+    "Technical feasibility report",
+    "Letters of support from ULB or State agency",
+    "GST registration certificate",
+    "UDYAM registration (if applicable as startup/MSME)"
+  ],
+  "deadlines": "Rolling basis — subject to annual budget cycles and UCF tranche windows",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "Email: secyurban@nic.in | Phone: 011-23061444, 23061991 (as per D. Thara, Joint Secretary, MoHUA)",
+  "caveats": [
+    "Central Assistance is limited to 25% of project cost; at least 50% must come from market-based sources (bonds, loans, PPPs)",
+    "Only projects in UCF-admissible verticals (including waste processing, waste-to-energy, MRFs) are eligible",
+    "Startups must collaborate with ULBs or State agencies as implementing agencies cannot be private entities alone",
+    "Funds are disbursed in tranches linked to project milestones and utilization certificates",
+    "The scheme is subject to availability of funds and annual budget allocations"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in/static/uploads/2026/04/7950afb9b2d5cb773ba3d6c64bde9726.pdf",
+    "https://mohua.gov.in/offerings/schemes-and-services/details/swachh-bharat-mission-gjN5cTMtQWa",
+    "https://mohua.gov.in/offerings/schemes-and-services/details/urban-challenge-fund-MDNzUzMtQWa"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:26:16.448694+00:00"
+}

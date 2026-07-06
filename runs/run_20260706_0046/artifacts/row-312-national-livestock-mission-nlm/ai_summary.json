@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-312",
+  "scheme_name": "National Livestock Mission (NLM)",
+  "scheme_url": "https://dahd.nic.in/nlm",
+  "ministry_or_category": "Animal Husbandry",
+  "overview": "The National Livestock Mission (NLM) is a centrally sponsored scheme launched by the Government of India to ensure sustainable development of the livestock sector, focusing on improving productivity, supporting entrepreneurship, and promoting breed improvement, fodder development, and risk management. It aims to enhance livestock production through capacity building, technology adoption, and infrastructure development, with special attention to small and marginal farmers, livestock rearers, and entrepreneurs in rural areas. The mission operates through four sub-missions: Livestock Development, Pig Development in the Northeastern Region, Feed and Fodder Development, and Skill Development, Technology Transfer, and Extension.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers",
+    "livestock rearers",
+    "entrepreneurs",
+    "self-help groups",
+    "cooperatives",
+    "MSME",
+    "agri-startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure sustainable development and growth of the livestock sector",
+    "Increase availability of fodder and feed to reduce scarcity",
+    "Promote entrepreneurship and breed improvement in livestock",
+    "Transfer technology and build capacity of stakeholders",
+    "Provide risk management and disease control support",
+    "Enhance production and productivity of livestock and poultry",
+    "Support development of small ruminants, pigs, and poultry in rural areas",
+    "Strengthen extension services and skill development in animal husbandry"
+  ],
+  "eligibility": "Eligible beneficiaries include individual farmers, livestock rearers, self-help groups (SHGs), joint liability groups (JLGs), cooperatives, producer companies, NGOs, and MSMEs engaged in animal husbandry activities. Priority is given to small and marginal farmers, SC/ST communities, women entrepreneurs, and those involved in breed improvement, fodder production, poultry, piggery, goat and sheep rearing, and dairy entrepreneurship. Applicants must have valid land records or lease agreements where applicable and must comply with state-specific implementation guidelines.",
+  "benefits": "Benefits include financial assistance in the form of subsidies for setting up livestock farms, breed improvement programs, fodder production units, poultry and piggery units, sheep and goat rearing, and dairy entrepreneurship. Non-financial benefits encompass technical guidance, training and capacity building, access to improved breeds and seeds, veterinary support, market linkages, and extension services. The scheme also supports risk management through livestock insurance and provides incentives for entrepreneurship development and skill training in animal husbandry and allied sectors.",
+  "financial_support": "Financial support is provided as a centrally sponsored scheme with cost-sharing between the Central and State Governments in the ratio of 60:40 for general category states, 90:10 for Northeastern and Himalayan states, and 100% central funding for Union Territories. Subsidy quantum varies by component: up to 50% of project cost for poultry, piggery, goat and sheep rearing, and dairy units; up to 75% for SC/ST beneficiaries; and up to 90% for specific components like fodder block making and silage production under the Feed and Fodder Development Sub-Mission. Assistance is released in installments based on verification of progress and utilization of previous funds.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant component under the National Livestock Mission (e.g., poultry, piggery, fodder, breed improvement). 2. Contact the State Implementing Agency (SIA) or District Animal Husbandry Office for guidance and application forms. 3. Prepare a detailed project report including cost estimates, land details, and beneficiary information. 4. Submit the application along with required documents to the concerned District Animal Husbandry Officer or State Nodal Agency. 5. Application undergoes scrutiny and field verification by the concerned authorities. 6. Upon approval, sanction letter is issued and funds are released in installments as per progress. 7. Beneficiary must complete the project within the stipulated time and submit utilization certificates and completion reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form (as prescribed by State Implementing Agency)",
+    "Detailed Project Report (DPR)",
+    "Proof of identity (Aadhaar, Voter ID, etc.)",
+    "Proof of address",
+    "Land ownership documents or lease agreement",
+    "Bank account details (passbook or cancelled cheque)",
+    "Category certificate (SC/ST/OBC, if applicable)",
+    "Passport-sized photographs",
+    "No Objection Certificate (NOC) from Pollution Control Board (if required)",
+    "Affidavit regarding correctness of information"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and state-specific allocation windows.",
+  "implementing_agency": "Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is subject to availability of funds and state-wise allocation under the mission",
+    "Beneficiaries must not have availed similar benefits for the same component from other central or state schemes",
+    "Projects must be completed within the stipulated time frame; delay may lead to cancellation of sanction",
+    "Utilization certificates and completion reports are mandatory for release of subsequent installments",
+    "Benefits are not applicable for commercial livestock farming exceeding prescribed unit sizes under the scheme guidelines"
+  ],
+  "source_cited_notes": [
+    "https://dahd.nic.in/nlm"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:13:23.011209+00:00"
+}

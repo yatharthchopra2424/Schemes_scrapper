@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-403",
+  "scheme_name": "Smart Metering Implementation (AMISP)",
+  "scheme_url": "https://powermin.gov.in",
+  "ministry_or_category": "Power & Electricity",
+  "overview": "The Smart Metering Implementation (AMISP) scheme under the Revamped Distribution Sector Scheme focuses on deploying prepaid smart metering, system metering, and distribution infrastructure works to improve operational and financial stability of discoms/power departments (excluding private discoms). Financial assistance under the scheme is contingent on meeting pre-qualification norms and achieving minimum standards by discoms, with performance evaluated annually on parameters like AT&C losses, ACS-ARR gap, infrastructure upgradation, consumer services, and supply hours. The scheme aims to reduce pan-India AT&C losses to 12-15% and ACS-ARR gap to zero by 2024-25, while enabling consumer empowerment through prepayment smart metering in PPP mode and leveraging AI/OT data for energy accounting and decision-making on loss reduction, demand forecasting, ToD tariffs, renewable integration, and futuristic analysis.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "discoms",
+    "power departments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve operational capability and financial stability of all discoms/power departments excluding private discoms",
+    "Reduce pan-India AT&C losses to 12-15% by 2024-25",
+    "Reduce ACS-ARR gap to zero by 2024-25",
+    "Enable consumer empowerment through prepayment smart metering in PPP mode",
+    "Leverage AI/OT equipment for data analysis to prepare monthly energy accounting reports",
+    "Inform discom decisions on loss reduction, demand forecasting, ToD tariff, RE integration, and futuristic analysis",
+    "Converge with PM-KUSUM for solarisation of agricultural feeders to provide daytime power to farmers",
+    "Consider all northeastern states/UTs including Sikkim, Ladakh, HP, UK, ANL, and Lakshadweep as special category states"
+  ],
+  "eligibility": "Discoms/power departments (excluding private discoms) must achieve a minimum of 60% score on performance parameters and cross the minimum threshold to be eligible for funding under the scheme against that year's allocation. Performance is evaluated annually on pre-agreed parameters including AT&C losses, ACS-ARR gap, infrastructure upgradation performance, consumer services, supply hours, etc.",
+  "benefits": "Financial assistance for prepaid smart metering, system metering, and distribution infrastructure works; consumer empowerment through prepayment smart metering in PPP mode; utilization of AI/OT equipment for analyzing data from smart meters and IT/OT systems to generate monthly energy accounting reports; informed decision-making on loss reduction, demand forecasting, time-of-day (ToD) tariffs, renewable energy (RE) integration, and futuristic analysis; convergence with PM-KUSUM for solarising agricultural feeders to supply daytime power to farmers.",
+  "financial_support": "Financial assistance under the Revamped Distribution Sector Scheme is provided for prepaid smart metering, system metering, and distribution infrastructure works, subject to discoms meeting pre-qualification eligibility norms and achieving basic minimum standards. Assistance is based on performance evaluation against agreed parameters, with discoms needing to score at least 60% and clear minimum thresholds to qualify for funding in a given year.",
+  "fund_size_crores": "303758",
+  "grant_amount_per_entity": "",
+  "application_process": "",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Power, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Private discoms are excluded from the scheme's benefits",
+    "Eligibility requires scoring minimum 60% on performance parameters and meeting basic minimum standards",
+    "Funding is contingent on annual performance evaluation against agreed benchmarks",
+    "Scheme period is five years from FY 2021-22 to FY 2025-26"
+  ],
+  "source_cited_notes": [
+    "https://powermin.gov.in/offerings/schemes-and-services/details/revamped-distribution-scheme-IDO4MTMtQWa"
+  ],
+  "last_updated_date": "2021",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:18:31.731049+00:00"
+}

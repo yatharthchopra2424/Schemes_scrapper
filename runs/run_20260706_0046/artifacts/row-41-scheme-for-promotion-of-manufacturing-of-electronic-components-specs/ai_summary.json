@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-41",
+  "scheme_name": "Scheme for Promotion of Manufacturing of Electronic Components (SPECS)",
+  "scheme_url": "https://www.meity.gov.in/specs",
+  "ministry_or_category": "Electronics",
+  "overview": "The Scheme for Promotion of Manufacturing of Electronic Components and Semiconductors (SPECS) is a financial incentive scheme launched by the Ministry of Electronics and Information Technology (MeitY) to promote domestic manufacturing of electronic components and semiconductors. It aims to reduce import dependency and strengthen India's position in the global electronics value chain by providing financial support to eligible applicants setting up new manufacturing units or expanding existing ones.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "manufacturing units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote domestic manufacturing of electronic components and semiconductors",
+    "Reduce import dependency in the electronics sector",
+    "Attract investments in the electronics manufacturing value chain",
+    "Enhance competitiveness of Indian electronics manufacturers globally",
+    "Create employment opportunities in the electronics manufacturing sector",
+    "Support Make in India and Atmanirbhar Bharat initiatives"
+  ],
+  "eligibility": "Eligible applicants include companies registered in India under the Companies Act, 2013 or earlier, or Limited Liability Partnerships (LLPs) registered under the LLP Act, 2008, engaged in the manufacturing of notified electronic components. The applicant must have a minimum net worth as specified in the scheme guidelines and must not have availed benefits under any other central or state government scheme for the same investment. The manufacturing unit must be located in India and commence commercial production within the stipulated time frame.",
+  "benefits": "Financial incentive in the form of reimbursement of capital expenditure incurred on plant, machinery, equipment, and associated utilities for setting up a new manufacturing unit or expansion of an existing unit. The incentive is provided as a percentage of the capital expenditure, subject to a ceiling per unit of investment. Non-financial benefits include facilitation of clearances, technical support, and promotion of domestic value addition in the electronics supply chain.",
+  "financial_support": "The scheme provides financial support as a subsidy ranging from 25% to 50% of the capital expenditure on plant, machinery, equipment, and associated utilities, depending on the category of electronic component. The subsidy is disbursed in installments linked to the achievement of milestones such as commencement of commercial production and verification of capital expenditure. The total outlay of the scheme is INR 3,280 crore.",
+  "fund_size_crores": "3280",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Applicants must register on the National Single Window System (NSWS) portal. 2.0 the application form along with detailed project report, incorporation documents, board resolution, and details of proposed investment. 3. The application is scrutinized by the Project Management Agency (PMA) appointed by MeitY. 4. Upon approval, a Letter of Approval is issued. 5. After commencement of commercial production, the applicant submits claims for reimbursement with supporting documents such as chartered accountant certificates, bank statements, and invoices. 6. Claims are verified by the PMA and subsidy is disbursed to the applicant's bank account.",
+  "application_portal_url": "https://nsws.gov.in/",
+  "required_documents": [
+    "Certificate of Incorporation / LLP Registration",
+    "Memorandum and Articles of Association / LLP Agreement",
+    "Board Resolution authorizing the application",
+    "Detailed Project Report (DPR)",
+    "Land documents (ownership/lease agreement)",
+    "Quotations for plant, machinery, and equipment",
+    "Details of proposed investment and financing plan",
+    "Undertaking regarding non-availing of benefits from other central/state schemes",
+    "Net worth certificate from a Chartered Accountant",
+    "Pollution Clearance Certificate (if applicable)",
+    "Factory License / Industrial Entrepreneur Memorandum (IEM)"
+  ],
+  "deadlines": "The scheme was open for applications from 1st April 20 to 2023. No further applications are being accepted as the scheme has reached its financial closure.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: specs@meity.gov.in | Helpline: 011-24301234",
+  "caveats": [
+    "The scheme is applicable only for notified electronic components as per the list issued by MeitY",
+    "Subsidy is capped at a maximum amount per unit of investment as specified in the scheme guidelines",
+    "Claims must be submitted within the stipulated time frame after commencement of commercial production",
+    "The scheme has reached financial closure and is no longer accepting new applications"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/specs",
+    "https://meity.gov.in/documents/guidelines",
+    "https://meity.gov.in/documents/gazettes-notifications"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:40:56.962773+00:00"
+}

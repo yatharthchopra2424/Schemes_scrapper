@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-856",
+  "scheme_name": "National Marine Fisheries Data Centre (NMFDC)",
+  "scheme_url": "https://www.cmfri.org.in",
+  "ministry_or_category": "Blue Economy",
+  "overview": "The National Marine Fisheries Data Centre (NMFDC) is maintained by the ICAR-Central Marine Fisheries Research Institute (CMFRI) and serves as a repository for marine fisheries data. It contains over 9 million catch and effort data records from all maritime states of India for more than 1000 fished species. The NMFDC supports sustainable fisheries management through data collection, analysis, and dissemination.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "researchers",
+    "policy makers",
+    "fisheries managers",
+    "academicians"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Maintain and update the National Marine Fisheries Data Centre with catch and effort data",
+    "Provide data for stock assessment and fisheries management plans",
+    "Support sustainable marine fisheries stewardship through behavioral analysis and capacity building",
+    "Enable policy formulation based on socio-economic factors and resource use efficiency",
+    "Facilitate research on marine biodiversity and ecosystem modeling"
+  ],
+  "eligibility": "The NMFDC is a data repository maintained by CMFRI and does not have a direct application process for external beneficiaries. Data is collected through CMFRI's research activities and monitoring programs.",
+  "benefits": "Access to over 9 million catch and effort data records for more than 1000 fished species from all maritime states of India. Supports stock assessment, potential yield estimation, optimum fleet size determination, and development of fisheries management plans. Enables research on marine fisheries ecosystems, socio-economic investigations, and policy advisories.",
+  "financial_support": "The NMFDC is maintained as part of CMFRI's core research infrastructure under the Fishery Resources Assessment, Economics & Extension Division. No separate financial support is provided to external entities for accessing the data centre.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The NMFDC is not a scheme with an application process for external beneficiaries. It is an internal data repository maintained by CMFRI for research and policy support. Data is generated through CMFRI's monitoring programs and research projects.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Not applicable",
+  "implementing_agency": "ICAR-Central Marine Fisheries Research Institute (CMFRI), under the Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: director.cmfri@icar.org.in | Phone: 0484 2394867 (Office)",
+  "caveats": [
+    "Data access may be subject to CMFRI's data sharing policies",
+    "The NMFDC is primarily for internal research and policy support",
+    "External access to data may require formal requests and approvals"
+  ],
+  "source_cited_notes": [
+    "https://cmfri.org.in/about-us",
+    "https://cmfri.org.in/division/fishery-economics",
+    "http://eprints.cmfri.org.in/18269/1/CMFRI_2024_Brochure.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:27:57.442262+00:00"
+}

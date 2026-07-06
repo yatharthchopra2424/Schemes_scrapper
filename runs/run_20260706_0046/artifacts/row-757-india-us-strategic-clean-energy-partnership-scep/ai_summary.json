@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-757",
+  "scheme_name": "India-US Strategic Clean Energy Partnership (SCEP)",
+  "scheme_url": "https://www.energy.gov/ia/india",
+  "ministry_or_category": "International Collaboration",
+  "overview": "The India-US Strategic Clean Energy Partnership (SCEP) is a bilateral initiative between India and the United States to advance clean energy cooperation, focusing on renewable energy, energy efficiency, and emerging technologies. It aims to strengthen collaboration in areas such as solar, wind, hydrogen, and grid modernization through joint research, policy dialogue, and technology deployment. The partnership supports India's clean energy transition and climate goals while promoting U.S. engagement in India's energy sector. SCEP operates under the framework of the U.S.-India Strategic Energy Partnership and is co-led by the U.S. Department of Energy and Indian government agencies.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "government agencies",
+    "research institutions",
+    "private sector",
+    "energy companies"
+  ],
+  "geographic_scope": "India and United States",
+  "objectives": [
+    "Accelerate deployment of clean energy technologies",
+    "Strengthen policy and regulatory cooperation",
+    "Promote joint research and development in renewable energy",
+    "Enhance grid resilience and modernization",
+    "Advance hydrogen and energy storage solutions",
+    "Support energy efficiency and demand-side management",
+    "Facilitate investment and financing for clean energy projects"
+  ],
+  "eligibility": "Eligibility is open to entities from India and the United States, including government agencies, national laboratories, research institutions, private companies, and non-profit organizations engaged in clean energy innovation, deployment, or policy development under the SCEP framework.",
+  "benefits": "Benefits include access to joint funding opportunities, technical collaboration with U.S. national laboratories and Indian research institutions, participation in bilateral working groups, technology transfer, pilot project demonstration projects in solar, wind, hydrogen, and grid technologies, and support for clean energy entrepreneurship and workforce development.",
+  "financial_support": "Financial support is provided through competitive funding opportunities announced by the U.S. Department of Energy, including grants, cooperative agreements, and technical assistance, with specific amounts varying by opportunity (e.g., up to $11 million for SolWEB2, up to $12.5 million for Circular Supply Chains Accelerator). Funding is subject to Congressional appropriations and awarded via merit-based selection.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify relevant funding opportunity on the U.S. Department of Energy website under SCEP or related offices (e.g., CMEI, EERE, GDO). 2. Review eligibility, deadlines, and required documents in the Notice of Funding Opportunity (NOFO). 3. Submit a concept paper (if required) by the specified date via EERE Exchange. 4. Upon concept paper approval, submit a full application through EERE Exchange before the deadline. 5. Applications undergo merit review; selected applicants are notified for award negotiations.",
+  "application_portal_url": "https://eere-exchange.energy.gov/",
+  "required_documents": [
+    "Concept paper",
+    "Full application",
+    "Teaming Partner List submission (if applicable)",
+    "Investigator and organization details",
+    "Background and capabilities statement",
+    "Website and contact information",
+    "Letters of intent (if requested)",
+    "Budget justification"
+  ],
+  "deadlines": "Varies by opportunity; examples include concept paper deadlines of February 14, 2025 (SolWEB2) and March 31, 2025 (Circular Supply Chains Accelerator), with full application deadlines ranging from May 2, 2025 to July 18, 2025.",
+  "implementing_agency": "U.S. Department of Energy (DOE), in coordination with the Government of India",
+  "contact_details": "For NOFO-specific support: solarwildlife@ee.doe.gov (SolWEB2), Circularity.NOFO.FY25@ee.doe.gov (Circular Supply Chains Accelerator); general inquiries: DOENews@hq.doe.gov",
+  "caveats": [
+    "Funding is subject to future Congressional appropriations",
+    "Applications must be submitted via EERE Exchange",
+    "Concept papers are mandatory prior to full application for certain opportunities",
+    "Award amounts and number of awards vary by opportunity",
+    "Teaming Partner List does not imply DOE endorsement of participant qualifications"
+  ],
+  "source_cited_notes": [
+    "https://energy.gov/ia/india",
+    "https://energy.gov/funding-opportunities",
+    "https://energy.gov/eere/funding/eere-funding-opportunities",
+    "https://energy.gov/cmei/systems/funding-notice-solar-wildlife-and-ecosystem-benefits-2-solweb2",
+    "https://energy.gov/cmei/ammto/funding-notice-circular-supply-chains-accelerator"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:37:23.845723+00:00"
+}

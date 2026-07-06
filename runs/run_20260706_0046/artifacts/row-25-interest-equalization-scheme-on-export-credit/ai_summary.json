@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-25",
+  "scheme_name": "Interest Equalization Scheme on Export Credit",
+  "scheme_url": "https://rbi.org.in",
+  "ministry_or_category": "Export Promotion",
+  "overview": "The Interest Equalization Scheme on Export Credit is a scheme administered by the Reserve Bank of India (RBI) to provide interest equalization support on pre- and post-shipment rupee export credit extended by banks to exporters. The scheme aims to enhance the competitiveness of Indian exports by reducing the effective cost of credit for exporters. It is administered by the RBI under the authority of the Reserve Bank of India Act, 1934, and is part of the RBI's developmental and regulatory policies to support export promotion.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "exporters",
+    "MSME exporters",
+    "manufacturing exporters",
+    "services exporters",
+    "agricultural exporters"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance the competitiveness of Indian exports in the global market",
+    "To reduce the effective cost of rupee export credit for exporters",
+    "To support MSME exporters in accessing affordable credit",
+    "To promote exports in sectors such as manufacturing, agriculture, and services",
+    "To align with the Foreign Trade Policy of India for export promotion",
+    "To provide interest equalization support on pre- and post-shipment rupee export credit"
+  ],
+  "eligibility": "The scheme is available to all exporters of merchandise and services who are availing pre- and post-shipment rupee export credit from banks in India. The exporter must be a resident of India and the export must be in freely convertible currency. The scheme covers exports under the Foreign Trade Policy of India. MSME exporters are eligible for a higher rate of interest equalization under the scheme.",
+  "benefits": "The scheme provides interest equalization support on rupee export credit, reducing the effective cost of credit for exporters. The benefit is provided as a reimbursement of a portion of the interest charged by banks on export credit. The rate of interest equalization is 3% for all exporters and an additional 2% for MSME exporters, making it 5% for MSMEs. The benefit is credited directly to the exporter's account by the bank after claiming reimbursement from the RBI.",
+  "financial_support": "The scheme provides interest equalization support at the rate of 3% per annum for all exporters and an additional 2% per annum for MSME exporters on the outstanding amount of rupee export credit. The support is provided as a reimbursement to banks, which then pass on the benefit to exporters by reducing the effective interest rate on export credit. The scheme is funded by the Government of India and administered by the Reserve Bank of India.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Exporter avails pre- or post-shipment rupee export credit from a bank in India. 2. Bank charges interest on the export credit as per prevailing rates. 3. Bank claims reimbursement of interest equalization from the Reserve Bank of India at the rate of 3% per annum (or 5% for MSME exporters) on the outstanding export credit. 4. RBI reimburses the claimed amount to the bank. 5. Bank passes on the benefit to the exporter by reducing the effective interest rate on the export credit.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Export order or contract",
+    "Shipping bill or bill of export",
+    "Bank certificate of export credit availed",
+    "Bank statement showing interest charged",
+    "Proof of realization of export proceeds",
+    "MSME certificate (if applicable for additional benefit)",
+    "Bank reconciliation statement"
+  ],
+  "deadlines": "Claims can be submitted by banks to the RBI on a quarterly basis within the stipulated time frame after the end of each quarter. There is no fixed deadline for exporters to avail the benefit, as it is passed on by banks upon disbursement of export credit.",
+  "implementing_agency": "Reserve Bank of India",
+  "contact_details": "Email: helpdoc@rbi.org.in | Phone: 022 - 2266 0502",
+  "caveats": [
+    "The benefit is available only on rupee export credit, not on foreign currency credit",
+    "The benefit is available only for exports under the Foreign Trade Policy of India",
+    "MSME exporters must possess a valid MSME registration to avail the additional 2% benefit",
+    "The benefit is available only on the outstanding amount of export credit and not on overdue amounts",
+    "Banks must submit claims to the RBI within the stipulated quarterly timeframe",
+    "The benefit is not available on deferred credit or usance bills beyond the usance period"
+  ],
+  "source_cited_notes": [
+    "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR48D7FCFA63429D439E9D1D89508B2AD104.PDF",
+    "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR541A7327933D2064CB9890D2DCC498C05CC.PDF",
+    "https://rbidocs.rbi.org.in/rdocs/PressRelease/PDFs/PR545C6123CF54F644562B1EF463F869DA788.PDF"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T19:34:37.573236+00:00"
+}

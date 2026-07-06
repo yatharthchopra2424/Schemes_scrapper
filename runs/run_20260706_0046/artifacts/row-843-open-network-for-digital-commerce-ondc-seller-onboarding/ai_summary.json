@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-843",
+  "scheme_name": "Open Network for Digital Commerce (ONDC) Seller Onboarding",
+  "scheme_url": "https://ondc.org",
+  "ministry_or_category": "Retail & Consumer",
+  "overview": "Open Network for Digital Commerce (ONDC) is a government initiative to create an open, interoperable, and inclusive digital commerce network in India. It enables businesses of all sizes, especially MSMEs, startups, and small retailers, to participate in e-commerce through a decentralized protocol. ONDC aims to democratize digital commerce by reducing platform monopolies and expanding market access for sellers across categories and geographies.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "startups",
+    "women entrepreneurs",
+    "small businesses",
+    "farmers",
+    "SC/ST-led enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase e-commerce penetration in India from 4.3% to its maximum potential",
+    "Enable population-scale inclusion of all types and sizes of sellers in digital commerce",
+    "Empower startups to grow collaboratively through scalable and cost-effective e-commerce",
+    "Formalize businesses by creating digital history and enabling easier access to finance",
+    "Expand geographic and socio-economic coverage of digital commerce in India",
+    "Enable increased trade of locally manufactured goods to multiply investment and production of MSMEs",
+    "Provide equal opportunity for sellers to compete with large market players and become discoverable online",
+    "Ensure seamless shopping experience for buyers with unified checkout across categories"
+  ],
+  "eligibility": "Any business entity, including offline sellers, online sellers, or both, can join ONDC as a Seller Network Participant. Eligible roles include Inventory Seller Node (ISN) for those who produce or manufacture and sell their own inventory, or Marketplace Seller Node (MSN) for those who want to sell through ONDC Network marketplaces. There is no restriction based on turnover, years in operation, or entity type — any business can participate as long as it can deliver high-quality service aligned with its chosen role.",
+  "benefits": "Sellers gain equal opportunity to compete with large market players and become discoverable online. Buyers enjoy a seamless shopping experience from a wide assortment of products across categories in a single checkout. Tech companies achieve rapid adoption and scale in go-to-market efforts. FinTechs can provide credit and financing solutions to all e-commerce entities. Sellers benefit from 24/7 convenience via ONDC Network QR Code, visibility across multiple buyer applications, timely payments, and access to wider customer bases. The network enables structured discovery, sustainable execution, and helps in moving non-moving inventory. Women-led businesses gain access to broader digital marketplaces and increased visibility across buyer apps.",
+  "financial_support": "ONDC itself does not provide direct financial support to sellers. However, the Ministry of MSME has launched the MSME Trade Enablement and Marketing (TEAM) Initiative in partnership with ONDC, with a budget of ₹277.35 crore over three years to onboard 5 lakh Micro and Small Enterprises (MSEs), 50% of which are women-led. This initiative provides financial incentives, training, and grievance support to Seller Network Participants to facilitate catalogue creation, operations, and account management. Additionally, ONDC has introduced fully digital, paperless loans in just 6 minutes through integration with 9 Lending Service Providers and 3 lenders, enhancing access to credit for network participants.",
+  "fund_size_crores": "277.35",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Sign up on the ONDC Participant Portal and create a profile. 2. Explore introductory resources and attend community webinars. 3. Select your role (e.g., Seller Network Participant) and domain (e.g., Retail, Grocery, Fashion). 4. Integrate with ONDC APIs and test your solution in Staging, Pre-Production, and Production environments. 5. Qualify the requirements and Go-Live on the ONDC network.",
+  "application_portal_url": "https://portal.ondc.org/merchant-registration",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry, Government of India",
+  "contact_details": "Email: team@ondc.org | Address: Open Network For Digital Commerce (ONDC), 2nd Floor & 3rd Floor, 7/6, August Kranti Marg, Siri Fort Institutional Area, Near Siri Fort Auditorium, New Delhi - 110049",
+  "caveats": [
+    "ONDC is not an application, platform, intermediary, or software but a set of specifications for open, unbundled, and interoperable networks.",
+    "ONDC does not endorse any buyer or seller application; branding and logos are owned by respective network participants.",
+    "ONDC is not a party to any transaction made through buyer applications and does not offer terms, representations, or warranties regarding such transactions.",
+    "Financial support under the TEAM Initiative is implemented by the Ministry of MSME and the National Small Industries Corporation.",
+    "The TEAM Initiative aims to onboard 5 lakh MSEs over three years, with 50% being women-led businesses."
+  ],
+  "source_cited_notes": [
+    "https://ondc.org/",
+    "https://ondc.org/ondc-how-to-join/",
+    "https://ondc.org/about-ondc/",
+    "https://ondc.org/press-releases-details?id=31",
+    "https://ondc.org/sellers/",
+    "https://ondc.org/learn-about-ondc/",
+    "https://ondc.org/contact-ondc"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T03:19:05.751549+00:00"
+}

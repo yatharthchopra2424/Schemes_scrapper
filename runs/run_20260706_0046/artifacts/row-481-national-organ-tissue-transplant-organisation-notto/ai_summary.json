@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-481",
+  "scheme_name": "National Organ & Tissue Transplant Organisation (NOTTO)",
+  "scheme_url": "https://notto.abdm.gov.in",
+  "ministry_or_category": "Healthcare & MedTech",
+  "overview": "The National Organ & Tissue Transplant Organisation (NOTTO) is a government initiative under the Ayushman Bharat Digital Mission (ABDM) that facilitates organ and tissue donation pledges through a national registry. It enables individuals aged 18 and above to voluntarily register as organ donors via Aadhaar-linked ABHA ID verification. The platform supports multilingual access and provides tools for verifying pledge certificates and viewing donation statistics across states and organs.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "general public",
+    "individuals aged 18 and above"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish a national registry for organ and tissue donation pledges",
+    "Enable voluntary registration of organ donors through Aadhaar-based authentication",
+    "Promote awareness about organ donation and its life-saving potential",
+    "Facilitate verification of donation pledge certificates via QR code scanning",
+    "Provide real-time dashboard analytics on donation registrations by state, organ type, age, and gender",
+    "Ensure data privacy and compliance with the Aadhaar Act and ABDM guidelines",
+    "Support integration with the National Digital Health Ecosystem (NDHE)"
+  ],
+  "eligibility": "Any person not less than 18 years of age, who voluntarily authorizes the removal of any of his organ and/or tissue after death, can register as a donor. Registration requires Aadhaar number and mobile number linked to ABHA, with consent to share demographic information with the National Health Authority (NHA) for ABHA creation and use in the National Digital Health Ecosystem.",
+  "benefits": "Individuals who register receive a verifiable pledge certificate that can be validated via QR code. The system allows donors to contribute to life-saving transplants, with one donor potentially saving up to 8 lives. Registered pledges are accessible to healthcare facilities and professionals within the NDHE for transplant coordination. The platform ensures data privacy and allows users to revoke consent at any time.",
+  "financial_support": "NOTTO does not provide any financial support, grants, subsidies, or monetary benefits to registrants. The organ and tissue donation pledge is a purely voluntary, non-financial act of social contribution.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the NOTTO website at https://notto.abdm.gov.in/register 2. Select preferred language (English, Assamese, Bengali, Gujarati, Hindi, Kannada, Malayalam, Marathi, Odia, Punjabi, Tamil, Telugu, Urdu) 3. Enter Aadhaar number (12 digits) and mobile number linked to ABHA 4. Verify Aadhaar via OTP authentication with UIDAI 5. Read and accept the terms and conditions, including consent to share Aadhaar-demographic data with NHA for ABHA creation 6. Submit the Form 7 for Organ or Tissue Pledging as per THOTA 1994 and Rules 2014 7. Receive a downloadable pledge certificate with QR code for verification 8. Optionally verify certificate at https://notto.abdm.gov.in/verify-certificate by scanning the QR code",
+  "application_portal_url": "https://notto.abdm.gov.in/register",
+  "required_documents": [
+    "Aadhaar number (12 digits)",
+    "Mobile number linked to ABHA"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Registrations are accepted year-round.",
+  "implementing_agency": "National Organ & Tissue Transplant Organisation (NOTTO), under the National Health Authority (NHA) and Ayushman Bharat Digital Mission (ABDM)",
+  "contact_details": "Address: 4th Floor, National Institute of Pathology, NIOP Building, Safdarjung Hospital Campus, New Delhi-110029 | Email: dir[at]notto[dot]nic[dot]in | Toll-Free Number: 1800-11-4770",
+  "caveats": [
+    "Registration is purely voluntary and does not guarantee organ retrieval at time of death",
+    "Final organ donation consent is subject to family approval at the time of death",
+    "Users must have an Aadhaar number and mobile number linked to ABHA to register",
+    "Consent can be revoked at any time, but may not be actionable if organs have already been retrieved",
+    "Data shared with NHA is governed by the Aadhaar Act, 2016 and ABDM policies"
+  ],
+  "source_cited_notes": [
+    "https://notto.abdm.gov.in/",
+    "https://notto.abdm.gov.in/register",
+    "https://notto.abdm.gov.in/verify-certificate",
+    "https://notto.abdm.gov.in/dashboard",
+    "https://notto.abdm.gov.in/website-policies",
+    "https://notto.abdm.gov.in/thoa",
+    "https://notto.abdm.gov.in/terms-conditions",
+    "https://notto.abdm.gov.in/privacy-policy",
+    "https://notto.abdm.gov.in/dashboard/privacy-policy"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:51:30.557800+00:00"
+}

@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-454",
+  "scheme_name": "ISRO Technology Transfer Programme",
+  "scheme_url": "https://www.isro.gov.in/technology-transfer",
+  "ministry_or_category": "Space Economy",
+  "overview": "The ISRO Technology Transfer Programme facilitates the transfer of ISRO-developed technologies to Indian industries, startups, and academic institutions for commercialization and societal benefit. It aims to bridge the gap between space research and industrial application by enabling access to ISRO's intellectual property, know-how, and technical expertise. The programme supports innovation in sectors such as agriculture, healthcare, telecommunications, and manufacturing through licensing, joint development, and technical collaboration.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic institutions",
+    "industries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote the utilization of ISRO-developed technologies in non-space sectors",
+    "Encourage innovation and entrepreneurship through technology transfer",
+    "Strengthen industry-academia collaboration in research and development",
+    "Accelerate the commercialization of space technologies for societal applications",
+    "Enhance the competitiveness of Indian industries through access to advanced space technologies"
+  ],
+  "eligibility": "Indian industries, startups, MSMEs, academic institutions, and R&D organizations are eligible to apply for technology transfer under the programme. Applicants must demonstrate the capability to absorb, develop, and commercialize the transferred technology for end-user applications.",
+  "benefits": "Access to ISRO's patented technologies, technical know-how, and expertise; support for prototype development and testing; assistance in regulatory compliance and certification; opportunities for joint development and co-branding; potential for scaling up production with ISRO's technical guidance.",
+  "financial_support": "Financial terms, including licensing fees, royalties, and revenue-sharing models, are negotiated on a case-by-case basis depending on the technology, scope of transfer, and commercialization plan. ISRO does not provide grants or subsidies under this programme; financial arrangements are based on mutual agreement between ISRO and the recipient.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the desired technology from ISRO's Technology Transfer Portal. 2. Submit a formal application expressing interest in technology transfer. 3. Provide details of the applicant organization, intended use, and commercialization plan. 4. ISRO evaluates the application based on technical merit, capability, and alignment with programme goals. 5. Upon approval, negotiate terms of transfer including licensing, royalties, and support. 6. Execute a Technology Transfer Agreement (TTA) and proceed with implementation.",
+  "application_portal_url": "https://www.isro.gov.in/technology-transfer",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the organization",
+    "Audited financial statements (last 2 years)",
+    "Project proposal detailing intended use and commercialization plan",
+    "Authorization letter from authorized signatory",
+    "IP clearance or freedom-to-operate assessment (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Indian Space Research Organisation (ISRO), Department of Space, Government of India",
+  "contact_details": "Email: technologytransfer@isro.gov.in | Phone: +91-80-2217 2222",
+  "caveats": [
+    "Technology transfer is subject to export control regulations and national security considerations",
+    "ISRO retains the right to reject applications without assigning any reason",
+    "Recipients must comply with all terms of the Technology Transfer Agreement (TTA)",
+    "ISRO does not guarantee market success or commercial viability of transferred technologies"
+  ],
+  "source_cited_notes": [
+    "https://www.isro.gov.in/technology-transfer"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:34:57.013977+00:00"
+}

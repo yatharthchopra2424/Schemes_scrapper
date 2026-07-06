@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-712",
+  "scheme_name": "DGCA Regulatory Sandbox for eVTOL & AAM",
+  "scheme_url": "https://www.dgca.gov.in",
+  "ministry_or_category": "Aerospace",
+  "overview": "The DGCA Regulatory Sandbox for eVTOL & AAM is an initiative by the Directorate General of Civil Aviation (DGCA) to support innovation in electric vertical take-off and landing (eVTOL) and Advanced Air Mobility (AAM) technologies. It provides a controlled environment for testing and validating new aviation technologies under regulatory supervision. The sandbox aims to accelerate the development and certification of emerging aerial mobility solutions while ensuring safety and compliance with civil aviation norms.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "technology developers",
+    "aviation innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate testing and validation of eVTOL and AAM technologies in a controlled regulatory environment",
+    "Accelerate innovation and development of next-generation aerial mobility solutions",
+    "Ensure safety and regulatory compliance during early-stage technology trials",
+    "Provide a pathway for certification of novel aircraft and operational concepts",
+    "Support collaboration between industry, regulators, and research institutions",
+    "Enable data collection to inform future regulatory frameworks for advanced air mobility"
+  ],
+  "eligibility": "Eligible participants include startups, technology developers, and aviation innovators working on eVTOL, AAM, or related emerging aviation technologies that require regulatory testing under real-world conditions but within the sandbox frameworks",
+  "benefits": "Access to regulatory guidance and support from DGCA during testing phases; opportunity to conduct flight trials under supervised conditions; assistance in navigating certification pathways; potential for fast-tracked evaluation of innovative technologies; collaboration with aviation experts and regulatory bodies.",
+  "financial_support": "The evidence does not specify any direct financial support, grants, loans, or subsidies under the DGCA Regulatory Sandbox for eVTOL & AAM. The scheme focuses on regulatory facilitation rather than financial assistance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit a detailed proposal outlining the eVTOL or AAM technology to be tested. 2. Define the scope, objectives, and safety parameters of the proposed testing. 3. Provide technical specifications, risk assessments, and mitigation plans. 4. Await review by DGCA sandbox evaluation committee. 5. Upon approval, receive regulatory clearance to conduct tests under defined conditions. 6. Conduct tests and submit periodic progress and safety reports. 7. Final evaluation and feedback on compliance and performance.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Project proposal detailing technology and objectives",
+    "Technical specifications of the eVTOL/AAM system",
+    "Risk assessment and safety management plan",
+    "Details of test scenarios and flight profiles",
+    "Information on team qualifications and organizational background"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Directorate General of Civil Aviation (DGCA), Ministry of Civil Aviation, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Participation does not guarantee certification or approval for commercial operations",
+    "All testing must comply with safety directives issued by DGCA",
+    "Sandbox access is subject to periodic review and may be terminated for non-compliance",
+    "Applicants bear all costs associated with testing, including infrastructure and operations"
+  ],
+  "source_cited_notes": [
+    "https://dgca.gov.in",
+    "https://dgca.gov.in/digigov-portal/?baseLocale=en_US%3Fpage%3Djsp%2Fdgca%2FtopHeader%2Fdrone%2FRegistration+of+Non-Type+Certified+UAS.pdf&mainundefined="
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:11:45.751291+00:00"
+}

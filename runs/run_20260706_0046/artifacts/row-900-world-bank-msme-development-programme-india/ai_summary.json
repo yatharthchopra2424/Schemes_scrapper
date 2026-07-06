@@ -1,0 +1,47 @@
+{
+  "scheme_id": "row-900",
+  "scheme_name": "World Bank MSME Development Programme India",
+  "scheme_url": "https://www.worldbank.org/india",
+  "ministry_or_category": "International Collaboration",
+  "overview": "The World Bank MSME Development Programme India is not explicitly described as a standalone scheme in the provided evidence. The evidence outlines the World Bank Group's broader engagement in India, including financing operations, trust funds, and partnerships aimed at supporting economic growth, job creation, and structural reforms. While MSMEs are referenced as beneficiaries of certain IFC and World Bank Group initiatives—such as investments in financial institutions to expand credit access for underserved borrowers and women-owned enterprises—there is no specific programme titled 'World Bank MSME Development Programme India' with defined objectives, eligibility, or financial support details in the scraped content.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "MSME",
+    "women-owned enterprises",
+    "underserved borrowers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve MSME access to finance to enhance resilience to shocks and seize economic opportunities",
+    "Support structural reforms to boost private sector-led job creation and economic growth",
+    "Mobilize private capital for firm expansion and job creation, particularly for women and youth",
+    "Enhance the business-enabling environment and advance trade and investment openness",
+    "Leverage private capital for MSMEs and expand credit access for underserved borrowers in rural and semi-urban areas"
+  ],
+  "eligibility": "The evidence does not specify eligibility criteria for a dedicated 'World Bank MSME Development Programme India'. General World Bank Group support for MSMEs in India is delivered through intermediaries such as IFC investments in financial institutions (e.g., Aditya Birla Capital Limited, L&T Finance Limited, HDB Financial Services, Everstone Capital Partners Fund V) and policy reforms supported by Development Policy Financing operations, but no direct eligibility framework for MSMEs is detailed.",
+  "benefits": "Benefits to MSMEs in India from World Bank Group activities include improved access to finance through debt and equity investments in financial institutions, enhanced credit access for underserved borrowers (especially women), support for policy reforms that reduce barriers to entrepreneurship, and indirect job creation via increased private sector investment and economic growth. Non-financial benefits include technical assistance, knowledge sharing, and support for improving environmental and social standards.",
+  "financial_support": "Financial support for MSMEs in India is channeled indirectly through World Bank Group entities like IFC, which has made investments such as: approximately $97 million in equity in Aditya Birla Capital Limited, $100 million in debt in L&T Finance Limited, approximately $150 million in debt in HDB Financial Services, and $242 million (with $191 million private mobilization) to Everstone Capital Partners Fund V to support mid-market companies. These investments aim to leverage private capital and expand credit access for MSMEs and underserved borrowers. The broader World Bank Group’s program in India includes 75 lending operations totaling $17.8 billion in commitments, but no specific fund is allocated exclusively to an MSME development programme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The evidence does not describe a direct application process for MSMEs to access a 'World Bank MSME Development Programme India'. Support is delivered through financial intermediaries, policy reforms, and trust funds, with no centralized portal or step-by-step application procedure outlined for MSME beneficiaries.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "World Bank Group (comprising IBRD, IDA, IFC, MIGA, and ICSID), in partnership with the Government of India",
+  "contact_details": "India Country Office: indiainfo@worldbank.org | For project-related issues: indiafeedback@worldbank.org",
+  "caveats": [
+    "No standalone 'World Bank MSME Development Programme India' is described in the evidence; MSME support is delivered indirectly through broader financial and policy operations",
+    "Financial support for MSMEs is mediated through institutions like IFC investments in banks and funds, not direct grants or loans to enterprises",
+    "Benefits are contingent on policy implementation, financial intermediary performance, and private sector mobilization",
+    "The World Bank Group’s Country Partnership Framework (CPF) FY2026-2031 guides overall engagement, but does not specify a dedicated MSME scheme"
+  ],
+  "source_cited_notes": [
+    "https://worldbank.org/en/news/press-release/2026/06/18/world-bank-group-provides-new-financing-in-support-of-india-s-reform-program-to-boost-growth-and-jobs",
+    "https://worldbank.org/india",
+    "https://worldbank.org/en/news/all?displayconttype_exact=Press+Release&lang_exact=English&qterm=",
+    "https://worldbank.org/ext/en/hi/country/india"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:53:05.941244+00:00"
+}

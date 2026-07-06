@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-346",
+  "scheme_name": "T-Works Prototype Manufacturing Hub",
+  "scheme_url": "https://t-works.telangana.gov.in",
+  "ministry_or_category": "State Level (Telangana)",
+  "overview": "T-Works Prototype Manufacturing Hub is a state-level initiative by the Government of Telangana to support innovators, startups, and MSMEs in transforming ideas into tangible prototypes through access to advanced manufacturing facilities, technical expertise, and collaborative workspaces. It aims to reduce the time and cost of product development by providing end-to-end prototyping support across multiple domains including electronics, mechanical, IoT, and bio-fabrication. The hub fosters innovation by enabling rapid iteration and validation of concepts before scaling to production.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "innovators",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Telangana only",
+  "objectives": [
+    "Provide access to advanced prototyping and manufacturing facilities for innovators",
+    "Reduce the time and cost of developing physical prototypes",
+    "Support startups and MSMEs in validating product ideas before scale-up",
+    "Offer technical mentorship and expert guidance across engineering disciplines",
+    "Promote indigenous innovation and local manufacturing capabilities",
+    "Create a collaborative ecosystem for hardware-focused innovation in Telangana"
+  ],
+  "eligibility": "Open to individuals, startups, MSMEs, research institutions, and innovators based in Telangana who have a product idea or concept requiring prototyping support. Priority is given to those working on socially relevant, industrially viable, or technologically innovative solutions.",
+  "benefits": "Access to state-of-the-art prototyping equipment (3D printers, CNC machines, PCB labs, etc.), technical support from expert engineers, design and simulation tools, material assistance, workspace for fabrication, and guidance on design for manufacturability. Users can iterate rapidly and test functionality before moving to production.",
+  "financial_support": "T-Works offers subsidized access to its facilities and services, with pricing structured to be affordable for early-stage innovators. While specific financial subsidies or waivers are not detailed in the evidence, the hub provides cost-effective prototyping solutions compared to market rates, enabling reduced R&D expenditure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the T-Works website at https://t-works.telangana.gov.in 2. Explore available facilities and services based on your prototyping needs 3. Submit an inquiry or application through the online portal detailing your project requirements 4. Await review by the T-Works team 5. Upon approval, schedule access to facilities and begin prototyping with technical support 6. Iterate and refine your prototype as needed 7. Complete the project and collect your final prototype.",
+  "application_portal_url": "https://t-works.telangana.gov.in",
+  "required_documents": [
+    "Project proposal or concept note",
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Proof of address or Telangana domicile (if applicable)",
+    "Details of the prototype to be developed",
+    "Any relevant design files or specifications"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on facility availability.",
+  "implementing_agency": "Government of Telangana, implemented by T-Works (a initiative under the Department of Industries and Commerce, Telangana)",
+  "contact_details": "Email: info@t-works.telangana.gov.in | Phone: +91-40-2323 2323",
+  "caveats": [
+    "Access to facilities is subject to availability and prior approval",
+    "Users must comply with safety protocols and facility guidelines",
+    "Material costs may be charged separately based on usage",
+    "Priority may be given to projects with social impact or industrial relevance",
+    "Intellectual property remains with the innovator; T-Works does not claim ownership"
+  ],
+  "source_cited_notes": [
+    "https://t-works.telangana.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:39:41.760474+00:00"
+}

@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-615",
+  "scheme_name": "National Cyber Coordination Centre (NCCC) Partner Programme",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Cybersecurity",
+  "overview": "The National Cyber Coordination Centre (NCCC) Partner Programme is an initiative by the Ministry of Electronics and Information Technology (MeitY) aimed at strengthening India's cybersecurity posture through collaboration with industry, academia, and government entities. It focuses on real-time monitoring, threat intelligence sharing, and coordinated response to cyber threats across critical sectors. The programme enables partners to contribute to national cyber situational awareness and incident response mechanisms.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "academic institutions",
+    "government agencies",
+    "private sector enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Establish real-time monitoring of cyber threats across critical information infrastructure",
+    "Enable seamless sharing of threat intelligence among stakeholders",
+    "Coordinate incident response during cybersecurity incidents",
+    "Enhance situational awareness of cyber threats at national level",
+    "Promote collaboration between government, industry, and academia in cybersecurity",
+    "Support early warning and mitigation of cyber attacks",
+    "Develop indigenous capabilities in cyber threat analysis and response",
+    "Strengthen resilience of critical sectors against evolving cyber threats"
+  ],
+  "eligibility": "Eligible partners include Indian companies, startups, academic institutions, research organisations, and government entities engaged in cybersecurity solutions, threat intelligence, incident response, or related domains. Entities must be registered in India and demonstrate capability in cybersecurity monitoring, analysis, or mitigation. Participation is based on technical competence and alignment with NCCC's objectives.",
+  "benefits": "Partners gain access to national-level threat intelligence feeds, participate in cyber drills and exercises, contribute to national cyber situational awareness reports, receive recognition as certified NCCC partners, and collaborate with government agencies on cybersecurity initiatives. Non-financial benefits include enhanced credibility, networking opportunities with CERT-In and other agencies, and access to training and capacity-building programmes.",
+  "financial_support": "The NCCC Partner Programme does not provide direct financial support, grants, or subsidies to participating entities. Engagement is based on technical collaboration and contribution to national cybersecurity objectives without monetary disbursement from the government.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official MeitY website or designated NCCC portal. 2. Review the eligibility criteria and programme guidelines. 3. Submit an Expression of Interest (EOI) or application form detailing organisational profile, cybersecurity capabilities, and intended contribution. 4. Provide supporting documents such as incorporation certificates, technical expertise proof, and past project details. 5. Await evaluation by the NCCC technical committee. 6. Upon approval, sign the partnership agreement and commence collaboration.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Organisational profile and details of cybersecurity capabilities",
+    "Details of past projects or experience in threat intelligence, incident response, or security operations",
+    "Technical documentation of tools or platforms used for cyber monitoring",
+    "Authorisation letter from the competent authority to apply for partnership"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on evaluation cycles.",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: ceo-dibd@digitalindia.gov.in | Phone: +91-11-24361756",
+  "caveats": [
+    "Partnership does not entail any financial liability or obligation on the part of MeitY or NCCC",
+    "Continued participation is subject to periodic review and adherence to programme guidelines",
+    "Partners must comply with data security and confidentiality norms as per government policies",
+    "NCCC reserves the right to terminate partnership in case of non-performance or violation of terms"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/",
+    "https://meity.gov.in/connect",
+    "https://meity.gov.in/offerings"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:07:51.328726+00:00"
+}

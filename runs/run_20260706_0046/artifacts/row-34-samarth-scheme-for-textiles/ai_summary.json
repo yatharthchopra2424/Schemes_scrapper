@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-34",
+  "scheme_name": "SAMARTH Scheme for Textiles",
+  "scheme_url": "https://samarth-textiles.gov.in",
+  "ministry_or_category": "Textiles",
+  "overview": "Samarth (Scheme for Capacity Building in Textile Sector) is a flagship skill development scheme approved in continuation to the Integrated Skill Development Scheme for the 12th FYP, Cabinet Committee of Economic Affairs. The scheme aims to provide demand-driven, placement-oriented skilling programmes to incentivize industry efforts in creating jobs in the organized textile and related sectors, promote skilling and skill up-gradation in traditional sectors, and provide sustainable livelihood through wage or self-employment across the country. It targets training 10 lakh persons over three years (2017-20) with an estimated budget of 1300 crore, later extended to train 3 lakh persons with an additional outlay of 495 crore for 2024-25 and 2025-26.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "unemployed youth",
+    "persons from all sections of society",
+    "marginalized social groups",
+    "beneficiaries in 115 aspirational districts"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide demand-driven, placement oriented NSQF compliant skilling programmes to incentivize and supplement industry efforts in creating jobs in organized textile and related sectors",
+    "Promote skilling and skill up-gradation in traditional sectors of handlooms, handicrafts, sericulture and jute",
+    "Enable provision of sustainable livelihood by wage or self-employment to all sections of society across the country",
+    "Target training of 10.00 lakh persons (9 lakhs in organised & 1 lakh in traditional sector)",
+    "Implement skilling programmes through textile industry, institutions/organizations of Ministry of Textiles/State Governments, and reputed training institutions/NGOs/Societies/Trusts/Organizations/Companies/Start Ups/Entrepreneurs active in textile sector",
+    "Adopt strategy including Aadhaar enabled biometric attendance, training by certified trainers, CCTV recording, third party assessment, placement linked skilling with mandatory wage employment, random physical verification, NSQF aligned courses, robust MIS, call centre, mobile app, preference for marginalized groups and aspirational districts, public grievance redressal, internal complaints committee under Sexual Harassment Act, funding as per MSDE norms, common branding as per MSDE guidelines, concessional credit under PM MUDRA Yojana for self-employment"
+  ],
+  "eligibility": "The scheme invites participation of Textiles Industry/Associations registered under Central or State Government/Chambers of Commerce of Central or State Government. Implementing Agencies include Textile Industry, Institutions/Organization of the Ministry of Textiles/State Governments having training infrastructure and placement tie-ups with textile industry, and Reputed training institutions/NGOs/Societies/Trusts/Organizations/Companies/Start Ups/Entrepreneurs active in textile sector having placement tie-ups with textile industry. For self-employment, concessional credit under Pradhan Mantri MUDRA Yojana will be provided for beneficiaries. Preference given to marginalized social groups and 115 aspirational districts.",
+  "benefits": "Demand-driven, placement oriented NSQF compliant skilling programmes; placement linked skilling with mandatory wage employment (70% in organized sector, 50% in traditional sector); post-placement tracking for one year; third party assessment and certification; Aadhaar enabled biometric attendance system with minimum 80% attendance; CCTV recording for entire training programme and assessment process; training by certified trainers having ToT certification by RSA/SSCs; robust MIS and real-time scheme information publicized; call centre (Helpline) for feedback; mobile app for stakeholders; preference for marginalized social groups and 115 aspirational districts; public grievance redressal with designated officer; internal complaints committee under Sexual Harassment Act; funding as per MSDE norms; common branding as per MSDE guidelines; concessional credit under Pradhan Mantri MUDRA Yojana for self-employment.",
+  "financial_support": "Funds are released linked to physical progress updated on the MIS. The release of funds will be linked to physical progress updated on the MIS. For self-employment, concessional credit under the Pradhan Mantri MUDRA Yojana will be provided for beneficiaries. Funding as per common norms of MSDE.",
+  "fund_size_crores": "1300",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register for Empanelment under 'Samarth' (SCBTS) by clicking on Register for Empanelment under 'Samarth' (SCBTS) for new Registration. 2. Enter Organization Name, Address details, Phone, Email id (must be unique), and Captcha. 3. Click on Register button to register empanelment; verification link sent to registered mail id. 4. Click on verification link (highlighted with blue colour) for verification of registered mail id. 5. Click on Go to home page button to redirect to Home page. 6. Click on Login Here button to redirect to Login page. 7. Enter Valid Login Credential (Email id and password), enter captcha, then click on login button.",
+  "application_portal_url": "https://samarth-textiles.gov.in/",
+  "required_documents": [
+    "Letter of Proposal Submission",
+    "Authorized Signatory Letter",
+    "Request Letter",
+    "Identity Proof document",
+    "Identity number"
+  ],
+  "deadlines": "Please upload action plan (project wise) in MIS till 29-01-2024 under tab 'Notice'.",
+  "implementing_agency": "Ministry of Textiles, Government of India",
+  "contact_details": "Address: Ministry of Textiles Udyog Bhawan New Delhi-110011 Ph:+91-011-23062445 Email : samarth-mot[at]gov[dot]in",
+  "caveats": [
+    "The scheme excludes Spinning and Weaving in the organized sector",
+    "In traditional sector (Handloom, Handicraft, Silk & Jute), at least 50% should be wage employment",
+    "CCTV recording is mandatory for entire training duration; recordings to be kept by Implementing Partners for minimum one year",
+    "Minimum of 80% attendance is mandatory for a trainee to be eligible for assessment",
+    "Batch size should be minimum 10 candidates and maximum 30 candidates",
+    "Age of candidate should be minimum 14 years",
+    "It is mandatory to get the trainer ToT certified",
+    "Third Party Assessment and Certification as per assessment protocol laid down by RSA is mandatory for all eligible trainees"
+  ],
+  "source_cited_notes": [
+    "https://samarth-textiles.gov.in/",
+    "https://samarth-textiles.gov.in/about_us",
+    "https://samarth-textiles.gov.in/public_dashboard/",
+    "https://samarth-textiles.gov.in/uploads/Samarth(SCBTS)-Guidelines_with_amendments.pdf",
+    "https://samarth-textiles.gov.in/uploads/Extension-scheme.pdf",
+    "https://samarth-textiles.gov.in/uploads/User Manual of Samarth - State Government.pdf",
+    "https://samarth-textiles.gov.in/uploads/FAQ_EntryLevel.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:40:36.283739+00:00"
+}

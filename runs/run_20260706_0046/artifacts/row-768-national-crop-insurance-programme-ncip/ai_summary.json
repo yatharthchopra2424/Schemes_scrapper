@@ -1,0 +1,48 @@
+{
+  "scheme_id": "row-768",
+  "scheme_name": "National Crop Insurance Programme (NCIP)",
+  "scheme_url": "https://agricoop.nic.in",
+  "ministry_or_category": "Insurance",
+  "overview": "The National Crop Insurance Programme (NCIP) is a government initiative aimed at providing financial support to farmers in the event of crop failure due to natural calamities, pests, or diseases. It seeks to stabilize farm income and encourage the adoption of progressive farming practices and technology. The programme operates through various component schemes and is implemented across India to mitigate risks associated with agriculture.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial support to farmers suffering crop loss due to natural calamities, pests, and diseases",
+    "Stabilize farm income to ensure continuance in farming",
+    "Encourage adoption of innovative and modern agricultural practices",
+    "Ensure flow of credit to the agriculture sector",
+    "Promote competitive and sustainable agriculture"
+  ],
+  "eligibility": "All farmers including sharecroppers and tenant farmers growing notified crops in notified areas are eligible for coverage under the National Crop Insurance Programme (NCIP).",
+  "benefits": "Financial compensation for crop loss due to defined perils such as drought, flood, hailstorm, landslide, pest attack, and disease. The scheme helps maintain creditworthiness of farmers and supports investment in agriculture by reducing risk exposure.",
+  "financial_support": "Claims are paid based on the extent of crop loss as determined by weather data, remote sensing, or crop cutting experiments. The sum insured is pre-declared and linked to the scale of finance for the crop. Premium is subsidized by the government, with farmers paying a nominal share.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Farmers enroll for the scheme through designated agencies such as banks, insurance companies, or Common Service Centres (CSCs). 2. Provide land records and sowing details as per the notified crop and area. 3. Pay the applicable premium (after government subsidy). 4. In case of crop loss, notify the concerned authority within the stipulated time. 5. Submit required documents for claim assessment. 6. Claim is processed and paid upon verification of loss.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Land ownership or tenancy records",
+    "Sowing certificate",
+    "Identity proof of the farmer",
+    "Bank account details",
+    "Previous year's land revenue receipt (if applicable)"
+  ],
+  "deadlines": "Enrollment is seasonal and aligned with the sowing periods of notified crops. Specific cut-off dates are declared before each season (Kharif/Rabi).",
+  "implementing_agency": "Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Coverage is limited to notified crops in notified areas",
+    "Claims are subject to adherence to notified practices and timely submission of documents",
+    "Preventive sowing or failed germination may not be covered under all components",
+    "The scheme operates through component schemes such as Modified National Agricultural Insurance Scheme (MNAIS), Weather Based Crop Insurance Scheme (WBCIS), and Coconut Palm Insurance Scheme (CPIS)"
+  ],
+  "source_cited_notes": [
+    "https://agricoop.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:40:03.254208+00:00"
+}

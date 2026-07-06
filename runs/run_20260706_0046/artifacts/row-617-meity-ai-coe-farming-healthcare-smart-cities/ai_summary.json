@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-617",
+  "scheme_name": "MeitY AI CoE – Farming, Healthcare & Smart Cities",
+  "scheme_url": "https://indiaai.gov.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "The MeitY AI CoE – Farming, Healthcare & Smart Cities is part of the IndiaAI Mission, which aims to build a comprehensive AI ecosystem by democratizing computing access, enhancing data quality, developing indigenous AI capabilities, attracting top AI talent, enabling industry collaboration, providing startup risk capital, ensuring socially impactful AI projects, and promoting ethical AI. The initiative focuses on establishing Centers of Excellence in AI for key sectors including farming, healthcare, and smart cities to drive innovation and socio-economic transformation.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "researchers",
+    "academic institutions",
+    "MSME",
+    "agri-startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Democratize computing access for AI innovation",
+    "Enhance data quality for AI development",
+    "Develop indigenous AI capabilities",
+    "Attract top AI talent to India",
+    "Enable industry collaboration in AI",
+    "Provide startup risk capital for AI ventures",
+    "Ensure socially impactful AI projects",
+    "Promote ethical AI development and deployment"
+  ],
+  "eligibility": "Eligible organizations include academic & research institutions, startups and companies, and non-profit and civil society organizations that demonstrate relevant expertise, data capabilities, and domain competence. Only institutional entities are eligible to contribute datasets or AI artefacts to the AIKosh platform; individual submissions are not permitted.",
+  "benefits": "Improved dataset quality through community engagement and collaborative data cleaning; versioning features enabling continuous refinement of datasets and models; wider adoption and impact as hosted datasets can be utilized by public and private sectors to build real-world AI applications; ease of AI development via user-friendly tools that simplify dataset integration into AI models; community engagement and recognition through challenges and hackathons on contributed datasets, attracting top talent for innovative solutions.",
+  "financial_support": "The IndiaAI Mission provides startup risk capital through streamlined access to funding for innovative AI projects under the IndiaAI Startup Financing pillar. However, specific financial support details for the MeitY AI CoE – Farming, Healthcare & Smart Cities are not explicitly mentioned in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register on the AIKosh platform using the designated onboarding process for private entities. 2. Designate at least one authorized representative (Administrative SPOC) responsible for managing submissions. 3. Ensure compliance with DPDPA, NDSAP, and other applicable Indian data sharing, privacy, and security laws. 4. Comply with AIKosh Terms of Use and Privacy Policy. 5. Submit complete and accurate metadata, specify licensing terms, and adhere to data governance policies. 6. Upload non-personal, India-specific datasets or AI artefacts (models and use cases) ensuring metadata completeness and compliance with platform guidelines. 7. Submit datasets undergo backend validation for quality and compliance before final approval and publication. 8. For support, contact official support at support@indiaai.gov.in.",
+  "application_portal_url": "https://www.indiaai.gov.in/",
+  "required_documents": [
+    "Valid and verifiable legal status documents (Registered Society, Corporate Body, Statutory Body, Registered Company, etc.)",
+    "Complete and accurate metadata for each submission",
+    "Licensing terms for the contributed data or AI artefacts",
+    "Documentation demonstrating practical deployment and implementation of AI technologies (for AI models and use cases)",
+    "Compliance with DPDPA, NDSAP, and other applicable data governance policies"
+  ],
+  "deadlines": "Rolling basis — submissions are accepted on a rolling basis with periodic reviews for compliance.",
+  "implementing_agency": "IndiaAI, an Independent Business Division (IBD) under the Digital India Corporation, Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: support@indiaai.gov.in",
+  "caveats": [
+    "AIKosh is currently in its beta phase; certain features may still be under development.",
+    "Only institutional entities are eligible; individual submissions are not permitted.",
+    "Submitted data or datasets must be wholly or partially relevant to India, containing India-specific content or artifacts.",
+    "All artefacts must be original, non-infringing, and appropriately documented."
+  ],
+  "source_cited_notes": [
+    "https://indiaai.gov.in/",
+    "https://indiaai.gov.in/indiaaiportal",
+    "https://d12aarmt01l54a.cloudfront.net/cms/files/datasets-eoi/1753967577.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:14:05.432111+00:00"
+}

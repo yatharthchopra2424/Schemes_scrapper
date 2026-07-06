@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-813",
+  "scheme_name": "KSUM IEDC (Innovation and Entrepreneurship Development Centre)",
+  "scheme_url": "https://iedc.startupmission.in",
+  "ministry_or_category": "State Level (Kerala)",
+  "overview": "The KSUM IEDC (Innovation and Entrepreneurship Development Centre) is a flagship initiative of Kerala Startup Mission aimed at promoting innovation and entrepreneurship among students and academic fraternity in educational institutions across Kerala. It provides platforms in colleges and universities for students to experiment, innovate, and transform ideas into viable products and services, serving as a launchpad for entrepreneurial journeys with access to technology, infrastructure, mentorship, early risk capital, and global exposure.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "students",
+    "entrepreneurs",
+    "academic fraternity",
+    "higher educational institutions"
+  ],
+  "geographic_scope": "Kerala only",
+  "objectives": [
+    "Promote innovation and entrepreneurship among student and academic fraternity in educational institutions",
+    "Provide students with opportunity to experiment and innovate",
+    "Transform innovative ideas into prototypes of viable products and services",
+    "Provide access to cutting edge technology, world-class infrastructure, high-quality mentorship, early risk capital and global exposure",
+    "Foster innovation culture in academic institutions",
+    "Build vibrant startup ecosystem in academia",
+    "Uplift IEDCs and translate them into innovation hubs and Technology Business Incubators (TBIs)"
+  ],
+  "eligibility": "Institutions that wish to establish IEDC can apply online. Applications are submitted through the online form and considered in tranches after verification and due diligence by KSUM, followed by sanction order issuance to selected IEDCs.",
+  "benefits": "Access to cutting edge technology, world-class infrastructure, high-quality mentorship, early risk capital, global exposure, networking opportunities, priority registration for events, discounts and offers, exclusive resources and tools, and support for transforming ideas into viable ventures.",
+  "financial_support": "IEDCs receive early risk capital and accreditation-linked grants based on performance. Funding is provided to top-performing IEDCs, with specific grant amounts tied to milestones such as generating at least two startups and two patents annually from each IEDC.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested institutions submit online application form via the KSUM website. 2. KSUM verifies submitted applications based on data and recommendations for sanctioning. 3. KSUM issues sanction order to selected IEDCs that have passed verification and due diligence. 4. Selected IEDCs receive Unique Identity Number upon meeting mandatory conditions.",
+  "application_portal_url": "https://iedc.startupmission.in/newiedc",
+  "required_documents": [
+    "Official mail ID in Google mail with format [institution code]iedc@gmail.com",
+    "Nodal officers details (at least two, one female)",
+    "Student lead details (Student Execom as per KSUM guidelines)",
+    "Sub domain in institution webpage with complete IEDC details",
+    "Active social media visibility (LinkedIn, X, Instagram, Facebook, YouTube, Corporate Video)",
+    "Participation in accreditation of IEDCs"
+  ],
+  "deadlines": "New leads should be elected and take charge of IEDC on or before 31 January 2024. If existing leads graduate on or after 31 December 2024, their data is considered; otherwise, new leads are selected.",
+  "implementing_agency": "Kerala Startup Mission",
+  "contact_details": "Email: bergin@startupmission.in | Phone: +91 62389 98379",
+  "caveats": [
+    "Unique ID certificate is valid for one year from 01 January 2024 to 31 January 2025",
+    "Must participate in accreditation of IEDCs to maintain benefits",
+    "Official office of IEDC leads is from January to December every year",
+    "IEDC Logo should be used in all materials; Kerala Startup Mission logo requires permission for use"
+  ],
+  "source_cited_notes": [
+    "https://iedc.startupmission.in/",
+    "https://iedc.startupmission.in/newiedc",
+    "https://iedc.startupmission.in/uniqueid",
+    "https://iedc.startupmission.in/initiatives",
+    "https://iedc.startupmission.in/activitycalendar",
+    "https://iedc.startupmission.in/report",
+    "https://grants.startupmission.in/img/guidelines.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:04:59.541086+00:00"
+}

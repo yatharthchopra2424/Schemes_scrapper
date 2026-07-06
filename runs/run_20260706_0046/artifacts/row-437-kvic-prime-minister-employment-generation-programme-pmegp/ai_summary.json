@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-437",
+  "scheme_name": "KVIC Prime Minister Employment Generation Programme (PMEGP)",
+  "scheme_url": "https://www.kviconline.gov.in",
+  "ministry_or_category": "Silk & Khadi",
+  "overview": "The Prime Minister Employment Generation Programme (PMEGP) is a credit-linked subsidy scheme implemented by the Khadi and Village Industries Commission (KVIC) to generate employment opportunities through the establishment of micro-enterprises in the non-farm sector. It aims to support traditional artisans and unemployed youth by providing financial assistance for setting up new micro-enterprises. The scheme promotes self-employment and entrepreneurship across rural and urban areas of India.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "unemployed youth",
+    "traditional artisans",
+    "micro-entrepreneurs",
+    "individuals above 18 years"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To generate employment opportunities in rural and urban areas through setting up of new self-employment ventures/projects/micro enterprises.",
+    "To bring together widely dispersed traditional artisans/ rural and urban unemployed youth and give them self-employment opportunities.",
+    "To provide continuous and sustainable employment to a large segment of traditional and prospective artisans and unemployed youth.",
+    "To enhance the competitiveness and viability of the micro-enterprises in the emerging market scenario."
+  ],
+  "eligibility": "Any individual above 18 years of age is eligible. For setting up of project costing above Rs. 10 lakh in the manufacturing sector and above Rs. 5 lakh in the business/service sector, the beneficiary should possess at least VIII standard pass educational qualification. There is no ceiling on income for assistance under the scheme. Existing units (under PMRY, REGP or any other scheme of Government of India or State Government) and units that have already availed government subsidy under any other scheme are not eligible.",
+  "benefits": "Financial assistance in the form of margin money subsidy and bank credit. The subsidy rate is 25% in urban areas and 35% in rural areas for beneficiaries belonging to special categories (including SC/ST/OBC/Minorities/Women, ex-servicemen, physically handicapped, NER, Hill and Border areas etc.). For general category beneficiaries, the subsidy is 15% in urban areas and 25% in rural areas. The maximum cost of project is Rs. 50 lakh in the manufacturing sector and Rs. 20 lakh in the business/service sector.",
+  "financial_support": "The scheme provides margin money subsidy ranging from 15% to 35% of the project cost, with the balance being provided as term loan by banks. The maximum project cost allowed is Rs. 50 lakh for manufacturing sector and Rs. 20 lakh for business/service sector. The subsidy is disbursed through identified nodal banks which forward the margin money to KVIC/KVIB/DIC after sanction of the loan.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. The applicant submits the application form online through the PMEGP portal or offline to the concerned District Industries Centre (DIC) or KVIC/KVIB office. 2. The application is scrutinized by the Field Officer/Manager of the implementing agency. 3. Upon preliminary approval, the application is forwarded to the District Level Task Force Committee (DLTFC) for sanction. 4. After sanction by DLTFC, the application is sent to the nominated bank for sanction of term loan. 5. The bank sanctions the loan and disburses the amount. 6. The margin money subsidy is released by the implementing agency (KVIC/KVIB/DIC) to the bank after verification of utilization of loan amount.",
+  "application_portal_url": "https://kviconline.gov.in",
+  "required_documents": [
+    "Application form",
+    "Project report",
+    "Two passport size photographs",
+    "Proof of age (Birth certificate/School certificate)",
+    "Proof of residence (Ration card/Voter ID/Aadhaar)",
+    "Educational qualification certificate (if applicable)",
+    "Special category certificate (if applicable, e.g., SC/ST/OBC/Minority/Women/Ex-servicemen/Physically handicapped)",
+    "Bank loan sanction letter",
+    "Land/building ownership documents or lease agreement",
+    "Partnership deed/MoA (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Khadi and Village Industries Commission (KVIC)",
+  "contact_details": "",
+  "caveats": [
+    "Existing units under PMRY, REGP or any other government scheme are not eligible for assistance.",
+    "Units that have already availed government subsidy under any other scheme are not eligible.",
+    "Beneficiary must contribute minimum 10% of project cost as own contribution (5% for special categories).",
+    "The margin money subsidy is kept in a term deposit account for 3 years with interest accruing to the beneficiary."
+  ],
+  "source_cited_notes": [
+    "https://kviconline.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:27:05.652302+00:00"
+}

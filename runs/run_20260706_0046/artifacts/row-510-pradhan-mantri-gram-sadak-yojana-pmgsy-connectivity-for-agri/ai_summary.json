@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-510",
+  "scheme_name": "Pradhan Mantri Gram Sadak Yojana (PMGSY) – Connectivity for Agri",
+  "scheme_url": "https://pmgsy.nic.in",
+  "ministry_or_category": "Cooperative & Rural",
+  "overview": "Pradhan Mantri Gram Sadak Yojana (PMGSY) is a centrally sponsored scheme launched in 2000 to provide all-weather road connectivity to unconnected habitations in rural areas, thereby improving access to markets, education, and healthcare. The scheme focuses on constructing and upgrading rural roads to ensure year-round connectivity, with a special emphasis on habitations with a population of 500+ in plain areas and 250+ in special category states (North-East, Himalayan, tribal and desert areas). PMGSY aims to boost rural economic growth by enhancing agricultural productivity and non-farm employment opportunities through improved infrastructure.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "rural habitations",
+    "farmers",
+    "rural communities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide all-weather road connectivity to eligible unconnected habitations",
+    "Upgrade existing rural roads to prescribed technical standards",
+    "Ensure sustainable maintenance of constructed roads through community participation",
+    "Facilitate access to socio-economic services such as education, healthcare, and markets",
+    "Promote inclusive growth by connecting marginalized and remote rural populations",
+    "Enhance agricultural productivity and rural non-farm employment through better connectivity"
+  ],
+  "eligibility": "Habitations with a population of 500 persons and above in plain areas, and 250 persons and above in special category states (North-Eastern States, Sikkim, Himachal Pradesh, Jammu & Kashmir, Uttarakhand, tribal areas under Schedule V, and desert areas) as per Census 2001 are eligible for new connectivity. For upgradation, existing rural roads that form part of the core network and serve habitations of 1000 persons and above (500 and above in special category states) are eligible.",
+  "benefits": "All-weather road connectivity ensures year-round access to markets, enabling farmers to transport agricultural produce efficiently and reduce post-harvest losses. Improved connectivity facilitates access to healthcare centers, educational institutions, and government services, thereby enhancing quality of life. The scheme stimulates local economic activity by promoting rural non-farm employment, agro-processing, and small-scale industries. Constructed roads are built to technical specifications (IRC:SP:20) ensuring durability and reduced maintenance costs. Community involvement in maintenance fosters ownership and long-term sustainability of rural infrastructure.",
+  "financial_support": "The scheme is funded through central government grants, with the Ministry of Rural Development releasing funds to State Governments based on annual project proposals and utilization certificates. The funding pattern is 60:40 between Centre and State for plain areas, and 90:10 for special category states (North-East and Himalayan states). Funds are released in installments linked to physical progress, and the scheme operates through a decentralized implementation mechanism with State Rural Roads Development Agencies (SRRDA) and district-level units executing works via competitive bidding.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Governments identify eligible habitations and prepare Detailed Project Reports (DPRs) for new connectivity and upgradation works. 2. DPRs are scrutinized by the State Level Standing Committee (SLSC) and forwarded to the Ministry of Rural Development for clearance. 3. Upon approval, the Ministry allocates funds and issues sanction orders. 4. State Rural Roads Development Agencies (SRRDA) invite tenders through e-procurement systems for civil works. 5. Contracts are awarded to qualified contractors following transparent bidding procedures. 6. Works are executed under technical supervision of SRRDA and National Quality Monitors (NQMs). 7. Completed roads undergo joint inspection before being handed over to Panchayati Raj Institutions for maintenance.",
+  "application_portal_url": "https://pmgsy.nic.in",
+  "required_documents": [
+    "Detailed Project Report (DPR) with alignment maps and cost estimates",
+    "Land availability certificate from concerned revenue authorities",
+    "No Objection Certificate (NOC) from Forest Department if applicable",
+    "Clearance from Pollution Control Board if required",
+    "Certificate of financial concurrence from State Finance Department",
+    "Utilization Certificates for previously released funds",
+    "Minutes of State Level Standing Committee (SLSC) meetings"
+  ],
+  "deadlines": "Annual project proposals are submitted by States typically between October and December for the ensuing financial year; specific dates vary by State.",
+  "implementing_agency": "Ministry of Rural Development, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funding is contingent upon submission of utilization certificates and progress reports",
+    "Cost overruns beyond sanctioned amounts are borne by the State Government",
+    "Roads must be maintained by Panchayati Raj Institutions for a minimum of five years after construction",
+    "Deviation from approved alignment or specifications requires fresh sanction",
+    "The scheme does not cover urban roads or State Highways"
+  ],
+  "source_cited_notes": [
+    "https://pmgsy.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:05:07.955452+00:00"
+}

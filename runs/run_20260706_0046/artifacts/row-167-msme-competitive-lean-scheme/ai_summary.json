@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-167",
+  "scheme_name": "MSME Competitive (LEAN) Scheme",
+  "scheme_url": "https://lean.msme.gov.in",
+  "ministry_or_category": "MSME",
+  "overview": "The MSME Competitive (LEAN) Scheme is a Government of India initiative aimed at enhancing the competitiveness of Micro, Small, and Medium Enterprises (MSMEs) through the implementation of Lean Manufacturing practices. The scheme focuses on reducing waste, improving productivity, and increasing operational efficiency in manufacturing units. It provides financial and technical support to MSMEs for adopting Lean tools and techniques, thereby enabling them to compete effectively in domestic and global markets.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance the competitiveness of MSMEs through Lean Manufacturing implementation",
+    "To reduce waste and improve productivity in manufacturing processes",
+    "To increase operational efficiency and profitability of participating units",
+    "To promote sustainable manufacturing practices among MSMEs",
+    "To enable MSMEs to adopt world-class manufacturing standards",
+    "To create awareness and build capacity in Lean methodologies"
+  ],
+  "eligibility": "The scheme is open to Micro, Small, and Medium Enterprises (MSMEs) engaged in manufacturing activities, as defined under the MSMED Act, 2006. The unit must be operational and have a valid Udyam Registration. Priority is given to units willing to implement Lean Manufacturing practices and commit to the required handholding and implementation period.",
+  "benefits": "Financial assistance in the form of subsidy for implementation of Lean Manufacturing tools, access to expert consultants and trainers, handholding support during implementation, improved productivity and reduced operational costs, enhanced quality and delivery performance, better inventory management, and increased competitiveness in national and international markets.",
+  "financial_support": "The scheme provides financial support up to 80% of the project cost for implementation of Lean Manufacturing practices, with a maximum ceiling of INR 40 lakhs per MSME unit. The remaining 20% of the cost is to be borne by the beneficiary unit. The support is released in installments based on achievement of milestones as verified by the implementing agency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 40 lakhs per MSME unit",
+  "application_process": "1. Register on the official LEAN scheme portal at lean.msme.gov.in 2. Submit online application with details of the MSME unit and Udyam Registration 3. Upload required documents including project proposal and bank details 4. Application is screened by the implementing agency for eligibility 5. Eligible units are selected for implementation 6. A Lean consultant is assigned to conduct initial assessment 7. Detailed project report (DPR) is prepared and submitted 8. Upon approval, implementation of Lean tools begins 9. Progress is monitored and verified 10. Subsidy is disbursed in installments based on milestone completion",
+  "application_portal_url": "https://lean.msme.gov.in",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Project proposal detailing Lean implementation plan",
+    "Bank account details of the unit",
+    "Audited financial statements of the last two years",
+    "Details of existing machinery and production process",
+    "Authorization letter from the proprietor/partner/director",
+    "Quotations from Lean consultants or service providers (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Ministry of Micro, Small and Medium Enterprises (MoMSME)",
+  "contact_details": "",
+  "caveats": [
+    "Financial support is limited to 80% of project cost, with beneficiary contributing 20%",
+    "Maximum financial assistance capped at INR 40 lakhs per unit",
+    "Only manufacturing MSMEs with valid Udyam Registration are eligible",
+    "Subsidy is disbursed only after verification of milestone completion",
+    "Scheme is subject to availability of funds and may be revised or withdrawn by the government"
+  ],
+  "source_cited_notes": [
+    "https://lean.msme.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:46:34.952863+00:00"
+}

@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-361",
+  "scheme_name": "Ship Building Financial Assistance Policy",
+  "scheme_url": "https://shipmin.gov.in",
+  "ministry_or_category": "Ports & Shipping",
+  "overview": "The Shipbuilding Financial Assistance Policy (SBFAP) provides financial incentives to Indian shipyards for constructing vessels under shipbuilding contracts, with assistance released in stages tied to milestones such as keel laying, launching, delivery, and post-delivery. The policy aims to support the domestic shipbuilding industry, enhance global competitiveness, and promote indigenous manufacturing. It applies to all Indian shipyards and covers contracts signed between April 1, 2016, and March 31, 2026.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Indian Shipyards"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide financial assistance to shipyards for construction of vessels under shipbuilding contracts",
+    "Support the growth and competitiveness of the Indian shipbuilding industry",
+    "Promote indigenous manufacturing and self-reliance in shipbuilding",
+    "Encourage construction of vessels in Indian shipyards through fiscal incentives",
+    "Strengthen the maritime sector and support the Blue Economy"
+  ],
+  "eligibility": "All Indian shipyards are eligible. Vessels must be constructed and delivered within specified timelines: one or two vessels within four years from contract date; three or four vessels within six years; five or more vessels beyond six years if each subsequent vessel is delivered within one year of the preceding vessel. Specialized vessels follow similar timelines. Extensions of up to one year may be granted for contracts affected by Covid-19 or its variants.",
+  "benefits": "Financial assistance is released in Indian Rupees in stages: 30% at keel laying (against security instrument), 40% on launching (against security instrument), 30% on delivery, and security instrument released upon final payment by ship owner. Assistance is computed as the product of the applicable rate of financial assistance and the lower of contract price or fair price, converted to INR. Actual payment received may replace contract price if lower.",
+  "financial_support": "Financial assistance is granted as a monetary incentive based on the rate of financial assistance prevailing on the date of contract, applied to the lower of contract price or fair price (in INR). Payments are released in stages: 30% at keel laying, 40% on launching, 30% on delivery, with security instruments released post-final payment. If budget is unavailable, assistance is prioritized in the subsequent financial year.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply for In-principle Approval as per Annexure-I. 2. Submit application for release of Financial Assistance as per Annexure-II-1 to II-4. 3. Competent Authority scrutinizes application; if deficiencies are found, applicant is given opportunity to rectify. 4. Upon satisfactory compliance, Financial Assistance is released. 5. Claims for stage payments can be submitted during construction based on progress, supported by documentary evidence.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application for In-principle Approval (Annexure-I)",
+    "Application for release of Financial Assistance (Annexure-II-1, II-2, II-3, II-4)",
+    "Chartered Accountant certificate for Actual Payment",
+    "Documentary evidence of construction stage completed",
+    "Security Instruments (Bank Guarantee, Surety bond, Corporate guarantee)",
+    "Affidavit (Annexure-III)",
+    "Detailed Project Report (DPR) and supporting documents",
+    "Comprehensive business plan (Annexure-X)",
+    "Indemnity bond (Annexure-IV)",
+    "Board resolution or equivalent authorization",
+    "Proof of incorporation and valid registration",
+    "Audited financial statements and tax compliance certificates for last three years",
+    "Statutory and environmental clearances",
+    "Planned start and expected completion dates"
+  ],
+  "deadlines": "Applications for contracts signed between April 1, 2016, and March 31, 2026, are eligible. No rolling basis mentioned; tied to contract dates within validity period.",
+  "implementing_agency": "Ministry of Ports, Shipping and Waterways",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance shall only be released in Indian Rupees",
+    "If budget is not available, assistance will be released on priority in subsequent financial year",
+    "Applicant must not have availed monetary support under any other Central or State Government policy/scheme for the same vessel",
+    "Major portion of hull must be constructed and assembled in India",
+    "Assembly, installation, commissioning of major machinery, and tests/trials must be carried out in India",
+    "Repeat orders require L1 price from initial competitive bidding to be considered as Fair Price",
+    "Exchange rate for foreign currency conversion must be from State Bank of India TT Buying Rates on Date of Contract"
+  ],
+  "source_cited_notes": [
+    "https://shipmin.gov.in/sites/default/files/SBFAP_0.pdf",
+    "https://shipmin.gov.in/sites/default/files/Modified%20SBFAP%20guidelines.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:51:05.125956+00:00"
+}

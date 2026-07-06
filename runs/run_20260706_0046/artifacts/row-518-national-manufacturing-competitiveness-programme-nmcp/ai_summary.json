@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-518",
+  "scheme_name": "National Manufacturing Competitiveness Programme (NMCP)",
+  "scheme_url": "https://msme.gov.in/nmcp",
+  "ministry_or_category": "MSME Clusters",
+  "overview": "The National Manufacturing Competitiveness Programme (NMCP) is a scheme under the Ministry of Micro, Small & Medium Enterprises aimed at enhancing the competitiveness of the MSME sector through various interventions. It focuses on improving technology, quality, design, packaging, and market access for MSMEs. The programme supports clusters and individual enterprises in adopting modern practices to increase productivity and sustainability.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance competitiveness of MSMEs through technology upgradation",
+    "Improve quality and design capabilities of MSME products",
+    "Promote adoption of modern packaging techniques",
+    "Support market access initiatives including participation in trade fairs",
+    "Facilitate cluster-based development of MSMEs",
+    "Encourage energy efficiency and sustainable manufacturing practices",
+    "Strengthen backward and forward linkages for MSMEs",
+    "Develop skilled manpower in the MSME sector"
+  ],
+  "eligibility": "Manufacturing / Service sector MSMEs having valid Udyam Registration (UR) Certificate are eligible to avail benefits under the NMCP scheme components such as Procurement and Marketing Support (PMS), Design Clinic, Lean Manufacturing Competitiveness Scheme, etc., as per the specific guidelines of each sub-scheme.",
+  "benefits": "Financial assistance in the form of subsidies for various interventions: up to 80% subsidy on built-up space rent for trade fair participation (100% for SC/ST/Women/PH/Aspirational Districts), 80% financial assistance on one-time and annual recurring fees for Bar Code adoption (up to Rs. 50,650), financial assistance on annual membership/subscription fees for e-commerce platform adoption, capacity building support for clusters (up to Rs. 15 lakh per cluster), development of retail outlets (up to Rs. 30 lakh in Metro & A class cities and Rs. 20 lakh in other cities), and support for organizing national/international workshops and seminars (up to Rs. 5 lakh per event). Non-financial benefits include technology upgradation, skill development, market linkage creation, and access to common facility centres.",
+  "financial_support": "Financial support under NMCP is provided as subsidies on a reimbursement basis. For trade fair participation, 80% subsidy on space rent (100% for special categories) and 100% contingency expenditure (up to Rs. 25,000) is available. For Bar Code adoption, 80% of one-time registration and annual recurring fees (for first three years) is reimbursed, subject to a maximum of Rs. 50,650. For e-commerce platform adoption, 75% of annual membership/subscription fee is supported, up to Rs. 25,000 per financial year. Capacity building interventions for clusters receive up to Rs. 15 lakh per cluster. Retail outlet development is supported up to Rs. 30 lakh in Metro & A class cities and Rs. 20 lakh in other cities, with 50% contribution required from the beneficiary. Workshop/seminar organization receives up to Rs. 5 lakh per event.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the relevant NMCP component (e.g., PMS, Design Clinic, Lean Manufacturing) based on the required intervention. 2. Ensure the enterprise has a valid Udyam Registration Certificate. 3. Contact the concerned Implementing Agency (e.g., MSME Development Institute, NSIC, KVIC, Coir Board) or apply online through the designated portal. 4. Submit the application form along with required documents such as Udyam Registration, project report, quotations, and affidavits. 5. The Implementing Agency scrutinizes the application for eligibility and technical feasibility. 6. Upon approval, the beneficiary implements the approved activity. 7. Submit claim for reimbursement with supporting documents (bills, receipts, proof of participation) within the stipulated time (usually 30 days post-event or activity completion). 8. The Implementing Agency verifies the claim and processes the subsidy reimbursement.",
+  "application_portal_url": "https://my.msme.gov.in/MyMsme/Reg/COM_ViewEvent.aspx",
+  "required_documents": [
+    "Udyam Registration Certificate",
+    "Project report or proposal",
+    "Quotations or cost estimates from vendors",
+    "Affidavit regarding current status of the enterprise",
+    "Undertaking of non-receipt of similar financial assistance from other organizations",
+    "Attested copy of cash receipt for payment made",
+    "Copy of license or certification received (e.g., from GS1 India for Bar Code)",
+    "Pre-receipted bill in triplicate for reimbursement claim",
+    "Bank account details for subsidy transfer",
+    "Photographs of the activity or setup (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year, subject to availability of funds and approval cycles of Implementing Agencies.",
+  "implementing_agency": "Ministry of Micro, Small & Medium Enterprises (Mo MSME)",
+  "contact_details": "Email: pms[dot]division[at]dcmsme[dot]gov[dot]in | Phone: 011-23061198 (Head Quarters: Joint Director, O/o DC(MSME), Nirman Bhawan, New Delhi)",
+  "caveats": [
+    "Subsidy is provided on reimbursement basis after successful completion of the activity",
+    "Beneficiary must bear the non-subsidized portion of the cost upfront",
+    "Claims must be submitted within 30 days of event completion or activity conclusion",
+    "Maximum of two trade fair participations allowed per enterprise per year under PMS",
+    "Bar Code adoption support is limited to micro enterprises only and for up to 100 bar codes",
+    "e-Commerce platform support is available only for micro enterprises selling up to 10 new products",
+    "Retail outlet development requires 50% contribution from the retailer and sale of only GI-tagged products",
+    "Cluster-based interventions require formation of an approved cluster with SPV or consortium",
+    "Any misuse of Ministry's logo or support may lead to blacklisting for three years",
+    "Financial assistance is subject to availability of budgetary allocation under the scheme"
+  ],
+  "source_cited_notes": [
+    "https://msme.gov.in/offerings/schemes-and-services/details/marketing-promotion-schemes-1-QzMzETMtQWa",
+    "https://msme.gov.in/documents/ministry-logo-support"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:09:41.027889+00:00"
+}

@@ -1,0 +1,65 @@
+{
+  "scheme_id": "row-354",
+  "scheme_name": "iStart Rajasthan",
+  "scheme_url": "https://istart.rajasthan.gov.in",
+  "ministry_or_category": "State Level (Rajasthan)",
+  "overview": "iStart Rajasthan is an integrated startup platform launched by the Department of IT&C, Government of Rajasthan, to foster innovation and entrepreneurship across the state. It provides a comprehensive ecosystem including incubation, mentorship, funding incentives, skill development, and market access for startups at various stages. The initiative supports idea-stage founders through programs like Business Innovation Programme (BIP), Atal Innovation Studio, and LEAP, while offering financial grants and equity support based on QRate assessment.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "students",
+    "MSME"
+  ],
+  "geographic_scope": "Rajasthan",
+  "objectives": [
+    "Empower idea-stage founders and foster innovation among Rajasthan’s youth",
+    "Provide a 5-week intensive journey with mentorship and resources to turn ideas into ventures",
+    "Support students statewide to develop their ideas into startups through Business Innovation Programme",
+    "Drive innovation and entrepreneurship across emerging sectors like AVGC-XR, Robotics, Coding, and Agritech",
+    "Revitalize the startup ecosystem post-pandemic and support entrepreneurs lacking business acumen",
+    "Provide expert-led video courses, assessments, and government-branded digital certificates via LMS",
+    "Enhance recruitment efficiency and collaboration through TalentConnect platform",
+    "Enable startups to scale up through Scale Up Fund and Startup Equity Fund based on QRate performance"
+  ],
+  "eligibility": "The startup should be registered as Sole Proprietorship, Private Limited/ OPC, Limited Liable Partnership, Partnership Firm in Rajasthan or should have one operating office in Rajasthan.",
+  "benefits": "Access to incubation centers (iStart Nest), mentorship programs, Learning Management System (LMS) with government-branded certificates, TalentConnect for recruitment, Business Innovation Programme (BIP), Atal Innovation Studio and Accelerator, Learn Earn And Progress (LEAP), QRate assessment for funding eligibility, financial incentives including grants up to INR 60 lakhs, Scale Up Fund up to INR 2 Crore, Startup Equity Fund matching up to INR 5 Crore, additional INR 60,000 for women-led startups, and support for IPR, procurement, and market access.",
+  "financial_support": "Financial support includes Pre-Seed stage ideation grant of INR 2,40,000, Seed Stage viability grant ranging from INR 10 lakhs to INR 60 lakhs based on QRate score, additional grants for QScore improvement within defined periods, Scale Up Fund providing up to INR 2 Crore (50% of funds raised) for Gold and above QRate startups, and Startup Equity Fund where the government matches funds raised by eligible startups up to INR 5 Crore per startup. Women-led startups (>50% equity) receive an additional INR 60,000.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 60 lakhs for Seed Stage startups (Silver & Above QRate), Up to INR 2 Crore for Scale Up Fund (Gold and Above), Up to INR 5 Crore matching for Startup Equity Fund",
+  "application_process": "1. Register on the iStart Rajasthan portal and create a profile. 2. Submit for evaluation based on eligibility criteria. 3. Apply for benefits such as grants, incubation, or mentorship. 4. Engage and grow through the platform’s resources and network.",
+  "application_portal_url": "https://istart.rajasthan.gov.in/registration/register",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST Certificate",
+    "Udyog Aadhaar / Udyam Registration Certificate / MSME Certificate",
+    "Sanstha Aadhaar Number (SAN) / Business Registration Number (BRN) issued by Govt. of Rajasthan (if registration address is outside Rajasthan)",
+    "Registered Partnership Deed or Partnership Registration Certificate (for Partnership Firm)",
+    "Certificate of Incorporation (Form 16) for LLP",
+    "Certificate of Incorporation issued by Ministry of Corporate Affairs (for Private Limited Company)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Information Technology & Communication (IT&C), Government of Rajasthan",
+  "contact_details": "helpdesk.istart@rajasthan.gov.in | 2922286 / 2929831",
+  "caveats": [
+    "Financial incentives are subject to evaluation by the committee and government notification",
+    "Additional grants for QRate score upgrade are time-bound and slab-based",
+    "Scale Up Fund is provided as debt convertible to grant and subject to eligibility",
+    "Startup Equity Fund requires the startup to choose between it and Scale Up Fund",
+    "Women-led startup additional grant of INR 60,000 applies only if >50% equity with women founders"
+  ],
+  "source_cited_notes": [
+    "https://istart.rajasthan.gov.in/",
+    "https://istart.rajasthan.gov.in/registration/register",
+    "https://istart.rajasthan.gov.in/startup-eligibility-criteria",
+    "https://istart.rajasthan.gov.in/funding-incentives",
+    "https://istart.rajasthan.gov.in/bip",
+    "https://istart.rajasthan.gov.in/learn-earn-and-progress",
+    "https://istart.rajasthan.gov.in/atal-innovation-studio-and-accelerator",
+    "https://istart.rajasthan.gov.in/talentconnect"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:45:33.274764+00:00"
+}

@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-599",
+  "scheme_name": "BIRAC Industrial Biofoundry Support",
+  "scheme_url": "https://birac.nic.in",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "BIRAC Industrial Biofoundry Support is a scheme under the Bioeconomy & Biofuels category aimed at providing infrastructure and technical support for scaling up bio-based innovations. It enables startups and SMEs to access advanced biofoundry facilities for strain engineering, fermentation, and downstream processing to accelerate product development and commercialization. The scheme supports the transition from lab-scale to pilot-scale operations, reducing the time and cost associated with scaling biotechnological processes. It is implemented through selected BioNEST incubators and partner institutions equipped with biofoundry capabilities.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "SMEs",
+    "biotech entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide access to advanced biofoundry infrastructure for strain development and fermentation",
+    "Support scale-up of bio-based products from lab to pilot scale",
+    "Reduce time and cost in technology translation and commercialization",
+    "Enable startups to generate data for regulatory approvals and investment readiness",
+    "Strengthen India’s bio-manufacturing capabilities in healthcare, agri-tech, and industrial biotech",
+    "Foster collaboration between academia, industry, and research institutions",
+    "Promote sustainable and affordable bioproduct development"
+  ],
+  "eligibility": "Indian startups and SMEs registered under the Companies Act, 2013 or LLP Act, 2008 with at least 51% shareholding by Indian citizens. The applicant must have a proof-of-concept (PoC) or validated prototype (TRL ≥ 4) in biotechnology domains such as healthcare, agri-tech, industrial biotech, or bio-IT. Preference is given to entities supported by BIRAC’s BioNEST program or other recognized incubators. The technology should have potential for scale-up and commercialization with clear IP ownership or freedom to operate.",
+  "benefits": "Access to state-of-the-art biofoundry infrastructure including fermenters, downstream processing units, analytics, and automation. Technical support from domain experts in strain engineering, process optimization, and scale-up. Mentorship on regulatory compliance, IP management, and technology transfer. Opportunity to generate pilot-scale data for fundraising and regulatory submissions. No equity dilution as support is provided via grant-in-aid to host institutions. Networking with investors, industry partners, and potential off-takers.",
+  "financial_support": "The scheme does not provide direct financial support to startups. Instead, BIRAC provides grant-in-aid to selected BioNEST incubators and partner institutions to set up and operate biofoundry facilities. Startups access these facilities on a subsidized or fee-for-service basis, with costs determined by the host institution based on usage of equipment, consumables, and technical manpower. There is no fixed grant amount per entity; support is in-kind infrastructure access.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify a BIRAC-supported BioNEST incubator or partner institution with biofoundry capabilities. 2. Discuss your technology and scale-up requirements with the facility manager. 3. Submit a formal application through the host institution detailing the project scope, objectives, timeline, and resource needs. 4. The institution evaluates the proposal based on technical readiness, scalability potential, and alignment with biofoundry capabilities. 5. If approved, sign a service agreement outlining access terms, timelines, and cost structure. 6. Begin work at the biofoundry facility with technical support from the host team. 7. Submit periodic progress reports and utilization certificates as required. 8. Upon completion, receive a completion certificate and data package for further development or fundraising.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation or LLP Agreement",
+    "PAN of the entity",
+    "Project proposal detailing technology, objectives, and scale-up plan",
+    "Proof of concept (PoC) or prototype validation data (TRL ≥ 4)",
+    "IP ownership or freedom-to-operate declaration",
+    "Bank account details of the entity",
+    "Authorized signatory letter",
+    "Quotation or cost estimate from the biofoundry facility (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round subject to facility availability and host institution approval cycles.",
+  "implementing_agency": "Biotechnology Industry Research Assistance Council (BIRAC), a Public Sector Enterprise set up by Department of Biotechnology (DBT), Government of India",
+  "contact_details": "Email: info@birac.nic.in | Phone: +91-11-29878000",
+  "caveats": [
+    "Support is subject to availability of biofoundry infrastructure at partner institutions",
+    "Startups must bear consumable and operational costs as per facility usage",
+    "Intellectual property generated remains with the startup unless otherwise agreed",
+    "Facility access does not guarantee commercial success or funding",
+    "All work must comply with biosafety and ethical guidelines",
+    "BIRAC does not guarantee follow-on funding or market access"
+  ],
+  "source_cited_notes": [
+    "https://birac.nic.in",
+    "https://birac.nic.in/birac_facility_network_e_portal.php",
+    "https://birac.nic.in/technologyportal.php"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:59:38.452243+00:00"
+}

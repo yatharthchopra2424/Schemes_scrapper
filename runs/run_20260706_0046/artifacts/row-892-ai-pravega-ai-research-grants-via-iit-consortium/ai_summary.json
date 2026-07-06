@@ -1,0 +1,43 @@
+{
+  "scheme_id": "row-892",
+  "scheme_name": "AI Pravega – AI Research Grants via IIT Consortium",
+  "scheme_url": "https://indiaai.gov.in",
+  "ministry_or_category": "AI & Data",
+  "overview": "AI Pravega – AI Research Grants via IIT Consortium is a scheme under the IndiaAI Mission's Startup Financing pillar that supports deep-tech AI startups by providing streamlined access to funding for innovative AI projects. The scheme is implemented through a consortium of IITs and aims to accelerate AI innovation by offering research grants to eligible entities. It focuses on fostering indigenous AI capabilities and enabling industry collaboration.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "deep-tech AI startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Support and accelerate deep-tech AI startups by providing streamlined access to funding for innovative AI projects",
+    "Foster indigenous AI capabilities and attract top AI talent",
+    "Enable industry collaboration and ensure socially impactful AI projects",
+    "Promote ethical AI development and responsible innovation",
+    "Democratize computing access and enhance data quality for AI research"
+  ],
+  "eligibility": "Deep-tech AI startups and innovative AI projects are eligible for funding under the IndiaAI Startup Financing pillar. The scheme supports startups and companies working on AI innovation, with a focus on streamlining access to funding for AI-driven solutions.",
+  "benefits": "Streamlined access to funding for innovative AI projects, support for deep-tech AI startups, facilitation of industry collaboration, promotion of ethical and responsible AI development, and contribution to building a robust domestic AI ecosystem.",
+  "financial_support": "The IndiaAI Startup Financing pillar provides streamlined access to funding for innovative AI projects, though specific quantum, type, and mechanism of financial support per entity are not detailed in the evidence.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process involves registering on the AIKosh platform, onboarding datasets or AI artefacts, and submitting contributions for review. However, specific numbered steps for AI Pravega grant application are not detailed in the evidence.",
+  "application_portal_url": "https://www.indiaai.gov.in/",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "IndiaAI, an Independent Business Division (IBD) under the Digital India Corporation, Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "support@indiaai.gov.in",
+  "caveats": [
+    "AIKosh is currently in its beta phase; certain features may still be under development",
+    "Submissions are accepted on a rolling basis with periodic reviews for compliance"
+  ],
+  "source_cited_notes": [
+    "https://indiaai.gov.in/",
+    "https://indiaai.gov.in/indiaaiportal",
+    "https://d12aarmt01l54a.cloudfront.net/cms/files/datasets-eoi/1753967577.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:50:32.834626+00:00"
+}

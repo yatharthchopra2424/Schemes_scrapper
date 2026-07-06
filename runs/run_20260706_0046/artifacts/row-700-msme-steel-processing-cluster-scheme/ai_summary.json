@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-700",
+  "scheme_name": "MSME Steel Processing Cluster Scheme",
+  "scheme_url": "https://steel.gov.in",
+  "ministry_or_category": "Steel & Metals",
+  "overview": "The MSME Steel Processing Cluster Scheme is a government initiative under the Ministry of Steel aimed at supporting micro, small, and medium enterprises (MSMEs) in the steel processing sector. The scheme focuses on enhancing the competitiveness and productivity of MSME steel processors through financial and technical assistance. It aims to promote cluster-based development, technology upgradation, and value addition in steel processing activities. The scheme is part of broader efforts to strengthen the domestic steel industry and support self-reliance (Atmanirbhar Bharat).",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enhance competitiveness and productivity of MSME steel processors",
+    "Promote cluster-based development in the steel processing sector",
+    "Facilitate technology upgradation and modernization of steel processing units",
+    "Encourage value addition and diversification in steel products",
+    "Improve quality and adherence to national and international standards",
+    "Support skill development and training for workforce in MSME steel clusters",
+    "Facilitate access to finance and markets for MSME steel processors",
+    "Promote sustainable and environmentally friendly practices in steel processing"
+  ],
+  "eligibility": "Micro, Small, and Medium Enterprises (MSMEs) engaged in steel processing activities as per the MSME Act, 2006 are eligible to apply under the scheme. The enterprises must be registered with the appropriate authorities and possess valid UDYAM registration. The scheme applies to units involved in processing activities such as cutting, bending, coating, fabrication, and value addition of steel products. Both new and existing MSME units are eligible, subject to meeting the scheme-specific criteria outlined in the guidelines.",
+  "benefits": "Financial assistance in the form of subsidies for setting up or upgrading steel processing infrastructure, including plant and machinery. Technical support for technology adoption, process optimization, and quality improvement. Access to common facility centers (CFCs) within steel processing clusters for shared resources like testing labs, training centers, and logistics support. Market linkage assistance and participation in trade fairs and buyer-seller meets. Skill development programs for workers and supervisors. Support for obtaining certifications and compliance with quality standards. Guidance on energy efficiency and waste reduction practices.",
+  "financial_support": "The scheme provides financial support in the form of subsidies for capital expenditure on plant and machinery, technical civil works, and other eligible components. The subsidy is typically a percentage of the project cost, subject to upper limits as per the scheme guidelines. Funds are disbursed in installments based on project milestones and verification. The exact quantum and mechanism are defined in the scheme's operational guidelines, which are issued by the Ministry of Steel from time to time.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Check eligibility and ensure UDYAM registration is valid. 2. Prepare a detailed project report (DPR) outlining the proposed steel processing cluster or unit upgradation. 3. Submit the application online through the designated portal of the Ministry of Steel or its authorized agency. 4. Upload required documents including UDYAM certificate, project report, cost estimates, and land/building documents. 5. Application is scrutinized by the technical committee or project approval body. 6. Site verification may be conducted if required. 7. Upon approval, sanction letter is issued and funds are released in installments. 8. Submit utilization certificates and progress reports as per schedule. 9. Final settlement is made after project completion and verification.",
+  "application_portal_url": "",
+  "required_documents": [
+    "UDYAM Registration Certificate",
+    "Detailed Project Report (DPR)",
+    "Cost estimates and quotations for plant and machinery",
+    "Land ownership or lease documents",
+    "Building plan and layout approval (if applicable)",
+    "Bank account details of the enterprise",
+    "Board resolution or authorization letter (for companies/partnerships)",
+    "Audit reports or financial statements (for existing units)",
+    "No Objection Certificate (NOC) from pollution control board (if applicable)",
+    "Affidavit confirming no duplicate funding from other government schemes for the same purpose"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Steel",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy is subject to availability of funds and approval by the competent authority",
+    "Beneficiaries must not have availed similar benefits for the same purpose from other central or state government schemes",
+    "The scheme may be revised, modified, or discontinued by the Ministry of Steel based on policy review",
+    "Funds must be utilized strictly for the approved purpose and within the stipulated timeline",
+    "Beneficiaries are required to maintain proper records and submit periodic progress and utilization reports",
+    "Any deviation from the approved project scope may lead to rejection or recovery of funds",
+    "The scheme does not cover recurring expenses like raw material costs, salaries, or operational expenses"
+  ],
+  "source_cited_notes": [
+    "https://steel.gov.in/",
+    "https://steel.gov.in/sites/default/files/2025-12/Citizens-Charter-2025.pdf"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:03:40.282367+00:00"
+}

@@ -1,0 +1,60 @@
+{
+  "scheme_id": "row-365",
+  "scheme_name": "Green Ship Building Incentive Scheme",
+  "scheme_url": "https://shipmin.gov.in",
+  "ministry_or_category": "Ports & Shipping",
+  "overview": "The Green Ship Building Incentive Scheme is part of the Ministry of Ports, Shipping and Waterways' initiatives to promote sustainable shipbuilding in India. It aims to incentivize the construction of environmentally friendly vessels through financial assistance and policy support. The scheme aligns with national goals such as Maritime India Vision 2030 and Maritime Amrit Kaal Vision 2047 to enhance green shipping and reduce carbon emissions in the maritime sector.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "shipyards",
+    "MSME",
+    "private sector"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote construction of green and environmentally sustainable ships",
+    "Support India's maritime decarbonization goals",
+    "Enhance competitiveness of Indian shipbuilding industry",
+    "Encourage adoption of clean fuel and hybrid propulsion systems",
+    "Strengthen domestic shipbuilding capacity and ancillary industries",
+    "Align with Maritime India Vision 2030 and Maritime Amrit Kaal Vision 2047"
+  ],
+  "eligibility": "Indian shipyards (including Central Public Sector, State Government, and private sector) constructing vessels eligible under the Shipbuilding Financial Assistance Scheme (SBFAS) or Shipbuilding Development Scheme (SbDS), with vessels meeting green shipbuilding criteria such as use of low-emission fuels, hybrid propulsion, or other environmentally sustainable technologies as defined in the scheme guidelines.",
+  "benefits": "Financial assistance for green shipbuilding projects, including subsidies for vessels built with green technologies; support for skill development and technology upgradation; promotion of indigenous manufacturing; enhancement of global competitiveness; and contribution to sustainable blue economy growth.",
+  "financial_support": "The scheme provides financial assistance in the form of subsidies or grants for green shipbuilding projects, with support channeled through the Shipbuilding Financial Assistance Scheme (SBFAS) and Shipbuilding Development Scheme (SbDS), including capital assistance for eligible items and potential funding via Sagarmala Finance Corporation Limited (SMFCL).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application online through the designated portal of the Ministry of Ports, Shipping and Waterways. 2. Provide Detailed Project Report (DPR) and supporting documents including proof of incorporation, audited financial statements, and statutory clearances. 3. Upload affidavit, indemnity bond, and business plan as per annexures. 4. Indicate project start and expected completion dates. 5. Await in-principle approval from the Implementing Agency (Directorate General of Shipping or Sagarmala Finance Corporation Limited). 6. Upon approval, proceed with project implementation and submit claims for stage-linked disbursement.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Proof of incorporation and valid registration as a shipyard",
+    "Audited financial statements and tax compliance certificates for the last three financial years",
+    "Detailed Project Report (DPR)",
+    "Comprehensive business plan",
+    "Affidavit signed by authorized signatory",
+    "Indemnity bond signed by authorized signatory",
+    "Statutory and environmental clearances (including CRZ, safety, building approvals)",
+    "Board resolution or equivalent authorization approving the investment proposal",
+    "Self-declaration committing to operate the upgraded facility for a minimum of five years post-commissioning"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Directorate General of Shipping (DGS) and Sagarmala Finance Corporation Limited (SMFCL)",
+  "contact_details": "",
+  "caveats": [
+    "Financial assistance is subject to budget availability and may be released in subsequent financial year if budget is not available",
+    "Only works commenced after receipt of in-principle approval are eligible for assistance",
+    "Projects must be completed within six years from final approval unless extension is approved by NSbM",
+    "Applicant shipyards must have been operational for at least three years prior to September 24, 2025",
+    "Shipyards must hold at least three of five qualifying asset categories (waterfront, dry berthing, wet berthing, basic facility, material handling)"
+  ],
+  "source_cited_notes": [
+    "https://shipmin.gov.in/sites/default/files/Annexure%202%20Credit%20risk%20coverage%20guidelines.pdf",
+    "https://shipmin.gov.in/sites/default/files/Annexure%203%20Greenfield%20guidelines.pdf",
+    "https://shipmin.gov.in/sites/default/files/Annexure%204%20Brownfield%20guidelines.pdf",
+    "https://shipmin.gov.in/sites/default/files/Modified%20Guidelines%20for%20implementation%20of%20Shipbuilding%20Financial%20Assistance%20Scheme%20%28SBFAS%29.pdf",
+    "https://shipmin.gov.in/sites/default/files/SBFAP_0.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:57:03.236093+00:00"
+}

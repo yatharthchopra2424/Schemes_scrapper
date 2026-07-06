@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-589",
+  "scheme_name": "EV Charging Infrastructure Development Scheme",
+  "scheme_url": "https://beeindia.gov.in",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "The Bureau of Energy Efficiency (BEE) is a statutory body under the Ministry of Power, Government of India, established on 1st March 2002 under the Energy Conservation Act, 2001. Its primary mission is to reduce the energy intensity of the Indian economy by developing policies and strategies focused on self-regulation and market principles. BEE promotes energy efficiency across sectors through schemes like Perform, Achieve and Trade (PAT), Standards & Labelling, and initiatives supporting electric vehicle charging infrastructure. It acts as the Central Nodal Agency for deploying public EV-charging infrastructure as per guidelines issued on 14th January 2022.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "industries",
+    "MSMEs",
+    "commercial buildings",
+    "residential consumers",
+    "state designated agencies",
+    "utilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Develop policies and programmes on efficient use of energy and its conservation with stakeholder involvement",
+    "Plan, manage and implement energy conservation initiatives as envisaged in the EC Act",
+    "Assume leadership and provide policy framework for national energy efficiency efforts",
+    "Demonstrate energy efficiency delivery mechanisms through Public-Private Partnership (PPP)",
+    "Establish systems to measure, monitor and verify energy efficiency results at individual and national levels",
+    "Leverage multi-lateral, bi-lateral and private sector support for programme implementation",
+    "Promote awareness of energy savings and energy conservation among targeted consumer groups"
+  ],
+  "eligibility": "Eligibility varies by scheme; for PAT scheme, designated consumers from energy-intensive sectors (Aluminum, Cement, Chlor-Alkali, Fertilizer, Iron & Steel, Paper & Pulp, Railways, Thermal Power, Textile) are notified based on specific energy consumption norms. For EV charging infrastructure, states must designate State Nodal Agencies (SNAs) to coordinate deployment. General eligibility for BEE programmes includes industries, commercial establishments, MSMEs, and government entities engaged in energy efficiency initiatives.",
+  "benefits": "BEE provides financial assistance to institutions for promoting energy efficiency, promotes innovative financing of energy efficiency projects, develops testing and certification procedures, facilitates pilot and demonstration projects, promotes use of energy-efficient equipment and systems, encourages preferential treatment for energy-efficient appliances, prepares educational curricula on energy efficiency, and implements international cooperation programmes. It also enables energy savings certification, reduces GHG emissions, and lowers energy costs across sectors.",
+  "financial_support": "BEE provides financial assistance to institutions for promoting efficient use of energy and its conservation. It promotes innovative financing mechanisms for energy efficiency projects. Specific financial details like fund size or per-entity grants are not explicitly mentioned in the evidence for the EV charging infrastructure scheme, but BEE leverages multi-lateral, bi-lateral and private sector support for programme implementation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. States must designate a State Nodal Agency (SNA) to coordinate deployment of public EV-charging infrastructure as per MoP guidelines dated 14th January 2022. 2. SNAs oversee the installation and operation of EV charging stations in public areas. 3. BEE supports SNAs through policy measures, technical guidance, and coordination with central agencies. 4. Entities interested in setting up EV charging infrastructure can approach their respective SNA for approvals and guidelines. 5. Compliance with technical standards and safety norms is required for installation and operation.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India",
+  "contact_details": "Email: dg-bee[at]nic[dot]in | Phone: 011-26766702 | Address: 4th Floor, Sewa Bhawan, R.K. Puram, New Delhi - 110066",
+  "caveats": [
+    "EV charging infrastructure deployment requires state-level designation of SNAs; currently 27 states have designated SNAs.",
+    "As of 31st March 2023, 28 states have announced EV policies, of which 25 are notified and 3 are under consultation.",
+    "Installation and operation must comply with technical standards and safety norms issued by BEE and relevant authorities."
+  ],
+  "source_cited_notes": [
+    "https://beeindia.gov.in/",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=0&lid=1&ls_id=49",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=1&lid=2&ls_id=158",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=1&lid=3&ls_id=159",
+    "https://beeindia.gov.in/WriteReadData/L45218/7425111601251321.pdf",
+    "https://beeindia.gov.in/WriteReadData/L45218/0391943254953922.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:56:31.873775+00:00"
+}

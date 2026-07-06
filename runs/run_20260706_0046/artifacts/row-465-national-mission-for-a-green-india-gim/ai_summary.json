@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-465",
+  "scheme_name": "National Mission for a Green India (GIM)",
+  "scheme_url": "https://moef.gov.in/green-india-mission",
+  "ministry_or_category": "CleanTech & GreenTech",
+  "overview": "The National Mission for a Green India (GIM) is one of the eight missions under the National Action Plan on Climate Change (NAPCC) aimed at protecting, restoring, and enhancing India's forest cover and responding to climate change through a combination of adaptation and mitigation measures. It focuses on increasing forest/tree cover on 5 million hectares of forest/non-forest lands and improving the quality of forest cover on another 5 million hectares. The mission emphasizes ecosystem services such as biodiversity, water, biomass, and carbon sequestration, while also supporting forest-dependent communities through livelihood improvement.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "forest-dependent communities",
+    "local communities",
+    "Panchayati Raj Institutions",
+    "Joint Forest Management Committees",
+    "NGOs",
+    "state forest departments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Increase forest/tree cover to the extent of 5 million hectares (mha) on forest/non-forest lands",
+    "Improve the quality of forest cover on another 5 million hectares (mha)",
+    "Improve ecosystem services including biodiversity, hydrological services, and carbon sequestration",
+    "Increase forest-based livelihood income for about 3 million households",
+    "Enhance annual CO2 sequestration by 50-60 million tonnes by 2020",
+    "Strengthen cross-sectoral convergence with other missions and programs",
+    "Promote decentralized, participatory governance involving local communities"
+  ],
+  "eligibility": "The mission is implemented through State Forest Departments and other designated agencies. Funds are released to State Governments based on approved Annual Plans of Operations (APOs). Eligible implementing agencies include State Forest Departments, Joint Forest Management Committees (JFMCs), Panchayati Raj Institutions (PRIs), NGOs, and other local institutions involved in afforestation, reforestation, and forest conservation activities. Activities must align with the mission’s objectives and be part of the State’s APO approved by the National Steering Committee.",
+  "benefits": "Financial support for afforestation, reforestation, and forest conservation activities; technical guidance and monitoring; capacity building for local communities and institutions; improved access to non-timber forest products (NTFPs); enhanced watershed management; biodiversity conservation; carbon sequestration benefits; and livelihood generation for forest-dependent communities through sustainable forest management and value addition.",
+  "financial_support": "The mission provides central financial assistance in the form of grants to State Governments for implementing approved Annual Plans of Operations (APOs). Funding is released in installments based on utilization certificates and progress reports. The financial support covers activities such as plantation, soil and moisture conservation, livelihood improvement, and monitoring and evaluation. The cost-sharing pattern is typically 90:10 (Centre:State) for Himalayan and Northeastern states, and 60:40 for other states.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State Forest Departments prepare Annual Plans of Operations (APOs) based on the GIM guidelines and submit them to the Ministry of Environment, Forest and Climate Change (MoEFCC). 2. The APOs are appraised by the National Mission Directorate and the National Steering Committee (NSC). 3. Upon approval, funds are released in installments to the State Governments. 4. States implement the projects through Joint Forest Management Committees (JFMCs), Panchayati Raj Institutions (PRIs), and other local bodies. 5. Progress is monitored through periodic reporting, field visits, and third-party evaluations. 6. Utilization certificates and audited statements of expenditure are submitted for subsequent fund releases.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Annual Plan of Operations (APO)",
+    "Utilization Certificates (UCs)",
+    "Progress Reports (Physical and Financial)",
+    "Audited Statements of Expenditure",
+    "Geo-tagged photographs of plantation sites",
+    "Beneficiary details and livelihood impact assessments",
+    "Monitoring and Evaluation Reports"
+  ],
+  "deadlines": "Annual cycle — APOs are typically submitted by States before the start of the financial year (April), with mid-year reviews possible.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC), Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Funds are released only after submission and approval of Annual Plans of Operations (APOs)",
+    "Subsequent installments are contingent upon utilization of previous funds and submission of utilization certificates",
+    "The mission emphasizes convergence with other schemes like MGNREGA, CAMPA, and National Afforestation Programme",
+    "Benefit sharing with local communities is mandatory under the guidelines",
+    "Third-party monitoring and evaluation are required for transparency and accountability"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in/guidelinesdocuments",
+    "https://moef.gov.in/circular-orders"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:47:05.662556+00:00"
+}

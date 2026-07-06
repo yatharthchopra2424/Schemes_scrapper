@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-175",
+  "scheme_name": "Scheme for Integrated Textile Parks (SITP)",
+  "scheme_url": "https://texmin.nic.in",
+  "ministry_or_category": "Textiles",
+  "overview": "The Scheme for Integrated Textile Parks (SITP) is a Government of India initiative under the Ministry of Textiles aimed at developing world-class infrastructure facilities for textile units through public-private partnerships. It supports the establishment of integrated textile parks with plug-and-play facilities to enhance productivity, global competitiveness, and attract investment in the textiles sector. The scheme focuses on creating synergies by co-locating various stages of textile production within a single park.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "private entrepreneurs",
+    "industry associations",
+    "state governments"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To provide world-class infrastructure facilities for textile units",
+    "To enhance productivity and global competitiveness of the Indian textiles industry",
+    "To attract investment in the textiles sector through plug-and-play facilities",
+    "To promote backward and forward linkages by integrating various stages of textile production",
+    "To generate employment opportunities in the textiles sector",
+    "To encourage adoption of modern technology and sustainable practices in textile manufacturing"
+  ],
+  "eligibility": "Special Purpose Vehicle (SPV) formed by industry associations, private entrepreneurs, or state government agencies with minimum 10 acres of land, clear title, and commitment to develop the park with at least 50% area allotted to textile units. The SPV must contribute at least 25% of the project cost as equity and ensure that no individual unit occupies more than 25% of the developed area.",
+  "benefits": "Financial support in the form of grant-in-aid for infrastructure development, common facilities like power, water, effluent treatment, roads, and security. Enables economies of scale, shared services, reduced logistics costs, and access to plug-and-play infrastructure for textile units. Promotes cluster-based development and enhances export competitiveness.",
+  "financial_support": "Government of India provides grant-in-aid up to 40% of the project cost, with a ceiling of INR 40 crore per textile park. For projects in hilly, tribal, or difficult areas, the grant is up to 90% of project cost with a ceiling of INR 60 crore. The remaining cost is to be borne by the SPV through equity contribution and term loans from financial institutions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 40 crore per textile park (INR 60 crore for hilly/tribal/difficult areas)",
+  "application_process": "1. Formation of Special Purpose Vehicle (SPV) by eligible entities 2. Identification and acquisition of land (minimum 10 acres) with clear title 3. Preparation of Detailed Project Report (DPR) including layout plan, financials, and implementation schedule 4. Submission of application along with DPR to the Office of the Textile Commissioner 5. Appraisal by the Project Appraisal Committee (PAC) 6. Approval by the Inter-Ministerial Steering Committee 7. Signing of Memorandum of Agreement (MoA) between SPV and Government of India 8. Implementation of the park in phases as per approved DPR 9. Submission of utilization certificates and progress reports 10. Release of grant-in-aid in installments based on verification of milestones",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation/Registration of SPV",
+    "Memorandum and Articles of Association",
+    "Board Resolution authorizing the application",
+    "Land documents (sale/lease deed, title report, encumbrance certificate)",
+    "Land use conversion certificate (if applicable)",
+    "Detailed Project Report (DPR) with layout plan, phasing, and financials",
+    "Project financing details including equity contribution and loan arrangements",
+    "No Objection Certificate (NOC) from State Pollution Control Board",
+    "Clearance from relevant authorities (e.g., airport, railways, highways if applicable)",
+    "Undertaking regarding minimum 50% area allotment to textile units",
+    "Undertaking that no single unit will occupy more than 25% of developed area"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds",
+  "implementing_agency": "Office of the Textile Commissioner, Ministry of Textiles, Government of India",
+  "contact_details": "",
+  "caveats": [
+    "Grant is released in installments based on verification of pre-defined milestones",
+    "Land must be in possession of SPV with clear title before application",
+    "At least 50% of the developed area must be allotted to textile units",
+    "No individual textile unit can occupy more than 25% of the total developed area",
+    "SPV must contribute minimum 25% of project cost as equity",
+    "Projects must be completed within the stipulated timeline as per approved DPR",
+    "Grant-in-aid is subject to availability of funds under the scheme"
+  ],
+  "source_cited_notes": [
+    "https://texmin.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:50:09.827307+00:00"
+}

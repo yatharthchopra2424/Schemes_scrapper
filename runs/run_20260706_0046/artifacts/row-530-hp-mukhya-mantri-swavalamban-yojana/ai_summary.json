@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-530",
+  "scheme_name": "HP Mukhya Mantri Swavalamban Yojana",
+  "scheme_url": "https://mmsy.hp.gov.in",
+  "ministry_or_category": "State Level (Himachal Pradesh)",
+  "overview": "Mukhya Mantri Swavalamban Yojana (MMSY) is a state-level scheme by the Government of Himachal Pradesh aimed at promoting self-employment and entrepreneurship among the youth. It provides financial support in the form of capital and interest subsidies to eligible beneficiaries for setting up industrial, service, trade, or shop units. The scheme targets bonafide Himachali youth aged 18 to 45 years and supports projects in sectors like manufacturing, service, agriculture, animal husbandry, sericulture, and mining.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "youth",
+    "bonafide Himachali candidates",
+    "entrepreneurs",
+    "women (for higher subsidy)"
+  ],
+  "geographic_scope": "Himachal Pradesh only",
+  "objectives": [
+    "Promote self-employment and entrepreneurship among youth",
+    "Provide financial support for setting up industrial and service units",
+    "Generate employment opportunities in the state",
+    "Encourage investment in priority sectors like agriculture, animal husbandry, sericulture, and mining",
+    "Support skill development and access to resources for aspiring entrepreneurs",
+    "Foster economic growth through establishment of new enterprises"
+  ],
+  "eligibility": "The scheme is exclusively for bonafide Himachali candidates. Applicants must be between 18 and 45 years of age at the time of application. They must possess a minimum level of education and have a viable business proposal. The unit must be set up in Himachal Pradesh and the applicant must not have engaged any private agency or middleman for aviling benefits under the scheme.",
+  "benefits": "Beneficiaries are eligible for capital investment subsidy at 25% (30% for women) on plant & machinery and technical civil works, subject to a maximum investment ceiling of Rs. 40 lakh in plant & machinery and total project cost not exceeding Rs. 60 lakh. Additionally, interest subsidy at 5% per annum for 3 years is available on term loans up to Rs. 40 lakh sanctioned by financial institutions. Reimbursement of CGTMSE guarantee fee is also provided. Units must commence commercial production within 6 months (for service/trade/shop) or 1 year (for manufacturing).",
+  "financial_support": "The scheme provides capital investment subsidy @ 25% (30% for women) on eligible investment in plant & machinery and technical civil works, with a maximum ceiling of Rs. 40 lakh in plant & machinery and total project cost not exceeding Rs. 60 lakh. Interest subsidy @ 5% per annum for 3 years is available on term loans up to Rs. 40 lakh sanctioned by financial institutions. Reimbursement of CGTMSE guarantee fee is also provided on a yearly basis. Subsidy is released after loan disbursement by the bank and verification by the District Industries Centre.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to Rs. 40 lakh in plant & machinery (capital subsidy) and interest subsidy on loans up to Rs. 40 lakh",
+  "application_process": "1. Submit application online via the MMSY portal along with Aadhar Card, Bonafide Himachali certificate, and brief project profile including land details. 2. Obtain approval from the District Level Committee (DLC). 3. After approval, apply for loan from a financial institution. 4. Upon loan disbursement by the bank, apply for capital investment subsidy to the General Manager, District Industries Centre (DIC) with required documents. 5. Submit physical inspection report, undertaking, and engineer’s certificate. 6. After verification, the GM DIC issues sanction order for subsidy release. 7. Interest subsidy and CGTMSE fee reimbursement are applied for after commencement of commercial production.",
+  "application_portal_url": "https://mmsy.hp.gov.in",
+  "required_documents": [
+    "Aadhar Card",
+    "Bonafide Himachali certificate(s)",
+    "Brief profile of the project to be undertaken including land details",
+    "Bank Sanction letter with Term Loan Account Statement",
+    "Bills of Machinery/Equipment/Construction/Physical Durable Assets purchased through registered supplier with valid GST number (paid via electronic mode)",
+    "Details of Physical Inspection Report and bank’s transient Account Number (with IFSC)",
+    "Undertaking on prescribed Performa (Annexure-B-II)",
+    "Certificate from Civil Engineers (Annexure-B-III)",
+    "Physical verification report by Extension Officer (Industries) or designated officer"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline mentioned; applications are accepted subject to portal availability",
+  "implementing_agency": "Department of Industries, Himachal Pradesh",
+  "contact_details": "Helpdesk numbers available district-wise (e.g., Bilaspur: 01978-224248, Shimla: 0177-2628270); emails vary by district (e.g., gmdicblp-hp@nic.in for Bilaspur, gmdicsml-hp@nic.in for Shimla)",
+  "caveats": [
+    "Plant and machinery for which payment has been made in cash are not eligible for subsidy",
+    "Subsidy will not be available for the same component twice under any other incentive scheme",
+    "Units must commence commercial production within 6 months (service/trade/shop) or 1 year (manufacturing) from date of approval",
+    "Investment subsidy is released only after physical verification and keeping in TDR for 3 years; refund required if unit ceases commercial production within 3 years",
+    "MMSY has not engaged any private party/agency/middlemen/franchise; beneficiaries dealing with such agencies do so at their own risk"
+  ],
+  "source_cited_notes": [
+    "https://mmsy.hp.gov.in/",
+    "https://emerginghimachal.hp.gov.in/themes/backend/uploads/notification/Notification/Operational-Guidelines-for-Mukhya-Mantri-Swawlamban-Yojna-2019.pdf"
+  ],
+  "last_updated_date": "2023",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:15:48.703536+00:00"
+}

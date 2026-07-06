@@ -1,0 +1,73 @@
+{
+  "scheme_id": "row-134",
+  "scheme_name": "Jan Samarth Portal – Unified Credit Scheme Portal",
+  "scheme_url": "https://www.jansamarth.in",
+  "ministry_or_category": "Finance & Banking",
+  "overview": "JanSamarth Portal is a national digital platform launched by the Government of India that links 16 central government credit-linked schemes across 8 loan categories, enabling beneficiaries to check eligibility, apply online, and receive digital approval from over 250+ participating lenders. The portal integrates with UIDAI, CBDT, NSDL, LGD, and NeSL to automate verification and streamline lending processes. Its core objective is to promote inclusive growth by connecting applicants with suitable government benefits through smart analytics and end-to-end digital processing.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "women entrepreneurs",
+    "SC/ST",
+    "farmers",
+    "agri-startups",
+    "street vendors",
+    "self-help groups",
+    "micro enterprises",
+    "handloom weavers",
+    "rural poor"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote inclusive growth and development of various sectors",
+    "Guide beneficiaries to the right type of government benefits through simple digital processes",
+    "Ensure end-to-end coverage of all processes and activities of linked schemes",
+    "Use cutting-edge technologies and smart analytics for intuitive eligibility checking and auto-recommendation",
+    "Automate lending processes based on digital verification for simplicity, speed, and hassle-free experience",
+    "Connect stakeholders of the financial ecosystem on a single platform to promote ease of doing business",
+    "Provide digital access to authenticate data via integrations with UIDAI, CBDT, NSDL, LGD, NeSL",
+    "Enable beneficiaries to choose from multiple options offered by onboarded Member Lending Institutions (MLIs)"
+  ],
+  "eligibility": "Eligibility varies by scheme; applicants must first check eligibility under their required loan category on the portal. General requirements include being an Indian resident, having a valid Aadhaar, PAN, and bank account, and meeting scheme-specific criteria such as DPIIT recognition for startups, Udyam registration for micro enterprises, or income limits for housing loans. Each scheme has its own eligibility norms as defined by the respective nodal ministry.",
+  "benefits": "Benefits include digital eligibility checking, online application, auto-filling of details via smart analytics, digital approval from lenders, real-time application tracking, access to 250+ lenders, collateral-free loans under certain schemes, interest subvention, credit guarantee coverage, margin money support, and no payment required from applicants to the portal. Specific benefits vary by scheme (e.g., interest subsidy under DAY-NRLM, margin money under PMEGP, credit guarantee under CGSS for startups).",
+  "financial_support": "Financial support varies by scheme and includes term loans, working capital, cash credit, overdraft, and composite loans. Quantum ranges from ₹10,000 (PM SVANidhi) to ₹1,500 crore (ECLGS for airlines). Support is delivered through participating banks and financial institutions, with credit guarantee coverage provided by NCGTC under schemes like CGSS, CGFMU, and CGTMSE. Interest rates are bank-determined but often capped, with subventions available under specific schemes (e.g., 3% under AIF, 7% under DAY-NRLM).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the JanSamarth portal and select your loan category. 2. Check eligibility by answering a few simple questions. 3. If eligible, proceed to apply online. 4. Provide basic details and upload required documents. 5. The portal’s smart analytics will auto-fill required details. 6. View offers from 250+ lenders and select a bank. 7. Receive digital approval from the selected bank. 8. Track application status in real time via the portal.",
+  "application_portal_url": "https://www.jansamarth.in",
+  "required_documents": [
+    "Aadhaar Number",
+    "Voter Id",
+    "PAN",
+    "Bank Statements",
+    "Basic details on the portal"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round.",
+  "implementing_agency": "Department of Financial Services (DFS), Ministry of Finance, Government of India",
+  "contact_details": "Customer support: Customer[dot]support[at]jansamarth[dot]in | 079690-76111 | Bank support: Bank[dot]support[at]jansamarth[dot]in | 079690-76123",
+  "caveats": [
+    "JanSamarth Portal does NOT ask for PAYMENT OF ANY KIND from its Applicants",
+    "Do not make any payment to calls, SMSs, emails, or scam/fake websites posing as Jansamarth.in",
+    "Do not scan any QR code or use any other link claiming to receive disbursement in your account — disbursement will be done by the concerned bank",
+    "Each scheme has different documentation requirements",
+    "Eligibility and benefits vary significantly across the 16 linked schemes"
+  ],
+  "source_cited_notes": [
+    "https://www.jansamarth.in",
+    "https://jansamarth.in/grievances",
+    "https://jansamarth.in/our-partners",
+    "https://jansamarth.in/government-of-india-schemes",
+    "https://jansamarth.in/register",
+    "https://jansamarth.in/faq",
+    "https://jansamarth.in/home",
+    "https://jansamarth.in/checkEligibility?id=eDNJcFlWOUtWWDZJL2hFQ2pBdFBTbjg9OjowNi0wNy0yMDI2IDAxOjU3",
+    "https://jansamarth.in/checkEligibility?id=elZEUStyejlCbVY4Ukp6NGttd2hCbEE9OjowNi0wNy0yMDI2IDAxOjU3",
+    "https://jansamarth.in/checkEligibility?id=d29KVnJLNlIvUE55bzFmL2d6ajRiR2c9OjowNi0wNy0yMDI2IDAxOjU3",
+    "https://jansamarth.in/checkEligibility?id=d0lobmZzNUs3QXU4TG9FeWV0bE9lc3M9OjowNi0wNy0yMDI2IDAxOjU3",
+    "https://jansamarth.in/checkEligibility?id=d1d4K0YvNG5aSGZiYUdwVWhpbVZjWm89OjowNi0wNy0yMDI2IDAxOjU3"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:31:09.333496+00:00"
+}

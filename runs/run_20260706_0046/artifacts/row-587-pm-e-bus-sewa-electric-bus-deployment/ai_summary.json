@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-587",
+  "scheme_name": "PM E-Bus Sewa – Electric Bus Deployment",
+  "scheme_url": "https://mohua.gov.in",
+  "ministry_or_category": "EV & Green Mobility",
+  "overview": "PM-eBus Sewa is a scheme launched by the Ministry of Housing and Urban Affairs (MoHUA) to promote electric bus deployment in Indian cities. The scheme aims to support the adoption of electric buses for public transport, reduce emissions, and improve urban mobility. It involves central assistance for procurement and operation of electric buses through a sanctioning and steering committee mechanism.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "Urban Local Bodies",
+    "State Transport Undertakings",
+    "Special Purpose Vehicles"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote adoption of electric buses for urban public transport",
+    "Reduce vehicular emissions and improve air quality in cities",
+    "Support sustainable urban mobility through central financial assistance",
+    "Enable cities to transition to clean energy-based transport systems",
+    "Strengthen institutional capacity for electric bus operations and maintenance"
+  ],
+  "eligibility": "Urban Local Bodies (ULBs), State Transport Undertakings (STUs), and Special Purpose Vehicles (SPVs) formed by ULBs/STUs are eligible to apply under the PM-eBus Sewa scheme for deployment of electric buses in cities.",
+  "benefits": "Financial support for procurement and operation of electric buses, reduction in operational costs due to lower energy and maintenance expenses, environmental benefits through zero tailpipe emissions, improved public transport quality and reliability, and contribution to national climate goals under India's EV mission.",
+  "financial_support": "Central Assistance (CA) is provided under the scheme as a subsidy for procurement and operation of electric buses. The exact quantum and mechanism are detailed in the scheme guidelines and Standard Operating Procedures (SOPs) for disbursement of central assistance, which are available for download from the scheme page.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the PM-eBus Sewa scheme page on the MoHUA website. 2. Download the scheme guidelines and Standard Operating Procedures (SOPs). 3. Prepare the proposal as per the guidelines. 4. Submit the application through the designated channel as specified in the guidelines. 5. Await review and approval by the Central Sanctioning & Steering Committee (CSSC).",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Board resolution authorizing the application",
+    "Undertaking regarding compliance with scheme guidelines",
+    "Documents related to land availability (if applicable for depots/charging infrastructure)",
+    "Financial viability report",
+    "Environmental and social safeguards documents"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Housing and Urban Affairs (MoHUA)",
+  "contact_details": "",
+  "caveats": [
+    "Central Assistance is subject to availability of funds and approval by the Central Sanctioning & Steering Committee (CSSC)",
+    "The scheme guidelines and SOPs must be strictly followed for eligibility and fund disbursement",
+    "Projects must comply with technical specifications and operational standards as per the scheme"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in/offerings/schemes-and-services/details/pm-ebus-sewa-gzM4cTMtQWa"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:54:35.433038+00:00"
+}

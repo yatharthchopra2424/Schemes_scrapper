@@ -1,0 +1,46 @@
+{
+  "scheme_id": "row-363",
+  "scheme_name": "Coastal Shipping Incentive Scheme",
+  "scheme_url": "https://shipmin.gov.in",
+  "ministry_or_category": "Ports & Shipping",
+  "overview": "The Coastal Shipping Incentive Scheme is a component of the Sagarmala Programme aimed at promoting coastal shipping as a fuel-efficient, economical, and environment-friendly mode of transport. It seeks to reduce logistics costs for EXIM and domestic trade by encouraging the use of coastal shipping and inland waterways. The scheme supports the development of dedicated coastal berths, bunkering facilities, and hinterland transport infrastructure to facilitate seamless coastal movement. It also promotes the introduction of green technologies like hybrid electric and hydrogen vessels to increase cargo movement on inland waterways.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "shipping companies",
+    "port operators",
+    "logistics providers",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Reduce logistics cost for EXIM and domestic trade with minimal infrastructure investment",
+    "Promote port-led development in the country",
+    "Increase coastal shipping traffic and inland waterways utilization",
+    "Develop dedicated coastal berths, bunkering facilities, and supporting hinterland transport infrastructure",
+    "Introduce green technologies like hybrid electric and hydrogen vessels",
+    "Achieve 150 MMTPA cargo movement on inland waterways by 2025",
+    "Reach approximately 250 MMTPA coastal shipping traffic by 2025"
+  ],
+  "eligibility": "Eligibility criteria are not explicitly mentioned in the provided evidence for the Coastal Shipping Incentive Scheme.",
+  "benefits": "Benefits include reduced transportation costs (coastal shipping costs only Rs. 2.0-3.0 per ton-km by road vs Rs. 0.2-0.3 per ton-km by rail), environment-friendly transport, reduced dependence on fossil fuels, lower emissions in port waters, and support for green shipping initiatives such as the Green Tug Transition Programme (GTTP).",
+  "financial_support": "Financial support details are not explicitly mentioned in the provided evidence for the Coastal Shipping Incentive Scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "Application process details are not explicitly mentioned in the provided evidence for the Coastal Shipping Incentive Scheme.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Ports, Shipping and Waterways",
+  "contact_details": "",
+  "caveats": [
+    "Inland waterways account for approximately 2% of India's freight modal share as of 2025",
+    "Coastal shipping traffic growth is driven by key commodities such as coal, cement, iron and steel, food grains, fertilizers, and petroleum products"
+  ],
+  "source_cited_notes": [
+    "https://shipmin.gov.in/en/division/shipping",
+    "https://shipmin.gov.in/en/division/sagarmala"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:54:01.481449+00:00"
+}

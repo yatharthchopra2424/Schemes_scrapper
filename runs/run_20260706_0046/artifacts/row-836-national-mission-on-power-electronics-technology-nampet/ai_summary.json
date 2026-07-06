@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-836",
+  "scheme_name": "National Mission on Power Electronics Technology (NaMPET)",
+  "scheme_url": "https://www.meity.gov.in",
+  "ministry_or_category": "Deep Tech & Innovation",
+  "overview": "The National Mission on Power Electronics Technology (NaMPET) is a scheme under the Ministry of Electronics and Information Technology (MeitY) aimed at advancing power electronics technology in India. It focuses on the development, promotion, and transfer of indigenous power electronics technologies to support sectors like electric vehicles, renewable energy, and smart grids. The mission encourages collaboration between research institutions, industry, and startups to enhance domestic capabilities in power electronics design and manufacturing.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "industry",
+    "research institutions"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote indigenous development of power electronics technologies",
+    "Facilitate transfer of technology from research labs to industry",
+    "Support startups and MSMEs in power electronics innovation",
+    "Enhance domestic manufacturing capabilities in power electronics",
+    "Strengthen India's position in global power electronics supply chains",
+    "Enable application of power electronics in EVs, renewable energy, and smart grids"
+  ],
+  "eligibility": "Indian companies/firms, startups registered in India with relevant experience in manufacturing, installation, marketing, or implementation of products through Transfer of Technology (ToT) and Licensing. Bidders from countries sharing a land border with India can participate only if registered with DPIIT.",
+  "benefits": "Access to indigenous power electronics technology developed by C-DAC, non-exclusive licensing rights for commercialization, training for technology transfer partners, field implementation support, and opportunity to deploy products in sectors like EVs, renewable energy, and smart grids.",
+  "financial_support": "The scheme involves a one-time Technology Transfer (ToT) license subscription fee. Payment terms are specified for the One Time ToT Subscription License and Software Subscription License. Financial details are to be submitted via the financial bid format in Annexure II.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Download EOI documents from www.cdac.in. 2. Review specifications and instructions carefully. 3. Prepare bid as per terms and conditions in the document. 4. Submit bids as per the prescribed format. 5. Ensure compliance to avoid disqualification. 6. Submit only one bid per bidder. 7. Avoid submission of false documents.",
+  "application_portal_url": "www.cdac.in",
+  "required_documents": [
+    "Company Profile of the bidder (Annexure-I Part-A)",
+    "Technical Collaborations of the bidder (Annexure-II Part-B)",
+    "Financial Bid Format (Annexure II)"
+  ],
+  "deadlines": "",
+  "implementing_agency": "Ministry of Electronics and Information Technology (MeitY)",
+  "contact_details": "Email: js.ssoffice@meity.gov.in | Contact: 011 - 24301815",
+  "caveats": [
+    "Non-compliance with specifications/instructions may disqualify bidders",
+    "Incomplete interests, amendments, or late submissions are liable to be ignored",
+    "Submission of more than one bid or part bid will be treated as non-responsive",
+    "Submission of false documents is strictly prohibited and liable for rejection",
+    "C-DAC reserves the right to alter the document, timetable, or process without assigning reasons"
+  ],
+  "source_cited_notes": [
+    "https://meity.gov.in/static/uploads/2026/04/5f8bd2d1ed4fafa1564f8768ba47e546.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:15:53.494221+00:00"
+}

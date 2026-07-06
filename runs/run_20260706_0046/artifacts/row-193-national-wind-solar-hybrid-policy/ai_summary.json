@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-193",
+  "scheme_name": "National Wind-Solar Hybrid Policy",
+  "scheme_url": "https://mnre.gov.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "The National Wind-Solar Hybrid Policy aims to promote large grid-connected wind-solar PV hybrid systems for optimal and efficient utilization of transmission infrastructure and land, reducing the variability in renewable power generation and achieving better grid stability. It encourages new hybrid projects as well as hybridization of existing wind or solar projects. The policy provides a framework for promoting hybrid projects through various fiscal and financial incentives, and outlines the methodology for determining the tariff for hybrid projects.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "power producers",
+    "renewable energy developers",
+    "independent power producers (IPPs)",
+    "state utilities"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote large grid-connected wind-solar PV hybrid systems",
+    "To optimize and efficiently utilize transmission infrastructure and land",
+    "To reduce the variability in renewable power generation",
+    "To achieve better grid stability",
+    "To encourage new hybrid projects and hybridization of existing wind or solar projects",
+    "To provide a framework for promoting hybrid projects through fiscal and financial incentives",
+    "To outline the methodology for determining the tariff for hybrid projects"
+  ],
+  "eligibility": "The policy applies to all wind and solar power projects, including existing projects seeking hybridization and new hybrid projects. Projects must be grid-connected and comply with the technical standards and grid connectivity norms as specified by the Central Electricity Authority (CEA). The hybridization must ensure optimal utilization of infrastructure and must not exceed the sanctioned capacity at the point of interconnection.",
+  "benefits": "Benefits include optimal utilization of transmission infrastructure and land, reduced variability in power output leading to better grid stability, extended hours of power generation, and eligibility for various fiscal and financial incentives available for wind and solar power projects under existing schemes. Hybrid projects can avail of benefits such as accelerated depreciation, concessional customs duty exemption, and priority sector lending, as per the provisions of the respective wind and solar policies.",
+  "financial_support": "The policy does not provide direct financial subsidies but enables access a dedicated fund but allows hybrid projects to avail of financial benefits under existing wind and solar schemes, such as generation-based incentives (GBI), accelerated depreciation, and concessional finance through institutions like IREDA. The quantum of support depends on the specific scheme under which the project is availing benefits.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Project developers must submit a detailed project report (DPR) to the Solar Energy Corporation of India Limited (SECI) or the respective state nodal agency. 2. The DPR must include details of wind and solar components, hybridization methodology, single point of grid connection, and compliance with CEA technical standards. 3. SECI or the state nodal agency evaluates the proposal for technical feasibility and grid impact. 4. Upon approval, the project is registered and proceeds to implementation. 5. After commissioning, the project can apply for applicable incentives under wind and solar policies through the respective implementing agencies.",
+  "application_portal_url": "https://mnre.gov.in",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association",
+    "Board resolution authorizing the project",
+    "Power Purchase Agreement (PPA) or intent to enter into PPA",
+    "Land documents (ownership or lease agreement)",
+    "Single line diagram and layout plan",
+    "Technical specifications of wind turbines and solar PV modules",
+    "Grid connectivity approval from the concerned transmission utility",
+    "Environmental and forest clearances (if applicable)",
+    "No Objection Certificate (NOC) from the Aviation Authority (if applicable)",
+    "Clearance from the Ministry of Defence (if applicable)"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted throughout the year.",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE)",
+  "contact_details": "Email: info@mnre.gov.in | Helpline: Not explicitly mentioned in evidence",
+  "caveats": [
+    "Hybrid projects must not exceed the sanctioned capacity at the point of interconnection",
+    "The wind and solar components must be connected at a single point to the grid",
+    "Projects must comply with the Central Electricity Authority (CEA) technical standards for grid connectivity",
+    "The policy does not create a new financial incentive but relies on existing wind and solar schemes for benefits",
+    "Benefits such as accelerated depreciation and customs duty exemption are subject to the provisions of the respective wind and solar policies"
+  ],
+  "source_cited_notes": [
+    "https://mnre.gov.in",
+    "https://mnre.gov.in/en/",
+    "https://cdnbbsr.s3waas.gov.in/s3716e1b8c6cd17b771da77391355749f3/uploads/2026/03/202603191833866183.pdf"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:07:21.327088+00:00"
+}

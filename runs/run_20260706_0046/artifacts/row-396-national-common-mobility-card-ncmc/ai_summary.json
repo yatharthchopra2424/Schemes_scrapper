@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-396",
+  "scheme_name": "National Common Mobility Card (NCMC)",
+  "scheme_url": "https://mohua.gov.in",
+  "ministry_or_category": "Urban Development",
+  "overview": "The National Common Mobility Card (NCMC) is a contactless smart card initiative under the Ministry of Housing and Urban Affairs (MoHUA) that enables seamless travel across different modes of public transport (metro, bus, suburban railways) and facilitates retail payments. It aims to integrate urban transport systems by providing a unified, interoperable payment solution for commuters. The card supports offline transactions and is designed to promote digital inclusion and ease of mobility in urban areas.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "general public",
+    "commuters",
+    "urban residents"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Enable seamless travel across metro, bus, and suburban rail systems using a single card",
+    "Facilitate retail payments alongside transit transactions",
+    "Promote digital and contactless payments in urban transport",
+    "Ensure interoperability of transport systems across cities",
+    "Support offline transaction capability for areas with limited connectivity",
+    "Enhance user convenience and reduce dependency on cash",
+    "Integrate with national mobility goals under Smart Cities Mission"
+  ],
+  "eligibility": "The National Common Mobility Card (NCMC) is available to all residents and commuters in India who wish to use a unified contactless card for public transport and retail payments. There are no specific eligibility restrictions based on income, age, or occupation; the card is issued by authorized banks and transit agencies upon application and KYC compliance.",
+  "benefits": "The NCMC enables contactless, seamless travel across metro, bus, and suburban rail systems; supports retail payments at participating merchants; allows offline transactions in low-connectivity areas; reduces the need for multiple cards or cash; promotes digital inclusion; integrates with the National Common Mobility Card ecosystem; and is backed by the Ministry of Housing and Urban Affairs for nationwide interoperability.",
+  "financial_support": "The National Common Mobility Card (NCMC) does not involve direct financial subsidies or grants to users. Users bear the cost of obtaining the card (typically a nominal issuance fee) and load funds onto it for transit and retail transactions. The scheme operates on a user-funded model where financial transactions are processed through linked bank accounts or wallets, with no central financial assistance provided per entity.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit an authorized bank or transit agency issuing NCMC. 2. Complete the application form with personal details. 3. Submit KYC documents (identity and address proof). 4. Pay the nominal card issuance fee (if applicable). 5. Load funds onto the card via cash, bank transfer, or UPI. 6. Start using the card for transit and retail payments at enabled terminals.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Identity proof (Aadhaar, PAN, Passport, Voter ID)",
+    "Address proof (Aadhaar, utility bill, passport)",
+    "Passport-sized photograph"
+  ],
+  "deadlines": "Rolling basis — applications accepted year-round",
+  "implementing_agency": "Ministry of Housing and Urban Affairs",
+  "contact_details": "",
+  "caveats": [
+    "Card issuance and usage depend on participation of banks and transit agencies",
+    "Functionality varies by city based on terminal readiness",
+    "Offline transaction limits may apply",
+    "Users are responsible for card security and fund loading"
+  ],
+  "source_cited_notes": [
+    "https://mohua.gov.in"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:14:36.686579+00:00"
+}

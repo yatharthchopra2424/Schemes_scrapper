@@ -1,0 +1,45 @@
+{
+  "scheme_id": "row-314",
+  "scheme_name": "Dairy Processing & Infrastructure Development Fund (DIDF)",
+  "scheme_url": "https://nddb.coop/services/dairy-development/didf",
+  "ministry_or_category": "Animal Husbandry",
+  "overview": "The Dairy Processing & Infrastructure Development Fund (DIDF) is a Central Sector Scheme implemented by the Department of Animal Husbandry and Dairying (DAHD), Government of India, with financial support from NABARD and end borrower contributions. The scheme aims to modernize milk processing plants, create additional processing infrastructure, enhance value addition through dairy products, improve efficiency in dairy processing, and strengthen the market position of producer-owned institutions in the organized milk market. It provides financial assistance to eligible end borrowers such as cooperative milk unions, state cooperative dairy federations, multi-state milk cooperatives, milk producer companies, and NDDB subsidiaries for setting up or expanding dairy processing facilities.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "cooperative milk unions",
+    "state cooperative dairy federations",
+    "multi-state milk cooperatives",
+    "milk producer companies",
+    "NDDB subsidiaries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To modernize the milk processing plants and machinery and to create additional infrastructure for processing more milk.",
+    "To create additional milk processing capacity for increased value addition by producing more dairy products.",
+    "To bring efficiency in dairy processing plants/producer owned and controlled dairy institutions, thereby enabling optimum value of milk to milk producer farmers and supply of quality milk to consumers.",
+    "To help the producer owned and controlled institutions to increase their share of milk, thereby providing greater opportunities of ownership, management and market access to rural milk producers in the organized milk market.",
+    "To help the producer owned and controlled institutions to consolidate their position as dominant player in the organized liquid milk market and to make increased price realization to milk producers."
+  ],
+  "eligibility": "Financial assistance under DIDF will be given to the end borrowers which are financially viable and willing to avail funds and also fulfill the eligibility criteria, as per Operation guidelines of DIDF. Eligible institutions include NDDB and NCDC using the loans from the DIDF to lend to co-operative milk unions, state cooperative dairy federations, multi-state milk cooperatives, milk producer companies, and NDDB subsidiaries.",
+  "benefits": "The scheme provides financial assistance for modernization and creation of new milk processing facilities, manufacturing facilities for value-added products, milk chilling infrastructure, setting up electronic milk testing equipment, project management and learning, and any other activities related to the dairy sector targeted to contribute to the objectives of DIDF. It enables optimum value realization for milk producers, improves supply of quality milk to consumers, and strengthens the market position of producer-owned institutions.",
+  "financial_support": "The total outlay for DIDF during 2020-21 is Rs 11184 Crore, of which Rs 8004 crore shall be loan from National Bank for Agriculture and Rural Development (NABARD) to National Dairy Development Board (NDDB) and National Cooperative Development Cooperation (NCDC) for end borrowers, Rs 2001 crore shall be end borrowers' contribution, Rs 12 crore would be NDDB/NCDC's share during 3 years 2018-19 to 2022-23, and Rs 1167 crore shall be contributed by DAHD towards interest subvention on repayment for 10 years (2018-19 to 2030-31 with spill over to first quarter of 2031-32). NABARD shall extend loan to NDDB and NCDC at a rate of interest of 6% per annum repayable at quarterly rests. The interest rate to end borrower shall be up to 6.5% per annum (to be charged by NDDB/NCDC) subject to the condition that the difference between the cost of borrowing funds from market (by NABARD) and the rate at which NABARD passes loan on to NDDB/NCDC is not more than 2.5% per annum.",
+  "fund_size_crores": "11184",
+  "grant_amount_per_entity": "",
+  "application_process": "The application process is not explicitly detailed in the provided evidence. However, based on the scheme structure, end borrowers would typically submit proposals through NDDB or NCDC after meeting eligibility criteria, including financial viability, positive net worth, no defaults to banks/financial institutions, up-to-date audit without adverse observations, and outstanding dues to producer members not exceeding four payment periods. The loan is sanctioned by NABARD to NDDB/NCDC, which then on-lends to eligible end borrowers.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Department of Animal Husbandry and Dairying (DAHD), Government of India",
+  "contact_details": "e-mail: anand@nddb.coop | Telephone: 91-2692-260148, 260149, 260159, 260160 | Fax: 91-2692-260157, 260159",
+  "caveats": [
+    "The interest rate on borrowings from market by NABARD shall vary from time to time depending upon rates prevailing at the time of raising funds.",
+    "In case of any further increase in cost of borrowing of fund by NABARD, the additional cost of fund will be borne by the End Borrowers.",
+    "The cost of fund to NABARD shall be the actual cost of borrowing by NABARD inclusive of interest, taxes, fees, charges, etc., plus fund management cost of 0.60% per annum."
+  ],
+  "source_cited_notes": [
+    "https://nddb.coop/sites/default/files/pdfs/Administrative_Approval_of_DIDF_Scheme_2020_21.pdf"
+  ],
+  "last_updated_date": "2020-21",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:22:59.159116+00:00"
+}

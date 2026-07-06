@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-158",
+  "scheme_name": "Kisan Credit Card for Fisheries & Animal Husbandry",
+  "scheme_url": "https://dof.gov.in",
+  "ministry_or_category": "Fisheries",
+  "overview": "The Kisan Credit Card (KCC) scheme was introduced by the Government of India in 1998 to provide timely and affordable credit support to farmers, including fishers and livestock farmers. It enables cultivators, livestock farmers, and fishers to access short-term loans for crop production, allied activities, and household requirements. Under KCC, farmers are issued a credit card linked to their bank account, which allows them to withdraw funds as needed. The scheme has been extended to fisheries and animal husbandry sectors to support fishers and fish farmers with working capital for fisheries-related activities.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "fishers",
+    "fish farmers",
+    "livestock farmers",
+    "cultivators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide timely and affordable credit support to farmers",
+    "Enable access to short-term loans for crop production and allied activities",
+    "Support household requirements of farmers",
+    "Extend credit facilities to fishers and livestock farmers under KCC",
+    "Issue credit cards linked to bank accounts for flexible fund withdrawal"
+  ],
+  "eligibility": "Cultivators, livestock farmers, and fishers engaged in agricultural and allied activities are eligible for the Kisan Credit Card scheme. The scheme is available to farmers who require credit for crop production, fisheries, animal husbandry, and household needs.",
+  "benefits": "The Kisan Credit Card provides timely and affordable credit support, enables access to short-term loans for crop production, allied activities, and household requirements, and offers a credit card linked to the bank account for flexible withdrawal of funds as needed.",
+  "financial_support": "Under Kisan Credit Card, farmers are issued a credit card linked to their bank account, which allows them to access short-term loans for crop production, allied activities, and household requirements. The card enables flexible withdrawal of funds as needed for fisheries and animal husbandry activities.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Approach a bank offering Kisan Credit Card facility. 2. Submit application form along with required documents. 3. Bank verifies eligibility and land/crop/fisheries/animal husbandry details. 4. Upon approval, KCC is issued linked to the bank account. 5. Cardholder can withdraw funds as needed for approved purposes.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Application form",
+    "Proof of identity",
+    "Proof of address",
+    "Land ownership or lease documents (for crop farmers)",
+    "Details of fisheries or animal husbandry activities",
+    "Bank account details"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Department of Fisheries, Ministry of Fisheries, Animal Husbandry and Dairying",
+  "contact_details": "",
+  "caveats": [
+    "Credit limit is based on landholding, cropping pattern, and scale of fisheries/animal husbandry activities",
+    "Loan must be used only for approved purposes like crop production, fisheries, animal husbandry, and household needs",
+    "Timely repayment is required to maintain creditworthiness and continue availing benefits"
+  ],
+  "source_cited_notes": [
+    "https://dof.gov.in/offerings"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:45:12.733807+00:00"
+}

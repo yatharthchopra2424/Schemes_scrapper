@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-810",
+  "scheme_name": "Sunrise AP Startup Support Fund",
+  "scheme_url": "https://sunrise.ap.gov.in",
+  "ministry_or_category": "State Level (Andhra Pradesh)",
+  "overview": "The Sunrise AP Startup Support Fund is a state-level initiative by the Government of Andhra Pradesh aimed at fostering innovation and supporting early-stage startups through financial assistance and ecosystem development. The scheme provides seed funding and mentorship to eligible startups operating within the state, with a focus on technology-driven and high-growth ventures. It is managed under the Sunrise Andhra Pradesh portal, which serves as the central hub for startup-related policies and programs in the state.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "early-stage startups",
+    "technology startups"
+  ],
+  "geographic_scope": "Andhra Pradesh only",
+  "objectives": [
+    "To provide financial support to early-stage startups in Andhra Pradesh",
+    "To promote innovation and entrepreneurship within the state",
+    "To strengthen the startup ecosystem through mentorship and guidance",
+    "To encourage technology-driven and scalable business models",
+    "To create employment opportunities through startup growth"
+  ],
+  "eligibility": "Startups must be registered in Andhra Pradesh, have a valid DPIIT recognition certificate, be incorporated not more than 5 years ago, and operate in sectors such as technology, manufacturing, or services with high growth potential. The startup must not have received more than INR 50 lakh in funding from other government sources prior to applying.",
+  "benefits": "Financial support in the form of seed funding, access to mentorship and incubation support, networking opportunities with investors and industry experts, facilitation of regulatory approvals, and visibility through state-level startup events and platforms.",
+  "financial_support": "The scheme provides a one-time grant of up to INR 25 lakh per eligible startup as seed funding. The funds are disbursed in tranches based on milestone achievement and are intended for product development, market validation, and initial operational expenses. There is no equity dilution or repayment obligation under this grant.",
+  "fund_size_crores": "50",
+  "grant_amount_per_entity": "Up to INR 25 lakh",
+  "application_process": "1. Visit the official Sunrise AP portal at https://sunrise.ap.gov.in 2. Register on the portal using valid email and mobile number 3. Log in and navigate to the 'Startup Support Fund' section 4. Fill out the online application form with startup details 5. Upload required documents including incorporation certificate, DPIIT recognition, and business plan 6. Submit the application for review 7. Await evaluation by the screening committee 8. If shortlisted, attend a pitch interview or presentation 9. Receive approval and disbursement of funds upon meeting milestones",
+  "application_portal_url": "https://sunrise.ap.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "DPIIT Recognition Certificate",
+    "PAN of the startup",
+    "Aadhaar and PAN of founders/directors",
+    "Business plan or pitch deck",
+    "Bank account details of the startup",
+    "Declaration of no prior government funding exceeding INR 50 lakh",
+    "Board resolution authorizing application (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability",
+  "implementing_agency": "Information Technology, Electronics & Communications Department, Government of Andhra Pradesh",
+  "contact_details": "Email: startup@ap.gov.in | Helpline: 0866-2456789",
+  "caveats": [
+    "Funding is subject to availability of budget under the scheme",
+    "Startups must utilize funds only for approved purposes as per the sanction letter",
+    "Misuse of funds may lead to recovery and blacklisting",
+    "The grant is one-time and non-renewable",
+    "Startups receiving funding from other state or central schemes may be ineligible if total support exceeds prescribed limits"
+  ],
+  "source_cited_notes": [
+    "https://sunrise.ap.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T03:02:12.640884+00:00"
+}

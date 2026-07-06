@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-578",
+  "scheme_name": "National Aquifer Mapping Programme (NAQUIM)",
+  "scheme_url": "https://cgwb.gov.in",
+  "ministry_or_category": "Jal Shakti",
+  "overview": "The National Aquifer Mapping and Management (NAQUIM) programme, initiated by the Central Ground Water Board (CGWB) in 2012 under the Ground Water Management and Regulation Plan Scheme (XII plan), aims to comprehensively map India's aquifers to support effective groundwater management. It involves delineation of aquifers in terms of horizontal and vertical extent, characterization of hydrogeological properties, assessment of resource availability and quality, preparation of aquifer maps, identification and quantification of issues, and development of management strategies for sustainability. The programme has completed mapping of the targeted 25 lakh km² area by 2023 and has expanded into NAQUIM 2.0 for higher granularity and issue-based scientific inputs.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "state government agencies",
+    "central government departments",
+    "policy makers",
+    "planners",
+    "water resource managers",
+    "farmers",
+    "industries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Delineation of aquifers in terms of their horizontal and vertical extent",
+    "Characterization of aquifers in terms of their hydrogeological properties",
+    "Assessment of resource availability and quality",
+    "Preparation of aquifer maps",
+    "Identification and quantification of issues",
+    "Developing management strategies to ensure sustainability of ground water resources",
+    "Providing information in higher granularity with a focus on increasing density of dynamic data like ground water level, ground water quality etc.",
+    "Providing issue based scientific inputs for ground water management up to panchayat level",
+    "Putting in place a strategy to ensure implementation of the recommended strategies"
+  ],
+  "eligibility": "The NAQUIM programme is implemented by the Central Ground Water Board (CGWB) in coordination with state government counterparts and collaborates with organizations/institutes like GSI, NGRI, IMD, NRSC, IISc, IIT etc. on specific topics. It is a government-led initiative and not a scheme open for external applications by individuals or entities.",
+  "benefits": "NAQUIM outputs support drinking water source finding and source sustainability, site selection for Artificial Recharge, safe drinking water in Arsenic affected areas, assured irrigation through ground water in areas with adequate ground water potential, implementation of water conservation and AR recommendations, ground water regulation based on NAQUIM recommendations, rejuvenation of springs, and integration with Atal Bhujal Yojana. The programme has conducted 1300 Public Interaction Programmes (PIPs) at grassroots level with nearly 1 lakh participants, and disseminates findings through www.cgwb.gov.in, www.aims-cgwb.org, and India Water Resource Information System (India-WRIS).",
+  "financial_support": "The NAQUIM programme is a government-funded initiative under the Ground Water Management and Regulation Plan Scheme (XII plan). No specific financial support mechanism for external beneficiaries is described in the evidence, as it is a mapping and management programme conducted by CGWB and its partners.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "The NAQUIM programme is a government-implemented initiative and does not have an application process for external beneficiaries. It is carried out by the Central Ground Water Board (CGWB) in collaboration with state governments and technical partners.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "The mapping of the entire targeted area under NAQUIM was completed in the year 2023. The programme has evolved into NAQUIM 2.0 with ongoing activities.",
+  "implementing_agency": "Central Ground Water Board (CGWB), Ministry of Jal Shakti, Department of Water Resources, River Development and Ganga Rejuvenation, Government of India",
+  "contact_details": "Email: chmn-cgwb@nic.in | Phone: 0129-2477101, 0129-2477104 | Website: cgwb.gov.in",
+  "caveats": [
+    "NAQUIM outputs are intended for use by government agencies involved in ground water management and water supply",
+    "The programme focuses on assessment and mapping; direct financial benefits to individuals or entities are not part of the scheme",
+    "NAQUIM 2.0 activities are ongoing with priority areas including water stressed areas, coastal areas, urban agglomerates, springsheds, industrial/mining areas, command areas, deep-seated aquifers, auto-flow areas, and poor ground water quality areas"
+  ],
+  "source_cited_notes": [
+    "https://cgwb.gov.in/hi/aquifer-mapping",
+    "https://cgwb.gov.in/cgwbpnm/public/uploads/documents/177432886187911288file.pdf",
+    "https://cgwb.gov.in/en",
+    "https://cgwb.gov.in/hi"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T00:48:48.123616+00:00"
+}

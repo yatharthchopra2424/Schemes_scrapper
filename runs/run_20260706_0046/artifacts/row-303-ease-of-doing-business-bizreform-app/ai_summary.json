@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-303",
+  "scheme_name": "Ease of Doing Business – BizReform App",
+  "scheme_url": "https://bizreform.eodb.gov.in",
+  "ministry_or_category": "Legal & Regulatory",
+  "overview": "The Ease of Doing Business – BizReform App is a digital platform launched by the Department for Promotion of Industry and Internal Trade (DPIIT) to streamline regulatory processes for businesses in India. It provides a single-window interface for accessing various government services, approvals, and clearances required to start and operate a business. The app aims to reduce compliance burden, enhance transparency, and improve the overall business environment by integrating central and state-level services. It supports entrepreneurs, startups, and MSMEs in navigating legal and regulatory requirements efficiently.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "startups",
+    "MSME",
+    "entrepreneurs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide a single-window digital platform for business-related government services",
+    "Reduce time and cost involved in obtaining regulatory approvals",
+    "Enhance transparency and accountability in government processes",
+    "Integrate central and state-level clearances on one platform",
+    "Support ease of doing business initiatives across India"
+  ],
+  "eligibility": "Any business entity, including startups, MSMEs, and entrepreneurs, seeking government approvals, registrations, or clearances can use the BizReform App to access services.",
+  "benefits": "Single-window access to multiple government services; reduced procedural delays; digital submission and tracking of applications; integration with central and state portals; improved transparency in approval processes; time and cost savings for businesses.",
+  "financial_support": "The BizReform App does not provide direct financial support such as grants, loans, or subsidies. It is a facilitation platform focused on regulatory ease and process efficiency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Download the BizReform App from the official portal or app stores. 2. Register using mobile number or email ID. 3. Create a business profile with entity details. 4. Select the required government service or clearance. 5. Fill in the application form and upload necessary documents. 6. Submit the application and track its status in real time. 7. Receive approvals or notifications digitally through the app.",
+  "application_portal_url": "https://bizreform.eodb.gov.in",
+  "required_documents": [
+    "PAN of the business entity",
+    "Certificate of Incorporation or Registration",
+    "GSTIN (if applicable)",
+    "Bank account details",
+    "Authorization letter from authorized signatory",
+    "Identity and address proof of the applicant"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Services are accessible year-round as per user requirement.",
+  "implementing_agency": "Department for Promotion of Industry and Internal Trade (DPIIT), Ministry of Commerce and Industry",
+  "contact_details": "",
+  "caveats": [
+    "The app facilitates access to services but does not guarantee approval, which depends on respective departmental criteria",
+    "Availability of specific services depends on integration with state and central department portals",
+    "Users must ensure documents are valid and up to date to avoid rejection"
+  ],
+  "source_cited_notes": [
+    "https://bizreform.eodb.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:04:02.249450+00:00"
+}

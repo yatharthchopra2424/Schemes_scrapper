@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-123",
+  "scheme_name": "AP Innovation Society & APEX Incubation",
+  "scheme_url": "https://apinnovation.ap.gov.in",
+  "ministry_or_category": "State Level (Andhra Pradesh)",
+  "overview": "AP Innovation Society & APEX Incubation is a state-level initiative by the Government of Andhra Pradesh aimed at fostering innovation and entrepreneurship through incubation support, mentorship, and infrastructure for startups and innovators across the state. The program operates under the AP Innovation Society and focuses on nurturing early-stage ventures by providing access to incubation centers, technical guidance, and networking opportunities. It seeks to strengthen the entrepreneurial ecosystem in Andhra Pradesh by supporting innovation-driven enterprises in key sectors.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "innovators"
+  ],
+  "geographic_scope": "Andhra Pradesh only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across Andhra Pradesh",
+    "Provide incubation support including infrastructure and mentorship to early-stage startups",
+    "Facilitate access to technology, markets, and funding opportunities for innovators",
+    "Strengthen the startup ecosystem through collaboration with academia, industry, and investors",
+    "Support sector-specific innovation in areas such as agriculture, healthcare, and manufacturing"
+  ],
+  "eligibility": "The scheme is open to startups, innovators, and entrepreneurs based in Andhra Pradesh who are working on innovative ideas, products, or services with potential for scalability and social impact. Preference may be given to ventures registered in the state or those committing to operate within Andhra Pradesh.",
+  "benefits": "Selected incubatees receive access to incubation center infrastructure (office space, labs, internet), mentorship from industry experts and academics, guidance on product development and business modeling, assistance in IPR filing, networking opportunities with investors and industry partners, and support in accessing government schemes and funding programs.",
+  "financial_support": "Financial support under the scheme may include seed funding, grants, or stipends for prototype development and early-stage validation, subject to evaluation and availability of funds. The exact quantum and disbursement mechanism are determined based on the project proposal and stage of the startup, as assessed by the incubation committee.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official AP Innovation Society website at https://apinnovation.ap.gov.in 2. Navigate to the incubation or startup support section 3. Fill out the online application form with details of the venture, innovation, and team 4. Upload required documents such as business plan, incorporation proof, and identity documents 5. Submit the application for review 6. Await evaluation by the selection committee 7. If shortlisted, attend an interview or pitch session 8. Receive incubation offer upon selection.",
+  "application_portal_url": "https://apinnovation.ap.gov.in",
+  "required_documents": [
+    "Business plan or project proposal",
+    "Certificate of Incorporation / Registration (if applicable)",
+    "PAN card of the applicant or entity",
+    "Aadhaar card of founders",
+    "Proof of residence or office address in Andhra Pradesh",
+    "Details of innovation or technology being developed",
+    "Team profile and qualifications"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of incubation slots.",
+  "implementing_agency": "AP Innovation Society, Government of Andhra Pradesh",
+  "contact_details": "",
+  "caveats": [
+    "Incubation support is subject to availability of space and resources at designated centers",
+    "Continued support is contingent on periodic performance review and progress milestones",
+    "Intellectual property developed during incubation may be subject to specific terms as per society policies",
+    "Financial support, if any, is discretionary and based on fund availability and project evaluation"
+  ],
+  "source_cited_notes": [
+    "https://apinnovation.ap.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:22:47.880685+00:00"
+}

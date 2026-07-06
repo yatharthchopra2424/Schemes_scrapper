@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-699",
+  "scheme_name": "National Steel Policy Raw Material Security for MSMEs",
+  "scheme_url": "https://steel.gov.in",
+  "ministry_or_category": "Steel & Metals",
+  "overview": "The National Steel Policy Raw Material Security for MSMEs is a scheme under the Ministry of Steel aimed at ensuring the availability of critical raw materials like iron ore and coking coal for micro, small, and medium enterprises (MSMEs) in the steel sector. It involves coordination with multiple government ministries to address raw material security challenges, including diversifying import sources, enhancing domestic production, and optimizing resource use. The scheme supports MSMEs by improving access to essential inputs for sustained growth in the iron and steel industry.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Ensure sustained growth in iron & steel industry through raw material security",
+    "Reduce import bill of coking coal by diversifying import destinations",
+    "Maximize use of pellets to reduce coke requirement",
+    "Beneficiation of iron ore to increase iron content",
+    "Optimize coking coal blend",
+    "Increase domestic coal production from existing mines",
+    "Set up new washeries to enhance domestic coking coal availability",
+    "Allocate coking coal blocks and auction coking coal linkages"
+  ],
+  "eligibility": "MSMEs in the steel sector engaged in production or processing activities requiring raw materials such as iron ore, coking coal, or related inputs, as determined by the Ministry of Steel in coordination with Ministry of Mines, Ministry of Coal, Ministry of Environment, Forest and Climate Change, Logistic Ministries, and concerned State Governments.",
+  "benefits": "Enhanced availability of domestic coking coal through allocation of coking coal blocks, auction of coking coal, and MoU for coking coal linkage; reduced import dependence on coking coal; improved access to iron ore and non-critical raw material; support for MSMEs in securing raw materials through policy coordination and logistics facilitation.",
+  "financial_support": "The scheme does not involve direct financial disbursement to MSMEs. Instead, it focuses on policy interventions, coordination between ministries (Steel, Mines, Coal, Environment, etc.), and logistical measures such as allocation of coking coal blocks, auction mechanisms, and setting up of washeries to enhance domestic raw material availability and reduce import burden.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify raw material requirements as an MSME in the steel sector. 2. Engage with Ministry of Steel or designated nodal agency for raw material security facilitation. 3. Submit request for support in accessing domestic raw materials or import facilitation. 4. Ministry coordinates with Ministry of Mines, Ministry of Coal, and State Governments for allocation or linkage. 5. Benefit from MoUs, block allocations, or auction outcomes for coking coal and iron ore access.",
+  "application_portal_url": "",
+  "required_documents": [
+    "MSME registration certificate",
+    "Details of raw material requirement (type, quantity, grade)",
+    "Production capacity and operational details",
+    "Proof of engagement in steel sector activities",
+    "Any existing MoUs or linkages related to raw material sourcing"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Applications are accepted year-round based on availability and coordination cycles.",
+  "implementing_agency": "Ministry of Steel",
+  "contact_details": "Email: secy-steel@nic.in | Tele No.: 24673489 24673912 (as per Citizens’ Charter 2025)",
+  "caveats": [
+    "Support is subject to availability of domestic raw materials and import regulations",
+    "Coking coal linkage depends on domestic production and washery setup timelines",
+    "Benefits are facilitative in nature and not guaranteed financial grants",
+    "Coordination with multiple ministries may lead to variable timelines",
+    "MSMEs must demonstrate genuine need and operational viability in steel sector"
+  ],
+  "source_cited_notes": [
+    "https://steel.gov.in/sites/default/files/2025-12/Citizens-Charter-2025.pdf",
+    "https://steel.gov.in/",
+    "https://steel.gov.in/background-composition"
+  ],
+  "last_updated_date": "2025",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T02:03:21.716282+00:00"
+}

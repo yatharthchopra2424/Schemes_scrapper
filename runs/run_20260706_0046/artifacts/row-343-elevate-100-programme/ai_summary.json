@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-343",
+  "scheme_name": "Elevate 100 Programme",
+  "scheme_url": "https://elevate.karnataka.gov.in",
+  "ministry_or_category": "State Level (Karnataka)",
+  "overview": "The Elevate 100 Programme is a flagship initiative by the Government of Karnataka aimed at identifying, nurturing, and scaling high-potential startups across the state. It provides selected startups with financial support, mentorship, market access, and networking opportunities to foster innovation and entrepreneurship. The programme focuses on early-stage and growth-stage startups with scalable business models and aims to position Karnataka as a leading startup destination in India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Karnataka only",
+  "objectives": [
+    "Identify and support 100 high-potential startups in Karnataka annually",
+    "Provide financial assistance to selected startups for product development and market scaling",
+    "Offer mentorship and guidance from industry experts and successful entrepreneurs",
+    "Facilitate market access and customer acquisition through curated platforms",
+    "Enable networking opportunities with investors, corporates, and ecosystem stakeholders",
+    "Strengthen Karnataka’s position as a premier startup hub in India",
+    "Encourage innovation in key sectors such as technology, healthcare, agritech, and manufacturing",
+    "Support job creation and economic growth through scalable entrepreneurial ventures"
+  ],
+  "eligibility": "Startups must be registered in Karnataka under the Companies Act, 2013, LLP Act, 2008, or as a partnership firm. The startup should have been incorporated not more than 5 years ago from the date of application. It must be working on an innovative product, service, or process with potential for scalability and job creation. The startup should not have received more than INR 50 Lakhs in funding from any government scheme prior to applying. At least one founder must be a resident of Karnataka.",
+  "benefits": "Selected startups receive a grant of up to INR 50 Lakhs for product development and market expansion. They gain access to mentorship from industry leaders, participation in bootcamps and workshops, and opportunities to showcase their solutions at national and international events. The programme facilitates connections with potential investors, corporates, and government bodies. Startups also receive incubation support, legal and accounting assistance, and access to prototyping and testing facilities. Additionally, they are featured in the Elevate 100 compendium and gain visibility through media and promotional campaigns.",
+  "financial_support": "The programme provides a one-time grant of up to INR 50 Lakhs per selected startup. The grant is disbursed in tranches based on milestone achievement and is intended for product development, technology acquisition, market expansion, and team building. There is no equity dilution or repayment obligation. The funds are released by the Department of IT, BT and S&T, Government of Karnataka.",
+  "fund_size_crores": "5000",
+  "grant_amount_per_entity": "Up to INR 50 Lakhs",
+  "application_process": "1. Visit the official Elevate Karnataka portal at https://elevate.karnataka.gov.in. 2. Register on the portal by providing basic details of the startup and founders. 3. Log in and fill out the online application form with information about the startup, innovation, business model, traction, and team. 4. Upload required documents including Certificate of Incorporation, PAN, pitch deck, and founder details. 5. Submit the application before the deadline. 6. Applications are screened by an expert committee based on innovation, scalability, team strength, and potential impact. 7. Shortlisted startups are invited for a pitch presentation or interview. 8. Final selection is made by the apex committee, and results are communicated via email and the portal.",
+  "application_portal_url": "https://elevate.karnataka.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN Card of the startup",
+    "PAN Cards of all founders",
+    "Aadhaar Cards of all founders",
+    "Bank statement of the startup",
+    "Pitch deck or business plan (max 10 slides)",
+    "Details of any prior funding received",
+    "Proof of innovation (patent filing, prototype, etc., if applicable)",
+    "Authorization letter from the startup for application submission"
+  ],
+  "deadlines": "Applications are invited annually; the exact dates vary each year. Interested startups are advised to monitor the official portal for announcements regarding the application window.",
+  "implementing_agency": "Department of Information Technology, Biotechnology and Science and Technology (IT, BT and S&T), Government of Karnataka",
+  "contact_details": "Email: elevate@karnataka.gov.in | Phone: 080-2235 3355",
+  "caveats": [
+    "The grant is disbursed in tranches based on achievement of pre-defined milestones",
+    "Startups must submit periodic progress reports and utilization certificates",
+    "Funds must be used strictly for the purposes outlined in the approved project plan",
+    "The startup must maintain its registration and primary operations in Karnataka during the grant period",
+    "Misuse of funds may lead to recovery of the grant amount and blacklisting from future government schemes",
+    "The decision of the selection committee is final and binding",
+    "Startups that have previously received benefits under Elevate 100 are not eligible to reapply"
+  ],
+  "source_cited_notes": [
+    "https://elevate.karnataka.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T22:34:38.861222+00:00"
+}

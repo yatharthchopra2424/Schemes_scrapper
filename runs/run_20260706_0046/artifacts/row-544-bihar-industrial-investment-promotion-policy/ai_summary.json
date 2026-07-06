@@ -1,0 +1,61 @@
+{
+  "scheme_id": "row-544",
+  "scheme_name": "Bihar Industrial Investment Promotion Policy",
+  "scheme_url": "https://udyog.bihar.gov.in",
+  "ministry_or_category": "State Level (Bihar)",
+  "overview": "The Bihar Industrial Investment Promotion Policy is a state-level initiative aimed at promoting industrial development and Industrial Investment Promotion Policy is a state-level scheme designed to attract investment, promote industrial growth, and generate employment in Bihar by offering fiscal incentives, infrastructure support, and land acquisition, and infrastructure development to create a conducive environment for industries. The policy aims to position Bihar as a preferred destination for domestic and international investors by offering a range of fiscal and non-fiscal incentives.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "industries",
+    "manufacturing units",
+    "MSME",
+    "large enterprises",
+    "export-oriented units"
+  ],
+  "geographic_scope": "Bihar only",
+  "objectives": [
+    "Attract domestic and foreign direct investment into Bihar",
+    "Promote sustainable industrial development and employment generation",
+    "Develop world-class industrial infrastructure and logistics",
+    "Enhance competitiveness of Bihar-based industries through fiscal incentives",
+    "Support MSMEs and ancillary units for inclusive industrial growth",
+    "Encourage export-oriented and high-technology industries",
+    "Ensure balanced regional development across all districts of Bihar",
+    "Simplify regulatory procedures and ensure single-window clearance"
+  ],
+  "eligibility": "Eligible beneficiaries include new industrial units, expansion/diversification of existing units, and mega projects in manufacturing, services, and agro-processing sectors. Units must be registered under the Factories Act, 1948 or Shops and Establishments Act, and obtain necessary clearances from Pollution Control Board and other statutory bodies. Investment in plant and machinery must meet minimum thresholds as specified for different categories of industries.",
+  "benefits": "Fiscal benefits include capital subsidy, interest subsidy, stamp duty exemption, electricity duty exemption, VAT/GST reimbursement, and employment generation subsidies, and land cost assistance. Non-fiscal benefits comprise single-window clearance, infrastructure support (roads, water, power), skill development assistance, and facilitation for land acquisition. Special incentives are provided for thrust sectors like food processing, textiles, leather, IT/ITES, and renewable energy.",
+  "financial_support": "Financial support includes capital subsidy up to 30% of fixed capital investment (capped at INR 30 Crore for mega projects), interest subsidy of 5% on term loans for 5 years, and 100% stamp duty exemption. Additional subsidies are available for power tariff, employment generation, and quality certification. Disbursement is made through the State Level Committee after verification of investment and employment generation.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 30 Crore (capital subsidy for mega projects)",
+  "application_process": "1. Submit online application via the Udyog Bihar portal (https://udyog.bihar.gov.in). 2. Obtain acknowledgment and project registration number. 3. Submit detailed project report (DPR) along with required documents. 4. Application scrutinized by District Industries Centre (DIC). 5. Forwarded to State Level Committee for approval. 6. Upon approval, submit claim for subsidy with proof of investment and commencement of production. 7. Subsidy disbursed after verification by authorized agency.",
+  "application_portal_url": "https://udyog.bihar.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation/Registration",
+    "Memorandum and Articles of Association / Partnership Deed",
+    "Project Report (DPR) with financials",
+    "Land ownership/lease documents",
+    "Sanction letter from bank/financial institution for term loan",
+    "No Objection Certificate (NOC) from Pollution Control Board",
+    "Clearance from Fire Department and other statutory bodies",
+    "Details of plant and machinery with quotations",
+    "Employment generation plan",
+    "Proof of commencement of commercial production"
+  ],
+  "deadlines": "Rolling basis — applications accepted throughout the year as per policy validity",
+  "implementing_agency": "Department of Industries, Government of Bihar",
+  "contact_details": "Email: udyog@bihar.gov.in | Helpline: 0612-2217022",
+  "caveats": [
+    "Incentives are disbursed only after commencement of commercial production and verification of investment",
+    "Units must remain in operation for a minimum period (typically 5 years) to retain benefits",
+    "Claims must be submitted within stipulated time after commercial production",
+    "Policy benefits are subject to availability is subject to annual budgetary allocations",
+    "Ineligible for units that have availed similar benefits under other central or state schemes for the same investment"
+  ],
+  "source_cited_notes": [
+    "https://udyog.bihar.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:22:09.554497+00:00"
+}

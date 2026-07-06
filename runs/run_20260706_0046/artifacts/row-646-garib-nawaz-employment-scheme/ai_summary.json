@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-646",
+  "scheme_name": "Garib Nawaz Employment Scheme",
+  "scheme_url": "https://nmdfc.org",
+  "ministry_or_category": "Minority Affairs",
+  "overview": "The Garib Nawaz Employment Scheme is a financial assistance program under the National Minorities Development and Finance Corporation (NMDFC) aimed at providing concessional loans to minority communities for self-employment and income generation activities. The scheme targets economically backward sections among minorities, with preference given to artisans and women. It operates through State Channelizing Agencies (SCAs) and offers term loans, education loans, microfinance, and the Virasat scheme for craftspersons. The scheme is implemented nationwide and focuses on uplifting minorities through accessible credit at subsidized interest rates.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "minorities",
+    "artisans",
+    "women",
+    "economically backward sections"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Provide concessional finance to minorities for self-employment and income generation",
+    "Promote economic empowerment of weaker sections among minorities",
+    "Support artisans and women through preferential lending",
+    "Enhance access to credit for minority communities via State Channelizing Agencies",
+    "Facilitate skill development and vocational training through financial assistance",
+    "Encourage entrepreneurship among minority groups",
+    "Ensure financial inclusion of notified minority communities",
+    "Recycle funds through loan repayments to sustain the scheme"
+  ],
+  "eligibility": "Beneficiaries must belong to one of the minority communities notified under Section 2(c) of the National Commission for Minorities Act, 1992 (Muslims, Christians, Sikhs, Buddhists, Parsis, and Jains added in 2014). Annual family income must be up to ₹3.00 lakh for Credit Line-1 and up to ₹8.00 lakh for Credit Line-2. Preference is given to artisans and women. Applicants must submit self-attested income certificate, residence proof (Aadhaar, ration card, voter ID, etc.), religious certificate (for loans over ₹1 lakh), and a brief project report. Security requirements vary by loan amount: self-guarantee and post-dated cheques for loans up to ₹1 lakh; guarantee of one government/PSU/bank employee or income tax payer for loans between ₹1–5 lakhs; and guarantee of two such entities or collateral for loans between ₹5–10 lakhs.",
+  "benefits": "Financial benefits include concessional loans at subsidized interest rates (6–8% per annum for term loans, 3–8% for education loans, 5–6% for Virasat scheme). Non-financial benefits include implementation through State Channelizing Agencies, preference for artisans and women, no collateral required for loans up to ₹1 lakh, and support for income-generating activities. The scheme also offers refinancing through Canara Bank and marketing assistance for artisans via exhibitions and buyer-seller meets.",
+  "financial_support": "Under the Term Loan scheme, loans up to ₹20 lakh are available for Credit Line-1 (annual income ≤ ₹3 lakh) and up to ₹30 lakh for Credit Line-2 (annual income ≤ ₹8 lakh), at interest rates of 6% and 8% per annum respectively, with a 2% rebate for women beneficiaries under Credit Line-2. Education loans offer up to ₹20 lakh for domestic courses and ₹30 lakh for overseas courses at 3–8% per annum, with a 3% rebate for women under Credit Line-2. Microfinance provides up to ₹1 lakh per SHG member under Credit Line-1 and ₹1.5 lakh under Credit Line-2 at 7% and 10% per annum, with a 2% rebate for women under Credit Line-2. The Virasat scheme offers up to ₹10 lakh for working and fixed capital at 5% per annum for Credit Line-1 and 6% for Credit Line-2, with a 1% rebate for women artisans. All loans have a 6-month moratorium and repayment periods of 3–5 years depending on the scheme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the nearest State Channelizing Agency (SCA) from the list of 39 operational partners across states and UTs. 2. Obtain the loan application form from the SCA or download it from the NMDFC website. 3. Fill in the application form with personal, financial, and project details. 4. Attach required documents: self-attested income certificate, residence proof (Aadhaar/ration card/voter ID/passport/phone/electricity bill), religious certificate (if loan > ₹1 lakh), and a brief project report. 5. Arrange for security as per loan amount: self-guarantee & post-dated cheques (≤₹1 lakh); one guarantor from govt/PSU/bank or income tax payer (₹1–5 lakhs); two guarantors or collateral (₹5–10 lakhs). 6. Submit the completed application and documents to the SCA. 7. The SCA verifies documents and forwards the proposal to NMDFC for approval. 8. Upon approval, the loan is disbursed through the SCA to the beneficiary.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Self-attested income certificate",
+    "Self-attested residence proof (Aadhaar card, ration card, voter ID, passport, phone bill, electricity bill, etc.)",
+    "Self-attested religious certificate (required only for loan amount exceeding ₹1 lakh)",
+    "Brief project report",
+    "Security documents as per loan amount: self-guarantee & post-dated cheques (for loans up to ₹1 lakh); guarantee of one govt/PSU/bank employee or income tax payer (for ₹1–5 lakhs); guarantee of two such entities or collateral by way of mortgage (for ₹5–10 lakhs)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Minorities Development and Finance Corporation (NMDFC)",
+  "contact_details": "Email: abha[dot]111796[dot]cbdt[at]nic[dot]in, cmd[dot]nmdfc[at]gmail[dot]com | Phone: +91-11-22441635 | Toll-free helpline: 14402",
+  "caveats": [
+    "Loans are disbursed only through State Channelizing Agencies (SCAs); direct application to NMDFC is not accepted",
+    "Religious certificate is mandatory only for loans exceeding ₹1 lakh",
+    "Security requirements increase with loan amount: self-guarantee for ≤₹1 lakh, single guarantor for ₹1–5 lakhs, double guarantor or collateral for ₹5–10 lakhs",
+    "Preference is given to artisans and women under all schemes",
+    "Beneficiaries must belong to notified minority communities (Muslims, Christians, Sikhs, Buddhists, Parsis, Jains)",
+    "Annual family income must not exceed ₹3 lakh (Credit Line-1) or ₹8 lakh (Credit Line-2)",
+    "The scheme does not provide grants or subsidies; it is purely a loan-based program",
+    "Repayment begins after a 6-month moratorium period",
+    "Loan amounts are subject to availability of funds and SCA discretion"
+  ],
+  "source_cited_notes": [
+    "https://nmdfc.org/nmdfcschemes",
+    "https://nmdfc.org/home/nmdfc_schemes",
+    "https://nmdfc.org/target-groups",
+    "https://nmdfc.org/about_nmdfc",
+    "https://nmdfc.org/promotionalschemes"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-06T01:31:31.008942+00:00"
+}

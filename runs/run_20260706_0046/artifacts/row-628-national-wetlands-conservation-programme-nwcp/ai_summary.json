@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-628",
+  "scheme_name": "National Wetlands Conservation Programme (NWCP)",
+  "scheme_url": "https://moef.gov.in/wetlands",
+  "ministry_or_category": "Climate & Environment",
+  "overview": "The National Wetlands Conservation Programme (NWCP) is a centrally sponsored scheme launched by the Ministry of Environment, Forest and Climate Change (MoEFCC) to conserve and manage wetlands across India. It aims to prevent further degradation of wetlands, promote their wise use, and support biodiversity conservation and livelihood security of dependent communities. The programme provides financial assistance to state governments and implementing agencies for wetland conservation activities, including survey, demarcation, fencing, desilting, catchment area treatment, and community participation initiatives.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "state governments",
+    "implementing agencies",
+    "local communities",
+    "NGOs"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To prevent further degradation and ensure wise use of wetlands",
+    "To promote conservation and sustainable management of wetland ecosystems",
+    "To support biodiversity conservation and habitat protection in wetlands",
+    "To enhance livelihood security of wetland-dependent communities",
+    "To undertake survey, demarcation, and mapping of wetlands",
+    "To implement catchment area treatment and desilting activities",
+    "To promote community participation and awareness in wetland conservation",
+    "To strengthen institutional capacity for wetland management"
+  ],
+  "eligibility": "State governments, union territory administrations, and their designated implementing agencies (such as Forest Departments, Pollution Control Boards, and other relevant departments) are eligible to apply for financial assistance under the NWCP. Non-governmental organizations (NGOs), research institutions, and community-based organizations may also be considered as implementing partners in collaboration with state agencies.",
+  "benefits": "Financial support for wetland conservation activities including survey and demarcation, fencing, desilting, catchment area treatment, biodiversity conservation, community participation, awareness generation, and institutional strengthening. The scheme also supports livelihood improvement initiatives for wetland-dependent communities and promotes wise use of wetland resources.",
+  "financial_support": "The NWCP provides central financial assistance to state governments and implementing agencies on a cost-sharing basis. The central government typically bears 70% of the project cost for general category states and 90% for special category states (North-Eastern and Himalayan states), with the remaining share borne by the state government. Funds are released in installments based on project progress and utilization certificates.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. State government or implementing agency identifies a wetland for conservation and prepares a detailed project report (DPR). 2. The DPR is submitted to the concerned Regional Office of MoEFCC or the Wetlands Division in New Delhi. 3. The proposal is reviewed by the Wetlands Division and, if found suitable, forwarded for approval. 4. Upon approval, a sanction order is issued specifying the quantum of central assistance. 5. Funds are released in installments against submission of utilization certificates and progress reports. 6. The implementing agency undertakes the conservation activities as per the approved plan. 7. Monitoring and evaluation are conducted by MoEFCC through field visits and reports.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Survey and demarcation details of the wetland",
+    "Land ownership and clearance documents",
+    "Environmental and social impact assessment (if applicable)",
+    "Budget estimate and cost breakdown",
+    "Implementation timeline and work plan",
+    "Commitment letter from state government for matching share",
+    "Utilization certificates and progress reports (for subsequent installments)"
+  ],
+  "deadlines": "Rolling basis — proposals can be submitted throughout the year subject to availability of funds and approval cycles.",
+  "implementing_agency": "Ministry of Environment, Forest and Climate Change (MoEFCC)",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budgetary allocations under the scheme",
+    "Projects must adhere to the guidelines and norms issued by MoEFCC from time to time",
+    "Utilization certificates must be submitted timely for release of subsequent installments",
+    "The scheme does not cover activities related to commercial exploitation or tourism infrastructure development in wetlands",
+    "State governments must provide their matching share as per the cost-sharing ratio"
+  ],
+  "source_cited_notes": [
+    "https://moef.gov.in/wetlands",
+    "https://moef.gov.in/wetlands-of-india-portal"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:22:41.631321+00:00"
+}

@@ -1,0 +1,53 @@
+{
+  "scheme_id": "row-421",
+  "scheme_name": "Soil Health Card Scheme",
+  "scheme_url": "https://soilhealth.dac.gov.in",
+  "ministry_or_category": "Agriculture & AgriTech",
+  "overview": "The Soil Health Card Scheme is a government initiative under the Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, aimed at providing farmers with soil health cards to assess nutrient status and optimize fertilizer use. It empowers farmers with data-driven insights to improve yields, conserve resources, and promote sustainable agricultural practices. The scheme involves regular soil testing every three years and provides crop-specific fertilizer recommendations. It is implemented across India through state agricultural departments.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "farmers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To issue need-based Soil Health Cards to farmers to address nutrient deficiencies in fertilization practices",
+    "To strengthen functioning of soil testing laboratories through capacity building and involvement of agriculture students",
+    "To promote soil test based nutrient management for enhancing nutrient use efficiency",
+    "To improve soil health and fertility through balanced use of fertilizers",
+    "To create awareness among farmers about soil health and balanced fertilizer use",
+    "To reduce cost of cultivation and improve farm income through optimized fertilizer application"
+  ],
+  "eligibility": "All farmers across India are eligible to receive a Soil Health Card under the scheme. The soil health card is provided for each farm holding, and farmers can get their soil tested at designated soil testing laboratories to receive the card.",
+  "benefits": "Farmers receive a proper soil health record, become aware of soil management practices, and can plan future crops and land use accordingly. The card provides information on lacking nutrients, guiding farmers on which crops to invest in and which fertilizers to use, ultimately leading to increased crop yield. Regular updates are provided every three years to track changes in soil health over time.",
+  "financial_support": "The scheme provides financial support for soil testing, issuance of Soil Health Cards, and related activities such as capacity building of soil testing laboratories and training of agriculture students. Financial assistance is extended to states for setting up and strengthening soil testing laboratories, including village-level soil testing labs, and for conducting demonstrations under the scheme. The financial outlay is integrated under broader schemes like Rashtriya Krishi Vikas Yojana (RKVY) and Pradhan Mantri Rashtriya Krishi Vikas Yojana (PM-RKVY).",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the nearest soil testing laboratory or authorized collection center. 2. Collect soil sample from the farm as per guidelines (depth, location, etc.). 3. Submit the soil sample along with farmer details (name, address, land details). 4. Pay applicable fee (if any) for testing. 5. Laboratory analyzes the sample for nutrient status (N, P, K, organic carbon, pH, etc.). 6. Soil Health Card is generated based on test results. 7. Card is issued to the farmer with crop-specific fertilizer recommendations.",
+  "application_portal_url": "https://soilhealth.dac.gov.in",
+  "required_documents": [
+    "Farmer's name and address",
+    "Land details (survey number, location)",
+    "Crop details",
+    "Details of fertilizers previously applied (if available)"
+  ],
+  "deadlines": "Rolling basis — soil samples can be submitted throughout the year; cards are issued after testing.",
+  "implementing_agency": "Department of Agriculture and Farmers Welfare, Ministry of Agriculture and Farmers Welfare, Government of India",
+  "contact_details": "Email: soilhealthcard.support@krishitantra.com | Phone: +919342769256",
+  "caveats": [
+    "Soil Health Card is issued once every three years for each farm holding",
+    "The scheme relies on state agricultural departments for implementation and sample collection",
+    "Accuracy of recommendations depends on proper soil sampling and laboratory testing"
+  ],
+  "source_cited_notes": [
+    "https://soilhealth.dac.gov.in",
+    "https://soilhealth.dac.gov.in/aboutus",
+    "https://soilhealth.dac.gov.in/scheme-progress",
+    "https://soilhealth.dac.gov.in/home",
+    "https://soilhealth.dac.gov.in/dashboard",
+    "https://soilhealth.dac.gov.in/GeneralResources",
+    "https://soilhealth.dac.gov.in/assets/PM-%20RKVY%20Guidelines%20as%20on%2014.11.2024.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T23:25:05.199797+00:00"
+}

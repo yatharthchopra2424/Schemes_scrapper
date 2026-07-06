@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-472",
+  "scheme_name": "SEBI FinTech Regulatory Framework for WealthTech",
+  "scheme_url": "https://www.sebi.gov.in",
+  "ministry_or_category": "FinTech & BFSI",
+  "overview": "The SEBI FinTech Regulatory Framework for WealthTech is a regulatory initiative by the Securities and Exchange Board of India (SEBI) aimed at overseeing and guiding the growth of financial technology (FinTech) companies operating in the wealth management sector. It establishes guidelines and compliance requirements for entities providing digital wealth management services, including robo-advisory, digital portfolio management, and online investment platforms. The framework seeks to ensure investor protection, market integrity, and transparency while fostering innovation in the WealthTech space. It applies to intermediaries and platforms offering wealth-tech solutions under SEBI’s regulatory purview.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "wealth-tech startups",
+    "FinTech companies",
+    "digital wealth management platforms",
+    "robo-advisors"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Regulate digital wealth management services to ensure investor protection",
+    "Establish compliance standards for FinTech platforms offering wealth-tech solutions",
+    "Promote transparency and accountability in algorithm-driven investment advice",
+    "Mitigate risks associated with data privacy, cybersecurity, and mis-selling in digital wealth platforms",
+    "Encourage responsible innovation in the FinTech and wealth management sector",
+    "Align WealthTech operations with existing SEBI regulations for investment advisers and portfolio managers"
+  ],
+  "eligibility": "Entities offering digital wealth management services, including robo-advisory platforms, online portfolio managers, and FinTech firms providing algorithm-based investment advice, must comply with SEBI’s regulatory framework if they fall under the definition of investment advisers or portfolio managers as per SEBI (Investment Advisers) Regulations, 2013 or SEBI (Portfolio Managers) Regulations, 2020.",
+  "benefits": "Regulatory clarity for FinTech firms operating in wealth management; enhanced credibility and investor trust through SEBI compliance; access to a structured pathway for legal operation; protection against regulatory penalties; guidance on technology, governance, and disclosure standards; promotion of fair and ethical practices in digital wealth distribution.",
+  "financial_support": "The SEBI FinTech Regulatory Framework for WealthTech does not provide direct financial support, grants, subsidies, or funding to beneficiaries. It is a regulatory guideline aimed at compliance and oversight rather than financial assistance.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Determine if your wealth-tech platform falls under SEBI’s definition of an investment adviser or portfolio manager. 2. If applicable, register under SEBI (Investment Advisers) Regulations, 2013 or SEBI (Portfolio Managers) Regulations, 2020. 3. Ensure compliance with operational, governance, technology, and disclosure norms as outlined in the framework. 4. Implement robust cybersecurity, data protection, and audit mechanisms. 5. Submit required disclosures and reports to SEBI as per periodic reporting requirements. 6. Undergo inspections or audits as conducted by SEBI or its authorized agencies.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "Details of promoters, directors, and key management personnel",
+    "Business model and description of wealth-tech services offered",
+    "Technology architecture and algorithmic methodology (if applicable)",
+    "Data privacy and cybersecurity policy",
+    "Risk management and internal control framework",
+    "Compliance manual and code of conduct",
+    "Details of client agreements and fee structure",
+    "Audited financial statements",
+    "Any other document as specified by SEBI for registration or ongoing compliance"
+  ],
+  "deadlines": "Ongoing compliance — entities must adhere to the framework continuously; registration and reporting follow SEBI’s prescribed timelines under relevant regulations.",
+  "implementing_agency": "Securities and Exchange Board of India (SEBI)",
+  "contact_details": "",
+  "caveats": [
+    "The framework applies only to entities conducting wealth-tech activities that constitute regulated investment advice or portfolio management",
+    "Pure technology providers or platforms offering only execution-only services may not fall under this framework",
+    "Compliance does not guarantee immunity from enforcement action in case of violations",
+    "The framework is subject to updates based on technological advancements and market developments",
+    "Foreign entities offering wealth-tech services to Indian clients may also be subject to SEBI regulations"
+  ],
+  "source_cited_notes": [
+    "https://sebi.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:50:43.957046+00:00"
+}

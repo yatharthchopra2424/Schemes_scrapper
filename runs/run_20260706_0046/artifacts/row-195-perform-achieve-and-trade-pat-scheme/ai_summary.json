@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-195",
+  "scheme_name": "Perform Achieve and Trade (PAT) Scheme",
+  "scheme_url": "https://beeindia.gov.in/pat",
+  "ministry_or_category": "Energy Efficiency",
+  "overview": "The Perform, Achieve and Trade (PAT) Scheme is a flagship initiative of the Bureau of Energy Efficiency (BEE) under the National Mission for Enhanced Energy Efficiency (NMEEE, targeting energy-intensive industries through mechanism where energy consumption norms and excess energy savings are converted into tradable Energy Savings Certificates (ESCerts). The scheme operates in cycles of three years each, with targets assigned to Designated Consumers (DCs) from notified sectors such as aluminum, cement, iron & steel, thermal power plants, etc., and has been implemented across multiple cycles since its inception.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "Designated Consumers",
+    "energy intensive industries"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve energy efficiency in energy intensive industries",
+    "Reduce specific energy consumption (SEC) through target-based approach",
+    "Generate tradable Energy Savings Certificates (ESCerts) from excess energy savings",
+    "Contribute to reduction in greenhouse gas (GHG) emissions",
+    "Promote market-based mechanism for energy efficiency",
+    "Establish systems for measurement, monitoring, and verification of energy efficiency results",
+    "Leverage private sector participation in energy efficiency initiatives"
+  ],
+  "eligibility": "Industrial units from notified energy intensive sectors (Aluminum, Cement, Chlor-Alkali, Fertilizer, Iron & Steel, Paper & Pulp, Railways, Thermal Power and Textile) that meet the threshold level of annual energy consumption as specified in the notifications issued under the Energy Conservation Act, 2001, and are designated as Designated Consumers (DCs) by the Central Government.",
+  "benefits": "Financial benefits through trading of Energy Savings Certificates (ESCerts) on power exchanges; recognition for achieving energy efficiency targets; contribution to national energy savings and reduction in GHG emissions; facilitation of investment in energy efficient technologies and processes; access to technical guidance and user manuals developed by BEE for effective implementation.",
+  "financial_support": "The PAT scheme does not provide direct financial subsidies or grants. Instead, it operates as a market-based mechanism where Designated Consumers (DCs) that achieve energy savings beyond their targets are issued Energy Savings Certificates (ESCerts), which can be traded on power exchanges, thereby providing a financial incentive. Investments in energy efficiency measures are made by the DCs themselves, and the scheme has mobilized significant private sector investment, as evidenced by reports indicating DCs made investments of approximately INR 43,721 Crores in PAT Cycle II to achieve energy savings.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identification of energy intensive sectors and notification of threshold levels for designation as Designated Consumers (DCs). 2. Notification of energy consumption norms and targets for each PAT cycle by the Bureau of Energy Efficiency (BEE). 3. Designated Consumers (DCs) implement energy efficiency measures to meet or exceed their specific energy consumption (SEC) reduction targets. 4. Monitoring and verification of energy savings achieved by DCs through accredited energy auditors. 5. Issuance of Energy Savings Certificates (ESCerts) to DCs achieving excess savings beyond targets. 6. Trading of ESCerts on power exchanges (such as Indian Energy Exchange) by DCs that have surplus certificates, and purchase by DCs needing to meet their targets.",
+  "application_portal_url": "",
+  "required_documents": [
+    "Baseline year energy consumption data",
+    "Project reports on energy efficiency measures implemented",
+    "Monitoring and verification reports by accredited energy auditors",
+    "Documentation of actual energy consumption and production data",
+    "Certificates of compliance with PAT cycle targets"
+  ],
+  "deadlines": "Based on PAT cycle notifications; each cycle spans three years with specific target year and verification periods as per official notifications (e.g., PAT Cycle VII notified in October 2021 for period 2022-23 to 2024-25).",
+  "implementing_agency": "Bureau of Energy Efficiency (BEE), Ministry of Power, Government of India",
+  "contact_details": "Email: dg-bee[at]nic[dot]in | Phone: 011-26766702",
+  "caveats": [
+    "Only notified energy intensive sectors and units meeting threshold energy consumption are eligible",
+    "Energy savings must be verified and monitored through accredited energy auditors",
+    "ESCerts have a validity period and must be traded within the compliance period",
+    "Non-compliance may attract penalties under the Energy Conservation Act, 2001",
+    "Scheme operates in fixed cycles; benefits are cycle-specific"
+  ],
+  "source_cited_notes": [
+    "https://beeindia.gov.in/pat",
+    "https://beeindia.gov.in/show_content.php?lang=1&level=2&lid=540&ls_id=605",
+    "https://beeindia.gov.in/WriteReadData/L45218/7425111601251321.pdf",
+    "https://beeindia.gov.in/WriteReadData/L45218/5226359085036174.pdf",
+    "https://beeindia.gov.in/WriteReadData/L45218/8837014704954257.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T21:12:47.265169+00:00"
+}

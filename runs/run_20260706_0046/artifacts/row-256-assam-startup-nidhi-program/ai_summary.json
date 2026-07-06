@@ -1,0 +1,49 @@
+{
+  "scheme_id": "row-256",
+  "scheme_name": "Assam Startup – Nidhi Program",
+  "scheme_url": "https://assamstartup.com",
+  "ministry_or_category": "State Level (Assam)",
+  "overview": "The Assam Startup – Nidhi Program is a state-level initiative under the Assam Startup ecosystem designed to provide financial assistance to early-stage startups registered in Assam. It aims to support innovation and entrepreneurship by offering seed funding to eligible ventures. The program is managed through the Assam Startup portal and focuses on nurturing high-potential startups in their initial phases.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups"
+  ],
+  "geographic_scope": "Assam only",
+  "objectives": [
+    "To provide financial support to early-stage startups in Assam",
+    "To promote innovation and entrepreneurship within the state",
+    "To assist startups in overcoming initial funding challenges",
+    "To strengthen the Assam startup ecosystem through seed funding"
+  ],
+  "eligibility": "Startups must be registered in Assam and recognized by the Assam Startup portal. They should be in the early stage of development and demonstrate innovative potential. The startup must be a legal entity registered under the Companies Act, LLP Act, or as a partnership firm.",
+  "benefits": "Financial support in the form of seed funding to cover initial operational and product development costs. Non-financial benefits include mentorship, networking opportunities, and access to incubation support through the Assam Startup ecosystem.",
+  "financial_support": "The program provides seed funding to eligible startups as a grant. The exact quantum and disbursement mechanism are determined based on the startup's stage, needs, and evaluation by the selection committee. Funds are disbursed in tranches linked to milestones.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Register the startup on the Assam Startup portal (assamstartup.com). 2. Ensure the startup profile is complete and up to date. 3. Apply for the Nidhi Program through the designated section on the portal. 4. Submit the required documents along with the application. 5. Await evaluation by the selection committee. 6. If approved, proceed with fund disbursement as per the agreed terms.",
+  "application_portal_url": "https://assamstartup.com",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Aadhaar of directors/partners",
+    "Bank account details",
+    "Business plan or pitch deck",
+    "Details of any existing funding or revenue",
+    "Declaration of compliance with eligibility criteria"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "Assam Startup, under the Department of Industries and Commerce, Government of Assam",
+  "contact_details": "",
+  "caveats": [
+    "Funding is subject to availability of budget and approval by the selection committee",
+    "Startups must utilize the funds strictly for the purposes outlined in their approved business plan",
+    "Beneficiaries may be required to provide periodic progress reports and utilization certificates",
+    "The grant may be withdrawn if milestones are not met or if misuse of funds is detected"
+  ],
+  "source_cited_notes": [
+    "https://assamstartup.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:37:47.301250+00:00"
+}

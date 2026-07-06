@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-11",
+  "scheme_name": "NSIC Credit Support Scheme",
+  "scheme_url": "https://www.nsic.co.in",
+  "ministry_or_category": "MSME & Finance",
+  "overview": "The NSIC Credit Support Scheme provides credit support to MSMEs for financing the purchase of raw material Assistance Scheme (RMA) by NSIC provides financial assistance to MSMEs for the procurement of raw materials (both indigenous and imported) against the security of a Bank Guarantee. The scheme enables MSMEs to focus on manufacturing quality products by facilitating bulk purchases, cash discounts, and extended credit up to 180 days. It is designed to enhance the competitiveness of MSMEs by reducing working capital constraints and improving procurement efficiency.",
+  "scheme_type": "loan",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Facilitate procurement of raw material with credit support up to 180 days",
+    "Help MSMEs avail economics of purchases like bulk purchase and cash discount",
+    "Enable MSMEs to focus better on manufacturing quality products",
+    "Provide financial assistance for raw material procurement against Bank Guarantee security"
+  ],
+  "eligibility": "MSME units with Udyam Registration are eligible to apply for Raw Material Assistance. The scheme applies to units engaged in manufacturing and services; traders are not eligible. Units must have commenced commercial production but may not have completed one year of existence for provisional registration with a monetary limit of Rs. 5.00 Lacs.",
+  "benefits": "Facilitating procurement of raw material with credit support up to 180 days; MSMEs helped to avail economics of purchases like bulk purchase, cash discount etc.; Issue of Tender Sets free of cost; Exemption from payment of Earnest Money Deposit (EMD); In tender participation, MSEs quoting price within price band of L1+15 per cent shall also be allowed to supply a portion up to 25% of requirement by bringing down their price to L1 Price; Consortia facility for Tender Marketing; Every Central Ministries/Departments/PSUs shall set an annual goal of minimum 25 per cent of the total annual purchases of the products or services produced or rendered by MSEs; Out of annual requirement of 25% procurement from MSEs, 4% is earmarked for units owned by Schedule Caste/Schedule Tribes and 3% is earmarked for units owned by women entrepreneurs; 358 items are reserved for exclusive purchase from MSE Sector.",
+  "financial_support": "The scheme provides credit support for raw material procurement against the security of a Bank Guarantee from approved banks. The rate of interest varies based on SME rating and unit type (Micro or Small & Medium): For units with valid SME 1 rating: 8.75% p.a. for Micro, 9.25% p.a. for Small & Medium (upto 180 days); For units with valid SME 2 rating: 9.25% p.a. for Micro, 9.75% p.a. for Small & Medium; For other units: 9.75% p.a. for Micro, 10.25% p.a. for Small & Medium. Processing fee is 1.0% p.a. on new sanctions for both Micro and Small & Medium, and 0.5% p.a. on renewal for Micro and 1.0% p.a. for Small & Medium. Penal charge on delayed payment beyond 180 days is 1.25% per quarter over and above the normal rate of interest.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Apply for Raw Material Assistance only on the prescribed application forms. 2. Download the application forms from the link provided on the NSIC website. 3. Fill and submit the forms to the nearest NSIC Branch Office. 4. Submit the application form along with required documents. 5. Preliminary appraisal and unit inspection are carried out by NSIC. 6. Sanction of limit to the unit. 7. Signing of agreement between NSIC and the unit. 8. Disbursement of assistance to the unit.",
+  "application_portal_url": "",
+  "required_documents": [
+    "PAN card (Self-attested)",
+    "Udyam Registration (Self-attested)",
+    "Details of Plant & Machinery (Self-attested, Annexure B-1)",
+    "Copy of ownership document of premises or Lease/Rent Deed (Self-attested)",
+    "List of quality control equipment and testing facility available in factory (Self-attested)",
+    "Latest Electricity Bill Copy (Self-attested)",
+    "Face of Audited Balance Sheet, Profit and Loss A/cs, Schedule of Fixed Assets, Schedule of Revenue from Operations (last 3 years, duly signed by authorized person under seal, Self-attested)",
+    "Statement showing Results of Operation for last 3 years duly signed by Chartered Accountant with UDIN (Annexure C-1, Self-attested)",
+    "Bankers’ Report giving details of financial status as per Performa (Draft at Annexure E) (Self-attested, Annexure E-1)",
+    "Declaration signed by applicant MSE Unit accepting conditions of registration as per Annexure D (Self-attested)"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "National Small Industries Corporation Ltd. (NSIC)",
+  "contact_details": "Email: grievance@nsic.co.in | Phone No.: 011‐26926275",
+  "caveats": [
+    "Security in the form of Bank Guarantee from Approved Banks is mandatory",
+    "Concessional interest rates apply only if timely repayments are made; otherwise, normal rates apply",
+    "Penal charge on delayed payment beyond 180 days is 1.25% per quarter over and above normal rate",
+    "Processing fee applicable on new sanctions and renewals",
+    "The scheme does not cover traders",
+    "Units engaged in manufacture of medicine and drugs except Ayurvedic, Unani, Siddha, and Homeopathic medicines are not eligible",
+    "Wholesale trading, retail trading, or commission agents are not eligible",
+    "Units blacklisted or with proprietor/partner/director/Karta convicted of criminal offence are not eligible"
+  ],
+  "source_cited_notes": [
+    "https://nsic.co.in/Schemes/RawMaterialAgainstBG",
+    "https://nsic.co.in/documents/pdfs/sprs/1.Check_List_of_Fresh_Registration_23052023.pdf",
+    "https://nsic.co.in/documents/pdfs/FAQ-SPRS-4.8.2021.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T19:28:14.158327+00:00"
+}

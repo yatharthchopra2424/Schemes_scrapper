@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-272",
+  "scheme_name": "NASSCOM 10000 Startups Programme",
+  "scheme_url": "https://10000startups.com",
+  "ministry_or_category": "Incubation & Acceleration",
+  "overview": "The NASSCOM 10000 Startups Programme is a joint initiative by NASSCOM and the Government of India aimed at nurturing and scaling 10,000 technology startups across India. It provides end-to-end support including mentorship, funding access, infrastructure, and market linkages to early-stage startups. The programme focuses on fostering innovation in emerging technologies and building a sustainable startup ecosystem through incubation, acceleration, and industry connect.",
+  "scheme_type": "incubation",
+  "target_beneficiaries": [
+    "startups",
+    "technology startups",
+    "early-stage startups"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Nurture and scale 10,000 technology startups in India",
+    "Provide mentorship and guidance from industry experts",
+    "Facilitate access to funding through investor connects",
+    "Offer infrastructure and incubation support",
+    "Enable market access and industry linkages",
+    "Promote innovation in emerging technologies such as AI, IoT, and blockchain",
+    "Build a sustainable and inclusive startup ecosystem",
+    "Support startups through all stages of growth from idea to scale"
+  ],
+  "eligibility": "The programme is open to early-stage technology startups incorporated in India, working on innovative products or services in domains such as software, hardware, AI, IoT, fintech, healthtech, and other emerging technologies. Startups must have a scalable business model and be led by committed founders. There is no restriction on the year of incorporation, but preference is given to startups in the idea, prototype, or early revenue stage.",
+  "benefits": "Selected startups receive mentorship from industry leaders, access to NASSCOM’s network of investors and corporates, incubation support, office infrastructure, technical and business workshops, pitch events, demo days, and opportunities for global market access. The programme also facilitates connections with potential customers, partners, and venture capital firms.",
+  "financial_support": "While the NASSCOM 10000 Startups Programme does not directly provide grants or equity funding, it facilitates access to funding through its investor network, demo days, and pitch events. Startups are connected with angel investors, venture capital funds, and other funding sources. Financial support is indirect and based on successful investor engagement facilitated by the programme.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the official NASSCOM 10000 Startups website at https://10000startups.com 2. Click on the 'Apply' or 'Register' section 3. Fill out the online application form with details about the startup, founders, product/service, and traction 4. Submit the application along with required documents 5. Applications are reviewed by the NASSCOM selection committee 6. Shortlisted startups are contacted for interviews or pitch sessions 7. Final selection is based on innovation, scalability, team strength, and market potential 8. Selected startups are onboarded into the programme with access to mentorship, incubation, and investor connect opportunities.",
+  "application_portal_url": "https://10000startups.com",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the startup",
+    "Founder profiles and CVs",
+    "Product description or pitch deck",
+    "Details of technology or innovation",
+    "Business model and revenue plan (if applicable)",
+    "Any existing funding or investment details"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year with periodic selection cycles.",
+  "implementing_agency": "NASSCOM (National Association of Software and Service Companies)",
+  "contact_details": "",
+  "caveats": [
+    "The programme does not guarantee funding or equity investment",
+    "Selection is competitive and based on evaluation by NASSCOM committee",
+    "Benefits such as incubation and office support may vary by location and partner",
+    "Startups must comply with reporting and participation requirements during the programme",
+    "The programme focuses primarily on technology-driven startups"
+  ],
+  "source_cited_notes": [
+    "https://10000startups.com"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:45:27.017355+00:00"
+}

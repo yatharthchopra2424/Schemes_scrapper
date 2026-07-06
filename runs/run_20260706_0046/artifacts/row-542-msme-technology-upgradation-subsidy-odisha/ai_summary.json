@@ -1,0 +1,41 @@
+{
+  "scheme_id": "row-542",
+  "scheme_name": "MSME Technology Upgradation Subsidy – Odisha",
+  "scheme_url": "https://msme.odisha.gov.in",
+  "ministry_or_category": "State Level (Odisha)",
+  "overview": "The MSME Technology Upgradation Subsidy – Odisha is a state-level scheme under the Odisha MSME Development Policy, 2016, aimed at encouraging technology upgradation among Micro, Small, and Medium Enterprises to enhance competitiveness, productivity, and quality. It provides financial support for adopting modern technology and improving production processes. The scheme is part of the broader financial support framework of the policy, focusing on technology intervention for MSMEs in Odisha.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME"
+  ],
+  "geographic_scope": "Odisha only",
+  "objectives": [
+    "Encourage MSMEs to undertake technology upgradation for enhanced competitiveness",
+    "Improve productivity and reduce production costs through modern technology adoption",
+    "Promote environment-friendly production via technology intervention",
+    "Increase awareness of Government of India schemes like CLCSS, QMS, QTT for technology upgradation",
+    "Monitor credit delivery under technology upgradation schemes through the Directorate of Industries"
+  ],
+  "eligibility": "MSMEs in Odisha are eligible to avail the subsidy for technology upgradation under the Odisha MSME Development Policy, 2016, provided they meet the general eligibility criteria for MSMEs as defined in the policy, including being engaged in manufacturing or service activities and having commenced production after the policy's effective date.",
+  "benefits": "The scheme provides financial assistance for technology upgradation, including support for adopting cutting-edge technologies such as Credit Linked Capital Subsidy Scheme (CLCSS), Quality Management Standards (QMS), and Quality Technology Tools (QTT). It also facilitates access to Government of India schemes for technology upgradation and enables MSMEs to improve quality, productivity, and cost efficiency.",
+  "financial_support": "Under the Odisha MSME Development Policy, 2016, financial support for technology upgradation is provided through facilitation of credit and awareness of Government of India schemes such as CLCSS, QMS, and QTT. The Directorate of Industries, in association with MSME-DI, monitors the progress of credit delivery under these schemes. Specific quantum or subsidy percentage for technology upgradation is not detailed in the evidence, but the framework enables access to central schemes offering subsidies.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. MSMEs approach the Directorate of Industries or MSME-DI for technology upgradation support. 2. Awareness is created about Government of India schemes like CLCSS, QMS, QTT. 3. MSMEs are guided to avail benefits under these schemes. 4. The Directorate of Industries monitors credit delivery and progress under such schemes. 5. Applications are processed through the implementing agency with required documentation.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "",
+  "implementing_agency": "Directorate of Industries, Odisha, in association with MSME - DI",
+  "contact_details": "",
+  "caveats": [
+    "Technology upgradation support is facilitated through convergence with Government of India schemes; direct subsidy quantum under this scheme is not specified in the evidence",
+    "Eligibility and benefits are subject to the guidelines of the respective Government of India schemes being leveraged"
+  ],
+  "source_cited_notes": [
+    "https://msme.odisha.gov.in/sites/default/files/2020-05/FINALbyDI%28O%29-Odisha_MSME_Dev._Policy1.pdf",
+    "https://msme.odisha.gov.in/sites/default/files/2020-05/FINALbyDI%28O%29-Odisha_MSME_Dev_Policy.pdf"
+  ],
+  "last_updated_date": "2016",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:22:58.392504+00:00"
+}

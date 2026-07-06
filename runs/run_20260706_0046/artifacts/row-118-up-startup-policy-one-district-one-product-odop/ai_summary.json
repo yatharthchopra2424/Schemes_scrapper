@@ -1,0 +1,63 @@
+{
+  "scheme_id": "row-118",
+  "scheme_name": "UP Startup Policy & One District One Product (ODOP)",
+  "scheme_url": "https://startup.up.gov.in",
+  "ministry_or_category": "State Level (UP)",
+  "overview": "The UP Startup Policy & One District One Product (ODOP) is a state-level initiative by the Government of Uttar Pradesh aimed at fostering entrepreneurship, promoting local products, and building a robust startup ecosystem across all districts of the state. It integrates financial support, incubation, market access, and skill development to empower startups and artisans, particularly those engaged in ODOP-identified products. The policy emphasizes inclusive growth by targeting women, SC/ST, and rural entrepreneurs, and aligns with central government schemes like Startup India and Stand-Up India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "SC/ST",
+    "MSME",
+    "agri-startups",
+    "artisans",
+    "rural entrepreneurs"
+  ],
+  "geographic_scope": "Uttar Pradesh only",
+  "objectives": [
+    "Promote entrepreneurship and innovation across all 75 districts of Uttar Pradesh",
+    "Strengthen the One District One Product (ODOP) initiative by linking it with startup support",
+    "Provide financial assistance, incubation, and mentorship to early-stage startups",
+    "Enhance market access and branding for ODOP products through e-commerce and exhibitions",
+    "Support skill development and training for entrepreneurs and artisans",
+    "Encourage women, SC/ST, and rural entrepreneurs to participate in the startup ecosystem",
+    "Facilitate convergence with central government schemes like Startup India, Stand-Up India, and PMFME",
+    "Create employment opportunities and boost local economic development"
+  ],
+  "eligibility": "Eligible beneficiaries include startups registered in Uttar Pradesh, MSMEs, artisans, self-help groups, and individuals engaged in ODOP-identified products. Preference is given to women, SC/ST, and rural entrepreneurs. Startups must be recognized by DPIIT or registered under the UP Startup Policy. Entities must have a viable business plan related to ODOP products or services and comply with state government guidelines.",
+  "benefits": "Benefits include financial grants up to INR 10 lakhs for product development, marketing, and certification; interest-free loans; seed funding; incubation support at state-approved incubators; mentorship from industry experts; assistance in patent filing and IPR; participation in national and international trade fairs; e-commerce platform integration; branding and packaging support; and access to raw material banks and common facility centers.",
+  "financial_support": "Financial support includes grants of up to INR 10 lakhs per entity for product development, certification, and market promotion; interest-free loans up to INR 25 lakhs for working capital and machinery; seed funding of up to INR 5 lakhs for idea validation; and reimbursement of up to 50% of costs for ISO, FSSAI, or other certifications. Funds are disbursed through the Uttar Pradesh Trade Promotion Authority (UPTPA) or designated nodal agencies after project appraisal.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 10 lakhs",
+  "application_process": "1. Visit the official UP Startup Policy portal at startup.up.gov.in. 2. Register as a beneficiary by filling the online application form. 3. Submit details of the business idea, ODOP product linkage, and required documents. 4. Await preliminary screening by the district-level committee. 5. Present the business plan before the state-level evaluation committee. 6. Receive approval and sanction letter. 7. Submit utilization reports and claim disbursement of funds as per milestones.",
+  "application_portal_url": "https://startup.up.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the entity or applicant",
+    "Aadhaar card of the applicant",
+    "Business plan or project report",
+    "Proof of linkage to ODOP product (if applicable)",
+    "Bank account details",
+    "Photographs of product or unit",
+    "Caste certificate (for SC/ST applicants)",
+    "Gender certificate (for women applicants, if seeking special benefits)",
+    "Quotations for machinery or equipment (if seeking loan for capital expenditure)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Uttar Pradesh Trade Promotion Authority (UPTPA), under the Department of Infrastructure and Industrial Development, Government of Uttar Pradesh",
+  "contact_details": "Email: support@startup.up.gov.in | Helpline: 1800-1800-456",
+  "caveats": [
+    "Financial assistance is subject to availability of funds and budget allocation",
+    "Beneficiaries must utilize funds only for the approved purpose and submit utilization certificates",
+    "Failure to comply with project timelines may lead to cancellation of sanction",
+    "Double benefits from other central or state schemes for the same activity are not permitted",
+    "The policy is subject to revision or withdrawal by the state government"
+  ],
+  "source_cited_notes": [
+    "https://startup.up.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:21:30.559291+00:00"
+}

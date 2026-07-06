@@ -1,0 +1,52 @@
+{
+  "scheme_id": "row-653",
+  "scheme_name": "Venture Capital Fund for SCs (VCFSC) – IFCI",
+  "scheme_url": "https://ifci.in/vcfsc",
+  "ministry_or_category": "OBC Development",
+  "overview": "The Venture Capital Fund for SCs (VCFSC) – IFCI is a government initiative aimed at promoting entrepreneurship among Scheduled Castes by providing financial support through venture capital. The fund is managed by IFCI Limited and focuses on investing in SC-owned enterprises to foster inclusive economic growth. It operates under the Ministry of Social Justice and Empowerment and supports early and growth-stage ventures across various sectors.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "SC entrepreneurs",
+    "SC-owned enterprises"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote entrepreneurship among Scheduled Castes",
+    "Provide venture capital support to SC-owned businesses",
+    "Enhance access to finance for marginalized communities",
+    "Foster inclusive industrial and economic development",
+    "Support innovation and job creation in SC-led enterprises"
+  ],
+  "eligibility": "The scheme is open to enterprises promoted and managed by Scheduled Caste entrepreneurs. The business must be legally registered in India and operate in sectors permitted under the fund’s investment policy. Preference is given to innovative, high-growth potential ventures with scalable business models.",
+  "benefits": "Financial support in the form of venture capital equity or debt investments. Non-financial benefits include mentorship, business guidance, and access to IFCI’s network and expertise in enterprise development.",
+  "financial_support": "The fund provides financial assistance through equity participation or debt instruments, depending on the stage and needs of the enterprise. Investment decisions are made based on due diligence and growth potential, with flexible structuring to suit entrepreneurial requirements.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit a detailed business plan and proposal to IFCI Venture Capital Funds Ltd. 2. Undergo preliminary screening for eligibility and viability. 3. Present the business case to the investment committee. 4. Complete due diligence process including financial, legal, and technical assessment. 5. Receive term sheet and negotiate investment terms. 6. Finalize legal documentation and disbursement of funds.",
+  "application_portal_url": "https://ifci.in/vcfsc",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN card of the entity and promoters",
+    "Audited financial statements (if applicable)",
+    "Business plan and project report",
+    "Proof of SC caste certificate of promoters",
+    "Details of promoters and management team",
+    "Bank account details",
+    "Any other documents as specified by IFCI"
+  ],
+  "deadlines": "Rolling basis",
+  "implementing_agency": "IFCI Limited (formerly Industrial Finance Corporation of India)",
+  "contact_details": "",
+  "caveats": [
+    "Investment is subject to due diligence and approval by the investment committee",
+    "Funding is limited to enterprises meeting SC promoter criteria",
+    "Post-investment monitoring and reporting are mandatory",
+    "The fund does not provide grants; support is in the form of equity or debt"
+  ],
+  "source_cited_notes": [
+    "https://ifci.in/vcfsc"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:32:33.696538+00:00"
+}

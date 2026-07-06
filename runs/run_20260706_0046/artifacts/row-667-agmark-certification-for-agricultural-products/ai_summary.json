@@ -1,0 +1,55 @@
+{
+  "scheme_id": "row-667",
+  "scheme_name": "Agmark Certification for Agricultural Products",
+  "scheme_url": "https://agmark.gov.in",
+  "ministry_or_category": "Certification & Standards",
+  "overview": "Agmark Certification for Agricultural Products is a quality certification scheme administered by the Directorate of Marketing and Inspection (DMI) under the Ministry of Agriculture and Farmers Welfare. It ensures that agricultural commodities meet specified grade standards for quality, purity, and hygiene. The certification is voluntary and applies to a wide range of agricultural and allied products, promoting fair trade practices and consumer confidence.",
+  "scheme_type": "recognition",
+  "target_beneficiaries": [
+    "farmers",
+    "processors",
+    "traders",
+    "exporters",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote grading and standardization of agricultural and allied commodities",
+    "To ensure quality and purity of agricultural products for domestic and international markets",
+    "To protect producers and consumers against malpractices in the market",
+    "To facilitate exports by providing internationally acceptable quality certification",
+    "To encourage adoption of good agricultural and post-harvest practices"
+  ],
+  "eligibility": "Any person, firm, company, cooperative society, or other entity engaged in the production, processing, or trading of agricultural commodities covered under the Agricultural Produce (Grading and Marking) Act, 1937, is eligible to apply for Agmark certification. The product must conform to the grade standards prescribed under the Act.",
+  "benefits": "Agmark certification provides legal recognition of product quality, enhances marketability and consumer trust, facilitates access to premium markets and exports, enables better price realization, and serves as a proof of compliance with food safety and quality standards. It also helps in reducing post-harvest losses and supports implementation of quality control systems.",
+  "financial_support": "The Agmark certification scheme does not provide direct financial support, subsidies, or grants to applicants. It is a fee-based quality certification service where applicants bear the cost of testing, inspection, and certification as per the prescribed fee structure.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Identify the applicable Agmark standard for the product from the Gazette of India or DMI website. 2. Ensure the product and processing unit meet the prescribed grade and hygiene requirements. 3. Apply online through the Agmark portal (agmark.gov.in) or submit a physical application to the nearest Regional Agmark Laboratory. 4. Submit required documents including product details, processing unit information, and quality control plan. 5. Pay the applicable fee for sample testing and certification. 6. Undergo inspection and sampling by DMI officials. 7. Laboratory testing of samples for quality parameters. 8. Grant of Agmark certificate upon compliance, valid for a specific period subject to renewal and surveillance.",
+  "application_portal_url": "https://agmark.gov.in",
+  "required_documents": [
+    "Application form duly filled and signed",
+    "Proof of legal entity (Certificate of Incorporation, Partnership deed, etc.)",
+    "Details of the product and its specifications",
+    "Layout plan of the processing unit",
+    "List of machinery and equipment",
+    "Water and pesticide residue test reports (if applicable)",
+    "Quality control plan and SOPs",
+    "Proof of payment of fees"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Directorate of Marketing and Inspection (DMI), Ministry of Agriculture and Farmers Welfare",
+  "contact_details": "Email: agmark.dmi@nic.in | Phone: +91-11-23384488",
+  "caveats": [
+    "Certification is product-specific and requires separate application for each product variant",
+    "Agmark certificate is subject to periodic surveillance and renewal",
+    "Misuse of Agmark logo or false representation attracts penalties under the Agricultural Produce (Grading and Marking) Act, 1937",
+    "Only products covered under the notified grade standards are eligible for certification"
+  ],
+  "source_cited_notes": [
+    "https://agmark.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T01:40:14.001174+00:00"
+}

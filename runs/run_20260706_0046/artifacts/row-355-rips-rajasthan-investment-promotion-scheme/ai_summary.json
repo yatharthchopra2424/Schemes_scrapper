@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-355",
+  "scheme_name": "RIPS (Rajasthan Investment Promotion Scheme)",
+  "scheme_url": "https://rajinvestment.rajasthan.gov.in",
+  "ministry_or_category": "State Level (Rajasthan)",
+  "overview": "The Rajasthan Investment Promotion Scheme (RIPS) is a state-level initiative by the Government of Rajasthan to promote industrial investment and economic development in the state. It offers financial incentives and concessions to eligible industrial units for setting up new enterprises or expanding existing ones. The scheme aims to generate employment, boost exports, and promote balanced regional development across Rajasthan.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "MSME",
+    "large industries",
+    "manufacturing units",
+    "service enterprises",
+    "tourism units"
+  ],
+  "geographic_scope": "Rajasthan only",
+  "objectives": [
+    "Promote industrial investment in Rajasthan",
+    "Generate employment opportunities in the state",
+    "Boost exports from Rajasthan-based industries",
+    "Encourage balanced regional development across districts",
+    "Attract both domestic and foreign direct investment",
+    "Support setting up of new industrial units and expansion of existing ones"
+  ],
+  "eligibility": "Eligible units include new industrial units setting up operations in Rajasthan or existing units undertaking substantial expansion. The unit must be engaged in manufacturing, services, or tourism as specified in the scheme guidelines. Investment must be made in plant and machinery, and the unit must commence commercial production within the stipulated time frame. Units must be registered under relevant statutes and obtain all necessary clearances.",
+  "benefits": "Benefits under RIPS include exemption from electricity duty, stamp duty, land conversion charges, and entry tax on capital goods. Financial incentives consist of interest subsidy, employment generation subsidy, and capital subsidy. Additional benefits include reimbursement of VAT/CST, payroll tax subsidy, and special packages for mega projects and thrust sectors.",
+  "financial_support": "Financial support under RIPS includes interest subsidy on term loans (up to 5-7% depending on zone and unit size), employment generation subsidy (₹15,000-₹25,000 per employee per year), and capital subsidy (up to 30-50% of investment in plant and machinery for eligible sectors). The quantum and rate of subsidy vary based on the zone classification of Rajasthan), investment size, and employment generated. Disbursement is made post-verification of claims and compliance with scheme conditions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit application online through the Rajasthan Single Sign-On (RajSSO) portal or designated nodal agency. 2. Upload required documents including project report, investment details, and clearance certificates. 3. Application is scrutinized by the District Level Committee (DLC) or State Level Committee (SLC) based on investment scale. 4. Upon approval, letter of intent or eligibility certificate is issued. 5. After commencement of commercial production, submit claims for subsidies with supporting documents. 6. Claims are verified and subsidies are disbursed through direct benefit transfer.",
+  "application_portal_url": "https://rajinvestment.rajasthan.gov.in",
+  "required_documents": [
+    "Project report detailing investment and employment",
+    "Certificate of Incorporation / Registration of the unit",
+    "Details of investment in plant and machinery",
+    "Land allotment or purchase documents",
+    "Clearances from Pollution Control Board, Fire Department, etc.",
+    "Bank loan sanction letter (if applicable)",
+    "Details of employment generated",
+    "Commencement of commercial production certificate",
+    "GST registration and PAN of the unit",
+    "Cancelled cheque and bank account details for subsidy transfer"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year as per scheme guidelines.",
+  "implementing_agency": "Department of Industries, Government of Rajasthan",
+  "contact_details": "",
+  "caveats": [
+    "Subsidy claims must be submitted within stipulated time after commencement of commercial production",
+    "Benefits are subject to verification and may be withdrawn for non-compliance or misrepresentation",
+    "Certain sectors or activities may be excluded as per negative list",
+    "Double claiming of subsidies under other central or state schemes is not permitted",
+    "Scheme benefits are subject to availability of funds and government approvals"
+  ],
+  "source_cited_notes": [
+    "https://rajinvestment.rajasthan.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T22:40:53.829591+00:00"
+}

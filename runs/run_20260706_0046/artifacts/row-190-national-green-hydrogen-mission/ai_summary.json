@@ -1,0 +1,59 @@
+{
+  "scheme_id": "row-190",
+  "scheme_name": "National Green Hydrogen Mission",
+  "scheme_url": "https://greenhydrogen.mnre.gov.in",
+  "ministry_or_category": "Renewable Energy",
+  "overview": "The National Green Hydrogen Mission is a flagship initiative of the Government of India aimed at making India a global hub for the production, utilization, and export of green hydrogen and its derivatives. Launched under the Ministry of New and Renewable Energy (MNRE), the mission seeks to reduce dependence on fossil fuels, decarbonize key sectors such as transportation, industry, and power, and achieve energy independence by 2047. It focuses on scaling up green hydrogen production through electrolyser manufacturing, demand creation, and pilot projects in end-use sectors.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "manufacturers",
+    "industries",
+    "research institutions",
+    "startups",
+    "MSME"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Make India a leading producer and supplier of green hydrogen in the world",
+    "Achieve annual green hydrogen production capacity of at least 5 MMT by 2030",
+    "Develop electrolyser manufacturing capacity of at least 15 GW per year by 2030",
+    "Attract over INR 8 lakh crore in investments by 2030",
+    "Create over 6 lakh jobs by 2030",
+    "Reduce cumulative CO2 emissions by approximately 50 MMT per annum by 2030",
+    "Develop enabling infrastructure such as storage, transportation, and refuelling networks",
+    "Support research, development, and demonstration (RD&D) projects for technology innovation"
+  ],
+  "eligibility": "Eligible entities include companies registered in India under the Companies Act, 2013 or earlier, central/public sector undertakings, state government entities, joint ventures, and consortiums. For the Strategic Interventions for Green Hydrogen Transition (SIGHT) programme, eligibility is open to manufacturers of electrolysers and producers of green hydrogen who meet technical and financial criteria as specified in the scheme guidelines issued by MNRE and SECI.",
+  "benefits": "Financial incentives for setting up green hydrogen production and electrolyser manufacturing facilities; support for pilot projects in end-use sectors such as mobility, shipping, and steel; funding for research and development; facilitation of land and statutory clearances; creation of green hydrogen hubs; and support for development of export infrastructure and international partnerships.",
+  "financial_support": "Under the SIGHT programme, financial incentives are provided in the form of direct subsidies for electrolyser manufacturing and green hydrogen production. The incentive for electrolyser manufacturing is up to INR 4,440 per kW for a period of 5 years, and for green hydrogen production, it is up to INR 50 per kg for a period of 3 years, subject to annual caps. Funds are disbursed through the Solar Energy Corporation of India (SECI) as the implementing agency.",
+  "fund_size_crores": "19744",
+  "grant_amount_per_entity": "Incentive for electrolyser manufacturing: up to INR 4,440 per kW; for green hydrogen production: up to INR 50 per kg",
+  "application_process": "1. Eligible entities must register on the National Green Hydrogen Mission portal managed by SECI. 2. Submit an online application under the SIGHT programme for either electrolyser manufacturing or green hydrogen production. 3. Provide required documents including company incorporation details, technical specifications, financial statements, and land/clearance proofs. 4. Applications are evaluated by SECI based on technical and financial criteria. 5. Selected applicants receive a Letter of Award (LoA) and must sign an agreement with SECI. 6. After commissioning of the facility, incentives are disbursed based on verified performance.",
+  "application_portal_url": "https://greenhydrogen.mnre.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "GST registration details",
+    "Audited financial statements for the last 2 years",
+    "Technical details of the electrolyser or green hydrogen plant",
+    "Land ownership or lease documents",
+    "Clearances from relevant authorities (if applicable)",
+    "Details of proposed investment and funding sources",
+    "Undertaking and declaration as per format prescribed by SECI"
+  ],
+  "deadlines": "Applications are invited periodically through notifications issued by SECI; specific windows are announced in scheme guidelines. Not rolling basis.",
+  "implementing_agency": "Ministry of New and Renewable Energy (MNRE), implemented through Solar Energy Corporation of India (SECI)",
+  "contact_details": "Email: nghm@seci.gov.in | Helpline: Not specified in evidence",
+  "caveats": [
+    "Incentives are subject to annual caps and availability of funds",
+    "Beneficiaries must comply with monitoring and verification protocols",
+    "Failure to achieve project milestones may result in withdrawal of incentives",
+    "Domestic value addition requirements may apply for electrolyser manufacturing"
+  ],
+  "source_cited_notes": [
+    "https://greenhydrogen.mnre.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T21:00:45.450185+00:00"
+}

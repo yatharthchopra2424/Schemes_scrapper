@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-137",
+  "scheme_name": "Special Economic Zone (SEZ) Scheme",
+  "scheme_url": "https://www.sezindia.nic.in",
+  "ministry_or_category": "Commerce & Trade",
+  "overview": "The Special Economic Zone (SEZ) Scheme is a Government of India initiative aimed at promoting exports, attracting foreign investment, and generating employment through the establishment of SEZs across the country. It provides a duty-free enclave for export-oriented units with streamlined regulatory and tax incentives. The scheme supports both manufacturing and services sectors and is governed by the SEZ Act, 2005 and SEZ Rules, 2006.",
+  "scheme_type": "tax_benefit",
+  "target_beneficiaries": [
+    "developers",
+    "co-developers",
+    "units",
+    "manufacturers",
+    "service providers"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote exports of goods and services",
+    "Attract domestic and foreign investment",
+    "Generate employment opportunities",
+    "Develop infrastructure facilities",
+    "Enhance foreign exchange earnings"
+  ],
+  "eligibility": "Any person, including a company, partnership, proprietorship, or cooperative society, can make an application for setting up an SEZ or for developing infrastructure facilities in an SEZ. The applicant must be a resident or non-resident as per FEMA regulations and must comply with the SEZ Act, 2005 and SEZ Rules, 2006.",
+  "benefits": "Units in SEZs are entitled to duty-free import/domestic procurement of goods for development, operation, and maintenance; exemption from central and state taxes and levies as approved by the Board of Approval; exemption from minimum alternate tax under Section 115JB of the Income Tax Act; external commercial borrowing up to USD 500 million per year without maturity restriction; single window clearance for approvals; exemption from industrial licensing; and exemption from service tax.",
+  "financial_support": "The SEZ Scheme does not provide direct financial grants or subsidies. Instead, it offers fiscal incentives such as tax exemptions, duty concessions, and procedural simplifications. Financial benefits are indirect and accrue through reduced operational and capital costs due to tax and duty exemptions.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Submit an application in the prescribed format (Form-A) to the concerned State Government or directly to the Board of Approval (BoA). 2. The State Government forwards its recommendations within 45 days. 3. The application is reviewed by the Inter-Ministerial Committee (IMC). 4. The Board of Approval (BoA) takes a final decision within 45 days of receiving the State Government's recommendation. 5. Upon approval, a Letter of Approval (LoA) is issued. 6. After obtaining LoA, the developer must execute a lease deed and develop the SEZ within the stipulated time.",
+  "application_portal_url": "https://www.sezindia.nic.in",
+  "required_documents": [
+    "Project report detailing the SEZ proposal",
+    "Certificate of incorporation or registration of the applicant",
+    "PAN card of the applicant",
+    "Board resolution authorizing the application",
+    "Details of promoters and directors",
+    "Land title documents or lease agreement",
+    "Environmental clearance (if applicable)",
+    "Undertaking regarding compliance with SEZ Act and Rules",
+    "Banker's certificate regarding financial capability"
+  ],
+  "deadlines": "Rolling basis — applications can be submitted throughout the year.",
+  "implementing_agency": "Department of Commerce, Ministry of Commerce and Industry",
+  "contact_details": "Email: sez@sezindia.nic.in | Phone: +91-11-23063444",
+  "caveats": [
+    "Approval is subject to compliance with environmental and security clearance requirements",
+    "The SEZ must be developed within 5 years from the date of Letter of Approval",
+    "Minimum land area requirements apply: 50 hectares for sector-specific SEZs and 1000 hectares for multi-product SEZs",
+    "Units must be positive net foreign exchange earners within 3 years of commencement of operations",
+    "Certain restricted sectors like arms, ammunition, explosives, atomic substances, and narcotics are not permitted"
+  ],
+  "source_cited_notes": [
+    "https://www.sezindia.nic.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T20:31:36.462292+00:00"
+}

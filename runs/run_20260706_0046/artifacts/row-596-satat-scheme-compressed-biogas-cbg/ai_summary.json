@@ -1,0 +1,56 @@
+{
+  "scheme_id": "row-596",
+  "scheme_name": "SATAT Scheme – Compressed Biogas (CBG)",
+  "scheme_url": "https://petroleum.nic.in/satat",
+  "ministry_or_category": "Bioeconomy & Biofuels",
+  "overview": "The SATAT Scheme (Sustainable Alternative Towards Affordable Transportation) aims to promote Compressed Biogas (CBG) as a green transport fuel by setting up CBG plants and ensuring off-take by Oil Marketing Companies (OMCs). It supports entrepreneurs in establishing CBG production units using biomass and waste feedstock, contributing to waste-to-wealth initiatives and reducing dependence on fossil fuels. The scheme fosters a market-driven ecosystem for CBG production, procurement, and utilization in the transportation sector.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "entrepreneurs",
+    "MSME",
+    "farmers",
+    "waste management agencies",
+    "industrial units"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Promote production of Compressed Biogas (CBG) from biomass and waste sources",
+    "Ensure off-take of CBG by Oil Marketing Companies (OMCs) for use as automotive fuel",
+    "Reduce dependence on imported natural gas and crude oil",
+    "Support sustainable waste management and circular economy",
+    "Generate employment and entrepreneurial opportunities in rural and industrial areas",
+    "Contribute to national goals of carbon reduction and clean energy transition"
+  ],
+  "eligibility": "Any entrepreneur, MSME, cooperative society, self-help group, or industrial unit can apply to set up a CBG plant under the SATAT Scheme. The applicant must have access to suitable feedstock such as agricultural residue, cattle dung, sugarcane press mud, municipal solid waste, or sewage treatment plant waste. The plant must comply with technical standards and safety norms as specified by the Petroleum and Natural Gas Regulatory Board (PNGRB) and other relevant authorities.",
+  "benefits": "Benefits include assured off-take of CBG by OMCs at a fixed price for a period of 10 years, financial support through subsidies and incentives, technical guidance from implementing agencies, and facilitation in statutory clearances. The scheme promotes waste-to-wealth conversion, reduces greenhouse gas emissions, and provides additional income to farmers and waste generators through feedstock supply.",
+  "financial_support": "Financial support includes a subsidy of INR 4 lakhs per tonne per day (TPD) of CBG production capacity, subject to a maximum of INR 2 crores per project. Additionally, OMCs provide an assured off-take agreement for CBG at a fixed price for 10 years, ensuring revenue stability. The subsidy is disbursed in stages linked to project milestones after verification by the implementing agency.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "Up to INR 2 crores per project",
+  "application_process": "1. Identify suitable feedstock and site for CBG plant setup. 2. Prepare Detailed Project Report (DPR) including technical, financial, and environmental aspects. 3. Apply online via the SATAT portal or through the concerned OMC. 4. Submit application along with DPR, land documents, feedstock agreement, and other required documents. 5. Application is reviewed by the OMC and forwarded to the Steering Committee for approval. 6. Upon approval, sign off-take agreement with OMC. 7. Install CBG plant as per approved DPR and technical standards. 8. Commission plant and commence CBG production for off-take by OMC.",
+  "application_portal_url": "https://petroleum.nic.in/satat",
+  "required_documents": [
+    "Detailed Project Report (DPR)",
+    "Land ownership or lease documents",
+    "Feedstock supply agreement",
+    "No Objection Certificate (NOC) from Pollution Control Board",
+    "Clearance from local authorities (if applicable)",
+    "Project financing details",
+    "Promoter's KYC and incorporation documents",
+    "Undertaking regarding compliance with PNGRB and safety standards"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year.",
+  "implementing_agency": "Ministry of Petroleum and Natural Gas",
+  "contact_details": "Email: satat@petroleum.nic.in | Helpline: 1800-11-1999",
+  "caveats": [
+    "Subsidy is limited to one project per entrepreneur/entity",
+    "Off-take guarantee by OMCs is subject to plant performance and gas quality standards",
+    "Project must be commissioned within 18 months of approval to avail subsidy",
+    "CBG must meet specifications as per IS 16087:2016 for use as automotive fuel"
+  ],
+  "source_cited_notes": [
+    "https://petroleum.nic.in/satat"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:56:03.942043+00:00"
+}

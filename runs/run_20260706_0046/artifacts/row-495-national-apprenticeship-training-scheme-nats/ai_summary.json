@@ -1,0 +1,51 @@
+{
+  "scheme_id": "row-495",
+  "scheme_name": "National Apprenticeship Training Scheme (NATS)",
+  "scheme_url": "https://mhrdnats.gov.in",
+  "ministry_or_category": "EdTech & Skills",
+  "overview": "The National Apprenticeship Training Scheme (NATS) is a Government of India initiative under the Ministry of Education aimed at enhancing the employability of engineering and diploma graduates through structured on-the-job training. It provides apprenticeship opportunities in various industries and organizations, enabling fresh graduates to gain practical skills and industry exposure. The scheme facilitates a mutually beneficial arrangement where employers get trained manpower and graduates acquire hands-on experience relevant to their academic qualifications.",
+  "scheme_type": "subsidy",
+  "target_beneficiaries": [
+    "engineering graduates",
+    "diploma holders",
+    "fresh graduates"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To enhance the employability of engineering and diploma graduates through apprenticeship training",
+    "To provide industry-relevant practical skills to fresh graduates",
+    "To bridge the gap between academic knowledge and industrial requirements",
+    "To facilitate industry-institute interaction for skill development",
+    "To increase the availability of skilled manpower in various sectors"
+  ],
+  "eligibility": "Engineering graduates (B.E./B.Tech) and diploma holders in engineering/technology disciplines who have passed their qualifying examination are eligible to apply for apprenticeship training under NATS. Candidates must register on the NATS portal and seek placement with participating establishments.",
+  "benefits": "Apprentices receive a monthly stipend during the training period, with 50% of the stipend reimbursed to the employer by the Government of India. Upon successful completion, apprentices are awarded a Certificate of Proficiency by the Government of India, which is recognized for employment purposes across industries. The training helps in skill development and improves job readiness.",
+  "financial_support": "The Government of India reimburses 50% of the monthly stipend paid to apprentices by the employer, subject to a maximum limit as prescribed. The stipend amount is determined based on the apprentice's qualification (engineering graduate or diploma holder) and is paid by the employer during the apprenticeship period, typically ranging from 6 months to 1 year.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Eligible candidates (engineering/diploma graduates) must register on the NATS portal at https://mhrdnats.gov.in. 2. After registration, candidates can browse and apply for apprenticeship vacancies posted by participating establishments. 3. Upon selection by an employer, the candidate joins the organization for apprenticeship training. 4. The employer uploads the apprenticeship contract and monthly attendance/stipend details on the portal. 5. After verification, the government processes the 50% stipend reimbursement to the employer. 6. Upon successful completion of training, the apprentice receives a Certificate of Proficiency.",
+  "application_portal_url": "https://mhrdnats.gov.in",
+  "required_documents": [
+    "Certificate of Qualification (Engineering Degree/Diploma)",
+    "Mark sheets of all semesters/years",
+    "Proof of identity (Aadhaar, PAN, etc.)",
+    "Passport-sized photographs",
+    "Updated resume",
+    "Bank account details for stipend transfer"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year based on vacancy notifications from employers.",
+  "implementing_agency": "Ministry of Education, Government of India",
+  "contact_details": "Email: nats@mhrd.gov.in | Helpline: 011-24360674",
+  "caveats": [
+    "Stipend reimbursement to employers is limited to 50% of the actual stipend paid, subject to government-prescribed maximum limits",
+    "Apprenticeship placement is subject to availability of vacancies with participating establishments",
+    "The Certificate of Proficiency is awarded only upon successful completion of the training period and satisfactory performance",
+    "Employers must be registered establishments under the Apprentices Act, 1961 to participate in the scheme"
+  ],
+  "source_cited_notes": [
+    "https://mhrdnats.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:57:24.955610+00:00"
+}

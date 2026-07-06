@@ -1,0 +1,62 @@
+{
+  "scheme_id": "row-483",
+  "scheme_name": "National TB Elimination Programme – Digital Initiative",
+  "scheme_url": "https://nikshay.in",
+  "ministry_or_category": "Healthcare & MedTech",
+  "overview": "The National TB Elimination Programme – Digital Initiative, known as Nikshay, is a web-enabled patient management system for TB control under the National Tuberculosis Elimination Programme (NTEP). It is developed and maintained by the Central TB Division (CTD), Ministry of Health and Family Welfare, Government of India, in collaboration with the National Informatics Centre (NIC) and the World Health Organization Country office for India. Nikshay is used by health functionaries across the country in both public and private sectors to register TB cases, order tests, record treatment details, monitor adherence, and transfer cases between care providers. It also functions as the National TB Surveillance System and enables reporting of surveillance data to the Government of India.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "health functionaries",
+    "public and private healthcare providers",
+    "TB patients"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To register TB cases under care",
+    "To order various types of tests from Labs across the country",
+    "To record treatment details and monitor treatment adherence",
+    "To transfer cases between care providers",
+    "To function as the National TB Surveillance System",
+    "To enable reporting of various surveillance data to the Government of India"
+  ],
+  "eligibility": "Health functionaries at various levels across the country, both in the public and private sector, who are involved in TB case management under the National Tuberculosis Elimination Programme (NTEP).",
+  "benefits": "Enables case registration, test ordering from labs, treatment recording, adherence monitoring, case transfer between providers, national TB surveillance, and reporting of surveillance data to the Government of India. The service is provided at no cost by the Ministry of Health and Family Welfare.",
+  "financial_support": "The Nikshay application is provided by the Ministry of Health and Family Welfare, Government of India, at no cost to users. There is no financial support disbursed to beneficiaries under this digital initiative.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Visit the Nikshay portal at https://nikshay.in 2. Click on 'Login' to access the system 3. For new users, register via 'New Health Facility Registration' or 'New Informant Registration' as applicable 4. Complete the required registration form with details such as state, district, block, facility, address, basic information, designation, contact number, email, and bank details (if applicable) 5. Create login credentials (username) 6. Submit the form for approval 7. Upon approval, use the login credentials to access the Nikshay dashboard 8. Navigate to relevant modules such as case registration, test ordering, treatment monitoring, etc.",
+  "application_portal_url": "https://nikshay.in",
+  "required_documents": [
+    "State selection",
+    "District selection",
+    "Block selection",
+    "Facility selection",
+    "Address details",
+    "Name",
+    "Designation (ASHA, NGO Volunteer, Other Community Volunteer, Private Practitioner, Physician, Nurse, Other Para Medical Staff, Attendant, Citizen, Informal Provider)",
+    "Primary contact number",
+    "Email address",
+    "Bank details (IFSC Code, Bank Name, Account Number) - if opting for benefits",
+    "Login username"
+  ],
+  "deadlines": "Rolling basis — no fixed deadline. Registrations are accepted year-round.",
+  "implementing_agency": "Central TB Division (CTD TB Division (CTD), Ministry of Health and Family Welfare, Government of India",
+  "contact_details": "Email: nikshay@rntcp.org | Helpdesk: 1800-11-6666",
+  "caveats": [
+    "The service is provided 'as is' with no cost",
+    "In view of the recent Supreme Court judgement on Aadhaar, revised procedure details will be provided soon",
+    "Data retention and deletion policies apply as per the Privacy Policy",
+    "Users must provide accurate and complete information during registration"
+  ],
+  "source_cited_notes": [
+    "https://nikshay.in/Home/AboutUs",
+    "https://nikshay.in/Home/PrivacyUs",
+    "https://nikshay.in/Home/InformantRegistration",
+    "https://nikshay.in/Home/UserFacility",
+    "https://nikshay.in/Home/Index",
+    "https://nikshay.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:51:41.973560+00:00"
+}

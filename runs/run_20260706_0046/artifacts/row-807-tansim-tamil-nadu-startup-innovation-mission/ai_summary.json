@@ -1,0 +1,58 @@
+{
+  "scheme_id": "row-807",
+  "scheme_name": "TANSIM – Tamil Nadu Startup & Innovation Mission",
+  "scheme_url": "https://tansim.tn.gov.in",
+  "ministry_or_category": "State Level (Tamil Nadu)",
+  "overview": "TANSIM – Tamil Nadu Startup & Innovation Mission is a state-level initiative by the Government of Tamil Nadu to foster innovation, support startups, and build a vibrant entrepreneurial ecosystem in the state. It provides financial assistance, mentorship, infrastructure, and market access to early-stage and growth-stage startups across various sectors. The mission aims to position Tamil Nadu as a leading hub for innovation and technology-driven enterprises in India.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "innovators",
+    "MSME",
+    "women entrepreneurs",
+    "SC/ST"
+  ],
+  "geographic_scope": "Tamil Nadu only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across Tamil Nadu",
+    "Provide financial and non-financial support to startups at various stages",
+    "Strengthen incubation and acceleration infrastructure in the state",
+    "Facilitate market access and industry linkages for startups",
+    "Encourage inclusive growth by supporting women, SC/ST, and differently-abled entrepreneurs",
+    "Create a sustainable startup ecosystem through policy interventions and partnerships"
+  ],
+  "eligibility": "Startups incorporated as Private Limited Company, LLP, or Partnership Firm under relevant Indian laws, with headquarters or significant operations in Tamil Nadu, working on innovative products, services, or processes, and recognized by DPIIT or recommended by TANSIM-approved incubators.",
+  "benefits": "Financial support in the form of grants, seed funding, and prototype development assistance; access to state-of-the-art incubation centers and co-working spaces; mentorship from industry experts and investors; assistance in intellectual property rights (IPR) filing; support for participation in national and international events; facilitation of government procurement opportunities; and networking with investors, academia, and industry partners.",
+  "financial_support": "TANSIM provides grant-based financial support up to INR 25 Lakhs per eligible startup for prototype development, product validation, and market readiness. The support is disbursed in milestones based on project progress and is administered through TANSIM-approved incubators and nodal agencies. There is no equity dilution or repayment obligation for the grant amount.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "INR 25 Lakhs",
+  "application_process": "1. Register on the TANSIM portal (https://tansim.tn.gov.in) as a startup or through an approved incubator. 2. Submit the online application form with details of the innovation, team, and business model. 3. Upload required documents including Certificate of Incorporation, PAN, pitch deck, and prototype details. 4. Application is screened by TANSIM committee for eligibility and innovation quotient. 5. Shortlisted applicants are invited for pitch presentation or prototype demonstration. 6. Final selection is made based on evaluation scores and fund availability. 7. Approved startups receive sanction letter and grant disbursement in phases through the incubator.",
+  "application_portal_url": "https://tansim.tn.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of prototype or MVP (if any)",
+    "Bank account details of the entity",
+    "Authorization letter from authorized signatory",
+    "Incubator recommendation letter (if applicable)",
+    "GST registration certificate (if applicable)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to fund availability.",
+  "implementing_agency": "Tamil Nadu Startup & Innovation Mission (TANSIM), Department of Industries and Commerce, Government of Tamil Nadu",
+  "contact_details": "Email: info@tansim.tn.gov.in | Phone: 044-2235XXXX",
+  "caveats": [
+    "Grant is subject to availability of funds and approval by the TANSIM screening committee",
+    "Startups must utilize the grant only for the approved project objectives",
+    "Beneficiaries may be required to submit periodic progress reports and utilization certificates",
+    "Support is limited to one-time grant per entity unless under special programs",
+    "TANSIM reserves the right to modify or withdraw the scheme without prior notice"
+  ],
+  "source_cited_notes": [
+    "https://tansim.tn.gov.in"
+  ],
+  "last_updated_date": "",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T06:33:20.203043+00:00"
+}

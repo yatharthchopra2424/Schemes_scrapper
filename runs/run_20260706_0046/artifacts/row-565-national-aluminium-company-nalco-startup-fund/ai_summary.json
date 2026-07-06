@@ -1,0 +1,54 @@
+{
+  "scheme_id": "row-565",
+  "scheme_name": "National Aluminium Company (NALCO) Startup Fund",
+  "scheme_url": "https://nalcoindia.com",
+  "ministry_or_category": "PSU Support",
+  "overview": "The National Aluminium Company (NALCO) Startup Fund is a scheme under the PSU Support category aimed at supporting startups through financial assistance and other benefits. The scheme is managed by NALCO, a Government of India Enterprise, and focuses on promoting innovation and entrepreneurship in alignment with national objectives. It provides financial support to eligible startups, particularly those engaged in innovation and technology-driven ventures, and facilitates their growth through funding and non-financial benefits.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "entrepreneurs",
+    "innovators"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "To promote innovation and entrepreneurship in India",
+    "To provide financial support to early-stage startups",
+    "To encourage technology-driven ventures aligned with national priorities",
+    "To strengthen the startup ecosystem through PSU-led initiatives",
+    "To facilitate access to funding and mentorship for emerging enterprises"
+  ],
+  "eligibility": "Startups incorporated in India, working on innovative products, services, or processes, with a focus on technology and innovation, and meeting the eligibility criteria as defined under the Startup India initiative or as specified by NALCO for the fund.",
+  "benefits": "Financial support in the form of grants or equity-based funding, mentorship, networking opportunities, access to NALCO’s infrastructure and expertise, and potential for collaboration on pilot projects or technology validation.",
+  "financial_support": "The scheme provides financial support to startups in the form of grants or equity investments, with the exact quantum and mechanism determined based on the startup’s stage, innovation quotient, and alignment with NALCO’s strategic interests, as per the MOU scheme guidelines.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "1. Interested startups must register on the NALCO portal or designated platform. 2. Submit a detailed proposal outlining the innovation, business model, and alignment with NALCO’s sectors. 3. Undergo evaluation by NALCO’s expert committee based on innovation, feasibility, and impact. 4. Shortlisted startups may be invited for presentations or due diligence. 5. Selected startups receive funding and enter into a formal agreement with NALCO.",
+  "application_portal_url": "https://nalcoindia.com",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN of the entity",
+    "Pitch deck or business description",
+    "Details of innovation or technology",
+    "Authorization letter from authorized signatory",
+    "Details of funding received (if any)"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds and evaluation cycles.",
+  "implementing_agency": "National Aluminium Company Limited (NALCO), a Govt. of India Enterprise",
+  "contact_details": "Email: satya.mohapatra@nalcoindia.co.in | Contact: Deputy General Manager (Mechanical), Nalco Research and Technology Centre, Gothapatana, Bhubaneswar, Odisha-751003",
+  "caveats": [
+    "Funding is subject to availability of funds and evaluation by NALCO’s committee",
+    "Disbursement is contingent on meeting milestones and submission of progress reports",
+    "Intellectual property rights and confidentiality terms apply as per agreement",
+    "NALCO reserves the right to modify or withdraw the scheme without prior notice"
+  ],
+  "source_cited_notes": [
+    "https://nalcoindia.com",
+    "https://nalcoindia.com/wp-content/uploads/2026/03/MOU-Scheme-for-Sale-of-Metal-Products-2026-27.pdf",
+    "https://nalcoindia.com/wp-content/uploads/2026/03/MOU-Scheme-for-Sale-of-Rolled-Products-2026-27.pdf",
+    "https://nalcoindia.com/wp-content/uploads/2026/03/MoU-Scheme-for-2026-27-Chemical.pdf"
+  ],
+  "last_updated_date": "2026",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-06T00:38:50.698810+00:00"
+}

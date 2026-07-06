@@ -1,0 +1,50 @@
+{
+  "scheme_id": "row-424",
+  "scheme_name": "Agristack – Federated Farmers Database",
+  "scheme_url": "https://agristack.gov.in",
+  "ministry_or_category": "Agriculture & AgriTech",
+  "overview": "Agri Stack is a digital infrastructure initiative by the Ministry of Agriculture & Farmers Welfare, Government of India, designed to create a federated database of farmers and farmland to improve access to credit, inputs, advice, and markets. It aims to enhance the delivery of government schemes by enabling presence-less farmer identification and authentication through a unique FarmerID linked to Aadhaar. The platform supports agri-tech innovation by providing secure, consent-based access to high-quality agricultural data via components like the Farmer Registry, Crop Sown Registry, Unified Farmer Service Interface (UFSI), Consent Manager, and Agri Stack Sandbox.",
+  "scheme_type": "other",
+  "target_beneficiaries": [
+    "farmers",
+    "agri-tech startups",
+    "private companies",
+    "public entities",
+    "state governments",
+    "central government"
+  ],
+  "geographic_scope": "Pan-India",
+  "objectives": [
+    "Improve Government benefits/schemes delivery so they reach all Indian farmers faster and more easily",
+    "Create a presence-less layer for quick identification and authentication of the farmers",
+    "Lower the cost and risk of agricultural services for farmers and agri-credit, finance, inputs, and other service providers",
+    "Enable easier scheme convergence between agri-allied Ministries and State Governments to better serve the Indian Farmers",
+    "Accelerate innovation in products & services by Agri-Techs with easier access to high-quality data"
+  ],
+  "eligibility": "Eligibility is not explicitly defined for direct beneficiary access in the evidence; the Farmer Registry is compiled by States according to common standards, and each farmer is assigned a unique FarmerID based on Aadhaar as per IndEA 2.0, with minimal demographic details to enable identification and eligibility determination for availing government scheme benefits.",
+  "benefits": "Farmers gain easier access to cheaper credit, higher-quality farm inputs, localized and specific advice, and more informed and convenient access to markets. Governments can plan and implement farmer-focused benefit schemes more effectively. Agri-Tech startups and private companies benefit from secure, consent-based access to high-quality agricultural data via the Agri Stack Sandbox and UFSI to develop innovative products and services. The platform enables data-blind sharing of personal data only with explicit farmer consent through the Consent Manager, ensuring privacy and security.",
+  "financial_support": "No direct financial support is provided to farmers or entities under Agri Stack; it is a digital infrastructure enabling access to services like credit, inputs, and advisory, which may be facilitated by banks, financial institutions, or service providers using the platform.",
+  "fund_size_crores": "",
+  "grant_amount_per_entity": "",
+  "application_process": "No specific application process for farmers or startups to access Agri Stack is detailed in the evidence; access is enabled through state-level Farmer Registry compilation and consent-based data sharing via the Consent Manager, with the Agri Stack Sandbox providing a simulated environment for authorized stakeholders to test products and services.",
+  "application_portal_url": "",
+  "required_documents": [],
+  "deadlines": "Rolling basis — no fixed deadline. Implementation is ongoing as states form steering committees and provide APIs.",
+  "implementing_agency": "Ministry of Agriculture & Farmers Welfare",
+  "contact_details": "",
+  "caveats": [
+    "Farmer ID is for non-legal, planning and advisory, and scheme-delivery purposes only",
+    "Data sharing requires explicit farmer consent via the Agri Stack Consent Manager",
+    "Farm ID is dynamically linked to farmland plot records but not for legal ownership purposes",
+    "The system does not store data with GOI; data exchange occurs only with farmer consent and access tokens",
+    "Bucket data created by central govt in batch mode is not updated further; states must refresh it periodically"
+  ],
+  "source_cited_notes": [
+    "https://agristack.gov.in",
+    "https://agristack.gov.in/",
+    "https://agristack.gov.in/assets/registries/farmerRegistry/farmer_registry_faqs.pdf"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "medium",
+  "analysis_timestamp": "2026-07-05T23:24:24.641145+00:00"
+}

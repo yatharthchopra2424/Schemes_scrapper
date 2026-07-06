@@ -1,0 +1,57 @@
+{
+  "scheme_id": "row-113",
+  "scheme_name": "Maha Startup Scheme",
+  "scheme_url": "https://startup.maharashtra.gov.in",
+  "ministry_or_category": "State Level (Maharashtra)",
+  "overview": "The Maha Startup Scheme is a state-level initiative by the Government of Maharashtra to foster innovation and support early-stage startups within the state. It aims to provide financial assistance, mentorship, and infrastructure support to promote entrepreneurship and job creation. The scheme focuses on startups in technology, manufacturing, and service sectors, with special emphasis on women entrepreneurs and socially disadvantaged groups. It operates through a structured application and evaluation process to disburse grants and enable access to incubation facilities.",
+  "scheme_type": "grant",
+  "target_beneficiaries": [
+    "startups",
+    "women entrepreneurs",
+    "SC/ST",
+    "MSME"
+  ],
+  "geographic_scope": "Maharashtra only",
+  "objectives": [
+    "Promote innovation and entrepreneurship across Maharashtra",
+    "Provide financial support to early-stage startups for product development and market validation",
+    "Encourage participation of women and socially disadvantaged entrepreneurs",
+    "Strengthen the startup ecosystem through incubation and mentorship",
+    "Facilitate job creation and economic growth in the state",
+    "Enable access to prototyping, testing, and market linkage facilities",
+    "Support startups in technology, manufacturing, and service sectors"
+  ],
+  "eligibility": "The applicant must be a startup registered in Maharashtra as a Private Limited Company, LLP, or Partnership Firm under the Companies Act, 2013 or LLP Act, 2008. The startup must be incorporated not more than 5 years ago. Annual turnover should not exceed INR 25 Crore in any preceding financial year. The startup must be working on innovative products, services, or processes with potential for commercialization. At least one founder must be a resident of Maharashtra. Preference is given to startups led by women, SC/ST, or differently abled individuals.",
+  "benefits": "Financial grant support for product development, prototype creation, and market validation. Access to state-approved incubation centers with infrastructure, mentorship, and networking opportunities. Assistance in intellectual property rights (IPR) filing and legal compliance. Support for participation in national and international startup events and exhibitions. Guidance on funding readiness and investor connect. Access to shared labs, prototyping facilities, and technical guidance through empanelled knowledge partners.",
+  "financial_support": "The scheme provides a one-time grant of up to INR 20 Lakhs per eligible startup for early-stage validation and prototype development. The grant is disbursed in tranches based on milestone achievement, subject to technical and financial appraisal by the appointed committee. Funds are released directly to the startup’s bank account after due diligence and approval of utilization reports. No equity is taken by the government in return for the grant.",
+  "fund_size_crores": "200",
+  "grant_amount_per_entity": "INR 20 Lakhs",
+  "application_process": "1. Visit the official Maha Startup Scheme portal at https://startup.maharashtra.gov.in. 2. Register as a new user by providing basic details of the startup and founders. 3. Log in and fill the online application form with information on innovation, business model, and financials. 4. Upload required documents including Certificate of Incorporation, PAN, pitch deck, and founder details. 5. Submit the application for preliminary screening. 6. Shortlisted applicants will be invited for a pitch presentation before the evaluation committee. 7. Based on the evaluation, approved startups will receive a sanction letter. 8. Grant disbursement will commence after submission of utilization plan and execution of agreement.",
+  "application_portal_url": "https://startup.maharashtra.gov.in",
+  "required_documents": [
+    "Certificate of Incorporation / Registration",
+    "PAN Card of the startup",
+    "Aadhaar and PAN of all founders",
+    "Pitch deck or business plan (max 10 slides)",
+    "Bank account details of the startup",
+    "Declaration of innovation and compliance with scheme guidelines",
+    "Proof of registration in Maharashtra (address proof of registered office)",
+    "Details of any prior funding or grants received"
+  ],
+  "deadlines": "Rolling basis — applications are accepted throughout the year subject to availability of funds.",
+  "implementing_agency": "Directorate of Industries, Government of Maharashtra",
+  "contact_details": "Email: mahastartup@industries.maharashtra.gov.in | Helpline: 022-22025565",
+  "caveats": [
+    "Grant is disbursed only after milestone-based verification and submission of utilization certificates",
+    "Startups that have received similar grants from other central or state government schemes may not be eligible",
+    "The grant must be utilized strictly for the approved purpose within 12 months of sanction",
+    "Failure to utilize funds or submit reports may lead to recovery of the grant amount",
+    "The scheme is subject to budget availability and may be revised or withdrawn without prior notice"
+  ],
+  "source_cited_notes": [
+    "https://startup.maharashtra.gov.in"
+  ],
+  "last_updated_date": "2024",
+  "confidence": "high",
+  "analysis_timestamp": "2026-07-05T20:20:01.126593+00:00"
+}
