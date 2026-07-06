@@ -14056,3 +14056,220 @@ Stacktrace:
 2026-07-06 14:46:35 | INFO     | scheme_scraper.pipeline.report_generator |     -> [24.6s] Created SCHEME_MASTER_DATABASE.md                  (4877 chars) | Scheme Master DB entry (AI qualification brain)
 2026-07-06 14:47:15 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
 2026-07-06 14:47:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> [40.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (7371 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 14:48:06 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 14:48:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [50.9s] Created APPLICATION_PLAYBOOK.md                    (10359 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 14:49:41 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:49:41 | INFO     | scheme_scraper.pipeline.report_generator |     -> [94.7s] Created CLIENT_ONBOARDING_AND_CRM.md               (4325 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 14:50:12 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 14:50:12 | INFO     | scheme_scraper.pipeline.report_generator |     -> [31.0s] Created LIVE_CASE_TRACKER.md                       (3618 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 14:50:45 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:50:45 | INFO     | scheme_scraper.pipeline.report_generator |     -> [32.7s] Created FEE_AND_REVENUE_MODEL.md                   (3474 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 14:51:14 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 14:51:14 | INFO     | scheme_scraper.pipeline.report_generator |     -> [28.9s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3453 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 14:51:42 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:51:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [27.9s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3528 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 14:51:42 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Fisheries and Aquaculture Infrastructure Development Fund (FIDF)'
+2026-07-06 14:51:42 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 14:51:42 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-127-blue-revolution-neela-kranti
+2026-07-06 14:51:50 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Blue Revolution – Neela Kranti': 30 pages, 19 PDFs, 57311 page chars, 300000 pdf chars
+2026-07-06 14:51:50 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 57311 page chars + 300000 pdf chars | key_facts: 5062 chars
+2026-07-06 14:51:50 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Blue Revolution – Neela Kranti
+2026-07-06 14:51:52 | WARNING  | scheme_scraper.llm.nvidia_client | LLM key[0]: server error 503 — rotating key and retrying
+2026-07-06 14:51:52 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (5xx error 503)
+2026-07-06 14:52:18 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:52:18 | INFO     | scheme_scraper.pipeline.report_generator |     -> [27.6s] Created report.md                                  (9302 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 14:52:31 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 14:52:31 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.4s] Created SCHEME_MASTER_DATABASE.md                  (3563 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 14:52:54 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:52:54 | INFO     | scheme_scraper.pipeline.report_generator |     -> [22.5s] Created PITCH_AND_SALES_SCRIPTS.md                 (6850 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 14:57:56 | WARNING  | scheme_scraper.llm.nvidia_client | LLM key[0]: server error 504 — rotating key and retrying
+2026-07-06 14:57:56 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (5xx error 504)
+2026-07-06 14:58:44 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 14:58:44 | INFO     | scheme_scraper.pipeline.report_generator |     -> [350.6s] Created APPLICATION_PLAYBOOK.md                    (9860 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 14:59:02 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 14:59:02 | INFO     | scheme_scraper.pipeline.report_generator |     -> [17.7s] Created CLIENT_ONBOARDING_AND_CRM.md               (3758 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:00:01 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:00:01 | INFO     | scheme_scraper.pipeline.report_generator |     -> [58.4s] Created LIVE_CASE_TRACKER.md                       (2899 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:00:23 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:00:23 | INFO     | scheme_scraper.pipeline.report_generator |     -> [22.6s] Created FEE_AND_REVENUE_MODEL.md                   (3165 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:00:47 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:00:47 | INFO     | scheme_scraper.pipeline.report_generator |     -> [24.4s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2618 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:01:03 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:01:03 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.0s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3098 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:01:03 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Blue Revolution – Neela Kranti'
+2026-07-06 15:01:03 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:01:03 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-128-emergency-credit-line-guarantee-scheme-eclgs
+2026-07-06 15:01:06 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Emergency Credit Line Guarantee Scheme (ECLGS)': 30 pages, 20 PDFs, 143403 page chars, 105281 pdf chars
+2026-07-06 15:01:06 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 143403 page chars + 105281 pdf chars | key_facts: 4563 chars
+2026-07-06 15:01:06 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Emergency Credit Line Guarantee Scheme (ECLGS)
+2026-07-06 15:01:50 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:01:50 | INFO     | scheme_scraper.pipeline.report_generator |     -> [43.8s] Created report.md                                  (9139 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:02:06 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:02:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.1s] Created SCHEME_MASTER_DATABASE.md                  (3687 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:02:31 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:02:31 | INFO     | scheme_scraper.pipeline.report_generator |     -> [25.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (6323 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:04:40 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:04:40 | INFO     | scheme_scraper.pipeline.report_generator |     -> [128.8s] Created APPLICATION_PLAYBOOK.md                    (8612 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:04:56 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:04:56 | INFO     | scheme_scraper.pipeline.report_generator |     -> [15.7s] Created CLIENT_ONBOARDING_AND_CRM.md               (3785 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:05:06 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:05:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [10.5s] Created LIVE_CASE_TRACKER.md                       (2620 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:05:30 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:05:30 | INFO     | scheme_scraper.pipeline.report_generator |     -> [23.4s] Created FEE_AND_REVENUE_MODEL.md                   (4654 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:05:30 | WARNING  | scheme_scraper.llm.nvidia_client | KeyRotator: 429 rate-limit hit on key [0] — switching to key [1]
+2026-07-06 15:05:48 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:05:48 | INFO     | scheme_scraper.pipeline.report_generator |     -> [17.8s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3400 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:05:48 | WARNING  | scheme_scraper.llm.nvidia_client | KeyRotator: 429 rate-limit hit on key [0] — switching to key [1]
+2026-07-06 15:06:04 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:06:04 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.5s] Created COMPLIANCE_AND_LEGAL_PACK.md               (5359 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:06:04 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Emergency Credit Line Guarantee Scheme (ECLGS)'
+2026-07-06 15:06:04 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:06:04 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-129-credit-guarantee-fund-for-micro-units-cgfmu
+2026-07-06 15:06:07 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Credit Guarantee Fund for Micro Units (CGFMU)': 30 pages, 20 PDFs, 173347 page chars, 105281 pdf chars
+2026-07-06 15:06:07 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 173347 page chars + 105281 pdf chars | key_facts: 2453 chars
+2026-07-06 15:06:07 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Credit Guarantee Fund for Micro Units (CGFMU)
+2026-07-06 15:07:39 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:07:39 | INFO     | scheme_scraper.pipeline.report_generator |     -> [91.7s] Created report.md                                  (8408 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:07:51 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:07:51 | INFO     | scheme_scraper.pipeline.report_generator |     -> [11.7s] Created SCHEME_MASTER_DATABASE.md                  (2127 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:09:15 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:09:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> [84.0s] Created PITCH_AND_SALES_SCRIPTS.md                 (6228 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:09:45 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:09:45 | INFO     | scheme_scraper.pipeline.report_generator |     -> [30.4s] Created APPLICATION_PLAYBOOK.md                    (8063 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:09:57 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:09:57 | INFO     | scheme_scraper.pipeline.report_generator |     -> [12.3s] Created CLIENT_ONBOARDING_AND_CRM.md               (3131 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:10:49 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:10:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> [52.0s] Created LIVE_CASE_TRACKER.md                       (2345 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:11:05 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:11:05 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.0s] Created FEE_AND_REVENUE_MODEL.md                   (3792 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:11:19 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:11:19 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.3s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2799 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:11:32 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:11:32 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.2s] Created COMPLIANCE_AND_LEGAL_PACK.md               (3254 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:11:32 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'Credit Guarantee Fund for Micro Units (CGFMU)'
+2026-07-06 15:11:32 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:11:32 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-13-nsic-marketing-support-scheme
+2026-07-06 15:11:36 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'NSIC Marketing Support Scheme': 30 pages, 17 PDFs, 168220 page chars, 130918 pdf chars
+2026-07-06 15:11:36 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 168220 page chars + 130918 pdf chars | key_facts: 4279 chars
+2026-07-06 15:11:36 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: NSIC Marketing Support Scheme
+2026-07-06 15:12:00 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:12:00 | INFO     | scheme_scraper.pipeline.report_generator |     -> [24.0s] Created report.md                                  (8657 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:12:16 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:12:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [15.5s] Created SCHEME_MASTER_DATABASE.md                  (2924 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:12:54 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:12:54 | INFO     | scheme_scraper.pipeline.report_generator |     -> [38.5s] Created PITCH_AND_SALES_SCRIPTS.md                 (6453 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:13:24 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:13:24 | INFO     | scheme_scraper.pipeline.report_generator |     -> [29.7s] Created APPLICATION_PLAYBOOK.md                    (9156 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:14:22 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:14:22 | INFO     | scheme_scraper.pipeline.report_generator |     -> [58.6s] Created CLIENT_ONBOARDING_AND_CRM.md               (5998 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:14:42 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:14:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [19.9s] Created LIVE_CASE_TRACKER.md                       (2521 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:15:12 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:15:12 | INFO     | scheme_scraper.pipeline.report_generator |     -> [29.6s] Created FEE_AND_REVENUE_MODEL.md                   (2712 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:15:25 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:15:25 | INFO     | scheme_scraper.pipeline.report_generator |     -> [12.9s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3226 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:15:50 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:15:50 | INFO     | scheme_scraper.pipeline.report_generator |     -> [25.2s] Created COMPLIANCE_AND_LEGAL_PACK.md               (5753 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:15:50 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'NSIC Marketing Support Scheme'
+2026-07-06 15:15:50 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:15:50 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-130-rbi-regulatory-sandbox-for-fintech
+2026-07-06 15:15:53 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'RBI Regulatory Sandbox for Fintech': 30 pages, 20 PDFs, 5843 page chars, 300000 pdf chars
+2026-07-06 15:15:53 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 5843 page chars + 300000 pdf chars | key_facts: 2959 chars
+2026-07-06 15:15:53 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: RBI Regulatory Sandbox for Fintech
+2026-07-06 15:16:14 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:16:14 | INFO     | scheme_scraper.pipeline.report_generator |     -> [21.3s] Created report.md                                  (7771 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:16:24 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:16:24 | INFO     | scheme_scraper.pipeline.report_generator |     -> [10.7s] Created SCHEME_MASTER_DATABASE.md                  (2845 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:16:40 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:16:40 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.0s] Created PITCH_AND_SALES_SCRIPTS.md                 (6044 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:17:34 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:17:34 | INFO     | scheme_scraper.pipeline.report_generator |     -> [53.6s] Created APPLICATION_PLAYBOOK.md                    (7100 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:17:46 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:17:46 | INFO     | scheme_scraper.pipeline.report_generator |     -> [12.3s] Created CLIENT_ONBOARDING_AND_CRM.md               (3504 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:18:37 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:18:37 | INFO     | scheme_scraper.pipeline.report_generator |     -> [50.1s] Created LIVE_CASE_TRACKER.md                       (2569 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:18:59 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:18:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [22.6s] Created FEE_AND_REVENUE_MODEL.md                   (3766 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:19:20 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:19:20 | INFO     | scheme_scraper.pipeline.report_generator |     -> [20.9s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3312 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:19:34 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:19:34 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.9s] Created COMPLIANCE_AND_LEGAL_PACK.md               (2965 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:19:34 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'RBI Regulatory Sandbox for Fintech'
+2026-07-06 15:19:34 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:19:34 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-131-sebi-innovation-sandbox
+2026-07-06 15:19:34 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from 1667476171429.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:34 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from 1749647139924.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:34 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from 1758091557500.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:34 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from 1782726476068.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from arth-yatra-results-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from bharat-ka-share-bazaar-iift-2025-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from caution-notice-in-the-matter-of-sai-prasad-english-hindi-marathi.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from guidelines-of-data-sharing-final.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from kusumgar-20limited-20-20abridged-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from list-20of-20matters-20to-20be-20published-dtr-20match-20informan.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from maan-20fleet-20partners-20limited-20-20drph-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from oravel-20stays-20limited-20-20abridged-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from requirements-20for-20filing-20objections-20wrt-20properties-20of.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from social-20worth-20technologies-20-20da-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:35 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from trai-dnd-eng-p.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:36 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from vel-exemption-order.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:36 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from vil-exemption-order.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:36 | WARNING  | scheme_scraper.extract.doc_extract | Could not extract text from waree-exemption-order.pdf: Invalid PDF header: b'<!DOC'
+2026-07-06 15:19:36 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'SEBI Innovation Sandbox': 30 pages, 18 PDFs, 12083 page chars, 0 pdf chars
+2026-07-06 15:19:36 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 12083 page chars + 0 pdf chars | key_facts: 2967 chars
+2026-07-06 15:19:36 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: SEBI Innovation Sandbox
+2026-07-06 15:20:26 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:20:26 | INFO     | scheme_scraper.pipeline.report_generator |     -> [49.9s] Created report.md                                  (15773 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:20:53 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:20:53 | INFO     | scheme_scraper.pipeline.report_generator |     -> [27.3s] Created SCHEME_MASTER_DATABASE.md                  (2950 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:21:16 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:21:16 | INFO     | scheme_scraper.pipeline.report_generator |     -> [22.9s] Created PITCH_AND_SALES_SCRIPTS.md                 (7254 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:21:44 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:21:44 | INFO     | scheme_scraper.pipeline.report_generator |     -> [27.8s] Created APPLICATION_PLAYBOOK.md                    (9852 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:22:00 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:22:00 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.2s] Created CLIENT_ONBOARDING_AND_CRM.md               (3522 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:22:06 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:22:06 | INFO     | scheme_scraper.pipeline.report_generator |     -> [5.4s] Created LIVE_CASE_TRACKER.md                       (2632 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:22:15 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:22:15 | INFO     | scheme_scraper.pipeline.report_generator |     -> [9.5s] Created FEE_AND_REVENUE_MODEL.md                   (3290 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:22:15 | WARNING  | scheme_scraper.llm.nvidia_client | KeyRotator: 429 rate-limit hit on key [0] — switching to key [1]
+2026-07-06 15:22:59 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:22:59 | INFO     | scheme_scraper.pipeline.report_generator |     -> [44.4s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3484 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:23:13 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:23:13 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.6s] Created COMPLIANCE_AND_LEGAL_PACK.md               (4886 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:23:13 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'SEBI Innovation Sandbox'
+2026-07-06 15:23:13 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:23:13 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-132-sidbi-make-in-india-soft-loan-fund-smile
+2026-07-06 15:23:17 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'SIDBI Make in India Soft Loan Fund (SMILE)': 30 pages, 18 PDFs, 167153 page chars, 127669 pdf chars
+2026-07-06 15:23:17 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 167153 page chars + 127669 pdf chars | key_facts: 4827 chars
+2026-07-06 15:23:17 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: SIDBI Make in India Soft Loan Fund (SMILE)
+2026-07-06 15:24:08 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:24:08 | INFO     | scheme_scraper.pipeline.report_generator |     -> [51.0s] Created report.md                                  (7287 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:24:27 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:24:27 | INFO     | scheme_scraper.pipeline.report_generator |     -> [18.9s] Created SCHEME_MASTER_DATABASE.md                  (3445 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:25:03 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:25:03 | INFO     | scheme_scraper.pipeline.report_generator |     -> [36.2s] Created PITCH_AND_SALES_SCRIPTS.md                 (6910 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:25:31 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:25:31 | INFO     | scheme_scraper.pipeline.report_generator |     -> [28.2s] Created APPLICATION_PLAYBOOK.md                    (9676 chars) | Application Playbook (5-stage execution guide)
+2026-07-06 15:25:49 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:25:49 | INFO     | scheme_scraper.pipeline.report_generator |     -> [17.8s] Created CLIENT_ONBOARDING_AND_CRM.md               (4018 chars) | Client Onboarding & CRM (intake form + pipeline)
+2026-07-06 15:26:03 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:26:03 | INFO     | scheme_scraper.pipeline.report_generator |     -> [14.5s] Created LIVE_CASE_TRACKER.md                       (3074 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 15:26:29 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:26:29 | INFO     | scheme_scraper.pipeline.report_generator |     -> [25.3s] Created FEE_AND_REVENUE_MODEL.md                   (4187 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 15:26:42 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:26:42 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.5s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3399 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 15:26:56 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:26:56 | INFO     | scheme_scraper.pipeline.report_generator |     -> [13.8s] Created COMPLIANCE_AND_LEGAL_PACK.md               (5218 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 15:26:56 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'SIDBI Make in India Soft Loan Fund (SMILE)'
+2026-07-06 15:26:56 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 15:26:56 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-133-nsic-bill-discounting-scheme
+2026-07-06 15:26:59 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'NSIC Bill Discounting Scheme': 30 pages, 20 PDFs, 163473 page chars, 114172 pdf chars
+2026-07-06 15:26:59 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 163473 page chars + 114172 pdf chars | key_facts: 4001 chars
+2026-07-06 15:26:59 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: NSIC Bill Discounting Scheme
+2026-07-06 15:27:21 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:27:21 | INFO     | scheme_scraper.pipeline.report_generator |     -> [21.8s] Created report.md                                  (7787 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 15:27:32 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:27:32 | INFO     | scheme_scraper.pipeline.report_generator |     -> [11.5s] Created SCHEME_MASTER_DATABASE.md                  (2512 chars) | Scheme Master DB entry (AI qualification brain)
+2026-07-06 15:28:07 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 15:28:07 | INFO     | scheme_scraper.pipeline.report_generator |     -> [34.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (6797 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
