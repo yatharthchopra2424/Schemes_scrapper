@@ -14273,3 +14273,5 @@ Stacktrace:
 2026-07-06 15:27:32 | INFO     | scheme_scraper.pipeline.report_generator |     -> [11.5s] Created SCHEME_MASTER_DATABASE.md                  (2512 chars) | Scheme Master DB entry (AI qualification brain)
 2026-07-06 15:28:07 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
 2026-07-06 15:28:07 | INFO     | scheme_scraper.pipeline.report_generator |     -> [34.1s] Created PITCH_AND_SALES_SCRIPTS.md                 (6797 chars) | Pitch & Sales Scripts (discovery call + objection handlers)
+2026-07-06 15:28:53 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 15:28:53 | INFO     | scheme_scraper.pipeline.report_generator |     -> [46.8s] Created APPLICATION_PLAYBOOK.md                    (12167 chars) | Application Playbook (5-stage execution guide)
