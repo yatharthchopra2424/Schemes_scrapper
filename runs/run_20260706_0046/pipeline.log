@@ -13620,3 +13620,19 @@ Stacktrace:
 2026-07-06 13:19:26 | INFO     | scheme_scraper.pipeline.report_generator |     -> [12.0s] Created CLIENT_ONBOARDING_AND_CRM.md               (4397 chars) | Client Onboarding & CRM (intake form + pipeline)
 2026-07-06 13:19:41 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
 2026-07-06 13:19:41 | INFO     | scheme_scraper.pipeline.report_generator |     -> [15.2s] Created LIVE_CASE_TRACKER.md                       (3541 chars) | Live Case Tracker (operations dashboard)
+2026-07-06 13:20:37 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 13:20:37 | INFO     | scheme_scraper.pipeline.report_generator |     -> [55.2s] Created FEE_AND_REVENUE_MODEL.md                   (4341 chars) | Fee & Revenue Model (pricing + projections)
+2026-07-06 13:20:53 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 13:20:53 | INFO     | scheme_scraper.pipeline.report_generator |     -> [16.2s] Created CLIENT_PROPOSAL_TEMPLATE.md                (3421 chars) | Client Proposal Template (ready-to-send)
+2026-07-06 13:21:07 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator |     -> [14.2s] Created COMPLIANCE_AND_LEGAL_PACK.md               (2698 chars) | Compliance & Legal Pack (NDAs, disclaimers, data policy)
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator |   ✓ All 9 documents generated for 'NSIC Credit Support Scheme'
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator | ────────────────────────────────────────────────────────────
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator |   Processing scheme dir: row-110-karnataka-startup-policy
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.evidence_synthesizer | Evidence synthesized for 'Karnataka Startup Policy': 1 pages, 0 PDFs, 0 page chars, 0 pdf chars
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator |   Evidence: 0 page chars + 0 pdf chars | key_facts: 4506 chars
+2026-07-06 13:21:07 | INFO     | scheme_scraper.pipeline.report_generator |   Generating 9 business documents for: Karnataka Startup Policy
+2026-07-06 13:21:55 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (next request after success)
+2026-07-06 13:21:55 | INFO     | scheme_scraper.pipeline.report_generator |     -> [47.7s] Created report.md                                  (9547 chars) | Comprehensive Scheme Report & File Index
+2026-07-06 13:22:07 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 13:22:07 | INFO     | scheme_scraper.pipeline.report_generator |     -> [12.1s] Created SCHEME_MASTER_DATABASE.md                  (4085 chars) | Scheme Master DB entry (AI qualification brain)
