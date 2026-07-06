@@ -15850,3 +15850,5 @@ Stacktrace:
 2026-07-06 21:16:17 | INFO     | scheme_scraper.pipeline.report_generator |     -> [34.9s] Created FEE_AND_REVENUE_MODEL.md                   (3948 chars) | Fee & Revenue Model (pricing + projections)
 2026-07-06 21:21:19 | WARNING  | scheme_scraper.llm.nvidia_client | LLM key[0]: server error 504 — rotating key and retrying
 2026-07-06 21:21:19 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [1] (5xx error 504)
+2026-07-06 21:21:27 | INFO     | scheme_scraper.llm.nvidia_client | KeyRotator: rotated to key [0] (next request after success)
+2026-07-06 21:21:27 | INFO     | scheme_scraper.pipeline.report_generator |     -> [310.7s] Created CLIENT_PROPOSAL_TEMPLATE.md                (2961 chars) | Client Proposal Template (ready-to-send)
