@@ -1,0 +1,86 @@
+# Client Onboarding & CRM
+
+## New Client Intake Form
+
+**Date:** [DATE]
+**Assigned consultant:** [TO BE FILLED BY CONSULTANT]
+**Lead source:** [Referral / Website / Cold call / Partner]
+
+### Business Details
+(Standard fields: Legal name, Trading name, Registration type, CIN/LLPIN, Date of incorporation,
+Registered address, Operational address, Website)
+
+### Promoter / Director Details
+| Name | Role | % Shareholding | PAN | Mobile | Email |
+|---|---|---|---|---|---|
+| | | | | | |
+
+### Business Profile
+(Standard fields: Industry/sector, NIC code, Primary products/services, Current annual turnover, No. of employees, Existing registrations)
+
+Note which registrations are specifically required for this scheme based on evidence.
+
+### Needs Assessment
+- What outcome are you seeking? (tick all that apply — list options relevant to THIS scheme's benefit type)
+  - Capital Investment Subsidy (up to Rs.1 crore for general enterprises, higher for SC/ST/women)
+  - Seed Capital Assistance (up to Rs.10 lakh)
+  - Project Report Subsidy (50% of cost, max Rs.25,000)
+  - Reimbursement of Audit Cost for Water Conservation (50% of cost, max Rs.10,000)
+  - Assistance for raising capital through SME Exchange (50% of listing expenses, max Rs.2 lakh)
+  - Trade Mark Assistance (50% of fees for domestic registration, max Rs.10,000; 50% for international, max Rs.50,000)
+  - Reimbursement of Training Expenditure (50% of cost, max Rs.5,000 per person)
+  - Awards to MSME Enterprises/Entrepreneurs (cash prizes up to Rs.1 lakh)
+- Investment planned in next 12 months:
+- Any pending government applications? Details:
+- Any past rejected applications? What scheme and why:
+
+### Compliance Status
+(Table of documents — include ALL documents required by this scheme from evidence.
+Mark which are critical vs. optional.)
+
+| Document | Available? | Year/Period | Notes |
+|---|---|---|---|
+| Udyam Registration Certificate | | | Critical |
+| Project Report | | | Critical |
+| Quotations for Plant & Machinery | | | Critical |
+| Bank Sanction Letter for Loan (if applicable) | | | Critical |
+| Proof of Payment for Capital Investment | | | Critical |
+| Certificate of Commencement of Production | | | Critical |
+| Partnership Deed / Certificate of Incorporation | | | Critical |
+| PAN Card of the Enterprise | | | Critical |
+| Aadhaar of Proprietor/Partner/Director | | | Critical |
+| Factory License / Trade License | | | Critical |
+| Site Plan / Layout Plan | | | Critical |
+| Pollution Clearance Certificate (if applicable) | | | Optional |
+| Caste Certificate (for SC/ST beneficiaries) | | | Optional |
+| Gender Certificate (for women beneficiaries) | | | Optional |
+
+### Engagement Terms
+- Retainer fee: [TO BE FILLED BY CONSULTANT]
+- Success fee: [TO BE FILLED BY CONSULTANT]
+- Target schemes: MSME Development Policy Odisha
+- Engagement start date:
+- Expected application date: (note deadlines from evidence)
+
+### Communication Preferences
+(Standard — primary contact, preferred channel, update frequency)
+
+---
+
+## CRM Stage Pipeline
+
+(Standard 10-stage pipeline — Lead through Disbursed/Rejected.
+Add a scheme-specific note at the "In preparation" stage about this scheme's DPR/portal requirements.)
+
+| Stage | Description | Action |
+|---|---|---|
+| 01 - Lead | Initial contact made | Schedule discovery call |
+| 02 - Qualified | Eligibility confirmed for MSME Development Policy Odisha | Send proposal |
+| 03 - Engaged | Retainer signed | Start onboarding |
+| 04 - Docs collection | Gathering documents | Chase missing items |
+| 05 - In preparation | Drafting application on https://msme.odisha.gov.in | Internal review |
+| 06 - Submitted | Application filed on https://msme.odisha.gov.in | Begin follow-up |
+| 07 - Under review | With Micro, Small & Medium Enterprises Department, Government of Odisha | Monitor + respond to queries |
+| 08 - Approved | Sanction letter received | Invoice success fee |
+| 09 - Disbursed | Money received by client | Close case, request testimonial |
+| 10 - Rejected | Application declined | Analyze, re-apply or alternate scheme |

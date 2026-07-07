@@ -1,0 +1,79 @@
+# Client Onboarding & CRM
+
+## New Client Intake Form
+
+**Date:** [DATE]
+**Assigned consultant:** [TO BE FILLED BY CONSULTANT]
+**Lead source:** [Referral / Website / Cold call / Partner]
+
+### Business Details
+(Standard fields: Legal name, Trading name, Registration type, CIN/LLPIN, Date of incorporation,
+Registered address, Operational address, Website)
+
+### Promoter / Director Details
+| Name | Role | % Shareholding | PAN | Mobile | Email |
+|---|---|---|---|---|---|
+| | | | | | |
+
+### Business Profile
+(Standard fields: Industry/sector, NIC code, Primary products/services, Current annual turnover, No. of employees, Existing registrations)
+
+Note which registrations are specifically required for this scheme based on evidence.
+- MSME Registration (only for MSME companies)
+- Registration under Companies Act (only for companies)
+- Registration under Labour Act/ EPF Act
+
+### Needs Assessment
+- What outcome are you seeking? (tick all that apply — list options relevant to THIS scheme's benefit type)
+  - Loan up to 90% of project cost
+  - 3% interest subvention
+  - Credit guarantee cover up to 25% of loan amount (for MSME units)
+  - Credit guarantee cover up to 85% for loan amount up to Rs. 2.0 crore (from CGTMSE for micro and small enterprises)
+- Investment planned in next 12 months:
+- Any pending government applications? Details:
+- Any past rejected applications? What scheme and why:
+
+### Compliance Status
+(Table of documents — include ALL documents required by this scheme from evidence.
+Mark which are critical vs. optional.)
+
+| Document | Available? | Year/Period | Notes |
+|---|---|---|---|
+| Detailed Project Report (DPR) including component wise cost break up, total cost, recurring cost, net income etc. and viability of project | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| Supporting documents [Proof of Address, Copy of PAN/TIN /Aadhaar card, MSME certificate (if applicable), proof of land holding (ownership or lease, conversion), education certificate, photocopies of training certificate, income proof, bank statement for last six months relevant for the project] | [TO BE FILLED BY CONSULTANT] | Last 6 months | Critical |
+| Change of Land use | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| Site Plan of the project | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| List of Machinery and Equipment | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| Layout plan (both Civil and Machinery) of the processing facility certified by the registered architect | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| All Statutory clearances like Clearances from the Local administration, Trade Licenses, Consent of Establishment, Consent to Operate from State Pollution Control Board, FSSAI License required for the project | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+| Roadmap to ensure the Quality management of the product, product promotion and market development | [TO BE FILLED BY CONSULTANT] | Current | Critical |
+
+### Engagement Terms
+- Retainer fee: [TO BE FILLED BY CONSULTANT]
+- Success fee: [TO BE FILLED BY CONSULTANT]
+- Target schemes: Animal Husbandry Infrastructure Development Fund (AHIDF)
+- Engagement start date:
+- Expected application date: (note deadlines from evidence) Rolling basis
+
+### Communication Preferences
+(Standard — primary contact, preferred channel, update frequency)
+
+---
+
+## CRM Stage Pipeline
+
+(Standard 10-stage pipeline — Lead through Disbursed/Rejected.
+Add a scheme-specific note at the "In preparation" stage about this scheme's DPR/portal requirements.)
+
+| Stage | Description | Action |
+|---|---|---|
+| 01 - Lead | Initial contact made | Schedule discovery call |
+| 02 - Qualified | Eligibility confirmed for Animal Husbandry Infrastructure Development Fund (AHIDF) | Send proposal |
+| 03 - Engaged | Retainer signed | Start onboarding |
+| 04 - Docs collection | Gathering documents | Chase missing items |
+| 05 - In preparation | Drafting application on https://ahidf.udyamimitra.in/ | Internal review |
+| 06 - Submitted | Application filed on https://ahidf.udyamimitra.in/ | Begin follow-up |
+| 07 - Under review | With Department of Animal Husbandry and Dairying, Ministry of Fisheries, Animal Husbandry and Dairying | Monitor + respond to queries |
+| 08 - Approved | Sanction letter received | Invoice success fee |
+| 09 - Disbursed | Money received by client | Close case, request testimonial |
+| 10 - Rejected | Application declined | Analyze, re-apply or alternate scheme |
